@@ -1,0 +1,4 @@
+feedparser
+PyRSS2Gen
+requests
+pandas

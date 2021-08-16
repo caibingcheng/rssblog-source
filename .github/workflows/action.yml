@@ -1,0 +1,75 @@
+name: rssblog source
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0,12,18 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['pypy-3.6']
+    steps:
+      - name: Pull source
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+          ref: master
+      - name: Pull public
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+          ref: public
+          path: ./public
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ matrix.python-version }}
+          architecture: x64
+      - name: Install pip
+        run: pip install -r requirements.txt
+      - name: Build source
+        run: python action.py
+      - name: Upload public
+        uses: actions/upload-artifact@v2
+        with:
+          name: public
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull public
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+          ref: public
+      - name: Clean public
+        run: |
+          rm -fr ./*
+      - name: Download public
+        uses: actions/download-artifact@v2
+        with:
+          name: public
+          path: .
+      - name: Check download
+        shell: bash
+        run: |
+          ls -lh ./
+      - name: Commit files
+        run: |
+          git config --local user.email "caibingcheng@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "update changes"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: public
+          force: true
