@@ -35,6 +35,9 @@ def fetch():
         rss_list = []
         try:
             rss_list = json.loads(requests.get(link).text)
+            for r in rss_list:
+                r["link"] = r["link"].strip("/")
+                r["author"] = r["author"].strip(" ")
         except:
             pass
         rss = rss + rss_list
