@@ -9,7 +9,7 @@ import pandas
 import hashlib
 import math
 
-SPLIT = 10
+SPLIT = 50
 URL = {}
 
 
