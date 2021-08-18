@@ -1,0 +1,24 @@
+title,author,link,home,rss,date,timestamp
+利用Github的WebHook完成自动部署,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_06_19-use_github_webhooks.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-19,1466294400.0
+使用Tornado和rst来写博客,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_06_18-write_blog_with_tornado_and_rst.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-18,1466208000.0
+Haskell do notation,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_06_05-haskell_do_notation.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-05,1465084800.0
+foldl 和 foldr 的变换,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_22-foldl_and_foldr.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-22,1463875200.0
+Haskell TypeClass 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_05-typeclassopedia.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-05,1462406400.0
+重新捡起你那吃灰的树莓派,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_04_03-raspberrypi.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-04-03,1459641600.0
+Tornado 源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_14-tornado.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-14,1457913600.0
+JavaScript权威指南笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_06-notes_on_js_the_definitive_guide.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-06,1457222400.0
+Python零碎知识汇总,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_05-python_fragmentary_knowledge.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-05,1457136000.0
+C语言的位操作,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_02_06-bitwise_operation.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-02-06,1454716800.0
+分治,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_01_25-divide_and_conqure.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-01-25,1453680000.0
+关于python的decorator和descriptor,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_12_05-python_descriptor_and_decorator.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-12-05,1449273600.0
+程序设计实践笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_10_09-notes_on_the_practice_of_programming.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-10-09,1444348800.0
+Thinking Recursively,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_09_05-thinking_recursively.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-09-05,1441411200.0
+Block I/O,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_06_22-notes_on_linux_kernel_development_chap14.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-06-22,1434931200.0
+如何解读c的声明,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_03_17-declaration_of_c_pointers.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-03-17,1426550400.0
+关于输入法的猜想,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_01_11-my_guess_about_input_method.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-01-11,1420934400.0
+C语言与抽象思维,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_12_12-abstractions_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-12-12,1418342400.0
+C注意事项,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_11_04-traps_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-11-04,1415059200.0
+C语言中点操作符(.)和箭头操作符(->)的不同之处,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_09_09-dot_and_arrow_in_c_pointers.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-09,1410220800.0
+征服C指针笔记 - 数组和指针的微妙关系,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_09_07-pointer_and_array_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-07,1410048000.0
+关于文件权限的摘记,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_08_22-unix_file_permissions.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-08-22,1408665600.0
+用crontab完成自动化,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_06_17-use_cron.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-06-17,1402963200.0
