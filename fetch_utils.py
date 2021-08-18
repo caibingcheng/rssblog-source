@@ -33,10 +33,15 @@ def fetch_source(rss_fetch_source_dir, rss):
                 "timestamp": time.mktime(et["published_parsed"]),
             } for et in rp["entries"]]
 
-            rss_dir = rss_fetch_source_dir + hash_url(r["link"]) + "/"
+            url_hash = hash_url(r["link"])
+            df = pandas.json_normalize(rss_link)
+            if len(df) <= 0:
+                print("fetching skip", r["link"], "to", url_hash,
+                    "size", len(rss_link), len(df))
+                continue
+            rss_dir = rss_fetch_source_dir + url_hash + "/"
             if not os.path.isdir(rss_dir):
                 os.makedirs(rss_dir)
-            df = pandas.json_normalize(rss_link)
             df.to_csv(rss_dir + "new.csv", index=False,
                       sep=",", encoding="utf-8")
         except:
@@ -56,7 +61,11 @@ def combin_source(rss_fetch_all_dir, rss_fetch_source_dir):
         source_file_path = rss_fetch_source_dir + file + "/new.csv"
         if not os.path.isfile(source_file_path):
             continue
-        dfs.append(pandas.read_csv(source_file_path, encoding="utf-8"))
+        try:
+            df = pandas.read_csv(source_file_path, encoding="utf-8")
+            dfs.append(df)
+        except:
+            print("combining skip", file)
     df = pandas.concat(dfs)
     df = df.sort_values("timestamp", ascending=False)
     df.to_csv(rss_fetch_all_dir + "new.csv",
@@ -107,12 +116,16 @@ def split_user(rss_fetch_user_dir, rss_user, rss_fetch_source_dir):
     for (user, user_rss) in rss_user.items():
         dfs = []
         for r in user_rss:
+            url_hash = hash_url(r["link"])
             # 每个源一定有一个source
-            ldf = pandas.read_csv(rss_fetch_source_dir +
-                                  hash_url(r["link"]) + "/new.csv", encoding="utf-8")
-            # 将author name修改为用户自定义的
-            ldf["author"] = r["author"]
-            dfs.append(ldf)
+            try:
+                ldf = pandas.read_csv(rss_fetch_source_dir +
+                                    url_hash + "/new.csv", encoding="utf-8")
+                # 将author name修改为用户自定义的
+                ldf["author"] = r["author"]
+                dfs.append(ldf)
+            except:
+                print("combin user skip", url_hash)
         df = pandas.concat(dfs)
         df = df.sort_values("timestamp", ascending=False)
         rss_dir = rss_fetch_user_dir + user + "/all/"
