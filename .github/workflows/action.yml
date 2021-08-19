@@ -86,3 +86,16 @@ jobs:
         shell: bash
         run: |
           curl -X POST ${{ secrets.VERCEL_TRIGGER }}
+
+  sync:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync Gitee
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: github/caibingcheng
+          dst: gitee/jerry323
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
+          static_list: "rssblog-source"
