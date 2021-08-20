@@ -95,7 +95,7 @@ jobs:
         uses: Yikun/hub-mirror-action@master
         with:
           src: github/caibingcheng
-          dst: gitee/jerry323
+          dst: gitee/caibingcheng
           force_update: true
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token: ${{ secrets.GITEE_TOKEN }}
