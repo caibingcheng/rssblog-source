@@ -7,6 +7,7 @@ import requests
 import feedparser
 import pandas
 import hashlib
+from io import BytesIO
 
 
 def hash_url(url):
@@ -22,7 +23,8 @@ def fetch_source(rss_fetch_source_dir, rss):
         os.makedirs(rss_fetch_source_dir)
     for r in rss:
         try:
-            rp = feedparser.parse(r["link"])
+            rp = feedparser.parse(
+                BytesIO(requests.get(r["link"], timeout=10.0).content))
             rss_link = [{
                 "title": et["title"].replace(",", "，"),
                 "author": r["author"],  # 如果源相同, 但是author名字不同, 这里就会使用最后一个
@@ -37,7 +39,7 @@ def fetch_source(rss_fetch_source_dir, rss):
             df = pandas.json_normalize(rss_link)
             if len(df) <= 0:
                 print("fetching skip", r["link"], "to", url_hash,
-                    "size", len(rss_link), len(df))
+                      "size", len(rss_link), len(df))
                 continue
             rss_dir = rss_fetch_source_dir + url_hash + "/"
             if not os.path.isdir(rss_dir):
@@ -120,7 +122,7 @@ def split_user(rss_fetch_user_dir, rss_user, rss_fetch_source_dir):
             # 每个源一定有一个source
             try:
                 ldf = pandas.read_csv(rss_fetch_source_dir +
-                                    url_hash + "/new.csv", encoding="utf-8")
+                                      url_hash + "/new.csv", encoding="utf-8")
                 # 将author name修改为用户自定义的
                 ldf["author"] = r["author"]
                 dfs.append(ldf)
