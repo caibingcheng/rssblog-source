@@ -1,6 +1,6 @@
 ## RSSBlog-Source
 
-本仓库作为[RSSBlog](https://github.com/caibingcheng/rssblog)的资源仓库, 负责rss数据的拉取与整理.
+本仓库作为[RSSBlog](https://github.com/caibingcheng/rssblog)的资源仓库, 负责rss数据的拉取与整理. 本站实例[rssblog.cn](https://rssblog.cn/).
 
 ## BRANCH
 
@@ -11,6 +11,10 @@
 ```
 SOURCE_BASE = "https://raw.githubusercontent.com/caibingcheng/rssblog-source/public/"
 ```
+国内可以使用gitee备份加速:
+```
+SOURCE_BASE = "https://gitee.com/caibingcheng/rssblog-source/raw/public/"
+```
 
 ## FEATURE LIST
 
@@ -19,7 +23,6 @@ SOURCE_BASE = "https://raw.githubusercontent.com/caibingcheng/rssblog-source/pub
 - 按照时间年月分类;
 - 按照用户分类;
 - 保留数据来源;
-
 
 ## TODOLIST
 
