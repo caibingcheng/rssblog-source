@@ -24,31 +24,32 @@ def fetch_source(rss_fetch_source_dir, rss):
     for r in rss:
         try:
             rp = feedparser.parse(
-                BytesIO(requests.get(r["link"], timeout=10.0).content))
-            rss_link = [{
-                "title": et["title"].replace(",", "，"),
-                "author": r["author"],  # 如果源相同, 但是author名字不同, 这里就会使用最后一个
-                "link": et["link"],
-                "home": rp["feed"]["link"],
-                "rss": r["link"],
-                "date": time.strftime("%Y-%m-%d", et["published_parsed"]),
-                "timestamp": time.mktime(et["published_parsed"]),
-            } for et in rp["entries"]]
-
-            url_hash = hash_url(r["link"])
-            df = pandas.json_normalize(rss_link)
-            if len(df) <= 0:
-                print("fetching skip", r["link"], "to", url_hash,
-                      "size", len(rss_link), len(df))
-                continue
-            rss_dir = rss_fetch_source_dir + url_hash + "/"
-            if not os.path.isdir(rss_dir):
-                os.makedirs(rss_dir)
-            df.to_csv(rss_dir + "new.csv", index=False,
-                      sep=",", encoding="utf-8")
+                BytesIO(requests.get(r, timeout=10.0).content))
         except:
-            print("parse", r["link"], "error")
-            pass
+            print("parse", r, "error")
+            continue
+        rss_link = [{
+            "title": et["title"].replace(",", "，"),
+            # 如果源相同, 但是author名字不同, 这里就会使用最后一个
+            "author": rp["feed"]["link"] if "title" not in rp["feed"].keys() else rp["feed"]["title"],
+            "link": et["link"],
+            "home": rp["feed"]["link"],
+            "rss": r,
+            "date": time.strftime("%Y-%m-%d", et["published_parsed"]),
+            "timestamp": time.mktime(et["published_parsed"]),
+        } for et in rp["entries"]]
+
+        url_hash = hash_url(r)
+        df = pandas.json_normalize(rss_link)
+        if len(df) <= 0:
+            print("fetching skip", r, "to", url_hash,
+                  "size", len(rss_link), len(df))
+            continue
+        rss_dir = rss_fetch_source_dir + url_hash + "/"
+        if not os.path.isdir(rss_dir):
+            os.makedirs(rss_dir)
+        df.to_csv(rss_dir + "new.csv", index=False,
+                  sep=",", encoding="utf-8")
     print("fetch new rss done")
 
 
@@ -118,13 +119,11 @@ def split_user(rss_fetch_user_dir, rss_user, rss_fetch_source_dir):
     for (user, user_rss) in rss_user.items():
         dfs = []
         for r in user_rss:
-            url_hash = hash_url(r["link"])
+            url_hash = hash_url(r)
             # 每个源一定有一个source
             try:
                 ldf = pandas.read_csv(rss_fetch_source_dir +
                                       url_hash + "/new.csv", encoding="utf-8")
-                # 将author name修改为用户自定义的
-                ldf["author"] = r["author"]
                 dfs.append(ldf)
             except:
                 print("combin user skip", url_hash)

@@ -8,10 +8,8 @@ import feedparser
 import pandas
 from fetch_utils import *
 
-fetch_list = {
-    "bbing": "https://gist.githubusercontent.com/caibingcheng/adf8f300dc50a61a965bdcc6ef0aecb3/raw/friends.json",
-    "addition": "https://gist.githubusercontent.com/caibingcheng/adf8f300dc50a61a965bdcc6ef0aecb3/raw/addition.json"
-}
+fetch_list_source = "https://gist.githubusercontent.com/caibingcheng/adf8f300dc50a61a965bdcc6ef0aecb3/raw/rssblog-source-list.json"
+fetch_list = json.loads(requests.get(fetch_list_source).text)
 
 # 所有的rss源
 rss = []
@@ -36,15 +34,15 @@ def fetch():
         try:
             rss_list = json.loads(requests.get(link).text)
             for r in rss_list:
-                r["link"] = r["link"].strip("/")
-                r["author"] = r["author"].strip(" ")
+                r = r.strip("/")
+                print(r)
         except:
             pass
         rss = rss + rss_list
         rss_user[key] = rss_list
 
     # 所有源根据url去重
-    rss = list({r["link"]: r for r in rss}.values())
+    rss = list({r: r for r in rss}.values())
     # 个人源不去重, 依赖于个人维护
 
     fetch_source(rss_fetch_source_dir, rss)
