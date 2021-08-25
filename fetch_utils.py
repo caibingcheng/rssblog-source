@@ -28,6 +28,8 @@ def fetch_source(rss_fetch_source_dir, rss):
         except:
             print("parse", r, "error")
             continue
+
+        print("parse", r)
         rss_link = [{
             "title": et["title"].replace(",", "，"),
             # 如果源相同, 但是author名字不同, 这里就会使用最后一个
@@ -35,8 +37,8 @@ def fetch_source(rss_fetch_source_dir, rss):
             "link": et["link"],
             "home": rp["feed"]["link"],
             "rss": r,
-            "date": time.strftime("%Y-%m-%d", et["published_parsed"]),
-            "timestamp": time.mktime(et["published_parsed"]),
+            "date": time.strftime("%Y-%m-%d", et["published_parsed" if "published_parsed" in et.keys() else "updated_parsed"]),
+            "timestamp": time.mktime(et["published_parsed" if "published_parsed" in et.keys() else "updated_parsed"]),
         } for et in rp["entries"]]
 
         url_hash = hash_url(r)
