@@ -8,6 +8,8 @@ import feedparser
 import pandas
 import hashlib
 import math
+import datetime
+import PyRSS2Gen
 
 SPLIT = 50
 URL = {}
@@ -44,6 +46,26 @@ def merge(out, fetch):
     return batch_num
 
 
+def generator_rss(rss_out, rss_in):
+    batch_file = rss_in + '1.csv'
+    df = pandas.read_csv(batch_file, encoding="utf-8")
+    df_dict = json.loads(df.to_json(orient="records"))
+    rss = PyRSS2Gen.RSS2(
+        title="RSSBlog",
+        link="https://rssblog.cn/",
+        description="A Site for Blog RSS.",
+        lastBuildDate=datetime.datetime.now(),
+
+        items=[PyRSS2Gen.RSSItem(
+            title=r['title'],
+            link=r['link'],
+            author=r['author'],
+            pubDate=datetime.datetime.fromtimestamp(r['timestamp']),
+        ) for r in df_dict],
+    )
+    rss.write_xml(open(rss_out + "rss.xml", "w"))
+
+
 def merge_source(rss_out_source_dir, rss_fetch_source_dir, url=URL):
     print("merge source ...")
     url["source"] = []
@@ -70,6 +92,7 @@ def merge_all(rss_out_all_dir, rss_fetch_all_dir, url=URL):
     fetch = rss_fetch_all_dir
     out = rss_out_all_dir
     batch_num = merge(out, fetch)
+    generator_rss(out, out)
     url["all"] = batch_num
     print("merge all done")
 
