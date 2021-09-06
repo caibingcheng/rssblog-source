@@ -23,8 +23,8 @@ SOURCE_BASE = "https://gitee.com/caibingcheng/rssblog-source/raw/public/"
 - 按照时间年月分类;
 - 按照用户分类;
 - 保留数据来源;
+- 提供RSS订阅;
 
 ## TODOLIST
 
-- [ ] 提供RSS订阅
 - [ ] 保存博文原始数据
