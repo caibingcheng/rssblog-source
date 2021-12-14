@@ -1,8 +1,8 @@
-name: rssblog source
+name: rssblog source weekly backup
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 16,4,10 * * *'
+    - cron: '0 20 6 * *'
 
 jobs:
   build:
@@ -45,6 +45,8 @@ jobs:
         run: pip install -r requirements.txt
       - name: Build source
         run: python action.py
+      - name: Backup source
+        run: python action.py backup
       - name: Upload public
         uses: actions/upload-artifact@v2
         with:
