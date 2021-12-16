@@ -2,3 +2,5 @@ feedparser
 PyRSS2Gen
 requests
 pandas
+gevent
+grequests
