@@ -47,6 +47,10 @@ jobs:
         run: python action.py
       - name: Backup source
         run: python action.py backup
+      - name: Tar backup
+        run: |
+          tar -uf ./public/backup/backup.tar.gz ./public/backup/*.html
+          rm ./public/backup/*.html
       - name: Upload public
         uses: actions/upload-artifact@v2
         with:
