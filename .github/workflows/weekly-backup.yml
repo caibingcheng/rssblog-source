@@ -12,17 +12,34 @@ jobs:
         python-version: ['pypy-3.6']
     steps:
       - name: Pull source
+        if: ${{ github.ref == 'refs/heads/master' }}
         uses: actions/checkout@v2
         with:
           persist-credentials: false
           fetch-depth: 1
           ref: master
-      - name: Pull public
+      - name: Pull source dev
+        if: ${{ github.ref == 'refs/heads/dev' }}
         uses: actions/checkout@v2
         with:
           persist-credentials: false
           fetch-depth: 1
+          ref: dev
+      - name: Pull public
+        uses: actions/checkout@v2
+        if: ${{ github.ref == 'refs/heads/master' }}
+        with:
+          persist-credentials: false
+          fetch-depth: 1
           ref: public
+          path: ./public
+      - name: Pull public dev
+        uses: actions/checkout@v2
+        if: ${{ github.ref == 'refs/heads/dev' }}
+        with:
+          persist-credentials: false
+          fetch-depth: 1
+          ref: public-dev
           path: ./public
       - name: Check source
         shell: bash
@@ -63,10 +80,18 @@ jobs:
     steps:
       - name: Pull public
         uses: actions/checkout@v2
+        if: ${{ github.ref == 'refs/heads/master' }}
         with:
           persist-credentials: false
           fetch-depth: 1
           ref: public
+      - name: Pull public dev
+        uses: actions/checkout@v2
+        if: ${{ github.ref == 'refs/heads/dev' }}
+        with:
+          persist-credentials: false
+          fetch-depth: 1
+          ref: public-dev
       - name: Clean public
         run: |
           rm -fr ./*
@@ -84,7 +109,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add .
           git commit -m "daily update" --allow-empty
-      - name: Push changes mster
+      - name: Push changes
         if: ${{ github.ref == 'refs/heads/master' }}
         uses: ad-m/github-push-action@master
         with:
