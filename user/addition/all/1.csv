@@ -9,8 +9,6 @@ npm 存在的问题以及 pnpm 是怎么处理的,Yuexun's Blog,https://yuexunji
 一行 Object.keys() 引发的血案,4Ark × Blog,https://4ark.me/post/how-object-keys-work.html,https://4ark.me/,https://4ark.me/rss.xml,2021-12-06,1638748800.0
 聊聊部分公交车的设计bug,Nicksxs's Blog,https://nicksxs.me/2021/12/05/%E8%81%8A%E8%81%8A%E9%83%A8%E5%88%86%E5%85%AC%E4%BA%A4%E8%BD%A6%E7%9A%84%E8%AE%BE%E8%AE%A1bug/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-05,1638711438.0
 wordpress 忘记密码的一种解决方法,Nicksxs's Blog,https://nicksxs.me/2021/12/05/wordpress-%E5%BF%98%E8%AE%B0%E5%AF%86%E7%A0%81%E7%9A%84%E4%B8%80%E7%A7%8D%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-05,1638707458.0
-给自媒体新手的一些建议,冰哥笔记,https://www.bgbiji.com/840.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-12-03,1638502602.0
-谈谈生死,冰哥笔记,https://www.bgbiji.com/838.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-12-02,1638432651.0
 认真思考：钱多到根本花不完，真的快乐吗？,非理勿试,https://www.ntiy.com/1677.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-12-02,1638409641.0
 使用 OpenWRT 搭建软路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_12_01-openwrt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-01,1638316800.0
 【Linux系列】Telnet 命令使用和详解,框架师,https://www.mobaijun.com/posts/1235765571.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-11-29,1638152400.0
@@ -31,21 +29,23 @@ Kong 2.6 正式发布啦！,把酒诗代码，趁乱写年华。,https://102no.c
 假拼穷与真贫穷,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/poor-2021-09-15.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-11-13,1636817160.0
 学生是民族的希望,Frank笔记,https://frank2019.me/articles/2021/11/13/1636788716361.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-11-13,1636789407.0
 【工具系列】FastGithub--GitHub加速工具,框架师,https://www.mobaijun.com/posts/1095309802.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-11-11,1636611710.0
-谈谈最近的自己。,冰哥笔记,https://www.bgbiji.com/836.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-11-10,1636517474.0
 聊聊最近平淡的生活之又聊通勤,Nicksxs's Blog,https://nicksxs.me/2021/11/07/%E8%81%8A%E8%81%8A%E6%9C%80%E8%BF%91%E5%B9%B3%E6%B7%A1%E7%9A%84%E7%94%9F%E6%B4%BB/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-11-07,1636294038.0
 重新开始,Yuexun's Blog,https://yuexunjiang.me/blog/restart/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-11-05,1636070400.0
 SQL 防注入及原理,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_11_04-sql_injection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-11-04,1635984000.0
-分享一些阅读的好习惯,冰哥笔记,https://www.bgbiji.com/835.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-11-03,1635910099.0
 Leetcode 028 实现 strStr() ( Implement strStr() ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2021/10/31/Leetcode-028-%E5%AE%9E%E7%8E%B0-strStr-Implement-strStr-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-31,1635684225.0
 如何对现有产品进行产品改进,见字如面,https://hiwannz.com/archives/647,https://hiwannz.com,https://hiwannz.com/feed,2021-10-29,1635476263.0
 废话文学的“废话”和“文学”,非理勿试,https://www.ntiy.com/1665.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-10-25,1635149844.0
 看完了扫黑风暴，聊聊感想,Nicksxs's Blog,https://nicksxs.me/2021/10/24/%E7%9C%8B%E5%AE%8C%E4%BA%86%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4-%E8%81%8A%E8%81%8A%E6%84%9F%E6%83%B3/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-24,1635083956.0
 【工具系列】搭建Jrebel破解服务器,框架师,https://www.mobaijun.com/posts/841963446.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-20,1634719190.0
 再谈辍学,Randy's Blog,https://lutaonan.com/blog/talking-about-dropout-again/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-10-20,1634688000.0
-想要提高写作水平，离不开两件事：素材积累和刻意练习。,冰哥笔记,https://www.bgbiji.com/832.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-10-19,1634610203.0
 聊一下 RocketMQ 的消息存储四,Nicksxs's Blog,https://nicksxs.me/2021/10/17/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E6%B6%88%E6%81%AF%E5%AD%98%E5%82%A8%E5%9B%9B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-17,1634474494.0
 我为什么又更换了博客域名,近视眼逛博客,https://blog.dtz9.com/2021/10/Why-did-I-change-my-blog-domain-name-again.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-10-16,1634373720.0
-如何解决时间焦虑？,冰哥笔记,https://www.bgbiji.com/830.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-10-14,1634194155.0
 【转载】黄国平博士[致谢]完整版，人生失去动力的时候读一读,框架师,https://www.mobaijun.com/posts/294529322.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-14,1634181533.0
 别花费太多时间回答客户的问题,见字如面,https://hiwannz.com/archives/635,https://hiwannz.com,https://hiwannz.com/feed,2021-10-13,1634092884.0
 【DB系列】SpringBoot实现MySQL数据库备份与还原,框架师,https://www.mobaijun.com/posts/2334558877.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-12,1634023174.0
+使用 gomock 测试 Go 代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_10_12-go_mock.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-12,1633996800.0
+Git 仓库体积过大，缩减记录,框架师,https://www.mobaijun.com/posts/2432586935.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-11,1633917948.0
+gevent不是黑魔法(二): gevent 实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_10_11-gevent_is_good_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-11,1633910400.0
+重看了下《蛮荒记》说说感受,Nicksxs's Blog,https://nicksxs.me/2021/10/10/%E9%87%8D%E7%9C%8B%E4%BA%86%E4%B8%8B%E3%80%8A%E8%9B%AE%E8%8D%92%E8%AE%B0%E3%80%8B%E8%AF%B4%E8%AF%B4%E6%84%9F%E5%8F%97/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-10,1633869863.0
+Linux中的Free命令详解,框架师,https://www.mobaijun.com/posts/386444203.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-09,1633764874.0
+如果你要在节后快速找回工作状态，不妨试试这7个方法,冰哥笔记,https://www.bgbiji.com/829.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-10-08,1633680102.0
