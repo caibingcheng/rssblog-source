@@ -17,14 +17,13 @@ URL = {}
 
 def cut(out, df, batch):
     size = len(df)
-    start, end = 0, batch
-    batch_num = math.ceil(size / batch)
-    for idx in range(batch_num):
+    starts = [s for s in range(0, size, batch)]
+    for idx, start in enumerate(starts):
         batch_file = out + str(idx + 1) + '.csv'
-        end = size if end > size else end
-        df_batch = df[start: end]
-        start, end = start + batch, end + batch
+        df_batch = df[start: start + batch]
         df_batch.to_csv(batch_file, index=False, sep=",", encoding="utf-8")
+
+    batch_num = math.ceil(size / batch)
     return batch_num
 
 
@@ -33,7 +32,8 @@ def merge(out, fetch):
     dfs = [df]
     idx = 1
     while True:
-        batch_file = out + str(idx + 1) + '.csv'
+        # 为什么之前是idx + 1 ????
+        batch_file = out + str(idx) + '.csv'
         idx += 1
         if not os.path.isfile(batch_file):
             break
