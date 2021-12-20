@@ -31,7 +31,7 @@ def backup_key(url, timestamp):
 
 def get_backup_stats():
     backup_stats = pandas.DataFrame(
-        columns=['key', 'title', 'author', 'date', 'link', 'timestamp', 'path'])
+        columns=['key', 'title', 'author', 'home', 'rss', 'date', 'link', 'timestamp', 'path'])
     try:
         if os.path.exists(BACKUP_STATS):
             backup_stats = pandas.read_csv(BACKUP_STATS, encoding="utf-8")
@@ -96,7 +96,13 @@ def backup():
             break
 
         source = pandas.read_csv(source_path, encoding="utf-8")
-        for title, author, date, link, timestamp in zip(source['title'], source['author'], source['date'], source['link'], source['timestamp']):
+        for title, author, date, link, timestamp, home, rss in zip(source['title'],
+                                                                   source['author'],
+                                                                   source['date'],
+                                                                   source['link'],
+                                                                   source['timestamp'],
+                                                                   source['home'],
+                                                                   source['rss']):
             key = backup_key(link, timestamp)
             if not backup_stats['key'].isin([key]).any():
                 print("backup append", key)
@@ -106,6 +112,8 @@ def backup():
                     'author': author,
                     'date': date,
                     'link': link,
+                    'home': home,
+                    'rss': rss,
                     'timestamp': timestamp,
                     'path': "-",
                 }, ignore_index=True)
