@@ -63,7 +63,7 @@ jobs:
       - name: Build source
         run: python action.py
       - name: Fix source
-        run: python fixed.py
+        run: python fixed.py ${{ secrets.FIXED_TYPE }}
       - name: Upload public
         uses: actions/upload-artifact@v2
         with:
