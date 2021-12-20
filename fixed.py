@@ -1,7 +1,5 @@
-import os
+import os, sys
 import pandas, hashlib
-
-FIXED_TYPE = os.environ.get('FIXED_TYPE')
 
 
 def hash_url(url):
@@ -52,7 +50,9 @@ fix_map = {
     'source': fix_source
 }
 
-for ftype in FIXED_TYPE.split(','):
-    if ftype in fix_map.keys():
-        print("fixing type %s" % ftype)
-        fix_map[ftype]()
+if __name__ == "__main__":
+    args = sys.argv
+    for ftype in args[1].split(','):
+        if ftype in fix_map.keys():
+            print("fixing type %s" % ftype)
+            fix_map[ftype]()
