@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+explicit说明符,BBing's Blog,https://bbing.com.cn/202112/cpp-explicit/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-23,1640239412.0
 rssblog的数据源-rssblog-source,BBing's Blog,https://bbing.com.cn/202112/talk-rssblogsource/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-20,1639999051.0
 在 Linux 中使用 systemd timers 作为定时任务工具,无妄当自持,https://www.insidentally.com/articles/000022/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-12-20,1639965099.0
 Jsdelivr的证书错误带来了哪些影响？,LonelyGod,https://hin.cool/posts/jsddown.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-20,1639958400.0
@@ -48,4 +49,3 @@ Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/es-issues/,ht
 从希区柯克电影《深闺疑云》说起,LonelyGod,https://hin.cool/posts/suspicion.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-09-04,1630713600.0
 为什么看这么多“没用的”东西,BBing's Blog,https://bbing.com.cn/202109/whyread-useless-content/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-09-03,1630662642.0
 【技术分享】PE文件结构解析,城南以南花亦开,https://coonaa.cn/index.php/archives/184/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-09-02,1630552800.0
-吐槽一下腾讯,Thrower的博客,https://thrower.cc/2021/202108/,https://thrower.cc,https://thrower.cc/feed/,2021-08-30,1630336229.0
