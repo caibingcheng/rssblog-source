@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+在 Linux 中使用 systemd timers 作为定时任务工具,无妄当自持,https://www.insidentally.com/articles/000022/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-12-20,1639965099.0
 使用 systemd 控制您的计算机时间和日期,无妄当自持,https://www.insidentally.com/articles/000021/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-11-20,1637373099.0
 重庆戴家巷,无妄当自持,https://www.insidentally.com/articles/000020/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-11-11,1636613148.0
 使用 systemctl 命令管理 systemd 单元,无妄当自持,https://www.insidentally.com/articles/000019/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-11-06,1636242699.0
