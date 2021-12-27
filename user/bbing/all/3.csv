@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+C#调用CMD执行命令,Thrower的博客,https://thrower.cc/2021/csharpusecmd/,https://thrower.cc,https://thrower.cc/feed/,2021-06-01,1622523475.0
 Hexo系列(2.1) - NexT主题美化与博客功能增强 · 第二章,Yulin Lewis' Blog,https://lewky.cn/posts/hexo-2.1.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-05-29,1622302644.0
 Hugo系列(3.2) - LoveIt主题美化与博客功能增强 · 第三章,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-3.2.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-05-29,1622268676.0
 Hugo系列(3.1) - LoveIt主题美化与博客功能增强 · 第二章,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-3.1.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-05-29,1622265076.0
@@ -42,10 +43,9 @@ linux 开启 samba 服务共享文件,无妄当自持,https://www.insidentally.c
 Hugo系列(4) - 从Hexo迁移至Hugo以及使用LoveIt主题的踩坑记录,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-4.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-12,1602516495.0
 Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-3.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-11,1602393076.0
 Hugo系列(2) - 通过配置文件来定制个人站点,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-2.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-10,1602317338.0
-Hexo博客配置及源文件备份,qinxs小站,https://7bxing.com/posts/659688f7/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-19,1600519111.0
+【推荐】Hexo博客配置及源文件备份,qinxs小站,https://7bxing.com/posts/659688f7/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-19,1600519111.0
 「硬核JS」一次搞懂JS运行机制,qinxs小站,https://7bxing.com/posts/9c28944f/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-08,1599574555.0
 Hugo系列(1) - 简单搭建教程与远程部署,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-1.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-09-06,1599397847.0
 2016美国总统候选人辩论,qinxs小站,https://7bxing.com/posts/52bf0210/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-08-27,1598503361.0
 短网址生成,qinxs小站,https://7bxing.com/posts/991130e/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-07-12,1594532801.0
 VIDAA3/4系统工厂模式,qinxs小站,https://7bxing.com/posts/be2c6b79/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-07-05,1593957961.0
-Shell猜数字游戏,qinxs小站,https://7bxing.com/posts/3713cf69/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-06-06,1591449141.0
