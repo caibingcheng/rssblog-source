@@ -124,15 +124,15 @@ jobs:
           branch: public-dev
           force: true
 
-  trigger:
-    needs: deploy
-    if: ${{ github.ref == 'refs/heads/master' }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Trigger Vercel
-        shell: bash
-        run: |
-          curl -X POST ${{ secrets.VERCEL_TRIGGER }}
+  # trigger:
+  #   needs: deploy
+  #   if: ${{ github.ref == 'refs/heads/master' }}
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Trigger Vercel
+  #       shell: bash
+  #       run: |
+  #         curl -X POST ${{ secrets.VERCEL_TRIGGER }}
 
   sync:
     needs: deploy
