@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+你好，2021！,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_22-hello_2021.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-22,1608595200.0
 gRPC鉴权方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_19-grpc_authentication.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-19,1608336000.0
 Golang里数据库migration方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800.0
 Android SwipeRefreshLayout左右滑动冲突的解决,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_12-android_swiperefresh_swipe_left_right.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-12,1607731200.0
@@ -19,8 +20,8 @@ Linux常用命令(一)：netcat,Jiajun的编程随想,https://jiajunhuang.com/ar
 结合Flask 与 marshmallow快速进行参数校验,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_16-flask_marshmallow.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-16,1600214400.0
 规整数据的重要性,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_10-form_check.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-10,1599696000.0
 apt安装特定包以及忽略升级某个包,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_05-apt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-05,1599264000.0
-Goroutine是如何处理栈的？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
 StackGuard的作用,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-stackguard.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
+Goroutine是如何处理栈的？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
 Go DiskQueue源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-22,1598054400.0
 NSQ源码分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_16-nsq_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-16,1597536000.0
 NSQ简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_15-nsq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-15,1597449600.0
@@ -42,10 +43,9 @@ Linux使用redshift自动调整屏幕色温,Jiajun的编程随想,https://jiajun
 Go设计模式：桥接模式和策略模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_21-go_design_pattern_bridge.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-21,1592697600.0
 Go设计模式：单例模式、原型模式和Builder模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_20-go_design_pattern_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-20,1592611200.0
 操作系统也是CRUD,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_15-unix_crud.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-15,1592179200.0
-把USB设备穿透给虚拟机里的系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_13-macos_kvm_usb_pass.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
 Go设计模式：简单工厂模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_13-go_design_pattern_factory.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
+把USB设备穿透给虚拟机里的系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_13-macos_kvm_usb_pass.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
 debug故事之：事务让生活更美好,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_12-transaction_life_easy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-12,1591920000.0
 Go设计模式：模板模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_11-go_design_pattern_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-11,1591833600.0
 Go设计模式：适配器模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_09-go_design_pattern_adapter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-09,1591660800.0
 Go设计模式：Iterator,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_07-go_design_pattern_iter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-07,1591488000.0
-glusterfs 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_30-glusterfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-30,1590796800.0
