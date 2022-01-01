@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Golang和Thrift,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_10-golang_thrift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-10,1523318400.0
 折腾Kubernetes,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_05-kubernetes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-05,1522886400.0
 协程(coroutine)简介 - 什么是协程？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_03-coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-03,1522713600.0
 goroutine 切换的时候发生了什么？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_29-goroutine_schedule.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-29,1522281600.0
@@ -10,8 +11,8 @@ Golang(Go语言)中实现典型的fork调用,Jiajun的编程随想,https://jiaju
 软件开发之禅---大事化小，各个击破,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_26-zen_of_dev.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-26,1519603200.0
 程序员的自我修养：链接，装载与库 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_25-linker_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-25,1519516800.0
 Redis源码阅读与分析三：哈希表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_hash_table.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
-Redis源码阅读与分析二：双链表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_doubly_linked_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
 Redis源码阅读与分析一：sds,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_sds.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
+Redis源码阅读与分析二：双链表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_doubly_linked_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
 Golang runtime 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_02-golang_runtime.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-02,1517529600.0
 Golang的一些坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_31-golang_traps.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-31,1517356800.0
 GC 垃圾回收,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_30-gc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-30,1517270400.0
@@ -42,10 +43,9 @@ Web开发简介系列,Jiajun的编程随想,https://jiajunhuang.com/articles/201
 Nginx作为TCP/UDP的负载均衡,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-nginx_as_tcp_load_balancing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发系列(十)：事务和锁,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发系列(八)：单点故障，负载均衡,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
-Web开发系列(七)：缓存，CDN,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(六)：关系型数据库，ORM,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Nginx 请求匹配规则,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-nginx_request_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
+Web开发系列(七)：缓存，CDN,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(五)：form， json， xml,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_17-web_dev_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-17,1508198400.0
 Web开发系列(四)：Flask， Tornado和WSGI,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_16-web_dev_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-16,1508112000.0
 Web开发系列(三)：什么是HTML，CSS，JS？,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_15-web_dev_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-15,1508025600.0
-佐渡與阿賀町記,Just lepture,https://lepture.com/zh/2017/sado-and-ago,https://lepture.com/,https://lepture.com/feed.xml,2017-10-14,1507984443.0
