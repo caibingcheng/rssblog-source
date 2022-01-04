@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Jackson问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/jackson-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-04,1641311142.0
 PicGo插件：上传图片到多吉云存储,LonelyGod,https://hin.cool/posts/picgoplugin.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-01-02,1641081600.0
 比zerotier更好的内网穿透方案——Tailscale,LonelyGod,https://hin.cool/posts/tailscale.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-31,1640908800.0
 智能指针三剑客源码阅读,BBing's Blog,https://bbing.com.cn/202112/stl-smartpointers/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-29,1640763783.0
@@ -48,4 +49,3 @@ Spring Data MongoDB问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-
 腾讯云个人站点扶持计划——Webify,LonelyGod,https://hin.cool/posts/webify.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-09-16,1631750400.0
 用C#打造支持众多协议的爆破工具（WinForm）,Thrower的博客,https://thrower.cc/2021/superbuster/,https://thrower.cc,https://thrower.cc/feed/,2021-09-11,1631327007.0
 Hugo搜索工具hugo-algolia2,BBing's Blog,https://bbing.com.cn/202109/hugo-algolia2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-09-10,1631280721.0
-日志框架与门面模式,Yulin Lewis' Blog,https://lewky.cn/posts/log-framework/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-09,1631202242.0
