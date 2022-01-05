@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+算法导论阅读笔记 --- 排序算法,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_02-algorithms_sorting.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-02,1512172800.0
+短链系统的实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_29-short_url.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
 Git HTTPS 如何保存密码,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_29-git_credential_store.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
 程序员修炼之道 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_13-the_programmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-13,1510531200.0
 Python开发实践经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_04-python_develop_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-04,1509753600.0
@@ -47,5 +49,3 @@ TCP/IP简明教程 - 从零构建TCP/IP协议（这次叫PCT协议）,Jiajun的�
 Lua Manual 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_08_09-lua_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-08-09,1502236800.0
 A semantic BEM style,Just lepture,https://lepture.com/en/2017/semantic-bem-style,https://lepture.com/,https://lepture.com/feed.xml,2017-07-28,1501210605.0
 Golang Map 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_27-golang_map.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-27,1501113600.0
-MySQL 零碎知识 - MySQL必知必会,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_26-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-26,1501027200.0
-万恶的BOM：ï»¿ 与 \ufeff,Yuexun's Blog,https://yuexunjiang.me/blog/the-evil-of-the-BOM-ufeff-and-i%C2%BB%C2%BF/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-07-24,1500854400.0
