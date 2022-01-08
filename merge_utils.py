@@ -27,7 +27,7 @@ def cut(out, df, batch):
     return batch_num
 
 
-def merge(out, fetch):
+def merge(out, fetch, dupset=["link"]):
     df = pandas.read_csv(fetch + "new.csv", encoding="utf-8")
     dfs = [df]
     idx = 1
@@ -40,8 +40,10 @@ def merge(out, fetch):
         df_batch = pandas.read_csv(batch_file, encoding="utf-8")
         dfs.append(df_batch)
     df = pandas.concat(dfs)
-    df = df.drop_duplicates(subset=["link"], keep="first")
+    # 先排序
     df = df.sort_values(by="timestamp", ascending=False)
+    # 再去重，保证去重保留的是最新的，当dupset=["home"]时需要这样考虑
+    df = df.drop_duplicates(subset=dupset, keep="first")
     batch_num = cut(out, df, SPLIT)
     return batch_num
 
@@ -104,7 +106,7 @@ def merge_member(rss_out_member_dir, rss_fetch_member_dir, url=URL):
         os.makedirs(rss_out_member_dir)
     fetch = rss_fetch_member_dir
     out = rss_out_member_dir
-    batch_num = merge(out, fetch)
+    batch_num = merge(out, fetch, dupset=["home"])
     url["member"] = batch_num
     print("merge member done")
 
