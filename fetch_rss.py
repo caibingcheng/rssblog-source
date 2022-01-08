@@ -8,8 +8,9 @@ import feedparser
 import pandas
 from fetch_utils import *
 
+requests.packages.urllib3.disable_warnings()
 fetch_list_source = "https://gist.githubusercontent.com/caibingcheng/adf8f300dc50a61a965bdcc6ef0aecb3/raw/rssblog-source-list.json"
-fetch_list = json.loads(requests.get(fetch_list_source).text)
+fetch_list = json.loads(requests.get(fetch_list_source, verify=False).text)
 
 # 所有的rss源
 rss = []
@@ -32,7 +33,7 @@ def fetch():
     for (key, link) in fetch_list.items():
         rss_list = []
         try:
-            rss_list = json.loads(requests.get(link).text)
+            rss_list = json.loads(requests.get(link, verify=False).text)
             for r in rss_list:
                 r = r.strip("/")
                 print(r)
