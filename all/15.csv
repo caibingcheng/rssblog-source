@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Hexo 博客 | 链接分享卡片生成配置,ChrAlpha,https://blog.ichr.me/post/hexo-generate-link-sharing-card/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-05,1583423588.0
 教你如何从零开始搭建一个属于自己的网站,云游君的小站,https://www.yunyoujun.cn/share/how-to-build-your-site/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-04,1583343068.0
 pip freeze是魔鬼,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_04-pip_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-04,1583280000.0
 一个feed流系统的演进,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_02-feed_system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-02,1583107200.0
@@ -48,4 +49,3 @@ ArchLinux忽略某个包的升级,Jiajun的编程随想,https://jiajunhuang.com/
 How to style RSS feed,Just lepture,https://lepture.com/en/2019/rss-style-with-xsl,https://lepture.com/,https://lepture.com/feed.xml,2019-12-21,1576916648.0
 SQLAlchemy使用主从与数据库autocommit,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_21-autocommit.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-21,1576886400.0
 Blackbox禁用IPv6,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_19-blackbox_disable_ipv6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-19,1576713600.0
-Go 1.13的errors挺香,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_18-golang_133_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0

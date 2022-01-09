@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+来电拦截方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_23-call_screening.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-23,1608681600.0
 你好，2021！,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_22-hello_2021.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-22,1608595200.0
 常用Git相关命令行,沐云湘夕,https://quest.myxxts.club/archives/28/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608441060.0
 必应每日壁纸（刷新更换）,沐云湘夕,https://quest.myxxts.club/archives/25/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608440340.0
@@ -23,8 +24,8 @@ Java collection的结构,Jiajun的编程随想,https://jiajunhuang.com/articles/
 十月总结,4Ark × Blog,https://4ark.me/post/edb9a744.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-03,1604440173.0
 为啥Redis使用pipelining会更快？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
 Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
-回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
 回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
+回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
 通过阳台种菜实现蔬菜自由,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
 从GORM里学习到的panic处理方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
 写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
@@ -48,4 +49,3 @@ Linux常用命令(二)：htop,Jiajun的编程随想,https://jiajunhuang.com/arti
 Linux常用命令(三)：watch,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
 升级 IOS 14 的一些坑,4Ark × Blog,https://4ark.me/post/7b1778ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-09-19,1600529843.0
 Linux常用命令(一)：netcat,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600.0
-装修脑壳痛：家庭万兆光纤网络、智能家居,罗磊的独立博客,https://luolei.org/apartment-log-book-network/,https://luolei.org,https://luolei.org/feed/,2020-09-18,1600428621.0
