@@ -30,9 +30,9 @@ Gin源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/
 Golang(Go语言)中实现典型的fork调用,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_08-golang_fork.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-08,1520467200.0
 软件开发之禅---大事化小，各个击破,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_26-zen_of_dev.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-26,1519603200.0
 程序员的自我修养：链接，装载与库 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_25-linker_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-25,1519516800.0
+Redis源码阅读与分析二：双链表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_doubly_linked_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
 Redis源码阅读与分析三：哈希表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_hash_table.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
 Redis源码阅读与分析一：sds,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_sds.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
-Redis源码阅读与分析二：双链表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_doubly_linked_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
 Golang runtime 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_02-golang_runtime.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-02,1517529600.0
 Golang的一些坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_31-golang_traps.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-31,1517356800.0
 GC 垃圾回收,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_30-gc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-30,1517270400.0
