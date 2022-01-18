@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Rust 学习资源,萤火之森,http://frankorz.com/2022/01/18/rust-study-resource/,http://frankorz.com/,https://frankorz.com/atom.xml,2022-01-18,1642514504.0
+读《如何成为更聪明的人》，我重新思考了我的思考,冰哥笔记,https://www.bgbiji.com/850.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-01-18,1642491597.0
 Kong 2.7 已经准备就绪！,把酒诗代码，趁乱写年华。,https://102no.com/2022/01/18/kong-2.7/,https://102no.com/,https://102no.com/atom.xml,2022-01-17,1642435200.0
 搬运两个 StackOverflow 上的 Mysql 编码相关的问题解答,Nicksxs's Blog,https://nicksxs.me/2022/01/16/%E6%90%AC%E8%BF%90%E4%B8%A4%E4%B8%AA-StackOverflow-%E4%B8%8A%E7%9A%84-Mysql-%E7%BC%96%E7%A0%81%E7%9B%B8%E5%85%B3%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-01-16,1642337551.0
 飞 鸟,LonelyGod,https://hin.cool/posts/feiniao.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-01-16,1642291200.0
@@ -6,7 +8,6 @@ Kong 2.7 已经准备就绪！,把酒诗代码，趁乱写年华。,https://102n
 Spring Data Redis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-data-redis/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-13,1642086642.0
 好久不见，又是新年,见字如面,https://hiwannz.com/archives/672,https://hiwannz.com,https://hiwannz.com/feed,2022-01-11,1641874158.0
 使用反射(reflect)对结构体赋值,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_01_10-reflect_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-10,1641772800.0
-谈谈碎片化时间,冰哥笔记,https://www.bgbiji.com/844.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-01-08,1641619488.0
 【Mybatis系列】Mybatis入门,框架师,https://www.mobaijun.com/posts/2794875020.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-07,1641539424.0
 2021 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2021-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2022-01-03,1641168000.0
 2021 – 2022,非理勿试,https://www.ntiy.com/1681.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-12-31,1640937263.0
@@ -24,6 +25,5 @@ Story Pts Vs Man Days,Teobler - 失眠多梦，bug体质,https://teobler.com/pos
 再谈辍学,Randy's Blog,https://lutaonan.com/blog/talking-about-dropout-again/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-10-20,1634688000.0
 【安全学习】ThinkPHP5 5.0.22/5.1.29 远程代码执行漏洞,城南以南花亦开,https://coonaa.cn/index.php/archives/200/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-09-16,1631778840.0
 针对部分请求启用 Cloudflare Challenge,FlyingSky's Blog,https://blog.fsky7.com/archives/195/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2021-07-31,1627728360.0
-用 Rust 实现简单的光线追踪,萤火之森,http://frankorz.com/2021/05/05/rust-raytrace/,http://frankorz.com/,https://frankorz.com/atom.xml,2021-05-05,1620175710.0
 从9元到9000元，我包里常备的十件产品 | EDC,罗磊的独立博客,https://luolei.org/edc-2020/,https://luolei.org,https://luolei.org/feed/,2021-01-13,1610547892.0
 程序員與文學衝突,Just lepture,https://lepture.com/zh/2020/tweet-yuan,https://lepture.com/,https://lepture.com/feed.xml,2020-12-06,1607235718.0
