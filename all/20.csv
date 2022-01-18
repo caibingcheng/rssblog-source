@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+etcd源码阅读与分析（四）：lease,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_27-etcd_source_code_analysis_lease.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-27,1543276800.0
 干了这碗叔本华牌毒鸡汤 --- 《人生的智慧》,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_26-the_wisdom_of_life_on_human_nature.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-26,1543190400.0
 Memory leak in net/http,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_24-memory_leak_in_net_http.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
 etcd源码阅读与分析（三）：wal,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_24-etcd_source_code_analysis_wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
@@ -13,8 +14,8 @@ Go访问私有变量,Jiajun的编程随想,https://jiajunhuang.com/articles/2018
 Go的unsafe包,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_13-golang_package_unsafe.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-13,1542067200.0
 Golang中实现禁止拷贝,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
 人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0
-Golang的反射,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_10-golang_reflection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
 数据库事务,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_10-transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
+Golang的反射,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_10-golang_reflection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
 把网站去掉CSS之后,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_09-drop_css.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-09,1541721600.0
 处理并发的方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_07-concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-07,1541548800.0
 常见的索引方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_02-index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-02,1541116800.0
@@ -38,9 +39,9 @@ Go的custom import path,Jiajun的编程随想,https://jiajunhuang.com/articles/2
 如何挖掘二级子域名？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_06-how_to_dig_subdomain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-06,1536192000.0
 Go Module 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_03-go_module.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-03,1535932800.0
 写了一个Telegram Bot：自动化分享高质量内容,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_02-write_a_tgbot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-02,1535846400.0
-ArchLinux 怎么降级 package ？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 为什么我选择放弃运营微信公众号？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-vim_speed_up.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
+ArchLinux 怎么降级 package ？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Web后端工程师进阶指南(2018),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
 How to implement fork syscall in Golang?,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
@@ -48,4 +49,3 @@ macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的编程随�
 Python中实现单例模式的n种方式和原理,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
 Golang defer中修改返回值,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_23-go_defer_named_return_values.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-23,1534982400.0
 Serlina: 渐进式的 React 服务器渲染框架,Randy's Blog,https://lutaonan.com/blog/announcing-serlina/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-08-13,1534118400.0
-Python dataclass 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_12-python_dataclasses.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-12,1534032000.0

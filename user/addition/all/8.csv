@@ -1,6 +1,7 @@
 title,author,link,home,rss,date,timestamp
-2020 年度总结,4Ark,https://4ark.me/posts/2020-summary/,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
+Android手动挡MVVM,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_02-android_mvvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-02,1609545600.0
 2020 年度总结,4Ark × Blog,https://4ark.me/posts/2020-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
+2020 年度总结,4Ark,https://4ark.me/posts/2020-summary/,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
 年度简报 - 2020 | 等待,FlyingSky's Blog,https://blog.fsky7.com/archives/175/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-12-31,1609430400.0
 2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 二〇二〇年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
@@ -31,13 +32,13 @@ Java collection的结构,Jiajun的编程随想,https://jiajunhuang.com/articles/
 十月总结,4Ark × Blog,https://4ark.me/post/edb9a744.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-03,1604440173.0
 为啥Redis使用pipelining会更快？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
 Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
-回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
 回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
+回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
 通过阳台种菜实现蔬菜自由,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
 从GORM里学习到的panic处理方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
 写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
-记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
 记一次因 HSTS 导致跨域问题的经历,4Ark × Blog,https://4ark.me/posts/hsts-problem-solving-experience.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
+记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
 Go使用闭包简化数据库操作代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0
 TCMalloc设计文档学习,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
 如果这还都还不算抄袭的话,ChrAlpha,https://blog.ichr.me/post/monologue-of-a-rubbish/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-05,1601937406.0
@@ -48,4 +49,3 @@ TCMalloc设计文档学习,Jiajun的编程随想,https://jiajunhuang.com/article
 写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-09-29,1601337600.0
 写给 VS Code 用户的 Vim 入坑指南,Ahonn's Blog,https://www.ahonn.me/blog/the-vim-guide-for-vs-code-users,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
 写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
-ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601292797.0
