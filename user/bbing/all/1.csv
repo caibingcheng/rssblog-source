@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+glibc-exit源码阅读,BBing's Blog,https://bbing.com.cn/202201/glibc-exit/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-01-24,1642994496.0
 Bber和aplayer折腾感想,LonelyGod,https://hin.cool/posts/xiazheteng.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-01-22,1642881710.0
 几种定投策略的仿真比较,BBing's Blog,https://bbing.com.cn/202201/fund-sim/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-01-21,1642750256.0
 飞 鸟,LonelyGod,https://hin.cool/posts/feiniao.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-01-16,1642291200.0
@@ -13,8 +14,8 @@ Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/11/,https://le
 智能指针三剑客源码阅读,BBing's Blog,https://bbing.com.cn/202112/stl-smartpointers/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-29,1640763783.0
 【推荐】Ease Bookmarks,qinxs小站,https://7bxing.com/posts/beb3fd2a/,https://7bxing.com/,https://7bxing.com/atom.xml,2021-12-27,1640610083.0
 记观Pentatonic十周年巡演重庆站,LonelyGod,https://hin.cool/posts/byebyepostrock.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-25,1640390400.0
-Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky.cn/posts/windows-netstat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
 Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky.cn/posts/windows-netstat.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
+Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky.cn/posts/windows-netstat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
 黄桷垭老街与黄葛古道,无妄当自持,https://www.insidentally.com/articles/000023/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-12-24,1640310348.0
 explicit说明符,BBing's Blog,https://bbing.com.cn/202112/cpp-explicit/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-23,1640239412.0
 rssblog的数据源-rssblog-source,BBing's Blog,https://bbing.com.cn/202112/talk-rssblogsource/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-20,1639999051.0
@@ -48,4 +49,3 @@ Java正则表达式问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/java-re
 Twitch承认遭受攻击，源码泄露,LonelyGod,https://hin.cool/posts/twitchacked.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-11,1633986000.0
 MySQL问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mysql-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-10-11,1633968241.0
 谈谈服务器安全,LonelyGod,https://hin.cool/posts/serversec.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-03,1633219200.0
-提升程序的逼格：添加自动更新功能,Thrower的博客,https://thrower.cc/2021/addupdatertoprogram/,https://thrower.cc,https://thrower.cc/feed/,2021-10-01,1633076640.0
