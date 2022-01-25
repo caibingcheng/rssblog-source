@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Hugo系列(1) - 简单搭建教程与远程部署,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-1.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-09-06,1599397847.0
 apt安装特定包以及忽略升级某个包,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_05-apt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-05,1599264000.0
 Strato - Hexo 主题「Yun」版本宣传 PV,云游君的小站,https://www.yunyoujun.cn/share/hexo-theme-yun-strato/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-28,1598623200.0
 八月总结,4Ark × Blog,https://4ark.me/post/f05d518.html,https://4ark.me/,https://4ark.me/rss.xml,2020-08-28,1598573148.0
@@ -48,4 +49,3 @@ Go设计模式：模板模式,Jiajun的编程随想,https://jiajunhuang.com/arti
 Go设计模式：适配器模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_09-go_design_pattern_adapter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-09,1591660800.0
 Go设计模式：Iterator,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_07-go_design_pattern_iter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-07,1591488000.0
 Shell猜数字游戏,qinxs小站,https://7bxing.com/posts/3713cf69/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-06-06,1591449141.0
-WebP 图片优化在 Hexo 上的最佳尝试,ChrAlpha,https://blog.ichr.me/post/webp-on-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-05-30,1590858611.0
