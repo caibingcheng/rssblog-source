@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+React 生命周期函数小结,Yuexun's Blog,https://yuexunjiang.me/blog/react-lifecycle-methods/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-10-02,1475366400.0
 静态类型在 JavaScript 中是一种负担吗？,Randy's Blog,https://lutaonan.com/blog/is-static-type-in-javascript-a-burden/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-09-29,1475107200.0
 阅读Flask源码,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_09_15-flask_source_code.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-09-15,1473897600.0
 正则表达式备忘录,Yuexun's Blog,https://yuexunjiang.me/blog/the-memo-of-javascript-regexp/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-09-13,1473724800.0
@@ -48,4 +49,3 @@ Python 多线程初步了解,Yuexun's Blog,https://yuexunjiang.me/blog/python-mu
 列車上的女子,Just lepture,https://lepture.com/zh/2016/girl-on-the-train,https://lepture.com/,https://lepture.com/feed.xml,2016-02-06,1454776200.0
 C语言的位操作,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_02_06-bitwise_operation.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-02-06,1454716800.0
 分治,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_01_25-divide_and_conqure.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-01-25,1453680000.0
-日記、新年お願いします,Just lepture,https://lepture.com/zh/2016/new-year-koshigaya,https://lepture.com/,https://lepture.com/feed.xml,2016-01-16,1452942900.0
