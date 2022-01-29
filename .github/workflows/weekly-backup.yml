@@ -2,7 +2,7 @@ name: rssblog source weekly backup
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 20 6 * *'
+    - cron: '0 20 * * 6'
 
 jobs:
   build:
