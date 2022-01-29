@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+文老师，教师节快乐,非理勿试,https://www.ntiy.com/1652.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-09-10,1631244244.0
 日志框架与门面模式,Yulin Lewis' Blog,https://lewky.cn/posts/log-framework/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-09,1631202242.0
 Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/es-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-08,1631115899.0
 转载|漫画｜面试焦虑？滚开！,框架师,https://www.mobaijun.com/posts/244631694.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-08,1631089299.0
@@ -11,8 +12,8 @@ Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/es-issues/,ht
 用 entgo 替代 gorm,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_06-use_entgo.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-06,1630886400.0
 旋转吧！徽章！,云游君的小站,https://www.yunyoujun.cn/posts/how-to-realize-badge-rotation/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-09-05,1630849571.0
 聊一下 RocketMQ 的消息存储之 MMAP,Nicksxs's Blog,https://nicksxs.me/2021/09/04/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E6%B6%88%E6%81%AF%E5%AD%98%E5%82%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-09-04,1630722581.0
-从希区柯克电影《深闺疑云》说起,瓦解的生活记事,https://www.hin.cool/posts/suspicion.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-09-04,1630713600.0
 从希区柯克电影《深闺疑云》说起,LonelyGod,https://hin.cool/posts/suspicion.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-09-04,1630713600.0
+从希区柯克电影《深闺疑云》说起,瓦解的生活记事,https://www.hin.cool/posts/suspicion.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-09-04,1630713600.0
 为什么看这么多“没用的”东西,BBing's Blog,https://bbing.com.cn/202109/whyread-useless-content/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-09-03,1630662642.0
 一场深刻的变革,Frank笔记,https://frank2019.me/articles/2021/09/02/1630575328637.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-09-02,1630596336.0
 《UCB CS61a SICP Python 中文》一周目笔记(三),BBing's Blog,https://bbing.com.cn/202109/sicp-python-read3/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-09-02,1630583760.0
@@ -48,4 +49,3 @@ C，C++安全指南,BBing's Blog,https://bbing.com.cn/202108/secguide_c_tc/,http
 当我们沉迷游戏时，我们在沉迷什么？,冰哥笔记,https://www.bgbiji.com/823.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-08-19,1629364545.0
 聊在东京奥运会闭幕式这天-二,Nicksxs's Blog,https://nicksxs.me/2021/08/19/%E8%81%8A%E5%9C%A8%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E8%BF%99%E5%A4%A9-%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-19,1629356218.0
 Java数据类型和MySql数据类型对应表,框架师,https://www.mobaijun.com/posts/961492254.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-19,1629343670.0
-用selenium完成自动化任务,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_08_19-selenium.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-19,1629331200.0
