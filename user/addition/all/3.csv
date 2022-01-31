@@ -1,9 +1,11 @@
 title,author,link,home,rss,date,timestamp
+MySQL数据库备份与恢复-使用MySQLDump记录,框架师,https://www.mobaijun.com/posts/2902111757.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-26,1632642935.0
 从零开始写一个 Web Component - GitHub Corners,云游君的小站,https://www.yunyoujun.cn/posts/how-to-write-a-web-component/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-09-25,1632565657.0
 花呗,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/ant-huabei.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-09-25,1632545040.0
 “做得好”重要，还是“做得快”更重要？,见字如面,https://hiwannz.com/archives/629,https://hiwannz.com,https://hiwannz.com/feed,2021-09-24,1632466017.0
 常用Git命令清单,框架师,https://www.mobaijun.com/posts/119849249.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-23,1632363221.0
 聊一下 SpringBoot 中使用的 cglib 作为动态代理中的一个注意点,Nicksxs's Blog,https://nicksxs.me/2021/09/19/%E8%81%8A%E4%B8%80%E4%B8%8B-SpringBoot-%E4%B8%AD%E4%BD%BF%E7%94%A8%E7%9A%84-cglib-%E4%BD%9C%E4%B8%BA%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86%E4%B8%AD%E7%9A%84%E4%B8%80%E4%B8%AA%E6%B3%A8%E6%84%8F%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-09-19,1632063391.0
+Personal ZFS Offsite Backup Solution,Bin Wang - My Personal Blog,https://www.binwang.me/2021-09-19-Personal-ZFS-Offsite-Online-Backup-Solution.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2021-09-19,1632024000.0
 今年买了啥,见字如面,https://hiwannz.com/archives/602,https://hiwannz.com,https://hiwannz.com/feed,2021-09-18,1631936164.0
 Micro Front End Splitting In Practice,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210913-micro-front-end-splitting-in-practice,https://teobler.com,https://teobler.com/rss.xml,2021-09-13,1631538360.0
 从0到100公里，从长跑废人到跑者，我的行动与收获,冰哥笔记,https://www.bgbiji.com/826.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-09-13,1631534122.0
@@ -47,5 +49,3 @@ SpringBoot监控工具之《Actuator》,框架师,https://www.mobaijun.com/posts
 SpringBoot异步任务记录,框架师,https://www.mobaijun.com/posts/4255110274.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-02,1627891678.0
 「跳缸」成小鱼干,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/jump-tank-into-small-dried-fish.html,https://zmmio.com/,https://zmmio.com/feed,2021-08-01,1627861667.0
 生育与教育引发的思考,Frank笔记,https://frank2019.me/articles/2021/07/31/1627741226219.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-08-01,1627829634.0
-redis淘汰策略复习,Nicksxs's Blog,https://nicksxs.me/2021/08/01/redis%E6%B7%98%E6%B1%B0%E7%AD%96%E7%95%A5%E5%A4%8D%E4%B9%A0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-01,1627820393.0
-针对部分请求启用 Cloudflare Challenge,FlyingSky's Blog,https://blog.fsky7.com/archives/195/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2021-07-31,1627728360.0
