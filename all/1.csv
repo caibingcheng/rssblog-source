@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+手机刷入类原生安卓系统,沐云湘夕,https://quest.myxxts.club/archives/130/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-02-13,1644741118.0
 2022 春节遭遇,非理勿试,https://www.ntiy.com/1708.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-02-13,1644721207.0
 Java - 字符编码,Yulin Lewis' Blog,https://lewky.cn/posts/java-charset/,https://lewky.cn/,https://lewky.cn/index.xml,2022-02-13,1644720128.0
 2022.2.14情人节文案，来了,冰哥笔记,https://www.bgbiji.com/865.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-02-11,1644561654.0
@@ -6,6 +7,7 @@ Java - 字符编码,Yulin Lewis' Blog,https://lewky.cn/posts/java-charset/,https
 【WEB系列】使用StopWatch输出执行耗时,框架师,https://www.mobaijun.com/posts/323943495.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-02-10,1644478505.0
 节后快速恢复工作状态，我推荐7件小事,冰哥笔记,https://www.bgbiji.com/863.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-02-09,1644417660.0
 python实现RSA加密数字,DearXuan的主页,https://dearxuan.top/2022/02/09/python%E5%AE%9E%E7%8E%B0RSA%E5%8A%A0%E5%AF%86%E6%95%B0%E5%AD%97/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-09,1644400380.0
+Split Monolith Into Micro Front End,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220208-split-monolith-into-micro-front-end,https://teobler.com,https://teobler.com/rss.xml,2022-02-08,1644325560.0
 开源一个 PHP 多版本共存 docker 环境,把酒诗代码，趁乱写年华。,https://102no.com/2022/02/08/docker-mutli-php-versions/,https://102no.com/,https://102no.com/atom.xml,2022-02-07,1644249600.0
 C#图像压缩相关方法总结,DearXuan的主页,https://dearxuan.top/2022/02/07/C-%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E7%9B%B8%E5%85%B3%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-07,1644237540.0
 分享记录一下一个 scp 操作方法,Nicksxs's Blog,https://nicksxs.me/2022/02/06/%E5%88%86%E4%BA%AB%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E4%B8%80%E4%B8%AA-scp-%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-06,1644155006.0
@@ -47,5 +49,3 @@ Node.js路由方法,DearXuan的主页,https://dearxuan.top/2022/01/10/Node-js%E8
 聊聊 Sharding-Jdbc 分库分表下的分页方案,Nicksxs's Blog,https://nicksxs.me/2022/01/09/%E8%81%8A%E8%81%8A-Sharding-Jdbc-%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E4%B8%8B%E7%9A%84%E5%88%86%E9%A1%B5%E6%96%B9%E6%A1%88/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-01-09,1641729769.0
 GIN 是如何绑定参数的,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_01_09-gin_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-09,1641686400.0
 谈谈碎片化时间,冰哥笔记,https://www.bgbiji.com/844.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-01-08,1641619488.0
-【Mybatis系列】Mybatis入门,框架师,https://www.mobaijun.com/posts/2794875020.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-07,1641539424.0
-【Web系列】SpringBoot防护XSS攻击配置,框架师,https://www.mobaijun.com/posts/407876058.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-06,1641448654.0
