@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+尤克里里,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_08_25-ukulele.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-08-25,1472083200.0
+我常用的 macOS 应用,Randy's Blog,https://lutaonan.com/blog/tools-of-my-macbook/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-08-06,1470441600.0
 如何减少浏览器回流,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-reduce-the-browser-reflow,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-08-02,1470177993.0
 如何减少浏览器回流,Ahonn's Blog,https://www.ahonn.me/blog/javascript-reduce-the-browser-reflow,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-08-02,1470177993.0
 如何减少浏览器回流,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-reduce-the-browser-reflow/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-08-02,1470096000.0
@@ -47,5 +49,3 @@ C语言的位操作,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_
 [译] 在 PHP 中如何预防 SQL 注入,Yuexun's Blog,https://yuexunjiang.me/blog/how-can-i-prevent-sql-injection-in-php/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-21,1450656000.0
 PHP cURL 库的简单使用,Yuexun's Blog,https://yuexunjiang.me/blog/simple-use-of-the-php-curl-library/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-19,1450483200.0
 关于python的decorator和descriptor,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_12_05-python_descriptor_and_decorator.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-12-05,1449273600.0
-知乎用户动态监控爬虫,Yuexun's Blog,https://yuexunjiang.me/blog/the-crawler-of-zhihu-user-dynamic-monitoring/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-11-25,1448409600.0
-月神,Just lepture,https://lepture.com/zh/2015/wish-to-be-found,https://lepture.com/,https://lepture.com/feed.xml,2015-11-23,1448319600.0
