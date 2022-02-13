@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+lombok问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/lombok-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-06,1641430890.0
+使用DDNS+ipv6在公网访问群晖,LonelyGod,https://hin.cool/posts/ddnsipv6.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-01-05,1641398400.0
 【工具系列】常用maven命令介绍,框架师,https://www.mobaijun.com/posts/3490035493.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641366238.0
 【工具系列】轻量级虚拟机Multipass使用教程,框架师,https://www.mobaijun.com/posts/3701652676.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641351409.0
 Jackson问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/jackson-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-04,1641311142.0
@@ -47,5 +49,3 @@ wordpress 忘记密码的一种解决方法,Nicksxs's Blog,https://nicksxs.me/20
 Windows桌面暗水印方法与C++实现,DearXuan的主页,https://dearxuan.top/2021/12/04/Windows%E6%A1%8C%E9%9D%A2%E6%9A%97%E6%B0%B4%E5%8D%B0%E6%96%B9%E6%B3%95%E4%B8%8EC-%E5%AE%9E%E7%8E%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-12-04,1638625680.0
 给自媒体新手的一些建议,冰哥笔记,https://www.bgbiji.com/840.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-12-03,1638502602.0
 谈谈生死,冰哥笔记,https://www.bgbiji.com/838.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-12-02,1638432651.0
-认真思考：钱多到根本花不完，真的快乐吗？,非理勿试,https://www.ntiy.com/1677.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-12-02,1638409641.0
-使用 OpenWRT 搭建软路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_12_01-openwrt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-01,1638316800.0
