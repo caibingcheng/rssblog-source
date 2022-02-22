@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+glibc-fopen源码阅读-补充篇-open系统调用,BBing's Blog,https://bbing.com.cn/202202/fopen-sys-open/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-02-22,1645519808.0
 【随笔】论一个面试题的解决思路,框架师,https://www.mobaijun.com/posts/3567767979.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-02-21,1645465912.0
 聊聊这次换车牌及其他,Nicksxs's Blog,https://nicksxs.me/2022/02/20/%E8%81%8A%E8%81%8A%E8%BF%99%E6%AC%A1%E6%8D%A2%E8%BD%A6%E7%89%8C%E5%8F%8A%E5%85%B6%E4%BB%96/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-20,1645365541.0
 命,非理勿试,https://www.ntiy.com/1714.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-02-20,1645355921.0
@@ -13,7 +14,6 @@ Java - 字符编码,Yulin Lewis' Blog,https://lewky.cn/posts/java-charset/,https
 开源一个 PHP 多版本共存 docker 环境,把酒诗代码，趁乱写年华。,https://102no.com/2022/02/08/docker-mutli-php-versions/,https://102no.com/,https://102no.com/atom.xml,2022-02-07,1644249600.0
 中文独立博客的年化“腐烂率”——8%,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/chinese-independent-blogs-link-rot-2022.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-02-05,1644064560.0
 【对象存储】搭配CF带宽联盟实现流量免费,Luminous' Home,https://luotianyi.vc/6044.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-02-03,1643883817.0
-程序的栈帧,BBing's Blog,https://bbing.com.cn/202201/framestack/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-01-26,1643174330.0
 年度报告 - 2021 | 远方,FlyingSky's Blog,https://blog.fsky7.com/archives/218/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2022-01-20,1642681260.0
 Rust 学习资源,萤火之森,http://frankorz.com/2022/01/18/rust-study-resource/,http://frankorz.com/,https://frankorz.com/atom.xml,2022-01-18,1642514504.0
 聊聊四元数与万向锁及其实际意义,云游君的小站,https://www.yunyoujun.cn/posts/quaternion-and-spatial-rotation/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2022-01-15,1642269552.0
