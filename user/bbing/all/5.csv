@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+在 windows 下安装配置 nodejs,无妄当自持,https://www.insidentally.com/articles/000009/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-03-27,1616849231.0
 docsify快速入门,雨临Lewis,https://lewky.cn/posts/docsify-0.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-03-01,1614614325.0
 fonts.googleapis.com访问太慢导致站点加载很慢,雨临Lewis,https://lewky.cn/posts/fonts-googleapis-slow.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-20,1613834015.0
 分享一些有趣的代码注释,雨临Lewis,https://lewky.cn/posts/program-comment-funny.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-19,1613703345.0
@@ -9,7 +10,7 @@ Java日期问题汇总,雨临Lewis,https://lewky.cn/posts/java-date-issues.html/
 山城步道——半山崖线,刘超智,https://www.insidentally.com/articles/000008/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-01-12,1610441748.0
 使用 linux 操作系统，如何优化固态硬盘使用体验,无妄当自持,https://www.insidentally.com/articles/000007/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-30,1609344203.0
 友链墙,雨临Lewis,https://lewky.cn/friends/,https://lewky.cn/,https://lewky.cn/index.xml,2020-12-26,1608991304.0
-如何使用 Git,刘超智,https://www.insidentally.com/articles/000006/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-18,1608286030.0
+如何使用 Git,无妄当自持,https://www.insidentally.com/articles/000006/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-18,1608286030.0
 linux 开启 samba 服务共享文件,刘超智,https://www.insidentally.com/articles/000005/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-27,1606465965.0
 山城晓雾,刘超智,https://www.insidentally.com/articles/000004/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-25,1606281003.0
 眺望渝中,刘超智,https://www.insidentally.com/articles/000003/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-23,1606118148.0
@@ -25,7 +26,7 @@ Hugo系列(1) - 简单搭建教程与远程部署,雨临Lewis,https://lewky.cn/p
 2016美国总统候选人辩论,qinxs,https://7bxing.com/posts/52bf0210/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-08-27,1598503361.0
 短网址生成,qinxs,https://7bxing.com/posts/991130e/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-07-12,1594532801.0
 VIDAA3/4系统工厂模式,qinxs,https://7bxing.com/posts/be2c6b79/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-07-05,1593957961.0
-Shell猜数字游戏,qinxs,https://7bxing.com/posts/3713cf69/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-06-06,1591449141.0
+Shell猜数字游戏,qinxs小站,https://7bxing.com/posts/3713cf69/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-06-06,1591449141.0
 Git学习,qinxs,https://7bxing.com/posts/e28ceec1/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605502.0
 hello world,qinxs,https://7bxing.com/posts/d4a1185/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605202.0
 Java的远程调试Remote Debug,雨临Lewis,https://lewky.cn/posts/java-remote-debug.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-03-17,1584459040.0
