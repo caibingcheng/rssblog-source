@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+为 Arch Linux 创建软件包,无妄当自持,https://www.insidentally.com/articles/000010/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-04-07,1617756711.0
 JPA/Hibernate问题汇总,雨临Lewis,https://lewky.cn/posts/jpa-hibernate.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-03-31,1617206850.0
 在 windows 下安装配置 nodejs,无妄当自持,https://www.insidentally.com/articles/000009/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-03-27,1616849231.0
 docsify快速入门,雨临Lewis,https://lewky.cn/posts/docsify-0.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-03-01,1614614325.0
@@ -22,7 +23,7 @@ Hugo系列(4) - 从Hexo迁移至Hugo以及使用LoveIt主题的踩坑记录,雨�
 Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章,雨临Lewis,https://lewky.cn/posts/hugo-3.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-11,1602393076.0
 Hugo系列(2) - 通过配置文件来定制个人站点,雨临Lewis,https://lewky.cn/posts/hugo-2.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-10,1602317338.0
 Hexo博客配置及源文件备份,qinxs,https://7bxing.com/posts/659688f7/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-19,1600519111.0
-「硬核JS」一次搞懂JS运行机制,qinxs,https://7bxing.com/posts/9c28944f/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-08,1599574555.0
+「硬核JS」一次搞懂JS运行机制,qinxs小站,https://7bxing.com/posts/9c28944f/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-08,1599574555.0
 Hugo系列(1) - 简单搭建教程与远程部署,雨临Lewis,https://lewky.cn/posts/hugo-1.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-09-06,1599397847.0
 2016美国总统候选人辩论,qinxs,https://7bxing.com/posts/52bf0210/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-08-27,1598503361.0
 短网址生成,qinxs,https://7bxing.com/posts/991130e/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-07-12,1594532801.0
