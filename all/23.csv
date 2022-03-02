@@ -1,5 +1,8 @@
 title,author,link,home,rss,date,timestamp
+etcd源码阅读与分析（四）：lease,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_27-etcd_source_code_analysis_lease.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-27,1543276800.0
+干了这碗叔本华牌毒鸡汤 --- 《人生的智慧》,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_26-the_wisdom_of_life_on_human_nature.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-26,1543190400.0
 Memory leak in net/http,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_24-memory_leak_in_net_http.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
+etcd源码阅读与分析（三）：wal,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_24-etcd_source_code_analysis_wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
 etcd源码阅读与分析（二）：raft,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_22-etcd_source_code_analysis_raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-22,1542844800.0
 etcd源码阅读与分析（一）：raftexample,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_20-etcd_source_code_analysis_raftexample.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-20,1542672000.0
 虚拟机里的Ubuntu sudo时卡住,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_18-ubuntu_sudo_hang.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-18,1542499200.0
@@ -24,8 +27,8 @@ HTTP/2 简介,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_10_13-
 独立运营博客一年的一些数据分享,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
 To B(usiness) 和 To C(ustomer),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_22-to_b_to_c.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-22,1537574400.0
 PyCon JP 2018 記,Just lepture,https://lepture.com/zh/2018/pycon-jp-2018,https://lepture.com/,https://lepture.com/feed.xml,2018-09-19,1537364456.0
-常见的软件架构套路,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 Cookie 中的secure和httponly属性,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-cookie_secure_httponly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
+常见的软件架构套路,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-09-15,1536969687.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-09-15,1536969600.0
 一个阅读源代码的技巧,Randy's Blog,https://lutaonan.com/blog/trick-for-reading-source-code/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-09-14,1536883200.0
@@ -46,6 +49,3 @@ macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的编程随�
 Python中实现单例模式的n种方式和原理,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
 Golang defer中修改返回值,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_23-go_defer_named_return_values.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-23,1534982400.0
 Serlina: 渐进式的 React 服务器渲染框架,Randy's Blog,https://lutaonan.com/blog/announcing-serlina/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-08-13,1534118400.0
-Python dataclass 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_12-python_dataclasses.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-12,1534032000.0
-gRPC-gateway 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_08-grpc_gateway_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-08,1533686400.0
-如何阅读源代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_04-how_to_read_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-04,1533340800.0
