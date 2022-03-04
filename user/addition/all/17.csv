@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Swagger? 不好用,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_01-swagger_i_dislike.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-01,1554076800.0
 Golang/Python最佳实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_29-python_golang_best_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-29,1553817600.0
 读《毛泽东选集》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_24-mao.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-24,1553385600.0
 GORM源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_19-gorm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-19,1552953600.0
@@ -48,4 +49,3 @@ etcd源码阅读与分析（三）：wal,Jiajun的编程随想,https://jiajunhua
 Memory leak in net/http,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_24-memory_leak_in_net_http.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
 etcd源码阅读与分析（二）：raft,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_22-etcd_source_code_analysis_raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-22,1542844800.0
 etcd源码阅读与分析（一）：raftexample,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_20-etcd_source_code_analysis_raftexample.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-20,1542672000.0
-虚拟机里的Ubuntu sudo时卡住,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_18-ubuntu_sudo_hang.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-18,1542499200.0
