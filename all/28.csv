@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+nginx配置笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_03-nginx_conf.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-03,1478131200.0
+React 路由跳转后回到页面顶部,Yuexun's Blog,https://yuexunjiang.me/blog/after-the-react-routing-scroll-to-the-top-of-the-page/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-10-11,1476144000.0
 React 生命周期函数小结,Yuexun's Blog,https://yuexunjiang.me/blog/react-lifecycle-methods/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-10-02,1475366400.0
 静态类型在 JavaScript 中是一种负担吗？,Randy's Blog,https://lutaonan.com/blog/is-static-type-in-javascript-a-burden/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-09-29,1475107200.0
 阅读Flask源码,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_09_15-flask_source_code.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-09-15,1473897600.0
@@ -8,8 +10,8 @@ React 生命周期函数小结,Yuexun's Blog,https://yuexunjiang.me/blog/react-l
 [译] JavaScript 最佳实践,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-best-practices/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-08-31,1472601600.0
 尤克里里,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_08_25-ukulele.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-08-25,1472083200.0
 我常用的 macOS 应用,Randy's Blog,https://lutaonan.com/blog/tools-of-my-macbook/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-08-06,1470441600.0
-如何减少浏览器回流,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-reduce-the-browser-reflow,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-08-02,1470177993.0
 如何减少浏览器回流,Ahonn's Blog,https://www.ahonn.me/blog/javascript-reduce-the-browser-reflow,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-08-02,1470177993.0
+如何减少浏览器回流,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-reduce-the-browser-reflow,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-08-02,1470177993.0
 如何减少浏览器回流,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-reduce-the-browser-reflow/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-08-02,1470096000.0
 数组乱序的正确姿势,Yuexun's Blog,https://yuexunjiang.me/blog/the-right-way-to-array-of-random-sequence/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-07-25,1469404800.0
 Vue 中使用 highlight.js,Yuexun's Blog,https://yuexunjiang.me/blog/getting-highlightjs-to-work-with-vue.js/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-07-13,1468368000.0
@@ -47,5 +49,3 @@ Python零碎知识汇总,Jiajun的编程随想,https://jiajunhuang.com/articles/
 Jade 模板引擎,Yuexun's Blog,https://yuexunjiang.me/blog/jade-template-engine/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-02-29,1456704000.0
 Python 多线程初步了解,Yuexun's Blog,https://yuexunjiang.me/blog/python-multithreaded-preliminary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-02-20,1455926400.0
 列車上的女子,Just lepture,https://lepture.com/zh/2016/girl-on-the-train,https://lepture.com/,https://lepture.com/feed.xml,2016-02-06,1454776200.0
-C语言的位操作,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_02_06-bitwise_operation.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-02-06,1454716800.0
-分治,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_01_25-divide_and_conqure.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-01-25,1453680000.0
