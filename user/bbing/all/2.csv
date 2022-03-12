@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+在 Linux 中使用 systemd timers 作为定时任务工具,无妄当自持,https://www.insidentally.com/articles/000022/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-12-20,1639965099.0
 Jsdelivr的证书错误带来了哪些影响？,LonelyGod,https://hin.cool/posts/jsddown.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-20,1639958400.0
 必应崩了，还有什么搜索引擎？,LonelyGod,https://hin.cool/posts/fsou.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-16,1639684200.0
 pair的内存结构,BBing's Blog,https://bbing.com.cn/202112/pair-memstruct/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-14,1639466993.0
@@ -48,4 +49,3 @@ UWP ListView数据绑定,DearXuan的主页,https://dearxuan.top/2021/10/11/UWP-L
 UWP Brush画笔详解,DearXuan的主页,https://dearxuan.top/2021/10/08/UWP-Brush%E7%94%BB%E7%AC%94%E8%AF%A6%E8%A7%A3/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-08,1633699740.0
 UWP编程基础,DearXuan的主页,https://dearxuan.top/2021/10/05/UWP%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-05,1633423440.0
 谈谈服务器安全,LonelyGod,https://hin.cool/posts/serversec.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-03,1633219200.0
-提升程序的逼格：添加自动更新功能,Thrower的博客,https://thrower.cc/2021/addupdatertoprogram/,https://thrower.cc,https://thrower.cc/feed/,2021-10-01,1633076640.0
