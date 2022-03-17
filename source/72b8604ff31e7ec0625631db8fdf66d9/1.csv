@@ -6,6 +6,7 @@ Spring Data Redis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-da
 Java数值问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/java-number/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-10,1641826986.0
 lombok问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/lombok-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-06,1641430890.0
 Jackson问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/jackson-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-04,1641311142.0
+Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/javaweb-servlet-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-01,1641050207.0
 Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/11/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-01,1641050207.0
 Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky.cn/posts/windows-netstat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
 Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky.cn/posts/windows-netstat.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
@@ -48,4 +49,3 @@ Hugo系列(4) - 从Hexo迁移至Hugo以及使用LoveIt主题的踩坑记录,雨�
 Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章,雨临Lewis,https://lewky.cn/posts/hugo-3.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-11,1602393076.0
 Hugo系列(2) - 通过配置文件来定制个人站点,雨临Lewis,https://lewky.cn/posts/hugo-2.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-10,1602317338.0
 Hugo系列(1) - 简单搭建教程与远程部署,雨临Lewis,https://lewky.cn/posts/hugo-1.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-09-06,1599397847.0
-Java的远程调试Remote Debug,雨临Lewis,https://lewky.cn/posts/java-remote-debug.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-03-17,1584459040.0
