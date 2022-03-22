@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+计算机网络基础,Yulin Lewis' Blog,https://lewky.cn/posts/network/,https://lewky.cn/,https://lewky.cn/index.xml,2021-10-14,1634218117.0
 Java正则表达式问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/java-regex-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-10-14,1634218007.0
 人工智能基础-图论初步,DearXuan的主页,https://dearxuan.top/2021/10/14/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E5%9B%BE%E8%AE%BA%E5%88%9D%E6%AD%A5/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-14,1634202480.0
 Twitch承认遭受攻击，源码泄露,LonelyGod,https://hin.cool/posts/twitchacked.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-11,1633986000.0
@@ -18,8 +19,8 @@ AMP并发编程概述,DearXuan的主页,https://dearxuan.top/2021/09/11/AMP%E5%B
 用C#打造支持众多协议的爆破工具（WinForm）,Thrower的博客,https://thrower.cc/2021/superbuster/,https://thrower.cc,https://thrower.cc/feed/,2021-09-11,1631327007.0
 Hugo搜索工具hugo-algolia2,BBing's Blog,https://bbing.com.cn/202109/hugo-algolia2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-09-10,1631280721.0
 日志框架与门面模式,Yulin Lewis' Blog,https://lewky.cn/posts/log-framework/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-09,1631202242.0
-ELK系列(4) - Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/elk-4/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-08,1631115899.0
 Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/es-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-08,1631115899.0
+ELK系列(4) - Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/elk-4/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-08,1631115899.0
 电压钳的实验方法总结,无妄当自持,https://www.insidentally.com/articles/000017/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-09-08,1631066433.0
 【安装教程】Ubuntu 20.04 LTS 替换国内软件源,城南以南花亦开,https://coonaa.cn/index.php/archives/196/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-09-07,1631008680.0
 从AI导出Web的SVG的最佳设置,qinxs小站,https://7bxing.com/posts/f28f8693/,https://7bxing.com/,https://7bxing.com/atom.xml,2021-09-06,1630933429.0
@@ -48,4 +49,3 @@ C#的GPU加速方法,DearXuan的主页,https://dearxuan.top/2021/08/13/C-%E7%9A%
 AirConnect——智能音箱Airplay或DLNA支持方案,LonelyGod,https://hin.cool/posts/airconnect.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-08-12,1628726400.0
 【安装教程】Kali Linux 2021.2在VMware和VirtualBox安装教程 超简单 步骤详细讲解,城南以南花亦开,https://coonaa.cn/index.php/archives/52/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-11,1628652060.0
 PowerMock问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/powermock-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-10,1628608384.0
-【安全学习】ARP缓存中毒攻击,城南以南花亦开,https://coonaa.cn/index.php/archives/38/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-10,1628576580.0
