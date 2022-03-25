@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+glibc-malloc源码阅读,BBing's Blog,https://bbing.com.cn/202203/glibc-malloc/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-25,1648177819.0
 这两年工作心态上的一些变化,BBing's Blog,https://bbing.com.cn/202203/work-summary-1922/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-22,1647960635.0
 NULL和nullptr实际问题分析,BBing's Blog,https://bbing.com.cn/202203/null-nullptr-problem/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-21,1647851315.0
 glibc-mmap源码阅读,BBing's Blog,https://bbing.com.cn/202202/glibc-mmap/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-02-28,1646016843.0
