@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Golang中的并发控制,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_21-golang_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
 善用闭包(closure)让Go代码更优雅,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_21-use_closure.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
 Golang的可选参数实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
 2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-04-13,1586812489.0
@@ -48,4 +49,3 @@ MySQL charset不同导致无法使用索引的坑,Jiajun的编程随想,https://
 微服务的缺点,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_19-should_i_use_microservice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-19,1582070400.0
 Git 在 macOS 中忽略所有 .DS_Store 文件,ChrAlpha,https://blog.ichr.me/post/git-ignore-all-ds-store-on-mac/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-16,1581865768.0
 初探无后端静态博客自动化部署方案,ChrAlpha,https://blog.ichr.me/post/automated-deployment-of-serverless-static-blog/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-14,1581718212.0
-远程工作一周有感,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_14-remote_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-14,1581638400.0
