@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+在服务器上直接独立部署 waline，并使用 systemd 启动,无妄当自持,https://www.insidentally.com/articles/000026/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-03-29,1648519833.0
 glibc-malloc源码阅读,BBing's Blog,https://bbing.com.cn/202203/glibc-malloc/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-25,1648177819.0
 线性回归例题解析,DearXuan的主页,https://dearxuan.top/2022/03/23/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E4%BE%8B%E9%A2%98%E8%A7%A3%E6%9E%90/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-23,1648048200.0
 这两年工作心态上的一些变化,BBing's Blog,https://bbing.com.cn/202203/work-summary-1922/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-22,1647960635.0
@@ -48,4 +49,3 @@ Java数值问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/java-number/,htt
 Node.js路由方法,DearXuan的主页,https://dearxuan.top/2022/01/10/Node-js%E8%B7%AF%E7%94%B1%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-01-10,1641805920.0
 lombok问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/lombok-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-06,1641430890.0
 使用DDNS+ipv6在公网访问群晖,LonelyGod,https://hin.cool/posts/ddnsipv6.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-01-05,1641398400.0
-Jackson问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/jackson-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-04,1641311142.0
