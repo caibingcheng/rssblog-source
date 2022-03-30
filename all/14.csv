@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+从思辨中学历史,4Ark,https://4ark.me/posts/cong-si-bina-xue-xi-li-shi/,https://4ark.me/,https://4ark.me/rss.xml,2021-03-02,1614712575.0
+10本 Go 语言入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/03/02/10-golang-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-03-01,1614614400.0
 docsify快速入门,Yulin Lewis' Blog,https://lewky.cn/posts/docsify-0.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-03-01,1614614325.0
 Xp Technology Practices,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210228-xp-technology-practices,https://teobler.com,https://teobler.com/rss.xml,2021-02-28,1614483600.0
 内存管理设计精要,面向信仰编程,https://draveness.me//system-design-memory-management,https://draveness.me/,https://draveness.me/feed.xml,2021-02-27,1614384000.0
@@ -34,8 +36,8 @@ Node.js更换国内源,框架师,https://www.mobaijun.com/posts/3059858801.html,
 为什么 OLAP 需要列式存储,面向信仰编程,https://draveness.me//whys-the-design-olap-column-oriented,https://draveness.me/,https://draveness.me/feed.xml,2021-02-02,1612224000.0
 Agile Business Practice Planning Games,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210201-agile-business-practice-planning-games,https://teobler.com,https://teobler.com/rss.xml,2021-02-01,1612187820.0
 记一次被网贷催收,非理勿试,https://www.ntiy.com/1515.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-01-30,1611970734.0
-数据中心的电力超售 · OSDI '20,面向信仰编程,https://draveness.me//papers-thunderbolt,https://draveness.me/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
 Facebook 集群调度管理系统 · OSDI '20,面向信仰编程,https://draveness.me//papers-twine,https://draveness.me/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
+数据中心的电力超售 · OSDI '20,面向信仰编程,https://draveness.me//papers-thunderbolt,https://draveness.me/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
 纳秒级高性能日志系统 · ATC '18,面向信仰编程,https://draveness.me//papers-nanolog,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
 数据中心的容错时钟对时 · OSDI '20,面向信仰编程,https://draveness.me//papers-sundial,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
 Android自动展示和关闭进度条,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_27-android_progress_bar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-27,1611705600.0
@@ -47,5 +49,3 @@ What Is Agile,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210
 服务器相关知识记录,框架师,https://www.mobaijun.com/posts/361637157.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-22,1611309513.0
 SpringBoot2.3整合InfluxDB实现增删查,框架师,https://www.mobaijun.com/posts/1092756891.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-20,1611123302.0
 从 Composition API 源码分析 getCurrentInstance() 为何返回 null,4Ark × Blog,https://4ark.me/post/87ba8d8b.html,https://4ark.me/,https://4ark.me/rss.xml,2021-01-16,1610836795.0
-从9元到9000元，我包里常备的十件产品 | EDC,罗磊的独立博客,https://luolei.org/edc-2020/,https://luolei.org,https://luolei.org/feed/,2021-01-13,1610547892.0
-SpringBoot实现邮件发送,框架师,https://www.mobaijun.com/posts/265470177.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-13,1610533373.0
