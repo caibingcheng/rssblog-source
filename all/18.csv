@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+操作系统也是CRUD,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_15-unix_crud.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-15,1592179200.0
 Go设计模式：简单工厂模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_13-go_design_pattern_factory.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
 把USB设备穿透给虚拟机里的系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_13-macos_kvm_usb_pass.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
 debug故事之：事务让生活更美好,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_12-transaction_life_easy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-12,1591920000.0
@@ -48,4 +49,3 @@ Golang的可选参数实践,Jiajun的编程随想,https://jiajunhuang.com/articl
 FreeBSD ipfw使用教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_13-freebsd_ipfw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-13,1586736000.0
 Golang expvar库源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_12-expvar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-12,1586649600.0
 浅谈 DNS 解析与 CDN 原理,ChrAlpha,https://blog.ichr.me/post/how-dns-and-cdn-work/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-11,1586614065.0
-Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
