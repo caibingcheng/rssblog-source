@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+结合Flask 与 marshmallow快速进行参数校验,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_16-flask_marshmallow.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-16,1600214400.0
 关于我打算当老师并报考教师资格证这件事,云游君的小站,https://www.yunyoujun.cn/diary/try-to-become-a-teacher/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-11,1599839963.0
 规整数据的重要性,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_10-form_check.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-10,1599696000.0
 「硬核JS」一次搞懂JS运行机制,qinxs小站,https://7bxing.com/posts/9c28944f/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-08,1599574555.0
@@ -48,4 +49,3 @@ Go设计模式：composite模式,Jiajun的编程随想,https://jiajunhuang.com/a
 Linux使用redshift自动调整屏幕色温,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_23-redshift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-23,1592870400.0
 el-bot & mirai-ts 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-el-bot/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-06-21,1592763413.0
 Go设计模式：桥接模式和策略模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_21-go_design_pattern_bridge.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-21,1592697600.0
-Go设计模式：单例模式、原型模式和Builder模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_20-go_design_pattern_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-20,1592611200.0
