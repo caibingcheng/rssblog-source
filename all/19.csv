@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-04-13,1586812489.0
+[博客通报] 切换评论系统至 Disqus,ChrAlpha,https://blog.ichr.me/notice/change-comment-system-into-disqus/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-13,1586811001.0
 FreeBSD ipfw使用教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_13-freebsd_ipfw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-13,1586736000.0
 Golang expvar库源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_12-expvar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-12,1586649600.0
 浅谈 DNS 解析与 CDN 原理,ChrAlpha,https://blog.ichr.me/post/how-dns-and-cdn-work/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-11,1586614065.0
@@ -47,5 +49,3 @@ Git 在 macOS 中忽略所有 .DS_Store 文件,ChrAlpha,https://blog.ichr.me/pos
 初探无后端静态博客自动化部署方案,ChrAlpha,https://blog.ichr.me/post/automated-deployment-of-serverless-static-blog/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-14,1581718212.0
 远程工作一周有感,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_14-remote_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-14,1581638400.0
 Python中的并发控制,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_12-python_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-12,1581465600.0
-让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/archives/97/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-02-11,1581394020.0
-Mac 上连接 Android 传输文件与配置 SDK platform tools 环境,ChrAlpha,https://blog.ichr.me/post/configurate-connection-with-android-on-mac/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-08,1581157605.0
