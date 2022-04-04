@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+数据中心的容错时钟对时 · OSDI '20,面向信仰编程,https://draveness.me//papers-sundial,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
 Android自动展示和关闭进度条,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_27-android_progress_bar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-27,1611705600.0
 做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
 SpringBoot集成Mybatis-Plus,框架师,https://www.mobaijun.com/posts/183863717.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-26,1611655824.0
@@ -48,4 +49,3 @@ Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,http
 linux 开启 samba 服务共享文件,无妄当自持,https://www.insidentally.com/articles/000005/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-27,1606465965.0
 旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,https://luolei.org/pamu-quiet/,https://luolei.org,https://luolei.org/feed/,2020-11-26,1606398780.0
 gRPC错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_26-grpc_error_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-26,1606348800.0
-山城晓雾,无妄当自持,https://www.insidentally.com/articles/000004/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-25,1606281003.0
