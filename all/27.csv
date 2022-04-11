@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Golang 分布式异步任务队列 Machinery 教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_30-golang_task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-30,1514592000.0
 2017 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2017-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-12-29,1514505600.0
 使用geohash完成地理距离计算,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_27-geohash.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-27,1514332800.0
 YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-me-money/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-12-26,1514283748.0
@@ -12,11 +13,11 @@ Python开发实践经验,Jiajun的编程随想,https://jiajunhuang.com/articles/
 三藩記,Just lepture,https://lepture.com/zh/2017/san-francisco-trip,https://lepture.com/,https://lepture.com/feed.xml,2017-11-02,1509637087.0
 Golang实现平滑重启(优雅重启),Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_25-golang_graceful_restart.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-25,1508889600.0
 traefik 教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_24-traefik.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-24,1508803200.0
-Web开发系列(九)：消息队列，异步任务,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Web开发系列(十一）：数据库扩展,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part11.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Web开发简介系列,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_series.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Nginx作为TCP/UDP的负载均衡,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-nginx_as_tcp_load_balancing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发系列(十)：事务和锁,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
+Web开发系列(九)：消息队列，异步任务,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
+Web开发简介系列,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_series.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
+Web开发系列(十一）：数据库扩展,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part11.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
+Nginx作为TCP/UDP的负载均衡,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-nginx_as_tcp_load_balancing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发系列(八)：单点故障，负载均衡,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(七)：缓存，CDN,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(六)：关系型数据库，ORM,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
@@ -48,4 +49,3 @@ Haskell简明教程（一）：从递归说起,Jiajun的编程随想,https://jia
 2017年必装的VIM插件推荐,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_03-2017_vim_plugins.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-03,1504396800.0
 TCP/IP简明教程 - 从零构建TCP/IP协议（二）连接，断开与拥塞控制,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_02-tcp_ip_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-02,1504310400.0
 从零开始的 macOS 生活,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-scratch-mac/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-08-31,1504137600.0
-我的地下刊物,Randy's Blog,https://lutaonan.com/blog/my-underground-publication/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-08-25,1503619200.0
