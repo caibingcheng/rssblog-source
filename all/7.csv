@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+SQL 防注入及原理,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_11_04-sql_injection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-11-04,1635984000.0
+分享一些阅读的好习惯,冰哥笔记,https://www.bgbiji.com/835.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-11-03,1635910099.0
 Git常用命令,Yulin Lewis' Blog,https://lewky.cn/posts/git-commands/,https://lewky.cn/,https://lewky.cn/index.xml,2021-11-02,1635867083.0
 C# 编程技巧,DearXuan的主页,https://dearxuan.top/2021/11/01/C-%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-01,1635767340.0
 记一次CDN被刷的经历,LonelyGod,https://hin.cool/posts/cdncc.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-01,1635724800.0
@@ -47,5 +49,3 @@ UWP编程基础,DearXuan的主页,https://dearxuan.top/2021/10/05/UWP%E7%BC%96%E
 谈谈服务器安全,LonelyGod,https://hin.cool/posts/serversec.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-03,1633219200.0
 提升程序的逼格：添加自动更新功能,Thrower的博客,https://thrower.cc/2021/addupdatertoprogram/,https://thrower.cc,https://thrower.cc/feed/,2021-10-01,1633076640.0
 gevent不是黑魔法(一): greenlet 实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_29-gevent_is_good_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-29,1632873600.0
-日喀则扎什伦布寺,无妄当自持,https://www.insidentally.com/articles/000018/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-09-28,1632819348.0
-[转载] 风声鹤唳,Frank笔记,https://frank2019.me/articles/2021/09/28/1632806116085.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-09-28,1632806116.0
