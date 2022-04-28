@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+求值策略：Applicative Order vs Normal Order,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_05_22-evaluation_strategy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-22,1526947200.0
+High Performance MySQL阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_05_17-high_performance_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-17,1526515200.0
+MySQL EXPLAIN中的filesort是什么？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_05_15-mysql_filesort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-15,1526342400.0
 数据库索引设计与优化,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_05_13-mysql_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-13,1526169600.0
 如何调试？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_05_08-how_to_debug.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-08,1525737600.0
 Structure of a Flask Project,Just lepture,https://lepture.com/en/2018/structure-of-a-flask-project,https://lepture.com/,https://lepture.com/feed.xml,2018-04-21,1524321044.0
@@ -46,6 +49,3 @@ traefik 教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_24
 Web开发系列(九)：消息队列，异步任务,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发简介系列,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_series.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发系列(十一）：数据库扩展,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part11.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Nginx作为TCP/UDP的负载均衡,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-nginx_as_tcp_load_balancing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Web开发系列(十)：事务和锁,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Web开发系列(七)：缓存，CDN,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
