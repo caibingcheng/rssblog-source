@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
 使用Drone CI构建CI/CD系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_04_29-drone_ci.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-29,1651190400.0
+PostgreSQL 操作笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_04_29-postgres_notes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-29,1651190400.0
 Golang migrate 做数据库变更管理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_04_28-golang_migrate_iofs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-28,1651104000.0
 使用PostgreSQL做搜索引擎,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_04_12-postgresql_fulltext_search.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-12,1649721600.0
 Nginx 源码阅读（三）: 连接池、内存池,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_23-nginx_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-23,1647993600.0
@@ -48,4 +49,3 @@ logrotate read only filesystem问题,Jiajun的编程随想,https://jiajunhuang.c
 Golang GIN写单测时，愉快的使用返回值,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_23-go_gin_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-23,1616457600.0
 Python Queue源码分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_20-python_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-20,1616198400.0
 Go里优雅的使用全局配置,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_18-go_config.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-18,1616025600.0
-Golang sync.Map源码分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_15-go_sync_map.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-15,1615766400.0
