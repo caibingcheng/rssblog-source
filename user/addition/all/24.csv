@@ -1,11 +1,12 @@
 title,author,link,home,rss,date,timestamp
+设计模式（2）- 深入浅出设计模式 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_22-head_first_design_patterns_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-22,1485043200.0
 设计模式（1）- 深入浅出设计模式 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_21-head_first_design_patterns.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-21,1484956800.0
 Cython! Python和C两个世界的交叉点,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_15-cython_rocks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-15,1484438400.0
 socketserver 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_09-socketserver_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-09,1483920000.0
 functools 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_08-functools_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-08,1483833600.0
 contextlib代码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_07-contextlib_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-07,1483747200.0
-Redis通信协议阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_06-redis_protocol_specification.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0
 Collections 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_06-collections_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0
+Redis通信协议阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_06-redis_protocol_specification.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0
 从 React 谈 Web UI 开发,Randy's Blog,https://lutaonan.com/blog/react-and-the-way-building-web-ui/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-01-01,1483228800.0
 2016年就要结束了，2017年就要开始啦！,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_31-2016_is_over_and_2017_is_coming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-31,1483142400.0
 unittest 源代码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_29-unittest_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-29,1482969600.0
@@ -48,4 +49,3 @@ React 生命周期函数小结,Yuexun's Blog,https://yuexunjiang.me/blog/react-l
 如何减少浏览器回流,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-reduce-the-browser-reflow,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-08-02,1470177993.0
 如何减少浏览器回流,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-reduce-the-browser-reflow/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-08-02,1470096000.0
 数组乱序的正确姿势,Yuexun's Blog,https://yuexunjiang.me/blog/the-right-way-to-array-of-random-sequence/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-07-25,1469404800.0
-Vue 中使用 highlight.js,Yuexun's Blog,https://yuexunjiang.me/blog/getting-highlightjs-to-work-with-vue.js/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-07-13,1468368000.0
