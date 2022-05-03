@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Use RSS and Kindle to Read News,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-15-Use-RSS-and-Kindle-to-Read-News.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-15,1597464000.0
 NSQ简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_15-nsq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-15,1597449600.0
 Docmate - 一个可以自由部署的文档平台,Randy's Blog,https://lutaonan.com/blog/announcing-docmate/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-08-15,1597449600.0
 我与小镇与家,云游君的小站,https://www.yunyoujun.cn/essay/i-and-town-and-home/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-14,1597442400.0
@@ -30,8 +31,8 @@ el-bot & mirai-ts 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/
 Go设计模式：桥接模式和策略模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_21-go_design_pattern_bridge.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-21,1592697600.0
 Go设计模式：单例模式、原型模式和Builder模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_20-go_design_pattern_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-20,1592611200.0
 操作系统也是CRUD,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_15-unix_crud.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-15,1592179200.0
-Go设计模式：简单工厂模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_13-go_design_pattern_factory.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
 把USB设备穿透给虚拟机里的系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_13-macos_kvm_usb_pass.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
+Go设计模式：简单工厂模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_13-go_design_pattern_factory.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
 debug故事之：事务让生活更美好,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_12-transaction_life_easy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-12,1591920000.0
 Fireside 遷移記,Just lepture,https://lepture.com/zh/2020/fireside-export,https://lepture.com/,https://lepture.com/feed.xml,2020-06-11,1591843954.0
 Go设计模式：模板模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_11-go_design_pattern_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-11,1591833600.0
@@ -48,4 +49,3 @@ glusterfs 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_
 Go的slice工作机制,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_23-go_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-23,1590192000.0
 Linux系统迁移记录(从HDD到SSD),Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_22-linux_clone_sys.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-22,1590105600.0
 Redis是如何工作的？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_21-how_does_redis_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-21,1590019200.0
-virsh自动关闭windows虚拟机,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_18-virsh_shutdown_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-18,1589760000.0
