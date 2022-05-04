@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Y Combinator《如何创业》笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_08-yc_startup.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-08,1544227200.0
 Go类型嵌套,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_01-go_embedding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-01,1543622400.0
 etcd源码阅读与分析（五）：mvcc,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_28-etcd_source_code_analysis_mvvc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-28,1543363200.0
 etcd源码阅读与分析（四）：lease,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_27-etcd_source_code_analysis_lease.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-27,1543276800.0
@@ -42,10 +43,9 @@ Go的custom import path,Jiajun的编程随想,https://jiajunhuang.com/articles/2
 Go Module 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_03-go_module.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-03,1535932800.0
 写了一个Telegram Bot：自动化分享高质量内容,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_02-write_a_tgbot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-02,1535846400.0
 Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-vim_speed_up.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
-为什么我选择放弃运营微信公众号？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 ArchLinux 怎么降级 package ？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
+为什么我选择放弃运营微信公众号？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Web后端工程师进阶指南(2018),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
-How to implement fork syscall in Golang?,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
+How to implement fork syscall in Golang?,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 关于运营的思考-运营要怎么做？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_26-about_traffic.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-26,1535241600.0
-Python中实现单例模式的n种方式和原理,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
