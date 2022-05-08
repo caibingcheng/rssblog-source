@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+解决k8s cron无法读取环境变量的问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
 VPS 手动在线一键重装系统脚本整理,ChrAlpha,https://blog.ichr.me/post/scripts-for-reinstalling-linux-vps/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-06,1586171300.0
 人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/diary/life-is-not-a-marathon/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1585983598.0
 N95口罩背后不为人知的历史,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/21.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-04,1585962960.0
@@ -48,4 +49,3 @@ Proxy Server | 正向代理与反向代理,ChrAlpha,https://blog.ichr.me/post/pr
 用 RIME 定制输入法,Yuexun's Blog,https://yuexunjiang.me/blog/custom-input-methods-with-rime,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-30,1580400000.0
 用 RIME 定制输入法,Yuexun's Blog,https://yuexunjiang.me/blog/custom-input-methods-with-rime/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-01-30,1580342400.0
 使 SSH 保持长时间连接,ChrAlpha,https://blog.ichr.me/post/keep-ssh-connection-alive-for-long/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-01-27,1580132331.0
-用 Tiny Tiny RSS 搭建自己的 RSS 服务端,ChrAlpha,https://blog.ichr.me/post/use-tt-rss-to-build-your-own-rss-service/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-01-20,1579535044.0
