@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+週記，九月三週,Just lepture,https://lepture.com/zh/2017/weekly-20170924,https://lepture.com/,https://lepture.com/feed.xml,2017-09-24,1506252839.0
+3D数学基础-向量运算基础和矩阵变换,萤火之森,http://frankorz.com/2017/09/22/basic-of-vector-and-matrix-transformation/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-09-22,1506078350.0
+像遊客一樣生活,Just lepture,https://lepture.com/zh/2017/live-better,https://lepture.com/,https://lepture.com/feed.xml,2017-09-22,1506065108.0
 HTTPS 的详细流程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_22-https_processes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-22,1506038400.0
 OAuth2 为什么需要 Authorization Code?,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_21-oauth2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-21,1505952000.0
 任务队列怎么写？python rq源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_20-task_queue_python_rq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-20,1505865600.0
@@ -46,6 +49,3 @@ Greenlet和Stackless Python,Jiajun的编程随想,https://jiajunhuang.com/articl
 从源码看Python的descriptor,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_04_19-python_descriptor_from_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-19,1492560000.0
 日光一日遊,Just lepture,https://lepture.com/zh/2017/one-day-in-nikko,https://lepture.com/,https://lepture.com/feed.xml,2017-04-16,1492358859.0
 Python字符串格式化,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_04_16-python_string_format.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-16,1492300800.0
-Gunicorn 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_04_08-gunicorn.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-08,1491609600.0
-談談 Markdown 編輯器,Just lepture,https://lepture.com/zh/2017/about-markdown-editor,https://lepture.com/,https://lepture.com/feed.xml,2017-04-05,1491405422.0
-閱乎，再見,Just lepture,https://lepture.com/zh/2017/close-yuehu,https://lepture.com/,https://lepture.com/feed.xml,2017-04-05,1491366370.0
