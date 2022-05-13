@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+nginx 日志小记,Nicksxs's Blog,https://nicksxs.me/2022/04/17/nginx-%E6%97%A5%E5%BF%97%E5%B0%8F%E8%AE%B0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-04-17,1650185658.0
+周刊第9期：Web 发展中的 100 个重大事件,4Ark × Blog,https://4ark.me/post/weekly-09.html,https://4ark.me/,https://4ark.me/rss.xml,2022-04-17,1650153600.0
 改变现状，需要新的尝试,冰哥笔记,https://www.bgbiji.com/911.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-16,1650120760.0
 写作六年了，来聊聊我和写作的故事,冰哥笔记,https://www.bgbiji.com/910.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-15,1649986848.0
 《建设全国统一大市场》解读分析,Frank笔记,https://frank2019.me/articles/2022/04/11/1649654817438.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-04-14,1649914175.0
@@ -47,5 +49,3 @@ Kubernetes、集群联邦和资源分发,面向信仰编程,https://draveness.me
 Hg hooks 实践历程,4Ark × Blog,https://4ark.me/post/hg-hooks.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-17,1647475200.0
 Go 泛型简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_17-go_generics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-17,1647475200.0
 读《摄影构图就这么简单》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/03/16/reading-composition.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-16,1647388800.0
-KVM 显卡穿透给 Windows,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_15-kvm_windows_gpu_passthrough.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-15,1647302400.0
-书评 | 如何提高学习效率，让知识真正转化为自身价值？,冰哥笔记,https://www.bgbiji.com/887.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-14,1647274175.0
