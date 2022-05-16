@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+谈谈碎片化时间,冰哥笔记,https://www.bgbiji.com/844.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-01-08,1641619488.0
+【Mybatis系列】Mybatis入门,框架师,https://www.mobaijun.com/posts/2794875020.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-07,1641539424.0
 【Web系列】SpringBoot防护XSS攻击配置,框架师,https://www.mobaijun.com/posts/407876058.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-06,1641448654.0
 lombok问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/lombok-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-06,1641430890.0
 使用DDNS+ipv6在公网访问群晖,LonelyGod,https://hin.cool/posts/ddnsipv6.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-01-05,1641398400.0
@@ -6,10 +8,10 @@ lombok问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/lombok-issues/,https
 【工具系列】轻量级虚拟机Multipass使用教程,框架师,https://www.mobaijun.com/posts/3701652676.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641351409.0
 Jackson问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/jackson-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-04,1641311142.0
 2021 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2021-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2022-01-03,1641168000.0
-PicGo插件：上传图片到多吉云存储,LonelyGod,https://hin.cool/posts/picgoplugin.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-01-02,1641081600.0
 EAF支持Wayland native啦!,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/01/02/eaf-support-wayland-native.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-01-02,1641081600.0
-Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/javaweb-servlet-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-01,1641050207.0
+PicGo插件：上传图片到多吉云存储,LonelyGod,https://hin.cool/posts/picgoplugin.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-01-02,1641081600.0
 Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/11/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-01,1641050207.0
+Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/javaweb-servlet-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-01,1641050207.0
 2021 年度总结,4Ark × Blog,https://4ark.me/post/2021-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2022-01-01,1640995200.0
 聊聊最近平淡的生活之《花束般的恋爱》观后感,Nicksxs's Blog,https://nicksxs.me/2021/12/31/%E8%81%8A%E8%81%8A%E6%9C%80%E8%BF%91%E5%B9%B3%E6%B7%A1%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B9%8B%E3%80%8A%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1%E3%80%8B%E8%A7%82%E5%90%8E%E6%84%9F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-31,1640964911.0
 2021 – 2022,非理勿试,https://www.ntiy.com/1681.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-12-31,1640937263.0
@@ -47,5 +49,3 @@ PostgreSQL - DML操作汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql
 个人的时间是有限的,近视眼逛博客,https://blog.dtz9.com/2021/12/Individual-time-is-limited.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-12-06,1638804587.0
 PicSizer-将图片压缩到指定大小(KB)的软件,DearXuan的主页,https://dearxuan.top/2021/12/06/PicSizer-%E5%B0%86%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E5%88%B0%E6%8C%87%E5%AE%9A%E5%A4%A7%E5%B0%8F-KB-%E7%9A%84%E8%BD%AF%E4%BB%B6/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-12-06,1638791700.0
 一行 Object.keys() 引发的血案,4Ark × Blog,https://4ark.me/post/how-object-keys-work.html,https://4ark.me/,https://4ark.me/rss.xml,2021-12-06,1638748800.0
-聊聊部分公交车的设计bug,Nicksxs's Blog,https://nicksxs.me/2021/12/05/%E8%81%8A%E8%81%8A%E9%83%A8%E5%88%86%E5%85%AC%E4%BA%A4%E8%BD%A6%E7%9A%84%E8%AE%BE%E8%AE%A1bug/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-05,1638711438.0
-wordpress 忘记密码的一种解决方法,Nicksxs's Blog,https://nicksxs.me/2021/12/05/wordpress-%E5%BF%98%E8%AE%B0%E5%AF%86%E7%A0%81%E7%9A%84%E4%B8%80%E7%A7%8D%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-05,1638707458.0
