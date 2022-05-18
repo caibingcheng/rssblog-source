@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+TCMalloc设计文档学习,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
 Understand Liveness and Fairness in TLA+,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-06-Understand-Liveness-and-Fairness-in-TLA.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-06,1601956800.0
 如果这还都还不算抄袭的话,ChrAlpha,https://blog.ichr.me/post/monologue-of-a-rubbish/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-05,1601937406.0
 博客新增公开笔记部分,萤火之森,http://frankorz.com/2020/10/03/add-note-section-to-blog/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-10-03,1601740410.0
@@ -12,8 +13,8 @@ ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an
 Flask和requests做一个简单的请求代理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
 借助 Magisk 优化/个性化 Android 中文字体显示效果,ChrAlpha,https://blog.ichr.me/post/improve-android-font-style-with-magisk/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-09-25,1601064971.0
 Linux常用命令(四)：xargs,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_21-linux_cmd_xargs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-21,1600646400.0
-Linux常用命令(三)：watch,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
 Linux常用命令(二)：htop,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_htop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
+Linux常用命令(三)：watch,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
 升级 IOS 14 的一些坑,4Ark × Blog,https://4ark.me/post/7b1778ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-09-19,1600529843.0
 Linux常用命令(一)：netcat,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600.0
 装修脑壳痛：家庭万兆光纤网络、智能家居,罗磊的独立博客,https://luolei.org/apartment-log-book-network/,https://luolei.org,https://luolei.org/feed/,2020-09-18,1600428621.0
@@ -48,4 +49,3 @@ What Is Wrong about Recommendation System,Bin Wang - My Personal Blog,https://ww
 程序员的MySQL手册(五)：索引优化,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_28-mysql_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-28,1595894400.0
 程序员的MySQL手册(四)：索引设计,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_27-mysql_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-27,1595808000.0
 图形学常见的变换推导,萤火之森,http://frankorz.com/2020/07/26/transformation/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-07-26,1595785595.0
-程序员的MySQL手册(三)：数据库设计,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_26-mysql_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-26,1595721600.0

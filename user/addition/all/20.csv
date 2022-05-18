@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+记一次Golang TLS编程踩坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_01_30-golang_tls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-30,1548806400.0
 健身一年,Randy's Blog,https://lutaonan.com/blog/one-year-of-bulking/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-01-14,1547424000.0
 不越狱在 iOS 12.113.3 设备安装 Kodi,萤火之森,http://frankorz.com/2019/01/13/install-kodi-with-tweakbox/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-01-13,1547402460.0
 杂谈,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_01_13-goroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-13,1547337600.0
@@ -48,4 +49,3 @@ Golang的反射,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_1
 处理并发的方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_07-concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-07,1541548800.0
 常见的索引方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_02-index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-02,1541116800.0
 Golang 实践经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_01-golang_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-01,1541030400.0
-高性能MySQL笔记第一章,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_10_23-high_performance_mysql_chap1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-23,1540252800.0
