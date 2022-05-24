@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+国内自建图床指南,Randy's Blog,https://lutaonan.com/blog/aliyun-cdn-tutorial/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-07,1583539200.0
 在 Hexo 博客中更优雅地使用 LaTeX 数学公式,ChrAlpha,https://blog.ichr.me/post/fix-mathjax-layout-bugs-in-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-06,1583503087.0
 MySQL Boolean类型的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_06-mysql_boolean_tinyint_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-06,1583452800.0
 Hexo 博客 | 链接分享卡片生成配置,ChrAlpha,https://blog.ichr.me/post/hexo-generate-link-sharing-card/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-05,1583423588.0
@@ -23,8 +24,8 @@ KVM spice协议在高分屏上的分辨率问题,Jiajun的编程随想,https://j
 MDr 主题的使用指南,FlyingSky's Blog,https://blog.fsky7.com/archives/93/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-02-06,1580987280.0
 Proxy Server | 正向代理与反向代理,ChrAlpha,https://blog.ichr.me/post/proxy-and-reverse-proxy/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-03,1580693916.0
 《图解 C# 教程 第5版》与性能优化,萤火之森,http://frankorz.com/2020/01/31/illustrated-csharp-and-performance/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-01-31,1580515158.0
-用 RIME 定制输入法,Ahonn's Blog,https://www.ahonn.me/blog/custom-input-methods-with-rime,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-01-30,1580400000.0
 用 RIME 定制输入法,Yuexun's Blog,https://yuexunjiang.me/blog/custom-input-methods-with-rime,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-30,1580400000.0
+用 RIME 定制输入法,Ahonn's Blog,https://www.ahonn.me/blog/custom-input-methods-with-rime,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-01-30,1580400000.0
 用 RIME 定制输入法,Yuexun's Blog,https://yuexunjiang.me/blog/custom-input-methods-with-rime/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-01-30,1580342400.0
 使 SSH 保持长时间连接,ChrAlpha,https://blog.ichr.me/post/keep-ssh-connection-alive-for-long/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-01-27,1580132331.0
 用 Tiny Tiny RSS 搭建自己的 RSS 服务端,ChrAlpha,https://blog.ichr.me/post/use-tt-rss-to-build-your-own-rss-service/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-01-20,1579535044.0
@@ -48,4 +49,3 @@ RE: 2019 年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2019-summary,https:
 Matebook X Pro 2019安装Debian 10,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_24-matebook_x_pro_2019_debian_10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-24,1577145600.0
 ArchLinux忽略某个包的升级,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_22-archlinux_ignore_pkg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-22,1576972800.0
 优化 Google Analytics 使用体验——借助 Cloudflare Workers 或其他,ChrAlpha,https://blog.ichr.me/post/optimize-google-analytics/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-12-21,1576946810.0
-How to style RSS feed,Just lepture,https://lepture.com/en/2019/rss-style-with-xsl,https://lepture.com/,https://lepture.com/feed.xml,2019-12-21,1576916648.0

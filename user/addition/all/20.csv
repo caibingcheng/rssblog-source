@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+随想,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_16-tittle_tattle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-16,1552694400.0
 Golang中的错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_15-golang_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-15,1552608000.0
 Golang 的槽点,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_14-golang_bad_side.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-14,1552521600.0
 一个想当然的bug,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_12-golang_strings_split.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-12,1552348800.0
@@ -48,4 +49,3 @@ etcd源码阅读与分析（一）：raftexample,Jiajun的编程随想,https://j
 new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-11-17,1542486792.0
 new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-11-17,1542412800.0
 Raft论文阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_16-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
-Go访问私有变量,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_16-go_private_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
