@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+GORM源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_19-gorm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-19,1552953600.0
 随想,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_16-tittle_tattle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-16,1552694400.0
 Golang中的错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_15-golang_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-15,1552608000.0
 Golang 的槽点,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_14-golang_bad_side.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-14,1552521600.0
@@ -48,4 +49,3 @@ etcd源码阅读与分析（一）：raftexample,Jiajun的编程随想,https://j
 虚拟机里的Ubuntu sudo时卡住,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_18-ubuntu_sudo_hang.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-18,1542499200.0
 new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-11-17,1542486792.0
 new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-11-17,1542412800.0
-Raft论文阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_16-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
