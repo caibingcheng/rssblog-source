@@ -101,10 +101,10 @@ jobs:
           ls -lh ./
       - name: Commit files
         run: |
-          git config --local user.email "caibingcheng@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
           git add .
-          git commit -m "daily update" --allow-empty
+          git commit -m "daily update $(date +'%B %d, %Y %T (%Z)')" --allow-empty
       - name: Push changes
         if: ${{ github.ref == 'refs/heads/master' }}
         uses: ad-m/github-push-action@master
