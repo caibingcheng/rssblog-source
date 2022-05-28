@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+gunicorn max-requests 选项的作用,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_25-gunicorn_max_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-25,1585094400.0
 Redis使用中的几点注意事项,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_23-redis_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-23,1584921600.0
 如何打造好看还好用的 Windows Terminal,ChrAlpha,https://blog.ichr.me/post/windows-terminal-configuration/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-21,1584823047.0
 Java的远程调试Remote Debug,雨临Lewis,https://lewky.cn/posts/java-remote-debug.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-03-17,1584459040.0
@@ -42,10 +43,9 @@ Proxy Server | 正向代理与反向代理,ChrAlpha,https://blog.ichr.me/post/pr
 Eclipse - 快捷键篇,雨临Lewis,https://lewky.cn/posts/eclipse-hotkey.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-01-18,1579359889.0
 计算机中的权衡(trade-off),Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_11-paradigm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-11,1578700800.0
 [声明]本站所有文章禁止转载,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_10-please_do_not_copy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-10,1578614400.0
-Golang不那么蛋疼的sort,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_07-golang_sort_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-07,1578355200.0
 从「后端现在已经看不懂前端了」说起,Randy's Blog,https://lutaonan.com/blog/to-frontend-prejudicers/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-07,1578355200.0
+Golang不那么蛋疼的sort,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_07-golang_sort_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-07,1578355200.0
 Flutter给Android应用签名,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_06-flutter_sign_android_apk.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-06,1578268800.0
 JDK自带的那些好用的工具,雨临Lewis,https://lewky.cn/posts/jdk-tools.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-01-03,1578034779.0
 React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
 React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
-使用Gitea+Drone打造自己的CI/CD系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_01-use_gitea_with_drone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-01,1577836800.0
