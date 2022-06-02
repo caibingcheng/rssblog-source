@@ -28,8 +28,11 @@ def cut(out, df, batch):
 
 
 def merge(out, fetch, dupset=["link"]):
-    df = pandas.read_csv(fetch + "new.csv", encoding="utf-8")
-    dfs = [df]
+    dfs = []
+    # fetch可能拿不到数据，但是也会创建对应的目录，所以需要判断是否存在
+    if os.path.exists(fetch + "new.csv"):
+        df = pandas.read_csv(fetch + "new.csv", encoding="utf-8")
+        dfs.append(df)
     idx = 1
     while True:
         # 为什么之前是idx + 1 ????
@@ -39,11 +42,14 @@ def merge(out, fetch, dupset=["link"]):
             break
         df_batch = pandas.read_csv(batch_file, encoding="utf-8")
         dfs.append(df_batch)
-    df = pandas.concat(dfs)
-    # 先排序
-    df = df.sort_values(by="timestamp", ascending=False)
-    # 再去重，保证去重保留的是最新的，当dupset=["home"]时需要这样考虑
-    df = df.drop_duplicates(subset=dupset, keep="first")
+    
+    df = []
+    if dfs:
+        df = pandas.concat(dfs)
+        # 先排序
+        df = df.sort_values(by="timestamp", ascending=False)
+        # 再去重，保证去重保留的是最新的，当dupset=["home"]时需要这样考虑
+        df = df.drop_duplicates(subset=dupset, keep="first")
     batch_num = cut(out, df, SPLIT)
     return batch_num
 

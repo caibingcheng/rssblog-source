@@ -42,14 +42,18 @@ def fetch_source(rss_fetch_source_dir, rss):
         } for et in rp["entries"]]
 
         url_hash = hash_url(r)
+        rss_dir = rss_fetch_source_dir + url_hash + "/"
+        # 不管能不能获取到，先创建一个目录
+        # 好处是保证完整性，不管怎么样都有所有的source
+        # 坏处是，后续merge操作可能需要判断路径空
+        if not os.path.isdir(rss_dir):
+            os.makedirs(rss_dir)
+
         df = pandas.json_normalize(rss_link)
         if len(df) <= 0:
             print("fetching skip", r, "to", url_hash,
                   "size", len(rss_link), len(df))
             continue
-        rss_dir = rss_fetch_source_dir + url_hash + "/"
-        if not os.path.isdir(rss_dir):
-            os.makedirs(rss_dir)
         df.to_csv(rss_dir + "new.csv", index=False,
                   sep=",", encoding="utf-8")
     print("fetch new rss done")
