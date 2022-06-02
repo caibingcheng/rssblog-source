@@ -3,6 +3,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 16,4,10 * * *'
+  push:
+    branches:
+      - dev
 
 jobs:
   build:
