@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-五一二雜感,Just lepture,https://lepture.com/zh/2017/yang-yong-xin,https://lepture.com/,https://lepture.com/feed.xml,2017-05-16,1494944556.0
-Golang的short variable declaration,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_05_12-golang_short_variable_declaration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-12,1494547200.0
-我的编程经历,Randy's Blog,https://lutaonan.com/blog/my-coding-road/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-05-12,1494547200.0
-牛島觀藤記,Just lepture,https://lepture.com/zh/2017/ushijima-fuji,https://lepture.com/,https://lepture.com/feed.xml,2017-05-08,1494251018.0
-你好，Typlog,Just lepture,https://lepture.com/zh/2017/hello-typlog,https://lepture.com/,https://lepture.com/feed.xml,2017-05-02,1493739135.0
-Greenlet和Stackless Python,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_04_26-greenlet.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-26,1493164800.0
-写一个简单的ORM,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_04_25-write_your_own_orm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-25,1493078400.0
-談談 AMP 及其他,Just lepture,https://lepture.com/zh/2017/thought-on-amp,https://lepture.com/,https://lepture.com/feed.xml,2017-04-20,1492700701.0
-搭建自己的 Gitlab CI Runner,Randy's Blog,https://lutaonan.com/blog/gitlab-ci-runner/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-04-20,1492646400.0
-从源码看Python的descriptor,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_04_19-python_descriptor_from_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-19,1492560000.0
-日光一日遊,Just lepture,https://lepture.com/zh/2017/one-day-in-nikko,https://lepture.com/,https://lepture.com/feed.xml,2017-04-16,1492358859.0
-Python字符串格式化,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_04_16-python_string_format.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-16,1492300800.0
-Gunicorn 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_04_08-gunicorn.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-08,1491609600.0
-談談 Markdown 編輯器,Just lepture,https://lepture.com/zh/2017/about-markdown-editor,https://lepture.com/,https://lepture.com/feed.xml,2017-04-05,1491405422.0
-閱乎，再見,Just lepture,https://lepture.com/zh/2017/close-yuehu,https://lepture.com/,https://lepture.com/feed.xml,2017-04-05,1491366370.0
-Raft 论文阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_29-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-29,1490745600.0
-开始使用 Neovim,Ahonn's Blog,https://www.ahonn.me/blog/use-neovim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-03-27,1490613006.0
-开始使用 Neovim,Yuexun's Blog,https://yuexunjiang.me/blog/use-neovim,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-03-27,1490613006.0
-开始使用 Neovim,Yuexun's Blog,https://yuexunjiang.me/blog/use-neovim/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-03-27,1490572800.0
-阿里巴巴暑假实习面试总结,Yuexun's Blog,https://yuexunjiang.me/blog/alibaba-summer-internship-interview-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-03-16,1489622400.0
-做技术要自信,Randy's Blog,https://lutaonan.com/blog/do-have-faith-with-yourself/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-03-14,1489449600.0
-什么是 Golang Comparable Types,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_06-golang_comparable_types.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-06,1488758400.0
-MapReduce 论文阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_02-map_reduce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
-GFS 论文阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_02-gfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
-一起来做贼：Goroutine原理和Work stealing,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
-Vim 折腾记,Ahonn's Blog,https://www.ahonn.me/blog/notes-of-vim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
-Vim 折腾记,Yuexun's Blog,https://yuexunjiang.me/blog/notes-of-vim,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
-Vim 折腾记,Yuexun's Blog,https://yuexunjiang.me/blog/notes-of-vim/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-02-19,1487462400.0
-电脑键盘上的流行钢琴伴奏,Randy's Blog,https://lutaonan.com/blog/piano-on-computer-keyboard/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-02-19,1487462400.0
-Go语言的defer， panic和recover,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_02_15-go_defer_panic_and_recover.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-15,1487116800.0
-JavaScript 继承的那些事,Yuexun's Blog,https://yuexunjiang.me/blog/something-about-javaScript-inherit/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-01-24,1485216000.0
-再读 Python Language Reference,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_24-python_language_reference.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
-再读vim help：vim小技巧,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_24-vim_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
-设计模式（2）- 深入浅出设计模式 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_22-head_first_design_patterns_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-22,1485043200.0
-设计模式（1）- 深入浅出设计模式 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_21-head_first_design_patterns.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-21,1484956800.0
-Cython! Python和C两个世界的交叉点,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_15-cython_rocks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-15,1484438400.0
-socketserver 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_09-socketserver_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-09,1483920000.0
-functools 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_08-functools_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-08,1483833600.0
-contextlib代码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_07-contextlib_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-07,1483747200.0
-Redis通信协议阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_06-redis_protocol_specification.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0
-Collections 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_06-collections_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0
-从 React 谈 Web UI 开发,Randy's Blog,https://lutaonan.com/blog/react-and-the-way-building-web-ui/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-01-01,1483228800.0
-2016年就要结束了，2017年就要开始啦！,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_31-2016_is_over_and_2017_is_coming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-31,1483142400.0
-unittest 源代码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_29-unittest_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-29,1482969600.0
-2016 年终总结,Randy's Blog,https://lutaonan.com/blog/2016-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-12-28,1482883200.0
-APUEv3 - 重读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_26-apue_v3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-26,1482710400.0
-Mock源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_22-mock_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-22,1482364800.0
-Thinking in Python,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_16-thinking_in_python.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-16,1481846400.0
-从零开始制作 Hexo 主题,Ahonn's Blog,https://www.ahonn.me/blog/create-a-hexo-theme-from-scratch,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-12-15,1481823827.0
-从零开始制作 Hexo 主题,Yuexun's Blog,https://yuexunjiang.me/blog/create-a-hexo-theme-from-scratch,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-12-15,1481823827.0
+删除分区表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_26-delete_disk_partition_table.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-26,1545782400.0
+YouCompleteMe ycmd server SHUTDOWN 和 pyenv的问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_24-ycm_pyenv.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
+Docker组件介绍（二）：shim， docker-init和docker-proxy,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_24-docker_components_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
+Docker组件介绍（一）：runc和containerd,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_22-docker_components.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-22,1545436800.0
+2018 香港流行音乐推介,Randy's Blog,https://lutaonan.com/blog/2018-cantonpop-list/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-12-19,1545177600.0
+Prometheus MySQL Exporter源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_16-prometheus_mysqld_exporter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-16,1544918400.0
+MySQL性能指标,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_13-db_metrics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-13,1544659200.0
+使用Dropbox来备份服务器文件,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_12-use_dropbox_to_backup_server.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-12,1544572800.0
+《计算机网络-系统方法》读书笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_10-computer_network_systems_approach.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-10,1544400000.0
+Y Combinator《如何创业》笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_08-yc_startup.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-08,1544227200.0
+Go类型嵌套,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_01-go_embedding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-01,1543622400.0
+etcd源码阅读与分析（五）：mvcc,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_28-etcd_source_code_analysis_mvvc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-28,1543363200.0
+etcd源码阅读与分析（四）：lease,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_27-etcd_source_code_analysis_lease.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-27,1543276800.0
+干了这碗叔本华牌毒鸡汤 --- 《人生的智慧》,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_26-the_wisdom_of_life_on_human_nature.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-26,1543190400.0
+etcd源码阅读与分析（三）：wal,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_24-etcd_source_code_analysis_wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
+Memory leak in net/http,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_24-memory_leak_in_net_http.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
+etcd源码阅读与分析（二）：raft,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_22-etcd_source_code_analysis_raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-22,1542844800.0
+etcd源码阅读与分析（一）：raftexample,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_20-etcd_source_code_analysis_raftexample.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-20,1542672000.0
+虚拟机里的Ubuntu sudo时卡住,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_18-ubuntu_sudo_hang.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-18,1542499200.0
+new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-11-17,1542486792.0
+new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-11-17,1542412800.0
+Raft论文阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_16-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
+Go访问私有变量,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_16-go_private_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
+避免全局变量,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_15-avoid_global_states.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-15,1542240000.0
+Go的unsafe包,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_13-golang_package_unsafe.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-13,1542067200.0
+Golang中实现禁止拷贝,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
+人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0
+数据库事务,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_10-transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
+Golang的反射,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_10-golang_reflection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
+把网站去掉CSS之后,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_09-drop_css.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-09,1541721600.0
+处理并发的方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_07-concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-07,1541548800.0
+常见的索引方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_02-index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-02,1541116800.0
+Golang 实践经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_01-golang_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-01,1541030400.0
+高性能MySQL笔记第一章,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_10_23-high_performance_mysql_chap1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-23,1540252800.0
+面试的一些技巧,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_10_21-interview_techniques.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-21,1540080000.0
+HTTP/2 简介,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_10_13-http2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-13,1539388800.0
+我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0
+独立运营博客一年的一些数据分享,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
+To B(usiness) 和 To C(ustomer),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_22-to_b_to_c.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-22,1537574400.0
+PyCon JP 2018 記,Just lepture,https://lepture.com/zh/2018/pycon-jp-2018,https://lepture.com/,https://lepture.com/feed.xml,2018-09-19,1537364456.0
+常见的软件架构套路,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
+Cookie 中的secure和httponly属性,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-cookie_secure_httponly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
+JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-09-15,1536969687.0
+JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-09-15,1536969600.0
+一个阅读源代码的技巧,Randy's Blog,https://lutaonan.com/blog/trick-for-reading-source-code/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-09-14,1536883200.0
+高效的 GraphQL + Ant.Design,Randy's Blog,https://lutaonan.com/blog/effective-graphql-and-antd/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-09-12,1536710400.0
+摩登 OAuth 2.0：簡介,Just lepture,https://lepture.com/zh/2018/oauth2-intro,https://lepture.com/,https://lepture.com/feed.xml,2018-09-11,1536635588.0
+Google Ads使用体验,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_10-google_ads.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-10,1536537600.0
+Go的custom import path,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_07-go_custom_import_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-07,1536278400.0
+如何挖掘二级子域名？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_06-how_to_dig_subdomain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-06,1536192000.0

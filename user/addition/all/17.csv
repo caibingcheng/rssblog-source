@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-我设计的第一个桌游,萤火之森,http://frankorz.com/2018/04/13/first-board-game/,http://frankorz.com/,https://frankorz.com/atom.xml,2018-04-13,1523630707.0
-容器时代的日志处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_12-docker_logging.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-12,1523491200.0
-Golang和Thrift,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_10-golang_thrift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-10,1523318400.0
-折腾Kubernetes,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_05-kubernetes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-05,1522886400.0
-协程(coroutine)简介 - 什么是协程？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_03-coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-03,1522713600.0
-goroutine 切换的时候发生了什么？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_29-goroutine_schedule.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-29,1522281600.0
-Prometheus 数据类型,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_19-prometheus.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-19,1521417600.0
-Gin源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_16-gin_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-16,1521158400.0
-如何面试-作为面试官得到的经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_10-interview.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-10,1520640000.0
-自己写一个容器,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_09-write_you_a_container.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-09,1520553600.0
-Golang(Go语言)中实现典型的fork调用,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_08-golang_fork.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-08,1520467200.0
-软件开发之禅---大事化小，各个击破,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_26-zen_of_dev.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-26,1519603200.0
-程序员的自我修养：链接，装载与库 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_25-linker_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-25,1519516800.0
-Redis源码阅读与分析三：哈希表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_hash_table.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
-Redis源码阅读与分析二：双链表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_doubly_linked_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
-Redis源码阅读与分析一：sds,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_sds.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
-Golang runtime 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_02-golang_runtime.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-02,1517529600.0
-Golang的一些坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_31-golang_traps.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-31,1517356800.0
-GC 垃圾回收,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_30-gc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-30,1517270400.0
-设计一个路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_28-router_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-28,1517097600.0
-Go语言性能优化实战,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_22-golang_optimization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-22,1516579200.0
-那些年开发的时候踩过的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_14-pitfalls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-14,1515888000.0
-Announcement of Authlib,Just lepture,https://lepture.com/en/2018/announcement-of-authlib,https://lepture.com/,https://lepture.com/feed.xml,2018-01-08,1515417697.0
-(关系型)数据库优化总结,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_08-db_optimizations.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-08,1515369600.0
-动态规划民科教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_04-dynamic_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-04,1515024000.0
-2017 年终总结,Randy's Blog,https://lutaonan.com/blog/2017-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-01-03,1514937600.0
-Golang 分布式异步任务队列 Machinery 教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_30-golang_task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-30,1514592000.0
-2017 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2017-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-12-29,1514505600.0
-使用geohash完成地理距离计算,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_27-geohash.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-27,1514332800.0
-YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-me-money/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-12-26,1514283748.0
-2018年就要到了，这一年都做了什么呢？,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_20-2017_is_over_and_2018_is_coming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-20,1513728000.0
-寻路算法-贪婪最佳优先算法,萤火之森,http://frankorz.com/2017/12/16/greedy-best-find-search/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-12-16,1513466667.0
-算法导论阅读笔记 --- 排序算法,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_02-algorithms_sorting.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-02,1512172800.0
-短链系统的实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_29-short_url.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
-Git HTTPS 如何保存密码,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_29-git_credential_store.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
-程序员修炼之道 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_13-the_programmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-13,1510531200.0
-Python开发实践经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_04-python_develop_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-04,1509753600.0
-三藩記,Just lepture,https://lepture.com/zh/2017/san-francisco-trip,https://lepture.com/,https://lepture.com/feed.xml,2017-11-02,1509637087.0
-Golang实现平滑重启(优雅重启),Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_25-golang_graceful_restart.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-25,1508889600.0
-traefik 教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_24-traefik.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-24,1508803200.0
-Web开发系列(十)：事务和锁,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Nginx作为TCP/UDP的负载均衡,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-nginx_as_tcp_load_balancing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Web开发简介系列,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_series.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Web开发系列(十一）：数据库扩展,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part11.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Web开发系列(九)：消息队列，异步任务,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Nginx 请求匹配规则,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-nginx_request_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
-Web开发系列(八)：单点故障，负载均衡,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
-Web开发系列(七)：缓存，CDN,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
-Web开发系列(六)：关系型数据库，ORM,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
-Web开发系列(五)：form， json， xml,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_17-web_dev_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-17,1508198400.0
+未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0
+自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
+自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
+GCC默认的头文件搜索路径,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_16-gcc_header_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-16,1563235200.0
+读《远见-如何规划职业生涯3大阶段》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_15-the_long_view.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-15,1563148800.0
+洞明 Unity ECS 基础概念,萤火之森,http://frankorz.com/2019/07/14/clarify-ecs-basic-concept/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-07-14,1563135180.0
+后端工程师学前端(五): SASS,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_13-learn_front_end_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-13,1562976000.0
+后端工程师学前端(四): CSS进阶(盒子模型),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_10-learn_front_end_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-10,1562716800.0
+读《投资中最简单的事》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_06-the_simple_things_in_investment.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-06,1562371200.0
+后端工程师学前端(三): CSS进阶(特指度、单位和字体族),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_04-learn_front_end_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-04,1562198400.0
+后端工程师学前端(二): CSS基础知识(规则与选择器),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_02-learn_front_end_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-02,1562025600.0
+Swift语法笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_25-swift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-25,1561420800.0
+后端工程师学前端(一): HTML,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_23-learn_front_end.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-23,1561248000.0
+读《管理的实践》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_23-the_practice_of_management.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-23,1561248000.0
+frp 源码阅读与分析(二)：TCP内网穿透的实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_19-frp_source_code_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-19,1560902400.0
+井底之蛙的一片天空,Randy's Blog,https://lutaonan.com/blog/to-hongkong-people/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-17,1560729600.0
+五天不用微信 - 爽得很,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_15-leave_wechat_for_5_days.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-15,1560556800.0
+我想得到它，因为它是好的,Randy's Blog,https://lutaonan.com/blog/want-it-cuz-it-is-right/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-13,1560384000.0
+为你写的一首诗,Randy's Blog,https://lutaonan.com/blog/a-poem-for-you/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-12,1560297600.0
+frp 源码阅读与分析(一)：流程和概念,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_11-frpc_source_code_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-11,1560211200.0
+博客近期的变化,Randy's Blog,https://lutaonan.com/blog/nearly-blog-change/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-11,1560211200.0
+学习frp源码之简洁的在两个connection之间转发流量,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_10-learn_from_frp_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-10,1560124800.0
+談談獨立播客,Just lepture,https://lepture.com/zh/2019/indie-podcasts,https://lepture.com/,https://lepture.com/feed.xml,2019-06-09,1560063101.0
+自己动手写一个反向代理,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_09-write_you_a_simple_reverse_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-09,1560038400.0
+读《债务危机》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_08-big_debt_crises.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
+从XMonad迁移到i3,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_08-migrate_from_xmonad_to_i3wm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
+服务器IP被ban学到的经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_06-ip_ban.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
+socks5 协议详解,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_06-socks5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
+开启HSTS(HTTP Strict Transport Security),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_04-hsts.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-04,1559606400.0
+从Chrome切换到Firefox,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_01-from_chrome_to_firefox.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-01,1559347200.0
+网络乞讨之合并支付宝和微信的收款二维码,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_01-combine_wechat_alipay.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-01,1559347200.0
+Linux下当笔记本合上盖子之后只使用扩展显示器,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_31-turnoff_screen_when_lid_is_closed.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-31,1559260800.0
+nomad简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_31-nomad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-31,1559260800.0
+Ubuntu 18.04 dhcp更换新IP,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_30-ubuntu_1804_dhcp_new_ip.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-30,1559174400.0
+Python中的新式类(new style class)和老式类(old style class),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_29-python_old_new_style_class.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-29,1559088000.0
+Python Requests 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_18-requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-18,1558137600.0
+密码技术简明教程(三)：证书和TLS,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_15-crypto_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-15,1557878400.0
+密码技术简明教程(二)：散列、消息认证码和数字签名,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_14-crypto_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-14,1557792000.0
+SEO学习笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_14-seo.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-14,1557792000.0
+密码技术简明教程(一)：对称加密和非对称加密,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_12-crypto.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-12,1557619200.0
+Kubernetes 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_10-kubernetes_tutorial.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-10,1557446400.0
+go mod 和 logrus 路径大小写的问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_09-go_mod_logrus.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-09,1557360000.0
+Flask自动加载Blueprint,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_08-flask_load_bp_automaticly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-08,1557273600.0
+Unity DOTS 走马观花,萤火之森,http://frankorz.com/2019/05/07/simple-talk-unity-dots/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-05-07,1557264120.0
+在KVM里安装Minikube,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_07-minikube_kvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-07,1557187200.0
+貓與網絡暴力,Just lepture,https://lepture.com/zh/2019/cat-and-violence,https://lepture.com/,https://lepture.com/feed.xml,2019-05-01,1556720168.0
+如何使用 Hammerspoon 实现剪贴板历史,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-clipboard-history-with-hammerspoon/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
+如何使用 Hammerspoon 实现剪贴板历史,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
+如何使用 Hammerspoon 实现剪贴板历史,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
+搞定面试中的系统设计题,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_29-system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-29,1556496000.0

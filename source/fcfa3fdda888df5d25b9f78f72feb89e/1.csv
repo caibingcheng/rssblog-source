@@ -1,9 +1,11 @@
 title,author,link,home,rss,date,timestamp
+遗憾最小化框架 —— 如何做决定,Randy's Blog,https://lutaonan.com/blog/regret-minimization-framework/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-05-29,1653838255.0
 再谈辍学,Randy's Blog,https://lutaonan.com/blog/talking-about-dropout-again/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-10-20,1634688000.0
 开着特斯拉从广州到苏州的小记,Randy's Blog,https://lutaonan.com/blog/trip-from-guangzhou-to-suzhou/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-07-20,1626739200.0
 Next.js 应用开发实践,Randy's Blog,https://lutaonan.com/blog/the-book-nextjs-in-action/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-06-16,1623801600.0
 我给自己设立了每月 $20 的开源捐赠预算,Randy's Blog,https://lutaonan.com/blog/my-oss-donation-budget/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-05-12,1620777600.0
 Svelte 的异步更新实现原理,Randy's Blog,https://lutaonan.com/blog/how-svelte-set-state-works/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-04-11,1618099200.0
+读《蒂姆·库克传》,Randy's Blog,https://lutaonan.com/blog/reading-tim-cook/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-03-14,1615680000.0
 我对 Svelte 的看法,Randy's Blog,https://lutaonan.com/blog/svelte/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-03-09,1615248000.0
 做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
 2020 年终总结,Randy's Blog,https://lutaonan.com/blog/2020-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-10,1610236800.0
@@ -13,8 +15,10 @@ Docmate - 一个可以自由部署的文档平台,Randy's Blog,https://lutaonan.
 离开阿里巴巴,Randy's Blog,https://lutaonan.com/blog/leaving-alibaba/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-17,1589673600.0
 说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
 国内自建图床指南,Randy's Blog,https://lutaonan.com/blog/aliyun-cdn-tutorial/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-07,1583539200.0
+好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
 从「后端现在已经看不懂前端了」说起,Randy's Blog,https://lutaonan.com/blog/to-frontend-prejudicers/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-07,1578355200.0
 2019 年终总结：慢慢变成别人眼中「食古不化」的「怪人」,Randy's Blog,https://lutaonan.com/blog/2019-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-01,1577836800.0
+为了你爱的人，读一读《非暴力沟通》,Randy's Blog,https://lutaonan.com/blog/nonviolent-communication/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-12-25,1577232000.0
 录翻唱需要哪些设备,Randy's Blog,https://lutaonan.com/blog/how-to-record-cover/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-12-15,1576368000.0
 博客改版及 Tailwind CSS 实践,Randy's Blog,https://lutaonan.com/blog/what-is-tailwindcss-and-how-did-i-apply-it-on-my-blog/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-12,1573516800.0
 为什么无法坚持写博客,Randy's Blog,https://lutaonan.com/blog/reason-why-your-blog-is-not-alive/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-05,1572912000.0
@@ -45,7 +49,3 @@ Serlina: 渐进式的 React 服务器渲染框架,Randy's Blog,https://lutaonan.
 搭建自己的 Gitlab CI Runner,Randy's Blog,https://lutaonan.com/blog/gitlab-ci-runner/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-04-20,1492646400.0
 做技术要自信,Randy's Blog,https://lutaonan.com/blog/do-have-faith-with-yourself/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-03-14,1489449600.0
 电脑键盘上的流行钢琴伴奏,Randy's Blog,https://lutaonan.com/blog/piano-on-computer-keyboard/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-02-19,1487462400.0
-从 React 谈 Web UI 开发,Randy's Blog,https://lutaonan.com/blog/react-and-the-way-building-web-ui/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-01-01,1483228800.0
-2016 年终总结,Randy's Blog,https://lutaonan.com/blog/2016-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-12-28,1482883200.0
-我看牙医的经历,Randy's Blog,https://lutaonan.com/blog/dentist-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-11-26,1480118400.0
-你根本用不着退学,Randy's Blog,https://lutaonan.com/blog/you-dont-need-to-drop-out/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-11-06,1478390400.0

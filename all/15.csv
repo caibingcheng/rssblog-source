@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-JDK自带的那些好用的工具,雨临Lewis,https://lewky.cn/posts/jdk-tools.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-01-03,1578034779.0
-React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
-React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
-使用Gitea+Drone打造自己的CI/CD系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_01-use_gitea_with_drone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-01,1577836800.0
-2019 年终总结：慢慢变成别人眼中「食古不化」的「怪人」,Randy's Blog,https://lutaonan.com/blog/2019-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-01,1577836800.0
-年度简报 - 2019 | 拾光,FlyingSky's Blog,https://blog.fsky7.com/archives/71/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-12-31,1577808000.0
-2019年就要结束啦！,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_31-hello_2020.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-31,1577750400.0
-RE: 2019 年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2019-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
-RE: 2019 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2019-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
-2019 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2019-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
-为什么要使用gRPC？,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_27-why_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-27,1577404800.0
-Matebook X Pro 2019安装Debian 10,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_24-matebook_x_pro_2019_debian_10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-24,1577145600.0
-ArchLinux忽略某个包的升级,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_22-archlinux_ignore_pkg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-22,1576972800.0
-优化 Google Analytics 使用体验——借助 Cloudflare Workers 或其他,ChrAlpha,https://blog.ichr.me/post/optimize-google-analytics/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-12-21,1576946810.0
-How to style RSS feed,Just lepture,https://lepture.com/en/2019/rss-style-with-xsl,https://lepture.com/,https://lepture.com/feed.xml,2019-12-21,1576916648.0
-SQLAlchemy使用主从与数据库autocommit,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_21-autocommit.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-21,1576886400.0
-Blackbox禁用IPv6,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_19-blackbox_disable_ipv6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-19,1576713600.0
-预防缓存击穿,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_18-cache_miss.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
-Go 1.13的errors挺香,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_18-golang_133_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
-flutter开发体验汇报,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_16-flutter_dev.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-16,1576454400.0
-录翻唱需要哪些设备,Randy's Blog,https://lutaonan.com/blog/how-to-record-cover/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-12-15,1576368000.0
-百度网盘视频倍速播放的方法,ChrAlpha,https://blog.ichr.me/post/video-double-speed-playback-methods/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-12-14,1576339049.0
-自己封装一个好用的Dart HTTP库,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_13-dart_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-13,1576195200.0
-Flutter应用启动后检查更新,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_11-flutter_do_sth_after_boot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-11,1576022400.0
-Grafana Gravatar头像显示bug修复,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_10-grafana_gravatar_http_hijack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-10,1575936000.0
-flutter中使用RESTful接口,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_09-dart_flutter_json.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-09,1575849600.0
-2019 年的收获与成长,萤火之森,http://frankorz.com/2019/12/04/2019-year-end-summary/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-12-04,1575456618.0
-Vim YouCompleteMe使用LSP(以dart为例),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_04-ycm_lsp_dart.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-04,1575417600.0
-flutter webview加载时显示进度,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_03-flutter_webview_indicator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-03,1575331200.0
-SQLAlchemy快速更新或插入对象,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_02-sqlalchemy_update_or_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-02,1575244800.0
-为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
-为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
-为网站添加 dark mode 支持,Ahonn's Blog,https://www.ahonn.me/blog/add-dark-mode-support-to-your-website,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
-修复Linux下curl等无法使用letsencrypt证书,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_26-lets_encrypt_linux_shell.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-26,1574726400.0
-欣赏一下K&R两位大神的代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_24-code_from_k_and_r.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-24,1574553600.0
-MySQL的ON DUPLICATE KEY UPDATE语句,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_19-mysql_duplicate_key_update.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-19,1574121600.0
-使用microk8s快速搭建k8s,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_17-microk8s.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-17,1573948800.0
-Python中优雅的处理文件路径,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_15-python_pathlib_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-15,1573776000.0
-PostgreSQL - 如何杀死被锁死的进程,雨临Lewis,https://lewky.cn/posts/1514292e.html/,https://lewky.cn/,https://lewky.cn/index.xml,2019-11-14,1573745069.0
-Go语言MySQL时区问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_14-golang_mysql_timezone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-14,1573689600.0
-我的技术栈选型,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_13-tech_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-13,1573603200.0
-博客改版及 Tailwind CSS 实践,Randy's Blog,https://lutaonan.com/blog/what-is-tailwindcss-and-how-did-i-apply-it-on-my-blog/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-12,1573516800.0
-为什么我要用Linux作为桌面？,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_11-why_linux_as_desktop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-11,1573430400.0
-disqus获取评论时忽略query string,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_08-disqus_thread_identifier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-08,1573171200.0
-MySQL性能优化指南,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_06-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-06,1572998400.0
-为什么无法坚持写博客,Randy's Blog,https://lutaonan.com/blog/reason-why-your-blog-is-not-alive/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-05,1572912000.0
-来自 2014 年给未来的我的一封信,Randy's Blog,https://lutaonan.com/blog/letter-from-few-years-ago/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-05,1572912000.0
-网络编程所需要熟悉的那些函数,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_01-network_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-01,1572566400.0
-DNSCrypt简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_10_31-dnscrypt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-31,1572480000.0
-如何实现一个 Babel Macros,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-a-babel-macros,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
+站点通知,沐云湘夕,https://quest.myxxts.club/archives/15/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-17,1608218940.0
+Golang里数据库migration方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800.0
+Redis Implementation for Cache and Database Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-12-14-Redis-Implementation-for-Cache-and-Database-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-12-14,1607922000.0
+Android SwipeRefreshLayout左右滑动冲突的解决,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_12-android_swiperefresh_swipe_left_right.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-12,1607731200.0
+Android调用gRPC的两个小工具函数,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_07-android_kotlin_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-07,1607299200.0
+程序員與文學衝突,Just lepture,https://lepture.com/zh/2020/tweet-yuan,https://lepture.com/,https://lepture.com/feed.xml,2020-12-06,1607235718.0
+Android上结合kotlin使用coroutine,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_01-android_kotlin_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-01,1606780800.0
+Mac 上配置 MNMP 环境,4Ark × Blog,https://4ark.me/post/41f45ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-30,1606772294.0
+光速叛逃！——将网站部署至 Cloudflare Workers Site 上,ChrAlpha,https://blog.ichr.me/post/cf-workers-site-deploy/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-11-29,1606691982.0
+Undefined,FlyingSky's Blog,https://blog.fsky7.com/archives/173/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-11-29,1606629540.0
+Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-29-Keep-Data-Consistency-During-Database-Migration.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-29,1606626000.0
+linux 开启 samba 服务共享文件,无妄当自持,https://www.insidentally.com/articles/000005/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-27,1606465965.0
+旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,https://luolei.org/pamu-quiet/,https://luolei.org,https://luolei.org/feed/,2020-11-26,1606398780.0
+gRPC错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_26-grpc_error_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-26,1606348800.0
+山城晓雾,无妄当自持,https://www.insidentally.com/articles/000004/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-25,1606281003.0
+眺望渝中,无妄当自持,https://www.insidentally.com/articles/000003/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-23,1606118148.0
+从 Vite 与 Vue 开始的 D3 数据可视化之旅,云游君的小站,https://www.yunyoujun.cn/posts/vue-d3-demo/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-21,1605959769.0
+这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯,罗磊的独立博客,https://luolei.org/warsun-portable-y40-led-light/,https://luolei.org,https://luolei.org/feed/,2020-11-20,1605876282.0
+老鞋续命，我给一双穿了5年的沙漠靴修鞋底,罗磊的独立博客,https://luolei.org/clarks-desert-boot-resole/,https://luolei.org,https://luolei.org/feed/,2020-11-17,1605622348.0
+带老婆去华强北买 iPhone 12 手机壳,罗磊的独立博客,https://luolei.org/iphone-shell-supermarket/,https://luolei.org,https://luolei.org/feed/,2020-11-14,1605326464.0
+Java collection的结构,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_13-java_colletions.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-13,1605225600.0
+如何找到你朋友的社交账号,云游君的小站,https://www.yunyoujun.cn/posts/find-npy-social-account/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-12,1605152798.0
+为什么 Linux 需要 Swapping,面向信仰编程,https://draveness.me//whys-the-design-linux-swapping,https://draveness.me/,https://draveness.me/feed.xml,2020-11-10,1604966400.0
+DNS Resolving Bug in iOS 14,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-08-DNS-Resolving-Bug-in-iOS-14.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-08,1604811600.0
+十月总结,4Ark × Blog,https://4ark.me/post/edb9a744.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-03,1604440173.0
+Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-02-Use-TLA+-to-Verify-Cache-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-02,1604293200.0
+为啥Redis使用pipelining会更快？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
+配置一个简洁，高效的zsh,无妄当自持,https://www.insidentally.com/articles/000002/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-29,1603933662.0
+安装使用hexo,无妄当自持,https://www.insidentally.com/articles/000001/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-27,1603760862.0
+Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
+回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
+回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
+通过阳台种菜实现蔬菜自由,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
+✳️ Vi/Vim使用备忘,qinxs小站,https://7bxing.com/posts/b04c6f46/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-10-23,1603435073.0
+从GORM里学习到的panic处理方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
+写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
+How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-18,1602993600.0
+记一次因 HSTS 导致跨域问题的经历,4Ark × Blog,https://4ark.me/posts/hsts-problem-solving-experience.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
+记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
+Go使用闭包简化数据库操作代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0
+Hugo系列(4) - 从Hexo迁移至Hugo以及使用LoveIt主题的踩坑记录,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-4.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-12,1602516495.0
+Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-3.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-11,1602393076.0
+Hugo系列(2) - 通过配置文件来定制个人站点,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-2.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-10,1602317338.0
+TCMalloc设计文档学习,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
+Understand Liveness and Fairness in TLA+,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-06-Understand-Liveness-and-Fairness-in-TLA.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-06,1601956800.0
+如果这还都还不算抄袭的话,ChrAlpha,https://blog.ichr.me/post/monologue-of-a-rubbish/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-05,1601937406.0
+博客新增公开笔记部分,萤火之森,http://frankorz.com/2020/10/03/add-note-section-to-blog/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-10-03,1601740410.0
+如何从 Valine 迁移至 Disqus,云游君的小站,https://www.yunyoujun.cn/posts/migrate-from-valine-to-disqus/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-03,1601708953.0
+九月总结,4Ark × Blog,https://4ark.me/post/d33db2d3.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-03,1601687752.0
+观测者：数据爬虫与处理，历史数据可视化视频与用户排名,FlyingSky's Blog,https://blog.fsky7.com/archives/167/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-10-02,1601651280.0

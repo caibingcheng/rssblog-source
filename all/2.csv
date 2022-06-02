@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-SQL 防注入及原理,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_11_04-sql_injection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-11-04,1635984000.0
-Git常用命令,Yulin Lewis' Blog,https://lewky.cn/posts/git-commands/,https://lewky.cn/,https://lewky.cn/index.xml,2021-11-02,1635867083.0
-记一次CDN被刷的经历,LonelyGod,https://hin.cool/posts/cdncc.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-01,1635724800.0
-Leetcode 028 实现 strStr() ( Implement strStr() ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2021/10/31/Leetcode-028-%E5%AE%9E%E7%8E%B0-strStr-Implement-strStr-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-31,1635684225.0
-入坑Zippo踩坑记之D机,Thrower的博客,https://thrower.cc/2021/zippo1/,https://thrower.cc,https://thrower.cc/feed/,2021-10-30,1635594454.0
-如何对现有产品进行产品改进,见字如面,https://hiwannz.com/archives/647,https://hiwannz.com,https://hiwannz.com/feed,2021-10-29,1635476263.0
-i++和++i在函数入参时的一些问题,BBing's Blog,https://bbing.com.cn/202110/ppi-ipp-func/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-10-29,1635472443.0
-《程序员的自身修养——链接、装载与库》读书笔记,BBing's Blog,https://bbing.com.cn/202110/coder-link-load/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-10-25,1635162950.0
-废话文学的“废话”和“文学”,非理勿试,https://www.ntiy.com/1665.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-10-25,1635149844.0
-看完了扫黑风暴，聊聊感想,Nicksxs's Blog,https://nicksxs.me/2021/10/24/%E7%9C%8B%E5%AE%8C%E4%BA%86%E6%89%AB%E9%BB%91%E9%A3%8E%E6%9A%B4-%E8%81%8A%E8%81%8A%E6%84%9F%E6%83%B3/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-24,1635083956.0
-【工具系列】搭建Jrebel破解服务器,框架师,https://www.mobaijun.com/posts/841963446.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-20,1634719190.0
-再谈辍学,Randy's Blog,https://lutaonan.com/blog/talking-about-dropout-again/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-10-20,1634688000.0
-想要提高写作水平，离不开两件事：素材积累和刻意练习。,冰哥笔记,https://www.bgbiji.com/832.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-10-19,1634610203.0
-乌合之众——从罗小猫猫子事件说起,LonelyGod,https://hin.cool/posts/wuhezhizhong.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-19,1634601600.0
-聊一下 RocketMQ 的消息存储四,Nicksxs's Blog,https://nicksxs.me/2021/10/17/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E6%B6%88%E6%81%AF%E5%AD%98%E5%82%A8%E5%9B%9B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-17,1634474494.0
-我为什么又更换了博客域名,近视眼逛博客,https://blog.dtz9.com/2021/10/Why-did-I-change-my-blog-domain-name-again.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-10-16,1634373720.0
-你是否也为国内软件环境担忧,LonelyGod,https://hin.cool/posts/pmsp.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-14,1634252400.0
-计算机网络基础,Yulin Lewis' Blog,https://lewky.cn/posts/network/,https://lewky.cn/,https://lewky.cn/index.xml,2021-10-14,1634218117.0
-Java正则表达式问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/java-regex-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-10-14,1634218007.0
-如何解决时间焦虑？,冰哥笔记,https://www.bgbiji.com/830.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-10-14,1634194155.0
-【转载】黄国平博士[致谢]完整版，人生失去动力的时候读一读,框架师,https://www.mobaijun.com/posts/294529322.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-14,1634181533.0
-别花费太多时间回答客户的问题,见字如面,https://hiwannz.com/archives/635,https://hiwannz.com,https://hiwannz.com/feed,2021-10-13,1634092884.0
-【DB系列】SpringBoot实现MySQL数据库备份与还原,框架师,https://www.mobaijun.com/posts/2334558877.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-12,1634023174.0
-使用 gomock 测试 Go 代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_10_12-go_mock.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-12,1633996800.0
-Twitch承认遭受攻击，源码泄露,LonelyGod,https://hin.cool/posts/twitchacked.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-11,1633986000.0
-MySQL问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mysql-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-10-11,1633968241.0
-Git 仓库体积过大，缩减记录,框架师,https://www.mobaijun.com/posts/2432586935.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-11,1633917948.0
-gevent不是黑魔法(二): gevent 实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_10_11-gevent_is_good_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-11,1633910400.0
-重看了下《蛮荒记》说说感受,Nicksxs's Blog,https://nicksxs.me/2021/10/10/%E9%87%8D%E7%9C%8B%E4%BA%86%E4%B8%8B%E3%80%8A%E8%9B%AE%E8%8D%92%E8%AE%B0%E3%80%8B%E8%AF%B4%E8%AF%B4%E6%84%9F%E5%8F%97/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-10,1633869863.0
-Linux中的Free命令详解,框架师,https://www.mobaijun.com/posts/386444203.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-09,1633764874.0
-如果你要在节后快速找回工作状态，不妨试试这7个方法,冰哥笔记,https://www.bgbiji.com/829.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-10-08,1633680102.0
-Leetcode 021 合并两个有序链表 ( Merge Two Sorted Lists ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2021/10/07/Leetcode-021-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8-Merge-Two-Sorted-Lists-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-07,1633618996.0
-重建旧宅，死了人——无常的日常,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/rebuild-the-old-house.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-10-04,1633344360.0
-收到一位博主的红包,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/red-envelope-and-saveweb.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-10-03,1633286160.0
-聊一下 RocketMQ 的消息存储三,Nicksxs's Blog,https://nicksxs.me/2021/10/03/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E6%B6%88%E6%81%AF%E5%AD%98%E5%82%A8%E4%B8%89/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-03,1633263457.0
-谈谈服务器安全,瓦解的生活记事,https://www.hin.cool/posts/serversec.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-10-03,1633219200.0
-谈谈服务器安全,LonelyGod,https://hin.cool/posts/serversec.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-03,1633219200.0
-提升程序的逼格：添加自动更新功能,Thrower的博客,https://thrower.cc/2021/addupdatertoprogram/,https://thrower.cc,https://thrower.cc/feed/,2021-10-01,1633076640.0
-gevent不是黑魔法(一): greenlet 实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_29-gevent_is_good_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-29,1632873600.0
-日喀则扎什伦布寺,无妄当自持,https://www.insidentally.com/articles/000018/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-09-28,1632819348.0
-[转载] 风声鹤唳,Frank笔记,https://frank2019.me/articles/2021/09/28/1632806116085.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-09-28,1632806116.0
-Spring Data MongoDB问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-data-mongodb/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-27,1632756442.0
-GTO策略简化理解,Frank笔记,https://frank2019.me/articles/2021/09/27/1632719482026.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-09-27,1632719482.0
-时代的尘埃对百姓来说就是一座大山,Frank笔记,https://frank2019.me/articles/2021/09/27/1632708476666.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-09-27,1632714370.0
-聊一下 SpringBoot 中动态切换数据源的方法,Nicksxs's Blog,https://nicksxs.me/2021/09/26/%E8%81%8A%E4%B8%80%E4%B8%8B-SpringBoot-%E4%B8%AD%E5%8A%A8%E6%80%81%E5%88%87%E6%8D%A2%E6%95%B0%E6%8D%AE%E6%BA%90%E7%9A%84%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-09-26,1632649309.0
-MySQL数据库备份与恢复-使用MySQLDump记录,框架师,https://www.mobaijun.com/posts/2902111757.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-26,1632642935.0
-从零开始写一个 Web Component - GitHub Corners,云游君的小站,https://www.yunyoujun.cn/posts/how-to-write-a-web-component/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-09-25,1632565657.0
-花呗,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/ant-huabei.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-09-25,1632545040.0
-“做得好”重要，还是“做得快”更重要？,见字如面,https://hiwannz.com/archives/629,https://hiwannz.com,https://hiwannz.com/feed,2021-09-24,1632466017.0
-常用Git命令清单,框架师,https://www.mobaijun.com/posts/119849249.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-23,1632363221.0
+从浏览器崩溃窥探Qt事件伪造原理,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/28/eaf-browser-crash.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-28,1651104000.0
+Golang migrate 做数据库变更管理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_04_28-golang_migrate_iofs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-28,1651104000.0
+递归搜索插件引用记录,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/04/28/recursive-search-references.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-28,1651104000.0
+JavaScript学习 - 第一章 基础知识 （一）,沐云湘夕—求索,https://quest.myxxts.club/archives/142/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-04-27,1651030320.0
+五年前的一段工作经历,非理勿试,https://www.ntiy.com/1777.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-04-26,1650980901.0
+周刊第10期：你如何在网上找到可靠的信息？,4Ark × Blog,https://4ark.me/post/weekly-10.html,https://4ark.me/,https://4ark.me/rss.xml,2022-04-26,1650931200.0
+车运动时和静止时被鸟拉屎的概率,BBing's Blog,https://bbing.com.cn/202204/birdshit-rate/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-04-25,1650888002.0
+屯菜惊魂记,Nicksxs's Blog,https://nicksxs.me/2022/04/24/%E5%B1%AF%E8%8F%9C%E6%83%8A%E9%AD%82%E8%AE%B0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-04-24,1650807825.0
+A Travel to Montreal,Bin Wang - My Personal Blog,https://www.binwang.me/2022-04-24-A-Travel-to-Montreal.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2022-04-24,1650772800.0
+沉默的大多数,manateelazycat.github.io,//manateelazycat.github.io/think/2022/04/24/most-of-the-silencer.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-24,1650758400.0
+错位时空,非理勿试,https://www.ntiy.com/1751.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-04-22,1650635103.0
+EAF Git Client 手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/22/eaf-git.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-22,1650585600.0
+nginx 日志小记,Nicksxs's Blog,https://nicksxs.me/2022/04/17/nginx-%E6%97%A5%E5%BF%97%E5%B0%8F%E8%AE%B0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-04-17,1650185658.0
+周刊第9期：Web 发展中的 100 个重大事件,4Ark × Blog,https://4ark.me/post/weekly-09.html,https://4ark.me/,https://4ark.me/rss.xml,2022-04-17,1650153600.0
+闲置笔记本改NAS-omv踩坑记录,BBing's Blog,https://bbing.com.cn/202204/laptopnas-omv/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-04-16,1650078160.0
+《建设全国统一大市场》解读分析,Frank笔记,https://frank2019.me/articles/2022/04/11/1649654817438.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-04-14,1649914175.0
+Locally Differentially Private Protocols for Frequency Estimation,Barney's Blog,https://hugo.bnblogs.cc/paper08/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-04-13,1649861587.0
+【工具系列】Idea 远程调试服务器 Jar 包,框架师,https://www.mobaijun.com/posts/55789149.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-13,1649846866.0
+使用PostgreSQL做搜索引擎,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_04_12-postgresql_fulltext_search.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-12,1649721600.0
+周刊第8期：阅读 ECMAScript 规范,4Ark × Blog,https://4ark.me/post/weekly-08.html,https://4ark.me/,https://4ark.me/rss.xml,2022-04-11,1649635200.0
+难得的大扫除,Nicksxs's Blog,https://nicksxs.me/2022/04/10/%E9%9A%BE%E5%BE%97%E7%9A%84%E5%A4%A7%E6%89%AB%E9%99%A4/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-04-10,1649599558.0
+週記，垂死病中驚坐起,Just lepture,https://lepture.com/zh/2022/weekly-20220409,https://lepture.com/,https://lepture.com/feed.xml,2022-04-09,1649497357.0
+读《详解FPGA - 人工智能时代的驱动引擎》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/04/06/reading-fpga.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-06,1649203200.0
+十三年前被隔离的经历,Bin Wang - My Personal Blog,https://www.binwang.me/2022-04-04-%E5%8D%81%E4%B8%89%E5%B9%B4%E5%89%8D%E8%A2%AB%E9%9A%94%E7%A6%BB%E7%9A%84%E7%BB%8F%E5%8E%86.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2022-04-04,1649044800.0
+周刊第7期：使用新的周刊模板,4Ark × Blog,https://4ark.me/post/weekly-07.html,https://4ark.me/,https://4ark.me/rss.xml,2022-04-04,1649030400.0
+Dubbo 使用的几个记忆点,Nicksxs's Blog,https://nicksxs.me/2022/04/02/Dubbo-%E4%BD%BF%E7%94%A8%E7%9A%84%E5%87%A0%E4%B8%AA%E8%AE%B0%E5%BF%86%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-04-02,1648882739.0
+更改Typecho后台文件来支持QQ头像,沐云湘夕—求索,https://quest.myxxts.club/archives/132/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-04-01,1648809120.0
+glibc-malloc源码阅读二,BBing's Blog,https://bbing.com.cn/202203/glibc-malloc2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-30,1648641282.0
+在体全细胞膜片钳研究综述,无妄当自持,https://www.insidentally.com/articles/000024/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-03-30,1648627233.0
+【转载】李承鹏：有些事要写进历史的，有些人，已不像人,Frank笔记,https://frank2019.me/articles/2022/03/29/1648525326601.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-03-29,1648525553.0
+在服务器上直接独立部署 Waline，并使用 systemd 启动,无妄当自持,https://www.insidentally.com/articles/000026/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-03-29,1648519833.0
+周刊第6期：网络没有版本号,4Ark × Blog,https://4ark.me/post/weekly-06.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-28,1648425600.0
+Kong 2.8 已经发布：提高安全性，简化API管理,把酒诗代码，趁乱写年华。,https://102no.com/2022/03/28/kong-2.8/,https://102no.com/,https://102no.com/atom.xml,2022-03-27,1648396800.0
+React Coding Standard,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220327-react-coding-standard,https://teobler.com,https://teobler.com/rss.xml,2022-03-27,1648392360.0
+Leetcode 4 寻找两个正序数组的中位数 ( Median of Two Sorted Arrays *Hard* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/03/27/Leetcode-4-%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0-Median-of-Two-Sorted-Arrays-Hard-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-03-27,1648365314.0
+只要人人都管好自己的事，世界将变成美好的人间！,非理勿试,https://www.ntiy.com/1739.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-26,1648276904.0
+最近的一些状况和一些想法,近视眼逛博客,https://blog.dtz9.com/2022/03/Some-recent-conditions-and-some-thoughts.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2022-03-25,1648223760.0
+glibc-malloc源码阅读,BBing's Blog,https://bbing.com.cn/202203/glibc-malloc/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-25,1648177819.0
+Nginx 源码阅读（三）: 连接池、内存池,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_23-nginx_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-23,1647993600.0
+周刊第5期：拖延症,4Ark × Blog,https://4ark.me/post/weekly-05.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-23,1647993600.0
+桌面窗口管理器占用内存过高,Yulin Lewis' Blog,https://lewky.cn/posts/dwm-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-22,1647908442.0
+Nginx 源码阅读（二）: 请求处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_22-nginx_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-22,1647907200.0
+直接负责,见字如面,https://hiwannz.com/archives/679,https://hiwannz.com,https://hiwannz.com/feed,2022-03-21,1647860631.0
+NULL和nullptr实际问题分析,BBing's Blog,https://bbing.com.cn/202203/null-nullptr-problem/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-21,1647851315.0
+ELK系列(6) - Elasticsearch常用接口,Yulin Lewis' Blog,https://lewky.cn/posts/elk-6/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-21,1647823081.0
+Nginx 源码阅读（一）: 启动流程,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_21-nginx_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-21,1647820800.0
+给小电驴上牌,Nicksxs's Blog,https://nicksxs.me/2022/03/20/%E7%BB%99%E5%B0%8F%E7%94%B5%E9%A9%B4%E4%B8%8A%E7%89%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-03-20,1647780113.0
+【CloudFlare】官方免费CNAME接入教程,Luminous' Home,https://luotianyi.vc/6185.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-03-20,1647753849.0
+ELK系列(5) - Elasticsearch性能调优,Yulin Lewis' Blog,https://lewky.cn/posts/elk-5/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-19,1647700025.0
+Kubernetes、集群联邦和资源分发,面向信仰编程,https://draveness.me//kuberentes-federation,https://draveness.me/,https://draveness.me/feed.xml,2022-03-19,1647648000.0
