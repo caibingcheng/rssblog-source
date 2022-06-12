@@ -1,6 +1,6 @@
 title,author,link,home,rss,date,timestamp
-Redis 5.0 Stream简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_27-redis_stream.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-27,1545868800.0
 耍耍OverlayFS,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_27-overlayfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-27,1545868800.0
+Redis 5.0 Stream简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_27-redis_stream.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-27,1545868800.0
 删除分区表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_26-delete_disk_partition_table.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-26,1545782400.0
 YouCompleteMe ycmd server SHUTDOWN 和 pyenv的问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_24-ycm_pyenv.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
 Docker组件介绍（二）：shim， docker-init和docker-proxy,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_24-docker_components_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
@@ -41,8 +41,8 @@ HTTP/2 简介,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_10_13-
 独立运营博客一年的一些数据分享,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
 To B(usiness) 和 To C(ustomer),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_22-to_b_to_c.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-22,1537574400.0
 PyCon JP 2018 記,Just lepture,https://lepture.com/zh/2018/pycon-jp-2018,https://lepture.com/,https://lepture.com/feed.xml,2018-09-19,1537364456.0
-常见的软件架构套路,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 Cookie 中的secure和httponly属性,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-cookie_secure_httponly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
+常见的软件架构套路,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-09-15,1536969687.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-09-15,1536969600.0
 一个阅读源代码的技巧,Randy's Blog,https://lutaonan.com/blog/trick-for-reading-source-code/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-09-14,1536883200.0
