@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Linux常用命令(二)：htop,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_htop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
 Linux常用命令(三)：watch,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
 升级 IOS 14 的一些坑,4Ark × Blog,https://4ark.me/post/7b1778ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-09-19,1600529843.0
 Linux常用命令(一)：netcat,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600.0
@@ -48,4 +49,3 @@ Go设计模式：composite模式,Jiajun的编程随想,https://jiajunhuang.com/a
 拯救删除ZFS之后的分区表,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_25-save_partition_table_zfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-25,1593043200.0
 Linux使用redshift自动调整屏幕色温,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_23-redshift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-23,1592870400.0
 el-bot & mirai-ts 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-el-bot/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-06-21,1592763413.0
-Go设计模式：桥接模式和策略模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_21-go_design_pattern_bridge.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-21,1592697600.0
