@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+一块钱买来的自尊心,BBing's Blog,https://bbing.com.cn/202206/1yzzx/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-17,1655471147.0
 vercel反向代理解决gitalk跨域问题,BBing's Blog,https://bbing.com.cn/202206/vercel-gitalk-cors/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-16,1655384273.0
 Postman问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postman-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-06-07,1654616948.0
 像数学公式一样写C++代码,BBing's Blog,https://bbing.com.cn/202206/mathlike-cpp/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-06,1654527265.0
@@ -48,4 +49,3 @@ Ubuntu20.04彻底卸载mysql8.0,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E5%
 Ubuntu上使用docker安装mysql,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4%B8%8A%E4%BD%BF%E7%94%A8docker%E5%AE%89%E8%A3%85mysql/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-07,1646647303.0
 MyBatis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mybatis-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646320233.0
 PostgreSQL - SQL调优方案,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-sql-tuning/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646266166.0
-glibc-mmap源码阅读,BBing's Blog,https://bbing.com.cn/202202/glibc-mmap/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-02-28,1646016843.0

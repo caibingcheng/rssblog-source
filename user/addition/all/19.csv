@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-dns-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
 你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-dns-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
 消息分帧(字符串设计或协议设计)的两种形式,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_05-message_framing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-05,1564963200.0
 C， Go， Python的错误处理和异常机制杂谈,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_01-error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-01,1564617600.0
@@ -48,4 +49,3 @@ Python Requests 简明教程,Jiajun的编程随想,https://jiajunhuang.com/artic
 密码技术简明教程(二)：散列、消息认证码和数字签名,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_14-crypto_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-14,1557792000.0
 SEO学习笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_14-seo.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-14,1557792000.0
 密码技术简明教程(一)：对称加密和非对称加密,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_12-crypto.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-12,1557619200.0
-Kubernetes 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_10-kubernetes_tutorial.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-10,1557446400.0

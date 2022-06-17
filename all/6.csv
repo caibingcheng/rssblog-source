@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+周刊（草稿）,4Ark × Blog,https://4ark.me/post/weekly-1.html,https://4ark.me/,https://4ark.me/rss.xml,2022-02-17,1645056000.0
+Linux下安装zsh,Barney's Blog,https://hugo.bnblogs.cc/linux%E4%B8%8B%E5%AE%89%E8%A3%85zsh/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-15,1644928043.0
 算法基础-线性结构,DearXuan的主页,https://dearxuan.top/2022/02/15/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-15,1644917220.0
 无成本反向代理Jsdelivr,LonelyGod,https://hin.cool/posts/jsdfandai.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-02-14,1644865201.0
 Clog入门教程,沐云湘夕—求索,https://quest.myxxts.club/archives/131/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-02-14,1644811440.0
@@ -47,5 +49,3 @@ Rust 学习资源,萤火之森,http://frankorz.com/2022/01/18/rust-study-resourc
 读《如何成为更聪明的人》，我重新思考了我的思考,冰哥笔记,https://www.bgbiji.com/850.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-01-18,1642491597.0
 Kong 2.7 已经准备就绪！,把酒诗代码，趁乱写年华。,https://102no.com/2022/01/18/kong-2.7/,https://102no.com/,https://102no.com/atom.xml,2022-01-17,1642435200.0
 搬运两个 StackOverflow 上的 Mysql 编码相关的问题解答,Nicksxs's Blog,https://nicksxs.me/2022/01/16/%E6%90%AC%E8%BF%90%E4%B8%A4%E4%B8%AA-StackOverflow-%E4%B8%8A%E7%9A%84-Mysql-%E7%BC%96%E7%A0%81%E7%9B%B8%E5%85%B3%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-01-16,1642337551.0
-飞 鸟,LonelyGod,https://hin.cool/posts/feiniao.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-01-16,1642291200.0
-聊聊四元数与万向锁及其实际意义,云游君的小站,https://www.yunyoujun.cn/posts/quaternion-and-spatial-rotation/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2022-01-15,1642269552.0
