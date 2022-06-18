@@ -1,4 +1,25 @@
 title,author,link,home,rss,date,timestamp
+Win32 API编程——前言,qinxs小站,https://7bxing.com/posts/67bdf631/,https://7bxing.com/,https://7bxing.com/atom.xml,2022-02-26,1645875801.0
+本质性的塔西佗--丰县,Frank笔记,https://frank2019.me/articles/2022/02/24/1645667850376.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-02-24,1645667850.0
+Hugo添加文章加密功能,Barney's Blog,https://hugo.bnblogs.cc/hugo%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86%E5%8A%9F%E8%83%BD/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645621037.0
+Hugo导航栏添加二级菜单,Barney's Blog,https://hugo.bnblogs.cc/hugo%E5%AF%BC%E8%88%AA%E6%A0%8F%E6%B7%BB%E5%8A%A0%E4%BA%8C%E7%BA%A7%E8%8F%9C%E5%8D%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645618994.0
+LoveIt主题支持MathJax,Barney's Blog,https://hugo.bnblogs.cc/loveit%E4%B8%BB%E9%A2%98%E6%94%AF%E6%8C%81mathjax/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645607283.0
+【随笔】论一个面试题的解决思路,框架师,https://www.mobaijun.com/posts/3567767979.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-02-21,1645465912.0
+聊聊这次换车牌及其他,Nicksxs's Blog,https://nicksxs.me/2022/02/20/%E8%81%8A%E8%81%8A%E8%BF%99%E6%AC%A1%E6%8D%A2%E8%BD%A6%E7%89%8C%E5%8F%8A%E5%85%B6%E4%BB%96/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-20,1645365541.0
+周刊第1期：搬新家了,4Ark × Blog,https://4ark.me/post/weekly-01.html,https://4ark.me/,https://4ark.me/rss.xml,2022-02-20,1645315200.0
+新的旅途,Frank笔记,https://frank2019.me/articles/2022/02/19/1645284564621.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-02-19,1645284564.0
+Linux下安装zsh,Barney's Blog,https://hugo.bnblogs.cc/linux%E4%B8%8B%E5%AE%89%E8%A3%85zsh/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-15,1644928043.0
+Clog入门教程,沐云湘夕—求索,https://quest.myxxts.club/archives/131/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-02-14,1644811440.0
+我为什么要写周刊,4Ark × Blog,https://4ark.me/post/weekly-idea.html,https://4ark.me/,https://4ark.me/rss.xml,2022-02-14,1644796800.0
+Do Not Be Limited By Your Tech Stack,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220213-do-not-be-limited-by-your-tech-stack,https://teobler.com,https://teobler.com/rss.xml,2022-02-13,1644760560.0
+Disruptor 系列一,Nicksxs's Blog,https://nicksxs.me/2022/02/13/Disruptor-%E7%B3%BB%E5%88%97%E4%B8%80/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-13,1644758163.0
+手机刷入类原生安卓系统,沐云湘夕—求索,https://quest.myxxts.club/archives/130/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-02-13,1644741118.0
+Java - 字符编码,Yulin Lewis' Blog,https://lewky.cn/posts/java-charset/,https://lewky.cn/,https://lewky.cn/index.xml,2022-02-13,1644720128.0
+备忘录,Barney's Blog,https://hugo.bnblogs.cc/memo/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-10,1644481191.0
+【WEB系列】使用StopWatch输出执行耗时,框架师,https://www.mobaijun.com/posts/323943495.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-02-10,1644478505.0
+Split Monolith Into Micro Front End,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220208-split-monolith-into-micro-front-end,https://teobler.com,https://teobler.com/rss.xml,2022-02-08,1644325560.0
+开源一个 PHP 多版本共存 docker 环境,把酒诗代码，趁乱写年华。,https://102no.com/2022/02/08/docker-mutli-php-versions/,https://102no.com/,https://102no.com/atom.xml,2022-02-07,1644249600.0
+分享记录一下一个 scp 操作方法,Nicksxs's Blog,https://nicksxs.me/2022/02/06/%E5%88%86%E4%BA%AB%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E4%B8%80%E4%B8%AA-scp-%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-06,1644155006.0
 分享记录一下一个 git 操作方法,Nicksxs's Blog,https://nicksxs.me/2022/02/06/%E5%88%86%E4%BA%AB%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E4%B8%80%E4%B8%AA-git-%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-06,1644153298.0
 中文独立博客的年化“腐烂率”——8%,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/chinese-independent-blogs-link-rot-2022.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-02-05,1644064560.0
 【对象存储】搭配CF带宽联盟实现流量免费,Luminous' Home,https://luotianyi.vc/6044.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-02-03,1643883817.0
@@ -28,24 +49,3 @@ Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/javaweb-servle
 你好 2022(2021 年终总结),Jiajun的编程随想,https://jiajunhuang.com/articles/2021_12_30-hello_2022.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-30,1640822400.0
 【工具系列】mvnd：maven全新构建插件，提高性能,框架师,https://www.mobaijun.com/posts/1982863623.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-29,1640745287.0
 【AWS】CloudFront免费CDN详细配置入门,Luminous' Home,https://luotianyi.vc/5994.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-12-28,1640696356.0
-【原创作品】Ease Bookmarks,qinxs小站,https://7bxing.com/posts/beb3fd2a/,https://7bxing.com/,https://7bxing.com/atom.xml,2021-12-27,1640610083.0
-Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky.cn/posts/windows-netstat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
-黄桷垭老街与黄葛古道,无妄当自持,https://www.insidentally.com/articles/000023/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-12-24,1640310348.0
-解决Ubuntu中的子进程usr bin dpkg返回错误代码1”错误,Frank笔记,https://frank2019.me/articles/2021/12/23/1640246647224.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-12-23,1640247031.0
-【Linux系列】Docker启动Nginx配置动静分离,框架师,https://www.mobaijun.com/posts/649017238.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-23,1640222875.0
-第三十年冬至,把酒诗代码，趁乱写年华。,https://102no.com/2021/12/21/30th-dongzhi/,https://102no.com/,https://102no.com/atom.xml,2021-12-20,1640016000.0
-在 Linux 中使用 systemd timers 作为定时任务工具,无妄当自持,https://www.insidentally.com/articles/000022/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-12-20,1639965099.0
-Story Pts Vs Man Days,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20211208-story-pts-vs-man-days,https://teobler.com,https://teobler.com/rss.xml,2021-12-19,1639925280.0
-聊聊最近平淡的生活之看《神探狄仁杰》,Nicksxs's Blog,https://nicksxs.me/2021/12/19/%E8%81%8A%E8%81%8A%E6%9C%80%E8%BF%91%E5%B9%B3%E6%B7%A1%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B9%8B%E7%9C%8B%E3%80%8A%E7%A5%9E%E6%8E%A2%E7%8B%84%E4%BB%81%E6%9D%B0%E3%80%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-19,1639912701.0
-2022年中国经济政策解读,Frank笔记,https://frank2019.me/articles/2021/12/19/1639902756830.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-12-19,1639903237.0
-必应崩了，还有什么搜索引擎？,LonelyGod,https://hin.cool/posts/fsou.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-16,1639684200.0
-我太喜欢长沙了！,见字如面,https://hiwannz.com/archives/658,https://hiwannz.com,https://hiwannz.com/feed,2021-12-16,1639656868.0
-pair的内存结构,BBing's Blog,https://bbing.com.cn/202112/pair-memstruct/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-14,1639466993.0
-添加了一些WebAPI,BBing's Blog,https://bbing.com.cn/202112/webapi-descriptor/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-13,1639364463.0
-npm 存在的问题以及 pnpm 是怎么处理的,Yuexun's Blog,https://yuexunjiang.me/blog/problems-with-npm-and-how-pnpm-handles-them/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-12-13,1639353600.0
-聊聊 Sharding-Jdbc 的简单使用,Nicksxs's Blog,https://nicksxs.me/2021/12/12/%E8%81%8A%E8%81%8A-Sharding-Jdbc-%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-12,1639310283.0
-用Go导入大型CSV到PostgreSQL,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_12_11-go_copy_large_file_to_pg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-11,1639180800.0
-PostgreSQL - DML操作汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-dml/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-07,1638891797.0
-【Linux系列】Docker-Build在线地址错误异常解决,框架师,https://www.mobaijun.com/posts/1333172510.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-07,1638841099.0
-个人的时间是有限的,近视眼逛博客,https://blog.dtz9.com/2021/12/Individual-time-is-limited.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-12-06,1638804587.0
-一行 Object.keys() 引发的血案,4Ark × Blog,https://4ark.me/post/how-object-keys-work.html,https://4ark.me/,https://4ark.me/rss.xml,2021-12-06,1638748800.0

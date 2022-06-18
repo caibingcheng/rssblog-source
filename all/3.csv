@@ -1,4 +1,25 @@
 title,author,link,home,rss,date,timestamp
+【转载】李承鹏：有些事要写进历史的，有些人，已不像人,Frank笔记,https://frank2019.me/articles/2022/03/29/1648525326601.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-03-29,1648525553.0
+在服务器上直接独立部署 Waline，并使用 systemd 启动,无妄当自持,https://www.insidentally.com/articles/000026/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-03-29,1648519833.0
+周刊第6期：网络没有版本号,4Ark × Blog,https://4ark.me/post/weekly-06.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-28,1648425600.0
+Kong 2.8 已经发布：提高安全性，简化API管理,把酒诗代码，趁乱写年华。,https://102no.com/2022/03/28/kong-2.8/,https://102no.com/,https://102no.com/atom.xml,2022-03-27,1648396800.0
+React Coding Standard,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220327-react-coding-standard,https://teobler.com,https://teobler.com/rss.xml,2022-03-27,1648392360.0
+Leetcode 4 寻找两个正序数组的中位数 ( Median of Two Sorted Arrays *Hard* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/03/27/Leetcode-4-%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0-Median-of-Two-Sorted-Arrays-Hard-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-03-27,1648365314.0
+只要人人都管好自己的事，世界将变成美好的人间！,非理勿试,https://www.ntiy.com/1739.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-26,1648276904.0
+最近的一些状况和一些想法,近视眼逛博客,https://blog.dtz9.com/2022/03/Some-recent-conditions-and-some-thoughts.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2022-03-25,1648223760.0
+glibc-malloc源码阅读,BBing's Blog,https://bbing.com.cn/202203/glibc-malloc/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-25,1648177819.0
+Nginx 源码阅读（三）: 连接池、内存池,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_23-nginx_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-23,1647993600.0
+周刊第5期：拖延症,4Ark × Blog,https://4ark.me/post/weekly-05.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-23,1647993600.0
+桌面窗口管理器占用内存过高,Yulin Lewis' Blog,https://lewky.cn/posts/dwm-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-22,1647908442.0
+Nginx 源码阅读（二）: 请求处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_22-nginx_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-22,1647907200.0
+直接负责,见字如面,https://hiwannz.com/archives/679,https://hiwannz.com,https://hiwannz.com/feed,2022-03-21,1647860631.0
+NULL和nullptr实际问题分析,BBing's Blog,https://bbing.com.cn/202203/null-nullptr-problem/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-21,1647851315.0
+ELK系列(6) - Elasticsearch常用接口,Yulin Lewis' Blog,https://lewky.cn/posts/elk-6/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-21,1647823081.0
+Nginx 源码阅读（一）: 启动流程,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_21-nginx_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-21,1647820800.0
+给小电驴上牌,Nicksxs's Blog,https://nicksxs.me/2022/03/20/%E7%BB%99%E5%B0%8F%E7%94%B5%E9%A9%B4%E4%B8%8A%E7%89%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-03-20,1647780113.0
+【CloudFlare】官方免费CNAME接入教程,Luminous' Home,https://luotianyi.vc/6185.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-03-20,1647753849.0
+ELK系列(5) - Elasticsearch性能调优,Yulin Lewis' Blog,https://lewky.cn/posts/elk-5/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-19,1647700025.0
+Kubernetes、集群联邦和资源分发,面向信仰编程,https://draveness.me//kuberentes-federation,https://draveness.me/,https://draveness.me/feed.xml,2022-03-19,1647648000.0
 被疫情严重影响的这两天,非理勿试,https://www.ntiy.com/1735.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-18,1647609201.0
 Nginx安装和卸载,Barney's Blog,https://hugo.bnblogs.cc/nginx%E5%AE%89%E8%A3%85%E5%92%8C%E5%8D%B8%E8%BD%BD/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-17,1647531618.0
 修复Uptime Kuma一个小错误,Barney's Blog,https://hugo.bnblogs.cc/%E4%BF%AE%E5%A4%8Duptime-kuma%E4%B8%80%E4%B8%AA%E5%B0%8F%E9%94%99%E8%AF%AF/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-17,1647517507.0
@@ -28,24 +49,3 @@ Git tips,4Ark × Blog,https://4ark.me/post/git-tips.html,https://4ark.me/,https:
 glibc-mmap源码阅读,BBing's Blog,https://bbing.com.cn/202202/glibc-mmap/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-02-28,1646016843.0
 Disruptor 系列二,Nicksxs's Blog,https://nicksxs.me/2022/02/27/Disruptor-%E7%B3%BB%E5%88%97%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-27,1645969504.0
 周刊第2期：珍惜和平,4Ark × Blog,https://4ark.me/post/weekly-02.html,https://4ark.me/,https://4ark.me/rss.xml,2022-02-27,1645920000.0
-Win32 API编程——前言,qinxs小站,https://7bxing.com/posts/67bdf631/,https://7bxing.com/,https://7bxing.com/atom.xml,2022-02-26,1645875801.0
-本质性的塔西佗--丰县,Frank笔记,https://frank2019.me/articles/2022/02/24/1645667850376.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-02-24,1645667850.0
-Hugo添加文章加密功能,Barney's Blog,https://hugo.bnblogs.cc/hugo%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86%E5%8A%9F%E8%83%BD/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645621037.0
-Hugo导航栏添加二级菜单,Barney's Blog,https://hugo.bnblogs.cc/hugo%E5%AF%BC%E8%88%AA%E6%A0%8F%E6%B7%BB%E5%8A%A0%E4%BA%8C%E7%BA%A7%E8%8F%9C%E5%8D%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645618994.0
-LoveIt主题支持MathJax,Barney's Blog,https://hugo.bnblogs.cc/loveit%E4%B8%BB%E9%A2%98%E6%94%AF%E6%8C%81mathjax/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645607283.0
-【随笔】论一个面试题的解决思路,框架师,https://www.mobaijun.com/posts/3567767979.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-02-21,1645465912.0
-聊聊这次换车牌及其他,Nicksxs's Blog,https://nicksxs.me/2022/02/20/%E8%81%8A%E8%81%8A%E8%BF%99%E6%AC%A1%E6%8D%A2%E8%BD%A6%E7%89%8C%E5%8F%8A%E5%85%B6%E4%BB%96/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-20,1645365541.0
-周刊第1期：搬新家了,4Ark × Blog,https://4ark.me/post/weekly-01.html,https://4ark.me/,https://4ark.me/rss.xml,2022-02-20,1645315200.0
-新的旅途,Frank笔记,https://frank2019.me/articles/2022/02/19/1645284564621.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-02-19,1645284564.0
-Linux下安装zsh,Barney's Blog,https://hugo.bnblogs.cc/linux%E4%B8%8B%E5%AE%89%E8%A3%85zsh/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-15,1644928043.0
-Clog入门教程,沐云湘夕—求索,https://quest.myxxts.club/archives/131/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-02-14,1644811440.0
-我为什么要写周刊,4Ark × Blog,https://4ark.me/post/weekly-idea.html,https://4ark.me/,https://4ark.me/rss.xml,2022-02-14,1644796800.0
-Do Not Be Limited By Your Tech Stack,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220213-do-not-be-limited-by-your-tech-stack,https://teobler.com,https://teobler.com/rss.xml,2022-02-13,1644760560.0
-Disruptor 系列一,Nicksxs's Blog,https://nicksxs.me/2022/02/13/Disruptor-%E7%B3%BB%E5%88%97%E4%B8%80/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-13,1644758163.0
-手机刷入类原生安卓系统,沐云湘夕—求索,https://quest.myxxts.club/archives/130/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-02-13,1644741118.0
-Java - 字符编码,Yulin Lewis' Blog,https://lewky.cn/posts/java-charset/,https://lewky.cn/,https://lewky.cn/index.xml,2022-02-13,1644720128.0
-备忘录,Barney's Blog,https://hugo.bnblogs.cc/memo/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-10,1644481191.0
-【WEB系列】使用StopWatch输出执行耗时,框架师,https://www.mobaijun.com/posts/323943495.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-02-10,1644478505.0
-Split Monolith Into Micro Front End,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220208-split-monolith-into-micro-front-end,https://teobler.com,https://teobler.com/rss.xml,2022-02-08,1644325560.0
-开源一个 PHP 多版本共存 docker 环境,把酒诗代码，趁乱写年华。,https://102no.com/2022/02/08/docker-mutli-php-versions/,https://102no.com/,https://102no.com/atom.xml,2022-02-07,1644249600.0
-分享记录一下一个 scp 操作方法,Nicksxs's Blog,https://nicksxs.me/2022/02/06/%E5%88%86%E4%BA%AB%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E4%B8%80%E4%B8%AA-scp-%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-06,1644155006.0

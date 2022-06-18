@@ -1,4 +1,9 @@
 title,author,link,home,rss,date,timestamp
+pair的内存结构,BBing's Blog,https://bbing.com.cn/202112/pair-memstruct/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-14,1639466993.0
+添加了一些WebAPI,BBing's Blog,https://bbing.com.cn/202112/webapi-descriptor/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-13,1639364463.0
+PostgreSQL - DML操作汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-dml/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-07,1638891797.0
+变老和博客一周年,LonelyGod,https://hin.cool/posts/27toold.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-29,1638144000.0
+读钱德勒《漫长的告别》：都市独行侠,LonelyGod,https://hin.cool/posts/longgoodbye.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-25,1637798400.0
 使用 systemd 控制您的计算机时间和日期,无妄当自持,https://www.insidentally.com/articles/000021/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-11-20,1637373099.0
 glibc-raise源码阅读,BBing's Blog,https://bbing.com.cn/202111/glibc-raise/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-11-16,1637043315.0
 2021年法治理论考试分析,LonelyGod,https://hin.cool/posts/2021pufa.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-15,1637000400.0
@@ -30,8 +35,8 @@ Spring Data MongoDB问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-
 用C#打造支持众多协议的爆破工具（WinForm）,Thrower的博客,https://thrower.cc/2021/superbuster/,https://thrower.cc,https://thrower.cc/feed/,2021-09-11,1631327007.0
 Hugo搜索工具hugo-algolia2,BBing's Blog,https://bbing.com.cn/202109/hugo-algolia2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-09-10,1631280721.0
 日志框架与门面模式,Yulin Lewis' Blog,https://lewky.cn/posts/log-framework/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-09,1631202242.0
-Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/es-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-08,1631115899.0
 ELK系列(4) - Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/elk-4/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-08,1631115899.0
+Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/es-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-08,1631115899.0
 电压钳的实验方法总结,无妄当自持,https://www.insidentally.com/articles/000017/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-09-08,1631066433.0
 从AI导出Web的SVG的最佳设置,qinxs小站,https://7bxing.com/posts/f28f8693/,https://7bxing.com/,https://7bxing.com/atom.xml,2021-09-06,1630933429.0
 从希区柯克电影《深闺疑云》说起,LonelyGod,https://hin.cool/posts/suspicion.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-09-04,1630713600.0
@@ -44,8 +49,3 @@ SpringBoot问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/springboot-issue
 没有新的衣服能让你爱恋,LonelyGod,https://hin.cool/posts/hunger.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-08-17,1629158400.0
 AirConnect——智能音箱Airplay或DLNA支持方案,LonelyGod,https://hin.cool/posts/airconnect.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-08-12,1628726400.0
 【安装教程】Kali Linux 2021.2在VMware和VirtualBox安装教程 超简单 步骤详细讲解,城南以南花亦开,https://coonaa.cn/index.php/archives/52/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-11,1628652060.0
-PowerMock问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/powermock-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-10,1628608384.0
-【安全学习】ARP缓存中毒攻击,城南以南花亦开,https://coonaa.cn/index.php/archives/38/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-10,1628576580.0
-Spring问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-09,1628521561.0
-iReport问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/ireport-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-08,1628430368.0
-【日常分享】境来不拒，境去不留,城南以南花亦开,https://coonaa.cn/index.php/archives/36/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-08,1628416020.0
