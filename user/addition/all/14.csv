@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+如果这还都还不算抄袭的话,ChrAlpha,https://blog.ichr.me/post/monologue-of-a-rubbish/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-05,1601937406.0
 博客新增公开笔记部分,萤火之森,http://frankorz.com/2020/10/03/add-note-section-to-blog/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-10-03,1601740410.0
 如何从 Valine 迁移至 Disqus,云游君的小站,https://www.yunyoujun.cn/posts/migrate-from-valine-to-disqus/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-03,1601708953.0
 九月总结,4Ark × Blog,https://4ark.me/post/d33db2d3.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-03,1601687752.0
@@ -26,16 +27,16 @@ Strato - Hexo 主题「Yun」版本宣传 PV,云游君的小站,https://www.yuny
 八月总结,4Ark × Blog,https://4ark.me/post/f05d518.html,https://4ark.me/,https://4ark.me/rss.xml,2020-08-28,1598573148.0
 《八佰》观后感,4Ark,https://4ark.me/posts/ba-bai-review/,https://4ark.me/,https://4ark.me/rss.xml,2020-08-28,1598573025.0
 【装修日记：10月1日更新】：松山没有湖:，东莞三房装修 | 长期记录,罗磊的独立博客,https://luolei.org/new-apartment-log-book/,https://luolei.org,https://luolei.org/feed/,2020-08-27,1598506672.0
-StackGuard的作用,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-stackguard.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
-博客开放评论,Randy's Blog,https://lutaonan.com/blog/open-for-comment/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-08-26,1598400000.0
 Goroutine是如何处理栈的？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
+博客开放评论,Randy's Blog,https://lutaonan.com/blog/open-for-comment/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-08-26,1598400000.0
+StackGuard的作用,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-stackguard.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
 Matrix: A Self Hosted Instant Messaging Solution with End to End Encryption,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-23-Build-An-Instant_Messaging-System-without-Censorship-Choose-the-right-technology.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-23,1598155200.0
 Go DiskQueue源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-22,1598054400.0
 NSQ源码分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_16-nsq_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-16,1597536000.0
 写给大学新生的数字指南,罗磊的独立博客,https://luolei.org/freshman-internet-guidebook/,https://luolei.org,https://luolei.org/feed/,2020-08-15,1597495033.0
 Use RSS and Kindle to Read News,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-15-Use-RSS-and-Kindle-to-Read-News.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-15,1597464000.0
-Docmate - 一个可以自由部署的文档平台,Randy's Blog,https://lutaonan.com/blog/announcing-docmate/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-08-15,1597449600.0
 NSQ简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_15-nsq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-15,1597449600.0
+Docmate - 一个可以自由部署的文档平台,Randy's Blog,https://lutaonan.com/blog/announcing-docmate/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-08-15,1597449600.0
 我与小镇与家,云游君的小站,https://www.yunyoujun.cn/essay/i-and-town-and-home/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-14,1597442400.0
 结合Redis与MySQL实现又快又好的数据方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_11-redis_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-11,1597104000.0
 盛唐诗人和远游,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-09-%E7%9B%9B%E5%94%90%E8%AF%97%E4%BA%BA%E5%92%8C%E8%BF%9C%E6%B8%B8.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-09,1596945600.0
@@ -48,4 +49,3 @@ What Is Wrong about Recommendation System,Bin Wang - My Personal Blog,https://ww
 图形学常见的变换推导,萤火之森,http://frankorz.com/2020/07/26/transformation/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-07-26,1595785595.0
 程序员的MySQL手册(三)：数据库设计,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_26-mysql_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-26,1595721600.0
 Linux窗口管理器下的截图,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_25-linux_screenshot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-25,1595635200.0
-程序员的MySQL手册(二): 监控与benchmark,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_23-mysql_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0

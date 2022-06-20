@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+C++在给定内存上构造,BBing's Blog,https://bbing.com.cn/202206/cpp_placementnew_allocator/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-20,1655688195.0
 静态博客写作新体验-小书匠,BBing's Blog,https://bbing.com.cn/202206/staticblog_xiaoshujiang/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-19,1655650961.0
 一块钱买来的自尊心,BBing's Blog,https://bbing.com.cn/202206/1yzzx/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-17,1655471147.0
 vercel反向代理解决gitalk跨域问题,BBing's Blog,https://bbing.com.cn/202206/vercel-gitalk-cors/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-16,1655384273.0
@@ -48,4 +49,3 @@ vercel制作api(python，nodejs，php),DearXuan的主页,https://dearxuan.top/20
 Go语言语法踩坑,Barney's Blog,https://hugo.bnblogs.cc/go%E8%AF%AD%E8%A8%80%E8%AF%AD%E6%B3%95%E8%B8%A9%E5%9D%91/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646754974.0
 Ubuntu20.04彻底卸载mysql8.0,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BDmysql8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646731549.0
 Ubuntu上使用docker安装mysql,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4%B8%8A%E4%BD%BF%E7%94%A8docker%E5%AE%89%E8%A3%85mysql/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-07,1646647303.0
-MyBatis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mybatis-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646320233.0
