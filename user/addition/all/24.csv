@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Web开发系列(五)：form， json， xml,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_17-web_dev_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-17,1508198400.0
 Web开发系列(四)：Flask， Tornado和WSGI,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_16-web_dev_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-16,1508112000.0
 Web开发系列(三)：什么是HTML，CSS，JS？,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_15-web_dev_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-15,1508025600.0
 佐渡與阿賀町記,Just lepture,https://lepture.com/zh/2017/sado-and-ago,https://lepture.com/,https://lepture.com/feed.xml,2017-10-14,1507984443.0
@@ -48,4 +49,3 @@ React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-fr
 利器拾遺,Just lepture,https://lepture.com/zh/2017/liqi,https://lepture.com/,https://lepture.com/feed.xml,2017-06-04,1496582426.0
 自己写个搜索引擎,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_06_02-write_yourself_a_simple_search_engine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-06-02,1496361600.0
 HTTP 路由的两种常见设计形式,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_05_24-http_router_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-24,1495584000.0
-Koa2 源码分析,Yuexun's Blog,https://yuexunjiang.me/blog/koa2-analysis/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-05-17,1494979200.0
