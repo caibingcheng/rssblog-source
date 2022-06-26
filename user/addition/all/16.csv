@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+在特殊地区科学使用 Disqus 评论系统,ChrAlpha,https://blog.ichr.me/post/use-disqus-conveniently/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-05-05,1588699400.0
+Golang sync.Pool源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_05-go_sync_pool.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-05,1588636800.0
 Typlog 三週年,Just lepture,https://lepture.com/zh/2020/3-years-of-typlog,https://lepture.com/,https://lepture.com/feed.xml,2020-05-02,1588438232.0
 MySQL操作笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_01-mysql_notes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-01,1588291200.0
 Theme Cards | 又一款追求简洁的 Hexo 主题,ChrAlpha,https://blog.ichr.me/post/hexo-theme-cards/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-30,1588257737.0
@@ -47,5 +49,3 @@ Lazyload 不让 Valine 评论组件拖慢页面加载,ChrAlpha,https://blog.ichr
 在 Hexo 博客中更优雅地使用 LaTeX 数学公式,ChrAlpha,https://blog.ichr.me/post/fix-mathjax-layout-bugs-in-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-06,1583503087.0
 MySQL Boolean类型的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_06-mysql_boolean_tinyint_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-06,1583452800.0
 Hexo 博客 | 链接分享卡片生成配置,ChrAlpha,https://blog.ichr.me/post/hexo-generate-link-sharing-card/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-05,1583423588.0
-教你如何从零开始搭建一个属于自己的网站,云游君的小站,https://www.yunyoujun.cn/share/how-to-build-your-site/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-04,1583343068.0
-pip freeze是魔鬼,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_04-pip_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-04,1583280000.0
