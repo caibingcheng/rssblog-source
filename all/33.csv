@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+从零开始的 macOS 生活,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-scratch-mac/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-08-31,1504137600.0
 我的地下刊物,Randy's Blog,https://lutaonan.com/blog/my-underground-publication/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-08-25,1503619200.0
 养猫随想,Randy's Blog,https://lutaonan.com/blog/cat-capriccio/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-08-20,1503187200.0
 TCP/IP简明教程 - 从零构建TCP/IP协议（这次叫PCT协议）,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_08_12-tcp_ip.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-08-12,1502496000.0
@@ -48,4 +49,3 @@ Raft 论文阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2
 GFS 论文阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_02-gfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 MapReduce 论文阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_02-map_reduce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 一起来做贼：Goroutine原理和Work stealing,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
-Vim 折腾记,Ahonn's Blog,https://www.ahonn.me/blog/notes-of-vim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
