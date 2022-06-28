@@ -17,8 +17,8 @@ Github Page + Hexo 免费搭建个人博客教程,ChrAlpha,https://blog.ichr.me/
 我在 UC 做的前端工程化探索,Randy's Blog,https://lutaonan.com/blog/what-i-have-done-at-UC/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-27,1569542400.0
 关于ORM的思考,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_26-orm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-26,1569456000.0
 MySQL指定使用索引(使用索引提示),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_25-mysql_use_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-25,1569369600.0
-搭建samba服务器,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_23-samba.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 QT5使用GTK主题,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_23-qt5_gtk_theme.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
+搭建samba服务器,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_23-samba.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
 ssh时自动运行tmux,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0
@@ -30,22 +30,22 @@ Typecho主题 | MDr - 书写你的篇章,FlyingSky's Blog,https://blog.fsky7.com
 Golang(Go语言)爬虫框架colly简明教程及源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_31-go_colly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-31,1567209600.0
 选择合适的技术栈,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_30-choose_properly_tech.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-30,1567123200.0
 Golang的template(模板引擎)简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_23-golang_html_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-23,1566518400.0
-毕业三年，一路走来,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_21-three_years_after_graduate.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-21,1566345600.0
 关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 关于 tapable 你需要知道这些,Ahonn's Blog,https://www.ahonn.me/blog/about-tapable-you-need-to-know-these,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
+毕业三年，一路走来,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_21-three_years_after_graduate.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-21,1566345600.0
 代码的坏味道,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_18-code_with_bad_taste.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-18,1566086400.0
 你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-dns-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
 你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-dns-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
 消息分帧(字符串设计或协议设计)的两种形式,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_05-message_framing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-05,1564963200.0
 C， Go， Python的错误处理和异常机制杂谈,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_01-error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-01,1564617600.0
 好的命名是最好的文档,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_29-name_is_the_best_doc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-29,1564358400.0
+你可能不知道的 Node.js util 模块,Ahonn's Blog,https://www.ahonn.me/blog/node.js-util-module-you-may-not-know,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
 你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-util-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
 你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-util-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
-你可能不知道的 Node.js util 模块,Ahonn's Blog,https://www.ahonn.me/blog/node.js-util-module-you-may-not-know,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
 读《系统之美：决策者的系统思考》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_24-thinking_in_systems_a_primer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-24,1563926400.0
 Linux高分屏支持,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_20-linux_hidpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-20,1563580800.0
 未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0
-自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
-自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
 GCC默认的头文件搜索路径,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_16-gcc_header_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-16,1563235200.0
+自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
+自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
