@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+SQLAlchemy使用主从与数据库autocommit,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_21-autocommit.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-21,1576886400.0
 Blackbox禁用IPv6,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_19-blackbox_disable_ipv6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-19,1576713600.0
 Go 1.13的errors挺香,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_18-golang_133_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
 预防缓存击穿,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_18-cache_miss.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
@@ -48,4 +49,3 @@ Github Page + Hexo 免费搭建个人博客教程,ChrAlpha,https://blog.ichr.me/
 关于ORM的思考,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_26-orm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-26,1569456000.0
 MySQL指定使用索引(使用索引提示),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_25-mysql_use_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-25,1569369600.0
 QT5使用GTK主题,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_23-qt5_gtk_theme.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
-搭建samba服务器,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_23-samba.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0

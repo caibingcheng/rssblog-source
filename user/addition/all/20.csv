@@ -1,6 +1,7 @@
 title,author,link,home,rss,date,timestamp
-读《债务危机》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_08-big_debt_crises.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
+自己动手写一个反向代理,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_09-write_you_a_simple_reverse_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-09,1560038400.0
 从XMonad迁移到i3,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_08-migrate_from_xmonad_to_i3wm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
+读《债务危机》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_08-big_debt_crises.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
 socks5 协议详解,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_06-socks5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
 服务器IP被ban学到的经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_06-ip_ban.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
 开启HSTS(HTTP Strict Transport Security),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_04-hsts.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-04,1559606400.0
@@ -21,9 +22,9 @@ Flask自动加载Blueprint,Jiajun的编程随想,https://jiajunhuang.com/article
 Unity DOTS 走马观花,萤火之森,http://frankorz.com/2019/05/07/simple-talk-unity-dots/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-05-07,1557264120.0
 在KVM里安装Minikube,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_07-minikube_kvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-07,1557187200.0
 貓與網絡暴力,Just lepture,https://lepture.com/zh/2019/cat-and-violence,https://lepture.com/,https://lepture.com/feed.xml,2019-05-01,1556720168.0
-如何使用 Hammerspoon 实现剪贴板历史,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
-如何使用 Hammerspoon 实现剪贴板历史,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
 如何使用 Hammerspoon 实现剪贴板历史,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-clipboard-history-with-hammerspoon/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
+如何使用 Hammerspoon 实现剪贴板历史,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
+如何使用 Hammerspoon 实现剪贴板历史,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
 搞定面试中的系统设计题,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_29-system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-29,1556496000.0
 hexo-theme-yun 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-hexo-theme-yun/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-27,1556337600.0
 Crontab + Sendmail实现定时任务并且通知,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_25-crontab_sendmail.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-25,1556150400.0
@@ -34,18 +35,17 @@ Python RQ(Redis Queue)添加gevent支持,Jiajun的编程随想,https://jiajunhua
 读《超级运营术》- 如何做社区？,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_17-chaojiyunyingshu.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
 技术人，光有技术是不行的,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_17-tech_only_is_bad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
 那霸的夜,Just lepture,https://lepture.com/zh/2019/night-in-naha,https://lepture.com/,https://lepture.com/feed.xml,2019-04-10,1554921337.0
-从 @babel/register 到 node.js require(),Yuexun's Blog,https://yuexunjiang.me/blog/from-babel-register-to-nodejs-require,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
 从 @babel/register 到 node.js require(),Yuexun's Blog,https://yuexunjiang.me/blog/from-babel-register-to-nodejs-require/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
+从 @babel/register 到 node.js require(),Yuexun's Blog,https://yuexunjiang.me/blog/from-babel-register-to-nodejs-require,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
 从 @babel/register 到 node.js require(),Ahonn's Blog,https://www.ahonn.me/blog/from-babel-register-to-nodejs-require,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
 使用shairport-sync搭建airplay音频服务器,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_06-shairport_sync.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-06,1554508800.0
 搭建aria2服务器,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_06-aria2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-06,1554508800.0
 VirtManager Windows自适应屏幕,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_05-virt_manager_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-05,1554422400.0
-使用btrfs组建RAID1,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_03-btrfs_raid1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-03,1554249600.0
 人生是不断取舍的过程,Randy's Blog,https://lutaonan.com/blog/everything-is-about-trade-off/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-04-03,1554249600.0
+使用btrfs组建RAID1,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_03-btrfs_raid1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-03,1554249600.0
 属于 Unity 的 Flutter——UIWidgets,萤火之森,http://frankorz.com/2019/04/01/uiwidgets-practice/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-04-01,1554077580.0
 Swagger? 不好用,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_01-swagger_i_dislike.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-01,1554076800.0
 Golang/Python最佳实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_29-python_golang_best_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-29,1553817600.0
 读《毛泽东选集》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_24-mao.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-24,1553385600.0
 GORM源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_19-gorm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-19,1552953600.0
 随想,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_16-tittle_tattle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-16,1552694400.0
-Golang中的错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_15-golang_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-15,1552608000.0
