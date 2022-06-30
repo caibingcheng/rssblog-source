@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+优化 Google Analytics 使用体验——借助 Cloudflare Workers 或其他,ChrAlpha,https://blog.ichr.me/post/optimize-google-analytics/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-12-21,1576946810.0
 How to style RSS feed,Just lepture,https://lepture.com/en/2019/rss-style-with-xsl,https://lepture.com/,https://lepture.com/feed.xml,2019-12-21,1576916648.0
 SQLAlchemy使用主从与数据库autocommit,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_21-autocommit.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-21,1576886400.0
 Blackbox禁用IPv6,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_19-blackbox_disable_ipv6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-19,1576713600.0
@@ -48,4 +49,3 @@ Github Page + Hexo 免费搭建个人博客教程,ChrAlpha,https://blog.ichr.me/
 为什么gRPC难以推广,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_29-why_grpc_is_not_popular.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-29,1569715200.0
 我在 UC 做的前端工程化探索,Randy's Blog,https://lutaonan.com/blog/what-i-have-done-at-UC/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-27,1569542400.0
 关于ORM的思考,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_26-orm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-26,1569456000.0
-MySQL指定使用索引(使用索引提示),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_25-mysql_use_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-25,1569369600.0
