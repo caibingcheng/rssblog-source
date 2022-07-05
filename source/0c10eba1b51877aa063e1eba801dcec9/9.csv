@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Haskell: infixl， infixr， infix,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_27-haskell_infix.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-27,1506470400.0
 Haskell简明教程（五）：处理JSON,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_26-learn_you_a_haskell_part_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-26,1506384000.0
 Haskell简明教程（四）：Monoid， Applicative， Monad,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_25-learn_you_a_haskell_part_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-25,1506297600.0
 HTTPS 的详细流程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_22-https_processes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-22,1506038400.0
@@ -29,8 +30,8 @@ Python字符串格式化,Jiajun的编程随想,https://jiajunhuang.com/articles/
 Gunicorn 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_04_08-gunicorn.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-08,1491609600.0
 Raft 论文阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_29-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-29,1490745600.0
 什么是 Golang Comparable Types,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_06-golang_comparable_types.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-06,1488758400.0
-MapReduce 论文阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_02-map_reduce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 GFS 论文阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_02-gfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
+MapReduce 论文阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_02-map_reduce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 一起来做贼：Goroutine原理和Work stealing,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
 Go语言的defer， panic和recover,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_02_15-go_defer_panic_and_recover.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-15,1487116800.0
 再读 Python Language Reference,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_24-python_language_reference.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
@@ -48,4 +49,3 @@ unittest 源代码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/
 APUEv3 - 重读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_26-apue_v3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-26,1482710400.0
 Mock源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_22-mock_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-22,1482364800.0
 Thinking in Python,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_16-thinking_in_python.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-16,1481846400.0
-我的代码进CPython标准库啦,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_15-my_code_in_python_stdlib.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-15,1481760000.0
