@@ -1,4 +1,8 @@
 title,author,link,home,rss,date,timestamp
+计算机网络-计算机网络组成,DearXuan的主页,https://blog.dearxuan.com/2022/05/05/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%BB%84%E6%88%90/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-05-05,1651758720.0
+麒麟服务器操作系统安装 Samba 文件共享服务,杜老师说,https://dusays.com/460/,https://dusays.com/,https://dusays.com/atom.xml,2022-05-04,1651680000.0
+计算机组成原理-定点数运算,DearXuan的主页,https://blog.dearxuan.com/2022/05/04/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%AE%9A%E7%82%B9%E6%95%B0%E8%BF%90%E7%AE%97/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-05-04,1651677780.0
+关闭了评论，让一切简单起来,BBing's Blog,https://bbing.com.cn/202205/disbalecomment-makeitsimple/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-05-04,1651646700.0
 新版本去不图床 Upgit 上传工具设置,杜老师说,https://dusays.com/459/,https://dusays.com/,https://dusays.com/atom.xml,2022-05-01,1651420800.0
 计算机网络-计算机网络概念,DearXuan的主页,https://blog.dearxuan.com/2022/04/30/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%A6%82%E5%BF%B5/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-04-30,1651333320.0
 新版本去不图床 ShareX 截屏工具设置,杜老师说,https://dusays.com/458/,https://dusays.com/,https://dusays.com/atom.xml,2022-04-28,1651161600.0
@@ -20,8 +24,8 @@ glibc-malloc源码阅读,BBing's Blog,https://bbing.com.cn/202203/glibc-malloc/,
 线性回归例题解析,DearXuan的主页,https://blog.dearxuan.com/2022/03/23/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E4%BE%8B%E9%A2%98%E8%A7%A3%E6%9E%90/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-23,1648048200.0
 线性回归例题解析,DearXuan的主页,https://dearxuan.top/2022/03/23/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E4%BE%8B%E9%A2%98%E8%A7%A3%E6%9E%90/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-23,1648048200.0
 这两年工作心态上的一些变化,BBing's Blog,https://bbing.com.cn/202203/work-summary-1922/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-22,1647960635.0
-通过dll的跨进程通讯,DearXuan的主页,https://dearxuan.top/2022/03/22/%E9%80%9A%E8%BF%87dll%E7%9A%84%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E8%AE%AF/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-22,1647923580.0
 通过dll的跨进程通讯,DearXuan的主页,https://blog.dearxuan.com/2022/03/22/%E9%80%9A%E8%BF%87dll%E7%9A%84%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E8%AE%AF/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-22,1647923580.0
+通过dll的跨进程通讯,DearXuan的主页,https://dearxuan.top/2022/03/22/%E9%80%9A%E8%BF%87dll%E7%9A%84%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E8%AE%AF/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-22,1647923580.0
 桌面窗口管理器占用内存过高,Yulin Lewis' Blog,https://lewky.cn/posts/dwm-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-22,1647908442.0
 NULL和nullptr实际问题分析,BBing's Blog,https://bbing.com.cn/202203/null-nullptr-problem/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-21,1647851315.0
 ELK系列(6) - Elasticsearch常用接口,Yulin Lewis' Blog,https://lewky.cn/posts/elk-6/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-21,1647823081.0
@@ -45,7 +49,3 @@ vercel制作api(python，nodejs，php),DearXuan的主页,https://blog.dearxuan.c
 算法基础-二叉搜索树,DearXuan的主页,https://blog.dearxuan.com/2022/03/09/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-09,1646832240.0
 Go语言语法踩坑,Barney's Blog,https://hugo.bnblogs.cc/go%E8%AF%AD%E8%A8%80%E8%AF%AD%E6%B3%95%E8%B8%A9%E5%9D%91/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646754974.0
 Ubuntu20.04彻底卸载mysql8.0,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BDmysql8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646731549.0
-Ubuntu上使用docker安装mysql,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4%B8%8A%E4%BD%BF%E7%94%A8docker%E5%AE%89%E8%A3%85mysql/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-07,1646647303.0
-MyBatis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mybatis-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646320233.0
-PostgreSQL - SQL调优方案,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-sql-tuning/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646266166.0
-glibc-mmap源码阅读,BBing's Blog,https://bbing.com.cn/202202/glibc-mmap/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-02-28,1646016843.0
