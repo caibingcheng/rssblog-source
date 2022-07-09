@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+应用内购的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_27-iap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-27,1585267200.0
+两种常见的访问控制模型,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_26-access_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-26,1585180800.0
 如何在 Git 中真正删除一个文件,ChrAlpha,https://blog.ichr.me/post/git-remove-files-thoroughly/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-25,1585146890.0
 gunicorn max-requests 选项的作用,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_25-gunicorn_max_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-25,1585094400.0
 Redis使用中的几点注意事项,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_23-redis_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-23,1584921600.0
@@ -47,5 +49,3 @@ Golang不那么蛋疼的sort,Jiajun的编程随想,https://jiajunhuang.com/artic
 Flutter给Android应用签名,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_06-flutter_sign_android_apk.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-06,1578268800.0
 React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
 React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
-使用Gitea+Drone打造自己的CI/CD系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_01-use_gitea_with_drone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-01,1577836800.0
-2019 年终总结：慢慢变成别人眼中「食古不化」的「怪人」,Randy's Blog,https://lutaonan.com/blog/2019-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-01,1577836800.0

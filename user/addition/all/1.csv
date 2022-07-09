@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+mybatis 的 foreach 使用的注意点,Nicksxs's Blog,https://nicksxs.me/2022/07/09/mybatis-%E7%9A%84-foreach-%E4%BD%BF%E7%94%A8%E7%9A%84%E6%B3%A8%E6%84%8F%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-07-09,1657382309.0
+记录自己 | 2022.07.09,冰哥笔记,https://www.bgbiji.com/1048.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-09,1657376606.0
 我太喜欢游泳了,见字如面,https://hiwannz.com/archives/687,https://hiwannz.com,https://hiwannz.com/feed,2022-07-06,1657080205.0
 OIDC(OpenID Connect) 简介,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_07_06-openid_connect.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-06,1657065600.0
 任务队列简介,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_07_05-task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-05,1656979200.0
@@ -47,5 +49,3 @@ Suit,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220606-suit,
 周刊第13期：一些图像 AI 模型、冒名顶替综合症,4Ark × Blog,https://4ark.me/post/weekly-13.html,https://4ark.me/,https://4ark.me/rss.xml,2022-05-31,1653955200.0
 周刊第13期：一些图像 AI 模型、冒名顶替综合症,4Ark × Blog,https://4ark.me/post/weekly-30.html,https://4ark.me/,https://4ark.me/rss.xml,2022-05-31,1653955200.0
 Where Does The Time Go,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220530-where-does-the-time-go,https://teobler.com,https://teobler.com/rss.xml,2022-05-30,1653920700.0
-每月思考 | 2022年5月份的一些思考,冰哥笔记,https://www.bgbiji.com/978.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-05-30,1653911249.0
-精神疾病、精神贵族和其他,非理勿试,https://www.ntiy.com/1815.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-05-30,1653899821.0
