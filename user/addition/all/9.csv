@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+生育与教育引发的思考,Frank笔记,https://frank2019.me/articles/2021/07/31/1627741226219.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-08-01,1627829634.0
+redis淘汰策略复习,Nicksxs's Blog,https://nicksxs.me/2021/08/01/redis%E6%B7%98%E6%B1%B0%E7%AD%96%E7%95%A5%E5%A4%8D%E4%B9%A0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-01,1627820393.0
 针对部分请求启用 Cloudflare Challenge,FlyingSky's Blog,https://blog.fsky7.com/archives/195/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2021-07-31,1627728360.0
 2021年7月的一些思考,冰哥笔记,https://www.bgbiji.com/818.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-31,1627705973.0
 软件与写作 | 写作靠的不是技巧或技术，而是“写作”本身,冰哥笔记,https://www.bgbiji.com/811.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-30,1627644869.0
@@ -21,11 +23,11 @@ SpringBoot数据库（URL）参数记录,框架师,https://www.mobaijun.com/post
 【杂谈】UCloud云与轻量：个人网站的对比选择,Luminous' Home,https://luotianyi.vc/5759.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-07-16,1626439420.0
 生日快乐，徐雁冰先生,冰哥笔记,https://www.bgbiji.com/802.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-16,1626405392.0
 程序员可能必读书单推荐（一）,面向信仰编程,https://draveness.me//books-1,https://draveness.me/,https://draveness.me/feed.xml,2021-07-16,1626393600.0
-vue-router 源码解析,4Ark,https://4ark.me/post/vue-router-score-code/,https://4ark.me/,https://4ark.me/rss.xml,2021-07-16,1626393600.0
 vue-router 源码解析,4Ark × Blog,https://4ark.me/post/vue-router-score-code.html,https://4ark.me/,https://4ark.me/rss.xml,2021-07-16,1626393600.0
+vue-router 源码解析,4Ark,https://4ark.me/post/vue-router-score-code/,https://4ark.me/,https://4ark.me/rss.xml,2021-07-16,1626393600.0
+vuex 源码解析,4Ark,https://4ark.me/post/vuex-score-code/,https://4ark.me/,https://4ark.me/rss.xml,2021-07-15,1626307200.0
 vuex 源码解析,4Ark × Blog,https://4ark.me/post/vuex-score-code.html,https://4ark.me/,https://4ark.me/rss.xml,2021-07-15,1626307200.0
 composition-api 源码解析,4Ark × Blog,https://4ark.me/post/composition-api-score-code.html,https://4ark.me/,https://4ark.me/rss.xml,2021-07-15,1626307200.0
-vuex 源码解析,4Ark,https://4ark.me/post/vuex-score-code/,https://4ark.me/,https://4ark.me/rss.xml,2021-07-15,1626307200.0
 composition-api 源码解析,4Ark,https://4ark.me/post/composition-api-score-code/,https://4ark.me/,https://4ark.me/rss.xml,2021-07-15,1626307200.0
 养鱼的意外「惊喜」和「悲剧」,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/unexpected-surprise-and-tragedy-of-fish-culture.html,https://zmmio.com/,https://zmmio.com/feed,2021-07-14,1626275243.0
 2021下半年，我的个人书单推荐,冰哥笔记,https://www.bgbiji.com/801.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-14,1626227098.0
@@ -47,5 +49,3 @@ SpringBoot跨域及后端解决方案,框架师,https://www.mobaijun.com/posts/2
 毕业,Frank笔记,https://frank2019.me/articles/2021/07/06/1625555756749.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-07-06,1625555756.0
 推荐三个时间管理工具,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_07_06-manage_your_time.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-07-06,1625529600.0
 Leetcode 42 接雨水 (Trapping Rain Water) 题解分析,Nicksxs's Blog,https://nicksxs.me/2021/07/04/Leetcode-42-%E6%8E%A5%E9%9B%A8%E6%B0%B4-Trapping-Rain-Water-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-07-04,1625402635.0
-2021年上半年的一些思考,冰哥笔记,https://www.bgbiji.com/799.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-02,1625220419.0
-一次事故反思,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_07_02-reflection_on_bug.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-07-02,1625184000.0
