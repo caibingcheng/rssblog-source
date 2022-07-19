@@ -1,13 +1,14 @@
 title,author,link,home,rss,date,timestamp
+【随笔】论一个面试题的解决思路,框架师,https://www.mobaijun.com/posts/3567767979.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-02-21,1645465912.0
 读《查理芒格传》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/02/21/reading-charlie-munger.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-21,1645401600.0
 聊聊这次换车牌及其他,Nicksxs's Blog,https://nicksxs.me/2022/02/20/%E8%81%8A%E8%81%8A%E8%BF%99%E6%AC%A1%E6%8D%A2%E8%BD%A6%E7%89%8C%E5%8F%8A%E5%85%B6%E4%BB%96/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-20,1645365541.0
 命,非理勿试,https://www.ntiy.com/1714.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-02-20,1645355921.0
-python调用英伟达GPU加速方法,DearXuan的主页,https://dearxuan.top/2022/02/20/python%E8%B0%83%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-20,1645336500.0
 python调用英伟达GPU加速方法,DearXuan的主页,https://blog.dearxuan.com/2022/02/20/python%E8%B0%83%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-20,1645336500.0
+python调用英伟达GPU加速方法,DearXuan的主页,https://dearxuan.top/2022/02/20/python%E8%B0%83%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-20,1645336500.0
 周刊第1期：搬新家了,4Ark × Blog,https://4ark.me/post/weekly-01.html,https://4ark.me/,https://4ark.me/rss.xml,2022-02-20,1645315200.0
 新的旅途,Frank笔记,https://frank2019.me/articles/2022/02/19/1645284564621.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-02-19,1645284564.0
-算法基础-字符串与模式匹配,DearXuan的主页,https://blog.dearxuan.com/2022/02/18/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%8E%E6%A8%A1%E5%BC%8F%E5%8C%B9%E9%85%8D/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-18,1645162560.0
 算法基础-字符串与模式匹配,DearXuan的主页,https://dearxuan.top/2022/02/18/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%8E%E6%A8%A1%E5%BC%8F%E5%8C%B9%E9%85%8D/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-18,1645162560.0
+算法基础-字符串与模式匹配,DearXuan的主页,https://blog.dearxuan.com/2022/02/18/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%8E%E6%A8%A1%E5%BC%8F%E5%8C%B9%E9%85%8D/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-18,1645162560.0
 周刊（草稿）,4Ark × Blog,https://4ark.me/post/weekly-1.html,https://4ark.me/,https://4ark.me/rss.xml,2022-02-17,1645056000.0
 Linux下安装zsh,Barney's Blog,https://hugo.bnblogs.cc/linux%E4%B8%8B%E5%AE%89%E8%A3%85zsh/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-15,1644928043.0
 算法基础-线性结构,DearXuan的主页,https://blog.dearxuan.com/2022/02/15/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-15,1644917220.0
@@ -40,12 +41,11 @@ C#图像压缩相关方法总结,DearXuan的主页,https://blog.dearxuan.com/202
 送给每个人的新年寄语,冰哥笔记,https://www.bgbiji.com/860.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-02-01,1643684822.0
 From Tdd To Test Strategy,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220131-from-tdd-to-test-strategy,https://teobler.com,https://teobler.com/rss.xml,2022-01-31,1643643420.0
 spring event 介绍,Nicksxs's Blog,https://nicksxs.me/2022/01/30/spring-event-%E4%BB%8B%E7%BB%8D/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-01-30,1643550663.0
-算法基础-顺序统计量,DearXuan的主页,https://dearxuan.top/2022/01/30/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1%E9%87%8F/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-01-30,1643546700.0
 算法基础-顺序统计量,DearXuan的主页,https://blog.dearxuan.com/2022/01/30/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1%E9%87%8F/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-30,1643546700.0
+算法基础-顺序统计量,DearXuan的主页,https://dearxuan.top/2022/01/30/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1%E9%87%8F/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-01-30,1643546700.0
 最低抵抗頻率（mdf）,Frank笔记,https://frank2019.me/articles/2022/01/30/1643472113103.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-01-29,1643472113.0
 浅谈表情包,非理勿试,https://www.ntiy.com/1690.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-01-29,1643446997.0
 程序的栈帧,BBing's Blog,https://bbing.com.cn/202201/framestack/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-01-26,1643174330.0
 Online Pricing and Trading of Private Data in Correlated Queries,Barney's Blog,https://hugo.bnblogs.cc/paper07/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-01-25,1643118527.0
 冰哥笔记的微信红包封面，愿每个人都心怀希望,冰哥笔记,https://www.bgbiji.com/855.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-01-25,1643098783.0
 回乡记,LonelyGod,https://hin.cool/posts/huixiangji.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-01-24,1643062201.0
-算法基础-函数渐近,DearXuan的主页,https://dearxuan.top/2022/01/24/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E5%87%BD%E6%95%B0%E6%B8%90%E8%BF%91/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-01-24,1643016720.0
