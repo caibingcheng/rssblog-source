@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+记录自己 | 2022.06.27,冰哥笔记,https://www.bgbiji.com/1023.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-27,1656338520.0
+使用 ntfs3 驱动替换 ntfs-3g 挂载 windows NTFS 分区,无妄当自持,https://www.insidentally.com/articles/000029/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-27,1656317553.0
 记录自己 | 2022.06.26,冰哥笔记,https://www.bgbiji.com/1021.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-26,1656252120.0
 聊聊我的远程工作体验,Nicksxs's Blog,https://nicksxs.me/2022/06/26/%E8%81%8A%E8%81%8A%E6%88%91%E7%9A%84%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%BD%93%E9%AA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-06-26,1656248297.0
 为什么lsp-bridge不用capf?,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/06/26/why-lsp-bridge-not-use-capf.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-06-26,1656201600.0
@@ -31,6 +33,7 @@ vercel反向代理解决gitalk跨域问题,BBing's Blog,https://bbing.com.cn/202
 记录自己 | 2022.06.14,冰哥笔记,https://www.bgbiji.com/999.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-14,1655215260.0
 周刊第14期：暂停更新说明、自动化测试的未来趋势,4Ark × Blog,https://4ark.me/post/weekly-14.html,https://4ark.me/,https://4ark.me/rss.xml,2022-06-14,1655164800.0
 记录自己 | 2022.06.13,冰哥笔记,https://www.bgbiji.com/997.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-13,1655128860.0
+【工具系列】Git提交隐私内容到远程处理,框架师,https://www.mobaijun.com/posts/1088389935.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-06-13,1655091082.0
 刃 7000P 内存频率限制 2400 的解决方法,杜老师说,https://dusays.com/473/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-12,1655049600.0
 记录自己 | 2022.06.12,冰哥笔记,https://www.bgbiji.com/994.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-12,1655042460.0
 曲线与曲面积分公式整理,DearXuan的主页,https://blog.dearxuan.com/2022/06/11/%E6%9B%B2%E7%BA%BF%E4%B8%8E%E6%9B%B2%E9%9D%A2%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F%E6%95%B4%E7%90%86/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-06-11,1654958942.0
@@ -46,6 +49,3 @@ Postman问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postman-issues/,htt
 免费提供 Artalk 服务及数据托管,杜老师说,https://dusays.com/471/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-06,1654531200.0
 Suit,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220606-suit,https://teobler.com,https://teobler.com/rss.xml,2022-06-06,1654528380.0
 像数学公式一样写C++代码,BBing's Blog,https://bbing.com.cn/202206/mathlike-cpp/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-06,1654527265.0
-是何原因竟让两人深夜奔袭十公里,Nicksxs's Blog,https://nicksxs.me/2022/06/05/%E6%98%AF%E4%BD%95%E5%8E%9F%E5%9B%A0%E7%AB%9F%E8%AE%A9%E4%B8%A4%E4%BA%BA%E6%B7%B1%E5%A4%9C%E5%A5%94%E8%A2%AD%E5%8D%81%E5%85%AC%E9%87%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-06-05,1654437699.0
-别人说俺是英雄——记一次造永动机的尝试,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/2022-free-energy-memory.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-06-05,1654424183.0
-待定系数法求二阶常系数非齐次线性方程特解,DearXuan的主页,https://blog.dearxuan.com/2022/06/04/%E5%BE%85%E5%AE%9A%E7%B3%BB%E6%95%B0%E6%B3%95%E6%B1%82%E4%BA%8C%E9%98%B6%E5%B8%B8%E7%B3%BB%E6%95%B0%E9%9D%9E%E9%BD%90%E6%AC%A1%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B%E7%89%B9%E8%A7%A3/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-06-04,1654356510.0
