@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+MongoDB 的一些坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_06-mongodb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-06,1480982400.0
+JavaScript 创建对象的一些姿势,Yuexun's Blog,https://yuexunjiang.me/blog/some-ways-of-javascript-create-object/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-30,1480464000.0
+Python的yield关键字有什么作用？,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_29-python_yield.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-29,1480377600.0
 借助coroutine用同步的语法写异步,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_27-python_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-27,1480204800.0
 我看牙医的经历,Randy's Blog,https://lutaonan.com/blog/dentist-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-11-26,1480118400.0
 Python3函数参数中的星号,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_21-py3k_asterisk.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-21,1479686400.0
@@ -46,6 +49,3 @@ JavaScript 中不合常理的变量提升,Yuexun's Blog,https://yuexunjiang.me/b
 JavaScript 事件流：冒泡与捕获,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-event-stream/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-16,1460764800.0
 JavaScript 作用域与闭包,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-closures/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-04,1459728000.0
 重新捡起你那吃灰的树莓派,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_04_03-raspberrypi.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-04-03,1459641600.0
-JavaScript 原型链探究,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-prototype-chain/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-29,1459209600.0
-21 岁我想说的,Randy's Blog,https://lutaonan.com/blog/say-in-21/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-25,1458864000.0
-apply， call 与 bind 的区别,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-apply-call-and-bind/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-20,1458432000.0
