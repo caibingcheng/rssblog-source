@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Python 的继承,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_06-python_c3_mro.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-06,1480982400.0
 MongoDB 的一些坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_06-mongodb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-06,1480982400.0
 JavaScript 创建对象的一些姿势,Yuexun's Blog,https://yuexunjiang.me/blog/some-ways-of-javascript-create-object/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-30,1480464000.0
 Python的yield关键字有什么作用？,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_29-python_yield.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-29,1480377600.0
@@ -48,4 +49,3 @@ Haskell TypeClass 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/
 JavaScript 中不合常理的变量提升,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-hoisting/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-28,1461801600.0
 JavaScript 事件流：冒泡与捕获,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-event-stream/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-16,1460764800.0
 JavaScript 作用域与闭包,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-closures/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-04,1459728000.0
-重新捡起你那吃灰的树莓派,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_04_03-raspberrypi.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-04-03,1459641600.0
