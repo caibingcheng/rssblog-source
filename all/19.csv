@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+再谈996,Frank笔记,https://frank2019.me/articles/2019/09/04/1567579167259.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-05-29,1622259045.0
 Redis源码阅读：set是怎么做交并集运算的？,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_29-redis_source_code_9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-29,1622246400.0
 gogs 搭建自己的代码托管平台,无妄当自持,https://www.insidentally.com/articles/000014/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-05-28,1622167233.0
 Redis源码阅读：list实现(ziplist， quicklist),Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_28-redis_source_code_8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-28,1622160000.0
@@ -48,4 +49,3 @@ Leetcode 48 旋转图像(Rotate Image) 题解分析,Nicksxs's Blog,https://nicks
 JavaSe-网络编程,框架师,https://www.mobaijun.com/posts/1483848703.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-26,1619424035.0
 【Oracle Cloud】甲骨文云开启原生IPv6支持,Luminous' Home,https://luotianyi.vc/5558.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-04-24,1619252967.0
 Evolution Of Architecture From Monolithic To Micro Front End Theory,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210422-evolution-of-architecture-from-monolithic-to-micro-front-end-theory,https://teobler.com,https://teobler.com/rss.xml,2021-04-22,1619095440.0
-结婚——2016年“降噪”不插电版,瓦解的生活记事,https://www.hin.cool/posts/mvjiehun.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-04-21,1618963200.0
