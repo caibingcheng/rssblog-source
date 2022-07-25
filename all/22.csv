@@ -1,14 +1,16 @@
 title,author,link,home,rss,date,timestamp
+随机壁纸API整理,沐云湘夕—求索,https://quest.myxxts.club/archives/54/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2021-02-03,1612358760.0
+使用 Docker 部署 FreshRSS 自建专属 RSS 服务,ChrAlpha,https://blog.ichr.me/post/docker-freshrss-setup/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2021-02-02,1612284492.0
 Node.js更换国内源,框架师,https://www.mobaijun.com/posts/3059858801.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-02-02,1612254603.0
 为什么 OLAP 需要列式存储,面向信仰编程,https://draveness.me//whys-the-design-olap-column-oriented,https://draveness.me/,https://draveness.me/feed.xml,2021-02-02,1612224000.0
 Agile Business Practice Planning Games,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210201-agile-business-practice-planning-games,https://teobler.com,https://teobler.com/rss.xml,2021-02-01,1612187820.0
 记一次被网贷催收,非理勿试,https://www.ntiy.com/1515.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-01-30,1611970734.0
 Facebook 集群调度管理系统 · OSDI '20,面向信仰编程,https://draveness.me//papers-twine,https://draveness.me/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
 数据中心的电力超售 · OSDI '20,面向信仰编程,https://draveness.me//papers-thunderbolt,https://draveness.me/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
-纳秒级高性能日志系统 · ATC '18,面向信仰编程,https://draveness.me//papers-nanolog,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
 数据中心的容错时钟对时 · OSDI '20,面向信仰编程,https://draveness.me//papers-sundial,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
-做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
+纳秒级高性能日志系统 · ATC '18,面向信仰编程,https://draveness.me//papers-nanolog,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
 Android自动展示和关闭进度条,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_27-android_progress_bar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-27,1611705600.0
+做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
 SpringBoot集成Mybatis-Plus,框架师,https://www.mobaijun.com/posts/183863717.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-26,1611655824.0
 My 2020 in Review,Bin Wang - My Personal Blog,https://www.binwang.me/2021-01-26-My-2020-in-Review.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2021-01-26,1611637200.0
 Java日期问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/java-date-issues.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-01-25,1611589382.0
@@ -27,12 +29,12 @@ Kotlin/Java 列表Protobuf序列化,Jiajun的编程随想,https://jiajunhuang.co
 deeplink结合路由处理扩展App的能力,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_03-deeplink_server_route.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
 『给RSS爱好者们的一封信』为什么我们应该提高RSS刷新间隔？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/rss-refresh.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-01-02,1609578180.0
 Android手动挡MVVM,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_02-android_mvvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-02,1609545600.0
-2020 年度总结,4Ark,https://4ark.me/posts/2020-summary/,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
 2020 年度总结,4Ark × Blog,https://4ark.me/posts/2020-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
+2020 年度总结,4Ark,https://4ark.me/posts/2020-summary/,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
 年度简报 - 2020 | 等待,FlyingSky's Blog,https://blog.fsky7.com/archives/175/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-12-31,1609430400.0
+2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 二〇二〇年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 二〇二〇年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2020-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
-2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 使用 linux 操作系统，如何优化固态硬盘使用体验,无妄当自持,https://www.insidentally.com/articles/000007/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-30,1609344203.0
 友链墙,Yulin Lewis' Blog,https://lewky.cn/friends/,https://lewky.cn/,https://lewky.cn/index.xml,2020-12-26,1608991304.0
 用 Code Snippet 提高开发效率,Randy's Blog,https://lutaonan.com/blog/how-to-use-code-snippets/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-12-25,1608854400.0
@@ -47,5 +49,3 @@ Golang里数据库migration方案,Jiajun的编程随想,https://jiajunhuang.com/
 Redis Implementation for Cache and Database Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-12-14-Redis-Implementation-for-Cache-and-Database-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-12-14,1607922000.0
 Android SwipeRefreshLayout左右滑动冲突的解决,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_12-android_swiperefresh_swipe_left_right.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-12,1607731200.0
 Android调用gRPC的两个小工具函数,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_07-android_kotlin_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-07,1607299200.0
-程序員與文學衝突,Just lepture,https://lepture.com/zh/2020/tweet-yuan,https://lepture.com/,https://lepture.com/feed.xml,2020-12-06,1607235718.0
-Android上结合kotlin使用coroutine,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_01-android_kotlin_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-01,1606780800.0
