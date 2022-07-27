@@ -1,8 +1,11 @@
 title,author,link,home,rss,date,timestamp
 Caddy 的简介,杜老师说,https://dusays.com/489/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-31,1659225600.0
 ADN公益加速 —— Jsdelivr npm（国内），ElmCDN的优质替代方案,杜老师说,https://dusays.com/488/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-28,1658966400.0
+【MySQL 系列】MySQL 按照当前年月周日统计数据,框架师,https://www.mobaijun.com/posts/4014467466.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-27,1658903822.0
+错误处理实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_07_27-how_to_return_error.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-27,1658880000.0
 记录自己 | 2022.07.26,冰哥笔记,https://www.bgbiji.com/1086.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-26,1658847278.0
 常用泰勒展开,DearXuan的主页,https://blog.dearxuan.com/2022/07/26/%E5%B8%B8%E7%94%A8%E6%B3%B0%E5%8B%92%E5%B1%95%E5%BC%80/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-07-26,1658830270.0
+【工具系列】Hexo 插件给中英文之间加空格,框架师,https://www.mobaijun.com/posts/267676524.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-26,1658815229.0
 记录一下买长安Uni-V的感受,LonelyGod,https://hin.cool/posts/goucheji.html,https://hin.cool/,https://hin.cool/atom.xml,2022-07-25,1658790601.0
 记录自己 | 2022.07.25,冰哥笔记,https://www.bgbiji.com/1082.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-25,1658755612.0
 SpringBoot2.7新建项目Maven下载依赖出错,Barney's Blog,https://hugo.bnblogs.cc/springboot%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AEmaven%E4%B8%8B%E8%BD%BD%E4%BE%9D%E8%B5%96%E5%87%BA%E9%94%99/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-25,1658738175.0
@@ -33,7 +36,7 @@ MacBook Pro 修复之路,把酒诗代码，趁乱写年华。,https://102no.com/
 唯有音乐永恒,LonelyGod,https://hin.cool/posts/guahua.html,https://hin.cool/,https://hin.cool/atom.xml,2022-07-14,1657836600.0
 记录自己 | 2022.07.14,冰哥笔记,https://www.bgbiji.com/1059.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-14,1657807074.0
 Markdown on ruby markup,Just lepture,https://lepture.com/en/2022/markdown-ruby-markup,https://lepture.com/,https://lepture.com/feed.xml,2022-07-14,1657806270.0
-【工具系列】Nacos 配置MySQL数据库,框架师,https://www.mobaijun.com/posts/2021021572.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-14,1657759940.0
+【工具系列】Nacos 配置 MySQL 数据库,框架师,https://www.mobaijun.com/posts/2021021572.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-14,1657759940.0
 The Fourth Anniversary,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220713-the-fourth-anniversary,https://teobler.com,https://teobler.com/rss.xml,2022-07-13,1657725916.0
 记录自己 | 2022.07.13,冰哥笔记,https://www.bgbiji.com/1057.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-13,1657721370.0
 STL-tuple源码阅读,BBing's Blog,https://bbing.com.cn/202207/cpp-stl-tuple/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-07-13,1657711654.0
@@ -46,6 +49,3 @@ Windows 10/11 Pro KMS 客户端安装密钥,杜老师说,https://dusays.com/482/
 mybatis 的 foreach 使用的注意点,Nicksxs's Blog,https://nicksxs.me/2022/07/09/mybatis-%E7%9A%84-foreach-%E4%BD%BF%E7%94%A8%E7%9A%84%E6%B3%A8%E6%84%8F%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-07-09,1657382309.0
 记录自己 | 2022.07.09,冰哥笔记,https://www.bgbiji.com/1048.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-09,1657376606.0
 XMind 2022 专业思维导图脑图软件,杜老师说,https://dusays.com/481/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-07,1657152000.0
-STL-any源码阅读,BBing's Blog,https://bbing.com.cn/202207/cpp-stl-any/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-07-06,1657098651.0
-我太喜欢游泳了,见字如面,https://hiwannz.com/archives/687,https://hiwannz.com,https://hiwannz.com/feed,2022-07-06,1657080205.0
-OIDC(OpenID Connect) 简介,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_07_06-openid_connect.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-06,1657065600.0
