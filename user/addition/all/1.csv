@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+【MySQL 系列】冷门 SQL 整理,框架师,https://www.mobaijun.com/posts/970409657.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-28,1658976177.0
+三种git流程以及发版模型,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_07_28-git_flows.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-28,1658966400.0
 记录自己 | 2022.07.27,冰哥笔记,https://www.bgbiji.com/1089.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-27,1658930549.0
 【MySQL 系列】MySQL 按照当前年月周日统计数据,框架师,https://www.mobaijun.com/posts/4014467466.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-27,1658903822.0
 错误处理实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_07_27-how_to_return_error.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-27,1658880000.0
@@ -47,5 +49,3 @@ Leetcode 20 有效的括号 ( Valid Parentheses *Easy* ) 题解分析,Nicksxs's 
 读《非暴力沟通》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/06/28/nonviolent-communication.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-06-28,1656374400.0
 记录自己 | 2022.06.27,冰哥笔记,https://www.bgbiji.com/1023.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-27,1656338520.0
 记录自己 | 2022.06.26,冰哥笔记,https://www.bgbiji.com/1021.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-26,1656252120.0
-聊聊我的远程工作体验,Nicksxs's Blog,https://nicksxs.me/2022/06/26/%E8%81%8A%E8%81%8A%E6%88%91%E7%9A%84%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%BD%93%E9%AA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-06-26,1656248297.0
-为什么lsp-bridge不用capf?,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/06/26/why-lsp-bridge-not-use-capf.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-06-26,1656201600.0
