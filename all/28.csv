@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+为什么要使用gRPC？,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_27-why_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-27,1577404800.0
 为了你爱的人，读一读《非暴力沟通》,Randy's Blog,https://lutaonan.com/blog/nonviolent-communication/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-12-25,1577232000.0
 Matebook X Pro 2019安装Debian 10,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_24-matebook_x_pro_2019_debian_10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-24,1577145600.0
 ArchLinux忽略某个包的升级,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_22-archlinux_ignore_pkg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-22,1576972800.0
@@ -48,4 +49,3 @@ Yandex 免费域名邮箱注册及使用教程,ChrAlpha,https://blog.ichr.me/pos
 旧电脑也不能闲着：家用备份方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_10_18-build_your_own_nas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-18,1571356800.0
 将SQLite的数据迁移到MySQL,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_10_15-grafana_moved_to_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-15,1571097600.0
 Linux托管Windows虚拟机最佳实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_10_08-linux_windows.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-08,1570492800.0
-从零开始的独立博客搭建教程,ChrAlpha,https://blog.ichr.me/post/hexo-basic-set-up/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-10-05,1570301061.0
