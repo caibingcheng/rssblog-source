@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+改版去不图床 Token 的获取,杜老师说,https://dusays.com/499/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-30,1661817600.0
 写给去不图床用户的一封信,杜老师说,https://dusays.com/498/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-27,1661558400.0
 Docker 限制 CPU 内存使用,杜老师说,https://dusays.com/497/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-24,1661299200.0
 去不图床容量兑换,杜老师说,https://dusays.com/496/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-21,1661040000.0
@@ -9,6 +10,7 @@ Docker 限制 CPU 内存使用,杜老师说,https://dusays.com/497/,https://dusa
 推荐一个 WordPress 付费主题站,杜老师说,https://dusays.com/491/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-06,1659744000.0
 有没有兴趣来抢个沙发,杜老师说,https://dusays.com/490/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-03,1659484800.0
 Caddy 的简介,杜老师说,https://dusays.com/489/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-31,1659225600.0
+Vercel部署本地项目,Barney's Blog,https://hugo.bnblogs.cc/vercel%E9%83%A8%E7%BD%B2%E6%9C%AC%E5%9C%B0%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-30,1659178583.0
 git-bash如何使用tmux,Barney's Blog,https://hugo.bnblogs.cc/git-bash%E4%BD%BF%E7%94%A8tmux/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-29,1659109262.0
 ADN公益加速 —— Jsdelivr npm（国内），ElmCDN的优质替代方案,杜老师说,https://dusays.com/488/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-28,1658966400.0
 常用泰勒展开,DearXuan的主页,https://blog.dearxuan.com/2022/07/26/%E5%B8%B8%E7%94%A8%E6%B3%B0%E5%8B%92%E5%B1%95%E5%BC%80/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-07-26,1658830270.0
@@ -47,5 +49,3 @@ C++在给定内存上构造,BBing's Blog,https://bbing.com.cn/202206/cpp_placeme
 一块钱买来的自尊心,BBing's Blog,https://bbing.com.cn/202206/1yzzx/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-17,1655471147.0
 计算机组成原理-存储器,DearXuan的主页,https://blog.dearxuan.com/2022/06/16/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%AD%98%E5%82%A8%E5%99%A8/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-06-16,1655390760.0
 vercel反向代理解决gitalk跨域问题,BBing's Blog,https://bbing.com.cn/202206/vercel-gitalk-cors/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-16,1655384273.0
-坚持更新博客的动力是什么,杜老师说,https://dusays.com/474/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-15,1655308800.0
-刃 7000P 内存频率限制 2400 的解决方法,杜老师说,https://dusays.com/473/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-12,1655049600.0
