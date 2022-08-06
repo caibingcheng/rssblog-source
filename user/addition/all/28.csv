@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+《烂泥》李峻一,Randy's Blog,https://lutaonan.com/blog/lan-ni-li-jun-yi/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-06-16,1466035200.0
 从博客搬迁到创造的乐趣,Randy's Blog,https://lutaonan.com/blog/from-blog-migration-to-fun-of-creation/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-06-12,1465689600.0
 中山纪念中学游记,Randy's Blog,https://lutaonan.com/blog/533-travel-middle-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-06-09,1465430400.0
 Sass 初探,Yuexun's Blog,https://yuexunjiang.me/blog/sass-preliminary-study/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-06-07,1465257600.0
@@ -7,8 +8,8 @@ Haskell do notation,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_
 使用 Nokogiri 解析 HTML,Yuexun's Blog,https://yuexunjiang.me/blog/using-nokogiri-parsing-html/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-28,1464393600.0
 小明的胡言,Just lepture,https://lepture.com/zh/2016/my-tweets,https://lepture.com/,https://lepture.com/feed.xml,2016-05-27,1464307800.0
 foldl 和 foldr 的变换,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_22-foldl_and_foldr.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-22,1463875200.0
-记第一次面试,Yuexun's Blog,https://yuexunjiang.me/blog/the-first-interview/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 使用 JavaScript 实现简单的拖拽,Yuexun's Blog,https://yuexunjiang.me/blog/use-javascript-to-achieve-simple-drag-and-drop/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
+记第一次面试,Yuexun's Blog,https://yuexunjiang.me/blog/the-first-interview/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 Haskell TypeClass 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_05-typeclassopedia.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-05,1462406400.0
 从 optimizeCb 说起,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-the-optimizeCb,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
 从 optimizeCb 说起,Ahonn's Blog,https://www.ahonn.me/blog/starting-from-the-optimizeCb,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
@@ -48,4 +49,3 @@ Vue.js 和 Webpack,Randy's Blog,https://lutaonan.com/blog/vue-and-webpack/,https
 Ubuntu 下 LAMP环境搭建,Yuexun's Blog,https://yuexunjiang.me/blog/ubuntu-lamp-environment-set-up/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-08-24,1440374400.0
 前端的基礎修養：aria-label,Just lepture,https://lepture.com/zh/2015/fe-aria-label,https://lepture.com/,https://lepture.com/feed.xml,2015-08-12,1439415600.0
 前端的基礎修養：Microdata,Just lepture,https://lepture.com/zh/2015/fe-microdata,https://lepture.com/,https://lepture.com/feed.xml,2015-07-23,1437609600.0
-写给即将学习编程的大学新生,Randy's Blog,https://lutaonan.com/blog/note-to-new-programming-students/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2015-07-01,1435708800.0
