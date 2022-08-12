@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【随笔】一个自动抓取 4K 壁纸小程序,框架師,https://www.mobaijun.com/posts/2413351491.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-08-12,1660288851.0
 记录自己 | 2022.08.10,冰哥笔记,https://www.bgbiji.com/1102.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-08-10,1660141146.0
 所有涉及国内业务的、没备案的域名，建议立即转出！,非理勿试,https://www.ntiy.com/1879.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-08-10,1660117497.0
 记录自己 | 2022.08.08,冰哥笔记,https://www.bgbiji.com/1097.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-08-08,1659967222.0
@@ -16,7 +17,7 @@ Leetcode 16 最接近的三数之和 ( 3Sum Closest *Medium* ) 题解分析,Nick
 【MySQL 系列】MySQL 按照当前年月周日统计数据,框架師,https://www.mobaijun.com/posts/4014467466.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-27,1658903822.0
 错误处理实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_07_27-how_to_return_error.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-27,1658880000.0
 记录自己 | 2022.07.26,冰哥笔记,https://www.bgbiji.com/1086.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-26,1658847278.0
-【工具系列】Hexo 插件给中英文之间加空格,框架师,https://www.mobaijun.com/posts/267676524.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-26,1658815229.0
+【工具系列】Hexo 插件给中英文之间加空格,框架師,https://www.mobaijun.com/posts/267676524.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-26,1658815229.0
 记录自己 | 2022.07.25,冰哥笔记,https://www.bgbiji.com/1082.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-25,1658755612.0
 记录自己 | 2022.07.24,冰哥笔记,https://www.bgbiji.com/1080.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-24,1658671267.0
 记录自己 | 2022.07.23,冰哥笔记,https://www.bgbiji.com/1078.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-23,1658585100.0
@@ -48,4 +49,3 @@ mybatis 的 foreach 使用的注意点,Nicksxs's Blog,https://nicksxs.me/2022/07
 我太喜欢游泳了,见字如面,https://hiwannz.com/archives/687,https://hiwannz.com,https://hiwannz.com/feed,2022-07-06,1657080205.0
 OIDC(OpenID Connect) 简介,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_07_06-openid_connect.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-06,1657065600.0
 任务队列简介,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_07_05-task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-05,1656979200.0
-记录自己 | 2022.07.04,冰哥笔记,https://www.bgbiji.com/1046.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-04,1656943259.0
