@@ -1,7 +1,30 @@
 title,author,link,home,rss,date,timestamp
+Kong 2.7 已经准备就绪！,把酒诗代码，趁乱写年华。,https://102no.com/2022/01/18/kong-2.7/,https://102no.com/,https://102no.com/atom.xml,2022-01-17,1642435200.0
+搬运两个 StackOverflow 上的 Mysql 编码相关的问题解答,Nicksxs's Blog,https://nicksxs.me/2022/01/16/%E6%90%AC%E8%BF%90%E4%B8%A4%E4%B8%AA-StackOverflow-%E4%B8%8A%E7%9A%84-Mysql-%E7%BC%96%E7%A0%81%E7%9B%B8%E5%85%B3%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-01-16,1642337551.0
+Nvim补全配置记录,Barney's Blog,https://hugo.bnblogs.cc/nvim%E8%A1%A5%E5%85%A8%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-01-16,1642312205.0
+飞 鸟,LonelyGod,https://hin.cool/posts/feiniao.html,https://hin.cool/,https://hin.cool/atom.xml,2022-01-16,1642291200.0
+聊聊四元数与万向锁及其实际意义,云游君的小站,https://www.yunyoujun.cn/posts/quaternion-and-spatial-rotation/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2022-01-15,1642269552.0
+Cmake编译多个项目,Barney's Blog,https://hugo.bnblogs.cc/cmake%E7%BC%96%E8%AF%91%E5%A4%9A%E4%B8%AA%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-01-14,1642136393.0
+Github下载加速,Barney's Blog,https://hugo.bnblogs.cc/github%E4%B8%8B%E8%BD%BD%E5%8A%A0%E9%80%9F/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-01-14,1642135937.0
+桌面窗口管理器(dwm.exe)占用高内存的解决方法,DearXuan的主页,https://blog.dearxuan.com/2022/01/14/%E6%A1%8C%E9%9D%A2%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8-dwm-exe-%E5%8D%A0%E7%94%A8%E9%AB%98%E5%86%85%E5%AD%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-14,1642129380.0
+桌面窗口管理器(dwm.exe)占用高内存的解决方法,DearXuan的主页,https://dearxuan.top/2022/01/14/%E6%A1%8C%E9%9D%A2%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8-dwm-exe-%E5%8D%A0%E7%94%A8%E9%AB%98%E5%86%85%E5%AD%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-01-14,1642129380.0
+Spring Data Redis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-data-redis/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-13,1642086642.0
+好久不见，又是新年,见字如面,https://hiwannz.com/archives/672,https://hiwannz.com,https://hiwannz.com/feed,2022-01-11,1641874158.0
+Java数值问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/java-number/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-10,1641826986.0
+Node.js路由方法,DearXuan的主页,https://blog.dearxuan.com/2022/01/10/Node-js%E8%B7%AF%E7%94%B1%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-10,1641805920.0
+Node.js路由方法,DearXuan的主页,https://dearxuan.top/2022/01/10/Node-js%E8%B7%AF%E7%94%B1%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-01-10,1641805920.0
+使用反射(reflect)对结构体赋值,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_01_10-reflect_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-10,1641772800.0
+聊聊 Sharding-Jdbc 分库分表下的分页方案,Nicksxs's Blog,https://nicksxs.me/2022/01/09/%E8%81%8A%E8%81%8A-Sharding-Jdbc-%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E4%B8%8B%E7%9A%84%E5%88%86%E9%A1%B5%E6%96%B9%E6%A1%88/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-01-09,1641729769.0
+GIN 是如何绑定参数的,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_01_09-gin_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-09,1641686400.0
+谈谈碎片化时间,冰哥笔记,https://www.bgbiji.com/844.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-01-08,1641619488.0
+【Mybatis 系列】Mybatis 入门,框架師,https://www.mobaijun.com/posts/2794875020.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-07,1641539424.0
+【Web 系列】SpringBoot 防护 XSS 攻击配置,框架師,https://www.mobaijun.com/posts/407876058.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-06,1641448654.0
+lombok问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/lombok-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-06,1641430890.0
+使用DDNS+ipv6在公网访问群晖,LonelyGod,https://hin.cool/posts/ddnsipv6.html,https://hin.cool/,https://hin.cool/atom.xml,2022-01-05,1641398400.0
 【工具系列】常用 maven 命令介绍,框架師,https://www.mobaijun.com/posts/3490035493.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641366238.0
 【工具系列】轻量级虚拟机 Multipass 使用教程,框架师,https://www.mobaijun.com/posts/3701652676.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641351409.0
 Jackson问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/jackson-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-04,1641311142.0
+2021 年年终总结,This Cute World,https://thiscute.world/posts/2021-summary/,https://thiscute.world/,https://thiscute.world/index.xml,2022-01-03,1641192600.0
 2021 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2021-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2022-01-03,1641168000.0
 PicGo插件：上传图片到多吉云存储,LonelyGod,https://hin.cool/posts/picgoplugin.html,https://hin.cool/,https://hin.cool/atom.xml,2022-01-02,1641081600.0
 EAF支持Wayland native啦!,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/01/02/eaf-support-wayland-native.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-01-02,1641081600.0
@@ -16,6 +39,7 @@ Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/11/,https://le
 【工具系列】mvnd：maven 全新构建插件，提高性能,框架师,https://www.mobaijun.com/posts/1982863623.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-29,1640745287.0
 【AWS】CloudFront免费CDN详细配置入门,Luminous' Home,https://luotianyi.vc/5994.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-12-28,1640696356.0
 【原创作品】Ease Bookmarks,qinxs小站,https://7bxing.com/posts/beb3fd2a/,https://7bxing.com/,https://7bxing.com/atom.xml,2021-12-27,1640610083.0
+月宫,This Cute World,https://thiscute.world/posts/moon-palace/,https://thiscute.world/,https://thiscute.world/index.xml,2021-12-27,1640596980.0
 C#(.Net) 将非托管dll嵌入exe中,DearXuan的主页,https://blog.dearxuan.com/2021/12/26/C-Net-%E5%B0%86%E9%9D%9E%E6%89%98%E7%AE%A1dll%E5%B5%8C%E5%85%A5exe%E4%B8%AD/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-12-26,1640511060.0
 C#(.Net) 将非托管dll嵌入exe中,DearXuan的主页,https://dearxuan.top/2021/12/26/C-Net-%E5%B0%86%E9%9D%9E%E6%89%98%E7%AE%A1dll%E5%B5%8C%E5%85%A5exe%E4%B8%AD/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-12-26,1640511060.0
 聊聊 Sharding-Jdbc 的简单原理初篇,Nicksxs's Blog,https://nicksxs.me/2021/12/26/%E8%81%8A%E8%81%8A-Sharding-Jdbc-%E7%9A%84%E7%AE%80%E5%8D%95%E5%8E%9F%E7%90%86%E5%88%9D%E7%AF%87/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-26,1640507399.0
@@ -25,27 +49,3 @@ Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky.cn/posts/windows
 黄桷垭老街与黄葛古道,无妄当自持,https://www.insidentally.com/articles/000023/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-12-24,1640310348.0
 解决Ubuntu中的子进程usr bin dpkg返回错误代码1”错误,Frank笔记,https://frank2019.me/articles/2021/12/23/1640246647224.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-12-23,1640247031.0
 explicit说明符,BBing's Blog,https://bbing.com.cn/202112/cpp-explicit/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-23,1640239412.0
-【Linux系列】Docker启动Nginx配置动静分离,框架师,https://www.mobaijun.com/posts/649017238.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-23,1640222875.0
-算法作业,Barney's Blog,https://hugo.bnblogs.cc/%E7%AE%97%E6%B3%95%E4%BD%9C%E4%B8%9A/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-22,1640154158.0
-第三十年冬至,把酒诗代码，趁乱写年华。,https://102no.com/2021/12/21/30th-dongzhi/,https://102no.com/,https://102no.com/atom.xml,2021-12-20,1640016000.0
-rssblog的数据源-rssblog-source,BBing's Blog,https://bbing.com.cn/202112/talk-rssblogsource/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-20,1639999051.0
-在 Linux 中使用 systemd timers 作为定时任务工具,无妄当自持,https://www.insidentally.com/articles/000022/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-12-20,1639965099.0
-Jsdelivr的证书错误带来了哪些影响？,LonelyGod,https://hin.cool/posts/jsddown.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-20,1639958400.0
-Story Pts Vs Man Days,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20211208-story-pts-vs-man-days,https://teobler.com,https://teobler.com/rss.xml,2021-12-19,1639925280.0
-聊聊最近平淡的生活之看《神探狄仁杰》,Nicksxs's Blog,https://nicksxs.me/2021/12/19/%E8%81%8A%E8%81%8A%E6%9C%80%E8%BF%91%E5%B9%B3%E6%B7%A1%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B9%8B%E7%9C%8B%E3%80%8A%E7%A5%9E%E6%8E%A2%E7%8B%84%E4%BB%81%E6%9D%B0%E3%80%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-19,1639912701.0
-2022年中国经济政策解读,Frank笔记,https://frank2019.me/articles/2021/12/19/1639902756830.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-12-19,1639903237.0
-Vscode新建React项目,Barney's Blog,https://hugo.bnblogs.cc/vscode%E6%96%B0%E5%BB%BAreact%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-18,1639835747.0
-必应崩了，还有什么搜索引擎？,LonelyGod,https://hin.cool/posts/fsou.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-16,1639684200.0
-我太喜欢长沙了！,见字如面,https://hiwannz.com/archives/658,https://hiwannz.com,https://hiwannz.com/feed,2021-12-16,1639656868.0
-Vscode + window Terminal集成git-Bash终端,Barney's Blog,https://hugo.bnblogs.cc/vscode%E9%9B%86%E6%88%90conda%E5%92%8Cgit-bash%E7%BB%88%E7%AB%AF/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-14,1639467935.0
-pair的内存结构,BBing's Blog,https://bbing.com.cn/202112/pair-memstruct/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-14,1639466993.0
-Ubuntu上的docker操作,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4%B8%8A%E7%9A%84docker%E6%93%8D%E4%BD%9C/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-13,1639397427.0
-添加了一些WebAPI,BBing's Blog,https://bbing.com.cn/202112/webapi-descriptor/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-13,1639364463.0
-npm 存在的问题以及 pnpm 是怎么处理的,Yuexun's Blog,https://yuexunjiang.me/blog/problems-with-npm-and-how-pnpm-handles-them/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-12-13,1639353600.0
-聊聊 Sharding-Jdbc 的简单使用,Nicksxs's Blog,https://nicksxs.me/2021/12/12/%E8%81%8A%E8%81%8A-Sharding-Jdbc-%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-12,1639310283.0
-用Go导入大型CSV到PostgreSQL,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_12_11-go_copy_large_file_to_pg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-11,1639180800.0
-PostgreSQL - DML操作汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-dml/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-07,1638891797.0
-【Linux系列】Docker-Build在线地址错误异常解决,框架师,https://www.mobaijun.com/posts/1333172510.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-07,1638841099.0
-个人的时间是有限的,近视眼逛博客,https://blog.dtz9.com/2021/12/Individual-time-is-limited.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-12-06,1638804587.0
-PicSizer-将图片压缩到指定大小(KB)的软件,DearXuan的主页,https://blog.dearxuan.com/2021/12/06/PicSizer-%E5%B0%86%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E5%88%B0%E6%8C%87%E5%AE%9A%E5%A4%A7%E5%B0%8F-KB-%E7%9A%84%E8%BD%AF%E4%BB%B6/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-12-06,1638791700.0
-PicSizer-将图片压缩到指定大小(KB)的软件,DearXuan的主页,https://dearxuan.top/2021/12/06/PicSizer-%E5%B0%86%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E5%88%B0%E6%8C%87%E5%AE%9A%E5%A4%A7%E5%B0%8F-KB-%E7%9A%84%E8%BD%AF%E4%BB%B6/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-12-06,1638791700.0
