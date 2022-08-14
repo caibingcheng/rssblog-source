@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+《尘缘》,This Cute World,https://thiscute.world/posts/fate-of-mortals/,https://thiscute.world/,https://thiscute.world/index.xml,2017-11-17,1510941120.0
 程序员修炼之道 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_13-the_programmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-13,1510531200.0
 Python开发实践经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_04-python_develop_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-04,1509753600.0
 三藩記,Just lepture,https://lepture.com/zh/2017/san-francisco-trip,https://lepture.com/,https://lepture.com/feed.xml,2017-11-02,1509637087.0
@@ -9,9 +10,9 @@ Web开发简介系列,Jiajun的编程随想,https://jiajunhuang.com/articles/201
 Nginx作为TCP/UDP的负载均衡,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-nginx_as_tcp_load_balancing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发系列(九)：消息队列，异步任务,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发系列(十)：事务和锁,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Web开发系列(八)：单点故障，负载均衡,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
-Nginx 请求匹配规则,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-nginx_request_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(七)：缓存，CDN,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
+Nginx 请求匹配规则,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-nginx_request_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
+Web开发系列(八)：单点故障，负载均衡,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(六)：关系型数据库，ORM,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(五)：form， json， xml,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_17-web_dev_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-17,1508198400.0
 Web开发系列(四)：Flask， Tornado和WSGI,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_16-web_dev_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-16,1508112000.0
@@ -48,4 +49,3 @@ A semantic BEM style,Just lepture,https://lepture.com/en/2017/semantic-bem-style
 Golang Map 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_27-golang_map.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-27,1501113600.0
 MySQL 零碎知识 - MySQL必知必会,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_26-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-26,1501027200.0
 万恶的BOM：ï»¿ 与 \ufeff,Yuexun's Blog,https://yuexunjiang.me/blog/the-evil-of-the-BOM-ufeff-and-i%C2%BB%C2%BF/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-07-24,1500854400.0
-Golang slice 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_18-golang_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-18,1500336000.0
