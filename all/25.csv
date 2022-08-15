@@ -1,4 +1,14 @@
 title,author,link,home,rss,date,timestamp
+Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-29-Keep-Data-Consistency-During-Database-Migration.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-29,1606626000.0
+「小歌行」-景德镇文艺复兴-2020巡演-深圳,This Cute World,https://thiscute.world/posts/jingdezhen-renaissance-band-2020-shenzhen/,https://thiscute.world/,https://thiscute.world/index.xml,2020-11-28,1606535340.0
+linux 开启 samba 服务共享文件,无妄当自持,https://www.insidentally.com/articles/000005/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-27,1606465965.0
+旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,https://luolei.org/pamu-quiet/,https://luolei.org,https://luolei.org/feed/,2020-11-26,1606398780.0
+gRPC错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_26-grpc_error_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-26,1606348800.0
+山城晓雾,无妄当自持,https://www.insidentally.com/articles/000004/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-25,1606281003.0
+眺望渝中,无妄当自持,https://www.insidentally.com/articles/000003/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-23,1606118148.0
+从 Vite 与 Vue 开始的 D3 数据可视化之旅,云游君的小站,https://www.yunyoujun.cn/posts/vue-d3-demo/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-21,1605959769.0
+这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯,罗磊的独立博客,https://luolei.org/warsun-portable-y40-led-light/,https://luolei.org,https://luolei.org/feed/,2020-11-20,1605876282.0
+老鞋续命，我给一双穿了5年的沙漠靴修鞋底,罗磊的独立博客,https://luolei.org/clarks-desert-boot-resole/,https://luolei.org,https://luolei.org/feed/,2020-11-17,1605622348.0
 带老婆去华强北买 iPhone 12 手机壳,罗磊的独立博客,https://luolei.org/iphone-shell-supermarket/,https://luolei.org,https://luolei.org/feed/,2020-11-14,1605326464.0
 Java collection的结构,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_13-java_colletions.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-13,1605225600.0
 如何找到你朋友的社交账号,云游君的小站,https://www.yunyoujun.cn/posts/find-npy-social-account/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-12,1605152798.0
@@ -38,14 +48,4 @@ ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an
 Flask和requests做一个简单的请求代理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
 借助 Magisk 优化/个性化 Android 中文字体显示效果,ChrAlpha,https://blog.ichr.me/post/improve-android-font-style-with-magisk/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-09-25,1601064971.0
 Linux常用命令(四)：xargs,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_21-linux_cmd_xargs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-21,1600646400.0
-Linux常用命令(三)：watch,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
 Linux常用命令(二)：htop,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_htop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
-升级 IOS 14 的一些坑,4Ark × Blog,https://4ark.me/post/7b1778ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-09-19,1600529843.0
-【推荐】Hexo博客配置及源文件备份,qinxs小站,https://7bxing.com/posts/659688f7/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-19,1600519111.0
-Linux常用命令(一)：netcat,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600.0
-装修脑壳痛：家庭万兆光纤网络、智能家居,罗磊的独立博客,https://luolei.org/apartment-log-book-network/,https://luolei.org,https://luolei.org/feed/,2020-09-18,1600428621.0
-Aurora Database,Bin Wang - My Personal Blog,https://www.binwang.me/2020-09-16-Aurora-Database.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-09-16,1600228800.0
-结合Flask 与 marshmallow快速进行参数校验,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_16-flask_marshmallow.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-16,1600214400.0
-关于我打算当老师并报考教师资格证这件事,云游君的小站,https://www.yunyoujun.cn/diary/try-to-become-a-teacher/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-11,1599839963.0
-规整数据的重要性,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_10-form_check.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-10,1599696000.0
-「硬核JS」一次搞懂JS运行机制,qinxs小站,https://7bxing.com/posts/9c28944f/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-08,1599574555.0
