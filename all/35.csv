@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Python中实现单例模式的n种方式和原理,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
 Golang defer中修改返回值,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_23-go_defer_named_return_values.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-23,1534982400.0
 Serlina: 渐进式的 React 服务器渲染框架,Randy's Blog,https://lutaonan.com/blog/announcing-serlina/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-08-13,1534118400.0
 Python dataclass 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_12-python_dataclasses.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-12,1534032000.0
@@ -48,4 +49,3 @@ GC 垃圾回收,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_3
 设计一个路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_28-router_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-28,1517097600.0
 进程线程协程与并发并行,This Cute World,https://thiscute.world/posts/process-thread-coroutines-concurrency-parallelism/,https://thiscute.world/,https://thiscute.world/index.xml,2018-01-23,1516696740.0
 Go语言性能优化实战,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_22-golang_optimization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-22,1516579200.0
-那些年开发的时候踩过的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_14-pitfalls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-14,1515888000.0
