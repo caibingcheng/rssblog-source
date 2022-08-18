@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+开始使用 Neovim,Yuexun's Blog,https://yuexunjiang.me/blog/use-neovim/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-03-27,1490572800.0
+阿里巴巴暑假实习面试总结,Yuexun's Blog,https://yuexunjiang.me/blog/alibaba-summer-internship-interview-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-03-16,1489622400.0
 做技术要自信,Randy's Blog,https://lutaonan.com/blog/do-have-faith-with-yourself/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-03-14,1489449600.0
 我患上了阅读焦虑症,This Cute World,https://thiscute.world/posts/reading-anxiety/,https://thiscute.world/,https://thiscute.world/index.xml,2017-03-07,1488861540.0
 什么是 Golang Comparable Types,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_06-golang_comparable_types.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-06,1488758400.0
@@ -12,17 +14,17 @@ Vim 折腾记,Yuexun's Blog,https://yuexunjiang.me/blog/notes-of-vim/,https://yu
 少有人迹的校园,This Cute World,https://thiscute.world/posts/quiet-and-peaceful-campus/,https://thiscute.world/,https://thiscute.world/index.xml,2017-02-17,1487368989.0
 Go语言的defer， panic和recover,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_02_15-go_defer_panic_and_recover.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-15,1487116800.0
 忽而假末,This Cute World,https://thiscute.world/posts/the-holiday-is-coming-to-an-end/,https://thiscute.world/,https://thiscute.world/index.xml,2017-02-06,1486383475.0
-再读vim help：vim小技巧,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_24-vim_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
-再读 Python Language Reference,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_24-python_language_reference.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
 JavaScript 继承的那些事,Yuexun's Blog,https://yuexunjiang.me/blog/something-about-javaScript-inherit/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-01-24,1485216000.0
+再读 Python Language Reference,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_24-python_language_reference.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
+再读vim help：vim小技巧,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_24-vim_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
 设计模式（2）- 深入浅出设计模式 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_22-head_first_design_patterns_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-22,1485043200.0
 设计模式（1）- 深入浅出设计模式 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_21-head_first_design_patterns.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-21,1484956800.0
 Cython! Python和C两个世界的交叉点,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_15-cython_rocks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-15,1484438400.0
 socketserver 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_09-socketserver_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-09,1483920000.0
 functools 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_08-functools_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-08,1483833600.0
 contextlib代码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_07-contextlib_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-07,1483747200.0
-Redis通信协议阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_06-redis_protocol_specification.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0
 Collections 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_06-collections_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0
+Redis通信协议阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_06-redis_protocol_specification.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0
 从 React 谈 Web UI 开发,Randy's Blog,https://lutaonan.com/blog/react-and-the-way-building-web-ui/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-01-01,1483228800.0
 2016年就要结束了，2017年就要开始啦！,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_31-2016_is_over_and_2017_is_coming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-31,1483142400.0
 unittest 源代码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_29-unittest_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-29,1482969600.0
@@ -30,8 +32,8 @@ unittest 源代码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/
 APUEv3 - 重读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_26-apue_v3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-26,1482710400.0
 Mock源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_22-mock_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-22,1482364800.0
 Thinking in Python,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_16-thinking_in_python.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-16,1481846400.0
-从零开始制作 Hexo 主题,Ahonn's Blog,https://www.ahonn.me/blog/create-a-hexo-theme-from-scratch,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-12-15,1481823827.0
 从零开始制作 Hexo 主题,Yuexun's Blog,https://yuexunjiang.me/blog/create-a-hexo-theme-from-scratch,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-12-15,1481823827.0
+从零开始制作 Hexo 主题,Ahonn's Blog,https://www.ahonn.me/blog/create-a-hexo-theme-from-scratch,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-12-15,1481823827.0
 我的代码进CPython标准库啦,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_15-my_code_in_python_stdlib.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-15,1481760000.0
 从零开始制作 Hexo 主题,Yuexun's Blog,https://yuexunjiang.me/blog/create-a-hexo-theme-from-scratch/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-12-15,1481760000.0
 2016 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2016-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-12-13,1481587200.0
@@ -47,5 +49,3 @@ Python的yield关键字有什么作用？,Jiajun的编程随想,https://jiajunhu
 Python3函数参数中的星号,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_21-py3k_asterisk.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-21,1479686400.0
 JavaScript 数据类型判断,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-data-type-judgment/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-21,1479686400.0
 「微信小程序」入坑总结,Yuexun's Blog,https://yuexunjiang.me/blog/wechat-app-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-14,1479081600.0
-使用Git Hooks,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_08-use_git_hooks.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-08,1478563200.0
-你根本用不着退学,Randy's Blog,https://lutaonan.com/blog/you-dont-need-to-drop-out/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-11-06,1478390400.0
