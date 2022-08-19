@@ -12,6 +12,7 @@ title,author,link,home,rss,date,timestamp
 【WEB 系列】高版本 SpringBoot 整合 Swagger 启动异常问题,框架師,https://www.mobaijun.com/posts/3051425539.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-13,1652412738.0
 【Linux 系列】将 Docker 容器设为自启动和取消容器自启动,框架師,https://www.mobaijun.com/posts/3024480743.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-05,1651719941.0
 【WEB 系列】SpringBootStarter- 组件化开发,框架師,https://www.mobaijun.com/posts/1232000011.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-28,1651141156.0
+【后端】MapStruct 使用详解,框架師,https://www.mobaijun.com/posts/239252401.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-20,1650447800.0
 【工具系列】Idea 远程调试服务器 Jar 包,框架師,https://www.mobaijun.com/posts/55789149.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-13,1649846866.0
 【工具系列】服务器搭建一个自用网盘Zpan,框架师,https://www.mobaijun.com/posts/3473890439.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-03-05,1646449823.0
 【工具系列】Windows 包管理工具 Scoop 安装及使用,框架師,https://www.mobaijun.com/posts/908521329.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-03-02,1646223740.0
@@ -48,4 +49,3 @@ MySQL远程连接失败(错误码:2003),框架师,https://www.mobaijun.com/posts
 JavaSe-网络编程,框架师,https://www.mobaijun.com/posts/1483848703.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-26,1619424035.0
 Nginx,框架师,https://www.mobaijun.com/posts/1706463495.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-14,1618384093.0
 常用DOS命令汇总,框架师,https://www.mobaijun.com/posts/567653050.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-02-20,1613789085.0
-Node.js更换国内源,框架师,https://www.mobaijun.com/posts/3059858801.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-02-02,1612254603.0
