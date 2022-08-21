@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+配置gitee和git并存环境,Barney's Blog,https://hugo.bnblogs.cc/gitee%E5%92%8Cgit%E5%B9%B6%E5%AD%98/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-03,1638540704.0
+给自媒体新手的一些建议,冰哥笔记,https://www.bgbiji.com/840.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-12-03,1638502602.0
 谈谈生死,冰哥笔记,https://www.bgbiji.com/838.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-12-02,1638432651.0
 认真思考：钱多到根本花不完，真的快乐吗？,非理勿试,https://www.ntiy.com/1677.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-12-02,1638409641.0
 使用 OpenWRT 搭建软路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_12_01-openwrt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-01,1638316800.0
@@ -35,8 +37,8 @@ Hexo各种一键部署方式的体验,LonelyGod,https://hin.cool/posts/hexodeplo
 【Linux系列】CentOS-7下GitLab安装部署教程,框架师,https://www.mobaijun.com/posts/4047318542.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-11-13,1636824442.0
 假拼穷与真贫穷,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/poor-2021-09-15.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-11-13,1636817160.0
 基于C#的开源远程控制软件V4mp1r3——远控编写思路分享,Thrower的博客,https://thrower.cc/2021/v4mp1r3/,https://thrower.cc,https://thrower.cc/feed/,2021-11-13,1636815363.0
-C# Bitmap图像处理加速,DearXuan的主页,https://dearxuan.top/2021/11/13/C-Bitmap%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%8A%A0%E9%80%9F/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-13,1636807980.0
 C# Bitmap图像处理加速,DearXuan的主页,https://blog.dearxuan.com/2021/11/13/C-Bitmap%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%8A%A0%E9%80%9F/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-13,1636807980.0
+C# Bitmap图像处理加速,DearXuan的主页,https://dearxuan.top/2021/11/13/C-Bitmap%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%8A%A0%E9%80%9F/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-13,1636807980.0
 学生是民族的希望,Frank笔记,https://frank2019.me/articles/2021/11/13/1636788716361.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-11-13,1636789407.0
 人工智能基础-极大极小策略,DearXuan的主页,https://blog.dearxuan.com/2021/11/13/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E6%9E%81%E5%A4%A7%E6%9E%81%E5%B0%8F%E7%AD%96%E7%95%A5/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-13,1636774260.0
 人工智能基础-极大极小策略,DearXuan的主页,https://dearxuan.top/2021/11/13/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E6%9E%81%E5%A4%A7%E6%9E%81%E5%B0%8F%E7%AD%96%E7%95%A5/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-13,1636774260.0
@@ -47,5 +49,3 @@ glibc-abort源码阅读,BBing's Blog,https://bbing.com.cn/202111/glibc-abort/,ht
 谈谈最近的自己。,冰哥笔记,https://www.bgbiji.com/836.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-11-10,1636517474.0
 CLion编写我的世界基岩版插件(LiteLoaderBDS)-2,DearXuan的主页,https://blog.dearxuan.com/2021/11/08/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS-2/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-08,1636365720.0
 CLion编写我的世界基岩版插件(LiteLoaderBDS)-2,DearXuan的主页,https://dearxuan.top/2021/11/08/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS-2/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-08,1636365720.0
-CLion编写我的世界基岩版插件(LiteLoaderBDS)-1,DearXuan的主页,https://blog.dearxuan.com/2021/11/07/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-07,1636299540.0
-CLion编写我的世界基岩版插件(LiteLoaderBDS)-1,DearXuan的主页,https://dearxuan.top/2021/11/07/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-07,1636299540.0
