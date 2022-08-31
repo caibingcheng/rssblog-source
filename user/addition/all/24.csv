@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+独立运营博客一年的一些数据分享,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
 To B(usiness) 和 To C(ustomer),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_22-to_b_to_c.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-22,1537574400.0
 PyCon JP 2018 記,Just lepture,https://lepture.com/zh/2018/pycon-jp-2018,https://lepture.com/,https://lepture.com/feed.xml,2018-09-19,1537364456.0
 Cookie 中的secure和httponly属性,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-cookie_secure_httponly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
@@ -17,8 +18,8 @@ Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的编程�
 ArchLinux 怎么降级 package ？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 为什么我选择放弃运营微信公众号？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Web后端工程师进阶指南(2018),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
-macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 How to implement fork syscall in Golang?,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
+macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 关于运营的思考-运营要怎么做？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_26-about_traffic.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-26,1535241600.0
 Python中实现单例模式的n种方式和原理,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
 Golang defer中修改返回值,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_23-go_defer_named_return_values.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-23,1534982400.0
@@ -48,4 +49,3 @@ Golang和Thrift,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_1
 折腾Kubernetes,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_05-kubernetes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-05,1522886400.0
 协程(coroutine)简介 - 什么是协程？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_03-coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-03,1522713600.0
 goroutine 切换的时候发生了什么？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_29-goroutine_schedule.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-29,1522281600.0
-Prometheus 数据类型,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_19-prometheus.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-19,1521417600.0
