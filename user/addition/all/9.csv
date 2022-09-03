@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【DB系列】SpringBoot实现MySQL数据库备份与还原,框架师,https://www.mobaijun.com/posts/2334558877.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-12,1634023174.0
 使用 gomock 测试 Go 代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_10_12-go_mock.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-12,1633996800.0
 【Git系列】Git 仓库体积过大，缩减记录,框架师,https://www.mobaijun.com/posts/2432586935.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-11,1633917948.0
 gevent不是黑魔法(二): gevent 实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_10_11-gevent_is_good_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-11,1633910400.0
@@ -48,4 +49,3 @@ Sentry 自建指南,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_
 Java数据类型和MySql数据类型对应表,框架师,https://www.mobaijun.com/posts/961492254.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-19,1629343670.0
 用selenium完成自动化任务,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_08_19-selenium.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-19,1629331200.0
 Ubuntu 20.04.2 LTS Server版本设置静态IP地址,框架师,https://www.mobaijun.com/posts/594559550.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-18,1629285329.0
-竞争让我们互相模仿,见字如面,https://hiwannz.com/archives/581,https://hiwannz.com,https://hiwannz.com/feed,2021-08-16,1629089133.0
