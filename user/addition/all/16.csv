@@ -1,6 +1,25 @@
 title,author,link,home,rss,date,timestamp
+带老婆去华强北买 iPhone 12 手机壳,罗磊的独立博客,https://luolei.org/iphone-shell-supermarket/,https://luolei.org/,https://luolei.org/feed/,2020-11-14,1605326464.0
+Java collection的结构,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_13-java_colletions.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-13,1605225600.0
+如何找到你朋友的社交账号,云游君的小站,https://www.yunyoujun.cn/posts/find-npy-social-account/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-12,1605152798.0
+为什么 Linux 需要 Swapping,面向信仰编程,https://draveness.me//whys-the-design-linux-swapping,https://draveness.me/,https://draveness.me/feed.xml,2020-11-10,1604966400.0
+DNS Resolving Bug in iOS 14,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-08-DNS-Resolving-Bug-in-iOS-14.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-08,1604811600.0
+为什么 HugePages 可以提升数据库性能,面向信仰编程,https://draveness.me//whys-the-design-linux-hugepages,https://draveness.me/,https://draveness.me/feed.xml,2020-11-04,1604448000.0
+十月总结,4Ark × Blog,https://4ark.me/post/edb9a744.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-03,1604440173.0
+Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-02-Use-TLA+-to-Verify-Cache-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-02,1604293200.0
+为啥Redis使用pipelining会更快？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
+Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
+回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
+回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
+通过阳台种菜实现蔬菜自由,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
+从GORM里学习到的panic处理方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
+写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
+How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-18,1602993600.0
+记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
+记一次因 HSTS 导致跨域问题的经历,4Ark × Blog,https://4ark.me/posts/hsts-problem-solving-experience.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
 Go使用闭包简化数据库操作代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0
 TCMalloc设计文档学习,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
+免费获取 EU.org 顶级域名,岚天小窝,https://blog.ltya.top/posts/eu-org.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-10-08,1602172800.0
 Understand Liveness and Fairness in TLA+,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-06-Understand-Liveness-and-Fairness-in-TLA.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-06,1601956800.0
 如果这还都还不算抄袭的话,ChrAlpha,https://blog.ichr.me/post/monologue-of-a-rubbish/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-05,1601937406.0
 博客新增公开笔记部分,萤火之森,http://frankorz.com/2020/10/03/add-note-section-to-blog/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-10-03,1601740410.0
@@ -18,6 +37,7 @@ Linux常用命令(二)：htop,Jiajun的编程随想,https://jiajunhuang.com/arti
 Linux常用命令(三)：watch,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
 升级 IOS 14 的一些坑,4Ark × Blog,https://4ark.me/post/7b1778ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-09-19,1600529843.0
 Linux常用命令(一)：netcat,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600.0
+免费获取 Microsoft 365 E5 订阅,岚天小窝,https://blog.ltya.top/posts/E5-Developer-Subscription.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-09-18,1600444800.0
 装修脑壳痛：家庭万兆光纤网络、智能家居,罗磊的独立博客,https://luolei.org/apartment-log-book-network/,https://luolei.org/,https://luolei.org/feed/,2020-09-18,1600428621.0
 Aurora Database,Bin Wang - My Personal Blog,https://www.binwang.me/2020-09-16-Aurora-Database.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-09-16,1600228800.0
 结合Flask 与 marshmallow快速进行参数校验,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_16-flask_marshmallow.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-16,1600214400.0
@@ -29,23 +49,3 @@ An Overview of China’s Internet Censorship Strategy,Bin Wang - My Personal Blo
 Strato - Hexo 主题「Yun」版本宣传 PV,云游君的小站,https://www.yunyoujun.cn/share/hexo-theme-yun-strato/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-28,1598623200.0
 八月总结,4Ark × Blog,https://4ark.me/post/f05d518.html,https://4ark.me/,https://4ark.me/rss.xml,2020-08-28,1598573148.0
 《八佰》观后感,4Ark,https://4ark.me/posts/ba-bai-review/,https://4ark.me/,https://4ark.me/rss.xml,2020-08-28,1598573025.0
-【装修日记：10月1日更新】：松山没有湖:，东莞三房装修 | 长期记录,罗磊的独立博客,https://luolei.org/new-apartment-log-book/,https://luolei.org/,https://luolei.org/feed/,2020-08-27,1598506672.0
-博客开放评论,Randy's Blog,https://lutaonan.com/blog/open-for-comment/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-08-26,1598400000.0
-Goroutine是如何处理栈的？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
-StackGuard的作用,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-stackguard.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
-Matrix: A Self Hosted Instant Messaging Solution with End to End Encryption,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-23-Build-An-Instant_Messaging-System-without-Censorship-Choose-the-right-technology.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-23,1598155200.0
-Go DiskQueue源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-22,1598054400.0
-NSQ源码分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_16-nsq_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-16,1597536000.0
-写给大学新生的数字指南,罗磊的独立博客,https://luolei.org/freshman-internet-guidebook/,https://luolei.org/,https://luolei.org/feed/,2020-08-15,1597495033.0
-Use RSS and Kindle to Read News,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-15-Use-RSS-and-Kindle-to-Read-News.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-15,1597464000.0
-Docmate - 一个可以自由部署的文档平台,Randy's Blog,https://lutaonan.com/blog/announcing-docmate/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-08-15,1597449600.0
-NSQ简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_15-nsq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-15,1597449600.0
-我与小镇与家,云游君的小站,https://www.yunyoujun.cn/essay/i-and-town-and-home/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-14,1597442400.0
-结合Redis与MySQL实现又快又好的数据方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_11-redis_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-11,1597104000.0
-盛唐诗人和远游,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-09-%E7%9B%9B%E5%94%90%E8%AF%97%E4%BA%BA%E5%92%8C%E8%BF%9C%E6%B8%B8.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-09,1596945600.0
-西藏 | 五日自驾三千里，叹祖国壮美边疆 | 拉萨・羊湖・日喀则・珠峰,罗磊的独立博客,https://luolei.org/tibet-2020/,https://luolei.org/,https://luolei.org/feed/,2020-08-04,1596547567.0
-不必二选一！AdGuard 去除广告与 Clash 网络代理同时进行,ChrAlpha,https://blog.ichr.me/post/adguard-with-clash/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-08-02,1596411381.0
-What Is Wrong about Recommendation System,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-02-What-Is-Wrong-abount-Recommendation-System.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-02,1596340800.0
-中国网络基建有多厉害？我在珠峰测网速,罗磊的独立博客,https://luolei.org/mountain-everest-internet-speedtest/,https://luolei.org/,https://luolei.org/feed/,2020-07-31,1596201040.0
-程序员的MySQL手册(五)：索引优化,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_28-mysql_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-28,1595894400.0
-程序员的MySQL手册(四)：索引设计,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_27-mysql_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-27,1595808000.0

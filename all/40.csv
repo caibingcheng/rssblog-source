@@ -1,4 +1,25 @@
 title,author,link,home,rss,date,timestamp
+JavaScript 数据类型判断,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-data-type-judgment/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-21,1479686400.0
+「微信小程序」入坑总结,Yuexun's Blog,https://yuexunjiang.me/blog/wechat-app-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-14,1479081600.0
+使用Git Hooks,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_08-use_git_hooks.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-08,1478563200.0
+你根本用不着退学,Randy's Blog,https://lutaonan.com/blog/you-dont-need-to-drop-out/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-11-06,1478390400.0
+Token Bucket 算法,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_05-token_bucket.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-05,1478304000.0
+nginx配置笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_03-nginx_conf.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-03,1478131200.0
+Python 视频转字符动画（一）60 行代码,This Cute World,https://thiscute.world/posts/video2chars-1-basics/,https://thiscute.world/,https://thiscute.world/index.xml,2016-10-18,1476751022.0
+React 路由跳转后回到页面顶部,Yuexun's Blog,https://yuexunjiang.me/blog/after-the-react-routing-scroll-to-the-top-of-the-page/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-10-11,1476144000.0
+React 生命周期函数小结,Yuexun's Blog,https://yuexunjiang.me/blog/react-lifecycle-methods/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-10-02,1475366400.0
+静态类型在 JavaScript 中是一种负担吗？,Randy's Blog,https://lutaonan.com/blog/is-static-type-in-javascript-a-burden/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-09-29,1475107200.0
+阅读Flask源码,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_09_15-flask_source_code.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-09-15,1473897600.0
+正则表达式备忘录,Yuexun's Blog,https://yuexunjiang.me/blog/the-memo-of-javascript-regexp/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-09-13,1473724800.0
+我的利器,Randy's Blog,https://lutaonan.com/blog/my-liqi/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-09-09,1473379200.0
+离开大学这一年,Randy's Blog,https://lutaonan.com/blog/one-year-after-dropping-out-of-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-09-08,1473292800.0
+[译] JavaScript 最佳实践,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-best-practices/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-08-31,1472601600.0
+尤克里里,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_08_25-ukulele.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-08-25,1472083200.0
+我常用的 macOS 应用,Randy's Blog,https://lutaonan.com/blog/tools-of-my-macbook/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-08-06,1470441600.0
+如何减少浏览器回流,Ahonn's Blog,https://www.ahonn.me/blog/javascript-reduce-the-browser-reflow,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-08-02,1470177993.0
+如何减少浏览器回流,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-reduce-the-browser-reflow,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-08-02,1470177993.0
+如何减少浏览器回流,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-reduce-the-browser-reflow/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-08-02,1470096000.0
+数组乱序的正确姿势,Yuexun's Blog,https://yuexunjiang.me/blog/the-right-way-to-array-of-random-sequence/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-07-25,1469404800.0
 Vue 中使用 highlight.js,Yuexun's Blog,https://yuexunjiang.me/blog/getting-highlightjs-to-work-with-vue.js/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-07-13,1468368000.0
 CSS 实现垂直居中,Yuexun's Blog,https://yuexunjiang.me/blog/vertical-center-for-css/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-06-29,1467158400.0
 学习使用Bootstrap4的栅格系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_06_20-bootstrap_v4_grid_system.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-20,1466380800.0
@@ -16,8 +37,8 @@ foldl 和 foldr 的变换,Jiajun的编程随想,https://jiajunhuang.com/articles
 使用 JavaScript 实现简单的拖拽,Yuexun's Blog,https://yuexunjiang.me/blog/use-javascript-to-achieve-simple-drag-and-drop/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 记第一次面试,Yuexun's Blog,https://yuexunjiang.me/blog/the-first-interview/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 Haskell TypeClass 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_05-typeclassopedia.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-05,1462406400.0
-从 optimizeCb 说起,Ahonn's Blog,https://www.ahonn.me/blog/starting-from-the-optimizeCb,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
 从 optimizeCb 说起,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-the-optimizeCb,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
+从 optimizeCb 说起,Ahonn's Blog,https://www.ahonn.me/blog/starting-from-the-optimizeCb,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
 从 optimizeCb 说起,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-the-optimizeCb/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-03,1462233600.0
 JavaScript 中不合常理的变量提升,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-hoisting/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-28,1461801600.0
 JavaScript 事件流：冒泡与捕获,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-event-stream/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-16,1460764800.0
@@ -27,25 +48,4 @@ JavaScript 原型链探究,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-
 21 岁我想说的,Randy's Blog,https://lutaonan.com/blog/say-in-21/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-25,1458864000.0
 apply， call 与 bind 的区别,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-apply-call-and-bind/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-20,1458432000.0
 我是如何监听 APP 价格变动的,Randy's Blog,https://lutaonan.com/blog/how-do-i-track-app-price/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-16,1458086400.0
-Tornado 源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_14-tornado.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-14,1457913600.0
 我学五笔的经历,Randy's Blog,https://lutaonan.com/blog/my-wubi-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-14,1457913600.0
-JavaScript权威指南笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_06-notes_on_js_the_definitive_guide.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-06,1457222400.0
-Python零碎知识汇总,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_05-python_fragmentary_knowledge.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-05,1457136000.0
-Jade 模板引擎,Yuexun's Blog,https://yuexunjiang.me/blog/jade-template-engine/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-02-29,1456704000.0
-Python 多线程初步了解,Yuexun's Blog,https://yuexunjiang.me/blog/python-multithreaded-preliminary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-02-20,1455926400.0
-列車上的女子,Just lepture,https://lepture.com/zh/2016/girl-on-the-train,https://lepture.com/,https://lepture.com/feed.xml,2016-02-06,1454776200.0
-C语言的位操作,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_02_06-bitwise_operation.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-02-06,1454716800.0
-分治,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_01_25-divide_and_conqure.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-01-25,1453680000.0
-日記、新年お願いします,Just lepture,https://lepture.com/zh/2016/new-year-koshigaya,https://lepture.com/,https://lepture.com/feed.xml,2016-01-16,1452942900.0
-2015 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2015-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-31,1451520000.0
-日記、初めまして,Just lepture,https://lepture.com/zh/2015/first-day-koshigaya,https://lepture.com/,https://lepture.com/feed.xml,2015-12-30,1451475000.0
-杭州記憶,Just lepture,https://lepture.com/zh/2015/beloved-hangzhou,https://lepture.com/,https://lepture.com/feed.xml,2015-12-24,1450953000.0
-[译] 在 PHP 中如何预防 SQL 注入,Yuexun's Blog,https://yuexunjiang.me/blog/how-can-i-prevent-sql-injection-in-php/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-21,1450656000.0
-PHP cURL 库的简单使用,Yuexun's Blog,https://yuexunjiang.me/blog/simple-use-of-the-php-curl-library/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-19,1450483200.0
-关于python的decorator和descriptor,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_12_05-python_descriptor_and_decorator.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-12-05,1449273600.0
-知乎用户动态监控爬虫,Yuexun's Blog,https://yuexunjiang.me/blog/the-crawler-of-zhihu-user-dynamic-monitoring/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-11-25,1448409600.0
-月神,Just lepture,https://lepture.com/zh/2015/wish-to-be-found,https://lepture.com/,https://lepture.com/feed.xml,2015-11-23,1448319600.0
-phpmyadmin 缺少 mcrypt 扩展,Yuexun's Blog,https://yuexunjiang.me/blog/phpmyadmin-lack-mcrypt-extension/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-11-22,1448150400.0
-程序设计实践笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_10_09-notes_on_the_practice_of_programming.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-10-09,1444348800.0
-談藥,Just lepture,https://lepture.com/zh/2015/about-yao,https://lepture.com/,https://lepture.com/feed.xml,2015-09-10,1441843200.0
-Thinking Recursively,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_09_05-thinking_recursively.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-09-05,1441411200.0
