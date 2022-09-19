@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+每个人都能用点正则表达式,Randy's Blog,https://lutaonan.com/blog/everyone-can-use-regexp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-09-19,1663545600.0
 读《九宫格写作法》,Randy's Blog,https://lutaonan.com/blog/read-grid-writing-method/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-08-20,1660953600.0
 遗憾最小化框架 —— 如何做决定,Randy's Blog,https://lutaonan.com/blog/regret-minimization-framework/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-05-29,1653838255.0
 再谈辍学,Randy's Blog,https://lutaonan.com/blog/talking-about-dropout-again/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-10-20,1634688000.0
@@ -48,4 +49,3 @@ Serlina: 渐进式的 React 服务器渲染框架,Randy's Blog,https://lutaonan.
 养猫随想,Randy's Blog,https://lutaonan.com/blog/cat-capriccio/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-08-20,1503187200.0
 我的编程经历,Randy's Blog,https://lutaonan.com/blog/my-coding-road/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-05-12,1494547200.0
 搭建自己的 Gitlab CI Runner,Randy's Blog,https://lutaonan.com/blog/gitlab-ci-runner/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-04-20,1492646400.0
-做技术要自信,Randy's Blog,https://lutaonan.com/blog/do-have-faith-with-yourself/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-03-14,1489449600.0
