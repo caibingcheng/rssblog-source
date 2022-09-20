@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+聊一下 SpringBoot 中动态切换数据源的方法,Nicksxs's Blog,https://nicksxs.me/2021/09/26/%E8%81%8A%E4%B8%80%E4%B8%8B-SpringBoot-%E4%B8%AD%E5%8A%A8%E6%80%81%E5%88%87%E6%8D%A2%E6%95%B0%E6%8D%AE%E6%BA%90%E7%9A%84%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-09-26,1632649309.0
 【MySQL系列】MySQL数据库备份与恢复-使用MySQLDump记录,框架师,https://www.mobaijun.com/posts/2902111757.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-26,1632642935.0
 从零开始写一个 Web Component - GitHub Corners,云游君的小站,https://www.yunyoujun.cn/posts/how-to-write-a-web-component/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-09-25,1632565657.0
 花呗,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/ant-huabei.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-09-25,1632545040.0
@@ -36,8 +37,8 @@ Ubuntu 20.04.2 LTS Server版本设置静态IP地址,框架师,https://www.mobaij
 竞争让我们互相模仿,见字如面,https://hiwannz.com/archives/581,https://hiwannz.com,https://hiwannz.com/feed,2021-08-16,1629089133.0
 redis 的 rdb 和 COW 介绍,Nicksxs's Blog,https://nicksxs.me/2021/08/15/redis-%E7%9A%84-rdb-%E5%92%8C-COW-%E4%BB%8B%E7%BB%8D/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-15,1629033725.0
 多事之秋 第一篇,非理勿试,https://www.ntiy.com/1639.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-08-13,1628830559.0
-像我这种有强迫症的人,近视眼逛博客,https://blog.dtz9.com/2021/08/People-with-OCD-like-me.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-08-10,1628609220.0
 像我这种有强迫症的人,近视眼逛博客,https://blog.9hz.club/2021/08/People-with-OCD-like-me.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2021-08-10,1628609220.0
+像我这种有强迫症的人,近视眼逛博客,https://blog.dtz9.com/2021/08/People-with-OCD-like-me.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-08-10,1628609220.0
 如何保持高效的工作或学习状态？,冰哥笔记,https://www.bgbiji.com/821.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-08-10,1628584045.0
 怎么对候选人进行面试,见字如面,https://hiwannz.com/archives/578,https://hiwannz.com,https://hiwannz.com/feed,2021-08-10,1628565093.0
 聊在东京奥运会闭幕式这天,Nicksxs's Blog,https://nicksxs.me/2021/08/08/%E8%81%8A%E5%9C%A8%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E8%BF%99%E5%A4%A9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-08,1628424307.0
@@ -48,4 +49,3 @@ SpringBoot监控工具之《Actuator》,框架师,https://www.mobaijun.com/posts
 产品思维,见字如面,https://hiwannz.com/archives/576,https://hiwannz.com,https://hiwannz.com/feed,2021-08-04,1628080056.0
 如何做一个真正的“长期主义者”？,冰哥笔记,https://www.bgbiji.com/820.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-08-02,1627920311.0
 关于「宝塔一个站点绑定多个域名宝塔ssl证书」配置教程,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/pagoda-panel-single-website-dual-domain-name-dual-certificate-configuration-tutorial.html,https://zmmio.com/,https://zmmio.com/feed,2021-08-02,1627897944.0
-SpringBoot异步任务记录,框架师,https://www.mobaijun.com/posts/4255110274.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-02,1627891678.0
