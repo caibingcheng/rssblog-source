@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+聊一下 SpringBoot 设置非 web 应用的方法,Nicksxs's Blog,https://nicksxs.me/2022/07/31/%E8%81%8A%E4%B8%80%E4%B8%8B-SpringBoot-%E8%AE%BE%E7%BD%AE%E9%9D%9E-web-%E5%BA%94%E7%94%A8%E7%9A%84%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-07-31,1659266193.0
+记录自己 | 2022.07.31,冰哥笔记,https://www.bgbiji.com/1091.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-31,1659265536.0
+Kubernetes 中的证书管理工具 - cert-manager,This Cute World,https://thiscute.world/posts/kubernetes-cert-management/,https://thiscute.world/,https://thiscute.world/index.xml,2022-07-31,1659251506.0
 Caddy 的简介,杜老师说,https://dusays.com/489/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-31,1659225600.0
 Vercel部署本地项目,Barney's Blog,https://hugo.bnblogs.cc/vercel%E9%83%A8%E7%BD%B2%E6%9C%AC%E5%9C%B0%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-30,1659178583.0
 git-bash如何使用tmux,Barney's Blog,https://hugo.bnblogs.cc/git-bash%E4%BD%BF%E7%94%A8tmux/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-29,1659109262.0
@@ -46,6 +49,3 @@ MacBook Pro 修复之路,把酒诗代码，趁乱写年华。,https://102no.com/
 记录自己 | 2022.07.15,冰哥笔记,https://www.bgbiji.com/1060.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-15,1657893824.0
 权限模型(RBAC/ABAC),Jiajun的编程随想,https://jiajunhuang.com/articles/2022_07_15-access_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-15,1657843200.0
 唯有音乐永恒,LonelyGod,https://hin.cool/posts/guahua.html,https://hin.cool/,https://hin.cool/atom.xml,2022-07-14,1657836600.0
-记录自己 | 2022.07.14,冰哥笔记,https://www.bgbiji.com/1059.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-14,1657807074.0
-Markdown on ruby markup,Just lepture,https://lepture.com/en/2022/markdown-ruby-markup,https://lepture.com/,https://lepture.com/feed.xml,2022-07-14,1657806270.0
-【工具系列】Nacos 配置 MySQL 数据库,框架師,https://www.mobaijun.com/posts/2021021572.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-14,1657759940.0
