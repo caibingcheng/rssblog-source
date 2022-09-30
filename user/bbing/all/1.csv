@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+写 诗,LonelyGod,https://hin.cool/posts/xieshi.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-30,1664551200.0
 杜老师的域名清单,杜老师说,https://dusays.com/509/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-28,1664380800.0
 使用GPG防止commiter冒充,BBing's Blog,https://bbing.com.cn/202209/gunpg-commiter-sign/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-28,1664366486.0
 《现代C++白皮书》一周目读后感,BBing's Blog,https://bbing.com.cn/202209/cpp_hopl4_reading/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-27,1664287568.0
@@ -48,4 +49,3 @@ Hugo主题推荐,Barney's Blog,https://hugo.bnblogs.cc/hugo%E4%B8%BB%E9%A2%98%E6
 Kubernetes 中的证书管理工具 - cert-manager,This Cute World,https://thiscute.world/posts/kubernetes-cert-management/,https://thiscute.world/,https://thiscute.world/index.xml,2022-07-31,1659251506.0
 Caddy 的简介,杜老师说,https://dusays.com/489/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-31,1659225600.0
 Vercel部署本地项目,Barney's Blog,https://hugo.bnblogs.cc/vercel%E9%83%A8%E7%BD%B2%E6%9C%AC%E5%9C%B0%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-30,1659178583.0
-git-bash如何使用tmux,Barney's Blog,https://hugo.bnblogs.cc/git-bash%E4%BD%BF%E7%94%A8tmux/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-29,1659109262.0
