@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Hugo主题推荐,Barney's Blog,https://hugo.bnblogs.cc/hugo%E4%B8%BB%E9%A2%98%E6%8E%A8%E8%8D%90/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-08-04,1659595705.0
 有没有兴趣来抢个沙发,杜老师说,https://dusays.com/490/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-03,1659484800.0
 切换Python版本后导致终端打不开,Bing's Blog,https://bbing.com.cn/202208/terminal-python-version/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-08-01,1659322836.0
 Kubernetes 中的证书管理工具 - cert-manager,This Cute World,https://thiscute.world/posts/kubernetes-cert-management/,https://thiscute.world/,https://thiscute.world/index.xml,2022-07-31,1659251506.0
@@ -12,7 +13,7 @@ SpringBoot2.7新建项目Maven下载依赖出错,Barney's Blog,https://hugo.bnbl
 Argument list too long 原因与解决思路,杜老师说,https://dusays.com/487/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-25,1658707200.0
 git简单入门,Barney's Blog,https://hugo.bnblogs.cc/github%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-23,1658591824.0
 通过群晖 CentOS 虚拟机搭建邮件服务「EwoMail 开源版」,杜老师说,https://dusays.com/486/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-22,1658448000.0
-系统信息悬浮窗-fstats,BBing's Blog,https://bbing.com.cn/202207/sysinfo-fstats/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-07-21,1658373383.0
+系统信息悬浮窗-fstats,Bing's Blog,https://bbing.com.cn/202207/sysinfo-fstats/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-07-21,1658373383.0
 通过群晖虚拟机搭建内网邮件服务器「ExtMail 免费版」,杜老师说,https://dusays.com/485/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-19,1658188800.0
 通过群晖套件搭建内网邮件服务,杜老师说,https://dusays.com/484/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-16,1657929600.0
 唯有音乐永恒,LonelyGod,https://hin.cool/posts/guahua.html,https://hin.cool/,https://hin.cool/atom.xml,2022-07-14,1657836600.0
@@ -48,4 +49,3 @@ vercel反向代理解决gitalk跨域问题,BBing's Blog,https://bbing.com.cn/202
 感谢羽忆童鞋的大白兔奶糖,杜老师说,https://dusays.com/472/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-09,1654790400.0
 Postman问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postman-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-06-07,1654616948.0
 免费提供 Artalk 服务及数据托管,杜老师说,https://dusays.com/471/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-06,1654531200.0
-像数学公式一样写C++代码,BBing's Blog,https://bbing.com.cn/202206/mathlike-cpp/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-06,1654527265.0
