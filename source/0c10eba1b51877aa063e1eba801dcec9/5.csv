@@ -1,12 +1,13 @@
 title,author,link,home,rss,date,timestamp
+给Linux用户的FreeBSD快速指南,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_10_19-freebsd_for_linux_users.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-19,1571443200.0
 旧电脑也不能闲着：家用备份方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_10_18-build_your_own_nas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-18,1571356800.0
 将SQLite的数据迁移到MySQL,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_10_15-grafana_moved_to_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-15,1571097600.0
 Linux托管Windows虚拟机最佳实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_10_08-linux_windows.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-08,1570492800.0
 为什么gRPC难以推广,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_29-why_grpc_is_not_popular.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-29,1569715200.0
 关于ORM的思考,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_26-orm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-26,1569456000.0
 MySQL指定使用索引(使用索引提示),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_25-mysql_use_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-25,1569369600.0
-搭建samba服务器,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_23-samba.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 QT5使用GTK主题,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_23-qt5_gtk_theme.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
+搭建samba服务器,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_23-samba.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 ssh时自动运行tmux,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 ufw简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_14-ufw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-14,1568419200.0
 zerotier简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_11-zerotier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-11,1568160000.0
@@ -37,10 +38,10 @@ frp 源码阅读与分析(二)：TCP内网穿透的实现,Jiajun的编程随想,
 frp 源码阅读与分析(一)：流程和概念,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_11-frpc_source_code_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-11,1560211200.0
 学习frp源码之简洁的在两个connection之间转发流量,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_10-learn_from_frp_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-10,1560124800.0
 自己动手写一个反向代理,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_09-write_you_a_simple_reverse_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-09,1560038400.0
-从XMonad迁移到i3,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_08-migrate_from_xmonad_to_i3wm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
 读《债务危机》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_08-big_debt_crises.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
-socks5 协议详解,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_06-socks5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
+从XMonad迁移到i3,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_08-migrate_from_xmonad_to_i3wm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
 服务器IP被ban学到的经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_06-ip_ban.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
+socks5 协议详解,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_06-socks5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
 开启HSTS(HTTP Strict Transport Security),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_04-hsts.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-04,1559606400.0
 网络乞讨之合并支付宝和微信的收款二维码,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_01-combine_wechat_alipay.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-01,1559347200.0
 从Chrome切换到Firefox,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_01-from_chrome_to_firefox.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-01,1559347200.0
@@ -48,4 +49,3 @@ Linux下当笔记本合上盖子之后只使用扩展显示器,Jiajun的编程�
 nomad简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_31-nomad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-31,1559260800.0
 Ubuntu 18.04 dhcp更换新IP,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_30-ubuntu_1804_dhcp_new_ip.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-30,1559174400.0
 Python中的新式类(new style class)和老式类(old style class),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_29-python_old_new_style_class.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-29,1559088000.0
-Python Requests 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_18-requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-18,1558137600.0
