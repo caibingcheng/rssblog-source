@@ -1,7 +1,8 @@
 title,author,link,home,rss,date,timestamp
+OAuth 2 详解（五）：Device Authorization Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_11-oauth2_explained_device_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-11,1665446400.0
 打算做出一个决定，关于这个博客的决定,冰哥笔记,https://www.bgbiji.com/1115.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-10-10,1665394223.0
-OAuth 2 详解（三）：Resource Owner Password Credentials Grant,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_password.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
 OAuth 2 详解（四）：Client Credentials Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_client_credentials.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
+OAuth 2 详解（三）：Resource Owner Password Credentials Grant,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_password.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
 记一个容器中 dubbo 注册的小知识点,Nicksxs's Blog,https://nicksxs.me/2022/10/09/%E8%AE%B0%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8%E4%B8%AD-dubbo-%E6%B3%A8%E5%86%8C%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-09,1665314397.0
 追随梦想,Frank笔记,https://frank2019.me/articles/2019/09/04/1567578966259.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-10-09,1665282238.0
 OAuth 2 详解（二）：Implict Grant Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_09-oauth2_explained_implict_grant.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-09,1665273600.0
@@ -27,16 +28,16 @@ Re Thinking Architecture Of React Project,Teobler - 失眠多梦，bug体质,htt
 浅谈区块链,Frank笔记,https://frank2019.me/articles/2019/10/27/1572182192288.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-19,1663612637.0
 拿什么来爱你，公需课,LonelyGod,https://hin.cool/posts/gongxuke.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-19,1663576200.0
 贵阳防疫转运车事故的反思,Frank笔记,https://frank2019.me/articles/2022/09/19/1663570523585.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-19,1663570894.0
-每个人都能用点正则表达式,Randy's Blog,https://lutaonan.com/blog/everyone-can-use-regexp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-09-19,1663545600.0
 从毛泽东选集看创业过程,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/09/19/reading-mao.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-19,1663545600.0
+每个人都能用点正则表达式,Randy's Blog,https://lutaonan.com/blog/everyone-can-use-regexp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-09-19,1663545600.0
 Apollo 客户端启动过程分析,Nicksxs's Blog,https://nicksxs.me/2022/09/18/Apollo-%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-09-18,1663506912.0
 公司内部培训,manateelazycat.github.io,//manateelazycat.github.io/think/2022/09/18/internal-training.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-18,1663459200.0
 蔚来与特斯拉一日试驾体验,见字如面,https://hiwannz.com/archives/718,https://hiwannz.com,https://hiwannz.com/feed,2022-09-17,1663410433.0
 梦,LonelyGod,https://hin.cool/posts/meng.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-17,1663407120.0
 部分录音数据再次丢失,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/relost-voice-recording-data.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-09-15,1663235580.0
 此前被封的域名已成功从腾讯云转出,非理勿试,https://www.ntiy.com/1918.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-09-14,1663164470.0
-干旱下雨冰雹,近视眼逛博客,https://blog.dtz9.com/2022/09/Drought-Rain-and-Hail.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2022-09-12,1662989936.0
 干旱下雨冰雹,近视眼逛博客,https://blog.9hz.club/2022/09/Drought-Rain-and-Hail.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2022-09-12,1662989936.0
+干旱下雨冰雹,近视眼逛博客,https://blog.dtz9.com/2022/09/Drought-Rain-and-Hail.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2022-09-12,1662989936.0
 Leetcode 1862 向下取整数对和 ( Sum of Floored Pairs *Hard* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/09/11/Leetcode-1862-%E5%90%91%E4%B8%8B%E5%8F%96%E6%95%B4%E6%95%B0%E5%AF%B9%E5%92%8C-Sum-of-Floored-Pairs-Hard-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-09-11,1662906480.0
 暗 恋,LonelyGod,https://hin.cool/posts/anlian.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-10,1662773520.0
 Backblaze B2 + Cloudflare：10GB 的图片或文件存储方案,岚天小窝,https://blog.ltya.top/posts/BackblazeB2+Cloudflare.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-09-08,1662652800.0
@@ -48,4 +49,3 @@ Apollo 如何获取当前环境,Nicksxs's Blog,https://nicksxs.me/2022/09/04/Apo
 文化革新已经全面开展,Frank笔记,https://frank2019.me/articles/2022/08/31/1661879613243.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-08-30,1661887113.0
 梦里不知身是客,LonelyGod,https://hin.cool/posts/mlbzssk.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-08-30,1661824800.0
 【部署】SpringBoot 项目打包为 Docker Images 并上传到 Docker Hub,框架師,https://www.mobaijun.com/posts/921109798.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-08-29,1661743009.0
-需求定制与产品打磨思考,见字如面,https://hiwannz.com/archives/727,https://hiwannz.com,https://hiwannz.com/feed,2022-08-28,1661682960.0
