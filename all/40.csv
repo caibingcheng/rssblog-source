@@ -1,10 +1,23 @@
 title,author,link,home,rss,date,timestamp
+Lua Manual 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_08_09-lua_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-08-09,1502236800.0
+A semantic BEM style,Just lepture,https://lepture.com/en/2017/semantic-bem-style,https://lepture.com/,https://lepture.com/feed.xml,2017-07-28,1501210605.0
+Golang Map 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_27-golang_map.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-27,1501113600.0
+MySQL 零碎知识 - MySQL必知必会,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_26-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-26,1501027200.0
+万恶的BOM：ï»¿ 与 \ufeff,Yuexun's Blog,https://yuexunjiang.me/blog/the-evil-of-the-BOM-ufeff-and-i%C2%BB%C2%BF/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-07-24,1500854400.0
+Golang slice 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_18-golang_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-18,1500336000.0
+经典好书推荐(2017),Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_15-books.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-15,1500076800.0
+Golang log库 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_11-golang_log.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-11,1499731200.0
+關西行,Just lepture,https://lepture.com/zh/2017/guan-xi-xing,https://lepture.com/,https://lepture.com/feed.xml,2017-07-07,1499440078.0
+Redux 源码解析,Yuexun's Blog,https://yuexunjiang.me/blog/redux-source-code-insight/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-07-04,1499126400.0
+毕业后一年,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_02-one_year_after_graduate.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-02,1498953600.0
+Vim 全局搜索插件：ctrlsf.vim,Yuexun's Blog,https://yuexunjiang.me/blog/vim-plugin-ctrlsf/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-06-29,1498694400.0
+又一个期末,This Cute World,https://thiscute.world/posts/the-end-of-another-semester/,https://thiscute.world/,https://thiscute.world/index.xml,2017-06-26,1498498125.0
 ansible 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_06_22-ansible.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-06-22,1498089600.0
 花田苑雜記,Just lepture,https://lepture.com/zh/2017/hanataen,https://lepture.com/,https://lepture.com/feed.xml,2017-06-19,1497876419.0
 《无限的未知》,This Cute World,https://thiscute.world/posts/infinite-ryvius/,https://thiscute.world/,https://thiscute.world/index.xml,2017-06-14,1497416738.0
-React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
-React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
 React 初始化渲染,Ahonn's Blog,https://www.ahonn.me/blog/write-a-react-from-scratch-init-render,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
+React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
+React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
 利器拾遺,Just lepture,https://lepture.com/zh/2017/liqi,https://lepture.com/,https://lepture.com/feed.xml,2017-06-04,1496582426.0
 自己写个搜索引擎,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_06_02-write_yourself_a_simple_search_engine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-06-02,1496361600.0
 欧几里得算法求最大公约数(GCD)的数学原理,This Cute World,https://thiscute.world/posts/mathematics-in-euclidean-gcd/,https://thiscute.world/,https://thiscute.world/index.xml,2017-05-26,1495814333.0
@@ -36,16 +49,3 @@ Raft 论文阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2
 MapReduce 论文阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_02-map_reduce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 GFS 论文阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_02-gfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 一起来做贼：Goroutine原理和Work stealing,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
-Vim 折腾记,Ahonn's Blog,https://www.ahonn.me/blog/notes-of-vim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
-Vim 折腾记,Yuexun's Blog,https://yuexunjiang.me/blog/notes-of-vim,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
-Vim 折腾记,Yuexun's Blog,https://yuexunjiang.me/blog/notes-of-vim/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-02-19,1487462400.0
-电脑键盘上的流行钢琴伴奏,Randy's Blog,https://lutaonan.com/blog/piano-on-computer-keyboard/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-02-19,1487462400.0
-少有人迹的校园,This Cute World,https://thiscute.world/posts/quiet-and-peaceful-campus/,https://thiscute.world/,https://thiscute.world/index.xml,2017-02-17,1487368989.0
-Go语言的defer， panic和recover,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_02_15-go_defer_panic_and_recover.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-15,1487116800.0
-忽而假末,This Cute World,https://thiscute.world/posts/the-holiday-is-coming-to-an-end/,https://thiscute.world/,https://thiscute.world/index.xml,2017-02-06,1486383475.0
-再读 Python Language Reference,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_24-python_language_reference.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
-再读vim help：vim小技巧,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_24-vim_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
-JavaScript 继承的那些事,Yuexun's Blog,https://yuexunjiang.me/blog/something-about-javaScript-inherit/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-01-24,1485216000.0
-设计模式（2）- 深入浅出设计模式 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_22-head_first_design_patterns_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-22,1485043200.0
-设计模式（1）- 深入浅出设计模式 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_21-head_first_design_patterns.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-21,1484956800.0
-Cython! Python和C两个世界的交叉点,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_15-cython_rocks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-15,1484438400.0
