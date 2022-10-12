@@ -1,9 +1,10 @@
 title,author,link,home,rss,date,timestamp
-使用 Deno 和 Puppeteer 获取在线翻译内容,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/deno-deepl.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
+Elisp Get free port,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/elisp-get-free-port.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
 OAuth 2 详解（六）：Authorization Code Flow with PKCE,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_12-oauth2_explained_authorization_code_pkce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-12,1665532800.0
 文件和文件夹md5工具-md5any,Bing's Blog,https://bbing.com.cn/202210/md5fileandic-md5any/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-10-11,1665491893.0
 NENO – 用 Github 自建类 Flomo 子弹笔记软件,Another Dayu,https://anotherdayu.com/2022/3627/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-11,1665482978.0
 打算做出一个决定，关于这个博客的决定,冰哥笔记,https://www.bgbiji.com/1115.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-10-10,1665394223.0
+【随笔】Maven 中 dependencyManagement 标签作用说明,框架師,https://www.mobaijun.com/posts/2616135476.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-10-10,1665362650.0
 不小心混到个证书,杜老师说,https://dusays.com/513/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-09,1665331200.0
 记一个容器中 dubbo 注册的小知识点,Nicksxs's Blog,https://nicksxs.me/2022/10/09/%E8%AE%B0%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8%E4%B8%AD-dubbo-%E6%B3%A8%E5%86%8C%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-09,1665314397.0
 追随梦想,Frank笔记,https://frank2019.me/articles/2019/09/04/1567578966259.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-10-09,1665282238.0
@@ -23,7 +24,6 @@ Re Thinking Architecture Of React Project,Teobler - 失眠多梦，bug体质,htt
 干旱下雨冰雹,近视眼逛博客,https://blog.dtz9.com/2022/09/Drought-Rain-and-Hail.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2022-09-12,1662989936.0
 关于开往,SinGO博客,https://blog.xsnetw.cf/posts/55567/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-09-11,1662873386.0
 Backblaze B2 + Cloudflare：10GB 的图片或文件存储方案,岚天小窝,https://blog.ltya.top/posts/BackblazeB2+Cloudflare.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-09-08,1662652800.0
-【部署】SpringBoot 项目打包为 Docker Images 并上传到 Docker Hub,框架師,https://www.mobaijun.com/posts/921109798.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-08-29,1661743009.0
 Oculus Quest2食用指南,Yulin Lewis' Blog,https://lewky.cn/posts/oculus-quests/,https://lewky.cn/,https://lewky.cn/index.xml,2022-08-25,1661433601.0
 Handle Apple In-App-Purchase Server Notification with Scala/Java,Bin Wang - My Personal Blog,https://www.binwang.me/2022-08-20-Apple-In-App-Purchase-Server-to-Server-Notification-Handling-with-Scala-Java.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2022-08-20,1660968000.0
 关于二舅的一些感悟,4Ark × Blog,https://4ark.me/post/live-sentiment.html,https://4ark.me/,https://4ark.me/rss.xml,2022-07-29,1659052800.0
