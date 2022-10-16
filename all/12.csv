@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+写给开发人员的实用密码学（四）—— 安全随机数生成器 CSPRNG,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-4-secure-random-generators/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126104.0
 写给开发人员的实用密码学（三）—— MAC 与密钥派生函数 KDF,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-3-key-derivation-function/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126103.0
 写给开发人员的实用密码学（二）—— 哈希函数,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-2-hash/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126101.0
 写给开发人员的实用密码学（一）—— 概览,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-1/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126100.0
@@ -48,4 +49,3 @@ Linux/Windows/MacOSX 系统常用命令集锦,This Cute World,https://thiscute.w
 Java - 字符编码,Yulin Lewis' Blog,https://lewky.cn/posts/java-charset/,https://lewky.cn/,https://lewky.cn/index.xml,2022-02-13,1644720128.0
 Python 实用技巧与常见错误集锦,This Cute World,https://thiscute.world/posts/python-tips-and-tricks/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-12,1644686220.0
 2022.2.14情人节文案，来了,冰哥笔记,https://www.bgbiji.com/865.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-02-11,1644561654.0
-最近，关于自我管理的6点思考,冰哥笔记,https://www.bgbiji.com/864.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-02-10,1644506439.0
