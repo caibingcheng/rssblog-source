@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Web后端工程师进阶指南(2018),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
 How to implement fork syscall in Golang?,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 关于运营的思考-运营要怎么做？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_26-about_traffic.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-26,1535241600.0
@@ -48,4 +49,3 @@ Redis源码阅读与分析一：sds,Jiajun的编程随想,https://jiajunhuang.co
 Redis源码阅读与分析二：双链表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_doubly_linked_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
 Golang runtime 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_02-golang_runtime.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-02,1517529600.0
 Golang的一些坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_31-golang_traps.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-31,1517356800.0
-GC 垃圾回收,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_30-gc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-30,1517270400.0
