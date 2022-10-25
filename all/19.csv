@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+hexo迁移需要进行安装的一些依赖,cywhat's blog,https://cywhat.cn/hexo%E8%BF%81%E7%A7%BB%E9%9C%80%E8%A6%81%E8%BF%9B%E8%A1%8C%E5%AE%89%E8%A3%85%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BE%9D%E8%B5%96/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-24,1632505902.0
 “做得好”重要，还是“做得快”更重要？,见字如面,https://hiwannz.com/archives/629,https://hiwannz.com,https://hiwannz.com/feed,2021-09-24,1632466017.0
 ERROR: Re-run SonarScanner using the -X switch to enable full debug logging.,cywhat's blog,https://cywhat.cn/ERROR-Re-run-SonarScanner-using-the-X-switch-to-enable-full-debug-logging/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-23,1632396317.0
 【Git系列】常用Git命令清单,框架师,https://www.mobaijun.com/posts/119849249.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-23,1632363221.0
@@ -26,8 +27,8 @@ Hugo搜索工具hugo-algolia2,BBing's Blog,https://bbing.com.cn/202109/hugo-algo
 文老师，教师节快乐,非理勿试,https://www.ntiy.com/1652.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-09-10,1631244244.0
 日志框架与门面模式,Yulin Lewis' Blog,https://lewky.cn/posts/log-framework/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-09,1631202242.0
 html简单实现button加载中且置灰不可点击,cywhat's blog,https://cywhat.cn/html%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0button%E5%8A%A0%E8%BD%BD%E4%B8%AD%E4%B8%94%E7%BD%AE%E7%81%B0%E4%B8%8D%E5%8F%AF%E7%82%B9%E5%87%BB/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-09,1631186772.0
-ELK系列(4) - Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/elk-4/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-08,1631115899.0
 Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/es-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-08,1631115899.0
+ELK系列(4) - Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/elk-4/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-08,1631115899.0
 Django发送邮箱验证码实现以及邮箱html模板,cywhat's blog,https://cywhat.cn/Django%E5%8F%91%E9%80%81%E9%82%AE%E7%AE%B1%E9%AA%8C%E8%AF%81%E7%A0%81%E5%AE%9E%E7%8E%B0%E4%BB%A5%E5%8F%8A%E9%82%AE%E7%AE%B1html%E6%A8%A1%E6%9D%BF/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-08,1631112018.0
 转载|漫画｜面试焦虑？滚开！,框架师,https://www.mobaijun.com/posts/244631694.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-08,1631089299.0
 电压钳的实验方法总结,无妄当自持,https://www.insidentally.com/articles/000017/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-09-08,1631066433.0
@@ -48,4 +49,3 @@ Tampermonkey+脚本+Aira2GUI直链下载百度网盘资源,cywhat's blog,https:/
 《UCB CS61a SICP Python 中文》一周目笔记(三),BBing's Blog,https://bbing.com.cn/202109/sicp-python-read3/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-09-02,1630583760.0
 【技术分享】PE文件结构解析,城南以南花亦开,https://coonaa.cn/index.php/archives/184/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-09-02,1630552800.0
 Linux关闭防火墙,cywhat's blog,https://cywhat.cn/Linux%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-01,1630493017.0
-应用内使用crontab不是那么方便,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_01-cron_is_not_convenient.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-01,1630454400.0

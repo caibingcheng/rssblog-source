@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+麒麟服务器操作系统安装 Samba 文件共享服务,杜老师说,https://dusays.com/460/,https://dusays.com/,https://dusays.com/atom.xml,2022-05-04,1651680000.0
 计算机组成原理-定点数运算,DearXuan的主页,https://blog.dearxuan.com/2022/05/04/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%AE%9A%E7%82%B9%E6%95%B0%E8%BF%90%E7%AE%97/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-05-04,1651677780.0
 FinOps for Kubernetes - 如何拆分 Kubernetes 成本,This Cute World,https://thiscute.world/posts/finops-for-kubernetes/,https://thiscute.world/,https://thiscute.world/index.xml,2022-05-04,1651677300.0
 关闭了评论，让一切简单起来,BBing's Blog,https://bbing.com.cn/202205/disbalecomment-makeitsimple/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-05-04,1651646700.0
@@ -15,8 +16,8 @@ tanx的n次方不定积分递推方法,DearXuan的主页,https://blog.dearxuan.c
 平价理发店,LonelyGod,https://hin.cool/posts/lifadian.html,https://hin.cool/,https://hin.cool/atom.xml,2022-04-15,1650045600.0
 Docker部署wordpress站点,cywhat's blog,https://cywhat.cn/Docker%E9%83%A8%E7%BD%B2wordpress%E7%AB%99%E7%82%B9/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-04-15,1650003249.0
 Locally Differentially Private Protocols for Frequency Estimation,Barney's Blog,https://hugo.bnblogs.cc/paper08/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-04-13,1649861587.0
-QQ机器人开发,DearXuan的主页,https://dearxuan.top/2022/04/02/QQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-04-02,1648890264.0
 QQ机器人开发,DearXuan的主页,https://blog.dearxuan.com/2022/04/02/QQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-04-02,1648890264.0
+QQ机器人开发,DearXuan的主页,https://dearxuan.top/2022/04/02/QQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-04-02,1648890264.0
 老秦,LonelyGod,https://hin.cool/posts/laoqin.html,https://hin.cool/,https://hin.cool/atom.xml,2022-03-31,1648752000.0
 IDEA - 快捷键篇,Yulin Lewis' Blog,https://lewky.cn/posts/idea-hotkey/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-31,1648727486.0
 glibc-malloc源码阅读二,BBing's Blog,https://bbing.com.cn/202203/glibc-malloc2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-30,1648641282.0
@@ -25,8 +26,8 @@ RuntimeWarning:DateTimeField Session.expire_date received a naive datetime,cywha
 在服务器上直接独立部署 Waline，并使用 systemd 启动,无妄当自持,https://www.insidentally.com/articles/000026/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-03-29,1648519833.0
 变革与创新,This Cute World,https://thiscute.world/posts/revolution-and-innovation/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-27,1648399200.0
 glibc-malloc源码阅读,BBing's Blog,https://bbing.com.cn/202203/glibc-malloc/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-25,1648177819.0
-线性回归例题解析,DearXuan的主页,https://dearxuan.top/2022/03/23/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E4%BE%8B%E9%A2%98%E8%A7%A3%E6%9E%90/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-23,1648048200.0
 线性回归例题解析,DearXuan的主页,https://blog.dearxuan.com/2022/03/23/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E4%BE%8B%E9%A2%98%E8%A7%A3%E6%9E%90/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-23,1648048200.0
+线性回归例题解析,DearXuan的主页,https://dearxuan.top/2022/03/23/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E4%BE%8B%E9%A2%98%E8%A7%A3%E6%9E%90/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-23,1648048200.0
 这两年工作心态上的一些变化,BBing's Blog,https://bbing.com.cn/202203/work-summary-1922/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-22,1647960635.0
 通过dll的跨进程通讯,DearXuan的主页,https://blog.dearxuan.com/2022/03/22/%E9%80%9A%E8%BF%87dll%E7%9A%84%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E8%AE%AF/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-22,1647923580.0
 通过dll的跨进程通讯,DearXuan的主页,https://dearxuan.top/2022/03/22/%E9%80%9A%E8%BF%87dll%E7%9A%84%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E8%AE%AF/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-22,1647923580.0
@@ -40,12 +41,11 @@ ELK系列(5) - Elasticsearch性能调优,Yulin Lewis' Blog,https://lewky.cn/post
 Hugo的Loveit主题修改sitemap,cywhat's blog,https://cywhat.cn/Hugo%E7%9A%84Loveit%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9sitemap.xml%E9%85%8D%E7%BD%AE/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-03-18,1647574281.0
 Nginx安装和卸载,Barney's Blog,https://hugo.bnblogs.cc/nginx%E5%AE%89%E8%A3%85%E5%92%8C%E5%8D%B8%E8%BD%BD/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-17,1647531618.0
 修复Uptime Kuma一个小错误,Barney's Blog,https://hugo.bnblogs.cc/%E4%BF%AE%E5%A4%8Duptime-kuma%E4%B8%80%E4%B8%AA%E5%B0%8F%E9%94%99%E8%AF%AF/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-17,1647517507.0
-计算机组成原理-计数制与定点数编码,DearXuan的主页,https://blog.dearxuan.com/2022/03/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E6%95%B0%E5%88%B6%E4%B8%8E%E5%AE%9A%E7%82%B9%E6%95%B0%E7%BC%96%E7%A0%81/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-15,1647315600.0
 计算机组成原理-计数制与定点数编码,DearXuan的主页,https://dearxuan.top/2022/03/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E6%95%B0%E5%88%B6%E4%B8%8E%E5%AE%9A%E7%82%B9%E6%95%B0%E7%BC%96%E7%A0%81/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-15,1647315600.0
+计算机组成原理-计数制与定点数编码,DearXuan的主页,https://blog.dearxuan.com/2022/03/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E6%95%B0%E5%88%B6%E4%B8%8E%E5%AE%9A%E7%82%B9%E6%95%B0%E7%BC%96%E7%A0%81/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-15,1647315600.0
 修改了ssh默认端口如何配置git,Barney's Blog,https://hugo.bnblogs.cc/%E4%BF%AE%E6%94%B9%E4%BA%86ssh%E9%BB%98%E8%AE%A4%E7%AB%AF%E5%8F%A3%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AEgit/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-14,1647241133.0
 写给开发人员的实用密码学（八）—— 数字证书与 TLS 协议,This Cute World,https://thiscute.world/posts/about-tls-cert/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-13,1647187200.0
 计算机组成原理-计算机系统概述,DearXuan的主页,https://dearxuan.top/2022/03/13/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-13,1647182820.0
 计算机组成原理-计算机系统概述,DearXuan的主页,https://blog.dearxuan.com/2022/03/13/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-13,1647182820.0
 失眠症治疗所（未完结）,LonelyGod,https://hin.cool/posts/shimianzheng.html,https://hin.cool/,https://hin.cool/atom.xml,2022-03-12,1647054000.0
-算法基础-RSA公钥体系,DearXuan的主页,https://dearxuan.top/2022/03/11/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-RSA%E5%85%AC%E9%92%A5%E4%BD%93%E7%B3%BB/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-11,1647006180.0
 算法基础-RSA公钥体系,DearXuan的主页,https://blog.dearxuan.com/2022/03/11/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-RSA%E5%85%AC%E9%92%A5%E4%BD%93%E7%B3%BB/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-11,1647006180.0
