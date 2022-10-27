@@ -7,8 +7,8 @@ ArchLinux忽略某个包的升级,Jiajun的编程随想,https://jiajunhuang.com/
 How to style RSS feed,Just lepture,https://lepture.com/en/2019/rss-style-with-xsl,https://lepture.com/,https://lepture.com/feed.xml,2019-12-21,1576916648.0
 SQLAlchemy使用主从与数据库autocommit,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_21-autocommit.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-21,1576886400.0
 Blackbox禁用IPv6,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_19-blackbox_disable_ipv6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-19,1576713600.0
-Go 1.13的errors挺香,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_18-golang_133_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
 预防缓存击穿,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_18-cache_miss.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
+Go 1.13的errors挺香,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_18-golang_133_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
 flutter开发体验汇报,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_16-flutter_dev.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-16,1576454400.0
 录翻唱需要哪些设备,Randy's Blog,https://lutaonan.com/blog/how-to-record-cover/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-12-15,1576368000.0
 百度网盘视频倍速播放的方法,ChrAlpha,https://blog.ichr.me/post/video-double-speed-playback-methods/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-12-14,1576339049.0
@@ -20,9 +20,9 @@ flutter中使用RESTful接口,Jiajun的编程随想,https://jiajunhuang.com/arti
 Vim YouCompleteMe使用LSP(以dart为例),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_04-ycm_lsp_dart.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-04,1575417600.0
 flutter webview加载时显示进度,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_03-flutter_webview_indicator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-03,1575331200.0
 SQLAlchemy快速更新或插入对象,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_02-sqlalchemy_update_or_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-02,1575244800.0
-为网站添加 dark mode 支持,Ahonn's Blog,https://www.ahonn.me/blog/add-dark-mode-support-to-your-website,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
-为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
 为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
+为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
+为网站添加 dark mode 支持,Ahonn's Blog,https://www.ahonn.me/blog/add-dark-mode-support-to-your-website,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
 修复Linux下curl等无法使用letsencrypt证书,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_26-lets_encrypt_linux_shell.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-26,1574726400.0
 欣赏一下K&R两位大神的代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_24-code_from_k_and_r.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-24,1574553600.0
 MySQL的ON DUPLICATE KEY UPDATE语句,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_19-mysql_duplicate_key_update.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-19,1574121600.0
