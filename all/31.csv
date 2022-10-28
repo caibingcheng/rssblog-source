@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+结合Redis与MySQL实现又快又好的数据方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_11-redis_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-11,1597104000.0
+盛唐诗人和远游,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-09-%E7%9B%9B%E5%94%90%E8%AF%97%E4%BA%BA%E5%92%8C%E8%BF%9C%E6%B8%B8.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-09,1596945600.0
 西藏 | 五日自驾三千里，叹祖国壮美边疆 | 拉萨・羊湖・日喀则・珠峰,罗磊的独立博客,https://luolei.org/tibet-2020/,https://luolei.org/,https://luolei.org/feed/,2020-08-04,1596547567.0
 不必二选一！AdGuard 去除广告与 Clash 网络代理同时进行,ChrAlpha,https://blog.ichr.me/post/adguard-with-clash/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-08-02,1596411381.0
 What Is Wrong about Recommendation System,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-02-What-Is-Wrong-abount-Recommendation-System.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-02,1596340800.0
@@ -47,5 +49,3 @@ Go的slice工作机制,Jiajun的编程随想,https://jiajunhuang.com/articles/20
 Linux系统迁移记录(从HDD到SSD),Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_22-linux_clone_sys.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-22,1590105600.0
 Redis是如何工作的？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_21-how_does_redis_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-21,1590019200.0
 virsh自动关闭windows虚拟机,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_18-virsh_shutdown_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-18,1589760000.0
-第三方评论系统之我见,云游君的小站,https://www.yunyoujun.cn/share/third-party-comment-system/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-05-17,1589693440.0
-离开阿里巴巴,Randy's Blog,https://lutaonan.com/blog/leaving-alibaba/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-17,1589673600.0

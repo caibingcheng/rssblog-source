@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-09-15,1536969687.0
+JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-09-15,1536969600.0
 一个阅读源代码的技巧,Randy's Blog,https://lutaonan.com/blog/trick-for-reading-source-code/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-09-14,1536883200.0
 高效的 GraphQL + Ant.Design,Randy's Blog,https://lutaonan.com/blog/effective-graphql-and-antd/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-09-12,1536710400.0
 摩登 OAuth 2.0：簡介,Just lepture,https://lepture.com/zh/2018/oauth2-intro,https://lepture.com/,https://lepture.com/feed.xml,2018-09-11,1536635588.0
@@ -47,5 +49,3 @@ Golang和Thrift,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_1
 折腾Kubernetes,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_05-kubernetes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-05,1522886400.0
 协程(coroutine)简介 - 什么是协程？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_03-coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-03,1522713600.0
 goroutine 切换的时候发生了什么？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_29-goroutine_schedule.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-29,1522281600.0
-Prometheus 数据类型,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_19-prometheus.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-19,1521417600.0
-Gin源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_16-gin_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-16,1521158400.0
