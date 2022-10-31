@@ -1,4 +1,19 @@
 title,author,link,home,rss,date,timestamp
+【WEB 系列】SpringBootStarter- 组件化开发,框架師,https://www.mobaijun.com/posts/1232000011.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-28,1651141156.0
+别管理时间了，管好自己吧,冰哥笔记,https://www.bgbiji.com/924.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-28,1651133407.0
+“收藏≠学会”，别再让你的收藏夹吃灰了！,冰哥笔记,https://www.bgbiji.com/922.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-28,1651113302.0
+Golang migrate 做数据库变更管理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_04_28-golang_migrate_iofs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-28,1651104000.0
+从浏览器崩溃窥探Qt事件伪造原理,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/28/eaf-browser-crash.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-28,1651104000.0
+递归搜索插件引用记录,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/04/28/recursive-search-references.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-28,1651104000.0
+JavaScript学习 - 第一章 基础知识 （上）,沐云湘夕—求索,https://quest.myxxts.club/archives/142/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-04-27,1651030321.0
+五年前的一段工作经历,非理勿试,https://www.ntiy.com/1777.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-04-26,1650980901.0
+如何避免工作生活中的“小错误”？,冰哥笔记,https://www.bgbiji.com/920.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-26,1650963562.0
+周刊第10期：你如何在网上找到可靠的信息？,4Ark × Blog,https://4ark.me/post/weekly-10.html,https://4ark.me/,https://4ark.me/rss.xml,2022-04-26,1650931200.0
+X的完美“犯罪”,LonelyGod,https://hin.cool/posts/xiaoyaofawai.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-04-25,1650909600.0
+一个人如何准确找到自己的定位？,冰哥笔记,https://www.bgbiji.com/919.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-25,1650877284.0
+屯菜惊魂记,Nicksxs's Blog,https://nicksxs.me/2022/04/24/%E5%B1%AF%E8%8F%9C%E6%83%8A%E9%AD%82%E8%AE%B0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-04-24,1650807825.0
+A Travel to Montreal,Bin Wang - My Personal Blog,https://www.binwang.me/2022-04-24-A-Travel-to-Montreal.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2022-04-24,1650772800.0
+沉默的大多数,manateelazycat.github.io,//manateelazycat.github.io/think/2022/04/24/most-of-the-silencer.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-24,1650758400.0
 调整状态的5个妙招,冰哥笔记,https://www.bgbiji.com/918.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-23,1650701134.0
 错位时空,非理勿试,https://www.ntiy.com/1751.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-04-22,1650635103.0
 EAF Git Client 手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/22/eaf-git.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-22,1650585600.0
@@ -34,18 +49,3 @@ Dubbo 使用的几个记忆点,Nicksxs's Blog,https://nicksxs.me/2022/04/02/Dubb
 书评 | 个人IP运营最重要的几件事,冰哥笔记,https://www.bgbiji.com/896.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-01,1648830060.0
 更改Typecho后台文件来支持QQ头像,沐云湘夕—求索,https://quest.myxxts.club/archives/132/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-04-01,1648809120.0
 欢迎使用 Typecho,沐云湘夕—求索,https://quest.myxxts.club/archives/1/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-04-01,1648805506.0
-老秦,LonelyGod,https://hin.cool/posts/laoqin.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-03-31,1648752000.0
-每月思考 | 2022年3月份的一些思考,冰哥笔记,https://www.bgbiji.com/895.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-31,1648714798.0
-欢迎加入我们，我们继续折腾Linux,manateelazycat.github.io,//manateelazycat.github.io/work/2022/03/31/join-us.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-31,1648684800.0
-我个人写公众号的思考，以及我觉得应该坚持的东西,冰哥笔记,https://www.bgbiji.com/894.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-30,1648635928.0
-QWebEngine Cookie处理逻辑,manateelazycat.github.io,//manateelazycat.github.io/qt/linux/2022/03/30/webengine-cookie.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-30,1648598400.0
-如何变得不浮躁？,冰哥笔记,https://www.bgbiji.com/893.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-29,1648546597.0
-【转载】李承鹏：有些事要写进历史的，有些人，已不像人,Frank笔记,https://frank2019.me/articles/2022/03/29/1648525326601.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-03-29,1648525553.0
-初来杭州的一些碎碎念,冰哥笔记,https://www.bgbiji.com/892.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-28,1648460478.0
-周刊第6期：网络没有版本号,4Ark × Blog,https://4ark.me/post/weekly-06.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-28,1648425600.0
-Kong 2.8 已经发布：提高安全性，简化API管理,把酒诗代码，趁乱写年华。,https://102no.com/2022/03/28/kong-2.8/,https://102no.com/,https://102no.com/atom.xml,2022-03-27,1648396800.0
-React Coding Standard,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220327-react-coding-standard,https://teobler.com,https://teobler.com/rss.xml,2022-03-27,1648392360.0
-Leetcode 4 寻找两个正序数组的中位数 ( Median of Two Sorted Arrays *Hard* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/03/27/Leetcode-4-%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0-Median-of-Two-Sorted-Arrays-Hard-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-03-27,1648365314.0
-只要人人都管好自己的事，世界将变成美好的人间！,非理勿试,https://www.ntiy.com/1739.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-26,1648276904.0
-最近的一些状况和一些想法,近视眼逛博客,https://blog.dtz9.com/2022/03/Some-recent-conditions-and-some-thoughts.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2022-03-25,1648223782.0
-最近的一些状况和一些想法,近视眼逛博客,https://blog.9hz.club/2022/03/Some-recent-conditions-and-some-thoughts.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2022-03-25,1648223760.0
