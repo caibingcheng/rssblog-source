@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+周刊第7期：使用新的周刊模板,4Ark × Blog,https://4ark.me/post/weekly-07.html,https://4ark.me/,https://4ark.me/rss.xml,2022-04-04,1649030400.0
 持续创作的10条建议,冰哥笔记,https://www.bgbiji.com/899.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-03,1648953996.0
 Dubbo 使用的几个记忆点,Nicksxs's Blog,https://nicksxs.me/2022/04/02/Dubbo-%E4%BD%BF%E7%94%A8%E7%9A%84%E5%87%A0%E4%B8%AA%E8%AE%B0%E5%BF%86%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-04-02,1648882739.0
 书评 | 个人IP运营最重要的几件事,冰哥笔记,https://www.bgbiji.com/896.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-01,1648830060.0
@@ -19,8 +20,8 @@ Leetcode 4 寻找两个正序数组的中位数 ( Median of Two Sorted Arrays *H
 只要人人都管好自己的事，世界将变成美好的人间！,非理勿试,https://www.ntiy.com/1739.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-26,1648276904.0
 最近的一些状况和一些想法,近视眼逛博客,https://blog.dtz9.com/2022/03/Some-recent-conditions-and-some-thoughts.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2022-03-25,1648223782.0
 最近的一些状况和一些想法,近视眼逛博客,https://blog.9hz.club/2022/03/Some-recent-conditions-and-some-thoughts.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2022-03-25,1648223760.0
-周刊第5期：拖延症,4Ark × Blog,https://4ark.me/post/weekly-05.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-23,1647993600.0
 Nginx 源码阅读（三）: 连接池、内存池,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_23-nginx_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-23,1647993600.0
+周刊第5期：拖延症,4Ark × Blog,https://4ark.me/post/weekly-05.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-23,1647993600.0
 Nginx 源码阅读（二）: 请求处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_22-nginx_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-22,1647907200.0
 直接负责,见字如面,https://hiwannz.com/archives/679,https://hiwannz.com,https://hiwannz.com/feed,2022-03-21,1647860631.0
 Nginx 源码阅读（一）: 启动流程,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_21-nginx_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-21,1647820800.0
@@ -28,8 +29,8 @@ Nginx 源码阅读（一）: 启动流程,Jiajun的编程随想,https://jiajunhu
 【CloudFlare】官方免费CNAME接入教程,Luminous' Home,https://luotianyi.vc/6185.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-03-20,1647753849.0
 Kubernetes、集群联邦和资源分发,面向信仰编程,https://draveness.me//kuberentes-federation,https://draveness.me/,https://draveness.me/feed.xml,2022-03-19,1647648000.0
 被疫情严重影响的这两天,非理勿试,https://www.ntiy.com/1735.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-18,1647609201.0
-Hg hooks 实践历程,4Ark × Blog,https://4ark.me/post/hg-hooks.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-17,1647475200.0
 Go 泛型简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_17-go_generics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-17,1647475200.0
+Hg hooks 实践历程,4Ark × Blog,https://4ark.me/post/hg-hooks.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-17,1647475200.0
 读《摄影构图就这么简单》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/03/16/reading-composition.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-16,1647388800.0
 KVM 显卡穿透给 Windows,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_15-kvm_windows_gpu_passthrough.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-15,1647302400.0
 书评 | 如何提高学习效率，让知识真正转化为自身价值？,冰哥笔记,https://www.bgbiji.com/887.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-14,1647274175.0
@@ -48,4 +49,3 @@ Leetcode 349 两个数组的交集 ( Intersection of Two Arrays *Easy* ) 题解�
 周刊第3期：持续折腾,4Ark × Blog,https://4ark.me/post/weekly-03.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-06,1646524800.0
 如何在两个月内快速改变自己？,冰哥笔记,https://www.bgbiji.com/883.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-05,1646482997.0
 【工具系列】服务器搭建一个自用网盘 Zpan,框架師,https://www.mobaijun.com/posts/3473890439.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-03-05,1646449823.0
-这是一份新媒体创作者的自检清单,冰哥笔记,https://www.bgbiji.com/882.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-04,1646390837.0
