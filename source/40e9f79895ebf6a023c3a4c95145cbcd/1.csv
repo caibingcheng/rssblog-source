@@ -1,11 +1,13 @@
 title,author,link,home,rss,date,timestamp
+Gitea+drone搭建CICD环境,Barney's Blog,https://hugo.bnblogs.cc/gitea-drone-cicd/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-08,1667902286.0
+Ubuntu20.04服务器配置,Barney's Blog,https://hugo.bnblogs.cc/ubuntu20.04%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-07,1667833437.0
+java核心技术(1)第3章-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java-1/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 java核心技术(1)第3章-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java%E5%9F%BA%E7%A1%80/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 Gitea+drone搭建CICD环境,Barney's Blog,https://hugo.bnblogs.cc/gitea-drone%E6%90%AD%E5%BB%BAcicd%E7%8E%AF%E5%A2%83/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-01,1667285799.0
 Hugo创建个人网站并部署到vps,Barney's Blog,https://hugo.bnblogs.cc/hugo%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E5%B9%B6%E9%83%A8%E7%BD%B2%E5%88%B0vps/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-31,1667203935.0
 个人云服务器搭建git服务器,Barney's Blog,https://hugo.bnblogs.cc/%E4%B8%AA%E4%BA%BA%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BAgit%E6%9C%8D%E5%8A%A1%E5%99%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-31,1667198819.0
 Redis基础篇,Barney's Blog,https://hugo.bnblogs.cc/redis%E5%9F%BA%E7%A1%80%E7%AF%87/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-14,1665753353.0
 frp内网穿透记录,Barney's Blog,https://hugo.bnblogs.cc/frp%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-12,1665568522.0
-Ubuntu20.04服务器配置,Barney's Blog,https://hugo.bnblogs.cc/ubuntu20.04%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-08,1665241437.0
 git撤销操作,Barney's Blog,https://hugo.bnblogs.cc/git%E6%92%A4%E9%94%80%E6%93%8D%E4%BD%9C/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-07,1665158572.0
 curl使用,Barney's Blog,https://hugo.bnblogs.cc/curl%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-07,1665141099.0
 Js异步处理的三种方式,Barney's Blog,https://hugo.bnblogs.cc/js%E5%BC%82%E6%AD%A5%E5%A4%84%E7%90%86%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-05,1664959586.0
@@ -47,4 +49,3 @@ Ubuntu上的docker操作,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4%B8%8A%E
 深度学习GPU加速配置,Barney's Blog,https://hugo.bnblogs.cc/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0gpu%E5%8A%A0%E9%80%9F%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-03,1638512088.0
 git基础,Barney's Blog,https://hugo.bnblogs.cc/git%E5%9F%BA%E7%A1%80/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-08-02,1627879594.0
 vim入门,Barney's Blog,https://hugo.bnblogs.cc/vim%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-07-31,1627743160.0
-博客功能展示,Barney's Blog,https://hugo.bnblogs.cc/%E5%8D%9A%E5%AE%A2%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-06-30,1625055667.0
