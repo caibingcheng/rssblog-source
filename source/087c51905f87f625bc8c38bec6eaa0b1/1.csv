@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【随笔】java.lang.ClassNotFoundException 异常解决及思路,框架師,https://www.mobaijun.com/posts/2375159405.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-11-09,1667974546.0
 【随笔】npm- 更新所有依赖包,框架師,https://www.mobaijun.com/posts/3252980443.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-10-17,1665984571.0
 【随笔】Maven 中 dependencyManagement 标签作用说明,框架師,https://www.mobaijun.com/posts/2616135476.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-10-10,1665362650.0
 【部署】SpringBoot 项目打包为 Docker Images 并上传到 Docker Hub,框架師,https://www.mobaijun.com/posts/921109798.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-08-29,1661743009.0
@@ -48,4 +49,3 @@ SpringBoot异步任务记录,框架师,https://www.mobaijun.com/posts/4255110274
 SpringBoot数据库（URL）参数记录,框架师,https://www.mobaijun.com/posts/2403615121.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-07-19,1626664718.0
 SpringBoot跨域及后端解决方案,框架师,https://www.mobaijun.com/posts/2298002216.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-07-07,1625622396.0
 Linux-MySQL数据备份和定时清理,框架师,https://www.mobaijun.com/posts/619134598.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-06-29,1624933078.0
-MySQL远程连接失败(错误码:2003),框架师,https://www.mobaijun.com/posts/3639136044.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-05-24,1621840240.0
