@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【MySQL系列】MySQL数据库备份与恢复-使用MySQLDump记录,框架师,https://www.mobaijun.com/posts/2902111757.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-26,1632642935.0
 从零开始写一个 Web Component - GitHub Corners,云游君的小站,https://www.yunyoujun.cn/posts/how-to-write-a-web-component/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-09-25,1632565657.0
 花呗,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/ant-huabei.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-09-25,1632545040.0
 Django中的form表单校验,cywhat's blog,https://cywhat.cn/Django%E4%B8%AD%E7%9A%84form%E8%A1%A8%E5%8D%95%E6%A0%A1%E9%AA%8C/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-24,1632507637.0
@@ -31,8 +32,8 @@ Hugo搜索工具hugo-algolia2,BBing's Blog,https://bbing.com.cn/202109/hugo-algo
 文老师，教师节快乐,非理勿试,https://www.ntiy.com/1652.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-09-10,1631244244.0
 日志框架与门面模式,Yulin Lewis' Blog,https://lewky.cn/posts/log-framework/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-09,1631202242.0
 html简单实现button加载中且置灰不可点击,cywhat's blog,https://cywhat.cn/html%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0button%E5%8A%A0%E8%BD%BD%E4%B8%AD%E4%B8%94%E7%BD%AE%E7%81%B0%E4%B8%8D%E5%8F%AF%E7%82%B9%E5%87%BB/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-09,1631186772.0
-ELK系列(4) - Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/elk-4/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-08,1631115899.0
 Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/es-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-08,1631115899.0
+ELK系列(4) - Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/elk-4/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-08,1631115899.0
 Django发送邮箱验证码实现以及邮箱html模板,cywhat's blog,https://cywhat.cn/Django%E5%8F%91%E9%80%81%E9%82%AE%E7%AE%B1%E9%AA%8C%E8%AF%81%E7%A0%81%E5%AE%9E%E7%8E%B0%E4%BB%A5%E5%8F%8A%E9%82%AE%E7%AE%B1html%E6%A8%A1%E6%9D%BF/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-08,1631112018.0
 转载|漫画｜面试焦虑？滚开！,框架师,https://www.mobaijun.com/posts/244631694.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-08,1631089299.0
 电压钳的实验方法总结,无妄当自持,https://www.insidentally.com/articles/000017/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-09-08,1631066433.0
@@ -48,4 +49,3 @@ Mac忽略系统更新提醒，并取消小红点,cywhat's blog,https://cywhat.cn
 从希区柯克电影《深闺疑云》说起,瓦解的生活记事,https://www.hin.cool/posts/suspicion.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-09-04,1630713600.0
 从希区柯克电影《深闺疑云》说起,LonelyGod,https://hin.cool/posts/suspicion.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-09-04,1630713600.0
 Tampermonkey+脚本+Aira2GUI直链下载百度网盘资源,cywhat's blog,https://cywhat.cn/Tampermonkey-%E8%84%9A%E6%9C%AC-Aira2GUI%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-03,1630680153.0
-为什么看这么多“没用的”东西,BBing's Blog,https://bbing.com.cn/202109/whyread-useless-content/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-09-03,1630662642.0
