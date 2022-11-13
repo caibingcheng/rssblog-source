@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+为什么 Linux 需要 Swapping,面向信仰编程,https://draveness.me//whys-the-design-linux-swapping,https://draveness.me/,https://draveness.me/feed.xml,2020-11-10,1604966400.0
 DNS Resolving Bug in iOS 14,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-08-DNS-Resolving-Bug-in-iOS-14.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-08,1604811600.0
 为什么 HugePages 可以提升数据库性能,面向信仰编程,https://draveness.me//whys-the-design-linux-hugepages,https://draveness.me/,https://draveness.me/feed.xml,2020-11-04,1604448000.0
 十月总结,4Ark × Blog,https://4ark.me/post/edb9a744.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-03,1604440173.0
@@ -12,8 +13,8 @@ Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,htt
 从GORM里学习到的panic处理方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
 写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
 How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-18,1602993600.0
-记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
 记一次因 HSTS 导致跨域问题的经历,4Ark × Blog,https://4ark.me/posts/hsts-problem-solving-experience.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
+记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
 Go使用闭包简化数据库操作代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0
 TCMalloc设计文档学习,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
 免费获取 EU.org 顶级域名,岚天小窝,https://blog.ltya.top/posts/eu-org.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-10-08,1602172800.0
@@ -26,14 +27,14 @@ Understand Liveness and Fairness in TLA+,Bin Wang - My Personal Blog,https://www
 观测者：数据爬虫与处理，历史数据可视化视频与用户排名,FlyingSky's Blog,https://blog.fsky7.com/archives/167/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-10-02,1601651280.0
 写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-09-29,1601337600.0
 ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601321597.0
-写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
 写给 VS Code 用户的 Vim 入坑指南,Ahonn's Blog,https://www.ahonn.me/blog/the-vim-guide-for-vs-code-users,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
+写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
 ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601292797.0
 Flask和requests做一个简单的请求代理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
 借助 Magisk 优化/个性化 Android 中文字体显示效果,ChrAlpha,https://blog.ichr.me/post/improve-android-font-style-with-magisk/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-09-25,1601064971.0
 Linux常用命令(四)：xargs,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_21-linux_cmd_xargs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-21,1600646400.0
-Linux常用命令(二)：htop,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_htop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
 Linux常用命令(三)：watch,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
+Linux常用命令(二)：htop,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_htop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
 升级 IOS 14 的一些坑,4Ark × Blog,https://4ark.me/post/7b1778ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-09-19,1600529843.0
 Linux常用命令(一)：netcat,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600.0
 免费获取 Microsoft 365 E5 订阅,岚天小窝,https://blog.ltya.top/posts/E5-Developer-Subscription.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-09-18,1600444800.0
@@ -48,4 +49,3 @@ apt安装特定包以及忽略升级某个包,Jiajun的编程随想,https://jiaj
 hexo-theme-yun 制作笔记,云游君的小站,https://www.yunyoujun.cn/posts/make-hexo-theme-yun,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-01,1598990400.0
 An Overview of China’s Internet Censorship Strategy,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-29-Build-An-Instant_Messaging-System-without-Censorship-Choose-An-Overview-of-Chinese-Internet-Censorship-Strategy.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-29,1598673600.0
 Strato - Hexo 主题「Yun」版本宣传 PV,云游君的小站,https://www.yunyoujun.cn/posts/hexo-theme-yun-strato,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-28,1598652000.0
-Strato - Hexo 主题「Yun」版本宣传 PV,云游君的小站,https://www.yunyoujun.cn/share/hexo-theme-yun-strato/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-28,1598623200.0
