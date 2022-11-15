@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary,cywhat's blog,https://cywhat.cn/selenium-common-exceptions-WebDriverException-Message-unknown-error-cannot-find-Chrome-binary/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-20,1629480201.0
+Centos7安装chrome浏览器,cywhat's blog,https://cywhat.cn/Centos7%E5%AE%89%E8%A3%85chrome%E6%B5%8F%E8%A7%88%E5%99%A8/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-20,1629479325.0
 libvulkan.so.1()(64bit)缺少依赖,cywhat's blog,https://cywhat.cn/libvulkan-so-1-64bit-%E7%BC%BA%E5%B0%91%E4%BE%9D%E8%B5%96/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-20,1629479084.0
 SpringBoot问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/springboot-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-20,1629419006.0
 C，C++安全指南,BBing's Blog,https://bbing.com.cn/202108/secguide_c_tc/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-08-19,1629373624.0
@@ -47,5 +49,3 @@ IDEA问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/idea-issues/,https://l
 博客园SimpleMemory皮肤定制化,Yulin Lewis' Blog,https://lewky.cn/posts/cnblogs-skin/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-05,1628174657.0
 「养鱼记」图赏,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/fish-culture-picture-appreciation.html,https://zmmio.com/,https://zmmio.com/feed,2021-08-05,1628172240.0
 SpringBoot监控工具之《Actuator》,框架师,https://www.mobaijun.com/posts/283491354.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-05,1628127593.0
-npm问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/npm-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-04,1628088699.0
-产品思维,见字如面,https://hiwannz.com/archives/576,https://hiwannz.com,https://hiwannz.com/feed,2021-08-04,1628080056.0
