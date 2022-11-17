@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+SQL 基础笔记（一）,This Cute World,https://thiscute.world/posts/sql-basics-1/,https://thiscute.world/,https://thiscute.world/index.xml,2018-06-15,1529051266.0
+夜思,Just lepture,https://lepture.com/zh/2018/miss-you,https://lepture.com/,https://lepture.com/feed.xml,2018-06-15,1529031564.0
 CGO简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_06_15-cgo.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-06-15,1529020800.0
 Travis-CI 持续集成部署,云游君的小站,https://www.yunyoujun.cn/posts/use-travis-to-deploy,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-06-10,1528643082.0
 Python 视频转字符动画（二）进阶,This Cute World,https://thiscute.world/posts/video2chars-2/,https://thiscute.world/,https://thiscute.world/index.xml,2018-05-25,1527242882.0
@@ -47,5 +49,3 @@ Announcement of Authlib,Just lepture,https://lepture.com/en/2018/announcement-of
 Golang 分布式异步任务队列 Machinery 教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_30-golang_task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-30,1514592000.0
 2017 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2017-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-12-29,1514505600.0
 使用geohash完成地理距离计算,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_27-geohash.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-27,1514332800.0
-YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-me-money/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-12-26,1514283748.0
-永远相信美好的事情即将发生,云游君的小站,https://www.yunyoujun.cn/posts/after-graduate-exam,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-12-25,1514240096.0
