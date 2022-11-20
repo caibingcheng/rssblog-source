@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+HttpURLConnection设置host请求头无效,Yulin Lewis' Blog,https://lewky.cn/posts/http-host-header/,https://lewky.cn/,https://lewky.cn/index.xml,2022-11-20,1668957202.0
 java-内部类,Barney's Blog,https://hugo.bnblogs.cc/java-5/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-17,1668702048.0
 第二款摸鱼游戏文明 2,杜老师说,https://dusays.com/526/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-17,1668700800.0
 dotfiles之外的一些应用,Bing's Blog,https://bbing.com.cn/202211/dotfiles-more/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
@@ -6,7 +7,6 @@ dotfiles之外的一些应用,Bing's Blog,https://bbing.com.cn/202211/dotfiles-m
 Linux安装newman生成postman脚本报告,cywhat's blog,https://cywhat.cn/Linux%E5%AE%89%E8%A3%85newman%E7%94%9F%E6%88%90postman%E8%84%9A%E6%9C%AC%E6%8A%A5%E5%91%8A/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-10,1668064091.0
 刻意练习,This Cute World,https://thiscute.world/posts/deliberate-practice/,https://thiscute.world/,https://thiscute.world/index.xml,2022-10-05,1664947860.0
 CDN又被刷了,LonelyGod,https://hin.cool/posts/cdncc2.html,https://hin.cool/,https://hin.cool/atom.xml,2022-10-01,1664620200.0
-Oculus Quest2食用指南,Yulin Lewis' Blog,https://lewky.cn/posts/oculus-quests/,https://lewky.cn/,https://lewky.cn/index.xml,2022-08-25,1661433601.0
 以 U-NET 为例的网络构建代码实现,无妄当自持,https://www.insidentally.com/articles/000031/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-07-02,1656763893.0
 欢迎使用 Typecho,Hello World,https://coonaa.cn/index.php/archives/1/,https://www.coonaa.cn/,https://coonaa.cn/index.php/feed,2022-06-01,1654078601.0
 QQ机器人开发,DearXuan的主页,https://dearxuan.top/2022/04/02/QQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-04-02,1648890264.0

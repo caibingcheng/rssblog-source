@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+powershell 初体验二,Nicksxs's Blog,https://nicksxs.me/2022/11/20/powershell-%E5%88%9D%E4%BD%93%E9%AA%8C%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-11-20,1668950144.0
 搭建旁路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_11_20-router.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-20,1668902400.0
 Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
 地铁里的翻书风,Another Dayu,https://anotherdayu.com/2022/3850/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-16,1668567958.0
@@ -15,11 +16,11 @@ Notice,FlyingSky's Blog,https://blog.fsky7.com/archives/258/,https://blog.fsky7.
 我平常是怎么使用 Emacs 的？,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/07/how-i-use-emacs.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-07,1667779200.0
 聊一下关于怎么陪伴学习,Nicksxs's Blog,https://nicksxs.me/2022/11/06/%E8%81%8A%E4%B8%80%E4%B8%8B%E5%85%B3%E4%BA%8E%E6%80%8E%E4%B9%88%E9%99%AA%E4%BC%B4%E5%AD%A6%E4%B9%A0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-11-06,1667742954.0
 Z-library 现阶段可行的访问方法和替代方法 2022 [持续更新],Another Dayu,https://anotherdayu.com/2022/3809/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-06,1667718213.0
-B2 + Cloudflare 转换规则，实现真正无限制使用,岚天小窝,https://blog.ltya.top/posts/BackblazeB2+Cloudflare-rule.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-11-05,1667664000.0
+B2 + Cloudflare 转换规则，实现真正无限制使用 Backblaze B2,岚天小窝,https://blog.ltya.top/posts/BackblazeB2+Cloudflare-rule.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-11-05,1667664000.0
 五个域名全没了。。。。,SinGO博客,https://blog.xsnet.eu.org/posts/56455/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-11-04,1667588132.0
-blink-search,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/blink-search.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
-Golang gRPC 错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_11_04-grpc_error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-04,1667520000.0
 deno-bridge,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/deno-bridge.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
+Golang gRPC 错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_11_04-grpc_error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-04,1667520000.0
+blink-search,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/blink-search.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
 2022 | About me | 答普鲁斯特问卷,Another Dayu,https://anotherdayu.com/2022/3801/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-03,1667466765.0
 在谈大数据下的计划经济,Frank笔记,https://frank2019.me/articles/2022/11/03/1667415579106.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-11-02,1667415579.0
 又去了一次长沙,见字如面,https://hiwannz.com/archives/734,https://hiwannz.com,https://hiwannz.com/feed,2022-11-02,1667370054.0
@@ -41,11 +42,10 @@ DISQUS替代方案——disqusjs教程,SinGO博客,https://blog.xsnet.eu.org/pos
 关于我近几天的心情变化,SinGO博客,https://blog.xsnet.eu.org/posts/189/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-10-15,1665840926.0
 关于我近几天的心情变化,SinGO博客,https://blog.xsnetw.cf/posts/189/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-10-15,1665812126.0
 Macbook 电池健康状况查询,Another Dayu,https://anotherdayu.com/2022/3665/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-13,1665637652.0
+Elisp Get free port,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/elisp-get-free-port.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
 使用 Deno 和 Puppeteer 获取在线翻译内容,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/deno-deepl.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
 OAuth 2 详解（六）：Authorization Code Flow with PKCE,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_12-oauth2_explained_authorization_code_pkce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-12,1665532800.0
-Elisp Get free port,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/elisp-get-free-port.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
 NENO – 用 Github 自建类 Flomo 子弹笔记软件,Another Dayu,https://anotherdayu.com/2022/3627/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-11,1665482978.0
 iOS 翻译体验优化（欧路词典 + Shortcuts + Back Tap）,Another Dayu,https://anotherdayu.com/2022/3623/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-11,1665479937.0
 OAuth 2 详解（五）：Device Authorization Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_11-oauth2_explained_device_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-11,1665446400.0
 打算做出一个决定，关于这个博客的决定,冰哥笔记,https://www.bgbiji.com/1115.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-10-10,1665394223.0
-【随笔】Maven 中 dependencyManagement 标签作用说明,框架師,https://www.mobaijun.com/posts/2616135476.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-10-10,1665362650.0
