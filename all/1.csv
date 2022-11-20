@@ -1,6 +1,7 @@
 title,author,link,home,rss,date,timestamp
 搭建旁路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_11_20-router.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-20,1668902400.0
 Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
+java-内部类,Barney's Blog,https://hugo.bnblogs.cc/java-5/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-17,1668702048.0
 第二款摸鱼游戏文明 2,杜老师说,https://dusays.com/526/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-17,1668700800.0
 地铁里的翻书风,Another Dayu,https://anotherdayu.com/2022/3850/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-16,1668567958.0
 java-接口、lambda表达式,Barney's Blog,https://hugo.bnblogs.cc/java-4/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-15,1668525204.0
@@ -34,9 +35,9 @@ B2 + Cloudflare 转换规则，实现真正无限制使用 Backblaze B2,岚天�
 java-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java-1/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 java核心技术(1)第3章-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java%E5%9F%BA%E7%A1%80/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 五个域名全没了。。。。,SinGO博客,https://blog.xsnet.eu.org/posts/56455/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-11-04,1667588132.0
-blink-search,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/blink-search.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
 deno-bridge,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/deno-bridge.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
 Golang gRPC 错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_11_04-grpc_error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-04,1667520000.0
+blink-search,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/blink-search.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
 2022 | About me | 答普鲁斯特问卷,Another Dayu,https://anotherdayu.com/2022/3801/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-03,1667466765.0
 在谈大数据下的计划经济,Frank笔记,https://frank2019.me/articles/2022/11/03/1667415579106.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-11-02,1667415579.0
 我与十年之约,杜老师说,https://dusays.com/521/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-02,1667404800.0
@@ -48,4 +49,3 @@ Hugo创建个人网站并部署到vps,Barney's Blog,https://hugo.bnblogs.cc/hugo
 编写可维护的单元测试代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_31-goconvey.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-31,1667174400.0
 杜老师提供非自助服务状态监控平台,杜老师说,https://dusays.com/520/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-30,1667145600.0
 记录下 redis 的一些使用方法,Nicksxs's Blog,https://nicksxs.me/2022/10/30/%E8%AE%B0%E5%BD%95%E4%B8%8B-redis-%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-30,1667135861.0
-【RustDesk】自建远程桌面服务替代TeamViewer/Todesk,Luminous' Home,https://luotianyi.vc/6542.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-10-29,1667055068.0
