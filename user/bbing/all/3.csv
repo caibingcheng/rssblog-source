@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+Vercel部署本地项目,Barney's Blog,https://hugo.bnblogs.cc/vercel%E9%83%A8%E7%BD%B2%E6%9C%AC%E5%9C%B0%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-30,1659178583.0
+git-bash如何使用tmux,Barney's Blog,https://hugo.bnblogs.cc/git-bash%E4%BD%BF%E7%94%A8tmux/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-29,1659109262.0
+ADN公益加速 —— Jsdelivr npm（国内），ElmCDN的优质替代方案,杜老师说,https://dusays.com/488/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-28,1658966400.0
 常用泰勒展开,DearXuan的主页,https://blog.dearxuan.com/2022/07/26/%E5%B8%B8%E7%94%A8%E6%B3%B0%E5%8B%92%E5%B1%95%E5%BC%80/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-07-26,1658830270.0
 购车记——长安Uni-V,LonelyGod,https://hin.cool/posts/goucheji.html,https://hin.cool/,https://hin.cool/atom.xml,2022-07-25,1658790601.0
 SpringBoot2.7新建项目Maven下载依赖出错,Barney's Blog,https://hugo.bnblogs.cc/springboot%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AEmaven%E4%B8%8B%E8%BD%BD%E4%BE%9D%E8%B5%96%E5%87%BA%E9%94%99/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-25,1658738175.0
@@ -46,6 +49,3 @@ vercel反向代理解决gitalk跨域问题,BBing's Blog,https://bbing.com.cn/202
 Postman问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postman-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-06-07,1654616948.0
 免费提供 Artalk 服务及数据托管,杜老师说,https://dusays.com/471/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-06,1654531200.0
 像数学公式一样写C++代码,BBing's Blog,https://bbing.com.cn/202206/mathlike-cpp/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-06,1654527265.0
-待定系数法求二阶常系数非齐次线性方程特解,DearXuan的主页,https://blog.dearxuan.com/2022/06/04/%E5%BE%85%E5%AE%9A%E7%B3%BB%E6%95%B0%E6%B3%95%E6%B1%82%E4%BA%8C%E9%98%B6%E5%B8%B8%E7%B3%BB%E6%95%B0%E9%9D%9E%E9%BD%90%E6%AC%A1%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B%E7%89%B9%E8%A7%A3/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-06-04,1654356510.0
-安装 Fedora 36 后一些适合中国用户的简单设置,无妄当自持,https://www.insidentally.com/articles/000028/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-04,1654308633.0
-向 CODING 推送代码出现 Permission denied 的解决方法,杜老师说,https://dusays.com/470/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-03,1654272000.0
