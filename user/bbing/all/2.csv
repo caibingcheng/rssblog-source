@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+刻意练习,This Cute World,https://thiscute.world/posts/deliberate-practice/,https://thiscute.world/,https://thiscute.world/index.xml,2022-10-05,1664947860.0
+群晖 Docker 安装蚂蚁笔记的教程,杜老师说,https://dusays.com/511/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-03,1664812800.0
 CDN又被刷了,LonelyGod,https://hin.cool/posts/cdncc2.html,https://hin.cool/,https://hin.cool/atom.xml,2022-10-01,1664620200.0
 杜老师又一篇水文之橘猫猫,杜老师说,https://dusays.com/510/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-30,1664553600.0
 写 诗,LonelyGod,https://hin.cool/posts/xieshi.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-30,1664551200.0
@@ -13,6 +15,8 @@ NAS-OMV容器配置,Bing's Blog,https://bbing.com.cn/202209/nas-omv-reprocesss/,
 MySQL命令记录,Barney's Blog,https://hugo.bnblogs.cc/mysql%E5%91%BD%E4%BB%A4%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-19,1663581035.0
 Pycharm的gitignore配置,Barney's Blog,https://hugo.bnblogs.cc/pycharm%E6%8E%A8%E8%8D%90gitignore%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-19,1663576285.0
 拿什么来爱你，公需课,LonelyGod,https://hin.cool/posts/gongxuke.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-19,1663576200.0
+用Python的Polyglot库做文字转写,辛未羊的网络日志,https://panqiincs.me/2022/09/19/polyglot-lang-trans/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-09-19,1663547100.0
+Python获取字体文件所支持的字形,辛未羊的网络日志,https://panqiincs.me/2022/09/18/supported-glyphs/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-09-18,1663476862.0
 梦,LonelyGod,https://hin.cool/posts/meng.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-17,1663407120.0
 如何删除 GitHub 的提交历史记录,杜老师说,https://dusays.com/505/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-16,1663344000.0
 2019-2022·相机算法集成·总结概述,Bing's Blog,https://bbing.com.cn/202209/2019-2022-work-summary/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-16,1663343537.0
@@ -26,6 +30,7 @@ django入门,Barney's Blog,https://hugo.bnblogs.cc/django%E5%85%A5%E9%97%A8/,htt
 Learn English Again,This Cute World,https://thiscute.world/posts/learn-english-again/,https://thiscute.world/,https://thiscute.world/index.xml,2022-09-04,1662268920.0
 waline评论迁移到twikoo,Barney's Blog,https://hugo.bnblogs.cc/waline%E8%AF%84%E8%AE%BA%E8%BF%81%E7%A7%BB%E5%88%B0twikoo/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-02,1662113902.0
 Lsky Pro 企业版手动升级、优化教程,杜老师说,https://dusays.com/500/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-02,1662076800.0
+我去过的县级行政区,辛未羊的网络日志,https://panqiincs.me/2022/09/01/places-visited/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-09-01,1662041614.0
 梦里不知身是客,LonelyGod,https://hin.cool/posts/mlbzssk.html,https://hin.cool/,https://hin.cool/atom.xml,2022-08-30,1661824800.0
 改版去不图床 Token 的获取,杜老师说,https://dusays.com/499/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-30,1661817600.0
 写给去不图床用户的一封信,杜老师说,https://dusays.com/498/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-27,1661558400.0
@@ -44,8 +49,3 @@ volantis主题自定义-暗黑模式动画(2022新版),DearXuan的主页,https:/
 分布式数据库的一致性问题与共识算法,This Cute World,https://thiscute.world/posts/consistency-and-consensus-algorithm/,https://thiscute.world/,https://thiscute.world/index.xml,2022-08-06,1659816683.0
 Python小概念,Barney's Blog,https://hugo.bnblogs.cc/python%E5%B0%8F%E6%A6%82%E5%BF%B5/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-08-06,1659792975.0
 推荐一个 WordPress 付费主题站,杜老师说,https://dusays.com/491/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-06,1659744000.0
-Django删除表重建,cywhat's blog,https://cywhat.cn/Django%E5%88%A0%E9%99%A4%E8%A1%A8%E9%87%8D%E5%BB%BA/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-08-05,1659670743.0
-测试页面,Barney's Blog,https://hugo.bnblogs.cc/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-08-04,1659603456.0
-Hugo主题推荐,Barney's Blog,https://hugo.bnblogs.cc/hugo%E4%B8%BB%E9%A2%98%E6%8E%A8%E8%8D%90/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-08-04,1659595705.0
-有没有兴趣来抢个沙发,杜老师说,https://dusays.com/490/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-03,1659484800.0
-切换Python版本后导致终端打不开,Bing's Blog,https://bbing.com.cn/202208/terminal-python-version/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-08-01,1659322836.0
