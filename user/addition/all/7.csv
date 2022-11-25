@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+记录下 Java Stream 的一些高效操作,Nicksxs's Blog,https://nicksxs.me/2022/05/15/%E8%AE%B0%E5%BD%95%E4%B8%8B-Java-Lambda-%E7%9A%84%E4%B8%80%E4%BA%9B%E9%AB%98%E6%95%88%E6%93%8D%E4%BD%9C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-05-15,1652617939.0
+分享提升自我的15个途径,冰哥笔记,https://www.bgbiji.com/943.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-05-14,1652522873.0
+简单规划8个方面，不虚度你的每一个月,冰哥笔记,https://www.bgbiji.com/942.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-05-13,1652456428.0
 【WEB 系列】高版本 SpringBoot 整合 Swagger 启动异常问题,框架師,https://www.mobaijun.com/posts/3051425539.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-13,1652412738.0
 QWebEngine Cookie 完整实现,manateelazycat.github.io,//manateelazycat.github.io/qt/linux/2022/05/13/webengine-cookie.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-13,1652400000.0
 拉开与别人之间差距：碎片时间可以做的40件事,冰哥笔记,https://www.bgbiji.com/941.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-05-12,1652366806.0
@@ -9,7 +12,7 @@ LSP-Bridge架构设计与LSP协议解析,manateelazycat.github.io,//manateelazyc
 写在母亲节的流水账,冰哥笔记,https://www.bgbiji.com/935.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-05-08,1652023432.0
 闲话篇-路遇神逻辑骑车带娃爹,Nicksxs's Blog,https://nicksxs.me/2022/05/08/%E9%97%B2%E8%AF%9D%E7%AF%87-%E8%B7%AF%E9%81%87%E7%A5%9E%E9%80%BB%E8%BE%91%E9%AA%91%E8%BD%A6%E5%B8%A6%E5%A8%83%E7%88%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-05-08,1652003195.0
 解答最近的一些问题,冰哥笔记,https://www.bgbiji.com/934.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-05-07,1651915689.0
-在Docker中部署RssHub记录,LonelyGod,https://hin.cool/posts/rsshub2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-05-06,1651872600.0
+在Docker中部署RssHub记录,瓦解的生活记事,https://hin.cool/posts/rsshub2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-05-06,1651872600.0
 现实中的“电车难题”,非理勿试,https://www.ntiy.com/1787.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-05-06,1651847807.0
 关于读书，你或许不知道的十件事,冰哥笔记,https://www.bgbiji.com/932.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-05-06,1651838850.0
 建立自信心的10个习惯,冰哥笔记,https://www.bgbiji.com/931.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-05-05,1651766588.0
@@ -38,7 +41,7 @@ JavaScript学习 - 第一章 基础知识 （上）,沐云湘夕—求索,https:
 五年前的一段工作经历,非理勿试,https://www.ntiy.com/1777.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-04-26,1650980901.0
 如何避免工作生活中的“小错误”？,冰哥笔记,https://www.bgbiji.com/920.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-26,1650963562.0
 周刊第10期：你如何在网上找到可靠的信息？,4Ark × Blog,https://4ark.me/post/weekly-10.html,https://4ark.me/,https://4ark.me/rss.xml,2022-04-26,1650931200.0
-X的完美“犯罪”,LonelyGod,https://hin.cool/posts/xiaoyaofawai.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-04-25,1650909600.0
+X的完美“犯罪”,瓦解的生活记事,https://hin.cool/posts/xiaoyaofawai.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-04-25,1650909600.0
 一个人如何准确找到自己的定位？,冰哥笔记,https://www.bgbiji.com/919.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-25,1650877284.0
 屯菜惊魂记,Nicksxs's Blog,https://nicksxs.me/2022/04/24/%E5%B1%AF%E8%8F%9C%E6%83%8A%E9%AD%82%E8%AE%B0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-04-24,1650807825.0
 A Travel to Montreal,Bin Wang - My Personal Blog,https://www.binwang.me/2022-04-24-A-Travel-to-Montreal.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2022-04-24,1650772800.0
@@ -46,6 +49,3 @@ A Travel to Montreal,Bin Wang - My Personal Blog,https://www.binwang.me/2022-04-
 调整状态的5个妙招,冰哥笔记,https://www.bgbiji.com/918.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-23,1650701134.0
 错位时空,非理勿试,https://www.ntiy.com/1751.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-04-22,1650635103.0
 EAF Git Client 手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/22/eaf-git.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-22,1650585600.0
-免费企业邮靠谱吗？,LonelyGod,https://hin.cool/posts/exmail.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-04-21,1650558600.0
-分享33个让你弯道超车的好习惯,冰哥笔记,https://www.bgbiji.com/917.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-21,1650527650.0
-【后端】MapStruct 使用详解,框架師,https://www.mobaijun.com/posts/239252401.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-20,1650447800.0

@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+免费获取 Microsoft 365 E5 订阅,岚天小窝,https://blog.ltya.top/posts/E5-Developer-Subscription.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-09-18,1600444800.0
+装修脑壳痛：家庭万兆光纤网络、智能家居,罗磊的独立博客,https://luolei.org/apartment-log-book-network/,https://luolei.org/,https://luolei.org/feed/,2020-09-18,1600428621.0
+Aurora Database,Bin Wang - My Personal Blog,https://www.binwang.me/2020-09-16-Aurora-Database.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-09-16,1600228800.0
 结合Flask 与 marshmallow快速进行参数校验,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_16-flask_marshmallow.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-16,1600214400.0
 关于我打算当老师并报考教师资格证这件事,云游君的小站,https://www.yunyoujun.cn/diary/try-to-become-a-teacher/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-11,1599839963.0
 规整数据的重要性,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_10-form_check.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-10,1599696000.0
@@ -12,9 +15,9 @@ Strato - Hexo 主题「Yun」版本宣传 PV,云游君的小站,https://www.yuny
 八月总结,4Ark × Blog,https://4ark.me/post/f05d518.html,https://4ark.me/,https://4ark.me/rss.xml,2020-08-28,1598573148.0
 《八佰》观后感,4Ark,https://4ark.me/posts/ba-bai-review/,https://4ark.me/,https://4ark.me/rss.xml,2020-08-28,1598573025.0
 【装修日记：10月1日更新】：松山没有湖:，东莞三房装修 | 长期记录,罗磊的独立博客,https://luolei.org/new-apartment-log-book/,https://luolei.org/,https://luolei.org/feed/,2020-08-27,1598506672.0
-StackGuard的作用,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-stackguard.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
 Goroutine是如何处理栈的？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
 博客开放评论,Randy's Blog,https://lutaonan.com/blog/open-for-comment/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-08-26,1598400000.0
+StackGuard的作用,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-stackguard.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
 Matrix: A Self Hosted Instant Messaging Solution with End to End Encryption,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-23-Build-An-Instant_Messaging-System-without-Censorship-Choose-the-right-technology.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-23,1598155200.0
 Go DiskQueue源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-22,1598054400.0
 el-bot & mirai-ts 制作笔记,云游君的小站,https://www.yunyoujun.cn/posts/make-el-bot,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-20,1597954613.0
@@ -36,8 +39,8 @@ What Is Wrong about Recommendation System,Bin Wang - My Personal Blog,https://ww
 图形学常见的变换推导,萤火之森,http://frankorz.com/2020/07/26/transformation/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-07-26,1595785595.0
 程序员的MySQL手册(三)：数据库设计,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_26-mysql_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-26,1595721600.0
 Linux窗口管理器下的截图,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_25-linux_screenshot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-25,1595635200.0
-Go设计模式：facade模式和观察者模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_23-go_design_pattern_facade.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
 程序员的MySQL手册(二): 监控与benchmark,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_23-mysql_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
+Go设计模式：facade模式和观察者模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_23-go_design_pattern_facade.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
 Go设计模式: 责任链模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_21-go_design_pattern_chain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-21,1595289600.0
 「发言成本」与为什么我（个人博主）不想建立交流社群,ChrAlpha,https://blog.ichr.me/post/expressing-costs/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-07-19,1595172616.0
 自己搭建的免费虚拟主机（MOFH）,岚天小窝,https://blog.ltya.top/posts/freewebhosting.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
@@ -46,6 +49,3 @@ Go设计模式：装饰器模式,Jiajun的编程随想,https://jiajunhuang.com/a
 程序员的MySQL手册(一): 安装，基本配置,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_05-mysql_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-05,1593907200.0
 ElasticSearch学习笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_04-elasticsearch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-04,1593820800.0
 Go设计模式：composite模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_02-go_design_pattern_composite.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-02,1593648000.0
-拯救删除ZFS之后的分区表,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_25-save_partition_table_zfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-25,1593043200.0
-Linux使用redshift自动调整屏幕色温,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_23-redshift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-23,1592870400.0
-el-bot & mirai-ts 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-el-bot/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-06-21,1592763413.0
