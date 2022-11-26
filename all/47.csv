@@ -1,7 +1,8 @@
 title,author,link,home,rss,date,timestamp
+借助coroutine用同步的语法写异步,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_27-python_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-27,1480204800.0
 我看牙医的经历,Randy's Blog,https://lutaonan.com/blog/dentist-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-11-26,1480118400.0
-JavaScript 数据类型判断,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-data-type-judgment/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-21,1479686400.0
 Python3函数参数中的星号,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_21-py3k_asterisk.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-21,1479686400.0
+JavaScript 数据类型判断,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-data-type-judgment/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-21,1479686400.0
 「微信小程序」入坑总结,Yuexun's Blog,https://yuexunjiang.me/blog/wechat-app-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-14,1479081600.0
 使用Git Hooks,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_08-use_git_hooks.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-08,1478563200.0
 你根本用不着退学,Randy's Blog,https://lutaonan.com/blog/you-dont-need-to-drop-out/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-11-06,1478390400.0
@@ -48,4 +49,3 @@ JavaScript 中不合常理的变量提升,Yuexun's Blog,https://yuexunjiang.me/b
 JavaScript 事件流：冒泡与捕获,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-event-stream/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-16,1460764800.0
 JavaScript 作用域与闭包,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-closures/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-04,1459728000.0
 重新捡起你那吃灰的树莓派,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_04_03-raspberrypi.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-04-03,1459641600.0
-JavaScript 原型链探究,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-prototype-chain/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-29,1459209600.0
