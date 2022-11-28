@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
-Github Codespace初体验,瓦解的生活记事,https://hin.cool/posts/codespace.html,https://hin.cool/,https://hin.cool/atom.xml,2022-11-27,1669569240.0
+一张白纸，何罪之有？,Frank笔记,https://frank2019.me/articles/2022/11/28/1669576412632.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-11-27,1669578169.0
+Github Codespace初体验,瓦解的生活记事,https://hin.cool/posts/codespace.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-11-27,1669569240.0
 Proxmox Virtual Environment 使用指南,This Cute World,https://thiscute.world/posts/proxmox-virtual-environment-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2022-11-27,1669559883.0
 mybatis系列-入门篇,Nicksxs's Blog,https://nicksxs.me/2022/11/27/mybatis%E7%B3%BB%E5%88%97-%E5%85%A5%E9%97%A8%E7%AF%87/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-11-27,1669549672.0
 林林小盆友提供公益 Umami 统计服务,杜老师说,https://dusays.com/529/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-26,1669478400.0
@@ -23,6 +24,8 @@ java-内部类,Barney's Blog,https://hugo.bnblogs.cc/java-5/,https://hugo.bnblog
 第二款摸鱼游戏文明 2,杜老师说,https://dusays.com/526/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-17,1668700800.0
 地铁里的翻书风,Another Dayu,https://anotherdayu.com/2022/3850/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-16,1668567958.0
 java-接口、lambda表达式,Barney's Blog,https://hugo.bnblogs.cc/java-4/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-15,1668525204.0
+Jenkins插件无法安装解决,cywhat's blog,https://cywhat.cn/Jenkins%E6%8F%92%E4%BB%B6%E6%97%A0%E6%B3%95%E5%AE%89%E8%A3%85%E8%A7%A3%E5%86%B3/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-15,1668497251.0
+Jenkins报错 Bash:newman:command Not Found,cywhat's blog,https://cywhat.cn/Jenkins%E6%8A%A5%E9%94%99-bashnewmancommand-not-found/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-15,1668496771.0
 读《英语魔法师之语法俱乐部》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/15/reading-english-magicia.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-15,1668470400.0
 挂机放置类小游戏,杜老师说,https://dusays.com/525/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-14,1668441600.0
 dotfiles之外的一些应用,Bing's Blog,https://bbing.com.cn/202211/dotfiles-more/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
@@ -46,6 +49,3 @@ Ubuntu20.04服务器配置,Barney's Blog,https://hugo.bnblogs.cc/ubuntu20.04%E6%
 如果只在手机上留一款游戏 – Alto’s odyssey,Another Dayu,https://anotherdayu.com/2022/3830/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-07,1667782955.0
 我平常是怎么使用 Emacs 的？,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/07/how-i-use-emacs.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-07,1667779200.0
 聊一下关于怎么陪伴学习,Nicksxs's Blog,https://nicksxs.me/2022/11/06/%E8%81%8A%E4%B8%80%E4%B8%8B%E5%85%B3%E4%BA%8E%E6%80%8E%E4%B9%88%E9%99%AA%E4%BC%B4%E5%AD%A6%E4%B9%A0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-11-06,1667742954.0
-java-类和对象,Barney's Blog,https://hugo.bnblogs.cc/java-2/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-06,1667728523.0
-Z-library 现阶段可行的访问方法和替代方法 2022 [持续更新],Another Dayu,https://anotherdayu.com/2022/3809/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-06,1667718213.0
-B2 + Cloudflare 转换规则，实现真正无限制使用 Backblaze B2,岚天小窝,https://blog.ltya.top/posts/BackblazeB2+Cloudflare-rule.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-11-05,1667664000.0

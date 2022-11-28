@@ -1,2 +1,4 @@
 title,author,link,home,rss,date,timestamp
+解决hexo图片不展示问题,cywhat's blog,https://cywhat.cn/%E8%A7%A3%E5%86%B3hexo%E5%9B%BE%E7%89%87%E4%B8%8D%E5%B1%95%E7%A4%BA%E9%97%AE%E9%A2%98/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-18,1629303160.0
+newman生成好看的html报告,cywhat's blog,https://cywhat.cn/newman%E7%94%9F%E6%88%90%E5%A5%BD%E7%9C%8B%E7%9A%84html%E6%8A%A5%E5%91%8A/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-18,1629283089.0
 sed: -e expression #1， char 24: unknown option to 's',cywhat's blog,https://cywhat.cn/sed-e-expression-1-char-24-unknown-option-to-s/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-17,1629224124.0
