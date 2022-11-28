@@ -1,9 +1,10 @@
 title,author,link,home,rss,date,timestamp
+2018年就要到了，这一年都做了什么呢？,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_20-2017_is_over_and_2018_is_coming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-20,1513728000.0
 寻路算法-贪婪最佳优先算法,萤火之森,http://frankorz.com/2017/12/16/greedy-best-find-search/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-12-16,1513466667.0
 鱼与熊掌,云游君的小站,https://www.yunyoujun.cn/posts/life-and-work,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-12-11,1512997805.0
 算法导论阅读笔记 --- 排序算法,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_02-algorithms_sorting.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-02,1512172800.0
-Git HTTPS 如何保存密码,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_29-git_credential_store.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
 短链系统的实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_29-short_url.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
+Git HTTPS 如何保存密码,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_29-git_credential_store.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
 《尘缘》,This Cute World,https://thiscute.world/posts/fate-of-mortals/,https://thiscute.world/,https://thiscute.world/index.xml,2017-11-17,1510941120.0
 程序员修炼之道 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_13-the_programmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-13,1510531200.0
 人生本该如此。,云游君的小站,https://www.yunyoujun.cn/posts/that-is-what-life-should-be,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-11-11,1510432186.0
@@ -16,10 +17,10 @@ Web开发系列(十一）：数据库扩展,Jiajun的编程随想,https://jiajun
 Web开发系列(十)：事务和锁,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发系列(九)：消息队列，异步任务,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发简介系列,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_series.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Web开发系列(七)：缓存，CDN,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(八)：单点故障，负载均衡,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
-Web开发系列(六)：关系型数据库，ORM,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
+Web开发系列(七)：缓存，CDN,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Nginx 请求匹配规则,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-nginx_request_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
+Web开发系列(六)：关系型数据库，ORM,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(五)：form， json， xml,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_17-web_dev_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-17,1508198400.0
 Web开发系列(四)：Flask， Tornado和WSGI,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_16-web_dev_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-16,1508112000.0
 Discourse 新一代开源论坛,云游君的小站,https://www.yunyoujun.cn/posts/discourse-forum,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-10-15,1508089086.0
@@ -48,4 +49,3 @@ Haskell简明教程（二）：从命令式语言进行抽象,Jiajun的编程随
 Haskell简明教程（一）：从递归说起,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_11-learn_you_a_haskell_part_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-11,1505088000.0
 煙花八月,Just lepture,https://lepture.com/zh/2017/hanabi,https://lepture.com/,https://lepture.com/feed.xml,2017-09-06,1504700151.0
 【番剧】《月色真美》（老夫的少女心啊）,云游君的小站,https://www.yunyoujun.cn/posts/the-moonlight-is-beautiful,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-09-05,1504638465.0
-2017年必装的VIM插件推荐,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_03-2017_vim_plugins.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-03,1504396800.0
