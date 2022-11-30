@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Gitea+drone搭建CICD环境,Barney's Blog,https://hugo.bnblogs.cc/gitea-drone-cicd/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-08,1667902286.0
 知识付费与韭菜,见字如面,https://hiwannz.com/archives/743,https://hiwannz.com,https://hiwannz.com/feed,2022-11-08,1667893857.0
 不想折腾：绿联 DX4600 国产 NAS 开箱体验,罗磊的独立博客,https://luolei.org/ugreen-dx4600/,https://luolei.org/,https://luolei.org/feed/,2022-11-07,1667836187.0
 Ubuntu20.04服务器配置,Barney's Blog,https://hugo.bnblogs.cc/ubuntu20.04%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-07,1667833437.0
@@ -9,12 +10,12 @@ java-类和对象,Barney's Blog,https://hugo.bnblogs.cc/java-2/,https://hugo.bnb
 Z-library 现阶段可行的访问方法和替代方法 2022 [持续更新],Another Dayu,https://anotherdayu.com/2022/3809/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-06,1667718213.0
 B2 + Cloudflare 转换规则，实现真正无限制使用 Backblaze B2,岚天小窝,https://blog.ltya.top/posts/BackblazeB2+Cloudflare-rule.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-11-05,1667664000.0
 杜老师的南京「之旅」,杜老师说,https://dusays.com/522/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-05,1667664000.0
-java-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java-1/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 java核心技术(1)第3章-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java%E5%9F%BA%E7%A1%80/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
+java-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java-1/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 五个域名全没了。。。。,SinGO博客,https://blog.xsnet.eu.org/posts/56455/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-11-04,1667588132.0
 blink-search,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/blink-search.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
-Golang gRPC 错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_11_04-grpc_error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-04,1667520000.0
 deno-bridge,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/deno-bridge.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
+Golang gRPC 错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_11_04-grpc_error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-04,1667520000.0
 2022 | About me | 答普鲁斯特问卷,Another Dayu,https://anotherdayu.com/2022/3801/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-03,1667466765.0
 在谈大数据下的计划经济,Frank笔记,https://frank2019.me/articles/2022/11/03/1667415579106.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-11-02,1667415579.0
 我与十年之约,杜老师说,https://dusays.com/521/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-02,1667404800.0
@@ -48,4 +49,3 @@ Volantis 主题新版渲染图,杜老师说,https://dusays.com/516/,https://dusa
 怎么变聪明,见字如面,https://hiwannz.com/archives/731,https://hiwannz.com,https://hiwannz.com/feed,2022-10-17,1665991847.0
 【随笔】npm- 更新所有依赖包,框架師,https://www.mobaijun.com/posts/3252980443.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-10-17,1665984571.0
 吴滩老街：游子盼回 元帅未归,Macin,https://macin.org/2022/10/16/wu-tan-lao-jie/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-16,1665951146.0
-恋 爱,瓦解的生活记事,https://hin.cool/posts/lianai.html,https://hin.cool/,https://hin.cool/atom.xml,2022-10-16,1665946200.0
