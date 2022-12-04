@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+OpenWRT 使用 Android/iOS USB 网络,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_12_04-openwrt_usb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-12-04,1670112000.0
 How RSS Brain Shows Related Articles,Bin Wang - My Personal Blog,https://www.binwang.me/2022-12-03-How-RSS-Brain-Shows-Related-Articles.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2022-12-03,1670043600.0
 杜老师说旗下头像生成平台,杜老师说,https://dusays.com/531/,https://dusays.com/,https://dusays.com/atom.xml,2022-12-02,1669996800.0
 读《能断金刚》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/29/reading-diamond-cutter.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-29,1669680000.0
@@ -15,7 +16,6 @@ CPA安全方案的构建与安全性证明,辛未羊的网络日志,https://panq
 HttpURLConnection设置host请求头无效,Yulin Lewis' Blog,https://lewky.cn/posts/http-host-header/,https://lewky.cn/,https://lewky.cn/index.xml,2022-11-20,1668957202.0
 java-异常、断言和日志,Barney's Blog,https://hugo.bnblogs.cc/java-6/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-20,1668937914.0
 tagged-pointer-让指针包含更多信息,Bing's Blog,https://bbing.com.cn/202211/tagged-pointer/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
-搭建旁路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_11_20-router.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-20,1668902400.0
 202211：边城十一月，雨雪乱霏霏,Macin,https://macin.org/2022/11/16/11-yue-zhou-ji/,https://macin.org/,https://www.macin.org/atom.xml,2022-11-16,1668595240.0
 地铁里的翻书风,Another Dayu,https://anotherdayu.com/2022/3850/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-16,1668567958.0
 Jenkins插件无法安装解决,cywhat's blog,https://cywhat.cn/Jenkins%E6%8F%92%E4%BB%B6%E6%97%A0%E6%B3%95%E5%AE%89%E8%A3%85%E8%A7%A3%E5%86%B3/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-15,1668497251.0
