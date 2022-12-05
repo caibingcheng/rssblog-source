@@ -1,9 +1,11 @@
 title,author,link,home,rss,date,timestamp
+群晖 Docker 安装蚂蚁笔记的教程,杜老师说,https://dusays.com/511/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-03,1664812800.0
+从 Rust 扩展 Emacs 到多语言协同扩展 Emacs,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/03/emacs-rpc.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-03,1664755200.0
 Leetcode 747 至少是其他数字两倍的最大数 ( Largest Number At Least Twice of Others *Easy* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/10/02/Leetcode-747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0-Largest-Number-At-Least-Twice-of-Others-Easy-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-02,1664712853.0
 CDN又被刷了,瓦解的生活记事,https://hin.cool/posts/cdncc2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-10-01,1664620200.0
 Kong Gateway 3.0 正式发布,把酒诗代码，趁乱写年华。,https://102no.com/2022/10/01/kong-3.0/,https://102no.com/,https://102no.com/atom.xml,2022-09-30,1664553600.0
 杜老师又一篇水文之橘猫猫,杜老师说,https://dusays.com/510/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-30,1664553600.0
-写 诗,瓦解的生活记事,https://hin.cool/posts/xieshi.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-30,1664551200.0
+写 诗,瓦解的生活记事,https://hin.cool/posts/xieshi.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-30,1664551200.0
 每日感触2022.09.30：总结九月,冰哥笔记,https://www.bgbiji.com/1113.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-09-30,1664546400.0
 Debain&Ubuntu修改DNS,Frank笔记,https://frank2019.me/articles/2022/09/29/1664386803327.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-28,1664386803.0
 杜老师的域名清单,杜老师说,https://dusays.com/509/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-28,1664380800.0
@@ -14,7 +16,7 @@ Debain&Ubuntu修改DNS,Frank笔记,https://frank2019.me/articles/2022/09/29/1664
 板桥古街：像一条开满橙花的老街,Macin,https://macin.org/2022/09/26/ban-qiao-zhen/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-26,1664194434.0
 固态硬盘状态信息解读,杜老师说,https://dusays.com/508/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-25,1664121600.0
 Disruptor 系列三,Nicksxs's Blog,https://nicksxs.me/2022/09/25/Disruptor-%E7%B3%BB%E5%88%97%E4%B8%89/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-09-25,1664111848.0
-秘 密,瓦解的生活记事,https://hin.cool/posts/mimi.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-23,1663971600.0
+秘 密,瓦解的生活记事,https://hin.cool/posts/mimi.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-23,1663971600.0
 白嫖一年顶级域名,杜老师说,https://dusays.com/507/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-22,1663862400.0
 【CDN】GCORE CDN全球节点及线路汇总,Luminous' Home,https://luotianyi.vc/6465.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-09-22,1663831705.0
 NAS-OMV容器配置,Bing's Blog,https://bbing.com.cn/202209/nas-omv-reprocesss/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
@@ -28,8 +30,8 @@ Pycharm的gitignore配置,Barney's Blog,https://hugo.bnblogs.cc/pycharm%E6%8E%A8
 拿什么来爱你，公需课,瓦解的生活记事,https://hin.cool/posts/gongxuke.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-19,1663576200.0
 贵阳防疫转运车事故的反思,Frank笔记,https://frank2019.me/articles/2022/09/19/1663570523585.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-19,1663570894.0
 用Python的Polyglot库做文字转写,辛未羊的网络日志,https://panqiincs.me/2022/09/19/polyglot-lang-trans/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-09-19,1663547100.0
-每个人都能用点正则表达式,Randy's Blog,https://lutaonan.com/blog/everyone-can-use-regexp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-09-19,1663545600.0
 从毛泽东选集看创业过程,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/09/19/reading-mao.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-19,1663545600.0
+每个人都能用点正则表达式,Randy's Blog,https://lutaonan.com/blog/everyone-can-use-regexp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-09-19,1663545600.0
 Apollo 客户端启动过程分析,Nicksxs's Blog,https://nicksxs.me/2022/09/18/Apollo-%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-09-18,1663506912.0
 Python获取字体文件所支持的字形,辛未羊的网络日志,https://panqiincs.me/2022/09/18/supported-glyphs/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-09-18,1663476862.0
 公司内部培训,manateelazycat.github.io,//manateelazycat.github.io/think/2022/09/18/internal-training.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-18,1663459200.0
@@ -44,8 +46,6 @@ Python获取字体文件所支持的字形,辛未羊的网络日志,https://panq
 江城中秋月，相赠几时欢,Macin,https://macin.org/2022/09/13/wuhan-moon/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-13,1663086249.0
 使用 MeiliSearch 实现 Volantis 主题博客搜索「保姆教程」,杜老师说,https://dusays.com/504/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-13,1663084800.0
 django入门,Barney's Blog,https://hugo.bnblogs.cc/django%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-13,1663081287.0
-干旱下雨冰雹,近视眼逛博客,https://blog.dtz9.com/2022/09/Drought-Rain-and-Hail.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2022-09-12,1662989936.0
 干旱下雨冰雹,近视眼逛博客,https://blog.9hz.club/2022/09/Drought-Rain-and-Hail.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2022-09-12,1662989936.0
+干旱下雨冰雹,近视眼逛博客,https://blog.dtz9.com/2022/09/Drought-Rain-and-Hail.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2022-09-12,1662989936.0
 Leetcode 1862 向下取整数对和 ( Sum of Floored Pairs *Hard* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/09/11/Leetcode-1862-%E5%90%91%E4%B8%8B%E5%8F%96%E6%95%B4%E6%95%B0%E5%AF%B9%E5%92%8C-Sum-of-Floored-Pairs-Hard-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-09-11,1662906480.0
-关于开往,SinGO博客,https://blog.xsnet.eu.org/posts/55567/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-09-11,1662902186.0
-关于开往,SinGO博客,https://blog.xsnetw.cf/posts/55567/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-09-11,1662873386.0
