@@ -1,8 +1,12 @@
 title,author,link,home,rss,date,timestamp
+Sass 初探,Yuexun's Blog,https://yuexunjiang.me/blog/sass-preliminary-study/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-06-07,1465257600.0
+Vue: from view to view,Just lepture,https://lepture.com/en/2016/vuejs-from-view-to-view,https://lepture.com/,https://lepture.com/feed.xml,2016-06-06,1465248000.0
+Haskell do notation,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_06_05-haskell_do_notation.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-05,1465084800.0
+使用 Nokogiri 解析 HTML,Yuexun's Blog,https://yuexunjiang.me/blog/using-nokogiri-parsing-html/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-28,1464393600.0
 小明的胡言,Just lepture,https://lepture.com/zh/2016/my-tweets,https://lepture.com/,https://lepture.com/feed.xml,2016-05-27,1464307800.0
 foldl 和 foldr 的变换,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_22-foldl_and_foldr.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-22,1463875200.0
-记第一次面试,Yuexun's Blog,https://yuexunjiang.me/blog/the-first-interview/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 使用 JavaScript 实现简单的拖拽,Yuexun's Blog,https://yuexunjiang.me/blog/use-javascript-to-achieve-simple-drag-and-drop/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
+记第一次面试,Yuexun's Blog,https://yuexunjiang.me/blog/the-first-interview/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 关于部落冲突的二三事儿-序,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-0,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2016-05-12,1463067095.0
 Haskell TypeClass 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_05-typeclassopedia.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-05,1462406400.0
 从 optimizeCb 说起,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-the-optimizeCb,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
@@ -45,7 +49,3 @@ Ubuntu 下 LAMP环境搭建,Yuexun's Blog,https://yuexunjiang.me/blog/ubuntu-lam
 前端的基礎修養：Microdata,Just lepture,https://lepture.com/zh/2015/fe-microdata,https://lepture.com/,https://lepture.com/feed.xml,2015-07-23,1437609600.0
 写给即将学习编程的大学新生,Randy's Blog,https://lutaonan.com/blog/note-to-new-programming-students/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2015-07-01,1435708800.0
 Block I/O,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_06_22-notes_on_linux_kernel_development_chap14.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-06-22,1434931200.0
-戴珍珠耳環的美少女,Just lepture,https://lepture.com/zh/2015/meisje-met-de-parel,https://lepture.com/,https://lepture.com/feed.xml,2015-04-16,1429209000.0
-青島小住,Just lepture,https://lepture.com/zh/2015/one-week-at-qingdao,https://lepture.com/,https://lepture.com/feed.xml,2015-03-29,1427661720.0
-如何解读c的声明,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_03_17-declaration_of_c_pointers.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-03-17,1426550400.0
-東北偏北，漠河之美,Just lepture,https://lepture.com/zh/2015/a-trip-in-mohe,https://lepture.com/,https://lepture.com/feed.xml,2015-01-25,1422213900.0
