@@ -1,5 +1,5 @@
 title,author,link,home,rss,date,timestamp
-StackGuard的作用,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-stackguard.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
+Goroutine是如何处理栈的？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
 Go DiskQueue源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-22,1598054400.0
 NSQ源码分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_16-nsq_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-16,1597536000.0
 NSQ简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_15-nsq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-15,1597449600.0
