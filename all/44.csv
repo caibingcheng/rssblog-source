@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+如何阅读源代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_04-how_to_read_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-04,1533340800.0
+我心目中的配置中心应该怎么做？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_07_22-config_center.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-07-22,1532217600.0
 设计一个HTTP网关,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_07_18-design_a_gateway.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-07-18,1531872000.0
 多研究些问题，少谈些框架,Randy's Blog,https://lutaonan.com/blog/think-deeper/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-07-16,1531699200.0
 设计一个分布式块存储,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_07_08-design_a_chunked_distributed_file_system.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-07-08,1531008000.0
@@ -47,5 +49,3 @@ Golang的一些坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_0
 GC 垃圾回收,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_30-gc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-30,1517270400.0
 VS Code 配置笔记,云游君的小站,https://www.yunyoujun.cn/posts/vscode-config-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-01-29,1517240360.0
 设计一个路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_28-router_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-28,1517097600.0
-进程线程协程与并发并行,This Cute World,https://thiscute.world/posts/process-thread-coroutines-concurrency-parallelism/,https://thiscute.world/,https://thiscute.world/index.xml,2018-01-23,1516696740.0
-Go语言性能优化实战,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_22-golang_optimization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-22,1516579200.0
