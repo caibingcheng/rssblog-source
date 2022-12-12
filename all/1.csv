@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+使用 Obsidian 建站发布网页 – 基于 Digital Garden + Github + Netlify,Another Dayu,https://anotherdayu.com/2022/4222/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-12-12,1670814152.0
+macOS | 防止合盖后耗电，关闭新式待机功能（Power Nap）,Another Dayu,https://anotherdayu.com/2022/4210/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-12-11,1670778980.0
+喜德盛 2022 款极速 500 平把公路车体验文,杜老师说,https://dusays.com/534/,https://dusays.com/,https://dusays.com/atom.xml,2022-12-11,1670774400.0
 mybatis系列-第一条sql的细节,Nicksxs's Blog,https://nicksxs.me/2022/12/11/mybatis%E7%B3%BB%E5%88%97-%E7%AC%AC%E4%B8%80%E6%9D%A1sql%E7%9A%84%E7%BB%86%E8%8A%82/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-12-11,1670763029.0
 WP Super Cache 导致 RSS Feed 失效,Another Dayu,https://anotherdayu.com/2022/4193/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-12-10,1670677873.0
 To Be An Excellent Tech Lead,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20221209-to-be-an-excellent-tech-lead,https://teobler.com,https://teobler.com/rss.xml,2022-12-09,1670581516.0
@@ -22,7 +25,7 @@ Edge Function,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20221
 创业公司的基层管理,见字如面,https://hiwannz.com/archives/748,https://hiwannz.com,https://hiwannz.com/feed,2022-11-28,1669617786.0
 在动物园里漂浮,Another Dayu,https://anotherdayu.com/2022/4059/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-28,1669606996.0
 一张白纸，何罪之有？,Frank笔记,https://frank2019.me/articles/2022/11/28/1669576412632.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-11-27,1669578169.0
-Github Codespace初体验,瓦解的生活记事,https://hin.cool/posts/codespace.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-11-27,1669569240.0
+Github Codespace初体验,瓦解的生活记事,https://hin.cool/posts/codespace.html,https://hin.cool/,https://hin.cool/atom.xml,2022-11-27,1669569240.0
 Proxmox Virtual Environment 使用指南,This Cute World,https://thiscute.world/posts/proxmox-virtual-environment-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2022-11-27,1669559883.0
 mybatis系列-入门篇,Nicksxs's Blog,https://nicksxs.me/2022/11/27/mybatis%E7%B3%BB%E5%88%97-%E5%85%A5%E9%97%A8%E7%AF%87/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-11-27,1669549672.0
 林林小盆友提供公益 Umami 统计服务,杜老师说,https://dusays.com/529/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-26,1669478400.0
@@ -43,9 +46,6 @@ tagged-pointer-让指针包含更多信息,Bing's Blog,https://imcbc.cn/202211/t
 tagged-pointer-让指针包含更多信息,Bing's Blog,https://bbing.com.cn/202211/tagged-pointer/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
 搭建旁路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_11_20-router.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-20,1668902400.0
 贰拾捌,瓦解的生活记事,https://hin.cool/posts/ershiba.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-11-18,1668785402.0
-Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/elisp/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
 Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
+Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/elisp/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
 java-内部类,Barney's Blog,https://hugo.bnblogs.cc/java-5/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-17,1668702048.0
-第二款摸鱼游戏文明 2,杜老师说,https://dusays.com/526/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-17,1668700800.0
-202211：边城十一月，雨雪乱霏霏,Macin,https://macin.org/2022/11/16/11-yue-zhou-ji/,https://macin.org/,https://www.macin.org/atom.xml,2022-11-16,1668595240.0
-地铁里的翻书风,Another Dayu,https://anotherdayu.com/2022/3850/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-16,1668567958.0
