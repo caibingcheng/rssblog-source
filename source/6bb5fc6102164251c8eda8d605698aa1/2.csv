@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+glibc-abort源码阅读,BBing's Blog,https://bbing.com.cn/202111/glibc-abort/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-11-11,1636601069.0
 使用Docker模拟软件运行环境,BBing's Blog,https://bbing.com.cn/202111/docker-build2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-11-10,1636524412.0
 i++和++i在函数入参时的一些问题,BBing's Blog,https://bbing.com.cn/202110/ppi-ipp-func/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-10-29,1635472443.0
 《程序员的自身修养——链接、装载与库》读书笔记,BBing's Blog,https://bbing.com.cn/202110/coder-link-load/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-10-25,1635162950.0
