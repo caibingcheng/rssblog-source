@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Redis源码阅读：AOF持久化,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_25-redis_source_code_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-25,1621900800.0
+10本 MongoDB 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/05/25/10-mongodb-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-05-24,1621872000.0
 MySQL远程连接失败(错误码:2003),框架师,https://www.mobaijun.com/posts/3639136044.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-05-24,1621840240.0
 Redis源码阅读：key是怎么过期的,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
 Redis源码阅读：字典是怎么实现的,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
@@ -47,5 +49,3 @@ Svelte 的异步更新实现原理,Randy's Blog,https://lutaonan.com/blog/how-sv
 为什么 Linux 和 macOS 不需要碎片整理,面向信仰编程,https://draveness.me//whys-the-design-linux-macos-fragmentation,https://draveness.me/,https://draveness.me/feed.xml,2021-04-10,1618012800.0
 CPU 和 GPU - 异构计算的演进与发展,面向信仰编程,https://draveness.me//heterogeneous-computing,https://draveness.me/,https://draveness.me/feed.xml,2021-04-09,1617926400.0
 10本 Python 深入学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/09/10-python-learn-depth-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-08,1617897600.0
-10本 Python 入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/07/10-python-learn-guide-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-06,1617724800.0
-10本 Python 零基础入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/06/10-python-learn-from-scratch-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-05,1617638400.0
