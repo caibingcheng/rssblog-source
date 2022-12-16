@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+在特殊地区科学使用 Disqus 评论系统,ChrAlpha,https://blog.ichr.me/post/use-disqus-conveniently/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-05-05,1588699400.0
 Golang sync.Pool源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_05-go_sync_pool.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-05,1588636800.0
 Typlog 三週年,Just lepture,https://lepture.com/zh/2020/3-years-of-typlog,https://lepture.com/,https://lepture.com/feed.xml,2020-05-02,1588438232.0
 MySQL操作笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_01-mysql_notes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-01,1588291200.0
@@ -10,8 +11,8 @@ Golang flag源码阅读及自己实现,Jiajun的编程随想,https://jiajunhuang
 Go使用gdb调试,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_23-go_gdb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-23,1587600000.0
 Golang ASM简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_22-go_asm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
 Golang context源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_22-golang_context.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
-Golang中的并发控制,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_21-golang_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
 善用闭包(closure)让Go代码更优雅,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_21-use_closure.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
+Golang中的并发控制,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_21-golang_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
 Golang的可选参数实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
 YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-me-money,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-14,1586888548.0
 2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-04-13,1586812489.0
@@ -48,4 +49,3 @@ Lazyload 不让 Valine 评论组件拖慢页面加载,ChrAlpha,https://blog.ichr
 在 GitHub 上使用 GPG 认证你的 Git Commit,ChrAlpha,https://blog.ichr.me/post/use-gpg-verification-in-github/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-08,1583702310.0
 国内自建图床指南,Randy's Blog,https://lutaonan.com/blog/aliyun-cdn-tutorial/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-07,1583539200.0
 👴就是二次元，故尝试证明。,云游君的小站,https://www.yunyoujun.cn/posts/i-am-er-ci-yuan-and-try-to-prove,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-06,1583536357.0
-在 Hexo 博客中更优雅地使用 LaTeX 数学公式,ChrAlpha,https://blog.ichr.me/post/fix-mathjax-layout-bugs-in-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-06,1583503087.0
