@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+你根本用不着退学,Randy's Blog,https://lutaonan.com/blog/you-dont-need-to-drop-out/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-11-06,1478390400.0
 Token Bucket 算法,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_05-token_bucket.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-05,1478304000.0
 nginx配置笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_03-nginx_conf.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-03,1478131200.0
 Python 视频转字符动画（一）60 行代码,This Cute World,https://thiscute.world/posts/video2chars-1-basics/,https://thiscute.world/,https://thiscute.world/index.xml,2016-10-18,1476751022.0
@@ -31,8 +32,8 @@ Haskell do notation,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_
 使用 Nokogiri 解析 HTML,Yuexun's Blog,https://yuexunjiang.me/blog/using-nokogiri-parsing-html/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-28,1464393600.0
 小明的胡言,Just lepture,https://lepture.com/zh/2016/my-tweets,https://lepture.com/,https://lepture.com/feed.xml,2016-05-27,1464307800.0
 foldl 和 foldr 的变换,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_22-foldl_and_foldr.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-22,1463875200.0
-记第一次面试,Yuexun's Blog,https://yuexunjiang.me/blog/the-first-interview/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 使用 JavaScript 实现简单的拖拽,Yuexun's Blog,https://yuexunjiang.me/blog/use-javascript-to-achieve-simple-drag-and-drop/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
+记第一次面试,Yuexun's Blog,https://yuexunjiang.me/blog/the-first-interview/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 关于部落冲突的二三事儿-序,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-0,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2016-05-12,1463067095.0
 Haskell TypeClass 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_05-typeclassopedia.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-05,1462406400.0
 从 optimizeCb 说起,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-the-optimizeCb,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
@@ -48,4 +49,3 @@ apply， call 与 bind 的区别,Yuexun's Blog,https://yuexunjiang.me/blog/javas
 我是如何监听 APP 价格变动的,Randy's Blog,https://lutaonan.com/blog/how-do-i-track-app-price/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-16,1458086400.0
 我学五笔的经历,Randy's Blog,https://lutaonan.com/blog/my-wubi-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-14,1457913600.0
 Tornado 源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_14-tornado.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-14,1457913600.0
-JavaScript权威指南笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_06-notes_on_js_the_definitive_guide.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-06,1457222400.0
