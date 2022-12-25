@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+程序员的MySQL手册(一): 安装，基本配置,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_05-mysql_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-05,1593907200.0
 ElasticSearch学习笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_04-elasticsearch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-04,1593820800.0
 Go设计模式：composite模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_02-go_design_pattern_composite.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-02,1593648000.0
 拯救删除ZFS之后的分区表,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_25-save_partition_table_zfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-25,1593043200.0
@@ -17,8 +18,8 @@ Go设计模式：Iterator,Jiajun的编程随想,https://jiajunhuang.com/articles
 Shell猜数字游戏,qinxs小站,https://7bxing.com/posts/3713cf69/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-06-06,1591449141.0
 WebP 图片优化在 Hexo 上的最佳尝试,ChrAlpha,https://blog.ichr.me/post/webp-on-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-05-30,1590858611.0
 Base64 编码并不唯一,This Cute World,https://thiscute.world/posts/base64-encoding-is-not-unique/,https://thiscute.world/,https://thiscute.world/index.xml,2020-05-30,1590855180.0
-使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-05-30,1590796800.0
 glusterfs 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_30-glusterfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-30,1590796800.0
+使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-05-30,1590796800.0
 使用 TiddlyWiki 进行个人知识管理,Ahonn's Blog,https://www.ahonn.me/blog/using-tiddlywiki-for-personal-knowledge-management,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-05-29,1590768000.0
 使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-05-29,1590768000.0
 用peewee代替SQLAlchemy,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_29-use_peewee.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-29,1590710400.0
@@ -34,8 +35,8 @@ Git学习,qinxs小站,https://7bxing.com/posts/e28ceec1/,https://7bxing.com/,htt
 hello world,qinxs小站,https://7bxing.com/posts/d4a1185/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605202.0
 Golang sort源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_16-go_sort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-16,1589587200.0
 分治的思维方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_15-divide_and_conquer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-15,1589500800.0
-Debian 使用NetworkManager之后networking.service崩溃,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
 说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
+Debian 使用NetworkManager之后networking.service崩溃,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
 httprouter源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_09-httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-09,1588982400.0
 《程序员的自我修养-装载、链接与库》笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_08-linker_and_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-08,1588896000.0
 在特殊地区科学使用 Disqus 评论系统,ChrAlpha,https://blog.ichr.me/post/use-disqus-conveniently/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-05-05,1588699400.0
@@ -48,4 +49,3 @@ Golang log 源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2
 使用Go语言实现一个异步任务框架,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_24-gotasks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-24,1587686400.0
 Golang flag源码阅读及自己实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_23-go_flag.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-23,1587600000.0
 Go使用gdb调试,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_23-go_gdb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-23,1587600000.0
-Golang context源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_22-golang_context.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
