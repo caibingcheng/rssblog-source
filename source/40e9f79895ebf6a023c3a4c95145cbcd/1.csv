@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Mysql学习笔记,Barney's Blog,https://hugo.bnblogs.cc/mysql%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-12-26,1672070838.0
 记录一次新冠历程,Barney's Blog,https://hugo.bnblogs.cc/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E6%96%B0%E5%86%A0%E5%8E%86%E7%A8%8B/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-12-21,1671604581.0
 Ubuntu20.04使用记录,Barney's Blog,https://hugo.bnblogs.cc/ubuntu20.04%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-12-05,1670251293.0
 java-异常、断言和日志,Barney's Blog,https://hugo.bnblogs.cc/java-6/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-20,1668937914.0
@@ -9,8 +10,8 @@ java多线程和锁,Barney's Blog,https://hugo.bnblogs.cc/java%E5%A4%9A%E7%BA%BF
 Gitea+drone搭建CICD环境,Barney's Blog,https://hugo.bnblogs.cc/gitea-drone-cicd/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-08,1667902286.0
 Ubuntu20.04服务器配置,Barney's Blog,https://hugo.bnblogs.cc/ubuntu20.04%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-07,1667833437.0
 java-类和对象,Barney's Blog,https://hugo.bnblogs.cc/java-2/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-06,1667728523.0
-java-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java-1/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 java核心技术(1)第3章-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java%E5%9F%BA%E7%A1%80/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
+java-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java-1/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 Gitea+drone搭建CICD环境,Barney's Blog,https://hugo.bnblogs.cc/gitea-drone%E6%90%AD%E5%BB%BAcicd%E7%8E%AF%E5%A2%83/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-01,1667285799.0
 Hugo创建个人网站并部署到vps,Barney's Blog,https://hugo.bnblogs.cc/hugo%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E5%B9%B6%E9%83%A8%E7%BD%B2%E5%88%B0vps/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-31,1667203935.0
 个人云服务器搭建git服务器,Barney's Blog,https://hugo.bnblogs.cc/%E4%B8%AA%E4%BA%BA%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BAgit%E6%9C%8D%E5%8A%A1%E5%99%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-31,1667198819.0
@@ -48,4 +49,3 @@ Linux下安装zsh,Barney's Blog,https://hugo.bnblogs.cc/linux%E4%B8%8B%E5%AE%89%
 Online Pricing and Trading of Private Data in Correlated Queries,Barney's Blog,https://hugo.bnblogs.cc/paper07/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-01-25,1643118527.0
 Nvim补全配置记录,Barney's Blog,https://hugo.bnblogs.cc/nvim%E8%A1%A5%E5%85%A8%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-01-16,1642312205.0
 Cmake编译多个项目,Barney's Blog,https://hugo.bnblogs.cc/cmake%E7%BC%96%E8%AF%91%E5%A4%9A%E4%B8%AA%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-01-14,1642136393.0
-Github下载加速,Barney's Blog,https://hugo.bnblogs.cc/github%E4%B8%8B%E8%BD%BD%E5%8A%A0%E9%80%9F/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-01-14,1642135937.0

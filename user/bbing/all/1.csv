@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Mysql学习笔记,Barney's Blog,https://hugo.bnblogs.cc/mysql%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-12-26,1672070838.0
+SSL 证书申请小窍门,杜老师说,https://dusays.com/539/,https://dusays.com/,https://dusays.com/atom.xml,2022-12-26,1672070400.0
 volantis使用php实现Gitee友链,DearXuan的主页,https://blog.dearxuan.com/2022/12/26/volantis%E4%BD%BF%E7%94%A8php%E5%AE%9E%E7%8E%B0Gitee%E5%8F%8B%E9%93%BE/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-12-26,1672056180.0
 2022年终总结,Bing's Blog,https://imcbc.cn/202212/2022-summary/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-12-25,1671932612.0
 浏览器启动加速工具,杜老师说,https://dusays.com/538/,https://dusays.com/,https://dusays.com/atom.xml,2022-12-23,1671811200.0
@@ -28,8 +30,8 @@ CPA安全方案的构建与安全性证明,辛未羊的网络日志,https://panq
 洧誰汜嘚當姩哋 QQ 涳簡,杜老师说,https://dusays.com/527/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-20,1668960000.0
 HttpURLConnection设置host请求头无效,Yulin Lewis' Blog,https://lewky.cn/posts/http-host-header/,https://lewky.cn/,https://lewky.cn/index.xml,2022-11-20,1668957202.0
 java-异常、断言和日志,Barney's Blog,https://hugo.bnblogs.cc/java-6/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-20,1668937914.0
-tagged-pointer-让指针包含更多信息,Bing's Blog,https://bbing.com.cn/202211/tagged-pointer/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
 tagged-pointer-让指针包含更多信息,Bing's Blog,https://imcbc.cn/202211/tagged-pointer/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
+tagged-pointer-让指针包含更多信息,Bing's Blog,https://bbing.com.cn/202211/tagged-pointer/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
 贰拾捌,瓦解的生活记事,https://hin.cool/posts/ershiba.html,https://hin.cool/,https://hin.cool/atom.xml,2022-11-18,1668785402.0
 java-内部类,Barney's Blog,https://hugo.bnblogs.cc/java-5/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-17,1668702048.0
 第二款摸鱼游戏文明 2,杜老师说,https://dusays.com/526/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-17,1668700800.0
@@ -47,5 +49,3 @@ java多线程和锁,Barney's Blog,https://hugo.bnblogs.cc/java%E5%A4%9A%E7%BA%BF
 Linux安装newman生成postman脚本报告,cywhat's blog,https://cywhat.cn/Linux%E5%AE%89%E8%A3%85newman%E7%94%9F%E6%88%90postman%E8%84%9A%E6%9C%AC%E6%8A%A5%E5%91%8A/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-10,1668064091.0
 拖拽式邮件模板编辑器,杜老师说,https://dusays.com/523/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-08,1667923200.0
 Gitea+drone搭建CICD环境,Barney's Blog,https://hugo.bnblogs.cc/gitea-drone-cicd/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-08,1667902286.0
-Ubuntu20.04服务器配置,Barney's Blog,https://hugo.bnblogs.cc/ubuntu20.04%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-07,1667833437.0
-java-类和对象,Barney's Blog,https://hugo.bnblogs.cc/java-2/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-06,1667728523.0
