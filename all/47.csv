@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Haskell简明教程（二）：从命令式语言进行抽象,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_17-learn_you_a_haskell_part_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-17,1505606400.0
 Haskell简明教程（一）：从递归说起,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_11-learn_you_a_haskell_part_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-11,1505088000.0
 煙花八月,Just lepture,https://lepture.com/zh/2017/hanabi,https://lepture.com/,https://lepture.com/feed.xml,2017-09-06,1504700151.0
 【番剧】《月色真美》（老夫的少女心啊）,云游君的小站,https://www.yunyoujun.cn/posts/the-moonlight-is-beautiful,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-09-05,1504638465.0
@@ -34,8 +35,8 @@ Vim 全局搜索插件：ctrlsf.vim,Yuexun's Blog,https://yuexunjiang.me/blog/vi
 ansible 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_06_22-ansible.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-06-22,1498089600.0
 花田苑雜記,Just lepture,https://lepture.com/zh/2017/hanataen,https://lepture.com/,https://lepture.com/feed.xml,2017-06-19,1497876419.0
 《无限的未知》,This Cute World,https://thiscute.world/posts/infinite-ryvius/,https://thiscute.world/,https://thiscute.world/index.xml,2017-06-14,1497416738.0
-React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
 React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
+React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
 React 初始化渲染,Ahonn's Blog,https://www.ahonn.me/blog/write-a-react-from-scratch-init-render,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
 利器拾遺,Just lepture,https://lepture.com/zh/2017/liqi,https://lepture.com/,https://lepture.com/feed.xml,2017-06-04,1496582426.0
 自己写个搜索引擎,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_06_02-write_yourself_a_simple_search_engine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-06-02,1496361600.0
@@ -43,9 +44,8 @@ React 初始化渲染,Ahonn's Blog,https://www.ahonn.me/blog/write-a-react-from-
 HTTP 路由的两种常见设计形式,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_05_24-http_router_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-24,1495584000.0
 Koa2 源码分析,Yuexun's Blog,https://yuexunjiang.me/blog/koa2-analysis/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-05-17,1494979200.0
 五一二雜感,Just lepture,https://lepture.com/zh/2017/yang-yong-xin,https://lepture.com/,https://lepture.com/feed.xml,2017-05-16,1494944556.0
-Golang的short variable declaration,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_05_12-golang_short_variable_declaration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-12,1494547200.0
 我的编程经历,Randy's Blog,https://lutaonan.com/blog/my-coding-road/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-05-12,1494547200.0
+Golang的short variable declaration,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_05_12-golang_short_variable_declaration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-12,1494547200.0
 牛島觀藤記,Just lepture,https://lepture.com/zh/2017/ushijima-fuji,https://lepture.com/,https://lepture.com/feed.xml,2017-05-08,1494251018.0
 你好，Typlog,Just lepture,https://lepture.com/zh/2017/hello-typlog,https://lepture.com/,https://lepture.com/feed.xml,2017-05-02,1493739135.0
 Greenlet和Stackless Python,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_04_26-greenlet.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-26,1493164800.0
-写一个简单的ORM,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_04_25-write_your_own_orm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-25,1493078400.0

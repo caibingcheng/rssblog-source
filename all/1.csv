@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+搭建IOS和Android性能监控工具,cywhat's blog,https://cywhat.cn/%E6%90%AD%E5%BB%BAIOS%E5%92%8CAndroid%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7%E5%B7%A5%E5%85%B7/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-12-28,1672220011.0
 MySQL Index Condition Pushdown Optimization,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_12_28-index_condition_pushdown_optimization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-12-28,1672185600.0
 Mysql学习笔记,Barney's Blog,https://hugo.bnblogs.cc/mysql%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-12-26,1672070838.0
 SSL 证书申请小窍门,杜老师说,https://dusays.com/539/,https://dusays.com/,https://dusays.com/atom.xml,2022-12-26,1672070400.0
@@ -15,8 +16,8 @@ C标准库中的短模式匹配算法,辛未羊的网络日志,https://panqiincs
 mybatis系列-第一条sql的更多细节,Nicksxs's Blog,https://nicksxs.me/2022/12/18/mybatis%E7%B3%BB%E5%88%97-%E7%AC%AC%E4%B8%80%E6%9D%A1sql%E7%9A%84%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-12-18,1671370958.0
 聊聊卧病在床的杜老师,杜老师说,https://dusays.com/536/,https://dusays.com/,https://dusays.com/atom.xml,2022-12-17,1671292800.0
 Readwise Reader,Another Dayu,https://anotherdayu.com/2022/4282/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-12-17,1671259179.0
-读《Pro Git》,manateelazycat.github.io,//manateelazycat.github.io/reading/git/2022/12/16/reading-pro-git.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-12-16,1671148800.0
 Go mod 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_12_16-go_mod.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-12-16,1671148800.0
+读《Pro Git》,manateelazycat.github.io,//manateelazycat.github.io/reading/git/2022/12/16/reading-pro-git.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-12-16,1671148800.0
 【转载】一把梭：REST API 全用 POST,框架師,https://www.mobaijun.com/posts/2822068467.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-12-15,1671086238.0
 读《Debug Hacks》,manateelazycat.github.io,//manateelazycat.github.io/reading/debug/2022/12/15/reading_debug_hacks.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-12-15,1671062400.0
 VMware Workstation 17 Pro 许可证分享,杜老师说,https://dusays.com/535/,https://dusays.com/,https://dusays.com/atom.xml,2022-12-14,1671033600.0
@@ -36,7 +37,7 @@ GitHub基于ChatGPT开源项目,把酒诗代码，趁乱写年华。,https://102
 Jenkins添加html报告并发送到邮箱,cywhat's blog,https://cywhat.cn/Jenkins%E6%B7%BB%E5%8A%A0html%E6%8A%A5%E5%91%8A%E5%B9%B6%E5%8F%91%E9%80%81%E5%88%B0%E9%82%AE%E7%AE%B1/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-12-06,1670314710.0
 感谢北门清燕童靴帮忙开发的云存档插件,杜老师说,https://dusays.com/532/,https://dusays.com/,https://dusays.com/atom.xml,2022-12-05,1670256000.0
 Ubuntu20.04使用记录,Barney's Blog,https://hugo.bnblogs.cc/ubuntu20.04%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-12-05,1670251293.0
-最近头疼二三事,瓦解的生活记事,https://hin.cool/posts/fanxiangshiluo.html,https://hin.cool/,https://hin.cool/atom.xml,2022-12-05,1670229002.0
+最近头疼二三事,瓦解的生活记事,https://hin.cool/posts/fanxiangshiluo.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-12-05,1670229002.0
 读《图解密码技术》,manateelazycat.github.io,//manateelazycat.github.io/reading/cryptography/2022/12/05/reading-graphical-cryptography.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-12-05,1670198400.0
 第三十一年冬至,把酒诗代码，趁乱写年华。,https://102no.com/2022/12/05/31th-dongzhi/,https://102no.com/,https://102no.com/atom.xml,2022-12-04,1670169600.0
 mybatis系列-mybatis是如何初始化mapper的,Nicksxs's Blog,https://nicksxs.me/2022/12/04/mybatis%E6%98%AF%E5%A6%82%E4%BD%95%E5%88%9D%E5%A7%8B%E5%8C%96mapper%E7%9A%84/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-12-04,1670157414.0
@@ -48,4 +49,3 @@ How RSS Brain Shows Related Articles,Bin Wang - My Personal Blog,https://www.bin
 我想一直游到海水变蓝,Another Dayu,https://anotherdayu.com/2022/4071/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-29,1669737147.0
 读《能断金刚》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/29/reading-diamond-cutter.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-29,1669680000.0
 Edge Function,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20221128-edge-function,https://teobler.com,https://teobler.com/rss.xml,2022-11-28,1669631116.0
-创业公司的基层管理,见字如面,https://hiwannz.com/archives/748,https://hiwannz.com,https://hiwannz.com/feed,2022-11-28,1669617786.0
