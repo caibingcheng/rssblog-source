@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+C注意事项,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_11_04-traps_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-11-04,1415059200.0
 C语言中点操作符(.)和箭头操作符(->)的不同之处,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_09_09-dot_and_arrow_in_c_pointers.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-09,1410220800.0
 征服C指针笔记 - 数组和指针的微妙关系,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_09_07-pointer_and_array_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-07,1410048000.0
 关于文件权限的摘记,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_08_22-unix_file_permissions.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-08-22,1408665600.0
