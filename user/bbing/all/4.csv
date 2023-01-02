@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+切换Python版本后导致终端打不开,Bing's Blog,https://imcbc.cn/202208/terminal-python-version/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-08-01,1659322836.0
+切换Python版本后导致终端打不开,Bing's Blog,https://bbing.com.cn/202208/terminal-python-version/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-08-01,1659322836.0
 Kubernetes 中的证书管理工具 - cert-manager,This Cute World,https://thiscute.world/posts/kubernetes-cert-management/,https://thiscute.world/,https://thiscute.world/index.xml,2022-07-31,1659251506.0
 Caddy 的简介,杜老师说,https://dusays.com/489/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-31,1659225600.0
 Vercel部署本地项目,Barney's Blog,https://hugo.bnblogs.cc/vercel%E9%83%A8%E7%BD%B2%E6%9C%AC%E5%9C%B0%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-30,1659178583.0
@@ -47,5 +49,3 @@ C++在给定内存上构造,Bing's Blog,https://bbing.com.cn/202206/cpp_placemen
 计算机组成原理-存储器,DearXuan的主页,https://blog.dearxuan.com/2022/06/16/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%AD%98%E5%82%A8%E5%99%A8/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-06-16,1655390760.0
 vercel反向代理解决gitalk跨域问题,BBing's Blog,https://bbing.com.cn/202206/vercel-gitalk-cors/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-16,1655384273.0
 坚持更新博客的动力是什么,杜老师说,https://dusays.com/474/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-15,1655308800.0
-刃 7000P 内存频率限制 2400 的解决方法,杜老师说,https://dusays.com/473/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-12,1655049600.0
-曲线与曲面积分公式整理,DearXuan的主页,https://blog.dearxuan.com/2022/06/11/%E6%9B%B2%E7%BA%BF%E4%B8%8E%E6%9B%B2%E9%9D%A2%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F%E6%95%B4%E7%90%86/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-06-11,1654958942.0
