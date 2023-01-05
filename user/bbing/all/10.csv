@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+使用 systemctl 命令管理 systemd 单元,无妄当自持,https://www.insidentally.com/articles/000019/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-11-06,1636242699.0
 强大的博客图片管理工具——PicGo,LonelyGod,https://hin.cool/posts/picgogo.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-05,1636131720.0
 人工智能基础-局部搜索算法,DearXuan的主页,https://blog.dearxuan.com/2021/11/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E5%B1%80%E9%83%A8%E6%90%9C%E7%B4%A2%E7%AE%97%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-05,1636115100.0
 人工智能基础-局部搜索算法,DearXuan的主页,https://dearxuan.top/2021/11/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E5%B1%80%E9%83%A8%E6%90%9C%E7%B4%A2%E7%AE%97%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-05,1636115100.0
@@ -11,8 +12,8 @@ C# 编程技巧,DearXuan的主页,https://blog.dearxuan.com/2021/11/01/C-%E7%BC%
 i++和++i在函数入参时的一些问题,BBing's Blog,https://bbing.com.cn/202110/ppi-ipp-func/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-10-29,1635472443.0
 01背包问题-回溯与动态规划解法,DearXuan的主页,https://blog.dearxuan.com/2021/10/28/01%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98-%E5%9B%9E%E6%BA%AF%E4%B8%8E%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E8%A7%A3%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-28,1635421860.0
 01背包问题-回溯与动态规划解法,DearXuan的主页,https://dearxuan.top/2021/10/28/01%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98-%E5%9B%9E%E6%BA%AF%E4%B8%8E%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E8%A7%A3%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-28,1635421860.0
-人工智能基础-搜索树的扩展与n皇后问题,DearXuan的主页,https://blog.dearxuan.com/2021/10/27/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%89%A9%E5%B1%95%E4%B8%8En%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-27,1635340500.0
 人工智能基础-搜索树的扩展与n皇后问题,DearXuan的主页,https://dearxuan.top/2021/10/27/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%89%A9%E5%B1%95%E4%B8%8En%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-27,1635340500.0
+人工智能基础-搜索树的扩展与n皇后问题,DearXuan的主页,https://blog.dearxuan.com/2021/10/27/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%89%A9%E5%B1%95%E4%B8%8En%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-27,1635340500.0
 《程序员的自身修养——链接、装载与库》读书笔记,BBing's Blog,https://bbing.com.cn/202110/coder-link-load/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-10-25,1635162950.0
 Loveit开启评论功能,cywhat's blog,https://cywhat.cn/Loveit%E5%BC%80%E5%90%AF%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-10-21,1634807246.0
 Loveit主题开启文章赞赏,cywhat's blog,https://cywhat.cn/Loveit%E4%B8%BB%E9%A2%98%E5%BC%80%E5%90%AF%E6%96%87%E7%AB%A0%E8%B5%9E%E8%B5%8F/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-10-21,1634805401.0
@@ -32,8 +33,8 @@ Twitch承认遭受攻击，源码泄露,LonelyGod,https://hin.cool/posts/twitcha
 MySQL问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mysql-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-10-11,1633968241.0
 UWP ListView数据绑定,DearXuan的主页,https://blog.dearxuan.com/2021/10/11/UWP-ListView%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-11,1633952940.0
 UWP ListView数据绑定,DearXuan的主页,https://dearxuan.top/2021/10/11/UWP-ListView%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-11,1633952940.0
-UWP Brush画笔详解,DearXuan的主页,https://blog.dearxuan.com/2021/10/08/UWP-Brush%E7%94%BB%E7%AC%94%E8%AF%A6%E8%A7%A3/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-08,1633699740.0
 UWP Brush画笔详解,DearXuan的主页,https://dearxuan.top/2021/10/08/UWP-Brush%E7%94%BB%E7%AC%94%E8%AF%A6%E8%A7%A3/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-08,1633699740.0
+UWP Brush画笔详解,DearXuan的主页,https://blog.dearxuan.com/2021/10/08/UWP-Brush%E7%94%BB%E7%AC%94%E8%AF%A6%E8%A7%A3/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-08,1633699740.0
 UWP编程基础,DearXuan的主页,https://blog.dearxuan.com/2021/10/05/UWP%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-05,1633423440.0
 UWP编程基础,DearXuan的主页,https://dearxuan.top/2021/10/05/UWP%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-05,1633423440.0
 谈谈服务器安全,LonelyGod,https://hin.cool/posts/serversec.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-03,1633219200.0
@@ -48,4 +49,3 @@ Linux搭建sonarqube,cywhat's blog,https://cywhat.cn/Linux%E6%90%AD%E5%BB%BAsona
 你需要一个什么样的浏览器？,LonelyGod,https://hin.cool/posts/browser.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-09-19,1632009600.0
 Jenkins启动报错原因分析,cywhat's blog,https://cywhat.cn/Jenkins%E5%90%AF%E5%8A%A8%E6%8A%A5%E9%94%99%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-18,1631987898.0
 Linux安装jdk11,cywhat's blog,https://cywhat.cn/Linux%E5%AE%89%E8%A3%85jdk11/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-18,1631987271.0
-Django自定义404页面,cywhat's blog,https://cywhat.cn/Django%E8%87%AA%E5%AE%9A%E4%B9%89404%E9%A1%B5%E9%9D%A2/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-17,1631908333.0
