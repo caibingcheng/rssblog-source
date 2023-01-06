@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+3D数学基础-向量运算基础和矩阵变换,萤火之森,http://frankorz.com/2017/09/22/basic-of-vector-and-matrix-transformation/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-09-22,1506078350.0
+像遊客一樣生活,Just lepture,https://lepture.com/zh/2017/live-better,https://lepture.com/,https://lepture.com/feed.xml,2017-09-22,1506065108.0
 HTTPS 的详细流程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_22-https_processes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-22,1506038400.0
 OAuth2 为什么需要 Authorization Code?,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_21-oauth2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-21,1505952000.0
 任务队列怎么写？python rq源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_20-task_queue_python_rq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-20,1505865600.0
@@ -40,12 +42,10 @@ Vim 全局搜索插件：ctrlsf.vim,Yuexun's Blog,https://yuexunjiang.me/blog/vi
 ansible 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_06_22-ansible.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-06-22,1498089600.0
 花田苑雜記,Just lepture,https://lepture.com/zh/2017/hanataen,https://lepture.com/,https://lepture.com/feed.xml,2017-06-19,1497876419.0
 《无限的未知》,This Cute World,https://thiscute.world/posts/infinite-ryvius/,https://thiscute.world/,https://thiscute.world/index.xml,2017-06-14,1497416738.0
-React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
-React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
 React 初始化渲染,Ahonn's Blog,https://www.ahonn.me/blog/write-a-react-from-scratch-init-render,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
+React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
+React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
 利器拾遺,Just lepture,https://lepture.com/zh/2017/liqi,https://lepture.com/,https://lepture.com/feed.xml,2017-06-04,1496582426.0
 自己写个搜索引擎,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_06_02-write_yourself_a_simple_search_engine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-06-02,1496361600.0
 欧几里得算法求最大公约数(GCD)的数学原理,This Cute World,https://thiscute.world/posts/mathematics-in-euclidean-gcd/,https://thiscute.world/,https://thiscute.world/index.xml,2017-05-26,1495814333.0
 HTTP 路由的两种常见设计形式,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_05_24-http_router_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-24,1495584000.0
-Koa2 源码分析,Yuexun's Blog,https://yuexunjiang.me/blog/koa2-analysis/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-05-17,1494979200.0
-五一二雜感,Just lepture,https://lepture.com/zh/2017/yang-yong-xin,https://lepture.com/,https://lepture.com/feed.xml,2017-05-16,1494944556.0
