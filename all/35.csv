@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Mac 上配置 MNMP 环境,4Ark × Blog,https://4ark.me/post/41f45ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-30,1606772294.0
 光速叛逃！——将网站部署至 Cloudflare Workers Site 上,ChrAlpha,https://blog.ichr.me/post/cf-workers-site-deploy/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-11-29,1606691982.0
 Undefined,FlyingSky's Blog,https://blog.fsky7.com/archives/173/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-11-29,1606629540.0
 Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-29-Keep-Data-Consistency-During-Database-Migration.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-29,1606626000.0
@@ -24,16 +25,16 @@ Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.bin
 配置一个简洁，高效的zsh,无妄当自持,https://www.insidentally.com/articles/000002/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-29,1603933662.0
 安装使用hexo,无妄当自持,https://www.insidentally.com/articles/000001/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-27,1603760862.0
 Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
-回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
 回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
+回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
 通过阳台种菜实现蔬菜自由,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
 ✳️ Vi/Vim使用备忘,qinxs小站,https://7bxing.com/posts/b04c6f46/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-10-23,1603435073.0
 写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-22,1603404285.0
 从GORM里学习到的panic处理方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
 写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
 How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-18,1602993600.0
-记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
 记一次因 HSTS 导致跨域问题的经历,4Ark × Blog,https://4ark.me/posts/hsts-problem-solving-experience.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
+记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
 Go使用闭包简化数据库操作代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0
 Hugo系列(4) - 从Hexo迁移至Hugo以及使用LoveIt主题的踩坑记录,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-4.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-12,1602516495.0
 Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-3.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-11,1602393076.0
@@ -48,4 +49,3 @@ Understand Liveness and Fairness in TLA+,Bin Wang - My Personal Blog,https://www
 九月总结,4Ark × Blog,https://4ark.me/post/d33db2d3.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-03,1601687752.0
 观测者：数据爬虫与处理，历史数据可视化视频与用户排名,FlyingSky's Blog,https://blog.fsky7.com/archives/167/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-10-02,1601651280.0
 写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-09-29,1601337600.0
-ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601321597.0
