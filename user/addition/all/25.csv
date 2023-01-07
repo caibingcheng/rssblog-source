@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+gunicorn max-requests 选项的作用,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_25-gunicorn_max_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-25,1585094400.0
 Redis使用中的几点注意事项,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_23-redis_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-23,1584921600.0
 如何打造好看还好用的 Windows Terminal,ChrAlpha,https://blog.ichr.me/post/windows-terminal-configuration/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-21,1584823047.0
 Hexo 图片 lazyload 的更优尝试,ChrAlpha,https://blog.ichr.me/post/hexo-better-image-lazyload/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-16,1584381969.0
@@ -48,4 +49,3 @@ npm & yarn 常用包与命令,云游君的小站,https://www.yunyoujun.cn/posts/
 使用 CCDIK 或 FABRIK 实现逆向动力学,云游君的小站,https://www.yunyoujun.cn/posts/methods-for-inverse-kinematics,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-01-14,1579040187.0
 计算机中的权衡(trade-off),Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_11-paradigm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-11,1578700800.0
 [声明]本站所有文章禁止转载,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_10-please_do_not_copy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-10,1578614400.0
-Golang不那么蛋疼的sort,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_07-golang_sort_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-07,1578355200.0
