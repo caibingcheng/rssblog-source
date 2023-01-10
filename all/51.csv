@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+正则表达式备忘录,Yuexun's Blog,https://yuexunjiang.me/blog/the-memo-of-javascript-regexp/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-09-13,1473724800.0
 我的利器,Randy's Blog,https://lutaonan.com/blog/my-liqi/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-09-09,1473379200.0
 离开大学这一年,Randy's Blog,https://lutaonan.com/blog/one-year-after-dropping-out-of-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-09-08,1473292800.0
 [译] JavaScript 最佳实践,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-best-practices/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-08-31,1472601600.0
@@ -22,8 +23,8 @@ Haskell do notation,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_
 使用 Nokogiri 解析 HTML,Yuexun's Blog,https://yuexunjiang.me/blog/using-nokogiri-parsing-html/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-28,1464393600.0
 小明的胡言,Just lepture,https://lepture.com/zh/2016/my-tweets,https://lepture.com/,https://lepture.com/feed.xml,2016-05-27,1464307800.0
 foldl 和 foldr 的变换,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_22-foldl_and_foldr.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-22,1463875200.0
-使用 JavaScript 实现简单的拖拽,Yuexun's Blog,https://yuexunjiang.me/blog/use-javascript-to-achieve-simple-drag-and-drop/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 记第一次面试,Yuexun's Blog,https://yuexunjiang.me/blog/the-first-interview/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
+使用 JavaScript 实现简单的拖拽,Yuexun's Blog,https://yuexunjiang.me/blog/use-javascript-to-achieve-simple-drag-and-drop/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 关于部落冲突的二三事儿-序,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-0,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2016-05-12,1463067095.0
 Haskell TypeClass 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_05-typeclassopedia.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-05,1462406400.0
 从 optimizeCb 说起,Ahonn's Blog,https://www.ahonn.me/blog/starting-from-the-optimizeCb,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
@@ -48,4 +49,3 @@ C语言的位操作,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_
 分治,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_01_25-divide_and_conqure.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-01-25,1453680000.0
 日記、新年お願いします,Just lepture,https://lepture.com/zh/2016/new-year-koshigaya,https://lepture.com/,https://lepture.com/feed.xml,2016-01-16,1452942900.0
 2015 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2015-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-31,1451520000.0
-日記、初めまして,Just lepture,https://lepture.com/zh/2015/first-day-koshigaya,https://lepture.com/,https://lepture.com/feed.xml,2015-12-30,1451475000.0
