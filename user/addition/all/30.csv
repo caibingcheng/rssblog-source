@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+读《稀缺》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_06-scarcity.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-06,1551830400.0
 让百度收录你的 GitHub Pages 博客,云游君的小站,https://www.yunyoujun.cn/posts/baidu-seo-about-github-pages,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-03-03,1551649977.0
 读《影响力》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_03_03-influence.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-03,1551571200.0
 搭建自己的 Minecraft 服务器,云游君的小站,https://www.yunyoujun.cn/posts/set-up-my-minecraft-server,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-03-01,1551454060.0
@@ -29,8 +30,8 @@ Redis 5.0 Stream简明教程,Jiajun的编程随想,https://jiajunhuang.com/artic
 删除分区表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_26-delete_disk_partition_table.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-26,1545782400.0
 从来如此,云游君的小站,https://www.yunyoujun.cn/posts/always-like-this,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-12-24,1545673311.0
 卷土重来未可知,云游君的小站,https://www.yunyoujun.cn/posts/after-2nd-graduate-exam,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-12-24,1545670344.0
-YouCompleteMe ycmd server SHUTDOWN 和 pyenv的问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_24-ycm_pyenv.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
 Docker组件介绍（二）：shim， docker-init和docker-proxy,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_24-docker_components_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
+YouCompleteMe ycmd server SHUTDOWN 和 pyenv的问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_24-ycm_pyenv.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
 Docker组件介绍（一）：runc和containerd,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_22-docker_components.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-22,1545436800.0
 2018 香港流行音乐推介,Randy's Blog,https://lutaonan.com/blog/2018-cantonpop-list/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-12-19,1545177600.0
 Prometheus MySQL Exporter源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_16-prometheus_mysqld_exporter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-16,1544918400.0
@@ -43,9 +44,8 @@ Go类型嵌套,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_01
 etcd源码阅读与分析（五）：mvcc,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_28-etcd_source_code_analysis_mvvc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-28,1543363200.0
 etcd源码阅读与分析（四）：lease,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_27-etcd_source_code_analysis_lease.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-27,1543276800.0
 干了这碗叔本华牌毒鸡汤 --- 《人生的智慧》,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_26-the_wisdom_of_life_on_human_nature.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-26,1543190400.0
-etcd源码阅读与分析（三）：wal,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_24-etcd_source_code_analysis_wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
 Memory leak in net/http,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_24-memory_leak_in_net_http.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
+etcd源码阅读与分析（三）：wal,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_24-etcd_source_code_analysis_wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
 etcd源码阅读与分析（二）：raft,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_22-etcd_source_code_analysis_raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-22,1542844800.0
 etcd源码阅读与分析（一）：raftexample,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_20-etcd_source_code_analysis_raftexample.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-20,1542672000.0
 虚拟机里的Ubuntu sudo时卡住,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_18-ubuntu_sudo_hang.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-18,1542499200.0
-new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-11-17,1542486792.0
