@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+设计一个分布式块存储,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_07_08-design_a_chunked_distributed_file_system.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-07-08,1531008000.0
 Linux低电量自动关机,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_06_24-linux_shutdown_when_bat_is_low.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-06-24,1529798400.0
 关于部落冲突的二三事儿（番外）-端午事变,云游君的小站,https://www.yunyoujun.cn/posts/coc-dragon-boat-incident,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-06-22,1529708724.0
 Unity 中用有限状态机来实现一个 AI,萤火之森,http://frankorz.com/2018/06/22/finite-state-machine-in-unity/,http://frankorz.com/,https://frankorz.com/atom.xml,2018-06-22,1529691571.0
@@ -30,8 +31,8 @@ Golang(Go语言)中实现典型的fork调用,Jiajun的编程随想,https://jiaju
 软件开发之禅---大事化小，各个击破,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_26-zen_of_dev.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-26,1519603200.0
 程序员的自我修养：链接，装载与库 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_25-linker_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-25,1519516800.0
 Redis源码阅读与分析一：sds,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_sds.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
-Redis源码阅读与分析二：双链表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_doubly_linked_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
 Redis源码阅读与分析三：哈希表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_hash_table.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
+Redis源码阅读与分析二：双链表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_doubly_linked_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
 【动画电影】《声之形》观后感,云游君的小站,https://www.yunyoujun.cn/posts/the-shape-of-voice,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-02-03,1517686818.0
 Golang runtime 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_02-golang_runtime.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-02,1517529600.0
 Golang的一些坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_31-golang_traps.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-31,1517356800.0
@@ -48,4 +49,3 @@ Golang 分布式异步任务队列 Machinery 教程,Jiajun的编程随想,https:
 2017 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2017-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-12-29,1514505600.0
 使用geohash完成地理距离计算,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_27-geohash.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-27,1514332800.0
 YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-me-money/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-12-26,1514283748.0
-永远相信美好的事情即将发生,云游君的小站,https://www.yunyoujun.cn/posts/after-graduate-exam,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-12-25,1514240096.0
