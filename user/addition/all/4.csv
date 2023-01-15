@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+记录下 phpunit 的入门使用方法之setUp和tearDown,Nicksxs's Blog,https://nicksxs.me/2022/10/23/%E8%AE%B0%E5%BD%95%E4%B8%8B-phpunit-%E7%9A%84%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E4%B9%8BsetUp%E5%92%8CtearDown/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-23,1666525493.0
 人间食话 | 我在上海吃汉堡,Another Dayu,https://anotherdayu.com/2022/3737/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-23,1666496945.0
 最佳代理实践 2022-10-23,manateelazycat.github.io,//manateelazycat.github.io/proxy/2022/10/23/best-proxy.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-23,1666483200.0
 给Hexo静态博客添加Umami数据分析,Macin,https://macin.org/2022/10/22/add-umami-to-hexo/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-22,1666445721.0
@@ -22,8 +23,8 @@ OAuth 2 详解（五）：Device Authorization Flow,Jiajun的编程随想,https:
 雾起江州：从这里陷入一个自我困境,Macin,https://macin.org/2022/10/10/wu-qi-jiang-zhou/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-10,1665428251.0
 打算做出一个决定，关于这个博客的决定,冰哥笔记,https://www.bgbiji.com/1115.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-10-10,1665394223.0
 【随笔】Maven 中 dependencyManagement 标签作用说明,框架師,https://www.mobaijun.com/posts/2616135476.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-10-10,1665362650.0
-OAuth 2 详解（四）：Client Credentials Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_client_credentials.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
 OAuth 2 详解（三）：Resource Owner Password Credentials Grant,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_password.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
+OAuth 2 详解（四）：Client Credentials Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_client_credentials.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
 记一个容器中 dubbo 注册的小知识点,Nicksxs's Blog,https://nicksxs.me/2022/10/09/%E8%AE%B0%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8%E4%B8%AD-dubbo-%E6%B3%A8%E5%86%8C%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-09,1665314397.0
 追随梦想,Frank笔记,https://frank2019.me/articles/2019/09/04/1567578966259.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-10-09,1665282238.0
 OAuth 2 详解（二）：Implict Grant Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_09-oauth2_explained_implict_grant.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-09,1665273600.0
@@ -48,4 +49,3 @@ Disruptor 系列三,Nicksxs's Blog,https://nicksxs.me/2022/09/25/Disruptor-%E7%B
 秘 密,瓦解的生活记事,https://hin.cool/posts/mimi.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-23,1663971600.0
 【CDN】GCORE CDN全球节点及线路汇总,Luminous' Home,https://luotianyi.vc/6465.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-09-22,1663831705.0
 Re Thinking Architecture Of React Project,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220920-re-thinking-architecture-of-react-project,https://teobler.com,https://teobler.com/rss.xml,2022-09-20,1663672864.0
-做了 6 年程序员，我学到的 10 条经验,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-after-6-years-as-software-engineer/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-09-20,1663632000.0
