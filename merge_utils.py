@@ -58,6 +58,10 @@ def generator_rss(rss_out, rss_in):
     batch_file = rss_in + '1.csv'
     df = pandas.read_csv(batch_file, encoding="utf-8")
     df_dict = json.loads(df.to_json(orient="records"))
+
+    def rss_not_empty(r):
+        return {'title', 'link', 'author', 'timestamp'}.issubset(r.keys()) and \
+               '' not in {r['title'], r['link'], r['author'], r['timestamp']}
     rss = PyRSS2Gen.RSS2(
         title="RSSBlog",
         link="https://rssblog.cn/",
@@ -69,7 +73,7 @@ def generator_rss(rss_out, rss_in):
             link=r['link'],
             author=r['author'],
             pubDate=datetime.datetime.fromtimestamp(r['timestamp']),
-        ) for r in df_dict],
+        ) for r in df_dict if rss_not_empty(r)],
     )
     rss.write_xml(open(rss_out + "rss.xml", "w"))
 
