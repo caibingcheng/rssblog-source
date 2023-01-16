@@ -1,25 +1,34 @@
 title,author,link,home,rss,date,timestamp
-记录自己 | 2022.06.17,冰哥笔记,https://www.bgbiji.com/1006.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-17,1655474520.0
-周刊第14期：暂停更新说明、自动化测试的未来趋势,4Ark × Blog,https://4ark.me/post/weekly-14.html,https://4ark.me/,https://4ark.me/rss.xml,2022-06-14,1655164800.0
-dubbo 客户端配置的一个重要知识点,Nicksxs's Blog,https://nicksxs.me/2022/06/11/dubbo-%E5%AE%A2%E6%88%B7%E7%AB%AF%E9%85%8D%E7%BD%AE%E7%9A%84%E4%B8%80%E4%B8%AA%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-06-11,1654951087.0
-Suit,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220606-suit,https://teobler.com,https://teobler.com/rss.xml,2022-06-06,1654528380.0
-别人说俺是英雄——记一次造永动机的尝试,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/2022-free-energy-memory.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-06-05,1654424183.0
-精神疾病、精神贵族和其他,非理勿试,https://www.ntiy.com/1815.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-05-30,1653899821.0
-遗憾最小化框架 —— 如何做决定,Randy's Blog,https://lutaonan.com/blog/regret-minimization-framework/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-05-29,1653838255.0
-Git via HTTPS,manateelazycat.github.io,//manateelazycat.github.io/proxy/2022/05/29/git-via-https.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-29,1653782400.0
-【工具系列】Maven私服搭建,框架师,https://www.mobaijun.com/posts/3514918103.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-18,1652858912.0
-《上海》时代的缩影,Frank笔记,https://frank2019.me/articles/2022/05/03/1651553263423.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-05-03,1651554022.0
-A Library to Make It Easier to Use Scala with gRPC,Bin Wang - My Personal Blog,https://www.binwang.me/2022-05-02-A-Library-to-Make-It-Easier-to-Use-Scala-with-GRPC.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2022-05-02,1651464000.0
-Display country flags emoji on Windows,Just lepture,https://lepture.com/en/2022/windows-country-flags-emoji,https://lepture.com/,https://lepture.com/feed.xml,2022-04-30,1651312306.0
-使用Drone CI构建CI/CD系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_04_29-drone_ci.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-29,1651190400.0
-【杂谈】jsDelivr域名遭到DNS污染,Luminous' Home,https://luotianyi.vc/6295.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-04-28,1651164667.0
+近况,醉里,https://202271.xyz/post/12188/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-01-15,1673822739.0
+2022 年终总结,Nicksxs's Blog,https://nicksxs.me/2023/01/15/2022-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-01-15,1673761517.0
+2023：从小处做，从大处想，从绝处逢生,Macin,https://macin.org/2023/01/13/2022-zong-jie/,https://macin.org/,https://www.macin.org/atom.xml,2023-01-13,1673645327.0
+闯红灯和CDN被刷,瓦解的生活记事,https://hin.cool/posts/tcbcc.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-01-13,1673613002.0
+Autistici邮箱,Muidar's Site,https://muidar.com/cmuidar/2023/01/autistici-mail/,https://muidar.com,https://muidar.com/feed,2023-01-13,1673610294.0
+本博客已经永久停止更新,SinGO博客,https://blog.xsnet.eu.org/posts/19204/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2023-01-13,1673598386.0
+2023开篇-不求回报的付出,Frank笔记,https://frank2019.me/articles/2023/01/13/1673549393846.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-01-12,1673552195.0
+拒绝成为泡面垫的电纸书们,Another Dayu,https://anotherdayu.com/2023/4558/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-01-12,1673505566.0
+个人建站的经历——域名篇,岚天小窝,https://blog.ltya.top/posts/personalexp-domain.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-01-10,1673366400.0
+2022 年终总结,Randy's Blog,https://lutaonan.com/blog/2022-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2023-01-09,1673222400.0
+我的云账单:2023年,罗磊的独立博客,https://luolei.org/how-much-i-spend-on-cloud-monthly-2023/,https://luolei.org/,https://luolei.org/feed/,2023-01-07,1673088031.0
+【CloudFlare】API管理Plesk版Spectrum SSH转发,Luminous' Home,https://luotianyi.vc/6741.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-01-06,1673004301.0
+“博客教”质料宗修行法门,非理勿试,https://www.ntiy.com/1980.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-01-03,1672751332.0
+2022 年度总结,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/759/,https://imba97.cn/,https://imba97.cn/atom.xml,2022-12-31,1672531199.0
+2022年终总结,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_12_31-hello_2023.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-12-31,1672444800.0
+我们如何从 Wxml2Canvas 迁移到 Painter,4Ark × Blog,https://4ark.me/post/how-to-migrate-wxml2canvas-to-painter.html,https://4ark.me/,https://4ark.me/rss.xml,2022-12-26,1672012800.0
+安装 PaddleOCR,manateelazycat.github.io,//manateelazycat.github.io/linux/ocr/2022/12/19/install-paddocr.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-12-19,1671408000.0
+【转载】一把梭：REST API 全用 POST,框架師,https://www.mobaijun.com/posts/2822068467.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-12-15,1671086238.0
+To Be An Excellent Tech Lead,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20221213-to-be-an-excellent-tech-lead,https://teobler.com,https://teobler.com/rss.xml,2022-12-13,1670922083.0
+GitHub基于ChatGPT开源项目,把酒诗代码，趁乱写年华。,https://102no.com/2022/12/09/github-chatgpt/,https://102no.com/,https://102no.com/atom.xml,2022-12-08,1670515200.0
+How RSS Brain Shows Related Articles,Bin Wang - My Personal Blog,https://www.binwang.me/2022-12-03-How-RSS-Brain-Shows-Related-Articles.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2022-12-03,1670043600.0
+创业公司的基层管理,见字如面,https://hiwannz.com/archives/748,https://hiwannz.com,https://hiwannz.com/feed,2022-11-28,1669617786.0
+Notice,FlyingSky's Blog,https://blog.fsky7.com/archives/258/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2022-11-10,1668049260.0
+云乐坊工作室的成立与缘起与有关的话,云游君的小站,https://www.yunyoujun.cn/posts/the-birth-of-yunlefun,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2022-11-09,1668038399.0
+打算做出一个决定，关于这个博客的决定,冰哥笔记,https://www.bgbiji.com/1115.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-10-10,1665394223.0
+部分录音数据再次丢失,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/relost-voice-recording-data.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-09-15,1663235580.0
+Markdown on ruby markup,Just lepture,https://lepture.com/en/2022/markdown-ruby-markup,https://lepture.com/,https://lepture.com/feed.xml,2022-07-14,1657806270.0
 JavaScript学习 - 第一章 基础知识 （二）,沐云湘夕—求索,https://quest.myxxts.club/archives/144/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-04-28,1651154640.0
-Kong 2.8 已经发布：提高安全性，简化API管理,把酒诗代码，趁乱写年华。,https://102no.com/2022/03/28/kong-2.8/,https://102no.com/,https://102no.com/atom.xml,2022-03-27,1648396800.0
 最近的一些状况和一些想法,近视眼逛博客,https://blog.dtz9.com/2022/03/Some-recent-conditions-and-some-thoughts.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2022-03-25,1648223760.0
-直接负责,见字如面,https://hiwannz.com/archives/679,https://hiwannz.com,https://hiwannz.com/feed,2022-03-21,1647860631.0
 Kubernetes、集群联邦和资源分发,面向信仰编程,https://draveness.me//kuberentes-federation,https://draveness.me/,https://draveness.me/feed.xml,2022-03-19,1647648000.0
-年度报告 - 2021 | 远方,FlyingSky's Blog,https://blog.fsky7.com/archives/218/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2022-01-20,1642681260.0
 Rust 学习资源,萤火之森,http://frankorz.com/2022/01/18/rust-study-resource/,http://frankorz.com/,https://frankorz.com/atom.xml,2022-01-18,1642514504.0
-聊聊四元数与万向锁及其实际意义,云游君的小站,https://www.yunyoujun.cn/posts/quaternion-and-spatial-rotation/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2022-01-15,1642269552.0
 2021 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2021-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2022-01-03,1641168000.0
 从9元到9000元，我包里常备的十件产品 | EDC,罗磊的独立博客,https://luolei.org/edc-2020/,https://luolei.org,https://luolei.org/feed/,2021-01-13,1610547892.0

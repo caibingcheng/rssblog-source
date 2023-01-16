@@ -1,45 +1,51 @@
 title,author,link,home,rss,date,timestamp
-PlantUML - 类图,雨临Lewis,https://lewky.cn/posts/plantuml-class-diagram.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-05-14,1620992812.0
-理性发声，坚定爱国,W4J1e,https://www.hin.cool/posts/weirenminfuwu.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-05-11,1620691200.0
-你是否愿意为智能音箱内容二次付费？,W4J1e,https://www.hin.cool/posts/xiaodu.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-05-08,1620432000.0
-无需剁手的国内外线路分流方案,W4J1e,https://www.hin.cool/posts/globalcdn.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-05-01,1619827200.0
-你真的了解WPS吗？,Thrower的博客,https://thrower.cc/2021/wps/,https://thrower.cc,https://thrower.cc/feed/,2021-04-30,1619793820.0
-浮城往事,W4J1e,https://www.hin.cool/posts/fuchengwangshi.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-04-29,1619654400.0
-结婚——2016年“降噪”不插电版,W4J1e,https://www.hin.cool/posts/mvjiehun.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-04-21,1618963200.0
-为 Arch Linux 创建字体软件包,无妄当自持,https://www.insidentally.com/articles/000011/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-04-13,1618318833.0
-为 Arch Linux 创建软件包,无妄当自持,https://www.insidentally.com/articles/000010/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-04-07,1617756711.0
-JPA/Hibernate问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/jpa-hibernate.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-03-31,1617206850.0
-在 windows 下安装配置 nodejs,刘超智,https://www.insidentally.com/articles/000009/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-03-27,1616849231.0
-docsify快速入门,雨临Lewis,https://lewky.cn/posts/docsify-0.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-03-01,1614614325.0
-fonts.googleapis.com访问太慢导致站点加载很慢,雨临Lewis,https://lewky.cn/posts/fonts-googleapis-slow.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-20,1613834015.0
-分享一些有趣的代码注释,雨临Lewis,https://lewky.cn/posts/program-comment-funny.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-19,1613703345.0
-分享一些有趣的前端图形和页面,雨临Lewis,https://lewky.cn/posts/front-end-funny.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-18,1613659858.0
-PostgreSQL - 字符串函数汇总,雨临Lewis,https://lewky.cn/posts/postgresql-string.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-18,1613659443.0
-远程桌面无法复制粘贴,雨临Lewis,https://lewky.cn/posts/remote-desktop-issue.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-03,1612369575.0
-Java日期问题汇总,雨临Lewis,https://lewky.cn/posts/java-date-issues.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-01-25,1611589382.0
-山城步道——半山崖线,刘超智,https://www.insidentally.com/articles/000008/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-01-12,1610441748.0
-使用 linux 操作系统，如何优化固态硬盘使用体验,无妄当自持,https://www.insidentally.com/articles/000007/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-30,1609344203.0
-友链墙,雨临Lewis,https://lewky.cn/friends/,https://lewky.cn/,https://lewky.cn/index.xml,2020-12-26,1608991304.0
-如何使用 Git,刘超智,https://www.insidentally.com/articles/000006/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-18,1608286030.0
-linux 开启 samba 服务共享文件,刘超智,https://www.insidentally.com/articles/000005/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-27,1606465965.0
-山城晓雾,刘超智,https://www.insidentally.com/articles/000004/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-25,1606281003.0
-眺望渝中,刘超智,https://www.insidentally.com/articles/000003/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-23,1606118148.0
-配置一个简洁，高效的zsh,刘超智,https://www.insidentally.com/articles/000002/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-29,1603933662.0
-安装使用hexo,刘超智,https://www.insidentally.com/articles/000001/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-27,1603760862.0
-✳️ Vi/Vim使用备忘,qinxs小站,https://7bxing.com/posts/b04c6f46/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-10-23,1603435073.0
-Hugo系列(4) - 从Hexo迁移至Hugo以及使用LoveIt主题的踩坑记录,雨临Lewis,https://lewky.cn/posts/hugo-4.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-12,1602516495.0
-Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章,雨临Lewis,https://lewky.cn/posts/hugo-3.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-11,1602393076.0
-Hugo系列(2) - 通过配置文件来定制个人站点,雨临Lewis,https://lewky.cn/posts/hugo-2.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-10,1602317338.0
-【推荐】Hexo博客配置及源文件备份,qinxs小站,https://7bxing.com/posts/659688f7/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-19,1600519111.0
-「硬核JS」一次搞懂JS运行机制,qinxs小站,https://7bxing.com/posts/9c28944f/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-08,1599574555.0
-Hugo系列(1) - 简单搭建教程与远程部署,雨临Lewis,https://lewky.cn/posts/hugo-1.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-09-06,1599397847.0
-2016美国总统候选人辩论,qinxs,https://7bxing.com/posts/52bf0210/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-08-27,1598503361.0
-短网址生成,qinxs小站,https://7bxing.com/posts/991130e/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-07-12,1594532801.0
-VIDAA3/4系统工厂模式,qinxs小站,https://7bxing.com/posts/be2c6b79/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-07-05,1593957961.0
-Shell猜数字游戏,qinxs小站,https://7bxing.com/posts/3713cf69/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-06-06,1591449141.0
-Git学习,qinxs,https://7bxing.com/posts/e28ceec1/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605502.0
-hello world,qinxs,https://7bxing.com/posts/d4a1185/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605202.0
-Java的远程调试Remote Debug,雨临Lewis,https://lewky.cn/posts/java-remote-debug.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-03-17,1584459040.0
-Eclipse - 快捷键篇,雨临Lewis,https://lewky.cn/posts/eclipse-hotkey.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-01-18,1579359889.0
-JDK自带的那些好用的工具,雨临Lewis,https://lewky.cn/posts/jdk-tools.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-01-03,1578034779.0
-PostgreSQL - 如何杀死被锁死的进程,雨临Lewis,https://lewky.cn/posts/1514292e.html/,https://lewky.cn/,https://lewky.cn/index.xml,2019-11-14,1573745069.0
+计算机组成原理-定点数运算,DearXuan的主页,https://blog.dearxuan.com/2022/05/04/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%AE%9A%E7%82%B9%E6%95%B0%E8%BF%90%E7%AE%97/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-05-04,1651677780.0
+FinOps for Kubernetes - 如何拆分 Kubernetes 成本,This Cute World,https://thiscute.world/posts/finops-for-kubernetes/,https://thiscute.world/,https://thiscute.world/index.xml,2022-05-04,1651677300.0
+关闭了评论，让一切简单起来,BBing's Blog,https://bbing.com.cn/202205/disbalecomment-makeitsimple/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-05-04,1651646700.0
+计算机网络-计算机网络概念,DearXuan的主页,https://blog.dearxuan.com/2022/04/30/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%A6%82%E5%BF%B5/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-04-30,1651333320.0
+车运动时和静止时被鸟拉屎的概率,BBing's Blog,https://bbing.com.cn/202204/birdshit-rate/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-04-25,1650888002.0
+Django连接Mysql配置,cywhat's blog,https://cywhat.cn/Django%E8%BF%9E%E6%8E%A5Mysql%E9%85%8D%E7%BD%AE/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-04-24,1650770156.0
+Mac安装mysql5.7,cywhat's blog,https://cywhat.cn/Mac%E5%AE%89%E8%A3%85mysql5.7/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-04-24,1650769154.0
+tanx的n次方不定积分递推方法,DearXuan的主页,https://blog.dearxuan.com/2022/04/23/tanx%E7%9A%84n%E6%AC%A1%E6%96%B9%E4%B8%8D%E5%AE%9A%E7%A7%AF%E5%88%86%E9%80%92%E6%8E%A8%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-04-23,1650713220.0
+记一次网站重大升级,辛未羊的网络日志,https://panqiincs.me/2022/04/20/website-great-updates/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-04-20,1650430169.0
+帮人解决过的电脑问题,辛未羊的网络日志,https://panqiincs.me/2022/04/16/computer-problems/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-04-16,1650120233.0
+闲置笔记本改NAS-omv踩坑记录,BBing's Blog,https://bbing.com.cn/202204/laptopnas-omv/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-04-16,1650078160.0
+Docker部署wordpress站点,cywhat's blog,https://cywhat.cn/Docker%E9%83%A8%E7%BD%B2wordpress%E7%AB%99%E7%82%B9/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-04-15,1650003249.0
+Locally Differentially Private Protocols for Frequency Estimation,Barney's Blog,https://hugo.bnblogs.cc/paper08/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-04-13,1649861587.0
+QQ机器人开发,DearXuan的主页,https://blog.dearxuan.com/2022/04/02/QQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-04-02,1648890264.0
+glibc-malloc源码阅读二,BBing's Blog,https://bbing.com.cn/202203/glibc-malloc2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-30,1648641282.0
+在体全细胞膜片钳研究综述,无妄当自持,https://www.insidentally.com/articles/000024/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-03-30,1648627233.0
+RuntimeWarning:DateTimeField Session.expire_date received a naive datetime,cywhat's blog,https://cywhat.cn/RuntimeWarningDateTimeField-Session.expire_date-received-a-naive-datetime/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-03-30,1648609003.0
+在服务器上直接独立部署 Waline，并使用 systemd 启动,无妄当自持,https://www.insidentally.com/articles/000026/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-03-29,1648519833.0
+变革与创新,This Cute World,https://thiscute.world/posts/revolution-and-innovation/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-27,1648399200.0
+一阶系统结构图中的负反馈,辛未羊的网络日志,https://panqiincs.me/2022/03/25/inertial-system-diagram/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-03-25,1648222055.0
+glibc-malloc源码阅读,BBing's Blog,https://bbing.com.cn/202203/glibc-malloc/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-25,1648177819.0
+线性回归例题解析,DearXuan的主页,https://blog.dearxuan.com/2022/03/23/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E4%BE%8B%E9%A2%98%E8%A7%A3%E6%9E%90/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-23,1648048200.0
+通过dll的跨进程通讯,DearXuan的主页,https://blog.dearxuan.com/2022/03/22/%E9%80%9A%E8%BF%87dll%E7%9A%84%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E8%AE%AF/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-22,1647923580.0
+桌面窗口管理器占用内存过高,Yulin Lewis' Blog,https://lewky.cn/posts/dwm-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-22,1647908442.0
+NULL和nullptr实际问题分析,BBing's Blog,https://bbing.com.cn/202203/null-nullptr-problem/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-21,1647851315.0
+ELK系列(6) - Elasticsearch常用接口,Yulin Lewis' Blog,https://lewky.cn/posts/elk-6/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-21,1647823081.0
+ELK系列(5) - Elasticsearch性能调优,Yulin Lewis' Blog,https://lewky.cn/posts/elk-5/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-19,1647700025.0
+深度学习基础-线性回归,DearXuan的主页,https://blog.dearxuan.com/2022/03/18/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80-%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-18,1647612180.0
+Hugo的Loveit主题修改sitemap,cywhat's blog,https://cywhat.cn/Hugo%E7%9A%84Loveit%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9sitemap.xml%E9%85%8D%E7%BD%AE/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-03-18,1647574281.0
+Nginx安装和卸载,Barney's Blog,https://hugo.bnblogs.cc/nginx%E5%AE%89%E8%A3%85%E5%92%8C%E5%8D%B8%E8%BD%BD/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-17,1647531618.0
+修复Uptime Kuma一个小错误,Barney's Blog,https://hugo.bnblogs.cc/%E4%BF%AE%E5%A4%8Duptime-kuma%E4%B8%80%E4%B8%AA%E5%B0%8F%E9%94%99%E8%AF%AF/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-17,1647517507.0
+计算机组成原理-计数制与定点数编码,DearXuan的主页,https://blog.dearxuan.com/2022/03/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E6%95%B0%E5%88%B6%E4%B8%8E%E5%AE%9A%E7%82%B9%E6%95%B0%E7%BC%96%E7%A0%81/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-15,1647315600.0
+修改了ssh默认端口如何配置git,Barney's Blog,https://hugo.bnblogs.cc/%E4%BF%AE%E6%94%B9%E4%BA%86ssh%E9%BB%98%E8%AE%A4%E7%AB%AF%E5%8F%A3%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AEgit/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-14,1647241133.0
+写给开发人员的实用密码学（八）—— 数字证书与 TLS 协议,This Cute World,https://thiscute.world/posts/about-tls-cert/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-13,1647187200.0
+计算机组成原理-计算机系统概述,DearXuan的主页,https://blog.dearxuan.com/2022/03/13/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-13,1647182820.0
+算法基础-RSA公钥体系,DearXuan的主页,https://blog.dearxuan.com/2022/03/11/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-RSA%E5%85%AC%E9%92%A5%E4%BD%93%E7%B3%BB/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-11,1647006180.0
+vercel制作api(python，nodejs，php),DearXuan的主页,https://blog.dearxuan.com/2022/03/10/vercel%E5%88%B6%E4%BD%9Capi-python-nodejs-php/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-10,1646899440.0
+算法基础-二叉搜索树,DearXuan的主页,https://blog.dearxuan.com/2022/03/09/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-09,1646832240.0
+写给开发人员的实用密码学（七）—— 非对称密钥加密算法 RSA/ECC,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-7-asymmetric-key-ciphers/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-09,1646830200.0
+Go语言语法踩坑,Barney's Blog,https://hugo.bnblogs.cc/go%E8%AF%AD%E8%A8%80%E8%AF%AD%E6%B3%95%E8%B8%A9%E5%9D%91/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646754974.0
+Ubuntu20.04彻底卸载mysql8.0,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BDmysql8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646731549.0
+Ubuntu上使用docker安装mysql,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4%B8%8A%E4%BD%BF%E7%94%A8docker%E5%AE%89%E8%A3%85mysql/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-07,1646647303.0
+写给开发人员的实用密码学（六）—— 对称密钥加密算法,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-6-symmetric-key-ciphers/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-06,1646563440.0
+「转」且看有思想的年轻人,This Cute World,https://thiscute.world/posts/the-thoughtful-youth/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-04,1646405880.0
+MyBatis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mybatis-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646320233.0
+PostgreSQL - SQL调优方案,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-sql-tuning/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646266166.0
+写给开发人员的实用密码学（五）—— 密钥交换 DHKE 与完美前向保密 PFS,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-5-key-exchange/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126105.0
+写给开发人员的实用密码学（四）—— 安全随机数生成器 CSPRNG,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-4-secure-random-generators/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126104.0
+写给开发人员的实用密码学（三）—— MAC 与密钥派生函数 KDF,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-3-key-derivation-function/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126103.0
+写给开发人员的实用密码学（二）—— 哈希函数,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-2-hash/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126101.0

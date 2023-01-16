@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-Nginx,框架师,https://www.mobaijun.com/posts/1706463495.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-14,1618384093.0
-设计一个IM归档系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_04_14-system_design_archive.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-14,1618358400.0
-10本 Redis 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/12/10-redis-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-11,1618156800.0
-聊聊厦门旅游的好与不好,Nicksxs's Blog,https://nicksxs.me/2021/04/11/%E8%81%8A%E8%81%8A%E5%8E%A6%E9%97%A8%E6%97%85%E6%B8%B8%E7%9A%84%E5%A5%BD%E4%B8%8E%E4%B8%8D%E5%A5%BD/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-04-11,1618155487.0
-【ACME】手动签发Buypass及ZeroSSL证书,Luminous' Home,https://luotianyi.vc/5538.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-04-11,1618124143.0
-Svelte 的异步更新实现原理,Randy's Blog,https://lutaonan.com/blog/how-svelte-set-state-works/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-04-11,1618099200.0
-logrotate read only filesystem问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_04_11-logrotate_read_only_filesystem.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-11,1618099200.0
-为什么 Linux 和 macOS 不需要碎片整理,面向信仰编程,https://draveness.me//whys-the-design-linux-macos-fragmentation,https://draveness.me/,https://draveness.me/feed.xml,2021-04-10,1618012800.0
-CPU 和 GPU - 异构计算的演进与发展,面向信仰编程,https://draveness.me//heterogeneous-computing,https://draveness.me/,https://draveness.me/feed.xml,2021-04-09,1617926400.0
-10本 Python 深入学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/09/10-python-learn-depth-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-08,1617897600.0
-10本 Python 入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/07/10-python-learn-guide-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-06,1617724800.0
-10本 Python 零基础入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/06/10-python-learn-from-scratch-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-05,1617638400.0
-文本笔记记录方式,沐云湘夕—求索,https://quest.myxxts.club/archives/83/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2021-04-04,1617548940.0
-聊聊 dubbo 的线程池,Nicksxs,https://nicksxs.me/2021/04/04/%E8%81%8A%E8%81%8A-dubbo-%E7%9A%84%E7%BA%BF%E7%A8%8B%E6%B1%A0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-04-04,1617545697.0
-尝试在 GitHub Issues 上写文章并自动同步至博客,ChrAlpha,https://blog.ichr.me/post/blog-with-github-issues/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2021-04-04,1617544962.0
-为什么早期的 Windows 需要整理碎片,面向信仰编程,https://draveness.me//whys-the-design-windows-defragmentation,https://draveness.me/,https://draveness.me/feed.xml,2021-04-01,1617235200.0
-uni-app 踩坑小记,4Ark × Blog,https://4ark.me/post/uni-app-issues.html,https://4ark.me/,https://4ark.me/rss.xml,2021-04-01,1617235200.0
-uni-app 踩坑小记,4Ark,https://4ark.me/post/uni-app-issues/,https://4ark.me/,https://4ark.me/rss.xml,2021-04-01,1617235200.0
-司马迁是一个什么样的人？,4Ark × Blog,https://4ark.me/post/about-si-ma-qian.html,https://4ark.me/,https://4ark.me/rss.xml,2021-03-31,1617148800.0
-司马迁是一个什么样的人？,4Ark,https://4ark.me/post/about-si-ma-qian/,https://4ark.me/,https://4ark.me/rss.xml,2021-03-31,1617148800.0
-三月总结,4Ark × Blog,https://4ark.me/post/2021-03-31-2021-mar-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2021-03-30,1617148182.0
-三月总结,4Ark,https://4ark.me/2021/03/30/_2021-mar-summary/,https://4ark.me/,https://4ark.me/rss.xml,2021-03-30,1617148182.0
-2020 年总结 · 渐入佳境,面向信仰编程,https://draveness.me//2020-summary,https://draveness.me/,https://draveness.me/feed.xml,2021-03-28,1616889600.0
-Serverless 与轻量级虚拟化 Firecracker · NSDI '20,面向信仰编程,https://draveness.me//papers-firecracker,https://draveness.me/,https://draveness.me/feed.xml,2021-03-27,1616803200.0
-Notion 编辑器是怎么实现的？,Yuexun's Blog,https://yuexunjiang.me/blog/how-the-notion-editor-is-implemented/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-03-25,1616630400.0
-Notion 编辑器是怎么实现的？,Ahonn's Blog,https://www.ahonn.me/blog/how-the-notion-editor-is-implemented,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2021-03-25,1616630400.0
-Notion 编辑器是怎么实现的？,Yuexun's Blog,https://yuexunjiang.me/blog/how-the-notion-editor-is-implemented,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2021-03-25,1616630400.0
-你该如何为 Kubernetes 定制特性,面向信仰编程,https://draveness.me//cloud-native-kubernetes-extension,https://draveness.me/,https://draveness.me/feed.xml,2021-03-23,1616457600.0
-Golang GIN写单测时，愉快的使用返回值,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_23-go_gin_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-23,1616457600.0
-Python Queue源码分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_20-python_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-20,1616198400.0
-集群管理系统 Mesos 的设计原理 · NSDI '11,面向信仰编程,https://draveness.me//papers-mesos,https://draveness.me/,https://draveness.me/feed.xml,2021-03-19,1616112000.0
-Go里优雅的使用全局配置,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_18-go_config.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-18,1616025600.0
-【恋爱手记 Vol.1】从友情走向恋情,Luminous' Home,https://luotianyi.vc/5458.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-03-15,1615812674.0
-Golang sync.Map源码分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_15-go_sync_map.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-15,1615766400.0
-Software Craftsmanship,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210314-software-craftsmanship,https://teobler.com,https://teobler.com/rss.xml,2021-03-14,1615705560.0
-读《蒂姆·库克传》,Randy's Blog,https://lutaonan.com/blog/reading-tim-cook/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-03-14,1615680000.0
-使用 Telegram Bot + Beancount 记账,Ahonn's Blog,https://www.ahonn.me/blog/use-telegram-bot-and-beancount-for-accounting,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2021-03-13,1615668749.0
-使用 Telegram Bot + Beancount 记账,Yuexun's Blog,https://yuexunjiang.me/blog/use-telegram-bot-and-beancount-for-accounting,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2021-03-13,1615668749.0
-使用 Telegram Bot + Beancount 记账,Yuexun's Blog,https://yuexunjiang.me/blog/use-telegram-bot-and-beancount-for-accounting/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-03-13,1615593600.0
-char-dust 一个图片转字符画的 npm 包与示例站点,云游君的小站,https://www.yunyoujun.cn/posts/why-make-char-dust/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-03-12,1615568926.0
-Android滑动时隐藏FAB,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_11-android_fab_hide.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-11,1615420800.0
-10本 Go 语言进阶学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/03/10/10-golang-learn-advanced-books/,https://102no.com/,https://102no.com/atom.xml,2021-03-09,1615305600.0
-Agile Transformation,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210309-agile-transformation,https://teobler.com,https://teobler.com/rss.xml,2021-03-09,1615293900.0
-我对 Svelte 的看法,Randy's Blog,https://lutaonan.com/blog/svelte/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-03-09,1615248000.0
-为什么 Kubernetes 要替换 Docker,面向信仰编程,https://draveness.me//whys-the-design-kubernetes-deprecate-docker,https://draveness.me/,https://draveness.me/feed.xml,2021-03-09,1615248000.0
-In Defence of Disabling Swap,Bin Wang - My Personal Blog,https://www.binwang.me/2021-03-08-In-Defence-of-Disabling-Swap.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2021-03-08,1615179600.0
-播客走入大众视线是好事,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/normal_podcast.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-03-07,1615141440.0
-【Azure】免费Windows实例dd安装官方Linux,Luminous' Home,https://luotianyi.vc/5419.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-03-05,1614952036.0
-nnrm - 一个极简的 npm/yarn registry 切换管理器,云游君的小站,https://www.yunyoujun.cn/posts/nnrm-new-nrm/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-03-05,1614938237.0
-什么是 iPaaS ？,把酒诗代码，趁乱写年华。,https://102no.com/2021/03/05/what-is-ipaas/,https://102no.com/,https://102no.com/atom.xml,2021-03-04,1614873600.0
+【工具系列】Windows环境下切换JDK脚本,框架师,https://www.mobaijun.com/posts/772710478.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-24,1643009253.0
+年度报告 - 2021 | 远方,FlyingSky's Blog,https://blog.fsky7.com/archives/218/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2022-01-20,1642681260.0
+Rust 学习资源,萤火之森,http://frankorz.com/2022/01/18/rust-study-resource/,http://frankorz.com/,https://frankorz.com/atom.xml,2022-01-18,1642514504.0
+Kong 2.7 已经准备就绪！,把酒诗代码，趁乱写年华。,https://102no.com/2022/01/18/kong-2.7/,https://102no.com/,https://102no.com/atom.xml,2022-01-17,1642435200.0
+聊聊四元数与万向锁及其实际意义,云游君的小站,https://www.yunyoujun.cn/posts/quaternion-and-spatial-rotation,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2022-01-16,1642298352.0
+聊聊四元数与万向锁及其实际意义,云游君的小站,https://www.yunyoujun.cn/posts/quaternion-and-spatial-rotation/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2022-01-15,1642269552.0
+好久不见，又是新年,见字如面,https://hiwannz.com/archives/672,https://hiwannz.com,https://hiwannz.com/feed,2022-01-11,1641874158.0
+使用反射(reflect)对结构体赋值,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_01_10-reflect_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-10,1641772800.0
+钉钉日报机器人,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/751/,https://imba97.cn/,https://imba97.cn/atom.xml,2022-01-09,1641757616.0
+GIN 是如何绑定参数的,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_01_09-gin_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-09,1641686400.0
+【Mybatis系列】Mybatis入门,框架师,https://www.mobaijun.com/posts/2794875020.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-07,1641539424.0
+【Web系列】SpringBoot防护XSS攻击配置,框架师,https://www.mobaijun.com/posts/407876058.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-06,1641448654.0
+【工具系列】常用maven命令介绍,框架师,https://www.mobaijun.com/posts/3490035493.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641366238.0
+【工具系列】轻量级虚拟机Multipass使用教程,框架师,https://www.mobaijun.com/posts/3701652676.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641351409.0
+2021 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2021-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2022-01-03,1641168000.0
+2021 年度总结,4Ark × Blog,https://4ark.me/post/2021-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2022-01-01,1640995200.0
+留下了遗憾的 2021,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/750/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-12-31,1640995199.0
+你好 2022(2021 年终总结),Jiajun的编程随想,https://jiajunhuang.com/articles/2021_12_30-hello_2022.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-30,1640822400.0
+【工具系列】mvnd：maven全新构建插件，提高性能,框架师,https://www.mobaijun.com/posts/1982863623.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-29,1640745287.0
+【AWS】CloudFront免费CDN详细配置入门,Luminous' Home,https://luotianyi.vc/5994.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-12-28,1640696356.0
+Heroku 搭建 Onemanager,岚天小窝,https://blog.ltya.top/posts/onemanager-deploy-to-heroku.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2021-12-24,1640361600.0
+解决Ubuntu中的子进程usr bin dpkg返回错误代码1”错误,Frank笔记,https://frank2019.me/articles/2021/12/23/1640246647224.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-12-23,1640247031.0
+【Linux系列】Docker启动Nginx配置动静分离,框架师,https://www.mobaijun.com/posts/649017238.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-23,1640222875.0
+Log4j 漏洞，阿里躺枪,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/749/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-12-23,1640222528.0
+第三十年冬至,把酒诗代码，趁乱写年华。,https://102no.com/2021/12/21/30th-dongzhi/,https://102no.com/,https://102no.com/atom.xml,2021-12-20,1640016000.0
+Story Pts Vs Man Days,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20211208-story-pts-vs-man-days,https://teobler.com,https://teobler.com/rss.xml,2021-12-19,1639925280.0
+聊聊最近平淡的生活之看《神探狄仁杰》,Nicksxs's Blog,https://nicksxs.me/2021/12/19/%E8%81%8A%E8%81%8A%E6%9C%80%E8%BF%91%E5%B9%B3%E6%B7%A1%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B9%8B%E7%9C%8B%E3%80%8A%E7%A5%9E%E6%8E%A2%E7%8B%84%E4%BB%81%E6%9D%B0%E3%80%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-19,1639912701.0
+2022年中国经济政策解读,Frank笔记,https://frank2019.me/articles/2021/12/19/1639902756830.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-12-19,1639903237.0
+我太喜欢长沙了！,见字如面,https://hiwannz.com/archives/658,https://hiwannz.com,https://hiwannz.com/feed,2021-12-16,1639656868.0
+npm 存在的问题以及 pnpm 是怎么处理的,Yuexun's Blog,https://yuexunjiang.me/blog/problems-with-npm-and-how-pnpm-handles-them/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-12-13,1639353600.0
+聊聊 Sharding-Jdbc 的简单使用,Nicksxs's Blog,https://nicksxs.me/2021/12/12/%E8%81%8A%E8%81%8A-Sharding-Jdbc-%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-12,1639310283.0
+用Go导入大型CSV到PostgreSQL,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_12_11-go_copy_large_file_to_pg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-11,1639180800.0
+【Linux系列】Docker-Build在线地址错误异常解决,框架师,https://www.mobaijun.com/posts/1333172510.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-07,1638841099.0
+个人的时间是有限的,近视眼逛博客,https://blog.dtz9.com/2021/12/Individual-time-is-limited.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-12-06,1638804587.0
+一行 Object.keys() 引发的血案,4Ark × Blog,https://4ark.me/post/how-object-keys-work.html,https://4ark.me/,https://4ark.me/rss.xml,2021-12-06,1638748800.0
+聊聊部分公交车的设计bug,Nicksxs's Blog,https://nicksxs.me/2021/12/05/%E8%81%8A%E8%81%8A%E9%83%A8%E5%88%86%E5%85%AC%E4%BA%A4%E8%BD%A6%E7%9A%84%E8%AE%BE%E8%AE%A1bug/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-05,1638711438.0
+wordpress 忘记密码的一种解决方法,Nicksxs's Blog,https://nicksxs.me/2021/12/05/wordpress-%E5%BF%98%E8%AE%B0%E5%AF%86%E7%A0%81%E7%9A%84%E4%B8%80%E7%A7%8D%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-05,1638707458.0
+认真思考：钱多到根本花不完，真的快乐吗？,非理勿试,https://www.ntiy.com/1677.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-12-02,1638409641.0
+使用 OpenWRT 搭建软路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_12_01-openwrt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-01,1638316800.0
+【Linux系列】Telnet 命令使用和详解,框架师,https://www.mobaijun.com/posts/1235765571.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-11-29,1638152400.0
+Leetcode 053 最大子序和 ( Maximum Subarray ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2021/11/28/Leetcode-053-%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C-Maximum-Subarray-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-11-28,1638105103.0
+使用软KVM切换器 barrier 共享键鼠,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_11_26-use_barrier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-11-26,1637884800.0
+本站站点黑名单,沐云湘夕—求索,https://quest.myxxts.club/archives/115/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2021-11-23,1637671560.0
+产品驱动增长,见字如面,https://hiwannz.com/archives/654,https://hiwannz.com,https://hiwannz.com/feed,2021-11-22,1637581837.0
+VPS连接优化,Frank笔记,https://frank2019.me/articles/2021/11/22/1637553999818.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-11-22,1637554316.0
+聊聊最近平淡的生活之看看老剧,Nicksxs's Blog,https://nicksxs.me/2021/11/21/%E8%81%8A%E8%81%8A%E6%9C%80%E8%BF%91%E5%B9%B3%E6%B7%A1%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B9%8B%E7%9C%8B%E7%9C%8B%E8%80%81%E5%89%A7/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-11-21,1637509844.0
+《Go 语言设计与实现》纸质书预售了！,面向信仰编程,https://draveness.me//golang-book-release,https://draveness.me/,https://draveness.me/feed.xml,2021-11-20,1637366400.0
+Do Not Be Limited By Your Tech Stack,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20211119-do-not-be-limited-by-your-tech-stack,https://teobler.com,https://teobler.com/rss.xml,2021-11-19,1637318160.0
+二进制引发的思考,Frank笔记,https://frank2019.me/articles/2021/11/17/1637125523243.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-11-17,1637126182.0
+bsr-hepler 使用教程 - 信息回传,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/748/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-11-15,1637012100.0

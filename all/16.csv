@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
-回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
-回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
-通过阳台种菜实现蔬菜自由,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
-✳️ Vi/Vim使用备忘,qinxs小站,https://7bxing.com/posts/b04c6f46/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-10-23,1603435073.0
-从GORM里学习到的panic处理方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
-写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
-How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-18,1602993600.0
-记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
-记一次因 HSTS 导致跨域问题的经历,4Ark × Blog,https://4ark.me/posts/hsts-problem-solving-experience.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
-Go使用闭包简化数据库操作代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0
-Hugo系列(4) - 从Hexo迁移至Hugo以及使用LoveIt主题的踩坑记录,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-4.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-12,1602516495.0
-Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-3.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-11,1602393076.0
-Hugo系列(2) - 通过配置文件来定制个人站点,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-2.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-10,1602317338.0
-TCMalloc设计文档学习,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
-Understand Liveness and Fairness in TLA+,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-06-Understand-Liveness-and-Fairness-in-TLA.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-06,1601956800.0
-如果这还都还不算抄袭的话,ChrAlpha,https://blog.ichr.me/post/monologue-of-a-rubbish/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-05,1601937406.0
-博客新增公开笔记部分,萤火之森,http://frankorz.com/2020/10/03/add-note-section-to-blog/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-10-03,1601740410.0
-如何从 Valine 迁移至 Disqus,云游君的小站,https://www.yunyoujun.cn/posts/migrate-from-valine-to-disqus/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-03,1601708953.0
-九月总结,4Ark × Blog,https://4ark.me/post/d33db2d3.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-03,1601687752.0
-观测者：数据爬虫与处理，历史数据可视化视频与用户排名,FlyingSky's Blog,https://blog.fsky7.com/archives/167/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-10-02,1601651280.0
-写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-09-29,1601337600.0
-写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
-写给 VS Code 用户的 Vim 入坑指南,Ahonn's Blog,https://www.ahonn.me/blog/the-vim-guide-for-vs-code-users,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
-ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601292797.0
-Flask和requests做一个简单的请求代理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
-借助 Magisk 优化/个性化 Android 中文字体显示效果,ChrAlpha,https://blog.ichr.me/post/improve-android-font-style-with-magisk/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-09-25,1601064971.0
-Linux常用命令(四)：xargs,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_21-linux_cmd_xargs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-21,1600646400.0
-Linux常用命令(二)：htop,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_htop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
-Linux常用命令(三)：watch,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
-升级 IOS 14 的一些坑,4Ark × Blog,https://4ark.me/post/7b1778ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-09-19,1600529843.0
-【推荐】Hexo博客配置及源文件备份,qinxs小站,https://7bxing.com/posts/659688f7/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-19,1600519111.0
-Linux常用命令(一)：netcat,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600.0
-装修脑壳痛：家庭万兆光纤网络、智能家居,罗磊的独立博客,https://luolei.org/apartment-log-book-network/,https://luolei.org,https://luolei.org/feed/,2020-09-18,1600428621.0
-Aurora Database,Bin Wang - My Personal Blog,https://www.binwang.me/2020-09-16-Aurora-Database.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-09-16,1600228800.0
-结合Flask 与 marshmallow快速进行参数校验,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_16-flask_marshmallow.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-16,1600214400.0
-关于我打算当老师并报考教师资格证这件事,云游君的小站,https://www.yunyoujun.cn/diary/try-to-become-a-teacher/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-11,1599839963.0
-规整数据的重要性,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_10-form_check.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-10,1599696000.0
-「硬核JS」一次搞懂JS运行机制,qinxs小站,https://7bxing.com/posts/9c28944f/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-08,1599574555.0
-Deploy Matrix for Users in China,Bin Wang - My Personal Blog,https://www.binwang.me/2020-09-08-Build-An-Instant-Messaging-System-without-Censorship-Deployment-Options.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-09-08,1599537600.0
-Hugo系列(1) - 简单搭建教程与远程部署,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-1.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-09-06,1599397847.0
-apt安装特定包以及忽略升级某个包,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_05-apt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-05,1599264000.0
-An Overview of China’s Internet Censorship Strategy,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-29-Build-An-Instant_Messaging-System-without-Censorship-Choose-An-Overview-of-Chinese-Internet-Censorship-Strategy.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-29,1598673600.0
-Strato - Hexo 主题「Yun」版本宣传 PV,云游君的小站,https://www.yunyoujun.cn/share/hexo-theme-yun-strato/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-28,1598623200.0
-八月总结,4Ark × Blog,https://4ark.me/post/f05d518.html,https://4ark.me/,https://4ark.me/rss.xml,2020-08-28,1598573148.0
-《八佰》观后感,4Ark,https://4ark.me/posts/ba-bai-review/,https://4ark.me/,https://4ark.me/rss.xml,2020-08-28,1598573025.0
-【装修日记：10月1日更新】：松山没有湖:，东莞三房装修 | 长期记录,罗磊的独立博客,https://luolei.org/new-apartment-log-book/,https://luolei.org,https://luolei.org/feed/,2020-08-27,1598506672.0
-2016美国总统候选人辩论,qinxs小站,https://7bxing.com/posts/52bf0210/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-08-27,1598503361.0
-StackGuard的作用,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-stackguard.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
-Goroutine是如何处理栈的？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
+位枚举,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/747/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-10-17,1634510616.0
+聊一下 RocketMQ 的消息存储四,Nicksxs's Blog,https://nicksxs.me/2021/10/17/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E6%B6%88%E6%81%AF%E5%AD%98%E5%82%A8%E5%9B%9B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-17,1634474494.0
+我为什么又更换了博客域名,近视眼逛博客,https://blog.dtz9.com/2021/10/Why-did-I-change-my-blog-domain-name-again.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-10-16,1634373720.0
+Hax 的免费 IPv6 小鸡服务器,岚天小窝,https://blog.ltya.top/posts/hax-vps.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2021-10-15,1634313600.0
+QQ群会员彩色昵称代码,DearXuan的主页,https://blog.dearxuan.com/2021/10/15/QQ%E7%BE%A4%E4%BC%9A%E5%91%98%E5%BD%A9%E8%89%B2%E6%98%B5%E7%A7%B0%E4%BB%A3%E7%A0%81/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-15,1634311920.0
+人工智能基础-路径规划,DearXuan的主页,https://blog.dearxuan.com/2021/10/15/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-15,1634295000.0
+你是否也为国内软件环境担忧,LonelyGod,https://hin.cool/posts/pmsp.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-14,1634252400.0
+计算机网络基础,Yulin Lewis' Blog,https://lewky.cn/posts/network/,https://lewky.cn/,https://lewky.cn/index.xml,2021-10-14,1634218117.0
+Java正则表达式问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/java-regex-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-10-14,1634218007.0
+人工智能基础-图论初步,DearXuan的主页,https://blog.dearxuan.com/2021/10/14/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E5%9B%BE%E8%AE%BA%E5%88%9D%E6%AD%A5/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-14,1634202480.0
+如何解决时间焦虑？,冰哥笔记,https://www.bgbiji.com/830.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-10-14,1634194155.0
+【转载】黄国平博士[致谢]完整版，人生失去动力的时候读一读,框架师,https://www.mobaijun.com/posts/294529322.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-14,1634181533.0
+别花费太多时间回答客户的问题,见字如面,https://hiwannz.com/archives/635,https://hiwannz.com,https://hiwannz.com/feed,2021-10-13,1634092884.0
+fonts.googleapis.com访问较慢[已解决],cywhat's blog,https://cywhat.cn/fonts-googleapis-com%E8%AE%BF%E9%97%AE%E8%BE%83%E6%85%A2-%E5%B7%B2%E8%A7%A3%E5%86%B3/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-10-12,1634062472.0
+【DB系列】SpringBoot实现MySQL数据库备份与还原,框架师,https://www.mobaijun.com/posts/2334558877.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-12,1634023174.0
+使用 gomock 测试 Go 代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_10_12-go_mock.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-12,1633996800.0
+Twitch承认遭受攻击，源码泄露,LonelyGod,https://hin.cool/posts/twitchacked.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-11,1633986000.0
+MySQL问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mysql-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-10-11,1633968241.0
+UWP ListView数据绑定,DearXuan的主页,https://blog.dearxuan.com/2021/10/11/UWP-ListView%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-11,1633952940.0
+Git 仓库体积过大，缩减记录,框架师,https://www.mobaijun.com/posts/2432586935.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-11,1633917948.0
+gevent不是黑魔法(二): gevent 实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_10_11-gevent_is_good_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-11,1633910400.0
+重看了下《蛮荒记》说说感受,Nicksxs's Blog,https://nicksxs.me/2021/10/10/%E9%87%8D%E7%9C%8B%E4%BA%86%E4%B8%8B%E3%80%8A%E8%9B%AE%E8%8D%92%E8%AE%B0%E3%80%8B%E8%AF%B4%E8%AF%B4%E6%84%9F%E5%8F%97/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-10,1633869863.0
+Linux中的Free命令详解,框架师,https://www.mobaijun.com/posts/386444203.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-09,1633764874.0
+UWP Brush画笔详解,DearXuan的主页,https://blog.dearxuan.com/2021/10/08/UWP-Brush%E7%94%BB%E7%AC%94%E8%AF%A6%E8%A7%A3/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-08,1633699740.0
+如果你要在节后快速找回工作状态，不妨试试这7个方法,冰哥笔记,https://www.bgbiji.com/829.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-10-08,1633680102.0
+Leetcode 021 合并两个有序链表 ( Merge Two Sorted Lists ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2021/10/07/Leetcode-021-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8-Merge-Two-Sorted-Lists-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-07,1633618996.0
+UWP编程基础,DearXuan的主页,https://blog.dearxuan.com/2021/10/05/UWP%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-05,1633423440.0
+重建旧宅，死了人——无常的日常,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/rebuild-the-old-house.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-10-04,1633344360.0
+收到一位博主的红包,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/red-envelope-and-saveweb.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-10-03,1633286160.0
+聊一下 RocketMQ 的消息存储三,Nicksxs's Blog,https://nicksxs.me/2021/10/03/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E6%B6%88%E6%81%AF%E5%AD%98%E5%82%A8%E4%B8%89/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-03,1633263457.0
+谈谈服务器安全,瓦解的生活记事,https://www.hin.cool/posts/serversec.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-10-03,1633219200.0
+谈谈服务器安全,LonelyGod,https://hin.cool/posts/serversec.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-03,1633219200.0
+提升程序的逼格：添加自动更新功能,Thrower的博客,https://thrower.cc/2021/addupdatertoprogram/,https://thrower.cc,https://thrower.cc/feed/,2021-10-01,1633076640.0
+avn自动切换node版本,cywhat's blog,https://cywhat.cn/avn%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2node%E7%89%88%E6%9C%AC/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-29,1632936213.0
+gevent不是黑魔法(一): greenlet 实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_29-gevent_is_good_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-29,1632873600.0
+日喀则扎什伦布寺,无妄当自持,https://www.insidentally.com/articles/000018/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-09-28,1632819348.0
+[转载] 风声鹤唳,Frank笔记,https://frank2019.me/articles/2021/09/28/1632806116085.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-09-28,1632806116.0
+Spring Data MongoDB问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-data-mongodb/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-27,1632756442.0
+GTO策略简化理解,Frank笔记,https://frank2019.me/articles/2021/09/27/1632719482026.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-09-27,1632719482.0
+时代的尘埃对百姓来说就是一座大山,Frank笔记,https://frank2019.me/articles/2021/09/27/1632708476666.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-09-27,1632714370.0
+聊一下 SpringBoot 中动态切换数据源的方法,Nicksxs's Blog,https://nicksxs.me/2021/09/26/%E8%81%8A%E4%B8%80%E4%B8%8B-SpringBoot-%E4%B8%AD%E5%8A%A8%E6%80%81%E5%88%87%E6%8D%A2%E6%95%B0%E6%8D%AE%E6%BA%90%E7%9A%84%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-09-26,1632649309.0
+MySQL数据库备份与恢复-使用MySQLDump记录,框架师,https://www.mobaijun.com/posts/2902111757.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-26,1632642935.0
+从零开始写一个 Web Component - GitHub Corners,云游君的小站,https://www.yunyoujun.cn/posts/how-to-write-a-web-component/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-09-25,1632565657.0
+花呗,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/ant-huabei.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-09-25,1632545040.0
+Django中的form表单校验,cywhat's blog,https://cywhat.cn/Django%E4%B8%AD%E7%9A%84form%E8%A1%A8%E5%8D%95%E6%A0%A1%E9%AA%8C/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-24,1632507637.0
+hexo迁移需要进行安装的一些依赖,cywhat's blog,https://cywhat.cn/hexo%E8%BF%81%E7%A7%BB%E9%9C%80%E8%A6%81%E8%BF%9B%E8%A1%8C%E5%AE%89%E8%A3%85%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BE%9D%E8%B5%96/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-24,1632505902.0
+“做得好”重要，还是“做得快”更重要？,见字如面,https://hiwannz.com/archives/629,https://hiwannz.com,https://hiwannz.com/feed,2021-09-24,1632466017.0
+ERROR: Re-run SonarScanner using the -X switch to enable full debug logging.,cywhat's blog,https://cywhat.cn/ERROR-Re-run-SonarScanner-using-the-X-switch-to-enable-full-debug-logging/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-23,1632396317.0
+常用Git命令清单,框架师,https://www.mobaijun.com/posts/119849249.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-23,1632363221.0
+Linux搭建sonarqube,cywhat's blog,https://cywhat.cn/Linux%E6%90%AD%E5%BB%BAsonarqube/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-22,1632328547.0

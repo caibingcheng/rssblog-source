@@ -1,8 +1,24 @@
 title,author,link,home,rss,date,timestamp
-【工具系列】Maven私服搭建,框架师,https://www.mobaijun.com/posts/3514918103.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-18,1652858912.0
-【WEB系列】高版本SpringBoot整合Swagger启动异常问题,框架师,https://www.mobaijun.com/posts/3051425539.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-13,1652412738.0
-【Linux系列】将Docker容器设为自启动和取消容器自启动,框架师,https://www.mobaijun.com/posts/3024480743.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-05,1651719941.0
-【WEB系列】SpringBootStarter-组件化开发,框架师,https://www.mobaijun.com/posts/1232000011.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-28,1651141156.0
+【转载】一把梭：REST API 全用 POST,框架師,https://www.mobaijun.com/posts/2822068467.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-12-15,1671086238.0
+【工具系列】为你的项目制作 Shields 徽章,框架師,https://www.mobaijun.com/posts/1801508789.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-11-24,1669253613.0
+【随笔】java.lang.ClassNotFoundException 异常解决及思路,框架師,https://www.mobaijun.com/posts/2375159405.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-11-09,1667974546.0
+【随笔】npm- 更新所有依赖包,框架師,https://www.mobaijun.com/posts/3252980443.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-10-17,1665984571.0
+【随笔】Maven 中 dependencyManagement 标签作用说明,框架師,https://www.mobaijun.com/posts/2616135476.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-10-10,1665362650.0
+【部署】SpringBoot 项目打包为 Docker Images 并上传到 Docker Hub,框架師,https://www.mobaijun.com/posts/921109798.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-08-29,1661743009.0
+【DB 系列】基于 Docker 的 MySQL 主从复制搭建和配置,框架師,https://www.mobaijun.com/posts/572796845.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-08-18,1660785703.0
+【随笔】一个自动抓取 4K 壁纸小程序,框架師,https://www.mobaijun.com/posts/2413351491.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-08-12,1660288851.0
+【随笔】一些可用的 Google 搜索镜像站,框架師,https://www.mobaijun.com/posts/3724043932.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-08-08,1659921404.0
+【MySQL 系列】冷门 SQL 整理,框架師,https://www.mobaijun.com/posts/970409657.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-28,1658976177.0
+【MySQL 系列】MySQL 按照当前年月周日统计数据,框架師,https://www.mobaijun.com/posts/4014467466.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-27,1658903822.0
+【工具系列】Hexo 插件给中英文之间加空格,框架師,https://www.mobaijun.com/posts/267676524.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-26,1658815229.0
+【工具系列】Git 实用技巧 - 克隆巨大代码仓库,框架師,https://www.mobaijun.com/posts/1795299685.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-21,1658396077.0
+【工具系列】Nacos 配置 MySQL 数据库,框架師,https://www.mobaijun.com/posts/2021021572.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-14,1657759940.0
+【工具系列】Git 提交隐私内容到远程处理,框架師,https://www.mobaijun.com/posts/1088389935.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-06-13,1655091082.0
+【工具系列】Maven 私服搭建,框架師,https://www.mobaijun.com/posts/3514918103.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-18,1652858912.0
+【WEB 系列】高版本 SpringBoot 整合 Swagger 启动异常问题,框架師,https://www.mobaijun.com/posts/3051425539.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-13,1652412738.0
+【Linux 系列】将 Docker 容器设为自启动和取消容器自启动,框架師,https://www.mobaijun.com/posts/3024480743.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-05,1651719941.0
+【WEB 系列】SpringBootStarter- 组件化开发,框架師,https://www.mobaijun.com/posts/1232000011.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-28,1651141156.0
+【后端】MapStruct 使用详解,框架師,https://www.mobaijun.com/posts/239252401.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-20,1650447800.0
 【工具系列】Idea 远程调试服务器 Jar 包,框架师,https://www.mobaijun.com/posts/55789149.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-13,1649846866.0
 【工具系列】服务器搭建一个自用网盘Zpan,框架师,https://www.mobaijun.com/posts/3473890439.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-03-05,1646449823.0
 【工具系列】Windows包管理工具Scoop安装及使用,框架师,https://www.mobaijun.com/posts/908521329.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-03-02,1646223740.0
@@ -33,15 +49,3 @@ Ubuntu 20.04.2 LTS Server版本设置静态IP地址,框架师,https://www.mobaij
 SpringBoot监控工具之《Actuator》,框架师,https://www.mobaijun.com/posts/283491354.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-05,1628127593.0
 SpringBoot异步任务记录,框架师,https://www.mobaijun.com/posts/4255110274.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-02,1627891678.0
 SpringBoot数据库（URL）参数记录,框架师,https://www.mobaijun.com/posts/2403615121.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-07-19,1626664718.0
-SpringBoot跨域及后端解决方案,框架师,https://www.mobaijun.com/posts/2298002216.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-07-07,1625622396.0
-Linux-MySQL数据备份和定时清理,框架师,https://www.mobaijun.com/posts/619134598.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-06-29,1624933078.0
-MySQL远程连接失败(错误码:2003),框架师,https://www.mobaijun.com/posts/3639136044.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-05-24,1621840240.0
-JavaSe-网络编程,框架师,https://www.mobaijun.com/posts/1483848703.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-26,1619424035.0
-Nginx,框架师,https://www.mobaijun.com/posts/1706463495.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-14,1618384093.0
-常用DOS命令汇总,框架师,https://www.mobaijun.com/posts/567653050.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-02-20,1613789085.0
-Node.js更换国内源,框架师,https://www.mobaijun.com/posts/3059858801.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-02-02,1612254603.0
-SpringBoot集成Mybatis-Plus,框架师,https://www.mobaijun.com/posts/183863717.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-26,1611655824.0
-服务器相关知识记录,框架师,https://www.mobaijun.com/posts/361637157.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-22,1611309513.0
-SpringBoot2.3整合InfluxDB实现增删查,框架师,https://www.mobaijun.com/posts/1092756891.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-20,1611123302.0
-SpringBoot实现邮件发送,框架师,https://www.mobaijun.com/posts/265470177.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-13,1610533373.0
-正确的使用搜索引擎,框架师,https://www.mobaijun.com/posts/2845351032.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-11,1610359269.0

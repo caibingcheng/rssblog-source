@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-使用Gitea+Drone打造自己的CI/CD系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_01-use_gitea_with_drone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-01,1577836800.0
-2019 年终总结：慢慢变成别人眼中「食古不化」的「怪人」,Randy's Blog,https://lutaonan.com/blog/2019-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-01,1577836800.0
-年度简报 - 2019 | 拾光,FlyingSky's Blog,https://blog.fsky7.com/archives/71/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-12-31,1577808000.0
-2019年就要结束啦！,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_31-hello_2020.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-31,1577750400.0
-2019 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2019-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
-RE: 2019 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2019-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
-RE: 2019 年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2019-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
-为什么要使用gRPC？,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_27-why_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-27,1577404800.0
-为了你爱的人，读一读《非暴力沟通》,Randy's Blog,https://lutaonan.com/blog/nonviolent-communication/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-12-25,1577232000.0
-Matebook X Pro 2019安装Debian 10,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_24-matebook_x_pro_2019_debian_10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-24,1577145600.0
-ArchLinux忽略某个包的升级,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_22-archlinux_ignore_pkg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-22,1576972800.0
-优化 Google Analytics 使用体验——借助 Cloudflare Workers 或其他,ChrAlpha,https://blog.ichr.me/post/optimize-google-analytics/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-12-21,1576946810.0
-How to style RSS feed,Just lepture,https://lepture.com/en/2019/rss-style-with-xsl,https://lepture.com/,https://lepture.com/feed.xml,2019-12-21,1576916648.0
-SQLAlchemy使用主从与数据库autocommit,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_21-autocommit.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-21,1576886400.0
-Blackbox禁用IPv6,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_19-blackbox_disable_ipv6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-19,1576713600.0
-预防缓存击穿,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_18-cache_miss.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
-Go 1.13的errors挺香,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_18-golang_133_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
-flutter开发体验汇报,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_16-flutter_dev.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-16,1576454400.0
-录翻唱需要哪些设备,Randy's Blog,https://lutaonan.com/blog/how-to-record-cover/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-12-15,1576368000.0
-百度网盘视频倍速播放的方法,ChrAlpha,https://blog.ichr.me/post/video-double-speed-playback-methods/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-12-14,1576339049.0
-自己封装一个好用的Dart HTTP库,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_13-dart_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-13,1576195200.0
-Flutter应用启动后检查更新,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_11-flutter_do_sth_after_boot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-11,1576022400.0
-Grafana Gravatar头像显示bug修复,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_10-grafana_gravatar_http_hijack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-10,1575936000.0
-flutter中使用RESTful接口,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_09-dart_flutter_json.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-09,1575849600.0
-2019 年的收获与成长,萤火之森,http://frankorz.com/2019/12/04/2019-year-end-summary/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-12-04,1575456618.0
-Vim YouCompleteMe使用LSP(以dart为例),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_04-ycm_lsp_dart.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-04,1575417600.0
-flutter webview加载时显示进度,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_03-flutter_webview_indicator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-03,1575331200.0
-SQLAlchemy快速更新或插入对象,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_02-sqlalchemy_update_or_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-02,1575244800.0
-为网站添加 dark mode 支持,Ahonn's Blog,https://www.ahonn.me/blog/add-dark-mode-support-to-your-website,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
-为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
-为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
-修复Linux下curl等无法使用letsencrypt证书,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_26-lets_encrypt_linux_shell.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-26,1574726400.0
-欣赏一下K&R两位大神的代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_24-code_from_k_and_r.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-24,1574553600.0
-MySQL的ON DUPLICATE KEY UPDATE语句,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_19-mysql_duplicate_key_update.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-19,1574121600.0
-使用microk8s快速搭建k8s,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_17-microk8s.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-17,1573948800.0
-Python中优雅的处理文件路径,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_15-python_pathlib_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-15,1573776000.0
-PostgreSQL - 如何杀死被锁死的进程,雨临Lewis,https://lewky.cn/posts/1514292e.html/,https://lewky.cn/,https://lewky.cn/index.xml,2019-11-14,1573745069.0
-Go语言MySQL时区问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_14-golang_mysql_timezone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-14,1573689600.0
-我的技术栈选型,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_13-tech_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-13,1573603200.0
-博客改版及 Tailwind CSS 实践,Randy's Blog,https://lutaonan.com/blog/what-is-tailwindcss-and-how-did-i-apply-it-on-my-blog/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-12,1573516800.0
-为什么我要用Linux作为桌面？,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_11-why_linux_as_desktop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-11,1573430400.0
-disqus获取评论时忽略query string,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_08-disqus_thread_identifier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-08,1573171200.0
-MySQL性能优化指南,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_06-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-06,1572998400.0
-来自 2014 年给未来的我的一封信,Randy's Blog,https://lutaonan.com/blog/letter-from-few-years-ago/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-05,1572912000.0
-为什么无法坚持写博客,Randy's Blog,https://lutaonan.com/blog/reason-why-your-blog-is-not-alive/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-05,1572912000.0
-网络编程所需要熟悉的那些函数,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_01-network_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-01,1572566400.0
-DNSCrypt简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_10_31-dnscrypt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-31,1572480000.0
-如何实现一个 Babel Macros,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-a-babel-macros/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
-SQLAlchemy简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_10_30-sqlalchemy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-30,1572393600.0
-如何实现一个 Babel Macros,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-a-babel-macros,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
+开着特斯拉从广州到苏州的小记,Randy's Blog,https://lutaonan.com/blog/trip-from-guangzhou-to-suzhou/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-07-20,1626739200.0
+博文聚合站-RSSBlog,BBing's Blog,https://bbing.com.cn/202107/rss-rssblog/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-07-19,1626699080.0
+PVZ逆向分析与C#内存操作(含源文件),DearXuan的主页,https://blog.dearxuan.com/2021/07/19/PVZ%E9%80%86%E5%90%91%E5%88%86%E6%9E%90%E4%B8%8EC-%E5%86%85%E5%AD%98%E6%93%8D%E4%BD%9C/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-19,1626692580.0
+建立与他人的连接,见字如面,https://hiwannz.com/archives/564,https://hiwannz.com,https://hiwannz.com/feed,2021-07-19,1626680297.0
+SpringBoot数据库（URL）参数记录,框架师,https://www.mobaijun.com/posts/2403615121.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-07-19,1626664718.0
+C#序列化对象的二进制储存方法及底层原理研究,DearXuan的主页,https://blog.dearxuan.com/2021/07/19/C-%E5%BA%8F%E5%88%97%E5%8C%96%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%82%A8%E5%AD%98%E6%96%B9%E6%B3%95%E5%8F%8A%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%E7%A0%94%E7%A9%B6/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-19,1626659700.0
+下班直接提车「爱玛 雷拉Q312」,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/pick-up-the-car-after-work.html,https://zmmio.com/,https://zmmio.com/feed,2021-07-18,1626622320.0
+正则表达式,qinxs小站,https://7bxing.com/posts/2f57a694/,https://7bxing.com/,https://7bxing.com/atom.xml,2021-07-18,1626621000.0
+2021 年中总结,Nicksxs's Blog,https://nicksxs.me/2021/07/18/2021-%E5%B9%B4%E4%B8%AD%E6%80%BB%E7%BB%93/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-07-18,1626614140.0
+想买「电动车」了,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/i-want-to-buy-an-electric-car.html,https://zmmio.com/,https://zmmio.com/feed,2021-07-18,1626595063.0
+关于我打算当老师并报考教师资格证这件事,云游君的小站,https://www.yunyoujun.cn/posts/try-to-become-a-teacher,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-07-16,1626479963.0
+【杂谈】UCloud云与轻量：个人网站的对比选择,Luminous' Home,https://luotianyi.vc/5759.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-07-16,1626439420.0
+生日快乐，徐雁冰先生,冰哥笔记,https://www.bgbiji.com/802.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-16,1626405392.0
+vue-router 源码解析,4Ark,https://4ark.me/post/vue-router-score-code/,https://4ark.me/,https://4ark.me/rss.xml,2021-07-16,1626393600.0
+程序员可能必读书单推荐（一）,面向信仰编程,https://draveness.me//books-1,https://draveness.me/,https://draveness.me/feed.xml,2021-07-16,1626393600.0
+vue-router 源码解析,4Ark × Blog,https://4ark.me/post/vue-router-score-code.html,https://4ark.me/,https://4ark.me/rss.xml,2021-07-16,1626393600.0
+composition-api 源码解析,4Ark,https://4ark.me/post/composition-api-score-code/,https://4ark.me/,https://4ark.me/rss.xml,2021-07-15,1626307200.0
+composition-api 源码解析,4Ark × Blog,https://4ark.me/post/composition-api-score-code.html,https://4ark.me/,https://4ark.me/rss.xml,2021-07-15,1626307200.0
+vuex 源码解析,4Ark × Blog,https://4ark.me/post/vuex-score-code.html,https://4ark.me/,https://4ark.me/rss.xml,2021-07-15,1626307200.0
+vuex 源码解析,4Ark,https://4ark.me/post/vuex-score-code/,https://4ark.me/,https://4ark.me/rss.xml,2021-07-15,1626307200.0
+教你如何从零开始搭建一个属于自己的网站,云游君的小站,https://www.yunyoujun.cn/posts/how-to-build-your-site,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-07-14,1626280260.0
+养鱼的意外「惊喜」和「悲剧」,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/unexpected-surprise-and-tragedy-of-fish-culture.html,https://zmmio.com/,https://zmmio.com/feed,2021-07-14,1626275243.0
+C#实现简易XML阅读器(含源文件和exe文件),DearXuan的主页,https://blog.dearxuan.com/2021/07/14/C-%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93XML%E9%98%85%E8%AF%BB%E5%99%A8/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-14,1626267660.0
+C#编写代理验证工具（WinForm）,Thrower的博客,https://thrower.cc/2021/csharpproxyvalidator/,https://thrower.cc,https://thrower.cc/feed/,2021-07-14,1626266324.0
+2021下半年，我的个人书单推荐,冰哥笔记,https://www.bgbiji.com/801.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-14,1626227098.0
+10本 Excel 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/07/14/10-excel-books/,https://102no.com/,https://102no.com/atom.xml,2021-07-13,1626192000.0
+利用RSA加密实现的简易离线验证功能(C#，含代码),DearXuan的主页,https://blog.dearxuan.com/2021/07/13/%E5%88%A9%E7%94%A8RSA%E5%8A%A0%E5%AF%86%E5%AE%9E%E7%8E%B0%E7%9A%84%E7%AE%80%E6%98%93%E7%A6%BB%E7%BA%BF%E9%AA%8C%E8%AF%81%E5%8A%9F%E8%83%BD/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-13,1626184920.0
+沿途的风景,近视眼逛博客,https://blog.dtz9.com/2021/07/Views-along-the-way.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-07-12,1626105420.0
+如何提高缓存系统的内存利用率和可扩展性 · NSDI '21,面向信仰编程,https://draveness.me//papers-segcache,https://draveness.me/,https://draveness.me/feed.xml,2021-07-12,1626048000.0
+养了点「小鱼」,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/a-little-bit.html,https://zmmio.com/,https://zmmio.com/feed,2021-07-11,1626046758.0
+聊聊 SpringBoot 自动装配,Nicksxs's Blog,https://nicksxs.me/2021/07/11/%E8%81%8A%E8%81%8ASpringBoot-%E8%87%AA%E5%8A%A8%E8%A3%85%E9%85%8D/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-07-11,1626015690.0
+DFA算法-简易Java敏感词过滤(含源文件和上万敏感词列表),DearXuan的主页,https://blog.dearxuan.com/2021/07/11/DFA%E7%AE%97%E6%B3%95-%E7%AE%80%E6%98%93Java%E6%95%8F%E6%84%9F%E8%AF%8D%E8%BF%87%E6%BB%A4/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-11,1626014340.0
+理性分析滴滴下架背后的原因,Frank笔记,https://frank2019.me/articles/2021/07/11/1625998140950.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-07-11,1625998589.0
+由各大高校运营的 LGBT 相关公众号被“未命名”事件引发的讨论,非理勿试,https://www.ntiy.com/1579.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-07-10,1625889212.0
+7月10日 - 自言自语,近视眼逛博客,https://blog.dtz9.com/2021/07/July-10.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-07-09,1625849280.0
+Swagger问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/swagger-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-07-09,1625845748.0
+【2021】BMLVR直播洛天依演出部分,Luminous' Home,https://luotianyi.vc/5756.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-07-09,1625829748.0
+新建了个站点 「壹格博客」资源站,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/new-site.html,https://zmmio.com/,https://zmmio.com/feed,2021-07-09,1625816824.0
+用闲置的安卓手机做垃圾电话短信过滤,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_07_09-filter_your_call_and_sms.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-07-09,1625788800.0
+第三方微博客户端Share宣布停止维护更新,瓦解的生活记事,https://www.hin.cool/posts/weiboshare.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-07-09,1625788800.0
+第三方微博客户端Share宣布停止维护更新,LonelyGod,https://hin.cool/posts/weiboshare.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-07-09,1625788800.0
+第三方评论系统之我见,云游君的小站,https://www.yunyoujun.cn/posts/third-party-comment-system,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-07-08,1625751040.0
+图文无关,近视眼逛博客,https://blog.dtz9.com/2021/07/The-picture-is-not-related.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-07-08,1625738280.0
+Win11会重蹈覆辙？,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/win11-will-failure.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-07-07,1625684700.0
+Explore React The First Part,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210707-explore-react-18-the-first-part,https://teobler.com,https://teobler.com/rss.xml,2021-07-07,1625668860.0
+SpringBoot跨域及后端解决方案,框架师,https://www.mobaijun.com/posts/2298002216.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-07-07,1625622396.0
+TypeScript 浏览器插件开发,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/744/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-07-06,1625604050.0
+毕业,Frank笔记,https://frank2019.me/articles/2021/07/06/1625555756749.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-07-06,1625555756.0
+C++类的内存分布(二),BBing's Blog,https://bbing.com.cn/202107/cpp-class-mem2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-07-06,1625537086.0
+我还有这一腔孤勇,瓦解的生活记事,https://www.hin.cool/posts/myeses.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-07-06,1625529600.0

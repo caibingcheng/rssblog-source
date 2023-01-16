@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-[CloudMare] Android上管理Cloudflare的小工具,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/cloudmare-app.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-01-10,1610298060.0
-2020 年终总结,Randy's Blog,https://lutaonan.com/blog/2020-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-10,1610236800.0
-deeplink结合路由处理扩展App的能力,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_03-deeplink_server_route.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
-怎么使用ViewModel 和 RecyclerView,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_03-recycler_list_view_model.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
-『给RSS爱好者们的一封信』为什么我们应该提高RSS刷新间隔？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/rss-refresh.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-01-02,1609578180.0
-Android手动挡MVVM,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_02-android_mvvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-02,1609545600.0
-2020 年度总结,4Ark × Blog,https://4ark.me/posts/2020-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
-2020 年度总结,4Ark,https://4ark.me/posts/2020-summary/,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
-年度简报 - 2020 | 等待,FlyingSky's Blog,https://blog.fsky7.com/archives/175/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-12-31,1609430400.0
-2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
-二〇二〇年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
-二〇二〇年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2020-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
-用 Code Snippet 提高开发效率,Randy's Blog,https://lutaonan.com/blog/how-to-use-code-snippets/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-12-25,1608854400.0
-来电拦截方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_23-call_screening.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-23,1608681600.0
-你好，2021！,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_22-hello_2021.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-22,1608595200.0
-常用Git相关命令行,沐云湘夕—求索,https://quest.myxxts.club/archives/28/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608441060.0
-必应每日壁纸（刷新更换）,沐云湘夕—求索,https://quest.myxxts.club/archives/25/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608440340.0
-gRPC鉴权方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_19-grpc_authentication.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-19,1608336000.0
-站点通知,沐云湘夕,https://quest.myxxts.club/archives/15/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-17,1608218940.0
-Golang里数据库migration方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800.0
-Redis Implementation for Cache and Database Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-12-14-Redis-Implementation-for-Cache-and-Database-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-12-14,1607922000.0
-Android SwipeRefreshLayout左右滑动冲突的解决,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_12-android_swiperefresh_swipe_left_right.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-12,1607731200.0
-Android调用gRPC的两个小工具函数,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_07-android_kotlin_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-07,1607299200.0
-程序員與文學衝突,Just lepture,https://lepture.com/zh/2020/tweet-yuan,https://lepture.com/,https://lepture.com/feed.xml,2020-12-06,1607235718.0
-Android上结合kotlin使用coroutine,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_01-android_kotlin_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-01,1606780800.0
-Mac 上配置 MNMP 环境,4Ark × Blog,https://4ark.me/post/41f45ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-30,1606772294.0
-光速叛逃！——将网站部署至 Cloudflare Workers Site 上,ChrAlpha,https://blog.ichr.me/post/cf-workers-site-deploy/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-11-29,1606691982.0
-Undefined,FlyingSky's Blog,https://blog.fsky7.com/archives/173/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-11-29,1606629540.0
-Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-29-Keep-Data-Consistency-During-Database-Migration.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-29,1606626000.0
-旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,https://luolei.org/pamu-quiet/,https://luolei.org,https://luolei.org/feed/,2020-11-26,1606398780.0
-gRPC错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_26-grpc_error_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-26,1606348800.0
-从 Vite 与 Vue 开始的 D3 数据可视化之旅,云游君的小站,https://www.yunyoujun.cn/posts/vue-d3-demo/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-21,1605959769.0
-这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯,罗磊的独立博客,https://luolei.org/warsun-portable-y40-led-light/,https://luolei.org,https://luolei.org/feed/,2020-11-20,1605876282.0
-老鞋续命，我给一双穿了5年的沙漠靴修鞋底,罗磊的独立博客,https://luolei.org/clarks-desert-boot-resole/,https://luolei.org,https://luolei.org/feed/,2020-11-17,1605622348.0
-带老婆去华强北买 iPhone 12 手机壳,罗磊的独立博客,https://luolei.org/iphone-shell-supermarket/,https://luolei.org,https://luolei.org/feed/,2020-11-14,1605326464.0
-Java collection的结构,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_13-java_colletions.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-13,1605225600.0
-如何找到你朋友的社交账号,云游君的小站,https://www.yunyoujun.cn/posts/find-npy-social-account/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-12,1605152798.0
-为什么 Linux 需要 Swapping,面向信仰编程,https://draveness.me//whys-the-design-linux-swapping,https://draveness.me/,https://draveness.me/feed.xml,2020-11-10,1604966400.0
-DNS Resolving Bug in iOS 14,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-08-DNS-Resolving-Bug-in-iOS-14.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-08,1604811600.0
-十月总结,4Ark × Blog,https://4ark.me/post/edb9a744.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-03,1604440173.0
-Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-02-Use-TLA+-to-Verify-Cache-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-02,1604293200.0
-为啥Redis使用pipelining会更快？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
-Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
-回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
-回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
-通过阳台种菜实现蔬菜自由,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
-从GORM里学习到的panic处理方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
-写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
-How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-18,1602993600.0
-记一次因 HSTS 导致跨域问题的经历,4Ark × Blog,https://4ark.me/posts/hsts-problem-solving-experience.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
+Micro Front End Splitting In Practice,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210913-micro-front-end-splitting-in-practice,https://teobler.com,https://teobler.com/rss.xml,2021-09-13,1631538360.0
+从0到100公里，从长跑废人到跑者，我的行动与收获,冰哥笔记,https://www.bgbiji.com/826.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-09-13,1631534122.0
+聊一下 RocketMQ 的消息存储二,Nicksxs's Blog,https://nicksxs.me/2021/09/12/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E6%B6%88%E6%81%AF%E5%AD%98%E5%82%A8%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-09-12,1631450958.0
+JSDoc 让JS有类型约束,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/746/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-09-10,1631306713.0
+文老师，教师节快乐,非理勿试,https://www.ntiy.com/1652.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-09-10,1631244244.0
+转载|漫画｜面试焦虑？滚开！,框架师,https://www.mobaijun.com/posts/244631694.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-08,1631089299.0
+看起来越来越简单、设计起来却越来越难的 LOGO,非理勿试,https://www.ntiy.com/1648.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-09-07,1631004200.0
+技术博客相关公告,沐云湘夕,https://quest.myxxts.club/archives/109/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2021-09-06,1630934780.0
+用 entgo 替代 gorm,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_06-use_entgo.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-06,1630886400.0
+旋转吧！徽章！,云游君的小站,https://www.yunyoujun.cn/posts/how-to-realize-badge-rotation/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-09-05,1630849571.0
+聊一下 RocketMQ 的消息存储之 MMAP,Nicksxs's Blog,https://nicksxs.me/2021/09/04/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E6%B6%88%E6%81%AF%E5%AD%98%E5%82%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-09-04,1630722581.0
+一场深刻的变革,Frank笔记,https://frank2019.me/articles/2021/09/02/1630575328637.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-09-02,1630596336.0
+应用内使用crontab不是那么方便,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_01-cron_is_not_convenient.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-01,1630454400.0
+我们怎样做用户调研,见字如面,https://hiwannz.com/archives/597,https://hiwannz.com,https://hiwannz.com/feed,2021-08-31,1630394184.0
+10本 Excel 数据分析学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/08/30/10-excel-data-analysis-book/,https://102no.com/,https://102no.com/atom.xml,2021-08-29,1630252800.0
+聊一下 RocketMQ 的顺序消息,Nicksxs's Blog,https://nicksxs.me/2021/08/29/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E9%A1%BA%E5%BA%8F%E6%B6%88%E6%81%AF/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-29,1630240877.0
+【恋爱手记 Vol.2】意外与惊喜中的初见,Luminous' Home,https://luotianyi.vc/5801.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-08-28,1630135737.0
+最强水冷方案,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/best-water-colding.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-08-28,1630123020.0
+单测时要不要 mock 数据库？,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_08_27-mock_db_or_not.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-27,1630022400.0
+Sentry 自建指南,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_08_25-use_sentry.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-25,1629849600.0
+10本 Excel VBA 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/08/25/10-excel-vba-books/,https://102no.com/,https://102no.com/atom.xml,2021-08-24,1629820800.0
+判断时距,见字如面,https://hiwannz.com/archives/585,https://hiwannz.com,https://hiwannz.com/feed,2021-08-24,1629774059.0
+当我们沉迷游戏时，我们在沉迷什么？,冰哥笔记,https://www.bgbiji.com/823.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-08-19,1629364545.0
+聊在东京奥运会闭幕式这天-二,Nicksxs's Blog,https://nicksxs.me/2021/08/19/%E8%81%8A%E5%9C%A8%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E8%BF%99%E5%A4%A9-%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-19,1629356218.0
+Java数据类型和MySql数据类型对应表,框架师,https://www.mobaijun.com/posts/961492254.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-19,1629343670.0
+用selenium完成自动化任务,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_08_19-selenium.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-19,1629331200.0
+杭州电动车上牌记录,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/745/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-08-18,1629322944.0
+Ubuntu 20.04.2 LTS Server版本设置静态IP地址,框架师,https://www.mobaijun.com/posts/594559550.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-18,1629285329.0
+竞争让我们互相模仿,见字如面,https://hiwannz.com/archives/581,https://hiwannz.com,https://hiwannz.com/feed,2021-08-16,1629089133.0
+redis 的 rdb 和 COW 介绍,Nicksxs's Blog,https://nicksxs.me/2021/08/15/redis-%E7%9A%84-rdb-%E5%92%8C-COW-%E4%BB%8B%E7%BB%8D/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-15,1629033725.0
+多事之秋 第一篇,非理勿试,https://www.ntiy.com/1639.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-08-13,1628830559.0
+像我这种有强迫症的人,近视眼逛博客,https://blog.dtz9.com/2021/08/People-with-OCD-like-me.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-08-10,1628609220.0
+如何保持高效的工作或学习状态？,冰哥笔记,https://www.bgbiji.com/821.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-08-10,1628584045.0
+怎么对候选人进行面试,见字如面,https://hiwannz.com/archives/578,https://hiwannz.com,https://hiwannz.com/feed,2021-08-10,1628565093.0
+聊在东京奥运会闭幕式这天,Nicksxs's Blog,https://nicksxs.me/2021/08/08/%E8%81%8A%E5%9C%A8%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E8%BF%99%E5%A4%A9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-08,1628424307.0
+男人的最爱应该就是金钱和美女吧？,近视眼逛博客,https://blog.dtz9.com/2021/08/Men-s-favorite-should-be-money-and-beauty.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-08-05,1628179860.0
+「养鱼记」图赏,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/fish-culture-picture-appreciation.html,https://zmmio.com/,https://zmmio.com/feed,2021-08-05,1628172240.0
+SpringBoot监控工具之《Actuator》,框架师,https://www.mobaijun.com/posts/283491354.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-05,1628127593.0
+产品思维,见字如面,https://hiwannz.com/archives/576,https://hiwannz.com,https://hiwannz.com/feed,2021-08-04,1628080056.0
+如何做一个真正的“长期主义者”？,冰哥笔记,https://www.bgbiji.com/820.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-08-02,1627920311.0
+关于「宝塔一个站点绑定多个域名宝塔ssl证书」配置教程,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/pagoda-panel-single-website-dual-domain-name-dual-certificate-configuration-tutorial.html,https://zmmio.com/,https://zmmio.com/feed,2021-08-02,1627897944.0
+SpringBoot异步任务记录,框架师,https://www.mobaijun.com/posts/4255110274.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-02,1627891678.0
+「跳缸」成小鱼干,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/jump-tank-into-small-dried-fish.html,https://zmmio.com/,https://zmmio.com/feed,2021-08-01,1627861667.0
+生育与教育引发的思考,Frank笔记,https://frank2019.me/articles/2021/07/31/1627741226219.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-08-01,1627829634.0
+redis淘汰策略复习,Nicksxs's Blog,https://nicksxs.me/2021/08/01/redis%E6%B7%98%E6%B1%B0%E7%AD%96%E7%95%A5%E5%A4%8D%E4%B9%A0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-01,1627820393.0
+针对部分请求启用 CloudFlare Challenge,FlyingSky's Blog,https://blog.fsky7.com/archives/195/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2021-07-31,1627728397.0
+2021年7月的一些思考,冰哥笔记,https://www.bgbiji.com/818.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-31,1627705973.0
+软件与写作 | 写作靠的不是技巧或技术，而是“写作”本身,冰哥笔记,https://www.bgbiji.com/811.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-30,1627644869.0
+Kong 2.5 正式发布！,把酒诗代码，趁乱写年华。,https://102no.com/2021/07/30/kong-2.5/,https://102no.com/,https://102no.com/atom.xml,2021-07-29,1627574400.0
+天灾过后的反思,Frank笔记,https://frank2019.me/articles/2021/07/29/1627561660485.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-07-29,1627570831.0

@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-Linux系统迁移记录(从HDD到SSD),Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_22-linux_clone_sys.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-22,1590105600.0
-Redis是如何工作的？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_21-how_does_redis_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-21,1590019200.0
-virsh自动关闭windows虚拟机,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_18-virsh_shutdown_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-18,1589760000.0
-第三方评论系统之我见,云游君的小站,https://www.yunyoujun.cn/share/third-party-comment-system/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-05-17,1589693440.0
-离开阿里巴巴,Randy's Blog,https://lutaonan.com/blog/leaving-alibaba/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-17,1589673600.0
-Git学习,qinxs小站,https://7bxing.com/posts/e28ceec1/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605502.0
-hello world,qinxs小站,https://7bxing.com/posts/d4a1185/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605202.0
-Golang sort源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_16-go_sort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-16,1589587200.0
-分治的思维方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_15-divide_and_conquer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-15,1589500800.0
-说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
-Debian 使用NetworkManager之后networking.service崩溃,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
-httprouter源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_09-httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-09,1588982400.0
-《程序员的自我修养-装载、链接与库》笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_08-linker_and_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-08,1588896000.0
-在特殊地区科学使用 Disqus 评论系统,ChrAlpha,https://blog.ichr.me/post/use-disqus-conveniently/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-05-05,1588699400.0
-Golang sync.Pool源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_05-go_sync_pool.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-05,1588636800.0
-Typlog 三週年,Just lepture,https://lepture.com/zh/2020/3-years-of-typlog,https://lepture.com/,https://lepture.com/feed.xml,2020-05-02,1588438232.0
-MySQL操作笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_01-mysql_notes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-01,1588291200.0
-Theme Cards | 又一款追求简洁的 Hexo 主题,ChrAlpha,https://blog.ichr.me/post/hexo-theme-cards/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-30,1588257737.0
-Go语言解析GBK编码的xml,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_30-golang_gbk_xml.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-30,1588204800.0
-Golang log 源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_28-golang_log.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-28,1588032000.0
-使用Go语言实现一个异步任务框架,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_24-gotasks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-24,1587686400.0
-Golang flag源码阅读及自己实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_23-go_flag.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-23,1587600000.0
-Go使用gdb调试,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_23-go_gdb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-23,1587600000.0
-Golang ASM简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_22-go_asm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
-Golang context源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_22-golang_context.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
-善用闭包(closure)让Go代码更优雅,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_21-use_closure.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
-Golang中的并发控制,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_21-golang_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
-Golang的可选参数实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
-2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-04-13,1586812489.0
-[博客通报] 切换评论系统至 Disqus,ChrAlpha,https://blog.ichr.me/notice/change-comment-system-into-disqus/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-13,1586811001.0
-FreeBSD ipfw使用教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_13-freebsd_ipfw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-13,1586736000.0
-Golang expvar库源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_12-expvar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-12,1586649600.0
-浅谈 DNS 解析与 CDN 原理,ChrAlpha,https://blog.ichr.me/post/how-dns-and-cdn-work/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-11,1586614065.0
-Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
-Golang validator使用教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
-垃圾清理软件多，是我们缺存储空间吗？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/25.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-09,1586425500.0
-价值编程与职业发展,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_09-value_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
-使用Redis的Stream模块实现群聊功能,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_09-redis_stream_as_im.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
-关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
-解决k8s cron无法读取环境变量的问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
-VPS 手动在线一键重装系统脚本整理,ChrAlpha,https://blog.ichr.me/post/scripts-for-reinstalling-linux-vps/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-06,1586171300.0
-人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/diary/life-is-not-a-marathon/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1585983598.0
-N95口罩背后不为人知的历史,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/21.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-04,1585962960.0
-在网页 404 前将其备份的不同方法,ChrAlpha,https://blog.ichr.me/post/archive-webpage-before-404/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-01,1585740437.0
-反复横跳？—— 我的密码管理工具折腾记,ChrAlpha,https://blog.ichr.me/post/password-managements/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-30,1585578224.0
-[2021] 绕过 Google Play 一年一次换区限制,ChrAlpha,https://blog.ichr.me/post/bypass-google-play-region-restrictions/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-27,1585318102.0
-重新注册 PT 网站后，原有种子“红种” 的简单解决方法,yzqzss | 一座桥在水上's Blog,https://blog.othing.xyz/archives/20.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-03-27,1585274160.0
-应用内购的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_27-iap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-27,1585267200.0
-两种常见的访问控制模型,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_26-access_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-26,1585180800.0
-如何在 Git 中真正删除一个文件,ChrAlpha,https://blog.ichr.me/post/git-remove-files-thoroughly/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-25,1585146890.0
+我们怎样做用户调研,见字如面,https://hiwannz.com/archives/597,https://hiwannz.com,https://hiwannz.com/feed,2021-08-31,1630394184.0
+吐槽一下腾讯,Thrower的博客,https://thrower.cc/2021/202108/,https://thrower.cc,https://thrower.cc/feed/,2021-08-30,1630336229.0
+膜片钳实验简介- 膜片钳的基本原理及记录方法,无妄当自持,https://www.insidentally.com/articles/000016/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-08-30,1630288833.0
+10本 Excel 数据分析学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/08/30/10-excel-data-analysis-book/,https://102no.com/,https://102no.com/atom.xml,2021-08-29,1630252800.0
+键盘监听木马病毒原理,DearXuan的主页,https://blog.dearxuan.com/2021/08/29/%E9%94%AE%E7%9B%98%E7%9B%91%E5%90%AC%E6%9C%A8%E9%A9%AC%E7%97%85%E6%AF%92%E5%8E%9F%E7%90%86/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-29,1630251420.0
+逐渐消失的老黄州口音,辛未羊的网络日志,https://panqiincs.me/2021/08/29/old-huangzhou-accent/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2021-08-29,1630245899.0
+聊一下 RocketMQ 的顺序消息,Nicksxs's Blog,https://nicksxs.me/2021/08/29/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E9%A1%BA%E5%BA%8F%E6%B6%88%E6%81%AF/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-29,1630240877.0
+【恋爱手记 Vol.2】意外与惊喜中的初见,Luminous' Home,https://luotianyi.vc/5801.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-08-28,1630135737.0
+此岸弃草，彼岸繁花,This Cute World,https://thiscute.world/posts/weeds-on-this-side-flowers-on-the-other/,https://thiscute.world/,https://thiscute.world/index.xml,2021-08-28,1630124660.0
+最强水冷方案,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/best-water-colding.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-08-28,1630123020.0
+单测时要不要 mock 数据库？,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_08_27-mock_db_or_not.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-27,1630022400.0
+《UCB CS61a SICP Python 中文》一周目笔记(二),BBing's Blog,https://bbing.com.cn/202108/sicp-python-read2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-08-26,1629966553.0
+QQ隐藏图原理与C#实现(含源文件),DearXuan的主页,https://blog.dearxuan.com/2021/08/26/QQ%E9%9A%90%E8%97%8F%E5%9B%BE%E5%8E%9F%E7%90%86%E4%B8%8EC-%E5%AE%9E%E7%8E%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-26,1629949080.0
+房间,LonelyGod,https://hin.cool/posts/fangjian.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-08-26,1629936000.0
+房间,瓦解的生活记事,https://www.hin.cool/posts/fangjian.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-08-26,1629936000.0
+Volantis主题自定义—暗黑模式动画,DearXuan的主页,https://blog.dearxuan.com/2021/08/25/Volantis%E4%B8%BB%E9%A2%98%E8%87%AA%E5%AE%9A%E4%B9%89%E2%80%94%E6%9A%97%E9%BB%91%E6%A8%A1%E5%BC%8F%E5%8A%A8%E7%94%BB/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-25,1629862860.0
+Sentry 自建指南,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_08_25-use_sentry.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-25,1629849600.0
+10本 Excel VBA 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/08/25/10-excel-vba-books/,https://102no.com/,https://102no.com/atom.xml,2021-08-24,1629820800.0
+Hugo系列(3.3) - LoveIt主题美化与博客功能增强 · 第四章,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-3-3/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-24,1629789076.0
+【安装教程】浏览器新标签页插件推荐 —— MONKNOW ＆ Infinity,城南以南花亦开,https://coonaa.cn/index.php/archives/161/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-24,1629786180.0
+判断时距,见字如面,https://hiwannz.com/archives/585,https://hiwannz.com,https://hiwannz.com/feed,2021-08-24,1629774059.0
+全球Demo大赛获奖作品展示,DearXuan的主页,https://blog.dearxuan.com/2021/08/23/%E5%85%A8%E7%90%83Demo%E5%A4%A7%E8%B5%9B%E8%8E%B7%E5%A5%96%E4%BD%9C%E5%93%81/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-23,1629732780.0
+世界渲染大赛2021获奖作品展示,DearXuan的主页,https://blog.dearxuan.com/2021/08/23/%E4%B8%96%E7%95%8C%E6%B8%B2%E6%9F%93%E5%A4%A7%E8%B5%9B2021/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-23,1629724620.0
+Hexo的安装与Volantis主题的配置,DearXuan的主页,https://blog.dearxuan.com/2021/08/23/Hexo%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8EVolantis%E4%B8%BB%E9%A2%98%E7%9A%84%E9%85%8D%E7%BD%AE/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-23,1629706740.0
+【技术分享】Tupper's Self-Referential Formula 塔珀自指公式,城南以南花亦开,https://coonaa.cn/index.php/archives/153/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-23,1629704520.0
+github个人主页的创建方法,DearXuan的主页,https://blog.dearxuan.com/2021/08/22/github%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E7%9A%84%E5%88%9B%E5%BB%BA%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-22,1629623940.0
+selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary,cywhat's blog,https://cywhat.cn/selenium-common-exceptions-WebDriverException-Message-unknown-error-cannot-find-Chrome-binary/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-20,1629480201.0
+Centos7安装chrome浏览器,cywhat's blog,https://cywhat.cn/Centos7%E5%AE%89%E8%A3%85chrome%E6%B5%8F%E8%A7%88%E5%99%A8/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-20,1629479325.0
+SpringBoot问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/springboot-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-20,1629419006.0
+C，C++安全指南,BBing's Blog,https://bbing.com.cn/202108/secguide_c_tc/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-08-19,1629373624.0
+当我们沉迷游戏时，我们在沉迷什么？,冰哥笔记,https://www.bgbiji.com/823.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-08-19,1629364545.0
+聊在东京奥运会闭幕式这天-二,Nicksxs's Blog,https://nicksxs.me/2021/08/19/%E8%81%8A%E5%9C%A8%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E8%BF%99%E5%A4%A9-%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-19,1629356218.0
+高斯模糊的Java实现及优化,DearXuan的主页,https://blog.dearxuan.com/2021/08/19/%E9%AB%98%E6%96%AF%E6%A8%A1%E7%B3%8A%E7%9A%84Java%E5%AE%9E%E7%8E%B0%E5%8F%8A%E4%BC%98%E5%8C%96/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-19,1629351900.0
+Java数据类型和MySql数据类型对应表,框架师,https://www.mobaijun.com/posts/961492254.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-19,1629343670.0
+用selenium完成自动化任务,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_08_19-selenium.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-19,1629331200.0
+杭州电动车上牌记录,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/745/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-08-18,1629322944.0
+Ubuntu 20.04.2 LTS Server版本设置静态IP地址,框架师,https://www.mobaijun.com/posts/594559550.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-18,1629285329.0
+平方根倒数快速算法,DearXuan的主页,https://blog.dearxuan.com/2021/08/18/%E5%B9%B3%E6%96%B9%E6%A0%B9%E5%80%92%E6%95%B0%E5%BF%AB%E9%80%9F%E7%AE%97%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-18,1629282000.0
+LeetCode - SQL题目,Yulin Lewis' Blog,https://lewky.cn/posts/leetcode-sql/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-17,1629213690.0
+没有新的衣服能让你爱恋,LonelyGod,https://hin.cool/posts/hunger.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-08-17,1629158400.0
+没有新的衣服能让你爱恋,瓦解的生活记事,https://www.hin.cool/posts/hunger.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-08-17,1629158400.0
+竞争让我们互相模仿,见字如面,https://hiwannz.com/archives/581,https://hiwannz.com,https://hiwannz.com/feed,2021-08-16,1629089133.0
+redis 的 rdb 和 COW 介绍,Nicksxs's Blog,https://nicksxs.me/2021/08/15/redis-%E7%9A%84-rdb-%E5%92%8C-COW-%E4%BB%8B%E7%BB%8D/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-15,1629033725.0
+iptables 及 docker 容器网络分析,This Cute World,https://thiscute.world/posts/iptables-and-container-networks/,https://thiscute.world/,https://thiscute.world/index.xml,2021-08-15,1629025889.0
+Linux 中的虚拟网络接口,This Cute World,https://thiscute.world/posts/linux-virtual-network-interfaces/,https://thiscute.world/,https://thiscute.world/index.xml,2021-08-14,1628910783.0
+C#的GPU加速方法,DearXuan的主页,https://blog.dearxuan.com/2021/08/13/C-%E7%9A%84GPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-13,1628835060.0
+多事之秋 第一篇,非理勿试,https://www.ntiy.com/1639.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-08-13,1628830559.0
+AirConnect——智能音箱Airplay或DLNA支持方案,瓦解的生活记事,https://www.hin.cool/posts/airconnect.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-08-12,1628726400.0
+AirConnect——智能音箱Airplay或DLNA支持方案,LonelyGod,https://hin.cool/posts/airconnect.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-08-12,1628726400.0
+【安装教程】Kali Linux 2021.2在VMware和VirtualBox安装教程 超简单 步骤详细讲解,城南以南花亦开,https://coonaa.cn/index.php/archives/52/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-11,1628652060.0
