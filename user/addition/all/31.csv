@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/archives/37/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
+Y Combinator《如何创业》笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_08-yc_startup.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-08,1544227200.0
 Go类型嵌套,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_01-go_embedding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-01,1543622400.0
 etcd源码阅读与分析（五）：mvcc,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_28-etcd_source_code_analysis_mvvc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-28,1543363200.0
 etcd源码阅读与分析（四）：lease,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_27-etcd_source_code_analysis_lease.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-27,1543276800.0
@@ -10,8 +12,8 @@ etcd源码阅读与分析（一）：raftexample,Jiajun的编程随想,https://j
 虚拟机里的Ubuntu sudo时卡住,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_18-ubuntu_sudo_hang.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-18,1542499200.0
 new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-11-17,1542486792.0
 new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-11-17,1542412800.0
-Raft论文阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_16-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
 Go访问私有变量,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_16-go_private_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
+Raft论文阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_16-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
 避免全局变量,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_15-avoid_global_states.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-15,1542240000.0
 Go的unsafe包,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_13-golang_package_unsafe.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-13,1542067200.0
 Golang中实现禁止拷贝,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
@@ -30,8 +32,8 @@ HTTP/2 简介,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_10_13-
 独立运营博客一年的一些数据分享,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
 To B(usiness) 和 To C(ustomer),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_22-to_b_to_c.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-22,1537574400.0
 PyCon JP 2018 記,Just lepture,https://lepture.com/zh/2018/pycon-jp-2018,https://lepture.com/,https://lepture.com/feed.xml,2018-09-19,1537364456.0
-Cookie 中的secure和httponly属性,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-cookie_secure_httponly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 常见的软件架构套路,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
+Cookie 中的secure和httponly属性,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-cookie_secure_httponly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-09-15,1536969687.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-09-15,1536969600.0
 一个阅读源代码的技巧,Randy's Blog,https://lutaonan.com/blog/trick-for-reading-source-code/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-09-14,1536883200.0
@@ -43,9 +45,7 @@ Go的custom import path,Jiajun的编程随想,https://jiajunhuang.com/articles/2
 微信与象棋,云游君的小站,https://www.yunyoujun.cn/posts/wechat-and-chinese-chess,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-09-03,1536014317.0
 Go Module 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_03-go_module.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-03,1535932800.0
 写了一个Telegram Bot：自动化分享高质量内容,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_02-write_a_tgbot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-02,1535846400.0
-Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-vim_speed_up.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
-为什么我选择放弃运营微信公众号？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 ArchLinux 怎么降级 package ？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
+为什么我选择放弃运营微信公众号？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
+Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-vim_speed_up.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Web后端工程师进阶指南(2018),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
-macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
-How to implement fork syscall in Golang?,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
