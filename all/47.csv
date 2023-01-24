@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+ArchLinux 怎么降级 package ？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 为什么我选择放弃运营微信公众号？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Web后端工程师进阶指南(2018),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
 How to implement fork syscall in Golang?,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
@@ -48,4 +49,3 @@ Java 中文编码分析,This Cute World,https://thiscute.world/posts/how-java-ha
 如何面试-作为面试官得到的经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_10-interview.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-10,1520640000.0
 自己写一个容器,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_09-write_you_a_container.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-09,1520553600.0
 Golang(Go语言)中实现典型的fork调用,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_08-golang_fork.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-08,1520467200.0
-软件开发之禅---大事化小，各个击破,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_26-zen_of_dev.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-26,1519603200.0
