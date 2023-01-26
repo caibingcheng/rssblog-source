@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+linux 开启 samba 服务共享文件,刘超智,https://www.insidentally.com/articles/000005/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-27,1606465965.0
 山城晓雾,刘超智,https://www.insidentally.com/articles/000004/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-25,1606281003.0
 眺望渝中,刘超智,https://www.insidentally.com/articles/000003/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-23,1606118148.0
 配置一个简洁，高效的zsh,刘超智,https://www.insidentally.com/articles/000002/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-29,1603933662.0
@@ -39,8 +40,8 @@ Chrome 与 Firefox-Dev 的 DevTools,This Cute World,https://thiscute.world/posts
 通过 systemctl 设置自定义 Service,This Cute World,https://thiscute.world/posts/systemd-basics/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-28,1548677580.0
 SQLAlchemy 学习笔记（一）：Engine 与 SQL 表达式语言,This Cute World,https://thiscute.world/posts/sqlalchemy-notes-1-engine-and-sql-expression-language/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-21,1548050520.0
 SQL 基础笔记（三）约束,This Cute World,https://thiscute.world/posts/sql-basics-3-restrict/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-20,1547989726.0
-Julia 学习笔记（一）：数组,This Cute World,https://thiscute.world/posts/julia-notes-1-array/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-14,1547466660.0
 常见压缩格式的区别，及 Linux 下的压缩相关指令,This Cute World,https://thiscute.world/posts/compression-related-instructions-under-linux/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-14,1547466660.0
+Julia 学习笔记（一）：数组,This Cute World,https://thiscute.world/posts/julia-notes-1-array/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-14,1547466660.0
 在回声中重历,This Cute World,https://thiscute.world/posts/relive-in-the-echo/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-08,1546941345.0
 SQL 基础笔记（二）进阶查询,This Cute World,https://thiscute.world/posts/sql-basics-2-queries/,https://thiscute.world/,https://thiscute.world/index.xml,2018-06-17,1529216266.0
 SQL 基础笔记（一）,This Cute World,https://thiscute.world/posts/sql-basics-1/,https://thiscute.world/,https://thiscute.world/index.xml,2018-06-15,1529051266.0
@@ -48,4 +49,3 @@ Python 视频转字符动画（二）进阶,This Cute World,https://thiscute.wor
 学英语啊学英语,This Cute World,https://thiscute.world/posts/learning-english/,https://thiscute.world/,https://thiscute.world/index.xml,2018-05-16,1526472002.0
 《十二国记》,This Cute World,https://thiscute.world/posts/the-twelve-kingdoms/,https://thiscute.world/,https://thiscute.world/index.xml,2018-04-27,1524797354.0
 Java 中文编码分析,This Cute World,https://thiscute.world/posts/how-java-handles-chinese/,https://thiscute.world/,https://thiscute.world/index.xml,2018-03-11,1520757540.0
-进程线程协程与并发并行,This Cute World,https://thiscute.world/posts/process-thread-coroutines-concurrency-parallelism/,https://thiscute.world/,https://thiscute.world/index.xml,2018-01-23,1516696740.0
