@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Agile Team Practice,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210214-agile-team-practice,https://teobler.com,https://teobler.com/rss.xml,2021-02-14,1613279580.0
 脚踏实地，仰望星空,This Cute World,https://thiscute.world/posts/no-more-dreams/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-13,1613183576.0
 做猪呢，最重要的是开心,云游君的小站,https://www.yunyoujun.cn/posts/2020-summary/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-02-12,1613137363.0
 Setup SSH Authentication with YubiKey,Bin Wang - My Personal Blog,https://www.binwang.me/2021-02-12-Setup-SSH-Authentication-with-YubiKey.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2021-02-12,1613106000.0
@@ -16,15 +17,15 @@ Agile Three Business Practice,Teobler - 失眠多梦，bug体质,https://teobler
 Node.js更换国内源,框架师,https://www.mobaijun.com/posts/3059858801.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-02-02,1612254603.0
 为什么 OLAP 需要列式存储,面向信仰编程,https://draveness.me//whys-the-design-olap-column-oriented,https://draveness.me/,https://draveness.me/feed.xml,2021-02-02,1612224000.0
 Agile Business Practice Planning Games,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210201-agile-business-practice-planning-games,https://teobler.com,https://teobler.com/rss.xml,2021-02-01,1612187820.0
-曾经的我,This Cute World,https://thiscute.world/history/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-01,1612160075.0
 此时此刻的我,This Cute World,https://thiscute.world/now/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-01,1612160075.0
+曾经的我,This Cute World,https://thiscute.world/history/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-01,1612160075.0
 记一次被网贷催收,非理勿试,https://www.ntiy.com/1515.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-01-30,1611970734.0
 数据中心的电力超售 · OSDI '20,面向信仰编程,https://draveness.me//papers-thunderbolt,https://draveness.me/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
 Facebook 集群调度管理系统 · OSDI '20,面向信仰编程,https://draveness.me//papers-twine,https://draveness.me/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
-数据中心的容错时钟对时 · OSDI '20,面向信仰编程,https://draveness.me//papers-sundial,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
 纳秒级高性能日志系统 · ATC '18,面向信仰编程,https://draveness.me//papers-nanolog,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
-云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/expirence-of-argo-workflow/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
+数据中心的容错时钟对时 · OSDI '20,面向信仰编程,https://draveness.me//papers-sundial,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
 云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/experience-of-argo-workflows/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
+云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/expirence-of-argo-workflow/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
 做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
 Android自动展示和关闭进度条,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_27-android_progress_bar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-27,1611705600.0
 SpringBoot集成Mybatis-Plus,框架师,https://www.mobaijun.com/posts/183863717.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-26,1611655824.0
@@ -37,8 +38,8 @@ What Is Agile,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210
 SpringBoot2.3整合InfluxDB实现增删查,框架师,https://www.mobaijun.com/posts/1092756891.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-20,1611123302.0
 QEMU/KVM 虚拟化环境的搭建与使用,This Cute World,https://thiscute.world/posts/qemu-kvm-usage/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-17,1610890444.0
 从 Composition API 源码分析 getCurrentInstance() 为何返回 null,4Ark × Blog,https://4ark.me/post/87ba8d8b.html,https://4ark.me/,https://4ark.me/rss.xml,2021-01-16,1610836795.0
-我的小伙伴们,This Cute World,https://thiscute.world/friends/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-15,1610727871.0
 关于,This Cute World,https://thiscute.world/about/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-15,1610727871.0
+我的小伙伴们,This Cute World,https://thiscute.world/friends/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-15,1610727871.0
 从9元到9000元，我包里常备的十件产品 | EDC,罗磊的独立博客,https://luolei.org/edc-2020/,https://luolei.org/,https://luolei.org/feed/,2021-01-13,1610547892.0
 SpringBoot实现邮件发送,框架师,https://www.mobaijun.com/posts/265470177.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-13,1610533373.0
 Kotlin/Java 列表Protobuf序列化,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_13-kotlin_protobuf_serialization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-13,1610496000.0
@@ -46,6 +47,5 @@ Kotlin/Java 列表Protobuf序列化,Jiajun的编程随想,https://jiajunhuang.co
 正确的使用搜索引擎,框架师,https://www.mobaijun.com/posts/2845351032.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-11,1610359269.0
 [CloudMare] Android上管理Cloudflare的小工具,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/cloudmare-app.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-01-10,1610298060.0
 2020 年终总结,Randy's Blog,https://lutaonan.com/blog/2020-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-10,1610236800.0
-Pulumi 使用体验 - 基础设施代码化,This Cute World,https://thiscute.world/posts/expirence-of-pulumi/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-08,1610103090.0
 Pulumi 使用体验 - 基础设施代码化,This Cute World,https://thiscute.world/posts/experience-of-pulumi/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-08,1610103090.0
-openSUSE 使用指南,This Cute World,https://thiscute.world/posts/opensuse-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-04,1609720941.0
+Pulumi 使用体验 - 基础设施代码化,This Cute World,https://thiscute.world/posts/expirence-of-pulumi/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-08,1610103090.0
