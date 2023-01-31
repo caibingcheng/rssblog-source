@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+EE 入门 - 电子电路基础知识,This Cute World,https://thiscute.world/posts/electrical-engineering-circuits-basics-1/,https://thiscute.world/,https://thiscute.world/index.xml,2023-01-31,1675175631.0
 2022 年年终总结,This Cute World,https://thiscute.world/posts/2022-summary/,https://thiscute.world/,https://thiscute.world/index.xml,2023-01-02,1672653645.0
 Proxmox Virtual Environment 使用指南,This Cute World,https://thiscute.world/posts/proxmox-virtual-environment-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2022-11-27,1669559883.0
 刻意练习,This Cute World,https://thiscute.world/posts/deliberate-practice/,https://thiscute.world/,https://thiscute.world/index.xml,2022-10-05,1664947860.0
@@ -36,8 +37,8 @@ Linux 网络工具中的瑞士军刀 - socat &amp; netcat,This Cute World,https:
 我在创业公司做技术一年多的一点体会,This Cute World,https://thiscute.world/posts/end-of-the-first-round/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-06,1612572406.0
 曾经的我,This Cute World,https://thiscute.world/history/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-01,1612160075.0
 此时此刻的我,This Cute World,https://thiscute.world/now/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-01,1612160075.0
-云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/experience-of-argo-workflows/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
 云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/expirence-of-argo-workflow/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
+云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/experience-of-argo-workflows/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
 secrets 管理工具 Vault 的介绍、安装及使用,This Cute World,https://thiscute.world/posts/experience-of-vault/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-24,1611451901.0
 secrets 管理工具 Vault 的介绍、安装及使用,This Cute World,https://thiscute.world/posts/expirence-of-vault/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-24,1611451901.0
 QEMU/KVM 虚拟化环境的搭建与使用,This Cute World,https://thiscute.world/posts/qemu-kvm-usage/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-17,1610890444.0
@@ -48,4 +49,3 @@ Pulumi 使用体验 - 基础设施代码化,This Cute World,https://thiscute.wor
 openSUSE 使用指南,This Cute World,https://thiscute.world/posts/opensuse-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-04,1609720941.0
 2020 年年终总结,This Cute World,https://thiscute.world/posts/2020-summary/,https://thiscute.world/,https://thiscute.world/index.xml,2020-12-12,1607787900.0
 「小歌行」-景德镇文艺复兴-2020巡演-深圳,This Cute World,https://thiscute.world/posts/jingdezhen-renaissance-band-2020-shenzhen/,https://thiscute.world/,https://thiscute.world/index.xml,2020-11-28,1606535340.0
-Base64 编码并不唯一,This Cute World,https://thiscute.world/posts/base64-encoding-is-not-unique/,https://thiscute.world/,https://thiscute.world/index.xml,2020-05-30,1590855180.0
