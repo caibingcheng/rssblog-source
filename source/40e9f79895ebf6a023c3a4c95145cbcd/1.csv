@@ -1,5 +1,7 @@
 title,author,link,home,rss,date,timestamp
+Ubuntu安装mwget,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E5%AE%89%E8%A3%85mwget/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-04,1675491823.0
 如何同时配置两个github账户,Barney's Blog,https://hugo.bnblogs.cc/%E5%A6%82%E4%BD%95%E5%90%8C%E6%97%B6%E9%85%8D%E7%BD%AE%E5%A4%9A%E4%B8%AAgithub%E8%B4%A6%E6%88%B7/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-03,1675434832.0
+使用github action部署hugo博客,Barney's Blog,https://hugo.bnblogs.cc/%E4%BD%BF%E7%94%A8github_action%E9%83%A8%E7%BD%B2hugo%E5%8D%9A%E5%AE%A2/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-02,1675353247.0
 conda相关,Barney's Blog,https://hugo.bnblogs.cc/conda%E7%9B%B8%E5%85%B3/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-01,1675230340.0
 gitea数据的备份和恢复,Barney's Blog,https://hugo.bnblogs.cc/gitea%E6%95%B0%E6%8D%AE%E7%9A%84%E5%A4%87%E4%BB%BD%E5%92%8C%E6%81%A2%E5%A4%8D/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-01-27,1674803189.0
 正则表达式入门,Barney's Blog,https://hugo.bnblogs.cc/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-01-03,1672731923.0
@@ -47,5 +49,3 @@ Go语言语法踩坑,Barney's Blog,https://hugo.bnblogs.cc/go%E8%AF%AD%E8%A8%80%
 Ubuntu20.04彻底卸载mysql8.0,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BDmysql8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646731549.0
 Ubuntu上使用docker安装mysql,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4%B8%8A%E4%BD%BF%E7%94%A8docker%E5%AE%89%E8%A3%85mysql/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-07,1646647303.0
 Hugo添加文章加密功能,Barney's Blog,https://hugo.bnblogs.cc/hugo%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86%E5%8A%9F%E8%83%BD/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645621037.0
-Hugo导航栏添加二级菜单,Barney's Blog,https://hugo.bnblogs.cc/hugo%E5%AF%BC%E8%88%AA%E6%A0%8F%E6%B7%BB%E5%8A%A0%E4%BA%8C%E7%BA%A7%E8%8F%9C%E5%8D%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645618994.0
-LoveIt主题支持MathJax,Barney's Blog,https://hugo.bnblogs.cc/loveit%E4%B8%BB%E9%A2%98%E6%94%AF%E6%8C%81mathjax/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645607283.0
