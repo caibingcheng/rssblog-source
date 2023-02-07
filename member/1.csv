@@ -1,10 +1,12 @@
 title,author,link,home,rss,date,timestamp
+短暂的离别,醉里,https://202271.xyz/post/47860/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-02-07,1675813964.0
 简单几步搞定 nostr 紫标认证,Macin,https://macin.org/2023/02/07/nostr-verification/,https://macin.org/,https://www.macin.org/atom.xml,2023-02-07,1675784500.0
+HMailServer配置SSL/TLS（避坑）,Thrower的博客,https://thrower.cc/2023/hmailserverssl/,https://thrower.cc,https://thrower.cc/feed/,2023-02-07,1675781935.0
 群晖硬盘更换记录,杜老师说,https://dusays.com/553/,https://dusays.com/,https://dusays.com/atom.xml,2023-02-06,1675699200.0
 Cloudflare 免费版自定义切换边缘证书,Zikin的独立博客,https://zikin.org/cloudflare-set-edge-cert/,https://zikin.org/,https://zikin.org/feed,2023-02-06,1675692397.0
 ChatGPT 类似产品,把酒诗代码，趁乱写年华。,https://102no.com/2023/02/06/chatgtp-alternatives/,https://102no.com/,https://102no.com/atom.xml,2023-02-05,1675612800.0
 分享一次折腾老旧笔记本的体验,Nicksxs's Blog,https://nicksxs.me/2023/02/05/%E5%88%86%E4%BA%AB%E4%B8%80%E6%AC%A1%E6%8A%98%E8%85%BE%E8%80%81%E6%97%A7%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%9A%84%E4%BD%93%E9%AA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-02-05,1675605451.0
-群晖双重验证失效的解决办法,瓦解的生活记事,https://hin.cool/posts/nas2fa.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-02-05,1675584120.0
+群晖双重验证失效的解决办法,瓦解的生活记事,https://hin.cool/posts/nas2fa.html,https://hin.cool/,https://hin.cool/atom.xml,2023-02-05,1675584120.0
 Ubuntu安装mwget,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E5%AE%89%E8%A3%85mwget/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-04,1675491823.0
 2023年学习计划,辛未羊的网络日志,https://panqiincs.me/2023/02/04/guimao-learning-plan/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-02-04,1675478541.0
 真菌、气候变化和病原溢出 | The Last of Us,Another Dayu,https://anotherdayu.com/2023/4736/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-02-03,1675384816.0
@@ -16,7 +18,6 @@ EE 入门 - 电子电路基础知识,This Cute World,https://thiscute.world/post
 My 2022 in Review,Bin Wang - My Personal Blog,https://www.binwang.me/2023-01-26-My-2022-in-Review.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-01-26,1674709200.0
 【HAPROXY】四层TCP转发及SNI Proxy简记,Luminous' Home,https://luotianyi.vc/6818.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-01-26,1674697357.0
 家·烟花·红包封面,云游君的小站,https://www.yunyoujun.cn/posts/home-firework-red-bag,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2023-01-22,1674427906.0
-注册最便宜的xyz域名，低成本搭建一个博客,醉里,https://202271.xyz/post/5172/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-01-22,1674414883.0
 2022收一收,cywhat's blog,https://cywhat.cn/2022%E6%94%B6%E4%B8%80%E6%94%B6/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-01-19,1674094405.0
 Edge使用不了Clash解决办法,Muidar's Site,https://muidar.com/posts/cmuidar/clash-usable-in-edge-solved/,https://muidar.com,https://muidar.com/feed,2023-01-18,1674038847.0
 在宝塔面板中使用frp内网穿透,Peter's Blog,https://www.rainogo.com/posts/frp_btpanel.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2023-01-16,1673839320.0
@@ -48,4 +49,3 @@ Kubernetes、集群联邦和资源分发,面向信仰编程,https://draveness.me
 Win32 API编程——前言,qinxs小站,https://7bxing.com/posts/67bdf631/,https://7bxing.com/,https://7bxing.com/atom.xml,2022-02-26,1645875801.0
 Rust 学习资源,萤火之森,http://frankorz.com/2022/01/18/rust-study-resource/,http://frankorz.com/,https://frankorz.com/atom.xml,2022-01-18,1642514504.0
 2021 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2021-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2022-01-03,1641168000.0
-基于C#的开源远程控制软件V4mp1r3——远控编写思路分享,Thrower的博客,https://thrower.cc/2021/v4mp1r3/,https://thrower.cc,https://thrower.cc/feed/,2021-11-13,1636815363.0
