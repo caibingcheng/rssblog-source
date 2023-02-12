@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Django删除表重建,cywhat's blog,https://cywhat.cn/Django%E5%88%A0%E9%99%A4%E8%A1%A8%E9%87%8D%E5%BB%BA/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-08-05,1659670743.0
 解放奴隶宣言有感,Frank笔记,https://frank2019.me/articles/2022/08/05/1659635670816.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-08-04,1659645725.0
 测试页面,Barney's Blog,https://hugo.bnblogs.cc/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-08-04,1659603456.0
 Hugo主题推荐,Barney's Blog,https://hugo.bnblogs.cc/hugo%E4%B8%BB%E9%A2%98%E6%8E%A8%E8%8D%90/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-08-04,1659595705.0
@@ -19,8 +20,8 @@ git-bash如何使用tmux,Barney's Blog,https://hugo.bnblogs.cc/git-bash%E4%BD%BF
 关于二舅的一些感悟,4Ark × Blog,https://4ark.me/post/live-sentiment.html,https://4ark.me/,https://4ark.me/rss.xml,2022-07-29,1659052800.0
 Linux 搭建 Minecraft 服务器,岚天小窝,https://blog.ltya.top/posts/Build-a-Minecraft-Server-on-Linux.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-28,1659024000.0
 【MySQL 系列】冷门 SQL 整理,框架師,https://www.mobaijun.com/posts/970409657.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-28,1658976177.0
-ADN公益加速 —— Jsdelivr npm（国内），ElmCDN的优质替代方案,杜老师说,https://dusays.com/488/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-28,1658966400.0
 三种git流程以及发版模型,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_07_28-git_flows.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-28,1658966400.0
+ADN公益加速 —— Jsdelivr npm（国内），ElmCDN的优质替代方案,杜老师说,https://dusays.com/488/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-28,1658966400.0
 记录自己 | 2022.07.27,冰哥笔记,https://www.bgbiji.com/1089.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-27,1658930549.0
 【MySQL 系列】MySQL 按照当前年月周日统计数据,框架師,https://www.mobaijun.com/posts/4014467466.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-27,1658903822.0
 错误处理实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_07_27-how_to_return_error.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-27,1658880000.0
@@ -48,4 +49,3 @@ Leetcode 1260 二维网格迁移 ( Shift 2D Grid *Easy* ) 题解分析,Nicksxs's
 头疼,见字如面,https://hiwannz.com/archives/690,https://hiwannz.com,https://hiwannz.com/feed,2022-07-22,1658487750.0
 我在Anti群里的那些事,SinGO博客,https://blog.xsnetw.cf/posts/64815/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-07-22,1658477780.0
 Python如何让字典保持有序存储,cywhat's blog,https://cywhat.cn/Python%E5%A6%82%E4%BD%95%E8%AE%A9%E5%AD%97%E5%85%B8%E4%BF%9D%E6%8C%81%E6%9C%89%E5%BA%8F%E5%AD%98%E5%82%A8/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-07-22,1658471830.0
-通过群晖 CentOS 虚拟机搭建邮件服务「EwoMail 开源版」,杜老师说,https://dusays.com/486/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-22,1658448000.0
