@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+OAuth 2 详解（三）：Resource Owner Password Credentials Grant,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_password.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
+不小心混到个证书,杜老师说,https://dusays.com/513/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-09,1665331200.0
 记一个容器中 dubbo 注册的小知识点,Nicksxs's Blog,https://nicksxs.me/2022/10/09/%E8%AE%B0%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8%E4%B8%AD-dubbo-%E6%B3%A8%E5%86%8C%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-09,1665314397.0
 追随梦想,Frank笔记,https://frank2019.me/articles/2019/09/04/1567578966259.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-10-09,1665282238.0
 OAuth 2 详解（二）：Implict Grant Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_09-oauth2_explained_implict_grant.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-09,1665273600.0
@@ -17,9 +19,9 @@ Js异步处理的三种方式,Barney's Blog,https://hugo.bnblogs.cc/js%E5%BC%82%
 群晖 Docker 安装蚂蚁笔记的教程,杜老师说,https://dusays.com/511/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-03,1664812800.0
 从 Rust 扩展 Emacs 到多语言协同扩展 Emacs,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/03/emacs-rpc.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-03,1664755200.0
 Leetcode 747 至少是其他数字两倍的最大数 ( Largest Number At Least Twice of Others *Easy* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/10/02/Leetcode-747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0-Largest-Number-At-Least-Twice-of-Others-Easy-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-02,1664712853.0
-CDN又被刷了,瓦解的生活记事,https://hin.cool/posts/cdncc2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-10-01,1664620200.0
-杜老师又一篇水文之橘猫猫,杜老师说,https://dusays.com/510/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-30,1664553600.0
+CDN又被刷了,瓦解的生活记事,https://hin.cool/posts/cdncc2.html,https://hin.cool/,https://hin.cool/atom.xml,2022-10-01,1664620200.0
 Kong Gateway 3.0 正式发布,把酒诗代码，趁乱写年华。,https://102no.com/2022/10/01/kong-3.0/,https://102no.com/,https://102no.com/atom.xml,2022-09-30,1664553600.0
+杜老师又一篇水文之橘猫猫,杜老师说,https://dusays.com/510/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-30,1664553600.0
 写 诗,瓦解的生活记事,https://hin.cool/posts/xieshi.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-30,1664551200.0
 每日感触2022.09.30：总结九月,冰哥笔记,https://www.bgbiji.com/1113.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-09-30,1664546400.0
 Debain&Ubuntu修改DNS,Frank笔记,https://frank2019.me/articles/2022/09/29/1664386803327.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-28,1664386803.0
@@ -47,5 +49,3 @@ MySQL命令记录,Barney's Blog,https://hugo.bnblogs.cc/mysql%E5%91%BD%E4%BB%A4%
 Pycharm的gitignore配置,Barney's Blog,https://hugo.bnblogs.cc/pycharm%E6%8E%A8%E8%8D%90gitignore%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-19,1663576285.0
 拿什么来爱你，公需课,瓦解的生活记事,https://hin.cool/posts/gongxuke.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-19,1663576200.0
 贵阳防疫转运车事故的反思,Frank笔记,https://frank2019.me/articles/2022/09/19/1663570523585.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-19,1663570894.0
-用Python的Polyglot库做文字转写,辛未羊的网络日志,https://panqiincs.me/2022/09/19/polyglot-lang-trans/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-09-19,1663547100.0
-每个人都能用点正则表达式,Randy's Blog,https://lutaonan.com/blog/everyone-can-use-regexp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-09-19,1663545600.0
