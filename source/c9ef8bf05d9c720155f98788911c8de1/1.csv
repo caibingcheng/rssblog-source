@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+ChatGPT,manateelazycat.github.io,//manateelazycat.github.io/think/2023/02/14/chatgpt.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-02-14,1676332800.0
 手机上开两个 VPN,manateelazycat.github.io,//manateelazycat.github.io/proxy/2023/02/01/shelter.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-02-01,1675209600.0
 彩云之南,manateelazycat.github.io,//manateelazycat.github.io/travel/2023/01/28/tourism-yunnan.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-01-28,1674864000.0
 安装 PaddleOCR,manateelazycat.github.io,//manateelazycat.github.io/linux/ocr/2022/12/19/install-paddocr.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-12-19,1671408000.0
@@ -18,8 +19,8 @@ Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/ema
 blink-search,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/blink-search.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
 deno-bridge,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/deno-bridge.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
 最佳代理实践 2022-10-23,manateelazycat.github.io,//manateelazycat.github.io/proxy/2022/10/23/best-proxy.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-23,1666483200.0
-Elisp Get free port,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/elisp-get-free-port.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
 使用 Deno 和 Puppeteer 获取在线翻译内容,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/deno-deepl.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
+Elisp Get free port,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/elisp-get-free-port.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
 从 Rust 扩展 Emacs 到多语言协同扩展 Emacs,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/03/emacs-rpc.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-03,1664755200.0
 从毛泽东选集看创业过程,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/09/19/reading-mao.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-19,1663545600.0
 公司内部培训,manateelazycat.github.io,//manateelazycat.github.io/think/2022/09/18/internal-training.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-18,1663459200.0
@@ -34,8 +35,8 @@ Git via HTTPS,manateelazycat.github.io,//manateelazycat.github.io/proxy/2022/05/
 我平常是怎么折腾Emacs插件的?,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/05/21/emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-21,1653091200.0
 QWebEngine Cookie 完整实现,manateelazycat.github.io,//manateelazycat.github.io/qt/linux/2022/05/13/webengine-cookie.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-13,1652400000.0
 LSP-Bridge架构设计与LSP协议解析,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/05/12/lsp-bridge.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-12,1652313600.0
-从浏览器崩溃窥探Qt事件伪造原理,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/28/eaf-browser-crash.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-28,1651104000.0
 递归搜索插件引用记录,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/04/28/recursive-search-references.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-28,1651104000.0
+从浏览器崩溃窥探Qt事件伪造原理,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/28/eaf-browser-crash.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-28,1651104000.0
 沉默的大多数,manateelazycat.github.io,//manateelazycat.github.io/think/2022/04/24/most-of-the-silencer.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-24,1650758400.0
 EAF Git Client 手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/22/eaf-git.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-22,1650585600.0
 读《详解FPGA - 人工智能时代的驱动引擎》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/04/06/reading-fpga.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-06,1649203200.0
@@ -48,4 +49,3 @@ Emacs递归添加目录下所有插件,manateelazycat.github.io,//manateelazycat
 读《心若菩提》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/02/24/reading-heart-is-bodhi.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-24,1645660800.0
 读《查理芒格传》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/02/21/reading-charlie-munger.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-21,1645401600.0
 海南行,manateelazycat.github.io,//manateelazycat.github.io/travel/2022/02/03/tourism-hainan.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-03,1643846400.0
-EAF支持Wayland native啦!,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/01/02/eaf-support-wayland-native.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-01-02,1641081600.0

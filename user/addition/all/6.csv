@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+CDN又被刷了,瓦解的生活记事,https://hin.cool/posts/cdncc2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-10-01,1664620200.0
 Kong Gateway 3.0 正式发布,把酒诗代码，趁乱写年华。,https://102no.com/2022/10/01/kong-3.0/,https://102no.com/,https://102no.com/atom.xml,2022-09-30,1664553600.0
 写 诗,瓦解的生活记事,https://hin.cool/posts/xieshi.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-30,1664551200.0
 每日感触2022.09.30：总结九月,冰哥笔记,https://www.bgbiji.com/1113.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-09-30,1664546400.0
@@ -34,8 +35,8 @@ Leetcode 1862 向下取整数对和 ( Sum of Floored Pairs *Hard* ) 题解分析
 关于开往,SinGO博客,https://blog.xsnetw.cf/posts/55567/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-09-11,1662873386.0
 一款免费cdn,醉里,https://202271.xyz/post/60360/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-09-10,1662837081.0
 暗 恋,瓦解的生活记事,https://hin.cool/posts/anlian.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-10,1662773520.0
-Backblaze B2 + Cloudflare：10GB 的图片或文件存储方案,岚天小窝,https://blog.ltya.top/posts/BackblazeB2+Cloudflare-worker.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-09-08,1662652800.0
 Backblaze B2 + Cloudflare：10GB 的图片或文件存储方案,岚天小窝,https://blog.ltya.top/posts/BackblazeB2+Cloudflare.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-09-08,1662652800.0
+Backblaze B2 + Cloudflare：10GB 的图片或文件存储方案,岚天小窝,https://blog.ltya.top/posts/BackblazeB2+Cloudflare-worker.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-09-08,1662652800.0
 千万不要用微信键盘（微信输入法）！,非理勿试,https://www.ntiy.com/1910.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-09-08,1662602348.0
 重庆最老的石塔在荣昌,Macin,https://macin.org/2022/09/04/rong-chang-de-ta/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-04,1662331603.0
 Apollo 如何获取当前环境,Nicksxs's Blog,https://nicksxs.me/2022/09/04/Apollo-%E5%A6%82%E4%BD%95%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E7%8E%AF%E5%A2%83/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-09-04,1662296907.0
@@ -48,4 +49,3 @@ Apollo 如何获取当前环境,Nicksxs's Blog,https://nicksxs.me/2022/09/04/Apo
 【部署】SpringBoot 项目打包为 Docker Images 并上传到 Docker Hub,框架師,https://www.mobaijun.com/posts/921109798.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-08-29,1661743009.0
 202208：蝉鸣空桑林，八月萧关道,Macin,https://macin.org/2022/08/28/8-yue-zhou-ji/,https://macin.org/,https://www.macin.org/atom.xml,2022-08-28,1661683240.0
 需求定制与产品打磨思考,见字如面,https://hiwannz.com/archives/727,https://hiwannz.com,https://hiwannz.com/feed,2022-08-28,1661682960.0
-跑步时轻轻回忆一下,Macin,https://macin.org/2022/08/26/pao-bu-sui-xiang/,https://macin.org/,https://www.macin.org/atom.xml,2022-08-26,1661548173.0
