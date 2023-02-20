@@ -4,8 +4,8 @@ Golang log 源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2
 使用Go语言实现一个异步任务框架,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_24-gotasks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-24,1587686400.0
 Golang flag源码阅读及自己实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_23-go_flag.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-23,1587600000.0
 Go使用gdb调试,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_23-go_gdb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-23,1587600000.0
-Golang context源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_22-golang_context.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
 Golang ASM简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_22-go_asm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
+Golang context源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_22-golang_context.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
 Golang中的并发控制,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_21-golang_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
 善用闭包(closure)让Go代码更优雅,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_21-use_closure.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
 Golang的可选参数实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
@@ -15,7 +15,7 @@ FreeBSD ipfw使用教程,Jiajun的编程随想,https://jiajunhuang.com/articles/
 Golang expvar库源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_12-expvar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-12,1586649600.0
 Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
 Golang validator使用教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
-使用Redis的Stream模块实现群聊功能,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_09-redis_stream_as_im.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
 价值编程与职业发展,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_09-value_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
+使用Redis的Stream模块实现群聊功能,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_09-redis_stream_as_im.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
 解决k8s cron无法读取环境变量的问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
 人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/posts/life-is-not-a-marathon,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1586012398.0
