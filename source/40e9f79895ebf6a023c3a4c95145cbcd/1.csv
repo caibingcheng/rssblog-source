@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Kubernetes简单入门,Barney's Blog,https://hugo.bnblogs.cc/kubernetes%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-20,1676897885.0
 Docker Compose+Dockerfile搭建elasticsearch7.8.0与kibana,Barney's Blog,https://hugo.bnblogs.cc/docker-compose-dockerfile%E6%90%AD%E5%BB%BAelasticsearch7.8.0%E4%B8%8Ekibana/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-19,1676793681.0
 Ubuntu安装mwget,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E5%AE%89%E8%A3%85mwget/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-04,1675491823.0
 如何同时配置两个github账户,Barney's Blog,https://hugo.bnblogs.cc/%E5%A6%82%E4%BD%95%E5%90%8C%E6%97%B6%E9%85%8D%E7%BD%AE%E5%A4%9A%E4%B8%AAgithub%E8%B4%A6%E6%88%B7/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-03,1675434832.0
@@ -19,8 +20,8 @@ java多线程和锁,Barney's Blog,https://hugo.bnblogs.cc/java%E5%A4%9A%E7%BA%BF
 Gitea+drone搭建CICD环境,Barney's Blog,https://hugo.bnblogs.cc/gitea-drone-cicd/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-08,1667902286.0
 Ubuntu20.04服务器配置,Barney's Blog,https://hugo.bnblogs.cc/ubuntu20.04%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-07,1667833437.0
 java-类和对象,Barney's Blog,https://hugo.bnblogs.cc/java-2/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-06,1667728523.0
-java核心技术(1)第3章-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java%E5%9F%BA%E7%A1%80/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 java-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java-1/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
+java核心技术(1)第3章-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java%E5%9F%BA%E7%A1%80/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 Gitea+drone搭建CICD环境,Barney's Blog,https://hugo.bnblogs.cc/gitea-drone%E6%90%AD%E5%BB%BAcicd%E7%8E%AF%E5%A2%83/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-01,1667285799.0
 Hugo创建个人网站并部署到vps,Barney's Blog,https://hugo.bnblogs.cc/hugo%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E5%B9%B6%E9%83%A8%E7%BD%B2%E5%88%B0vps/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-31,1667203935.0
 个人云服务器搭建git服务器,Barney's Blog,https://hugo.bnblogs.cc/%E4%B8%AA%E4%BA%BA%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BAgit%E6%9C%8D%E5%8A%A1%E5%99%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-31,1667198819.0
@@ -48,4 +49,3 @@ Nginx安装和卸载,Barney's Blog,https://hugo.bnblogs.cc/nginx%E5%AE%89%E8%A3%
 修复Uptime Kuma一个小错误,Barney's Blog,https://hugo.bnblogs.cc/%E4%BF%AE%E5%A4%8Duptime-kuma%E4%B8%80%E4%B8%AA%E5%B0%8F%E9%94%99%E8%AF%AF/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-17,1647517507.0
 修改了ssh默认端口如何配置git,Barney's Blog,https://hugo.bnblogs.cc/%E4%BF%AE%E6%94%B9%E4%BA%86ssh%E9%BB%98%E8%AE%A4%E7%AB%AF%E5%8F%A3%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AEgit/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-14,1647241133.0
 Go语言语法踩坑,Barney's Blog,https://hugo.bnblogs.cc/go%E8%AF%AD%E8%A8%80%E8%AF%AD%E6%B3%95%E8%B8%A9%E5%9D%91/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646754974.0
-Ubuntu20.04彻底卸载mysql8.0,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BDmysql8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646731549.0

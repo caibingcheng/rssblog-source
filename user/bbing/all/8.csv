@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+写给开发人员的实用密码学（五）—— 密钥交换 DHKE 与完美前向保密 PFS,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-5-key-exchange/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126105.0
 写给开发人员的实用密码学（四）—— 安全随机数生成器 CSPRNG,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-4-secure-random-generators/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126104.0
 写给开发人员的实用密码学（三）—— MAC 与密钥派生函数 KDF,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-3-key-derivation-function/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126103.0
 写给开发人员的实用密码学（二）—— 哈希函数,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-2-hash/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126101.0
@@ -37,8 +38,8 @@ C#图像压缩相关方法总结,DearXuan的主页,https://blog.dearxuan.com/202
 C#图像压缩相关方法总结,DearXuan的主页,https://dearxuan.top/2022/02/07/C-%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E7%9B%B8%E5%85%B3%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-07,1644237540.0
 本站统计数据,This Cute World,https://thiscute.world/statistics/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-07,1644231395.0
 痛苦的大年初二,LonelyGod,https://hin.cool/posts/ihatemymom.html,https://hin.cool/,https://hin.cool/atom.xml,2022-02-02,1643830821.0
-算法基础-顺序统计量,DearXuan的主页,https://dearxuan.top/2022/01/30/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1%E9%87%8F/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-01-30,1643546700.0
 算法基础-顺序统计量,DearXuan的主页,https://blog.dearxuan.com/2022/01/30/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1%E9%87%8F/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-30,1643546700.0
+算法基础-顺序统计量,DearXuan的主页,https://dearxuan.top/2022/01/30/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1%E9%87%8F/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-01-30,1643546700.0
 程序的栈帧,BBing's Blog,https://bbing.com.cn/202201/framestack/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-01-26,1643174330.0
 Online Pricing and Trading of Private Data in Correlated Queries,Barney's Blog,https://hugo.bnblogs.cc/paper07/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-01-25,1643118527.0
 回乡记,LonelyGod,https://hin.cool/posts/huixiangji.html,https://hin.cool/,https://hin.cool/atom.xml,2022-01-24,1643062201.0
@@ -48,4 +49,3 @@ Kubernetes 微服务最佳实践,This Cute World,https://thiscute.world/posts/ku
 算法基础-函数渐近,DearXuan的主页,https://dearxuan.top/2022/01/24/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E5%87%BD%E6%95%B0%E6%B8%90%E8%BF%91/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-01-24,1643016720.0
 glibc-exit源码阅读,BBing's Blog,https://bbing.com.cn/202201/glibc-exit/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-01-24,1642994496.0
 Bber和aplayer折腾感想,LonelyGod,https://hin.cool/posts/xiazheteng.html,https://hin.cool/,https://hin.cool/atom.xml,2022-01-22,1642881710.0
-算法基础-排序方法,DearXuan的主页,https://blog.dearxuan.com/2022/01/22/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E6%8E%92%E5%BA%8F%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-22,1642852320.0
