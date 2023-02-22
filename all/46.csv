@@ -1,11 +1,13 @@
 title,author,link,home,rss,date,timestamp
+搞定面试中的系统设计题,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_29-system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-29,1556496000.0
+hexo-theme-yun 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-hexo-theme-yun/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-27,1556337600.0
 Crontab + Sendmail实现定时任务并且通知,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_25-crontab_sendmail.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-25,1556150400.0
 Nginx设置Referer来防止盗图,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_23-nginx_referer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-23,1555977600.0
 Graphviz dot简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_20-graphviz_dot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-20,1555718400.0
 jQuery简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_19-jquery.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-19,1555632000.0
 Python RQ(Redis Queue)添加gevent支持,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_18-python_rq_gevent.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-18,1555545600.0
-技术人，光有技术是不行的,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_17-tech_only_is_bad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
 读《超级运营术》- 如何做社区？,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_17-chaojiyunyingshu.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
+技术人，光有技术是不行的,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_17-tech_only_is_bad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
 北线无战事,云游君的小站,https://www.yunyoujun.cn/posts/after-2nd-postgraduate-re-exam,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-16,1555420345.0
 瘾的退却,This Cute World,https://thiscute.world/posts/webnovel-addiction-recovery/,https://thiscute.world/,https://thiscute.world/index.xml,2019-04-14,1555248452.0
 仓生,云游君的小站,https://www.yunyoujun.cn/posts/the-common-hamster,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-10,1554936011.0
@@ -47,5 +49,3 @@ Chrome 与 Firefox-Dev 的 DevTools,This Cute World,https://thiscute.world/posts
 给博客添加 DARK Mode ( 黑暗模式 ),FlyingSky's Blog,https://blog.fsky7.com/archives/46/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-01-29,1548768300.0
 Vue 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-learn-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-01-28,1548698304.0
 通过 systemctl 设置自定义 Service,This Cute World,https://thiscute.world/posts/systemd-basics/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-28,1548677580.0
-在 Linux 下搭建 Minecraft 服务器,FlyingSky's Blog,https://blog.fsky7.com/archives/41/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-01-25,1548408600.0
-SQLAlchemy 学习笔记（一）：Engine 与 SQL 表达式语言,This Cute World,https://thiscute.world/posts/sqlalchemy-notes-1-engine-and-sql-expression-language/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-21,1548050520.0
