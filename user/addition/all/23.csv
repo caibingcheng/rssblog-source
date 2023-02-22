@@ -1,9 +1,10 @@
 title,author,link,home,rss,date,timestamp
 2020 年度总结,4Ark,https://4ark.me/posts/2020-summary/,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
+2020 年度总结,4Ark × Blog,https://4ark.me/posts/2020-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
 年度简报 - 2020 | 等待,FlyingSky's Blog,https://blog.fsky7.com/archives/175/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-12-31,1609430400.0
-2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
-二〇二〇年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2020-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 二〇二〇年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
+二〇二〇年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2020-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
+2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 用 Code Snippet 提高开发效率,Randy's Blog,https://lutaonan.com/blog/how-to-use-code-snippets/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-12-25,1608854400.0
 来电拦截方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_23-call_screening.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-23,1608681600.0
 你好，2021！,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_22-hello_2021.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-22,1608595200.0
@@ -38,8 +39,8 @@ DNS Resolving Bug in iOS 14,Bin Wang - My Personal Blog,https://www.binwang.me/2
 Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-02-Use-TLA+-to-Verify-Cache-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-02,1604293200.0
 为啥Redis使用pipelining会更快？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
 Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
-回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
 回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
+回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
 通过阳台种菜实现蔬菜自由,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
 写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-22,1603404285.0
 从GORM里学习到的panic处理方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
@@ -48,4 +49,3 @@ How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang
 记一次因 HSTS 导致跨域问题的经历,4Ark × Blog,https://4ark.me/posts/hsts-problem-solving-experience.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
 记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
 Go使用闭包简化数据库操作代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0
-TCMalloc设计文档学习,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0

@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+尤克里里,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_08_25-ukulele.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-08-25,1472083200.0
 我常用的 macOS 应用,Randy's Blog,https://lutaonan.com/blog/tools-of-my-macbook/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-08-06,1470441600.0
 如何减少浏览器回流,Ahonn's Blog,https://www.ahonn.me/blog/javascript-reduce-the-browser-reflow,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-08-02,1470177993.0
 如何减少浏览器回流,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-reduce-the-browser-reflow,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-08-02,1470177993.0
@@ -22,8 +23,8 @@ foldl 和 foldr 的变换,Jiajun的编程随想,https://jiajunhuang.com/articles
 记第一次面试,Yuexun's Blog,https://yuexunjiang.me/blog/the-first-interview/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 关于部落冲突的二三事儿-序,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-0,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2016-05-12,1463067095.0
 Haskell TypeClass 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_05-typeclassopedia.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-05,1462406400.0
-从 optimizeCb 说起,Ahonn's Blog,https://www.ahonn.me/blog/starting-from-the-optimizeCb,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
 从 optimizeCb 说起,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-the-optimizeCb,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
+从 optimizeCb 说起,Ahonn's Blog,https://www.ahonn.me/blog/starting-from-the-optimizeCb,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
 从 optimizeCb 说起,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-the-optimizeCb/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-03,1462233600.0
 JavaScript 中不合常理的变量提升,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-hoisting/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-28,1461801600.0
 JavaScript 事件流：冒泡与捕获,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-event-stream/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-16,1460764800.0
@@ -33,8 +34,8 @@ JavaScript 原型链探究,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-
 21 岁我想说的,Randy's Blog,https://lutaonan.com/blog/say-in-21/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-25,1458864000.0
 apply， call 与 bind 的区别,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-apply-call-and-bind/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-20,1458432000.0
 我是如何监听 APP 价格变动的,Randy's Blog,https://lutaonan.com/blog/how-do-i-track-app-price/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-16,1458086400.0
-我学五笔的经历,Randy's Blog,https://lutaonan.com/blog/my-wubi-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-14,1457913600.0
 Tornado 源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_14-tornado.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-14,1457913600.0
+我学五笔的经历,Randy's Blog,https://lutaonan.com/blog/my-wubi-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-14,1457913600.0
 JavaScript权威指南笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_06-notes_on_js_the_definitive_guide.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-06,1457222400.0
 Python零碎知识汇总,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_05-python_fragmentary_knowledge.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-05,1457136000.0
 Jade 模板引擎,Yuexun's Blog,https://yuexunjiang.me/blog/jade-template-engine/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-02-29,1456704000.0
@@ -48,4 +49,3 @@ C语言的位操作,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_
 杭州記憶,Just lepture,https://lepture.com/zh/2015/beloved-hangzhou,https://lepture.com/,https://lepture.com/feed.xml,2015-12-24,1450953000.0
 [译] 在 PHP 中如何预防 SQL 注入,Yuexun's Blog,https://yuexunjiang.me/blog/how-can-i-prevent-sql-injection-in-php/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-21,1450656000.0
 PHP cURL 库的简单使用,Yuexun's Blog,https://yuexunjiang.me/blog/simple-use-of-the-php-curl-library/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-19,1450483200.0
-关于python的decorator和descriptor,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_12_05-python_descriptor_and_decorator.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-12-05,1449273600.0

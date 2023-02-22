@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+jQuery简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_19-jquery.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-19,1555632000.0
 Python RQ(Redis Queue)添加gevent支持,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_18-python_rq_gevent.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-18,1555545600.0
 技术人，光有技术是不行的,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_17-tech_only_is_bad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
 读《超级运营术》- 如何做社区？,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_17-chaojiyunyingshu.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
@@ -46,6 +47,5 @@ Vue 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-learn-not
 在 Linux 下搭建 Minecraft 服务器,FlyingSky's Blog,https://blog.fsky7.com/archives/41/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-01-25,1548408600.0
 SQLAlchemy 学习笔记（一）：Engine 与 SQL 表达式语言,This Cute World,https://thiscute.world/posts/sqlalchemy-notes-1-engine-and-sql-expression-language/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-21,1548050520.0
 SQL 基础笔记（三）约束,This Cute World,https://thiscute.world/posts/sql-basics-3-restrict/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-20,1547989726.0
-常见压缩格式的区别，及 Linux 下的压缩相关指令,This Cute World,https://thiscute.world/posts/compression-related-instructions-under-linux/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-14,1547466660.0
 Julia 学习笔记（一）：数组,This Cute World,https://thiscute.world/posts/julia-notes-1-array/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-14,1547466660.0
-健身一年,Randy's Blog,https://lutaonan.com/blog/one-year-of-bulking/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-01-14,1547424000.0
+常见压缩格式的区别，及 Linux 下的压缩相关指令,This Cute World,https://thiscute.world/posts/compression-related-instructions-under-linux/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-14,1547466660.0
