@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+你好，Typlog,Just lepture,https://lepture.com/zh/2017/hello-typlog,https://lepture.com/,https://lepture.com/feed.xml,2017-05-02,1493739135.0
 Greenlet和Stackless Python,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_04_26-greenlet.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-26,1493164800.0
 写一个简单的ORM,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_04_25-write_your_own_orm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-25,1493078400.0
 談談 AMP 及其他,Just lepture,https://lepture.com/zh/2017/thought-on-amp,https://lepture.com/,https://lepture.com/feed.xml,2017-04-20,1492700701.0
@@ -17,8 +18,8 @@ Raft 论文阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2
 做技术要自信,Randy's Blog,https://lutaonan.com/blog/do-have-faith-with-yourself/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-03-14,1489449600.0
 我患上了阅读焦虑症,This Cute World,https://thiscute.world/posts/reading-anxiety/,https://thiscute.world/,https://thiscute.world/index.xml,2017-03-07,1488861540.0
 什么是 Golang Comparable Types,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_06-golang_comparable_types.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-06,1488758400.0
-GFS 论文阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_02-gfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 MapReduce 论文阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_02-map_reduce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
+GFS 论文阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_02-gfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 一起来做贼：Goroutine原理和Work stealing,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
 Vim 折腾记,Yuexun's Blog,https://yuexunjiang.me/blog/notes-of-vim,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
 Vim 折腾记,Ahonn's Blog,https://www.ahonn.me/blog/notes-of-vim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
@@ -48,4 +49,3 @@ Collections 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/
 unittest 源代码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_29-unittest_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-29,1482969600.0
 2016 年终总结,Randy's Blog,https://lutaonan.com/blog/2016-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-12-28,1482883200.0
 APUEv3 - 重读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_26-apue_v3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-26,1482710400.0
-Mock源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_12_22-mock_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-22,1482364800.0
