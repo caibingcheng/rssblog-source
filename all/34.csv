@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+为 linux 安装多媒体解码器,无妄当自持,https://www.insidentally.com/articles/000012/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-05-25,1621947633.0
+浅谈躺平主义,Frank笔记,https://frank2019.me/articles/2021/05/25/1621914886868.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-05-25,1621915330.0
+Redis源码阅读：AOF持久化,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_25-redis_source_code_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-25,1621900800.0
 10本 MongoDB 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/05/25/10-mongodb-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-05-24,1621872000.0
 Java - 泛型,Yulin Lewis' Blog,https://lewky.cn/posts/java-generic.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-05-24,1621870536.0
 MySQL远程连接失败(错误码:2003),框架师,https://www.mobaijun.com/posts/3639136044.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-05-24,1621840240.0
@@ -46,6 +49,3 @@ rust学习笔记-所有权一,Nicksxs's Blog,https://nicksxs.me/2021/04/18/rust%
 rust学习笔记-所有权二,Nicksxs's Blog,https://nicksxs.me/2021/04/18/rust%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E6%89%80%E6%9C%89%E6%9D%83%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-04-18,1618754590.0
 24 天像素画从入门到放弃,萤火之森,http://frankorz.com/2021/04/18/learn-pixel-art/,http://frankorz.com/,https://frankorz.com/atom.xml,2021-04-18,1618749210.0
 Compute Shader 简介,萤火之森,http://frankorz.com/2021/04/17/compute-shader/,http://frankorz.com/,https://frankorz.com/atom.xml,2021-04-17,1618697670.0
-云空调，便携小空调,云游君的小站,https://www.yunyoujun.cn/posts/air-conditioner/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-04-17,1618651127.0
-谈谈 Kubernetes 的问题和局限性,面向信仰编程,https://draveness.me//kuberentes-limitations,https://draveness.me/,https://draveness.me/feed.xml,2021-04-16,1618531200.0
-巴中市如何开具《动物检疫合格证明》,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/739/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-04-15,1618505483.0
