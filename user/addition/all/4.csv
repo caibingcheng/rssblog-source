@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Go mod 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_12_16-go_mod.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-12-16,1671148800.0
 读《Pro Git》,manateelazycat.github.io,//manateelazycat.github.io/reading/git/2022/12/16/reading-pro-git.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-12-16,1671148800.0
 【转载】一把梭：REST API 全用 POST,框架師,https://www.mobaijun.com/posts/2822068467.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-12-15,1671086238.0
 读《Debug Hacks》,manateelazycat.github.io,//manateelazycat.github.io/reading/debug/2022/12/15/reading_debug_hacks.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-12-15,1671062400.0
@@ -48,4 +49,3 @@ mybatis系列-入门篇,Nicksxs's Blog,https://nicksxs.me/2022/11/27/mybatis%E7%
 【工具系列】为你的项目制作 Shields 徽章,框架師,https://www.mobaijun.com/posts/1801508789.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-11-24,1669253613.0
 基于标记对象的键盘宏展开插件,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/24/markmacro.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-24,1669248000.0
 Github Actions Hexo 自动部署,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/758/,https://imba97.cn/,https://imba97.cn/atom.xml,2022-11-22,1669153174.0
-powershell 初体验二,Nicksxs's Blog,https://nicksxs.me/2022/11/20/powershell-%E5%88%9D%E4%BD%93%E9%AA%8C%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-11-20,1668950144.0
