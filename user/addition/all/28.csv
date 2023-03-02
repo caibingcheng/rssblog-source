@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Cloudflare 指定 CDN 节点与缓存配置,ChrAlpha,https://blog.ichr.me/post/cloudflare-cdn-optimize/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-28,1582899925.0
 系统调用的过程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_27-syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-27,1582761600.0
 Parcel.js + Vue 搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-parcel-demo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-26,1582689900.0
 MySQL charset不同导致无法使用索引的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_26-mysql_charset_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-26,1582675200.0
@@ -48,4 +49,3 @@ ArchLinux忽略某个包的升级,Jiajun的编程随想,https://jiajunhuang.com/
 How to style RSS feed,Just lepture,https://lepture.com/en/2019/rss-style-with-xsl,https://lepture.com/,https://lepture.com/feed.xml,2019-12-21,1576916648.0
 SQLAlchemy使用主从与数据库autocommit,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_21-autocommit.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-21,1576886400.0
 Blackbox禁用IPv6,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_19-blackbox_disable_ipv6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-19,1576713600.0
-Go 1.13的errors挺香,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_18-golang_133_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
