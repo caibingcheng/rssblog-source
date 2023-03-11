@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+个人云服务器搭建git服务器,Barney's Blog,https://hugo.bnblogs.cc/%E4%B8%AA%E4%BA%BA%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BAgit%E6%9C%8D%E5%8A%A1%E5%99%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-31,1667198819.0
+编写可维护的单元测试代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_31-goconvey.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-31,1667174400.0
+杜老师提供非自助服务状态监控平台,杜老师说,https://dusays.com/520/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-30,1667145600.0
 记录下 redis 的一些使用方法,Nicksxs's Blog,https://nicksxs.me/2022/10/30/%E8%AE%B0%E5%BD%95%E4%B8%8B-redis-%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-30,1667135861.0
 【RustDesk】自建远程桌面服务替代TeamViewer/Todesk,Luminous' Home,https://luotianyi.vc/6542.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-10-29,1667055068.0
 RSS Brain: Yet Another RSS Reader， With More Features,Bin Wang - My Personal Blog,https://www.binwang.me/2022-10-29-RSS-Brain-Yet-Another-RSS-Reader-With-More-Features.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2022-10-29,1667016000.0
@@ -38,14 +41,11 @@ frp内网穿透记录,Barney's Blog,https://hugo.bnblogs.cc/frp%E5%86%85%E7%BD%9
 OAuth 2 详解（六）：Authorization Code Flow with PKCE,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_12-oauth2_explained_authorization_code_pkce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-12,1665532800.0
 使用 Deno 和 Puppeteer 获取在线翻译内容,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/deno-deepl.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
 Elisp Get free port,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/elisp-get-free-port.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
-文件和文件夹md5工具-md5any,Bing's Blog,https://bbing.com.cn/202210/md5fileandic-md5any/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-10-11,1665491893.0
 文件和文件夹md5工具-md5any,Bing's Blog,https://imcbc.cn/202210/md5fileandic-md5any/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-10-11,1665491893.0
+文件和文件夹md5工具-md5any,Bing's Blog,https://bbing.com.cn/202210/md5fileandic-md5any/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-10-11,1665491893.0
 再谈学语言的重要性,辛未羊的网络日志,https://panqiincs.me/2022/10/11/language-is-important/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-10-11,1665486409.0
 NENO – 用 Github 自建类 Flomo 子弹笔记软件,Another Dayu,https://anotherdayu.com/2022/3627/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-11,1665482978.0
 iOS 翻译体验优化（欧路词典 + Shortcuts + Back Tap）,Another Dayu,https://anotherdayu.com/2022/3623/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-11,1665479937.0
 OAuth 2 详解（五）：Device Authorization Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_11-oauth2_explained_device_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-11,1665446400.0
 雾起江州：从这里陷入一个自我困境,Macin,https://macin.org/2022/10/10/wu-qi-jiang-zhou/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-10,1665428251.0
 打算做出一个决定，关于这个博客的决定,冰哥笔记,https://www.bgbiji.com/1115.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-10-10,1665394223.0
-【随笔】Maven 中 dependencyManagement 标签作用说明,框架師,https://www.mobaijun.com/posts/2616135476.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-10-10,1665362650.0
-OAuth 2 详解（四）：Client Credentials Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_client_credentials.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
-OAuth 2 详解（三）：Resource Owner Password Credentials Grant,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_password.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0

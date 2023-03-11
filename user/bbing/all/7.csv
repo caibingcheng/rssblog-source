@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+NAT 网关、NAT 穿越以及虚拟网络,This Cute World,https://thiscute.world/posts/about-nat/,https://thiscute.world/,https://thiscute.world/index.xml,2022-05-13,1652413560.0
 别了，珈乐,Yulin Lewis' Blog,https://lewky.cn/posts/asoul-jiale/,https://lewky.cn/,https://lewky.cn/index.xml,2022-05-11,1652283034.0
 在 Linux 搭建 Minecraft 服务端,杜老师说,https://dusays.com/462/,https://dusays.com/,https://dusays.com/atom.xml,2022-05-10,1652198400.0
 在群晖上使用 Docker 安装 Lsky Pro 图床「SQLite 版」,杜老师说,https://dusays.com/461/,https://dusays.com/,https://dusays.com/atom.xml,2022-05-07,1651939200.0
@@ -46,6 +47,5 @@ NULL和nullptr实际问题分析,BBing's Blog,https://bbing.com.cn/202203/null-n
 ELK系列(6) - Elasticsearch常用接口,Yulin Lewis' Blog,https://lewky.cn/posts/elk-6/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-21,1647823081.0
 我的域名折腾史,LonelyGod,https://hin.cool/posts/mydomain.html,https://hin.cool/,https://hin.cool/atom.xml,2022-03-19,1647727201.0
 ELK系列(5) - Elasticsearch性能调优,Yulin Lewis' Blog,https://lewky.cn/posts/elk-5/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-19,1647700025.0
-深度学习基础-线性回归,DearXuan的主页,https://dearxuan.top/2022/03/18/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80-%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-18,1647612180.0
 深度学习基础-线性回归,DearXuan的主页,https://blog.dearxuan.com/2022/03/18/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80-%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-18,1647612180.0
-Hugo的Loveit主题修改sitemap,cywhat's blog,https://cywhat.cn/Hugo%E7%9A%84Loveit%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9sitemap.xml%E9%85%8D%E7%BD%AE/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-03-18,1647574281.0
+深度学习基础-线性回归,DearXuan的主页,https://dearxuan.top/2022/03/18/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80-%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-18,1647612180.0
