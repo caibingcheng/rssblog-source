@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【后端】IntelliJ IDEA 快速自动生成 Junit 测试类,框架師,https://www.mobaijun.com/posts/3073865067.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-03-13,1678679366.0
 【随笔】关于 GitHub Actions Error: Process completed with exit code 128. 的解决方案,框架師,https://www.mobaijun.com/posts/1959112193.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-03-04,1677896639.0
 【Linux 系列】Watchtower - 自动更新 Docker 镜像与容器,框架師,https://www.mobaijun.com/posts/863705360.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-12-19,1671414110.0
 【转载】一把梭：REST API 全用 POST,框架師,https://www.mobaijun.com/posts/2822068467.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-12-15,1671086238.0
@@ -48,4 +49,3 @@ title,author,link,home,rss,date,timestamp
 转载|漫画｜面试焦虑？滚开！,框架师,https://www.mobaijun.com/posts/244631694.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-08,1631089299.0
 Java数据类型和MySql数据类型对应表,框架师,https://www.mobaijun.com/posts/961492254.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-19,1629343670.0
 Ubuntu 20.04.2 LTS Server版本设置静态IP地址,框架师,https://www.mobaijun.com/posts/594559550.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-18,1629285329.0
-SpringBoot监控工具之《Actuator》,框架师,https://www.mobaijun.com/posts/283491354.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-05,1628127593.0
