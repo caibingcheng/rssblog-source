@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+修复Linux下curl等无法使用letsencrypt证书,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_26-lets_encrypt_linux_shell.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-26,1574726400.0
+欣赏一下K&R两位大神的代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_24-code_from_k_and_r.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-24,1574553600.0
 MySQL的ON DUPLICATE KEY UPDATE语句,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_19-mysql_duplicate_key_update.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-19,1574121600.0
 使用microk8s快速搭建k8s,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_17-microk8s.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-17,1573948800.0
 Python中优雅的处理文件路径,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_15-python_pathlib_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-15,1573776000.0
@@ -33,8 +35,8 @@ Github Page + Hexo 免费搭建个人博客教程,ChrAlpha,https://blog.ichr.me/
 我在 UC 做的前端工程化探索,Randy's Blog,https://lutaonan.com/blog/what-i-have-done-at-UC/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-27,1569542400.0
 关于ORM的思考,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_26-orm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-26,1569456000.0
 MySQL指定使用索引(使用索引提示),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_25-mysql_use_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-25,1569369600.0
-QT5使用GTK主题,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_23-qt5_gtk_theme.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 搭建samba服务器,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_23-samba.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
+QT5使用GTK主题,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_23-qt5_gtk_theme.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
 ssh时自动运行tmux,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0
@@ -47,5 +49,3 @@ Golang(Go语言)爬虫框架colly简明教程及源码阅读与分析,Jiajun的�
 选择合适的技术栈,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_30-choose_properly_tech.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-30,1567123200.0
 Golang的template(模板引擎)简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_23-golang_html_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-23,1566518400.0
 毕业三年，一路走来,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_21-three_years_after_graduate.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-21,1566345600.0
-关于 tapable 你需要知道这些,Ahonn's Blog,https://www.ahonn.me/blog/about-tapable-you-need-to-know-these,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
-关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
