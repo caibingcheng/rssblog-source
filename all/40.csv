@@ -17,8 +17,8 @@ Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,htt
 从GORM里学习到的panic处理方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
 写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
 How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-18,1602993600.0
-记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
 记一次因 HSTS 导致跨域问题的经历,4Ark × Blog,https://4ark.me/posts/hsts-problem-solving-experience.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
+记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
 Go使用闭包简化数据库操作代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0
 Hugo系列(4) - 从Hexo迁移至Hugo以及使用LoveIt主题的踩坑记录,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-4.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-12,1602516495.0
 Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-3.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-11,1602393076.0
@@ -34,8 +34,8 @@ Understand Liveness and Fairness in TLA+,Bin Wang - My Personal Blog,https://www
 观测者：数据爬虫与处理，历史数据可视化视频与用户排名,FlyingSky's Blog,https://blog.fsky7.com/archives/167/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-10-02,1601651280.0
 写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-09-29,1601337600.0
 ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601321597.0
-写给 VS Code 用户的 Vim 入坑指南,Ahonn's Blog,https://www.ahonn.me/blog/the-vim-guide-for-vs-code-users,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
 写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
+写给 VS Code 用户的 Vim 入坑指南,Ahonn's Blog,https://www.ahonn.me/blog/the-vim-guide-for-vs-code-users,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
 ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601292797.0
 Flask和requests做一个简单的请求代理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
 借助 Magisk 优化/个性化 Android 中文字体显示效果,ChrAlpha,https://blog.ichr.me/post/improve-android-font-style-with-magisk/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-09-25,1601064971.0
