@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+提取kindle笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_04-kindle_highlights.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-04,1567555200.0
 一个Golang gRPC握手错误的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_09_02-go_grpc_handshake.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-02,1567382400.0
 Golang(Go语言)爬虫框架colly简明教程及源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_31-go_colly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-31,1567209600.0
 选择合适的技术栈,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_30-choose_properly_tech.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-30,1567123200.0
@@ -38,8 +39,8 @@ frp 源码阅读与分析(二)：TCP内网穿透的实现,Jiajun的编程随想,
 五天不用微信 - 爽得很,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_15-leave_wechat_for_5_days.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-15,1560556800.0
 我想得到它，因为它是好的,Randy's Blog,https://lutaonan.com/blog/want-it-cuz-it-is-right/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-13,1560384000.0
 为你写的一首诗,Randy's Blog,https://lutaonan.com/blog/a-poem-for-you/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-12,1560297600.0
-博客近期的变化,Randy's Blog,https://lutaonan.com/blog/nearly-blog-change/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-11,1560211200.0
 frp 源码阅读与分析(一)：流程和概念,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_11-frpc_source_code_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-11,1560211200.0
+博客近期的变化,Randy's Blog,https://lutaonan.com/blog/nearly-blog-change/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-11,1560211200.0
 学习frp源码之简洁的在两个connection之间转发流量,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_10-learn_from_frp_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-10,1560124800.0
 談談獨立播客,Just lepture,https://lepture.com/zh/2019/indie-podcasts,https://lepture.com/,https://lepture.com/feed.xml,2019-06-09,1560063101.0
 自己动手写一个反向代理,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_09-write_you_a_simple_reverse_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-09,1560038400.0
@@ -48,4 +49,3 @@ frp 源码阅读与分析(一)：流程和概念,Jiajun的编程随想,https://j
 写给可爱的学弟学妹们,云游君的小站,https://www.yunyoujun.cn/posts/to-lovely-junior,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-06-06,1559817413.0
 socks5 协议详解,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_06-socks5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
 服务器IP被ban学到的经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_06-ip_ban.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
-开启HSTS(HTTP Strict Transport Security),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_04-hsts.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-04,1559606400.0

@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+如何使用 Hammerspoon 实现剪贴板历史,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
+Deepin 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/deepin-use-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-29,1556562227.0
 搞定面试中的系统设计题,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_29-system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-29,1556496000.0
 hexo-theme-yun 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-hexo-theme-yun/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-27,1556337600.0
 Crontab + Sendmail实现定时任务并且通知,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_25-crontab_sendmail.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-25,1556150400.0
@@ -47,5 +49,3 @@ Chrome 与 Firefox-Dev 的 DevTools,This Cute World,https://thiscute.world/posts
 导出「你的日记」与导入「一本日记」,云游君的小站,https://www.yunyoujun.cn/note/export-nideriji-and-import-1diary/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-01-31,1548923883.0
 记一次Golang TLS编程踩坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_01_30-golang_tls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-30,1548806400.0
 给博客添加 DARK Mode ( 黑暗模式 ),FlyingSky's Blog,https://blog.fsky7.com/archives/46/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-01-29,1548768300.0
-Vue 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-learn-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-01-28,1548698304.0
-通过 systemctl 设置自定义 Service,This Cute World,https://thiscute.world/posts/systemd-basics/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-28,1548677580.0
