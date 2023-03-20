@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
 记第一次面试,Yuexun's Blog,https://yuexunjiang.me/blog/the-first-interview/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
+使用 JavaScript 实现简单的拖拽,Yuexun's Blog,https://yuexunjiang.me/blog/use-javascript-to-achieve-simple-drag-and-drop/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 关于部落冲突的二三事儿-序,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-0,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2016-05-12,1463067095.0
 Haskell TypeClass 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_05-typeclassopedia.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-05,1462406400.0
 从 optimizeCb 说起,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-the-optimizeCb,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
@@ -13,8 +14,8 @@ JavaScript 原型链探究,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-
 21 岁我想说的,Randy's Blog,https://lutaonan.com/blog/say-in-21/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-25,1458864000.0
 apply， call 与 bind 的区别,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-apply-call-and-bind/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-20,1458432000.0
 我是如何监听 APP 价格变动的,Randy's Blog,https://lutaonan.com/blog/how-do-i-track-app-price/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-16,1458086400.0
-我学五笔的经历,Randy's Blog,https://lutaonan.com/blog/my-wubi-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-14,1457913600.0
 Tornado 源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_14-tornado.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-14,1457913600.0
+我学五笔的经历,Randy's Blog,https://lutaonan.com/blog/my-wubi-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-14,1457913600.0
 JavaScript权威指南笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_06-notes_on_js_the_definitive_guide.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-06,1457222400.0
 Python零碎知识汇总,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_05-python_fragmentary_knowledge.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-05,1457136000.0
 Jade 模板引擎,Yuexun's Blog,https://yuexunjiang.me/blog/jade-template-engine/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-02-29,1456704000.0
@@ -48,4 +49,3 @@ Block I/O,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_06_22-note
 東北偏北，漠河之美,Just lepture,https://lepture.com/zh/2015/a-trip-in-mohe,https://lepture.com/,https://lepture.com/feed.xml,2015-01-25,1422213900.0
 关于输入法的猜想,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_01_11-my_guess_about_input_method.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-01-11,1420934400.0
 2014 年终总结,Randy's Blog,https://lutaonan.com/blog/2014-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2014-12-31,1419984000.0
-Google 的初見面,Just lepture,https://lepture.com/zh/2014/first-sight-of-google,https://lepture.com/,https://lepture.com/feed.xml,2014-12-28,1419794400.0
