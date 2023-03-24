@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Java8补充,Barney's Blog,https://hugo.bnblogs.cc/java8%E8%A1%A5%E5%85%85/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-22,1679465459.0
 Spring组件注册(转载),Barney's Blog,https://hugo.bnblogs.cc/spring%E7%BB%84%E4%BB%B6%E6%B3%A8%E5%86%8C/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-21,1679395677.0
 使用Spring Boot Admin服务,Barney's Blog,https://hugo.bnblogs.cc/springboot-admin/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-20,1679296424.0
 SpringBoot发送邮件,Barney's Blog,https://hugo.bnblogs.cc/springboot%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-19,1679233316.0
@@ -48,4 +49,3 @@ Hugo创建个人网站并部署到vps,Barney's Blog,https://hugo.bnblogs.cc/hugo
 个人云服务器搭建git服务器,Barney's Blog,https://hugo.bnblogs.cc/%E4%B8%AA%E4%BA%BA%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BAgit%E6%9C%8D%E5%8A%A1%E5%99%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-31,1667198819.0
 frp内网穿透记录,Barney's Blog,https://hugo.bnblogs.cc/frp%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-12,1665568522.0
 git撤销操作,Barney's Blog,https://hugo.bnblogs.cc/git%E6%92%A4%E9%94%80%E6%93%8D%E4%BD%9C/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-07,1665158572.0
-curl使用,Barney's Blog,https://hugo.bnblogs.cc/curl%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-07,1665141099.0
