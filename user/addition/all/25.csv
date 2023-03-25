@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Redis Implementation for Cache and Database Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-12-14-Redis-Implementation-for-Cache-and-Database-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-12-14,1607922000.0
 如何找到你朋友的社交账号,云游君的小站,https://www.yunyoujun.cn/posts/find-npy-social-account,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-12-12,1607731380.0
 Android SwipeRefreshLayout左右滑动冲突的解决,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_12-android_swiperefresh_swipe_left_right.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-12,1607731200.0
 Android调用gRPC的两个小工具函数,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_07-android_kotlin_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-07,1607299200.0
@@ -24,8 +25,8 @@ DNS Resolving Bug in iOS 14,Bin Wang - My Personal Blog,https://www.binwang.me/2
 Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-02-Use-TLA+-to-Verify-Cache-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-02,1604293200.0
 为啥Redis使用pipelining会更快？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
 Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
-回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
 回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
+回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
 通过阳台种菜实现蔬菜自由,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
 写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-22,1603404285.0
 从GORM里学习到的panic处理方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
@@ -48,4 +49,3 @@ ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an
 写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
 写给 VS Code 用户的 Vim 入坑指南,Ahonn's Blog,https://www.ahonn.me/blog/the-vim-guide-for-vs-code-users,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
 ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601292797.0
-Flask和requests做一个简单的请求代理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0

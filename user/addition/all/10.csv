@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+错误处理实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_07_27-how_to_return_error.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-27,1658880000.0
 记录自己 | 2022.07.26,冰哥笔记,https://www.bgbiji.com/1086.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-26,1658847278.0
 【工具系列】Hexo 插件给中英文之间加空格,框架師,https://www.mobaijun.com/posts/267676524.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-26,1658815229.0
 购车记——长安Uni-V,瓦解的生活记事,https://hin.cool/posts/goucheji.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-07-25,1658790601.0
@@ -8,8 +9,8 @@ title,author,link,home,rss,date,timestamp
 Artitalk+CFWorker配置教程,SinGO博客,https://blog.xsnet.eu.org/posts/7406/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-07-24,1658684915.0
 记录自己 | 2022.07.24,冰哥笔记,https://www.bgbiji.com/1080.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-24,1658671267.0
 Artitalk+CFWorker配置教程,SinGO博客,https://blog.xsnetw.cf/posts/7406/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-07-24,1658656115.0
-使用 Vercel 自动部署 Hexo,岚天小窝,https://blog.ltya.top/posts/Automatically-deploy-Hexo-in-Vercel.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
 使用 Hexo 搭建静态博客,岚天小窝,https://blog.ltya.top/posts/how-to-initialize-hexo.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
+使用 Vercel 自动部署 Hexo,岚天小窝,https://blog.ltya.top/posts/Automatically-deploy-Hexo-in-Vercel.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
 记录自己 | 2022.07.23,冰哥笔记,https://www.bgbiji.com/1078.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-23,1658585100.0
 记录人生的尝试之二,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/2022-record-activities-on-calendar.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-07-23,1658562900.0
 从一次 yarn 命令死循环说起,4Ark × Blog,https://4ark.me/post/yarn-cwd-issue.html,https://4ark.me/,https://4ark.me/rss.xml,2022-07-23,1658534400.0
@@ -48,4 +49,3 @@ mybatis 的 foreach 使用的注意点,Nicksxs's Blog,https://nicksxs.me/2022/07
 记录自己 | 2022.07.09,冰哥笔记,https://www.bgbiji.com/1048.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-09,1657376606.0
 [译] On Intellectual Humility,Another Dayu,https://anotherdayu.com/2022/3553/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-07-08,1657248706.0
 我太喜欢游泳了,见字如面,https://hiwannz.com/archives/687,https://hiwannz.com,https://hiwannz.com/feed,2022-07-06,1657080205.0
-OIDC(OpenID Connect) 简介,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_07_06-openid_connect.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-06,1657065600.0
