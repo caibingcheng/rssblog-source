@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+「转」MIRT出征广马——首次摸到330的边儿,This Cute World,https://thiscute.world/posts/likenttt-2020-12-13-guangzhou-marathon-3_30_15/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-26,1645865940.0
+写作六年，我终于摸索出一套适合自己的高效写作方式,冰哥笔记,https://www.bgbiji.com/869.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-02-25,1645750216.0
 Flask路由基础,DearXuan的主页,https://blog.dearxuan.com/2022/02/24/Flask%E8%B7%AF%E7%94%B1%E5%9F%BA%E7%A1%80/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-24,1645697400.0
 Flask路由基础,DearXuan的主页,https://dearxuan.top/2022/02/24/Flask%E8%B7%AF%E7%94%B1%E5%9F%BA%E7%A1%80/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-24,1645697400.0
 本质性的塔西佗--丰县,Frank笔记,https://frank2019.me/articles/2022/02/24/1645667850376.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-02-24,1645667850.0
@@ -13,8 +15,8 @@ glibc-fopen源码阅读-补充篇-open系统调用,BBing's Blog,https://bbing.co
 读《查理芒格传》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/02/21/reading-charlie-munger.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-21,1645401600.0
 聊聊这次换车牌及其他,Nicksxs's Blog,https://nicksxs.me/2022/02/20/%E8%81%8A%E8%81%8A%E8%BF%99%E6%AC%A1%E6%8D%A2%E8%BD%A6%E7%89%8C%E5%8F%8A%E5%85%B6%E4%BB%96/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-20,1645365541.0
 命,非理勿试,https://www.ntiy.com/1714.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-02-20,1645355921.0
-python调用英伟达GPU加速方法,DearXuan的主页,https://blog.dearxuan.com/2022/02/20/python%E8%B0%83%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-20,1645336500.0
 python调用英伟达GPU加速方法,DearXuan的主页,https://dearxuan.top/2022/02/20/python%E8%B0%83%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-20,1645336500.0
+python调用英伟达GPU加速方法,DearXuan的主页,https://blog.dearxuan.com/2022/02/20/python%E8%B0%83%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-20,1645336500.0
 周刊第1期：搬新家了,4Ark × Blog,https://4ark.me/post/weekly-01.html,https://4ark.me/,https://4ark.me/rss.xml,2022-02-20,1645315200.0
 新的旅途,Frank笔记,https://frank2019.me/articles/2022/02/19/1645284564621.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-02-19,1645284564.0
 尝试下Amann的数学分析,辛未羊的网络日志,https://panqiincs.me/2022/02/18/attempt-amann-analysis/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-02-18,1645178812.0
@@ -47,5 +49,3 @@ python实现RSA加密数字,DearXuan的主页,https://dearxuan.top/2022/02/09/py
 Split Monolith Into Micro Front End,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220208-split-monolith-into-micro-front-end,https://teobler.com,https://teobler.com/rss.xml,2022-02-08,1644325560.0
 开源一个 PHP 多版本共存 docker 环境,把酒诗代码，趁乱写年华。,https://102no.com/2022/02/08/docker-mutli-php-versions/,https://102no.com/,https://102no.com/atom.xml,2022-02-07,1644249600.0
 C#图像压缩相关方法总结,DearXuan的主页,https://blog.dearxuan.com/2022/02/07/C-%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E7%9B%B8%E5%85%B3%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-07,1644237540.0
-C#图像压缩相关方法总结,DearXuan的主页,https://dearxuan.top/2022/02/07/C-%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E7%9B%B8%E5%85%B3%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-07,1644237540.0
-本站统计数据,This Cute World,https://thiscute.world/statistics/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-07,1644231395.0
