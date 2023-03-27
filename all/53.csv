@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
 Nginx作为TCP/UDP的负载均衡,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-nginx_as_tcp_load_balancing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
+Web开发系列(十一）：数据库扩展,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part11.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发系列(九)：消息队列，异步任务,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发系列(六)：关系型数据库，ORM,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(七)：缓存，CDN,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_18-web_dev_part7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
@@ -48,4 +49,3 @@ A semantic BEM style,Just lepture,https://lepture.com/en/2017/semantic-bem-style
 Golang Map 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_27-golang_map.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-27,1501113600.0
 MySQL 零碎知识 - MySQL必知必会,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_26-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-26,1501027200.0
 【定格动画】交换/EXchange,云游君的小站,https://www.yunyoujun.cn/posts/stop-motion-animation-exchange,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-24,1500919474.0
-万恶的BOM：ï»¿ 与 \ufeff,Yuexun's Blog,https://yuexunjiang.me/blog/the-evil-of-the-BOM-ufeff-and-i%C2%BB%C2%BF/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-07-24,1500854400.0
