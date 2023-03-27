@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+java-接口、lambda表达式,Barney's Blog,https://hugo.bnblogs.cc/java-4/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-15,1668525204.0
+Jenkins插件无法安装解决,cywhat's blog,https://cywhat.cn/Jenkins%E6%8F%92%E4%BB%B6%E6%97%A0%E6%B3%95%E5%AE%89%E8%A3%85%E8%A7%A3%E5%86%B3/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-15,1668497251.0
+Jenkins报错 Bash:newman:command Not Found,cywhat's blog,https://cywhat.cn/Jenkins%E6%8A%A5%E9%94%99-bashnewmancommand-not-found/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-15,1668496771.0
 读《英语魔法师之语法俱乐部》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/15/reading-english-magicia.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-15,1668470400.0
 挂机放置类小游戏,杜老师说,https://dusays.com/525/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-14,1668441600.0
 dotfiles之外的一些应用,Bing's Blog,https://imcbc.cn/202211/dotfiles-more/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
@@ -8,10 +11,10 @@ powershell 初体验,Nicksxs's Blog,https://nicksxs.me/2022/11/13/powershell-%E5
 悬崖村：徒步20km的知秋行,Macin,https://macin.org/2022/11/13/xuan-ya-cun/,https://macin.org/,https://www.macin.org/atom.xml,2022-11-13,1668345615.0
 java-继承和多态,Barney's Blog,https://hugo.bnblogs.cc/java-3/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-13,1668325344.0
 java多线程和锁,Barney's Blog,https://hugo.bnblogs.cc/java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%92%8C%E9%94%81/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-12,1668248382.0
-稳定建站服务器:蓝易云,DearXuan的主页,https://blog.dearxuan.com/2022/11/12/%E8%93%9D%E6%98%93%E4%BA%91-%E5%BB%BA%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-11-12,1668224264.0
 稳定建站服务器:蓝易云,DearXuan的主页,https://blog.dearxuan.com/2022/11/12/%E7%A8%B3%E5%AE%9A%E5%BB%BA%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8-%E8%93%9D%E6%98%93%E4%BA%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-11-12,1668224264.0
-读《吴军数学通识讲义》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/12/reading-general-mathematics.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-12,1668211200.0
+稳定建站服务器:蓝易云,DearXuan的主页,https://blog.dearxuan.com/2022/11/12/%E8%93%9D%E6%98%93%E4%BA%91-%E5%BB%BA%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-11-12,1668224264.0
 读《吴军数学通识讲义》,manateelazycat.github.io,//manateelazycat.github.io/reading/math/2022/11/12/reading-general-mathematics.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-12,1668211200.0
+读《吴军数学通识讲义》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/12/reading-general-mathematics.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-12,1668211200.0
 杜老师建站史,杜老师说,https://dusays.com/524/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-11,1668182400.0
 Linux安装newman生成postman脚本报告,cywhat's blog,https://cywhat.cn/Linux%E5%AE%89%E8%A3%85newman%E7%94%9F%E6%88%90postman%E8%84%9A%E6%9C%AC%E6%8A%A5%E5%91%8A/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-10,1668064091.0
 Notice,FlyingSky's Blog,https://blog.fsky7.com/archives/258/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2022-11-10,1668049260.0
@@ -46,6 +49,3 @@ NovelAI-WebUI安装教程,DearXuan的主页,https://blog.dearxuan.com/2022/11/02
 Gitea+drone搭建CICD环境,Barney's Blog,https://hugo.bnblogs.cc/gitea-drone%E6%90%AD%E5%BB%BAcicd%E7%8E%AF%E5%A2%83/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-01,1667285799.0
 Bilibili 2022 技术对抗赛 Write-up,FlyingSky's Blog,https://blog.fsky7.com/technology/87,https://blog.fsky7.com,https://blog.fsky7.com/feed,2022-11-01,1667275200.0
 Hugo创建个人网站并部署到vps,Barney's Blog,https://hugo.bnblogs.cc/hugo%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E5%B9%B6%E9%83%A8%E7%BD%B2%E5%88%B0vps/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-31,1667203935.0
-个人云服务器搭建git服务器,Barney's Blog,https://hugo.bnblogs.cc/%E4%B8%AA%E4%BA%BA%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BAgit%E6%9C%8D%E5%8A%A1%E5%99%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-31,1667198819.0
-编写可维护的单元测试代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_31-goconvey.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-31,1667174400.0
-杜老师提供非自助服务状态监控平台,杜老师说,https://dusays.com/520/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-30,1667145600.0

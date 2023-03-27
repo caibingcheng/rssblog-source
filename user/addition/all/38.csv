@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+Golang slice 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_18-golang_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-18,1500336000.0
+经典好书推荐(2017),Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_15-books.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-15,1500076800.0
+水彩原创头像尝试,云游君的小站,https://www.yunyoujun.cn/posts/a-try-about-watercolor-portrait,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-12,1499894106.0
 Golang log库 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_07_11-golang_log.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-11,1499731200.0
 云游君表情包制作计划,云游君的小站,https://www.yunyoujun.cn/posts/yunyoujun-meme,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-10,1499683297.0
 小说连载初尝试-《阿庫娅的星球》,云游君的小站,https://www.yunyoujun.cn/posts/planet-of-aqua,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-10,1499682984.0
@@ -42,10 +45,7 @@ GFS 论文阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_03_
 一起来做贼：Goroutine原理和Work stealing,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
 Vim 折腾记,Ahonn's Blog,https://www.ahonn.me/blog/notes-of-vim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
 Vim 折腾记,Yuexun's Blog,https://yuexunjiang.me/blog/notes-of-vim,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
-电脑键盘上的流行钢琴伴奏,Randy's Blog,https://lutaonan.com/blog/piano-on-computer-keyboard/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-02-19,1487462400.0
 Vim 折腾记,Yuexun's Blog,https://yuexunjiang.me/blog/notes-of-vim/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-02-19,1487462400.0
+电脑键盘上的流行钢琴伴奏,Randy's Blog,https://lutaonan.com/blog/piano-on-computer-keyboard/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-02-19,1487462400.0
 Go语言的defer， panic和recover,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_02_15-go_defer_panic_and_recover.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-15,1487116800.0
 仓鼠,云游君的小站,https://www.yunyoujun.cn/posts/hamster,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-11,1486854610.0
-回声,云游君的小站,https://www.yunyoujun.cn/posts/echo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-04,1486224551.0
-Hexo 静态博客搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/hexo-build-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-02,1486039232.0
-再读 Python Language Reference,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_24-python_language_reference.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
