@@ -1,4 +1,24 @@
 title,author,link,home,rss,date,timestamp
+Haskell TypeClass 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_05-typeclassopedia.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-05,1462406400.0
+从 optimizeCb 说起,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-the-optimizeCb,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
+从 optimizeCb 说起,Ahonn's Blog,https://www.ahonn.me/blog/starting-from-the-optimizeCb,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
+从 optimizeCb 说起,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-the-optimizeCb/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-03,1462233600.0
+JavaScript 中不合常理的变量提升,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-hoisting/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-28,1461801600.0
+JavaScript 事件流：冒泡与捕获,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-event-stream/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-16,1460764800.0
+JavaScript 作用域与闭包,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-closures/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-04,1459728000.0
+重新捡起你那吃灰的树莓派,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_04_03-raspberrypi.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-04-03,1459641600.0
+JavaScript 原型链探究,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-prototype-chain/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-29,1459209600.0
+21 岁我想说的,Randy's Blog,https://lutaonan.com/blog/say-in-21/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-25,1458864000.0
+apply， call 与 bind 的区别,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-apply-call-and-bind/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-20,1458432000.0
+我是如何监听 APP 价格变动的,Randy's Blog,https://lutaonan.com/blog/how-do-i-track-app-price/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-16,1458086400.0
+Tornado 源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_14-tornado.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-14,1457913600.0
+我学五笔的经历,Randy's Blog,https://lutaonan.com/blog/my-wubi-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-14,1457913600.0
+JavaScript权威指南笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_06-notes_on_js_the_definitive_guide.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-06,1457222400.0
+Python零碎知识汇总,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_05-python_fragmentary_knowledge.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-05,1457136000.0
+Jade 模板引擎,Yuexun's Blog,https://yuexunjiang.me/blog/jade-template-engine/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-02-29,1456704000.0
+Python 多线程初步了解,Yuexun's Blog,https://yuexunjiang.me/blog/python-multithreaded-preliminary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-02-20,1455926400.0
+列車上的女子,Just lepture,https://lepture.com/zh/2016/girl-on-the-train,https://lepture.com/,https://lepture.com/feed.xml,2016-02-06,1454776200.0
+C语言的位操作,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_02_06-bitwise_operation.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-02-06,1454716800.0
 分治,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_01_25-divide_and_conqure.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-01-25,1453680000.0
 日記、新年お願いします,Just lepture,https://lepture.com/zh/2016/new-year-koshigaya,https://lepture.com/,https://lepture.com/feed.xml,2016-01-16,1452942900.0
 2015 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2015-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-31,1451520000.0
@@ -29,12 +49,3 @@ Block I/O,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_06_22-note
 Google 的初見面,Just lepture,https://lepture.com/zh/2014/first-sight-of-google,https://lepture.com/,https://lepture.com/feed.xml,2014-12-28,1419794400.0
 C语言与抽象思维,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_12_12-abstractions_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-12-12,1418342400.0
 看不懂的文字,Just lepture,https://lepture.com/zh/2014/love-of-nonsense,https://lepture.com/,https://lepture.com/feed.xml,2014-11-10,1415642400.0
-C注意事项,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_11_04-traps_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-11-04,1415059200.0
-不被重視的 HTML：Accessibility,Just lepture,https://lepture.com/zh/2014/talk-on-accessibility-jsdc2014,https://lepture.com/,https://lepture.com/feed.xml,2014-10-12,1413110400.0
-C语言中点操作符(.)和箭头操作符(->)的不同之处,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_09_09-dot_and_arrow_in_c_pointers.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-09,1410220800.0
-征服C指针笔记 - 数组和指针的微妙关系,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_09_07-pointer_and_array_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-07,1410048000.0
-关于文件权限的摘记,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_08_22-unix_file_permissions.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-08-22,1408665600.0
-Python on A Hard Wheel,Just lepture,https://lepture.com/en/2014/python-on-a-hard-wheel,https://lepture.com/,https://lepture.com/feed.xml,2014-08-19,1408464000.0
-用crontab完成自动化,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_06_17-use_cron.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-06-17,1402963200.0
-別樣經歷搭車記,Just lepture,https://lepture.com/zh/2014/unexpected-journey-with-lift,https://lepture.com/,https://lepture.com/feed.xml,2014-05-28,1401244500.0
-冰與火之歌寧夏記,Just lepture,https://lepture.com/zh/2014/a-trip-in-ningxia,https://lepture.com/,https://lepture.com/feed.xml,2014-05-15,1400115360.0

@@ -1,18 +1,38 @@
 title,author,link,home,rss,date,timestamp
+未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0
+GCC默认的头文件搜索路径,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_16-gcc_header_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-16,1563235200.0
+自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
+自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
+读《远见-如何规划职业生涯3大阶段》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_15-the_long_view.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-15,1563148800.0
+洞明 Unity ECS 基础概念,萤火之森,http://frankorz.com/2019/07/14/clarify-ecs-basic-concept/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-07-14,1563135180.0
+Manjaro 使用指南,This Cute World,https://thiscute.world/posts/manjaro-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2019-07-13,1563021504.0
+后端工程师学前端(五): SASS,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_13-learn_front_end_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-13,1562976000.0
+后端工程师学前端(四): CSS进阶(盒子模型),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_10-learn_front_end_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-10,1562716800.0
+读《投资中最简单的事》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_06-the_simple_things_in_investment.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-06,1562371200.0
+后端工程师学前端(三): CSS进阶(特指度、单位和字体族),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_04-learn_front_end_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-04,1562198400.0
+后端工程师学前端(二): CSS基础知识(规则与选择器),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_02-learn_front_end_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-02,1562025600.0
+Swift语法笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_25-swift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-25,1561420800.0
+读《管理的实践》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_23-the_practice_of_management.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-23,1561248000.0
+后端工程师学前端(一): HTML,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_23-learn_front_end.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-23,1561248000.0
+逃离我的大学,This Cute World,https://thiscute.world/posts/escape-my-university/,https://thiscute.world/,https://thiscute.world/index.xml,2019-06-20,1561041151.0
+frp 源码阅读与分析(二)：TCP内网穿透的实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_19-frp_source_code_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-19,1560902400.0
+井底之蛙的一片天空,Randy's Blog,https://lutaonan.com/blog/to-hongkong-people/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-17,1560729600.0
+五天不用微信 - 爽得很,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_15-leave_wechat_for_5_days.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-15,1560556800.0
+我想得到它，因为它是好的,Randy's Blog,https://lutaonan.com/blog/want-it-cuz-it-is-right/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-13,1560384000.0
 为你写的一首诗,Randy's Blog,https://lutaonan.com/blog/a-poem-for-you/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-12,1560297600.0
 博客近期的变化,Randy's Blog,https://lutaonan.com/blog/nearly-blog-change/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-11,1560211200.0
 frp 源码阅读与分析(一)：流程和概念,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_11-frpc_source_code_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-11,1560211200.0
 学习frp源码之简洁的在两个connection之间转发流量,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_10-learn_from_frp_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-10,1560124800.0
 談談獨立播客,Just lepture,https://lepture.com/zh/2019/indie-podcasts,https://lepture.com/,https://lepture.com/feed.xml,2019-06-09,1560063101.0
 自己动手写一个反向代理,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_09-write_you_a_simple_reverse_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-09,1560038400.0
-从XMonad迁移到i3,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_08-migrate_from_xmonad_to_i3wm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
 读《债务危机》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_08-big_debt_crises.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
+从XMonad迁移到i3,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_08-migrate_from_xmonad_to_i3wm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
 写给可爱的学弟学妹们,云游君的小站,https://www.yunyoujun.cn/posts/to-lovely-junior,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-06-06,1559817413.0
-服务器IP被ban学到的经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_06-ip_ban.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
 socks5 协议详解,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_06-socks5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
+服务器IP被ban学到的经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_06-ip_ban.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
 开启HSTS(HTTP Strict Transport Security),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_04-hsts.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-04,1559606400.0
-从Chrome切换到Firefox,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_01-from_chrome_to_firefox.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-01,1559347200.0
 网络乞讨之合并支付宝和微信的收款二维码,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_01-combine_wechat_alipay.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-01,1559347200.0
+从Chrome切换到Firefox,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_06_01-from_chrome_to_firefox.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-01,1559347200.0
 Linux下当笔记本合上盖子之后只使用扩展显示器,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_31-turnoff_screen_when_lid_is_closed.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-31,1559260800.0
 nomad简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_31-nomad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-31,1559260800.0
 Ubuntu 18.04 dhcp更换新IP,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_30-ubuntu_1804_dhcp_new_ip.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-30,1559174400.0
@@ -22,30 +42,10 @@ Python Requests 简明教程,Jiajun的编程随想,https://jiajunhuang.com/artic
 Everyday Auto Xuexiqiangguo,云游君的小站,https://www.yunyoujun.cn/posts/everyday-auto-xuexiqiangguo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-05-16,1558043515.0
 酷 Q 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/coolq-use-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-05-15,1557949531.0
 密码技术简明教程(三)：证书和TLS,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_15-crypto_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-15,1557878400.0
-密码技术简明教程(二)：散列、消息认证码和数字签名,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_14-crypto_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-14,1557792000.0
 SEO学习笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_14-seo.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-14,1557792000.0
+密码技术简明教程(二)：散列、消息认证码和数字签名,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_14-crypto_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-14,1557792000.0
 密码技术简明教程(一)：对称加密和非对称加密,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_12-crypto.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-12,1557619200.0
 Kubernetes 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_10-kubernetes_tutorial.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-10,1557446400.0
 go mod 和 logrus 路径大小写的问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_09-go_mod_logrus.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-09,1557360000.0
 Flask自动加载Blueprint,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_08-flask_load_bp_automaticly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-08,1557273600.0
 Unity DOTS 走马观花,萤火之森,http://frankorz.com/2019/05/07/simple-talk-unity-dots/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-05-07,1557264120.0
-在KVM里安装Minikube,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_07-minikube_kvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-07,1557187200.0
-塞翁失马焉知非福,云游君的小站,https://www.yunyoujun.cn/posts/a-blessing-in-disguise,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-05-06,1557178320.0
-貓與網絡暴力,Just lepture,https://lepture.com/zh/2019/cat-and-violence,https://lepture.com/,https://lepture.com/feed.xml,2019-05-01,1556720168.0
-如何使用 Hammerspoon 实现剪贴板历史,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-clipboard-history-with-hammerspoon/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
-如何使用 Hammerspoon 实现剪贴板历史,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
-如何使用 Hammerspoon 实现剪贴板历史,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
-Deepin 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/deepin-use-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-29,1556562227.0
-搞定面试中的系统设计题,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_29-system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-29,1556496000.0
-hexo-theme-yun 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-hexo-theme-yun/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-27,1556337600.0
-Crontab + Sendmail实现定时任务并且通知,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_25-crontab_sendmail.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-25,1556150400.0
-Nginx设置Referer来防止盗图,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_23-nginx_referer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-23,1555977600.0
-Graphviz dot简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_20-graphviz_dot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-20,1555718400.0
-jQuery简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_19-jquery.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-19,1555632000.0
-Python RQ(Redis Queue)添加gevent支持,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_18-python_rq_gevent.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-18,1555545600.0
-技术人，光有技术是不行的,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_17-tech_only_is_bad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
-读《超级运营术》- 如何做社区？,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_17-chaojiyunyingshu.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
-北线无战事,云游君的小站,https://www.yunyoujun.cn/posts/after-2nd-postgraduate-re-exam,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-16,1555420345.0
-瘾的退却,This Cute World,https://thiscute.world/posts/webnovel-addiction-recovery/,https://thiscute.world/,https://thiscute.world/index.xml,2019-04-14,1555248452.0
-仓生,云游君的小站,https://www.yunyoujun.cn/posts/the-common-hamster,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-10,1554936011.0
-那霸的夜,Just lepture,https://lepture.com/zh/2019/night-in-naha,https://lepture.com/,https://lepture.com/feed.xml,2019-04-10,1554921337.0
