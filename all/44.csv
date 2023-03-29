@@ -1,11 +1,17 @@
 title,author,link,home,rss,date,timestamp
+KK没有位置低级别策略,Frank笔记,https://frank2019.me/archives/kkmei-you-wei-zhi-di-ji-bie-ce-lue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-14,1586895960.0
+YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-me-money,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-14,1586888548.0
+2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-04-13,1586812489.0
+[博客通报] 切换评论系统至 Disqus,ChrAlpha,https://blog.ichr.me/notice/change-comment-system-into-disqus/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-13,1586811001.0
+FreeBSD ipfw使用教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_13-freebsd_ipfw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-13,1586736000.0
 Golang expvar库源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_12-expvar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-12,1586649600.0
 浅谈 DNS 解析与 CDN 原理,ChrAlpha,https://blog.ichr.me/post/how-dns-and-cdn-work/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-11,1586614065.0
 Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
 Golang validator使用教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
 垃圾清理软件多，是我们缺存储空间吗？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/25.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-09,1586425500.0
-价值编程与职业发展,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_09-value_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
 使用Redis的Stream模块实现群聊功能,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_09-redis_stream_as_im.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
+价值编程与职业发展,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_09-value_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
+【转载】世界不应该是这样的,Frank笔记,https://frank2019.me/archives/zhuan-zai-shi-jie-bu-ying-gai-shi-zhe-yang-de,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-08,1586377380.0
 关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
 解决k8s cron无法读取环境变量的问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
 使用 Istio 进行 JWT 身份验证（充当 API 网关）,This Cute World,https://thiscute.world/posts/use-istio-for-jwt-auth/,https://thiscute.world/,https://thiscute.world/index.xml,2020-04-06,1586180906.0
@@ -14,6 +20,7 @@ VPS 手动在线一键重装系统脚本整理,ChrAlpha,https://blog.ichr.me/pos
 人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/diary/life-is-not-a-marathon/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1585983598.0
 N95口罩背后不为人知的历史,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/21.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-04,1585962960.0
 在网页 404 前将其备份的不同方法,ChrAlpha,https://blog.ichr.me/post/archive-webpage-before-404/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-01,1585740437.0
+公司内部建设的重要性,Frank笔记,https://frank2019.me/archives/gong-si-nei-bu-jian-she-de-chong-yao-xing,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-30,1585599660.0
 反复横跳？—— 我的密码管理工具折腾记,ChrAlpha,https://blog.ichr.me/post/password-managements/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-30,1585578224.0
 Linux网络学习笔记（二）：域名解析(DNS)——以 CoreDNS 为例,This Cute World,https://thiscute.world/posts/about-dns-protocol/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-29,1585468163.0
 [2021] 绕过 Google Play 一年一次换区限制,ChrAlpha,https://blog.ichr.me/post/bypass-google-play-region-restrictions/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-27,1585318102.0
@@ -22,8 +29,12 @@ Linux网络学习笔记（二）：域名解析(DNS)——以 CoreDNS 为例,Thi
 两种常见的访问控制模型,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_26-access_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-26,1585180800.0
 如何在 Git 中真正删除一个文件,ChrAlpha,https://blog.ichr.me/post/git-remove-files-thoroughly/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-25,1585146890.0
 gunicorn max-requests 选项的作用,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_25-gunicorn_max_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-25,1585094400.0
+鬼子来了，一部超越时代的影片,Frank笔记,https://frank2019.me/archives/gui-zi-lai-liao-yi-bu-chao-yue-shi-dai-de-ying-pian,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-24,1585080960.0
+VPS常用脚本,Frank笔记,https://frank2019.me/archives/vpschang-yong-jiao-ben,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-24,1585080900.0
 Redis使用中的几点注意事项,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_23-redis_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-23,1584921600.0
 如何打造好看还好用的 Windows Terminal,ChrAlpha,https://blog.ichr.me/post/windows-terminal-configuration/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-21,1584823047.0
+2020年的春天一样寒冷,Frank笔记,https://frank2019.me/archives/2020nian-de-chun-tian-yi-yang-han-leng,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-18,1584562440.0
+德州扑克隐藏的身体语言,Frank笔记,https://frank2019.me/archives/de-zhou-bu-ke-yin-cang-de-shen-ti-yu-yan,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-17,1584475980.0
 Java的远程调试Remote Debug,雨临Lewis,https://lewky.cn/posts/java-remote-debug.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-03-17,1584459040.0
 Hexo 图片 lazyload 的更优尝试,ChrAlpha,https://blog.ichr.me/post/hexo-better-image-lazyload/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-16,1584381969.0
 Lazyload 不让 Valine 评论组件拖慢页面加载,ChrAlpha,https://blog.ichr.me/post/valine-lazyload/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-13,1584127745.0
@@ -31,21 +42,10 @@ Lazyload 不让 Valine 评论组件拖慢页面加载,ChrAlpha,https://blog.ichr
 谈谈 RSA 非对称加密算法原理及流程,ChrAlpha,https://blog.ichr.me/post/rsa-asymmetric-encryption-algorithm/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-11,1583930619.0
 一个Gunicorn worker数量引发的血案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_11-gunicorn_worker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-11,1583884800.0
 在 GitHub 上使用 GPG 认证你的 Git Commit,ChrAlpha,https://blog.ichr.me/post/use-gpg-verification-in-github/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-08,1583702310.0
+新冠反思-任志强,Frank笔记,https://frank2019.me/archives/xin-guan-fan-si-ren-zhi-qiang,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-08,1583698200.0
 国内自建图床指南,Randy's Blog,https://lutaonan.com/blog/aliyun-cdn-tutorial/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-07,1583539200.0
 👴就是二次元，故尝试证明。,云游君的小站,https://www.yunyoujun.cn/posts/i-am-er-ci-yuan-and-try-to-prove,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-06,1583536357.0
 在 Hexo 博客中更优雅地使用 LaTeX 数学公式,ChrAlpha,https://blog.ichr.me/post/fix-mathjax-layout-bugs-in-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-06,1583503087.0
 MySQL Boolean类型的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_06-mysql_boolean_tinyint_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-06,1583452800.0
 Hexo 博客 | 链接分享卡片生成配置,ChrAlpha,https://blog.ichr.me/post/hexo-generate-link-sharing-card/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-05,1583423588.0
 教你如何从零开始搭建一个属于自己的网站,云游君的小站,https://www.yunyoujun.cn/share/how-to-build-your-site/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-04,1583343068.0
-pip freeze是魔鬼,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_04-pip_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-04,1583280000.0
-JWT 签名算法 HS256、RS256 及 ES256 及密钥生成,This Cute World,https://thiscute.world/posts/jwt-algorithm-key-generation/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-03,1583215786.0
-一个feed流系统的演进,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_02-feed_system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-02,1583107200.0
-好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
-Android 使用view binding,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_01-android_view_binding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-01,1583020800.0
-关于浏览器隐藏 https 与 www 一事,ChrAlpha,https://blog.ichr.me/post/why-browsers-hide-https-and-www-in-address-bar/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-29,1582985007.0
-Cloudflare 指定 CDN 节点与缓存配置,ChrAlpha,https://blog.ichr.me/post/cloudflare-cdn-optimize/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-28,1582899925.0
-系统调用的过程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_27-syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-27,1582761600.0
-Parcel.js + Vue 搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-parcel-demo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-26,1582689900.0
-MySQL charset不同导致无法使用索引的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_26-mysql_charset_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-26,1582675200.0
-使用 Speedtest CLI 测试服务器带宽质量,ChrAlpha,https://blog.ichr.me/post/use-speedtest-cli-to-test-the-speed-of-your-server/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-24,1582561951.0
-微服务的缺点,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_19-should_i_use_microservice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-19,1582070400.0
