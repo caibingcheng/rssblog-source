@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+2020年的春天一样寒冷,Frank笔记,https://frank2019.me/articles/2020/03/19/1584606231169.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-02,1677794932.0
 使用 Memos 搭建时光机教程,杜老师说,https://dusays.com/561/,https://dusays.com/,https://dusays.com/atom.xml,2023-03-02,1677772800.0
 支持 OpenAI ChatGPT API 的优秀软件-Telegram、Bob、Alfred、Popclip、Siri 和 OpenCat,Another Dayu,https://anotherdayu.com/2023/4866/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-03-02,1677765393.0
 Spring常用注解,Barney's Blog,https://hugo.bnblogs.cc/spring%E5%B8%B8%E7%94%A8%E6%B3%A8%E8%A7%A3/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-02,1677761684.0
@@ -26,12 +27,12 @@ Redis基础,Barney's Blog,https://hugo.bnblogs.cc/redis%E5%9F%BA%E7%A1%80%E7%AF%
 把 ChatGPT 接入到微信上「Docker 篇」,杜老师说,https://dusays.com/559/,https://dusays.com/,https://dusays.com/atom.xml,2023-02-25,1677340800.0
 华为云DNS自定义Nameserver,Muidar's Site,https://www.muidar.com/posts/cmuidar/custom-nameserver/,https://www.muidar.com,https://muidar.com/feed,2023-02-25,1677330513.0
 浏览器广告拦截技术原理,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2023/02/25/eaf-browser-adblock.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-02-25,1677283200.0
-Cloudflare Tunnel体验,瓦解的生活记事,https://hin.cool/posts/cloudflaretunnels.html,https://hin.cool/,https://hin.cool/atom.xml,2023-02-24,1677249000.0
+Cloudflare Tunnel体验,瓦解的生活记事,https://hin.cool/posts/cloudflaretunnels.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-02-24,1677249000.0
 yaml语法,Barney's Blog,https://hugo.bnblogs.cc/yaml%E8%AF%AD%E6%B3%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-24,1677245930.0
 Github Actions配置,Barney's Blog,https://hugo.bnblogs.cc/github-action%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-24,1677241663.0
 【杂谈】近期概况：摆烂后一触即发的危机,Luminous' Home,https://luotianyi.vc/6917.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-02-24,1677239292.0
-浅谈 Emacs 的性能优化,manateelazycat.github.io,//manateelazycat.github.io/emacs/2023/02/24/emacs-performance.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-02-24,1677196800.0
 全键盘旅游地图,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2023/02/24/eaf-map.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-02-24,1677196800.0
+浅谈 Emacs 的性能优化,manateelazycat.github.io,//manateelazycat.github.io/emacs/2023/02/24/emacs-performance.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-02-24,1677196800.0
 Dockerfile学习总结,Barney's Blog,https://hugo.bnblogs.cc/dockerfile%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-23,1677141235.0
 巴别塔、咒语和百慕达三角,Another Dayu,https://anotherdayu.com/2023/4819/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-02-22,1677076836.0
 ChatGPT 必备 Chrome 插件和 Prompts 技巧汇总,Another Dayu,https://anotherdayu.com/2023/4811/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-02-22,1677053830.0
@@ -48,4 +49,3 @@ Docker Compose+Dockerfile搭建elasticsearch7.8.0与kibana,Barney's Blog,https:/
 UPS 低电压时通过群晖实现 Ubuntu 自动关机,杜老师说,https://dusays.com/557/,https://dusays.com/,https://dusays.com/atom.xml,2023-02-18,1676736000.0
 升级Windows11输入法UI还是Windows10的,Muidar's Site,https://www.muidar.com/posts/cmuidar/upto11-inputui-still10s/,https://www.muidar.com,https://muidar.com/feed,2023-02-18,1676707963.0
 Vue 自定义指令生成 placeholder,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/760/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-02-16,1676588261.0
-观展 | 何藩,Another Dayu,https://anotherdayu.com/2023/4785/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-02-16,1676516400.0
