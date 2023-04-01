@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+JavaScript 原型链探究,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-prototype-chain/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-29,1459209600.0
+21 岁我想说的,Randy's Blog,https://lutaonan.com/blog/say-in-21/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-25,1458864000.0
+apply， call 与 bind 的区别,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-apply-call-and-bind/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-20,1458432000.0
 我是如何监听 APP 价格变动的,Randy's Blog,https://lutaonan.com/blog/how-do-i-track-app-price/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-16,1458086400.0
 Tornado 源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_03_14-tornado.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-14,1457913600.0
 我学五笔的经历,Randy's Blog,https://lutaonan.com/blog/my-wubi-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-14,1457913600.0
@@ -46,4 +49,3 @@ C语言中点操作符(.)和箭头操作符(->)的不同之处,Jiajun的编程�
 Python on A Hard Wheel,Just lepture,https://lepture.com/en/2014/python-on-a-hard-wheel,https://lepture.com/,https://lepture.com/feed.xml,2014-08-19,1408464000.0
 用crontab完成自动化,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_06_17-use_cron.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-06-17,1402963200.0
 別樣經歷搭車記,Just lepture,https://lepture.com/zh/2014/unexpected-journey-with-lift,https://lepture.com/,https://lepture.com/feed.xml,2014-05-28,1401244500.0
-冰與火之歌寧夏記,Just lepture,https://lepture.com/zh/2014/a-trip-in-ningxia,https://lepture.com/,https://lepture.com/feed.xml,2014-05-15,1400115360.0
