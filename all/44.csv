@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+牌普分析,Frank笔记,https://frank2019.me/archives/pai-pu-fen-xi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-22,1595393880.0
 Go设计模式: 责任链模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_21-go_design_pattern_chain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-21,1595289600.0
 「发言成本」与为什么我（个人博主）不想建立交流社群,ChrAlpha,https://blog.ichr.me/post/expressing-costs/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-07-19,1595172616.0
 自己搭建的免费虚拟主机（MOFH）,岚天小窝,https://blog.ltya.top/posts/freewebhosting.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
@@ -48,4 +49,3 @@ Golang sort源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2
 Debian 使用NetworkManager之后networking.service崩溃,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
 httprouter源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_09-httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-09,1588982400.0
 《程序员的自我修养-装载、链接与库》笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_08-linker_and_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-08,1588896000.0
-在特殊地区科学使用 Disqus 评论系统,ChrAlpha,https://blog.ichr.me/post/use-disqus-conveniently/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-05-05,1588699400.0
