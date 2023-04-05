@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+写给开发人员的实用密码学（三）—— MAC 与密钥派生函数 KDF,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-3-key-derivation-function/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126103.0
 写给开发人员的实用密码学（二）—— 哈希函数,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-2-hash/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126101.0
 写给开发人员的实用密码学（一）—— 概览,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-1/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126100.0
 glibc-mmap源码阅读,BBing's Blog,https://bbing.com.cn/202202/glibc-mmap/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-02-28,1646016843.0
@@ -48,4 +49,3 @@ glibc-exit源码阅读,BBing's Blog,https://bbing.com.cn/202201/glibc-exit/,http
 Bber和aplayer折腾感想,LonelyGod,https://hin.cool/posts/xiazheteng.html,https://hin.cool/,https://hin.cool/atom.xml,2022-01-22,1642881710.0
 算法基础-排序方法,DearXuan的主页,https://blog.dearxuan.com/2022/01/22/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E6%8E%92%E5%BA%8F%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-22,1642852320.0
 算法基础-排序方法,DearXuan的主页,https://dearxuan.top/2022/01/22/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E6%8E%92%E5%BA%8F%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-01-22,1642852320.0
-几种定投策略的仿真比较,BBing's Blog,https://bbing.com.cn/202201/fund-sim/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-01-21,1642750256.0
