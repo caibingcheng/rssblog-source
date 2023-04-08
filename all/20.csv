@@ -1,4 +1,8 @@
 title,author,link,home,rss,date,timestamp
+解答最近的一些问题,冰哥笔记,https://www.bgbiji.com/934.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-05-07,1651915689.0
+在Docker中部署RssHub记录,瓦解的生活记事,https://hin.cool/posts/rsshub2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-05-06,1651872600.0
+ULPT: A User-Centric Location Privacy Trading Framework for Mobile Crowd Sensing,Barney's Blog,https://hugo.bnblogs.cc/paper09/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-05-06,1651848787.0
+现实中的“电车难题”,非理勿试,https://www.ntiy.com/1787.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-05-06,1651847807.0
 关于读书，你或许不知道的十件事,冰哥笔记,https://www.bgbiji.com/932.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-05-06,1651838850.0
 建立自信心的10个习惯,冰哥笔记,https://www.bgbiji.com/931.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-05-05,1651766588.0
 计算机网络-计算机网络组成,DearXuan的主页,https://blog.dearxuan.com/2022/05/05/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%BB%84%E6%88%90/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-05-05,1651758720.0
@@ -28,9 +32,9 @@ JavaScript学习 - 第一章 基础知识 （二）,沐云湘夕—求索,https:
 【WEB 系列】SpringBootStarter- 组件化开发,框架師,https://www.mobaijun.com/posts/1232000011.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-28,1651141156.0
 别管理时间了，管好自己吧,冰哥笔记,https://www.bgbiji.com/924.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-28,1651133407.0
 “收藏≠学会”，别再让你的收藏夹吃灰了！,冰哥笔记,https://www.bgbiji.com/922.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-28,1651113302.0
-Golang migrate 做数据库变更管理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_04_28-golang_migrate_iofs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-28,1651104000.0
 从浏览器崩溃窥探Qt事件伪造原理,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/28/eaf-browser-crash.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-28,1651104000.0
 递归搜索插件引用记录,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/04/28/recursive-search-references.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-28,1651104000.0
+Golang migrate 做数据库变更管理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_04_28-golang_migrate_iofs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-28,1651104000.0
 JavaScript学习 - 第一章 基础知识 （上）,沐云湘夕—求索,https://quest.myxxts.club/archives/142/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-04-27,1651030321.0
 五年前的一段工作经历,非理勿试,https://www.ntiy.com/1777.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-04-26,1650980901.0
 如何避免工作生活中的“小错误”？,冰哥笔记,https://www.bgbiji.com/920.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-26,1650963562.0
@@ -45,7 +49,3 @@ Mac安装mysql5.7,cywhat's blog,https://cywhat.cn/Mac%E5%AE%89%E8%A3%85mysql5.7/
 沉默的大多数,manateelazycat.github.io,//manateelazycat.github.io/think/2022/04/24/most-of-the-silencer.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-24,1650758400.0
 tanx的n次方不定积分递推方法,DearXuan的主页,https://blog.dearxuan.com/2022/04/23/tanx%E7%9A%84n%E6%AC%A1%E6%96%B9%E4%B8%8D%E5%AE%9A%E7%A7%AF%E5%88%86%E9%80%92%E6%8E%A8%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-04-23,1650713220.0
 调整状态的5个妙招,冰哥笔记,https://www.bgbiji.com/918.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-23,1650701134.0
-错位时空,非理勿试,https://www.ntiy.com/1751.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-04-22,1650635103.0
-EAF Git Client 手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/22/eaf-git.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-22,1650585600.0
-免费企业邮靠谱吗？,LonelyGod,https://hin.cool/posts/exmail.html,https://hin.cool/,https://hin.cool/atom.xml,2022-04-21,1650558600.0
-分享33个让你弯道超车的好习惯,冰哥笔记,https://www.bgbiji.com/917.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-21,1650527650.0
