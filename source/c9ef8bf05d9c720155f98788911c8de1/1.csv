@@ -1,8 +1,9 @@
 title,author,link,home,rss,date,timestamp
+获取网页中光标处的单词,manateelazycat.github.io,//manateelazycat.github.io/eaf/ai/2023/04/08/get-mouse-cursor.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-08,1680912000.0
 健身要点,manateelazycat.github.io,//manateelazycat.github.io/healthy/2023/04/06/fitness-essentials.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-06,1680739200.0
 Emacs 里用雾凇拼音实现流畅中文输入,manateelazycat.github.io,//manateelazycat.github.io/emacs/2023/04/05/emacs-rime-ice.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-05,1680652800.0
-lsp-bridge 远程代码补全,manateelazycat.github.io,//manateelazycat.github.io/emacs/lsp/2023/03/31/lsp-bridge-remote-file.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
 AI 编程实践,manateelazycat.github.io,//manateelazycat.github.io/think/ai/2023/03/31/chatgpt.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
+lsp-bridge 远程代码补全,manateelazycat.github.io,//manateelazycat.github.io/emacs/lsp/2023/03/31/lsp-bridge-remote-file.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
 AI 编程实践,manateelazycat.github.io,//manateelazycat.github.io/think/2023/03/31/chatgpt.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
 lsp-bridge 远程代码补全,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2023/03/31/lsp-bridge-remote-file.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
 论产品思维,manateelazycat.github.io,//manateelazycat.github.io/think/2023/03/26/product-thinking.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-26,1679788800.0
@@ -26,8 +27,8 @@ ChatGPT,manateelazycat.github.io,//manateelazycat.github.io/think/2023/02/14/cha
 Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
 Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/elisp/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
 读《英语魔法师之语法俱乐部》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/15/reading-english-magicia.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-15,1668470400.0
-读《吴军数学通识讲义》,manateelazycat.github.io,//manateelazycat.github.io/reading/math/2022/11/12/reading-general-mathematics.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-12,1668211200.0
 读《吴军数学通识讲义》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/12/reading-general-mathematics.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-12,1668211200.0
+读《吴军数学通识讲义》,manateelazycat.github.io,//manateelazycat.github.io/reading/math/2022/11/12/reading-general-mathematics.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-12,1668211200.0
 我平常是怎么使用 Emacs 的？,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/07/how-i-use-emacs.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-07,1667779200.0
 deno-bridge,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/deno-bridge.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
 blink-search,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/blink-search.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
@@ -48,4 +49,3 @@ Git via HTTPS,manateelazycat.github.io,//manateelazycat.github.io/proxy/2022/05/
 我平常是怎么折腾Emacs插件的?,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/05/21/emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-21,1653091200.0
 QWebEngine Cookie 完整实现,manateelazycat.github.io,//manateelazycat.github.io/qt/linux/2022/05/13/webengine-cookie.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-13,1652400000.0
 LSP-Bridge架构设计与LSP协议解析,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/05/12/lsp-bridge.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-12,1652313600.0
-从浏览器崩溃窥探Qt事件伪造原理,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/28/eaf-browser-crash.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-28,1651104000.0
