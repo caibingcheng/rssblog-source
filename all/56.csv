@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Haskell: infixl， infixr， infix,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_27-haskell_infix.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-27,1506470400.0
 Haskell简明教程（五）：处理JSON,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_26-learn_you_a_haskell_part_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-26,1506384000.0
 Haskell简明教程（四）：Monoid， Applicative， Monad,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_25-learn_you_a_haskell_part_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-25,1506297600.0
 3D数学基础-矩阵变换（二）,萤火之森,http://frankorz.com/2017/09/24/matrix-transformation-2/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-09-24,1506273229.0
@@ -47,5 +48,4 @@ Vim 全局搜索插件：ctrlsf.vim,Yuexun's Blog,https://yuexunjiang.me/blog/vi
 ansible 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_06_22-ansible.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-06-22,1498089600.0
 花田苑雜記,Just lepture,https://lepture.com/zh/2017/hanataen,https://lepture.com/,https://lepture.com/feed.xml,2017-06-19,1497876419.0
 《无限的未知》,This Cute World,https://thiscute.world/posts/infinite-ryvius/,https://thiscute.world/,https://thiscute.world/index.xml,2017-06-14,1497416738.0
-React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
 React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
