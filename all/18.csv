@@ -1,4 +1,47 @@
 title,author,link,home,rss,date,timestamp
+"博客公告 | 说说<div class=""wrap""><span class=""wraps"">置顶</span></div>
+<style type=""text/css"">
+.wrap {
+width: 100%;
+height: 100%;
+position: absolute;
+top: -8px;
+left: 8px;
+overflow: hidden;
+font-size: 17px;
+font-weight: 400;
+color: #fff;
+opacity: 0.5;
+-webkit-transition: .3s ease all;
+-moz-transition: .3s ease all;
+-ms-transition: .3s ease all;
+-o-transition: .3s ease all;
+transition: .3s ease all;
+}
+.wrap:hover {
+opacity: 0.9;
+}
+.wraps {
+display: inline-block;
+text-align: center;
+width: 200px;
+height: 30px;
+line-height: 27px;
+position: absolute;
+top: 30px;
+right: -50px;
+z-index: 2;
+overflow: hidden;
+transform: rotate(45deg);
+-ms-transform: rotate(45deg);
+-moz-transform: rotate(45deg);
+-webkit-transform: rotate(45deg);
+-o-transform: rotate(45deg);
+border: 1px dashed;
+box-shadow: 0 0 0 1px #000， 0px 21px 5px -18px rgba(0，0，0，0.6);
+background: red;
+}
+</style>",Peter's Blog,https://www.rainogo.com/posts/blog_notice_talk.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2022-06-20,1655739300.0
 "博客告示<div class=""wrap""><span class=""wraps"">置顶</span></div>
 <style type=""text/css"">
 .wrap {
@@ -132,4 +175,3 @@ FlowUs 的活动礼品,杜老师说,https://dusays.com/469/,https://dusays.com/,
 周刊第13期：一些图像 AI 模型、冒名顶替综合症,4Ark × Blog,https://4ark.me/post/weekly-30.html,https://4ark.me/,https://4ark.me/rss.xml,2022-05-31,1653955200.0
 Where Does The Time Go,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220530-where-does-the-time-go,https://teobler.com,https://teobler.com/rss.xml,2022-05-30,1653920700.0
 每月思考 | 2022年5月份的一些思考,冰哥笔记,https://www.bgbiji.com/978.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-05-30,1653911249.0
-精神疾病、精神贵族和其他,非理勿试,https://www.ntiy.com/1815.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-05-30,1653899821.0
