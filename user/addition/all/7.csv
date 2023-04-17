@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+旧信笺：回看80年代婚恋观,Macin,https://macin.org/2022/12/04/a-letter-from-1984/,https://macin.org/,https://www.macin.org/atom.xml,2022-12-04,1670150322.0
+OpenWRT 使用 Android/iOS USB 网络,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_12_04-openwrt_usb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-12-04,1670112000.0
 How RSS Brain Shows Related Articles,Bin Wang - My Personal Blog,https://www.binwang.me/2022-12-03-How-RSS-Brain-Shows-Related-Articles.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2022-12-03,1670043600.0
 每天60s看世界,醉里,https://202271.xyz/post/41343/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-12-02,1670000482.0
 Hexo-Fluid主题修改字体思源宋体,醉里,https://202271.xyz/post/18118/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-12-02,1669998216.0
@@ -22,8 +24,8 @@ Github Actions Hexo 自动部署,怠惰のコエ - imba久期 BLOG,https://imba9
 powershell 初体验二,Nicksxs's Blog,https://nicksxs.me/2022/11/20/powershell-%E5%88%9D%E4%BD%93%E9%AA%8C%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-11-20,1668950144.0
 搭建旁路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_11_20-router.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-20,1668902400.0
 贰拾捌,瓦解的生活记事,https://hin.cool/posts/ershiba.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-11-18,1668785402.0
-Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/elisp/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
 Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
+Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/elisp/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
 202211：边城十一月，雨雪乱霏霏,Macin,https://macin.org/2022/11/16/11-yue-zhou-ji/,https://macin.org/,https://www.macin.org/atom.xml,2022-11-16,1668595240.0
 地铁里的翻书风,Another Dayu,https://anotherdayu.com/2022/3850/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-16,1668567958.0
 读《英语魔法师之语法俱乐部》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/15/reading-english-magicia.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-15,1668470400.0
@@ -47,5 +49,3 @@ B2 + Cloudflare 转换规则，实现真正无限制使用 Backblaze B2,岚天�
 五个域名全没了。。。。,SinGO博客,https://blog.xsnet.eu.org/posts/56455/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-11-04,1667588132.0
 Golang gRPC 错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_11_04-grpc_error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-04,1667520000.0
 blink-search,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/blink-search.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
-deno-bridge,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/deno-bridge.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
-2022 | About me | 答普鲁斯特问卷,Another Dayu,https://anotherdayu.com/2022/3801/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-03,1667466765.0
