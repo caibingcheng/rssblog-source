@@ -1,10 +1,14 @@
 title,author,link,home,rss,date,timestamp
+【工具系列】常用 maven 命令介绍,框架師,https://www.mobaijun.com/posts/3490035493.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641366238.0
+【工具系列】轻量级虚拟机 Multipass 使用教程,框架师,https://www.mobaijun.com/posts/3701652676.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641351409.0
+Linux配置时间同步,cywhat's blog,https://cywhat.cn/Linux%E9%85%8D%E7%BD%AE%E6%97%B6%E9%97%B4%E5%90%8C%E6%AD%A5/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-01-05,1641350985.0
+Jackson问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/jackson-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-04,1641311142.0
 2021 年年终总结,This Cute World,https://thiscute.world/posts/2021-summary/,https://thiscute.world/,https://thiscute.world/index.xml,2022-01-03,1641192600.0
 2021 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2021-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2022-01-03,1641168000.0
-EAF支持Wayland native啦!,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/01/02/eaf-support-wayland-native.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-01-02,1641081600.0
 PicGo插件：上传图片到多吉云存储,LonelyGod,https://hin.cool/posts/picgoplugin.html,https://hin.cool/,https://hin.cool/atom.xml,2022-01-02,1641081600.0
-Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/javaweb-servlet-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-01,1641050207.0
+EAF支持Wayland native啦!,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/01/02/eaf-support-wayland-native.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-01-02,1641081600.0
 Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/11/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-01,1641050207.0
+Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/javaweb-servlet-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-01,1641050207.0
 2021 年度总结,4Ark × Blog,https://4ark.me/post/2021-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2022-01-01,1640995200.0
 留下了遗憾的 2021,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/750/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-12-31,1640995199.0
 聊聊最近平淡的生活之《花束般的恋爱》观后感,Nicksxs's Blog,https://nicksxs.me/2021/12/31/%E8%81%8A%E8%81%8A%E6%9C%80%E8%BF%91%E5%B9%B3%E6%B7%A1%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B9%8B%E3%80%8A%E8%8A%B1%E6%9D%9F%E8%88%AC%E7%9A%84%E6%81%8B%E7%88%B1%E3%80%8B%E8%A7%82%E5%90%8E%E6%84%9F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-31,1640964911.0
@@ -45,7 +49,3 @@ Vscode新建React项目,Barney's Blog,https://hugo.bnblogs.cc/vscode%E6%96%B0%E5
 必应崩了，还有什么搜索引擎？,LonelyGod,https://hin.cool/posts/fsou.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-16,1639684200.0
 我太喜欢长沙了！,见字如面,https://hiwannz.com/archives/658,https://hiwannz.com,https://hiwannz.com/feed,2021-12-16,1639656868.0
 Vscode + window Terminal集成git-Bash终端,Barney's Blog,https://hugo.bnblogs.cc/vscode%E9%9B%86%E6%88%90conda%E5%92%8Cgit-bash%E7%BB%88%E7%AB%AF/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-14,1639467935.0
-pair的内存结构,BBing's Blog,https://bbing.com.cn/202112/pair-memstruct/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-14,1639466993.0
-Site.webmanifest异常处理,cywhat's blog,https://cywhat.cn/site.webmanifest%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-12-14,1639466088.0
-docker常见操作命令,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4%B8%8A%E7%9A%84docker%E6%93%8D%E4%BD%9C/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-13,1639397427.0
-添加了一些WebAPI,BBing's Blog,https://bbing.com.cn/202112/webapi-descriptor/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-13,1639364463.0

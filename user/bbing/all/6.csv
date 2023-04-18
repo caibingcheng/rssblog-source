@@ -1,4 +1,8 @@
 title,author,link,home,rss,date,timestamp
+中文博客列表导航项目,杜老师说,https://dusays.com/494/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-15,1660521600.0
+初柒科技致力于设计与开发,杜老师说,https://dusays.com/493/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-12,1660262400.0
+图床转换工具推荐,杜老师说,https://dusays.com/492/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-09,1660003200.0
+变限积分的导数,DearXuan的主页,https://blog.dearxuan.com/2022/08/08/%E5%8F%98%E9%99%90%E7%A7%AF%E5%88%86%E7%9A%84%E5%AF%BC%E6%95%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-08-08,1659959640.0
 分布式数据库的一致性问题与共识算法,This Cute World,https://thiscute.world/posts/consistency-and-consensus-algorithm/,https://thiscute.world/,https://thiscute.world/index.xml,2022-08-06,1659816683.0
 Python小概念,Barney's Blog,https://hugo.bnblogs.cc/python%E5%B0%8F%E6%A6%82%E5%BF%B5/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-08-06,1659792975.0
 推荐一个 WordPress 付费主题站,杜老师说,https://dusays.com/491/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-06,1659744000.0
@@ -45,49 +49,3 @@ React 函数式组件中防抖的应用（React + Hook + Typescript）,无妄当
 使用 ntfs3 驱动替换 ntfs-3g 挂载 windows NTFS 分区,无妄当自持,https://www.insidentally.com/articles/000029/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-27,1656317553.0
 FL-Market: Trading Private Models in Federated Learning,Barney's Blog,https://hugo.bnblogs.cc/paper11/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-06-25,1656141635.0
 Optimal Auctions through Deep Learning,Barney's Blog,https://hugo.bnblogs.cc/paper10/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-06-25,1656140878.0
-杜老师说网站更新图解,杜老师说,https://dusays.com/477/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-25,1656115200.0
-Linux问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/linux-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-06-22,1655916265.0
-杜老师自建国内不蒜子统计平台,杜老师说,https://dusays.com/476/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-22,1655856000.0
-"博客告示<div class=""wrap""><span class=""wraps"">置顶</span></div>
-<style type=""text/css"">
-.wrap {
-width: 100%;
-height: 100%;
-position: absolute;
-top: -8px;
-left: 8px;
-overflow: hidden;
-font-size: 17px;
-font-weight: 400;
-color: #fff;
-opacity: 0.5;
--webkit-transition: .3s ease all;
--moz-transition: .3s ease all;
--ms-transition: .3s ease all;
--o-transition: .3s ease all;
-transition: .3s ease all;
-}
-.wrap:hover {
-opacity: 0.9;
-}
-.wraps {
-display: inline-block;
-text-align: center;
-width: 200px;
-height: 30px;
-line-height: 27px;
-position: absolute;
-top: 30px;
-right: -50px;
-z-index: 2;
-overflow: hidden;
-transform: rotate(45deg);
--ms-transform: rotate(45deg);
--moz-transform: rotate(45deg);
--webkit-transform: rotate(45deg);
--o-transform: rotate(45deg);
-border: 1px dashed;
-box-shadow: 0 0 0 1px #000， 0px 21px 5px -18px rgba(0，0，0，0.6);
-background: red;
-}
-</style>",Peter's Blog,https://www.rainogo.com/posts/website_notice.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2022-06-20,1655739300.0
