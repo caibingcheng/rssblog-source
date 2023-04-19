@@ -1,4 +1,8 @@
 title,author,link,home,rss,date,timestamp
+使用netlify搭建hexo博客并使用Fluid主题,醉里,https://202271.xyz/post/24705/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947830.0
+netlify和vercel的使用对比,醉里,https://202271.xyz/post/53541/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947484.0
+无需信用卡申请免费cdn且中国境内访问速度快,醉里,https://202271.xyz/post/27834/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947334.0
+提交网站到百度和谷歌收录,醉里,https://202271.xyz/post/26263/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947114.0
 解决QQ里面直接打开所有链接，不跳转,醉里,https://202271.xyz/post/10211/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681864927.0
 Django操作异步任务,cywhat's blog,https://cywhat.cn/Django%E6%93%8D%E4%BD%9C%E5%BC%82%E6%AD%A5%E4%BB%BB%E5%8A%A1/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-04-18,1681800169.0
 Linux卸载RabbitMq,cywhat's blog,https://cywhat.cn/Linux%E5%8D%B8%E8%BD%BDRabbitMq/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-04-18,1681799507.0
@@ -45,6 +49,3 @@ Linux忘记mysql密码解决办法,cywhat's blog,https://cywhat.cn/Linux%E5%BF%9
 普光寺：除了春天 一切禁止入内,Macin,https://macin.org/2023/04/03/pu-guang-si/,https://macin.org/,https://www.macin.org/atom.xml,2023-04-03,1680557539.0
 常见排序算法,Barney's Blog,https://hugo.bnblogs.cc/%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-04-03,1680511560.0
 hexo 配置系列-接入Algolia搜索,Nicksxs's Blog,https://nicksxs.me/2023/04/02/hexo-%E9%85%8D%E7%BD%AE%E7%B3%BB%E5%88%97-%E6%8E%A5%E5%85%A5Algolia%E6%90%9C%E7%B4%A2/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-04-02,1680443688.0
-【WebP Server】灵活实现站点图片平滑过渡WebP,Luminous' Home,https://luotianyi.vc/6907.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-04-02,1680423614.0
-无意义活动生成器「摸鱼神器」,杜老师说,https://dusays.com/571/,https://dusays.com/,https://dusays.com/atom.xml,2023-04-01,1680364800.0
-开启Turnstile™,Muidar's Site,https://www.muidar.com/posts/cmuidar/turn-turnstile-on/,https://www.muidar.com,https://muidar.com/feed,2023-04-01,1680354901.0
