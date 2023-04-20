@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+重新注册 PT 网站后，原有种子“红种” 的简单解决方法,yzqzss | 一座桥在水上's Blog,https://blog.othing.xyz/archives/20.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-03-27,1585274160.0
+应用内购的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_27-iap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-27,1585267200.0
 两种常见的访问控制模型,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_26-access_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-26,1585180800.0
 如何在 Git 中真正删除一个文件,ChrAlpha,https://blog.ichr.me/post/git-remove-files-thoroughly/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-25,1585146890.0
 gunicorn max-requests 选项的作用,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_25-gunicorn_max_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-25,1585094400.0
@@ -47,5 +49,3 @@ Git 在 macOS 中忽略所有 .DS_Store 文件,ChrAlpha,https://blog.ichr.me/pos
 Python中的并发控制,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_12-python_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-12,1581465600.0
 让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/archives/97/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-02-11,1581394020.0
 让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/technology/50,https://blog.fsky7.com,https://blog.fsky7.com/feed,2020-02-11,1581393600.0
-【花开物语|MAD】幹物女(WeiWei)-Bonboru!,云游君的小站,https://www.yunyoujun.cn/posts/hana-saku-iroha-weiwei-bonboru,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-09,1581272688.0
-Mac 上连接 Android 传输文件与配置 SDK platform tools 环境,ChrAlpha,https://blog.ichr.me/post/configurate-connection-with-android-on-mac/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-08,1581157605.0
