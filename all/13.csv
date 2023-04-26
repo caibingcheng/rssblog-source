@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+装修笔记：从0到1打造家庭弱电方案（上篇）,罗磊的独立博客,https://luolei.org/home-network-1/,https://luolei.org/,https://luolei.org/feed/,2022-10-07,1665155878.0
 curl使用,Barney's Blog,https://hugo.bnblogs.cc/curl%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-07,1665141099.0
 【恋爱手记 Vol.3】相依的陪伴与告白,Luminous' Home,https://luotianyi.vc/6130.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-10-07,1665123242.0
 Microsoft365 家庭版合租,杜老师说,https://dusays.com/512/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-06,1665072000.0
@@ -11,9 +12,9 @@ Js异步处理的三种方式,Barney's Blog,https://hugo.bnblogs.cc/js%E5%BC%82%
 从 Rust 扩展 Emacs 到多语言协同扩展 Emacs,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/03/emacs-rpc.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-03,1664755200.0
 Leetcode 747 至少是其他数字两倍的最大数 ( Largest Number At Least Twice of Others *Easy* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/10/02/Leetcode-747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0-Largest-Number-At-Least-Twice-of-Others-Easy-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-02,1664712853.0
 观测者：数据爬虫与处理，历史数据可视化视频与用户排名,FlyingSky's Blog,https://blog.fsky7.com/technology/37,https://blog.fsky7.com,https://blog.fsky7.com/feed,2022-10-02,1664683200.0
-CDN又被刷了,瓦解的生活记事,https://hin.cool/posts/cdncc2.html,https://hin.cool/,https://hin.cool/atom.xml,2022-10-01,1664620200.0
-Kong Gateway 3.0 正式发布,把酒诗代码，趁乱写年华。,https://102no.com/2022/10/01/kong-3.0/,https://102no.com/,https://102no.com/atom.xml,2022-09-30,1664553600.0
+CDN又被刷了,瓦解的生活记事,https://hin.cool/posts/cdncc2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-10-01,1664620200.0
 杜老师又一篇水文之橘猫猫,杜老师说,https://dusays.com/510/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-30,1664553600.0
+Kong Gateway 3.0 正式发布,把酒诗代码，趁乱写年华。,https://102no.com/2022/10/01/kong-3.0/,https://102no.com/,https://102no.com/atom.xml,2022-09-30,1664553600.0
 写 诗,瓦解的生活记事,https://hin.cool/posts/xieshi.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-30,1664551200.0
 每日感触2022.09.30：总结九月,冰哥笔记,https://www.bgbiji.com/1113.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-09-30,1664546400.0
 Debain&Ubuntu修改DNS,Frank笔记,https://frank2019.me/articles/2022/09/29/1664386803327.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-28,1664386803.0
@@ -28,11 +29,11 @@ Debain&Ubuntu修改DNS,Frank笔记,https://frank2019.me/archives/debain-ubuntuxi
 板桥古街：像一条开满橙花的老街,Macin,https://macin.org/2022/09/26/ban-qiao-zhen/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-26,1664194434.0
 固态硬盘状态信息解读,杜老师说,https://dusays.com/508/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-25,1664121600.0
 Disruptor 系列三,Nicksxs's Blog,https://nicksxs.me/2022/09/25/Disruptor-%E7%B3%BB%E5%88%97%E4%B8%89/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-09-25,1664111848.0
-秘 密,瓦解的生活记事,https://hin.cool/posts/mimi.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-23,1663971600.0
+秘 密,瓦解的生活记事,https://hin.cool/posts/mimi.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-23,1663971600.0
 白嫖一年顶级域名,杜老师说,https://dusays.com/507/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-22,1663862400.0
 【CDN】GCORE CDN全球节点及线路汇总,Luminous' Home,https://luotianyi.vc/6465.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-09-22,1663831705.0
-NAS-OMV容器配置,Bing's Blog,https://imcbc.cn/202209/nas-omv-reprocesss/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
 NAS-OMV容器配置,Bing's Blog,https://bbing.com.cn/202209/nas-omv-reprocesss/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
+NAS-OMV容器配置,Bing's Blog,https://imcbc.cn/202209/nas-omv-reprocesss/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
 Re Thinking Architecture Of React Project,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220920-re-thinking-architecture-of-react-project,https://teobler.com,https://teobler.com/rss.xml,2022-09-20,1663672864.0
 做了 6 年程序员，我学到的 10 条经验,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-after-6-years-as-software-engineer/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-09-20,1663632000.0
 浅谈区块链,Frank笔记,https://frank2019.me/articles/2019/10/27/1572182192288.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-19,1663612637.0
@@ -48,4 +49,3 @@ Apollo 客户端启动过程分析,Nicksxs's Blog,https://nicksxs.me/2022/09/18/
 九一八事变,醉里博客,https://202271.xyz/post/57907/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-09-18,1663488449.0
 Python获取字体文件所支持的字形,辛未羊的网络日志,https://panqiincs.me/2022/09/18/supported-glyphs/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-09-18,1663476862.0
 公司内部培训,manateelazycat.github.io,//manateelazycat.github.io/think/2022/09/18/internal-training.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-18,1663459200.0
-贵阳防疫转运车事故的反思,Frank笔记,https://frank2019.me/archives/gui-yang-fang-yi-zhuan-yun-che-shi-gu-de-fan-si,https://frank2019.me/,https://frank2019.me/rss.xml,2022-09-17,1663437840.0

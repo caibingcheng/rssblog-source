@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+我与小镇与家,云游君的小站,https://www.yunyoujun.cn/essay/i-and-town-and-home/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-14,1597442400.0
 结合Redis与MySQL实现又快又好的数据方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_11-redis_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-11,1597104000.0
 盛唐诗人和远游,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-09-%E7%9B%9B%E5%94%90%E8%AF%97%E4%BA%BA%E5%92%8C%E8%BF%9C%E6%B8%B8.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-09,1596945600.0
 导出「你的日记」与导入「一本日记」,云游君的小站,https://www.yunyoujun.cn/posts/export-nideriji-and-import-1diary,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-05,1596645483.0
@@ -15,8 +16,8 @@ What Is Wrong about Recommendation System,Bin Wang - My Personal Blog,https://ww
 程序员的MySQL手册(三)：数据库设计,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_26-mysql_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-26,1595721600.0
 Linux窗口管理器下的截图,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_25-linux_screenshot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-25,1595635200.0
 更换博客系统BOLO,Frank笔记,https://frank2019.me/archives/geng-huan-bo-ke-xi-tong-bolo,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-23,1595480460.0
-Go设计模式：facade模式和观察者模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_23-go_design_pattern_facade.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
 程序员的MySQL手册(二): 监控与benchmark,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_23-mysql_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
+Go设计模式：facade模式和观察者模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_23-go_design_pattern_facade.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
 牌普分析,Frank笔记,https://frank2019.me/archives/pai-pu-fen-xi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-22,1595393880.0
 Go设计模式: 责任链模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_21-go_design_pattern_chain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-21,1595289600.0
 「发言成本」与为什么我（个人博主）不想建立交流社群,ChrAlpha,https://blog.ichr.me/post/expressing-costs/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-07-19,1595172616.0
@@ -48,4 +49,3 @@ WebP 图片优化在 Hexo 上的最佳尝试,ChrAlpha,https://blog.ichr.me/post/
 Base64 编码并不唯一,This Cute World,https://thiscute.world/posts/base64-encoding-is-not-unique/,https://thiscute.world/,https://thiscute.world/index.xml,2020-05-30,1590855180.0
 glusterfs 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_30-glusterfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-30,1590796800.0
 使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-05-30,1590796800.0
-使用 TiddlyWiki 进行个人知识管理,Ahonn's Blog,https://www.ahonn.me/blog/using-tiddlywiki-for-personal-knowledge-management,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-05-29,1590768000.0
