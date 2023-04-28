@@ -1,4 +1,24 @@
 title,author,link,home,rss,date,timestamp
+浅谈销售,Frank笔记,https://frank2019.me/archives/qian-tan-xiao-shou,https://frank2019.me/,https://frank2019.me/rss.xml,2021-09-03,1630643040.0
+群魔乱舞的时代,Frank笔记,https://frank2019.me/archives/qun-mo-luan-wu-de-shi-dai,https://frank2019.me/,https://frank2019.me/rss.xml,2021-09-03,1630642740.0
+回顾2018,Frank笔记,https://frank2019.me/archives/hui-gu-2018,https://frank2019.me/,https://frank2019.me/rss.xml,2021-09-03,1630642080.0
+拉康哲学重点,Frank笔记,https://frank2019.me/archives/la-kang-zhe-xue-chong-dian,https://frank2019.me/,https://frank2019.me/rss.xml,2021-09-03,1630641780.0
+追随梦想,Frank笔记,https://frank2019.me/archives/zhui-sui-meng-xiang,https://frank2019.me/,https://frank2019.me/rss.xml,2021-09-03,1630641660.0
+应用内使用crontab不是那么方便,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_01-cron_is_not_convenient.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-01,1630454400.0
+我们怎样做用户调研,见字如面,https://hiwannz.com/archives/597,https://hiwannz.com,https://hiwannz.com/feed,2021-08-31,1630394184.0
+宝塔面板环境下 Docker 报错问题的解决,Zikin的独立博客,https://zikin.org/fix-docker-bt/,https://zikin.org/,https://zikin.org/feed,2021-08-30,1630314985.0
+10本 Excel 数据分析学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/08/30/10-excel-data-analysis-book/,https://102no.com/,https://102no.com/atom.xml,2021-08-29,1630252800.0
+2021年，我的EDC,Zikin的独立博客,https://zikin.org/my-edc-2021/,https://zikin.org/,https://zikin.org/feed,2021-08-29,1630246195.0
+聊一下 RocketMQ 的顺序消息,Nicksxs's Blog,https://nicksxs.me/2021/08/29/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E9%A1%BA%E5%BA%8F%E6%B6%88%E6%81%AF/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-29,1630240877.0
+【恋爱手记 Vol.2】意外与惊喜中的初见,Luminous' Home,https://luotianyi.vc/5801.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-08-28,1630135737.0
+最强水冷方案,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/best-water-colding.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-08-28,1630123020.0
+单测时要不要 mock 数据库？,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_08_27-mock_db_or_not.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-27,1630022400.0
+Sentry 自建指南,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_08_25-use_sentry.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-25,1629849600.0
+10本 Excel VBA 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/08/25/10-excel-vba-books/,https://102no.com/,https://102no.com/atom.xml,2021-08-24,1629820800.0
+判断时距,见字如面,https://hiwannz.com/archives/585,https://hiwannz.com,https://hiwannz.com/feed,2021-08-24,1629774059.0
+当我们沉迷游戏时，我们在沉迷什么？,冰哥笔记,https://www.bgbiji.com/823.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-08-19,1629364545.0
+聊在东京奥运会闭幕式这天-二,Nicksxs's Blog,https://nicksxs.me/2021/08/19/%E8%81%8A%E5%9C%A8%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E8%BF%99%E5%A4%A9-%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-19,1629356218.0
+Java数据类型和MySql数据类型对应表,框架师,https://www.mobaijun.com/posts/961492254.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-19,1629343670.0
 用selenium完成自动化任务,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_08_19-selenium.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-19,1629331200.0
 杭州电动车上牌记录,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/745/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-08-18,1629322944.0
 Ubuntu 20.04.2 LTS Server版本设置静态IP地址,框架师,https://www.mobaijun.com/posts/594559550.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-18,1629285329.0
@@ -29,23 +49,3 @@ Kong 2.5 正式发布！,把酒诗代码，趁乱写年华。,https://102no.com/
 天灾过后的反思,Frank笔记,https://frank2019.me/articles/2021/07/29/1627561660485.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-07-29,1627570831.0
 让 Typecho 主题支持多语言,FlyingSky's Blog,https://blog.fsky7.com/archives/191/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2021-07-29,1627549200.0
 让 Typecho 主题支持多语言,FlyingSky's Blog,https://blog.fsky7.com/technology/31,https://blog.fsky7.com,https://blog.fsky7.com/feed,2021-07-29,1627531200.0
-天灾过后的反思,Frank笔记,https://frank2019.me/archives/tian-zai-guo-hou-de-fan-si,https://frank2019.me/,https://frank2019.me/rss.xml,2021-07-28,1627493820.0
-如何找到靠谱的产品经理,见字如面,https://hiwannz.com/archives/571,https://hiwannz.com,https://hiwannz.com/feed,2021-07-28,1627444858.0
-让电脑真正成为工作学习的工具,冰哥笔记,https://www.bgbiji.com/805.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-28,1627441147.0
-莫名其妙的「少鱼」,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/inexplicable-less-fish.html,https://zmmio.com/,https://zmmio.com/feed,2021-07-27,1627427040.0
-优质偶像,冰哥笔记,https://www.bgbiji.com/804.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-26,1627295947.0
-redis过期策略复习,Nicksxs's Blog,https://nicksxs.me/2021/07/25/redis%E8%BF%87%E6%9C%9F%E7%AD%96%E7%95%A5%E5%A4%8D%E4%B9%A0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-07-25,1627219703.0
-面试时到底应该问什么,见字如面,https://hiwannz.com/archives/568,https://hiwannz.com,https://hiwannz.com/feed,2021-07-23,1627028243.0
-给Typecho Pinghsu主题更换「Gravatar」源,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/replacing-gravetar-source-for-typecho-pinghsu-theme.html,https://zmmio.com/,https://zmmio.com/feed,2021-07-20,1626823972.0
-开着特斯拉从广州到苏州的小记,Randy's Blog,https://lutaonan.com/blog/trip-from-guangzhou-to-suzhou/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-07-20,1626739200.0
-建立与他人的连接,见字如面,https://hiwannz.com/archives/564,https://hiwannz.com,https://hiwannz.com/feed,2021-07-19,1626680297.0
-SpringBoot数据库（URL）参数记录,框架师,https://www.mobaijun.com/posts/2403615121.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-07-19,1626664718.0
-下班直接提车「爱玛 雷拉Q312」,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/pick-up-the-car-after-work.html,https://zmmio.com/,https://zmmio.com/feed,2021-07-18,1626622320.0
-2021 年中总结,Nicksxs's Blog,https://nicksxs.me/2021/07/18/2021-%E5%B9%B4%E4%B8%AD%E6%80%BB%E7%BB%93/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-07-18,1626614140.0
-想买「电动车」了,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/i-want-to-buy-an-electric-car.html,https://zmmio.com/,https://zmmio.com/feed,2021-07-18,1626595063.0
-关于我打算当老师并报考教师资格证这件事,云游君的小站,https://www.yunyoujun.cn/posts/try-to-become-a-teacher,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-07-16,1626479963.0
-【杂谈】UCloud云与轻量：个人网站的对比选择,Luminous' Home,https://luotianyi.vc/5759.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-07-16,1626439420.0
-生日快乐，徐雁冰先生,冰哥笔记,https://www.bgbiji.com/802.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-16,1626405392.0
-程序员可能必读书单推荐（一）,面向信仰编程,https://draveness.me//books-1,https://draveness.me/,https://draveness.me/feed.xml,2021-07-16,1626393600.0
-vue-router 源码解析,4Ark × Blog,https://4ark.me/post/vue-router-score-code.html,https://4ark.me/,https://4ark.me/rss.xml,2021-07-16,1626393600.0
-vue-router 源码解析,4Ark,https://4ark.me/post/vue-router-score-code/,https://4ark.me/,https://4ark.me/rss.xml,2021-07-16,1626393600.0
