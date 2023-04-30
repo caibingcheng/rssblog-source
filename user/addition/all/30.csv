@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Go设计模式: 责任链模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_21-go_design_pattern_chain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-21,1595289600.0
 「发言成本」与为什么我（个人博主）不想建立交流社群,ChrAlpha,https://blog.ichr.me/post/expressing-costs/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-07-19,1595172616.0
 自己搭建的免费虚拟主机（MOFH）,岚天小窝,https://blog.ltya.top/posts/freewebhosting.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
 我们真的需要这么复杂的技术栈吗？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_15-do_we_need_these.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-15,1594771200.0
@@ -22,8 +23,8 @@ Go设计模式：模板模式,Jiajun的编程随想,https://jiajunhuang.com/arti
 Go设计模式：适配器模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_09-go_design_pattern_adapter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-09,1591660800.0
 Go设计模式：Iterator,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_07-go_design_pattern_iter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-07,1591488000.0
 WebP 图片优化在 Hexo 上的最佳尝试,ChrAlpha,https://blog.ichr.me/post/webp-on-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-05-30,1590858611.0
-使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-05-30,1590796800.0
 glusterfs 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_30-glusterfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-30,1590796800.0
+使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-05-30,1590796800.0
 使用 TiddlyWiki 进行个人知识管理,Ahonn's Blog,https://www.ahonn.me/blog/using-tiddlywiki-for-personal-knowledge-management,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-05-29,1590768000.0
 使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-05-29,1590768000.0
 用peewee代替SQLAlchemy,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_29-use_peewee.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-29,1590710400.0
@@ -48,4 +49,3 @@ Typlog 三週年,Just lepture,https://lepture.com/zh/2020/3-years-of-typlog,http
 MySQL操作笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_01-mysql_notes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-01,1588291200.0
 Theme Cards | 又一款追求简洁的 Hexo 主题,ChrAlpha,https://blog.ichr.me/post/hexo-theme-cards/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-30,1588257737.0
 Go语言解析GBK编码的xml,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_30-golang_gbk_xml.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-30,1588204800.0
-Golang log 源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_28-golang_log.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-28,1588032000.0
