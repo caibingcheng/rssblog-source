@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Memory leak in net/http,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_24-memory_leak_in_net_http.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
 etcd源码阅读与分析（二）：raft,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_22-etcd_source_code_analysis_raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-22,1542844800.0
 etcd源码阅读与分析（一）：raftexample,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_20-etcd_source_code_analysis_raftexample.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-20,1542672000.0
 虚拟机里的Ubuntu sudo时卡住,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_18-ubuntu_sudo_hang.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-18,1542499200.0
@@ -10,8 +11,8 @@ Go访问私有变量,Jiajun的编程随想,https://jiajunhuang.com/articles/2018
 Go的unsafe包,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_13-golang_package_unsafe.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-13,1542067200.0
 Golang中实现禁止拷贝,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
 人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0
-数据库事务,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_10-transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
 Golang的反射,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_10-golang_reflection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
+数据库事务,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_10-transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
 把网站去掉CSS之后,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_09-drop_css.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-09,1541721600.0
 处理并发的方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_07-concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-07,1541548800.0
 常见的索引方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_02-index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-02,1541116800.0
@@ -25,8 +26,8 @@ UTAU插件:一键描点 使用帮助,FlyingSky's Blog,https://blog.fsky7.com/tec
 独立运营博客一年的一些数据分享,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
 To B(usiness) 和 To C(ustomer),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_22-to_b_to_c.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-22,1537574400.0
 PyCon JP 2018 記,Just lepture,https://lepture.com/zh/2018/pycon-jp-2018,https://lepture.com/,https://lepture.com/feed.xml,2018-09-19,1537364456.0
-常见的软件架构套路,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 Cookie 中的secure和httponly属性,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-cookie_secure_httponly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
+常见的软件架构套路,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-09-15,1536969687.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-09-15,1536969600.0
 一个阅读源代码的技巧,Randy's Blog,https://lutaonan.com/blog/trick-for-reading-source-code/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-09-14,1536883200.0
@@ -48,4 +49,3 @@ macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的编程随�
 Python中实现单例模式的n种方式和原理,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
 Golang defer中修改返回值,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_23-go_defer_named_return_values.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-23,1534982400.0
 Serlina: 渐进式的 React 服务器渲染框架,Randy's Blog,https://lutaonan.com/blog/announcing-serlina/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-08-13,1534118400.0
-Python dataclass 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_12-python_dataclasses.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-12,1534032000.0

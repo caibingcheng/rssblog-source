@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Python dataclass 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_12-python_dataclasses.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-12,1534032000.0
 gRPC-gateway 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_08-grpc_gateway_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-08,1533686400.0
 如何阅读源代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_04-how_to_read_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-04,1533340800.0
 我心目中的配置中心应该怎么做？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_07_22-config_center.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-07-22,1532217600.0
@@ -48,4 +49,3 @@ Go语言性能优化实战,Jiajun的编程随想,https://jiajunhuang.com/article
 那些年开发的时候踩过的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_14-pitfalls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-14,1515888000.0
 Announcement of Authlib,Just lepture,https://lepture.com/en/2018/announcement-of-authlib,https://lepture.com/,https://lepture.com/feed.xml,2018-01-08,1515417697.0
 (关系型)数据库优化总结,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_08-db_optimizations.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-08,1515369600.0
-动态规划民科教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_04-dynamic_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-04,1515024000.0
