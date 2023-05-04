@@ -9,10 +9,10 @@ Emacs GC 的一些研究,manateelazycat.github.io,//manateelazycat.github.io/ema
 获取网页中光标处的单词,manateelazycat.github.io,//manateelazycat.github.io/eaf/ai/2023/04/08/get-mouse-cursor.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-08,1680912000.0
 健身要点,manateelazycat.github.io,//manateelazycat.github.io/healthy/2023/04/06/fitness-essentials.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-06,1680739200.0
 Emacs 里用雾凇拼音实现流畅中文输入,manateelazycat.github.io,//manateelazycat.github.io/emacs/2023/04/05/emacs-rime-ice.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-05,1680652800.0
-lsp-bridge 远程代码补全,manateelazycat.github.io,//manateelazycat.github.io/emacs/lsp/2023/03/31/lsp-bridge-remote-file.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
-lsp-bridge 远程代码补全,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2023/03/31/lsp-bridge-remote-file.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
 AI 编程实践,manateelazycat.github.io,//manateelazycat.github.io/think/2023/03/31/chatgpt.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
 AI 编程实践,manateelazycat.github.io,//manateelazycat.github.io/think/ai/2023/03/31/chatgpt.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
+lsp-bridge 远程代码补全,manateelazycat.github.io,//manateelazycat.github.io/emacs/lsp/2023/03/31/lsp-bridge-remote-file.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
+lsp-bridge 远程代码补全,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2023/03/31/lsp-bridge-remote-file.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
 论产品思维,manateelazycat.github.io,//manateelazycat.github.io/think/2023/03/26/product-thinking.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-26,1679788800.0
 读《穷查理宝典》,manateelazycat.github.io,//manateelazycat.github.io/reading/2023/03/17/reading-poor-charlies-almanack.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-17,1679011200.0
 mind-wave 基于 ChatGPT API 的 Emacs AI 插件,manateelazycat.github.io,//manateelazycat.github.io/emacs/ai/2023/03/09/mind-wave.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-09,1678320000.0
@@ -40,8 +40,8 @@ Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/ema
 deno-bridge,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/deno-bridge.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
 blink-search,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/blink-search.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
 最佳代理实践 2022-10-23,manateelazycat.github.io,//manateelazycat.github.io/proxy/2022/10/23/best-proxy.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-23,1666483200.0
-Elisp Get free port,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/elisp-get-free-port.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
 使用 Deno 和 Puppeteer 获取在线翻译内容,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/deno-deepl.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
+Elisp Get free port,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/elisp-get-free-port.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
 从 Rust 扩展 Emacs 到多语言协同扩展 Emacs,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/03/emacs-rpc.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-03,1664755200.0
 从毛泽东选集看创业过程,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/09/19/reading-mao.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-19,1663545600.0
 公司内部培训,manateelazycat.github.io,//manateelazycat.github.io/think/2022/09/18/internal-training.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-18,1663459200.0
