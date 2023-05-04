@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+hexo-theme-yun 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-hexo-theme-yun/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-27,1556337600.0
+Crontab + Sendmail实现定时任务并且通知,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_25-crontab_sendmail.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-25,1556150400.0
 Nginx设置Referer来防止盗图,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_23-nginx_referer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-23,1555977600.0
 Graphviz dot简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_20-graphviz_dot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-20,1555718400.0
 jQuery简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_04_19-jquery.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-19,1555632000.0
@@ -47,5 +49,3 @@ Vue 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-learn-not
 不越狱在 iOS 12.113.3 设备安装 Kodi,萤火之森,http://frankorz.com/2019/01/13/install-kodi-with-tweakbox/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-01-13,1547402460.0
 杂谈,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_01_13-goroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-13,1547337600.0
 使用autossh实现内网穿透,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_01_12-autossh.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-12,1547251200.0
-本博客的赞助渠道,Randy's Blog,https://lutaonan.com/blog/donation/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-01-10,1547078400.0
-Linux线程内存模型,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_01_07-linux_thread_mem_layout.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-07,1546819200.0
