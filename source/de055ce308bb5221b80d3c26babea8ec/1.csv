@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+NixOS 与 Nix Flake 新手入门,This Cute World,https://thiscute.world/posts/nixos-and-flake-basics/,https://thiscute.world/,https://thiscute.world/index.xml,2023-05-04,1683184768.0
 Linux 上的 WireGuard 网络分析（一）,This Cute World,https://thiscute.world/posts/wireguard-on-linux/,https://thiscute.world/,https://thiscute.world/index.xml,2023-03-28,1680013165.0
 EE 入门（二） - 使用 ESP32 与 SPI 显示屏绘图、显示图片、跑贪吃蛇,This Cute World,https://thiscute.world/posts/ee-basics-2-esp32-display/,https://thiscute.world/,https://thiscute.world/index.xml,2023-03-05,1678024621.0
 EE 入门（一） - 电子电路基础知识,This Cute World,https://thiscute.world/posts/electrical-engineering-circuits-basics-1/,https://thiscute.world/,https://thiscute.world/index.xml,2023-01-31,1675175631.0
@@ -44,8 +45,7 @@ Linux 网络工具中的瑞士军刀 - socat &amp; netcat,This Cute World,https:
 secrets 管理工具 Vault 的介绍、安装及使用,This Cute World,https://thiscute.world/posts/experience-of-vault/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-24,1611451901.0
 secrets 管理工具 Vault 的介绍、安装及使用,This Cute World,https://thiscute.world/posts/expirence-of-vault/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-24,1611451901.0
 QEMU/KVM 虚拟化环境的搭建与使用,This Cute World,https://thiscute.world/posts/qemu-kvm-usage/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-17,1610890444.0
-关于,This Cute World,https://thiscute.world/about/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-15,1610727871.0
 我的小伙伴们,This Cute World,https://thiscute.world/friends/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-15,1610727871.0
-Pulumi 使用体验 - 基础设施代码化,This Cute World,https://thiscute.world/posts/experience-of-pulumi/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-08,1610103090.0
+关于,This Cute World,https://thiscute.world/about/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-15,1610727871.0
 Pulumi 使用体验 - 基础设施代码化,This Cute World,https://thiscute.world/posts/expirence-of-pulumi/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-08,1610103090.0
-openSUSE 使用指南,This Cute World,https://thiscute.world/posts/opensuse-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-04,1609720941.0
+Pulumi 使用体验 - 基础设施代码化,This Cute World,https://thiscute.world/posts/experience-of-pulumi/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-08,1610103090.0

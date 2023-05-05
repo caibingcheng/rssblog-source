@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Matrix: A Self Hosted Instant Messaging Solution with End to End Encryption,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-23-Build-An-Instant_Messaging-System-without-Censorship-Choose-the-right-technology.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-23,1598155200.0
 Go DiskQueue源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-22,1598054400.0
 《八佰》观后感,Frank笔记,https://frank2019.me/archives/ba-bai-guan-hou-gan,https://frank2019.me/,https://frank2019.me/rss.xml,2020-08-21,1597986660.0
 el-bot & mirai-ts 制作笔记,云游君的小站,https://www.yunyoujun.cn/posts/make-el-bot,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-20,1597954613.0
@@ -47,5 +48,4 @@ el-bot & mirai-ts 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/
 Go设计模式：桥接模式和策略模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_21-go_design_pattern_bridge.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-21,1592697600.0
 Go设计模式：单例模式、原型模式和Builder模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_20-go_design_pattern_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-20,1592611200.0
 操作系统也是CRUD,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_15-unix_crud.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-15,1592179200.0
-把USB设备穿透给虚拟机里的系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_13-macos_kvm_usb_pass.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
 Go设计模式：简单工厂模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_13-go_design_pattern_factory.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
