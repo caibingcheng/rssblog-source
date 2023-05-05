@@ -3,8 +3,8 @@ title,author,link,home,rss,date,timestamp
 Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
 Golang validator使用教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
 垃圾清理软件多，是我们缺存储空间吗？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/25.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-09,1586425500.0
-价值编程与职业发展,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_09-value_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
 使用Redis的Stream模块实现群聊功能,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_09-redis_stream_as_im.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
+价值编程与职业发展,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_09-value_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
 【转载】世界不应该是这样的,Frank笔记,https://frank2019.me/archives/zhuan-zai-shi-jie-bu-ying-gai-shi-zhe-yang-de,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-08,1586377380.0
 关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
 解决k8s cron无法读取环境变量的问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
@@ -44,8 +44,8 @@ pip freeze是魔鬼,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_
 一个feed流系统的演进,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_02-feed_system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-02,1583107200.0
 通过4bet来防守3bet,Frank笔记,https://frank2019.me/archives/tong-guo-4betlai-fang-shou-3bet,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096880.0
 使用Markdown在博客中添加视频,Frank笔记,https://frank2019.me/archives/shi-yong-markdownzai-bo-ke-zhong-tian-jia-shi-pin,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096760.0
-Android 使用view binding,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_01-android_view_binding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-01,1583020800.0
 好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
+Android 使用view binding,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_01-android_view_binding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-01,1583020800.0
 关于浏览器隐藏 https 与 www 一事,ChrAlpha,https://blog.ichr.me/post/why-browsers-hide-https-and-www-in-address-bar/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-29,1582985007.0
 Ubuntu安装SS-Libev,Frank笔记,https://frank2019.me/archives/ubuntuan-zhuang-ss-libev,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-28,1582923840.0
 Cloudflare 指定 CDN 节点与缓存配置,ChrAlpha,https://blog.ichr.me/post/cloudflare-cdn-optimize/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-28,1582899925.0
