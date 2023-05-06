@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Cloudflare 指定 CDN 节点与缓存配置,ChrAlpha,https://blog.ichr.me/post/cloudflare-cdn-optimize/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-28,1582899925.0
 系统调用的过程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_27-syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-27,1582761600.0
 疫情过后的思考,Frank笔记,https://frank2019.me/archives/yi-qing-guo-hou-de-si-kao,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-26,1582750980.0
 Parcel.js + Vue 搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-parcel-demo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-26,1582689900.0
@@ -38,14 +39,13 @@ npm & yarn 常用包与命令,云游君的小站,https://www.yunyoujun.cn/posts/
 Golang不那么蛋疼的sort,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_07-golang_sort_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-07,1578355200.0
 从「后端现在已经看不懂前端了」说起,Randy's Blog,https://lutaonan.com/blog/to-frontend-prejudicers/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-07,1578355200.0
 Flutter给Android应用签名,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_06-flutter_sign_android_apk.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-06,1578268800.0
-React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
 React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
-2019 年终总结：慢慢变成别人眼中「食古不化」的「怪人」,Randy's Blog,https://lutaonan.com/blog/2019-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-01,1577836800.0
+React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
 使用Gitea+Drone打造自己的CI/CD系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_01-use_gitea_with_drone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-01,1577836800.0
+2019 年终总结：慢慢变成别人眼中「食古不化」的「怪人」,Randy's Blog,https://lutaonan.com/blog/2019-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-01,1577836800.0
 年度简报 - 2019 | 拾光,FlyingSky's Blog,https://blog.fsky7.com/archives/71/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-12-31,1577808000.0
 2019年就要结束啦！,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_31-hello_2020.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-31,1577750400.0
 RE: 2019 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2019-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
 2019 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2019-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
 RE: 2019 年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2019-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
 为什么要使用gRPC？,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_27-why_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-27,1577404800.0
-为了你爱的人，读一读《非暴力沟通》,Randy's Blog,https://lutaonan.com/blog/nonviolent-communication/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-12-25,1577232000.0
