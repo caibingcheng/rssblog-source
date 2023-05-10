@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+武汉肺炎科普教学,Frank笔记,https://frank2019.me/archives/wu-han-fei-yan-ke-pu-jiao-xue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-01-29,1580331420.0
 npm & yarn 常用包与命令,云游君的小站,https://www.yunyoujun.cn/posts/npm-and-yarn,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-01-29,1580310284.0
 使 SSH 保持长时间连接,ChrAlpha,https://blog.ichr.me/post/keep-ssh-connection-alive-for-long/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-01-27,1580132331.0
 用 Tiny Tiny RSS 搭建自己的 RSS 服务端,ChrAlpha,https://blog.ichr.me/post/use-tt-rss-to-build-your-own-rss-service/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-01-20,1579535044.0
@@ -48,4 +49,3 @@ SQLAlchemy快速更新或插入对象,Jiajun的编程随想,https://jiajunhuang.
 修复Linux下curl等无法使用letsencrypt证书,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_26-lets_encrypt_linux_shell.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-26,1574726400.0
 Kubernetes 常见错误、原因及处理方法,This Cute World,https://thiscute.world/posts/kubernetes-common-errors-and-solutions/,https://thiscute.world/,https://thiscute.world/index.xml,2019-11-24,1574594814.0
 欣赏一下K&R两位大神的代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_24-code_from_k_and_r.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-24,1574553600.0
-MySQL的ON DUPLICATE KEY UPDATE语句,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_19-mysql_duplicate_key_update.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-19,1574121600.0
