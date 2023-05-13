@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Golang sync.Pool源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_05-go_sync_pool.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-05,1588636800.0
 后浪观后感,Frank笔记,https://frank2019.me/archives/hou-lang-guan-hou-gan,https://frank2019.me/,https://frank2019.me/rss.xml,2020-05-03,1588537920.0
 [转载]如果一个民族到没有一个人敢出来说真话，这个民族就没有希望----寻找林昭,Frank笔记,https://frank2019.me/archives/zhuan-linzhaojun,https://frank2019.me/,https://frank2019.me/rss.xml,2020-05-02,1588451400.0
 Typlog 三週年,Just lepture,https://lepture.com/zh/2020/3-years-of-typlog,https://lepture.com/,https://lepture.com/feed.xml,2020-05-02,1588438232.0
@@ -25,8 +26,8 @@ Golang expvar库源码阅读,Jiajun的编程随想,https://jiajunhuang.com/artic
 Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
 Golang validator使用教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
 垃圾清理软件多，是我们缺存储空间吗？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/25.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-09,1586425500.0
-价值编程与职业发展,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_09-value_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
 使用Redis的Stream模块实现群聊功能,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_09-redis_stream_as_im.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
+价值编程与职业发展,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_09-value_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
 【转载】世界不应该是这样的,Frank笔记,https://frank2019.me/archives/zhuan-zai-shi-jie-bu-ying-gai-shi-zhe-yang-de,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-08,1586377380.0
 关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
 解决k8s cron无法读取环境变量的问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
@@ -48,4 +49,3 @@ gunicorn max-requests 选项的作用,Jiajun的编程随想,https://jiajunhuang.
 鬼子来了，一部超越时代的影片,Frank笔记,https://frank2019.me/archives/gui-zi-lai-liao-yi-bu-chao-yue-shi-dai-de-ying-pian,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-24,1585080960.0
 VPS常用脚本,Frank笔记,https://frank2019.me/archives/vpschang-yong-jiao-ben,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-24,1585080900.0
 Redis使用中的几点注意事项,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_23-redis_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-23,1584921600.0
-如何打造好看还好用的 Windows Terminal,ChrAlpha,https://blog.ichr.me/post/windows-terminal-configuration/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-21,1584823047.0
