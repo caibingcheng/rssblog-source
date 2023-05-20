@@ -1,4 +1,15 @@
 title,author,link,home,rss,date,timestamp
+【转载】世界不应该是这样的,Frank笔记,https://frank2019.me/archives/zhuan-zai-shi-jie-bu-ying-gai-shi-zhe-yang-de,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-08,1586377380.0
+关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
+解决k8s cron无法读取环境变量的问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
+使用 Istio 进行 JWT 身份验证（充当 API 网关）,This Cute World,https://thiscute.world/posts/use-istio-for-jwt-auth/,https://thiscute.world/,https://thiscute.world/index.xml,2020-04-06,1586180906.0
+VPS 手动在线一键重装系统脚本整理,ChrAlpha,https://blog.ichr.me/post/scripts-for-reinstalling-linux-vps/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-06,1586171300.0
+人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/posts/life-is-not-a-marathon,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1586012398.0
+人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/diary/life-is-not-a-marathon/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1585983598.0
+N95口罩背后不为人知的历史,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/21.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-04,1585962960.0
+在网页 404 前将其备份的不同方法,ChrAlpha,https://blog.ichr.me/post/archive-webpage-before-404/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-01,1585740437.0
+公司内部建设的重要性,Frank笔记,https://frank2019.me/archives/gong-si-nei-bu-jian-she-de-chong-yao-xing,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-30,1585599660.0
+反复横跳？—— 我的密码管理工具折腾记,ChrAlpha,https://blog.ichr.me/post/password-managements/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-30,1585578224.0
 Linux网络学习笔记（二）：域名解析(DNS)——以 CoreDNS 为例,This Cute World,https://thiscute.world/posts/about-dns-protocol/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-29,1585468163.0
 [2021] 绕过 Google Play 一年一次换区限制,ChrAlpha,https://blog.ichr.me/post/bypass-google-play-region-restrictions/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-27,1585318102.0
 重新注册 PT 网站后，原有种子“红种” 的简单解决方法,yzqzss | 一座桥在水上's Blog,https://blog.othing.xyz/archives/20.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-03-27,1585274160.0
@@ -38,14 +49,3 @@ Ubuntu安装SS-Libev,Frank笔记,https://frank2019.me/archives/ubuntuan-zhuang-s
 Cloudflare 指定 CDN 节点与缓存配置,ChrAlpha,https://blog.ichr.me/post/cloudflare-cdn-optimize/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-28,1582899925.0
 系统调用的过程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_27-syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-27,1582761600.0
 疫情过后的思考,Frank笔记,https://frank2019.me/archives/yi-qing-guo-hou-de-si-kao,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-26,1582750980.0
-Parcel.js + Vue 搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-parcel-demo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-26,1582689900.0
-MySQL charset不同导致无法使用索引的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_26-mysql_charset_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-26,1582675200.0
-使用 Speedtest CLI 测试服务器带宽质量,ChrAlpha,https://blog.ichr.me/post/use-speedtest-cli-to-test-the-speed-of-your-server/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-24,1582561951.0
-微服务的缺点,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_19-should_i_use_microservice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-19,1582070400.0
-Ubuntu软件更新运维,Frank笔记,https://frank2019.me/archives/ubunturuan-jian-geng-xin-yun-wei,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-18,1582059720.0
-使用 CDN 加速你的 GitHub Pages 网站,云游君的小站,https://www.yunyoujun.cn/posts/use-cdn-speed-up-site,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-16,1581884937.0
-Git 在 macOS 中忽略所有 .DS_Store 文件,ChrAlpha,https://blog.ichr.me/post/git-ignore-all-ds-store-on-mac/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-16,1581865768.0
-归来,Frank笔记,https://frank2019.me/archives/gui-lai,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-15,1581800400.0
-初探无后端静态博客自动化部署方案,ChrAlpha,https://blog.ichr.me/post/automated-deployment-of-serverless-static-blog/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-14,1581718212.0
-远程工作一周有感,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_14-remote_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-14,1581638400.0
-Python中的并发控制,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_12-python_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-12,1581465600.0
