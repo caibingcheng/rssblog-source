@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
+关于运营的思考-运营要怎么做？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_26-about_traffic.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-26,1535241600.0
 Python中实现单例模式的n种方式和原理,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
 Golang defer中修改返回值,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_23-go_defer_named_return_values.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-23,1534982400.0
 Serlina: 渐进式的 React 服务器渲染框架,Randy's Blog,https://lutaonan.com/blog/announcing-serlina/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-08-13,1534118400.0
@@ -47,5 +49,3 @@ Golang(Go语言)中实现典型的fork调用,Jiajun的编程随想,https://jiaju
 程序员的自我修养：链接，装载与库 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_25-linker_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-25,1519516800.0
 Redis源码阅读与分析三：哈希表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_hash_table.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
 Redis源码阅读与分析二：双链表,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_doubly_linked_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
-Redis源码阅读与分析一：sds,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_sds.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
-【动画电影】《声之形》观后感,云游君的小站,https://www.yunyoujun.cn/posts/the-shape-of-voice,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-02-03,1517686818.0
