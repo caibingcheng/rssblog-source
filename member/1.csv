@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+ArchLinux 安装 N 卡闭源驱动,manateelazycat.github.io,//manateelazycat.github.io/linux/2023/06/03/nvidia-driver.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-06-03,1685750400.0
+Ubuntu版本升级命令,Frank笔记,http://frank2019.me/archives/ubuntuban-ben-sheng-ji-ming-ling,http://frank2019.me/,https://frank2019.me/rss.xml,2023-06-02,1685726015.0
 目前免费的AI绘图使用体验,瓦解的生活记事,https://hin.cool/posts/seaart.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-06-01,1685631600.0
 【Argo】Windows/Linux开机自启配置简记,Luminous' Home,https://luotianyi.vc/7286.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-06-01,1685581716.0
 高三成人礼及壮行活动,醉里博客,https://202271.xyz/post/40840/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-30,1685462506.0
@@ -9,8 +11,6 @@ Python创建并上传自己的pip依赖包,cywhat's blog,https://cywhat.cn/Pytho
 Jenkins+Gitee持续集成,Barney's Blog,https://hugo.bnblogs.cc/jenkins-gitee%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684848714.0
 MacOS 窗口管理器 yabai 玩耍笔记,This Cute World,https://thiscute.world/posts/macos-window-manager-yabai-usage/,https://thiscute.world/,https://thiscute.world/index.xml,2023-05-22,1684729497.0
 Upgrade Kubernetes from 1.23 to 1.24,Bin Wang - My Personal Blog,https://www.binwang.me/2023-05-22-Upgrade-Kubernetes-from-1.23-to-1.24.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-05-22,1684728000.0
-最佳代理实践之 v2ray (2023-05-22),manateelazycat.github.io,//manateelazycat.github.io/proxy/2023/05/22/best-proxy.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-05-22,1684713600.0
-因言获罪的脱口秀,Frank笔记,http://frank2019.me/archives/1684425172569,http://frank2019.me/,https://frank2019.me/rss.xml,2023-05-18,1684432680.0
 因言获罪的脱口秀,Frank笔记,/archives/1684425172569,/,https://frank2019.me/rss.xml,2023-05-18,1684432680.0
 我的世界mod开发,DearXuan的主页,https://blog.dearxuan.com/2023/05/16/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8Cmod%E5%BC%80%E5%8F%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2023-05-16,1684246680.0
 以星辰为名，以黑暗为姓,Muidar's Site,https://www.muidar.com/posts/cmuidar/siriusblack/,https://www.muidar.com,https://muidar.com/feed,2023-05-14,1684059269.0
@@ -34,8 +34,8 @@ HMailServer配置SSL/TLS（避坑）,Thrower的博客,https://thrower.cc/2023/hm
 Edge使用不了Clash解决办法,Muidar's Site,https://muidar.com/posts/cmuidar/clash-usable-in-edge-solved/,https://muidar.com,https://muidar.com/feed,2023-01-18,1674038847.0
 在宝塔面板中使用frp内网穿透,Peter's Blog,https://www.rainogo.com/posts/frp_btpanel.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2023-01-16,1673839320.0
 本博客已经永久停止更新,SinGO博客,https://blog.xsnet.eu.org/posts/19204/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2023-01-13,1673598386.0
-个人建站的经历——域名篇,岚天小窝,https://blog.ltya.top/posts/personalexp-domain.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-01-10,1673366400.0
 个人建站的经历——域名篇,岚天小窝,http://blog.ltya.top/posts/personalexp-domain.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-01-10,1673366400.0
+个人建站的经历——域名篇,岚天小窝,https://blog.ltya.top/posts/personalexp-domain.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-01-10,1673366400.0
 “博客教”质料宗修行法门,非理勿试,https://www.ntiy.com/1980.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-01-03,1672751332.0
 面向神经科学家的人工神经网络,无妄当自持,https://www.insidentally.com/articles/000032/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-12-27,1672143093.0
 To Be An Excellent Tech Lead,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20221213-to-be-an-excellent-tech-lead,https://teobler.com,https://teobler.com/rss.xml,2022-12-13,1670922083.0
