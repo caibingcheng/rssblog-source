@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Go语言性能优化实战,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_22-golang_optimization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-22,1516579200.0
 那些年开发的时候踩过的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_14-pitfalls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-14,1515888000.0
 Announcement of Authlib,Just lepture,https://lepture.com/en/2018/announcement-of-authlib,https://lepture.com/,https://lepture.com/feed.xml,2018-01-08,1515417697.0
 (关系型)数据库优化总结,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_08-db_optimizations.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-08,1515369600.0
@@ -48,4 +49,3 @@ Haskell简明教程（四）：Monoid， Applicative， Monad,Jiajun的编程随
 週記，九月三週,Just lepture,https://lepture.com/zh/2017/weekly-20170924,https://lepture.com/,https://lepture.com/feed.xml,2017-09-24,1506252839.0
 像夏花一样绚烂,云游君的小站,https://www.yunyoujun.cn/posts/as-summer-flowers,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-09-23,1506202608.0
 3D数学基础-向量运算基础和矩阵变换,萤火之森,http://frankorz.com/2017/09/22/basic-of-vector-and-matrix-transformation/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-09-22,1506078350.0
-像遊客一樣生活,Just lepture,https://lepture.com/zh/2017/live-better,https://lepture.com/,https://lepture.com/feed.xml,2017-09-22,1506065108.0
