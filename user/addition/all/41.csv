@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 How to implement fork syscall in Golang?,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 关于运营的思考-运营要怎么做？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_26-about_traffic.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-26,1535241600.0
 Python中实现单例模式的n种方式和原理,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
@@ -48,4 +49,3 @@ Redis源码阅读与分析一：sds,Jiajun的编程随想,https://jiajunhuang.co
 Golang runtime 源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_02-golang_runtime.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-02,1517529600.0
 Golang的一些坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_31-golang_traps.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-31,1517356800.0
 GC 垃圾回收,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_01_30-gc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-30,1517270400.0
-VS Code 配置笔记,云游君的小站,https://www.yunyoujun.cn/posts/vscode-config-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-01-29,1517240360.0
