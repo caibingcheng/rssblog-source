@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+What Is Wrong about Recommendation System,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-02-What-Is-Wrong-abount-Recommendation-System.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-02,1596340800.0
 人生重要的是经历而非结果,Frank笔记,https://frank2019.me/archives/ren-sheng-chong-yao-de-shi-jing-li-er-fei-jie-guo,https://frank2019.me/,https://frank2019.me/rss.xml,2020-08-01,1596258420.0
 中国网络基建有多厉害？我在珠峰测网速,罗磊的独立博客,https://luolei.org/mountain-everest-internet-speedtest/,https://luolei.org/,https://luolei.org/feed/,2020-07-31,1596201040.0
 生活的本质,Frank笔记,https://frank2019.me/archives/sheng-huo-de-ben-zhi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-31,1596171900.0
@@ -9,13 +10,13 @@ title,author,link,home,rss,date,timestamp
 程序员的MySQL手册(三)：数据库设计,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_26-mysql_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-26,1595721600.0
 Linux窗口管理器下的截图,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_25-linux_screenshot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-25,1595635200.0
 更换博客系统BOLO,Frank笔记,https://frank2019.me/archives/geng-huan-bo-ke-xi-tong-bolo,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-23,1595480460.0
-Go设计模式：facade模式和观察者模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_23-go_design_pattern_facade.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
 程序员的MySQL手册(二): 监控与benchmark,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_23-mysql_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
+Go设计模式：facade模式和观察者模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_23-go_design_pattern_facade.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
 牌普分析,Frank笔记,https://frank2019.me/archives/pai-pu-fen-xi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-22,1595393880.0
 Go设计模式: 责任链模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_21-go_design_pattern_chain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-21,1595289600.0
 「发言成本」与为什么我（个人博主）不想建立交流社群,ChrAlpha,https://blog.ichr.me/post/expressing-costs/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-07-19,1595172616.0
-自己搭建的免费虚拟主机（MOFH）,岚天小窝,https://blog.ltya.top/posts/freewebhosting.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
 自己搭建的免费虚拟主机（MOFH）,岚天小窝,http://blog.ltya.top/posts/freewebhosting.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
+自己搭建的免费虚拟主机（MOFH）,岚天小窝,https://blog.ltya.top/posts/freewebhosting.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
 我们真的需要这么复杂的技术栈吗？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_15-do_we_need_these.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-15,1594771200.0
 Go设计模式：装饰器模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_14-go_design_pattern_decorator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-14,1594684800.0
 GTO与阻断牌效应,Frank笔记,https://frank2019.me/archives/gtoyu-zu-duan-pai-xiao-ying,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-10,1594357020.0
@@ -48,4 +49,3 @@ Go的slice工作机制,Jiajun的编程随想,https://jiajunhuang.com/articles/20
 Linux系统迁移记录(从HDD到SSD),Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_22-linux_clone_sys.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-22,1590105600.0
 Redis是如何工作的？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_21-how_does_redis_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-21,1590019200.0
 virsh自动关闭windows虚拟机,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_18-virsh_shutdown_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-18,1589760000.0
-第三方评论系统之我见,云游君的小站,https://www.yunyoujun.cn/share/third-party-comment-system/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-05-17,1589693440.0

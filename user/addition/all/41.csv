@@ -1,10 +1,11 @@
 title,author,link,home,rss,date,timestamp
+Go的custom import path,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_07-go_custom_import_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-07,1536278400.0
 如何挖掘二级子域名？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_06-how_to_dig_subdomain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-06,1536192000.0
 微信与象棋,云游君的小站,https://www.yunyoujun.cn/posts/wechat-and-chinese-chess,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-09-03,1536014317.0
 Go Module 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_03-go_module.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-03,1535932800.0
 写了一个Telegram Bot：自动化分享高质量内容,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_02-write_a_tgbot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-02,1535846400.0
-Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-vim_speed_up.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 为什么我选择放弃运营微信公众号？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
+Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-vim_speed_up.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 ArchLinux 怎么降级 package ？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Web后端工程师进阶指南(2018),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
 How to implement fork syscall in Golang?,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
@@ -48,4 +49,3 @@ Gin源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/
 如何面试-作为面试官得到的经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_10-interview.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-10,1520640000.0
 自己写一个容器,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_09-write_you_a_container.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-09,1520553600.0
 Golang(Go语言)中实现典型的fork调用,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_08-golang_fork.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-08,1520467200.0
-软件开发之禅---大事化小，各个击破,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_02_26-zen_of_dev.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-26,1519603200.0
