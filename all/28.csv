@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Ubuntu20.04彻底卸载mysql8.0,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BDmysql8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646731549.0
 【CloudFlare】通用防火墙安全配置分享,Luminous' Home,https://luotianyi.vc/6140.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-03-08,1646716545.0
 靓号情结,非理勿试,https://www.ntiy.com/1723.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-08,1646702858.0
 一次启用事务 begin 没有 commit 的事故🐬,把酒诗代码，趁乱写年华。,https://102no.com/2022/03/08/mysql-begin-no-commit/,https://102no.com/,https://102no.com/atom.xml,2022-03-07,1646668800.0
@@ -27,8 +28,8 @@ Hg tips,4Ark × Blog,https://4ark.me/post/hg-tips.html,https://4ark.me/,https://
 写给开发人员的实用密码学（一）—— 概览,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-1/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126100.0
 glibc-mmap源码阅读,BBing's Blog,https://bbing.com.cn/202202/glibc-mmap/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-02-28,1646016843.0
 Disruptor 系列二,Nicksxs's Blog,https://nicksxs.me/2022/02/27/Disruptor-%E7%B3%BB%E5%88%97%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-27,1645969504.0
-算法基础-散列表与开放寻址,DearXuan的主页,https://blog.dearxuan.com/2022/02/27/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E6%95%A3%E5%88%97%E8%A1%A8%E4%B8%8E%E5%BC%80%E6%94%BE%E5%AF%BB%E5%9D%80/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-27,1645966560.0
 算法基础-散列表与开放寻址,DearXuan的主页,https://dearxuan.top/2022/02/27/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E6%95%A3%E5%88%97%E8%A1%A8%E4%B8%8E%E5%BC%80%E6%94%BE%E5%AF%BB%E5%9D%80/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-27,1645966560.0
+算法基础-散列表与开放寻址,DearXuan的主页,https://blog.dearxuan.com/2022/02/27/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E6%95%A3%E5%88%97%E8%A1%A8%E4%B8%8E%E5%BC%80%E6%94%BE%E5%AF%BB%E5%9D%80/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-27,1645966560.0
 周刊第2期：珍惜和平,4Ark × Blog,https://4ark.me/post/weekly-02.html,https://4ark.me/,https://4ark.me/rss.xml,2022-02-27,1645920000.0
 今夜我无法关心人类,LonelyGod,https://hin.cool/posts/godsaveme.html,https://hin.cool/,https://hin.cool/atom.xml,2022-02-26,1645911302.0
 Win32 API编程——前言,qinxs小站,https://7bxing.com/posts/67bdf631/,https://7bxing.com/,https://7bxing.com/atom.xml,2022-02-26,1645875801.0
@@ -48,4 +49,3 @@ LoveIt主题支持MathJax,Barney's Blog,https://hugo.bnblogs.cc/loveit%E4%B8%BB%
 glibc-fopen源码阅读-补充篇-open系统调用,BBing's Blog,https://bbing.com.cn/202202/fopen-sys-open/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-02-22,1645519808.0
 【随笔】论一个面试题的解决思路,框架師,https://www.mobaijun.com/posts/3567767979.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-02-21,1645465912.0
 读《查理芒格传》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/02/21/reading-charlie-munger.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-21,1645401600.0
-聊聊这次换车牌及其他,Nicksxs's Blog,https://nicksxs.me/2022/02/20/%E8%81%8A%E8%81%8A%E8%BF%99%E6%AC%A1%E6%8D%A2%E8%BD%A6%E7%89%8C%E5%8F%8A%E5%85%B6%E4%BB%96/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-20,1645365541.0
