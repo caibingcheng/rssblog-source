@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Vue 中使用 highlight.js,Yuexun's Blog,https://yuexunjiang.me/blog/getting-highlightjs-to-work-with-vue.js/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-07-13,1468368000.0
 CSS 实现垂直居中,Yuexun's Blog,https://yuexunjiang.me/blog/vertical-center-for-css/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-06-29,1467158400.0
 学习使用Bootstrap4的栅格系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_06_20-bootstrap_v4_grid_system.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-20,1466380800.0
 利用Github的WebHook完成自动部署,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_06_19-use_github_webhooks.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-19,1466294400.0
@@ -48,4 +49,3 @@ PHP cURL 库的简单使用,Yuexun's Blog,https://yuexunjiang.me/blog/simple-use
 phpmyadmin 缺少 mcrypt 扩展,Yuexun's Blog,https://yuexunjiang.me/blog/phpmyadmin-lack-mcrypt-extension/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-11-22,1448150400.0
 程序设计实践笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_10_09-notes_on_the_practice_of_programming.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-10-09,1444348800.0
 談藥,Just lepture,https://lepture.com/zh/2015/about-yao,https://lepture.com/,https://lepture.com/feed.xml,2015-09-10,1441843200.0
-Thinking Recursively,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_09_05-thinking_recursively.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-09-05,1441411200.0
