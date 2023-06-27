@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Golang ASM简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_22-go_asm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
 善用闭包(closure)让Go代码更优雅,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_21-use_closure.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
 Golang中的并发控制,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_21-golang_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
 Golang的可选参数实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
@@ -48,4 +49,3 @@ Lazyload 不让 Valine 评论组件拖慢页面加载,ChrAlpha,https://blog.ichr
 👴就是二次元，故尝试证明。,云游君的小站,https://www.yunyoujun.cn/posts/i-am-er-ci-yuan-and-try-to-prove,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-06,1583536357.0
 在 Hexo 博客中更优雅地使用 LaTeX 数学公式,ChrAlpha,https://blog.ichr.me/post/fix-mathjax-layout-bugs-in-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-06,1583503087.0
 MySQL Boolean类型的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_06-mysql_boolean_tinyint_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-06,1583452800.0
-Hexo 博客 | 链接分享卡片生成配置,ChrAlpha,https://blog.ichr.me/post/hexo-generate-link-sharing-card/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-05,1583423588.0
