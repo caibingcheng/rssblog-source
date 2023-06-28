@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+使用 Hexo 搭建静态博客,岚天小窝,https://blog.ltya.top/posts/how-to-initialize-hexo.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
+使用 Vercel 自动部署 Hexo,岚天小窝,https://blog.ltya.top/posts/Automatically-deploy-Hexo-in-Vercel.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
+记录自己 | 2022.07.23,冰哥笔记,https://www.bgbiji.com/1078.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-23,1658585100.0
 记录人生的尝试之二,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/2022-record-activities-on-calendar.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-07-23,1658562900.0
 从一次 yarn 命令死循环说起,4Ark × Blog,https://4ark.me/post/yarn-cwd-issue.html,https://4ark.me/,https://4ark.me/rss.xml,2022-07-23,1658534400.0
 我在Anti群里的那些事,SinGO博客,https://blog.xsnet.eu.org/posts/64815/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-07-22,1658506580.0
@@ -46,6 +49,3 @@ Leetcode 20 有效的括号 ( Valid Parentheses *Easy* ) 题解分析,Nicksxs's 
 记录自己 | 2022.07.02,冰哥笔记,https://www.bgbiji.com/1039.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-02,1656770520.0
 Machine Learning  数据分析 1,Another Dayu,https://anotherdayu.com/2022/3528/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-07-02,1656760624.0
 Rita2 RChat聊天室,SinGO博客,https://blog.xsnet.eu.org/posts/35605/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-07-02,1656756228.0
-Rita2 RChat聊天室,SinGO博客,https://blog.xsnetw.cf/posts/35605/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-07-02,1656727428.0
-Rita2 RTalk微博,SinGO博客,https://blog.xsnet.eu.org/posts/41161/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-07-01,1656709717.0
-记录自己 | 2022.07.01,冰哥笔记,https://www.bgbiji.com/1035.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-01,1656684120.0
