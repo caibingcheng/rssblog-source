@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+curl使用,Barney's Blog,https://hugo.bnblogs.cc/curl%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-07,1665141099.0
 Microsoft365 家庭版合租,杜老师说,https://dusays.com/512/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-06,1665072000.0
 Js异步处理的三种方式,Barney's Blog,https://hugo.bnblogs.cc/js%E5%BC%82%E6%AD%A5%E5%A4%84%E7%90%86%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-05,1664959586.0
 刻意练习,This Cute World,https://thiscute.world/posts/deliberate-practice/,https://thiscute.world/,https://thiscute.world/index.xml,2022-10-05,1664947860.0
@@ -7,15 +8,15 @@ CDN又被刷了,瓦解的生活记事,https://hin.cool/posts/cdncc2.html,https:/
 杜老师又一篇水文之橘猫猫,杜老师说,https://dusays.com/510/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-30,1664553600.0
 写 诗,瓦解的生活记事,https://hin.cool/posts/xieshi.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-30,1664551200.0
 杜老师的域名清单,杜老师说,https://dusays.com/509/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-28,1664380800.0
-使用GPG防止commiter冒充,Bing's Blog,https://bbing.com.cn/202209/gunpg-commiter-sign/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-28,1664366486.0
 使用GPG防止commiter冒充,Bing's Blog,https://imcbc.cn/202209/gunpg-commiter-sign/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-28,1664366486.0
+使用GPG防止commiter冒充,Bing's Blog,https://bbing.com.cn/202209/gunpg-commiter-sign/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-28,1664366486.0
 《现代C++白皮书》一周目读后感,Bing's Blog,https://bbing.com.cn/202209/cpp_hopl4_reading/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-27,1664287568.0
 《现代C++白皮书》一周目读后感,Bing's Blog,https://imcbc.cn/202209/cpp_hopl4_reading/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-27,1664287568.0
 固态硬盘状态信息解读,杜老师说,https://dusays.com/508/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-25,1664121600.0
 秘 密,瓦解的生活记事,https://hin.cool/posts/mimi.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-23,1663971600.0
 白嫖一年顶级域名,杜老师说,https://dusays.com/507/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-22,1663862400.0
-NAS-OMV容器配置,Bing's Blog,https://bbing.com.cn/202209/nas-omv-reprocesss/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
 NAS-OMV容器配置,Bing's Blog,https://imcbc.cn/202209/nas-omv-reprocesss/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
+NAS-OMV容器配置,Bing's Blog,https://bbing.com.cn/202209/nas-omv-reprocesss/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
 关于友情链接的一些事,杜老师说,https://dusays.com/506/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-19,1663603200.0
 MySQL命令记录,Barney's Blog,https://hugo.bnblogs.cc/mysql%E5%91%BD%E4%BB%A4%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-19,1663581035.0
 Pycharm的gitignore配置,Barney's Blog,https://hugo.bnblogs.cc/pycharm%E6%8E%A8%E8%8D%90gitignore%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-19,1663576285.0
@@ -24,8 +25,8 @@ Pycharm的gitignore配置,Barney's Blog,https://hugo.bnblogs.cc/pycharm%E6%8E%A8
 Python获取字体文件所支持的字形,辛未羊的网络日志,https://panqiincs.me/2022/09/18/supported-glyphs/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-09-18,1663476862.0
 梦,瓦解的生活记事,https://hin.cool/posts/meng.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-17,1663407120.0
 如何删除 GitHub 的提交历史记录,杜老师说,https://dusays.com/505/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-16,1663344000.0
-2019-2022·相机算法集成·总结概述,Bing's Blog,https://bbing.com.cn/202209/2019-2022-work-summary/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-16,1663343537.0
 2019-2022·相机算法集成·总结概述,Bing's Blog,https://imcbc.cn/202209/2019-2022-work-summary/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-16,1663343537.0
+2019-2022·相机算法集成·总结概述,Bing's Blog,https://bbing.com.cn/202209/2019-2022-work-summary/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-16,1663343537.0
 三角函数的嵌套,DearXuan的主页,https://blog.dearxuan.com/2022/09/15/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%B5%8C%E5%A5%97/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-09-15,1663231080.0
 使用 MeiliSearch 实现 Volantis 主题博客搜索「保姆教程」,杜老师说,https://dusays.com/504/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-13,1663084800.0
 django入门,Barney's Blog,https://hugo.bnblogs.cc/django%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-13,1663081287.0
@@ -48,4 +49,3 @@ Docker 限制 CPU 内存使用,杜老师说,https://dusays.com/497/,https://dusa
 去不图床容量兑换,杜老师说,https://dusays.com/496/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-21,1661040000.0
 volantis主题自定义-暗黑模式动画(2022新版),DearXuan的主页,https://blog.dearxuan.com/2022/08/18/volantis%E4%B8%BB%E9%A2%98%E8%87%AA%E5%AE%9A%E4%B9%89-%E6%9A%97%E9%BB%91%E6%A8%A1%E5%BC%8F%E5%8A%A8%E7%94%BB-2022%E6%96%B0%E7%89%88/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-08-18,1660813200.0
 通过 Docker 自建 Lsky Pro 图片审核接口,杜老师说,https://dusays.com/495/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-18,1660780800.0
-爱国的尺度——Coser穿和服被带走,瓦解的生活记事,https://hin.cool/posts/aiguochidu.html,https://hin.cool/,https://hin.cool/atom.xml,2022-08-15,1660606380.0
