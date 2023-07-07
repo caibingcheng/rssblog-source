@@ -1,6 +1,6 @@
 title,author,link,home,rss,date,timestamp
-ArchLinux 怎么降级 package ？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 为什么我选择放弃运营微信公众号？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
+ArchLinux 怎么降级 package ？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Web后端工程师进阶指南(2018),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
 How to implement fork syscall in Golang?,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
@@ -48,4 +48,4 @@ Golang 分布式异步任务队列 Machinery 教程,Jiajun的编程随想,https:
 使用geohash完成地理距离计算,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_27-geohash.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-27,1514332800.0
 2018年就要到了，这一年都做了什么呢？,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_20-2017_is_over_and_2018_is_coming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-20,1513728000.0
 算法导论阅读笔记 --- 排序算法,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_02-algorithms_sorting.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-02,1512172800.0
-Git HTTPS 如何保存密码,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_29-git_credential_store.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
+短链系统的实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_29-short_url.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
