@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+程序员的MySQL手册(二): 监控与benchmark,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_23-mysql_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
+Go设计模式：facade模式和观察者模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_23-go_design_pattern_facade.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
 牌普分析,Frank笔记,https://frank2019.me/archives/pai-pu-fen-xi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-22,1595393880.0
 Go设计模式: 责任链模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_21-go_design_pattern_chain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-21,1595289600.0
 「发言成本」与为什么我（个人博主）不想建立交流社群,ChrAlpha,https://blog.ichr.me/post/expressing-costs/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-07-19,1595172616.0
@@ -47,5 +49,3 @@ Git学习,qinxs小站,https://7bxing.com/posts/e28ceec1/,https://7bxing.com/,htt
 hello world,qinxs小站,https://7bxing.com/posts/d4a1185/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605202.0
 Golang sort源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_16-go_sort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-16,1589587200.0
 分治的思维方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_15-divide_and_conquer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-15,1589500800.0
-Debian 使用NetworkManager之后networking.service崩溃,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
-说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
