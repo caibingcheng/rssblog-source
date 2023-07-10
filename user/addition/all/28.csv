@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+搞定CORS问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_04_29-cors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-29,1619654400.0
 JavaSe-网络编程,框架师,https://www.mobaijun.com/posts/1483848703.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-26,1619424035.0
 【Oracle Cloud】甲骨文云开启原生IPv6支持,Luminous' Home,https://luotianyi.vc/5558.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-04-24,1619252967.0
 Evolution Of Architecture From Monolithic To Micro Front End Theory,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210422-evolution-of-architecture-from-monolithic-to-micro-front-end-theory,https://teobler.com,https://teobler.com/rss.xml,2021-04-22,1619095440.0
@@ -48,4 +49,3 @@ Golang GIN写单测时，愉快的使用返回值,Jiajun的编程随想,https://
 文化让我们不再单纯,Frank笔记,https://frank2019.me/archives/wen-hua-rang-wo-men-bu-zai-dan-chun,https://frank2019.me/,https://frank2019.me/rss.xml,2021-03-22,1616433540.0
 新一轮的通货膨胀离我们还有多远,Frank笔记,https://frank2019.me/archives/xin-yi-lun-de-tong-huo-peng-zhang-chi-wo-men-huan-you-duo-yuan,https://frank2019.me/,https://frank2019.me/rss.xml,2021-03-21,1616347080.0
 Python Queue源码分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_20-python_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-20,1616198400.0
-集群管理系统 Mesos 的设计原理 · NSDI '11,面向信仰编程,https://draveness.me//papers-mesos,https://draveness.me/,https://draveness.me/feed.xml,2021-03-19,1616112000.0
