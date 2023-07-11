@@ -1,13 +1,15 @@
 title,author,link,home,rss,date,timestamp
+openSUSE 使用指南,This Cute World,https://thiscute.world/posts/opensuse-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-04,1609720941.0
 deeplink结合路由处理扩展App的能力,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_03-deeplink_server_route.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
+怎么使用ViewModel 和 RecyclerView,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_03-recycler_list_view_model.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
 『给RSS爱好者们的一封信』为什么我们应该提高RSS刷新间隔？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/rss-refresh.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-01-02,1609578180.0
 Android手动挡MVVM,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_02-android_mvvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-02,1609545600.0
-2020 年度总结,4Ark,https://4ark.me/posts/2020-summary/,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
 2020 年度总结,4Ark × Blog,https://4ark.me/posts/2020-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
+2020 年度总结,4Ark,https://4ark.me/posts/2020-summary/,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
 年度简报 - 2020 | 等待,FlyingSky's Blog,https://blog.fsky7.com/archives/175/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-12-31,1609430400.0
+二〇二〇年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 二〇二〇年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2020-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
-二〇二〇年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 使用 linux 操作系统，如何优化固态硬盘使用体验,无妄当自持,https://www.insidentally.com/articles/000007/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-30,1609344203.0
 友链墙,Yulin Lewis' Blog,https://lewky.cn/friends/,https://lewky.cn/,https://lewky.cn/index.xml,2020-12-26,1608991304.0
 用 Code Snippet 提高开发效率,Randy's Blog,https://lutaonan.com/blog/how-to-use-code-snippets/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-12-25,1608854400.0
@@ -33,8 +35,8 @@ Undefined,FlyingSky's Blog,https://blog.fsky7.com/archives/173/,https://blog.fsk
 Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-29-Keep-Data-Consistency-During-Database-Migration.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-29,1606626000.0
 「小歌行」-景德镇文艺复兴-2020巡演-深圳,This Cute World,https://thiscute.world/posts/jingdezhen-renaissance-band-2020-shenzhen/,https://thiscute.world/,https://thiscute.world/index.xml,2020-11-28,1606535340.0
 linux 开启 samba 服务共享文件,无妄当自持,https://www.insidentally.com/articles/000005/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-27,1606465965.0
-旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,https://luolei.org/pamu-quiet/,https://luolei.org/,https://luolei.org/feed/,2020-11-26,1606398780.0
 旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,http://luolei.org/pamu-quiet/,https://luolei.org/,https://luolei.org/feed/,2020-11-26,1606398780.0
+旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,https://luolei.org/pamu-quiet/,https://luolei.org/,https://luolei.org/feed/,2020-11-26,1606398780.0
 gRPC错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_26-grpc_error_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-26,1606348800.0
 山城晓雾,无妄当自持,https://www.insidentally.com/articles/000004/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-25,1606281003.0
 眺望渝中,无妄当自持,https://www.insidentally.com/articles/000003/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-23,1606118148.0
@@ -47,5 +49,3 @@ gRPC错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_
 带老婆去华强北买 iPhone 12 手机壳,罗磊的独立博客,https://luolei.org/iphone-shell-supermarket/,https://luolei.org/,https://luolei.org/feed/,2020-11-14,1605326464.0
 Java collection的结构,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_13-java_colletions.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-13,1605225600.0
 超额下注策略,Frank笔记,https://frank2019.me/archives/chao-e-xia-zhu-ce-lue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-11-12,1605162660.0
-如何找到你朋友的社交账号,云游君的小站,https://www.yunyoujun.cn/posts/find-npy-social-account/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-12,1605152798.0
-资产证券化对中国的影响,Frank笔记,https://frank2019.me/archives/zi-chan-zheng-quan-hua-dui-zhong-guo-de-ying-xiang,https://frank2019.me/,https://frank2019.me/rss.xml,2020-11-11,1605076140.0
