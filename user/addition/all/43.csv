@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Golang和Thrift,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_10-golang_thrift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-10,1523318400.0
 折腾Kubernetes,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_05-kubernetes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-05,1522886400.0
 协程(coroutine)简介 - 什么是协程？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_04_03-coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-03,1522713600.0
 goroutine 切换的时候发生了什么？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_03_29-goroutine_schedule.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-29,1522281600.0
@@ -48,4 +49,3 @@ Web开发简介系列,Jiajun的编程随想,https://jiajunhuang.com/articles/201
 Web开发系列(十一）：数据库扩展,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part11.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发系列(十)：事务和锁,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Nginx作为TCP/UDP的负载均衡,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-nginx_as_tcp_load_balancing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Web开发系列(九)：消息队列，异步任务,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_10_19-web_dev_part9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
