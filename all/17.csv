@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+OAuth 2 详解（四）：Client Credentials Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_client_credentials.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
 不小心混到个证书,杜老师说,https://dusays.com/513/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-09,1665331200.0
 记一个容器中 dubbo 注册的小知识点,Nicksxs's Blog,https://nicksxs.me/2022/10/09/%E8%AE%B0%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8%E4%B8%AD-dubbo-%E6%B3%A8%E5%86%8C%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-09,1665314397.0
 OAuth 2 详解（二）：Implict Grant Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_09-oauth2_explained_implict_grant.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-09,1665273600.0
@@ -21,8 +22,8 @@ Js异步处理的三种方式,Barney's Blog,https://hugo.bnblogs.cc/js%E5%BC%82%
 Leetcode 747 至少是其他数字两倍的最大数 ( Largest Number At Least Twice of Others *Easy* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/10/02/Leetcode-747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0-Largest-Number-At-Least-Twice-of-Others-Easy-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-02,1664712853.0
 观测者：数据爬虫与处理，历史数据可视化视频与用户排名,FlyingSky's Blog,https://blog.fsky7.com/technology/37,https://blog.fsky7.com,https://blog.fsky7.com/feed,2022-10-02,1664683200.0
 CDN又被刷了,瓦解的生活记事,https://hin.cool/posts/cdncc2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-10-01,1664620200.0
-杜老师又一篇水文之橘猫猫,杜老师说,https://dusays.com/510/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-30,1664553600.0
 Kong Gateway 3.0 正式发布🦍,把酒诗代码，趁乱写年华。,https://102no.com/2022/10/01/kong-3.0/,https://102no.com/,https://102no.com/atom.xml,2022-09-30,1664553600.0
+杜老师又一篇水文之橘猫猫,杜老师说,https://dusays.com/510/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-30,1664553600.0
 写 诗,瓦解的生活记事,https://hin.cool/posts/xieshi.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-30,1664551200.0
 每日感触2022.09.30：总结九月,冰哥笔记,https://www.bgbiji.com/1113.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-09-30,1664546400.0
 Debain&Ubuntu修改DNS,Frank笔记,https://frank2019.me/articles/2022/09/29/1664386803327.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-28,1664386803.0
@@ -33,8 +34,8 @@ Debain&Ubuntu修改DNS,Frank笔记,https://frank2019.me/articles/2022/09/29/1664
 Debain&Ubuntu修改DNS,Frank笔记,https://frank2019.me/archives/debain-ubuntuxiu-gai-dns,https://frank2019.me/,https://frank2019.me/rss.xml,2022-09-27,1664301900.0
 Debain&Ubuntu修改DNS,Frank笔记,http://frank2019.me/archives/debain-ubuntuxiu-gai-dns,http://frank2019.me/,https://frank2019.me/rss.xml,2022-09-27,1664301900.0
 Debain&Ubuntu修改DNS,Frank笔记,/archives/debain-ubuntuxiu-gai-dns,/,https://frank2019.me/rss.xml,2022-09-27,1664301900.0
-《现代C++白皮书》一周目读后感,Bing's Blog,https://imcbc.cn/202209/cpp_hopl4_reading/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-27,1664287568.0
 《现代C++白皮书》一周目读后感,Bing's Blog,https://bbing.com.cn/202209/cpp_hopl4_reading/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-27,1664287568.0
+《现代C++白皮书》一周目读后感,Bing's Blog,https://imcbc.cn/202209/cpp_hopl4_reading/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-27,1664287568.0
 你试过“打印”博客文章吗？,非理勿试,https://www.ntiy.com/1934.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-09-26,1664205035.0
 板桥古街：像一条开满橙花的老街,Macin,https://macin.org/2022/09/26/ban-qiao-zhen/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-26,1664194434.0
 固态硬盘状态信息解读,杜老师说,https://dusays.com/508/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-25,1664121600.0
@@ -48,4 +49,3 @@ Re Thinking Architecture Of React Project,Teobler - 失眠多梦，bug体质,htt
 做了 6 年程序员，我学到的 10 条经验,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-after-6-years-as-software-engineer/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-09-20,1663632000.0
 浅谈区块链,Frank笔记,https://frank2019.me/articles/2019/10/27/1572182192288.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-19,1663612637.0
 关于友情链接的一些事,杜老师说,https://dusays.com/506/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-19,1663603200.0
-刘家庙石刻：荣昌最早的摩崖造像在此,Macin,https://macin.org/2022/09/19/liu-jia-miao-shi-ke/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-19,1663600874.0
