@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Hugo创建个人网站并部署到vps,Barney's Blog,https://hugo.bnblogs.cc/hugo%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E5%B9%B6%E9%83%A8%E7%BD%B2%E5%88%B0vps/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-31,1667203935.0
 个人云服务器搭建git服务器,Barney's Blog,https://hugo.bnblogs.cc/%E4%B8%AA%E4%BA%BA%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BAgit%E6%9C%8D%E5%8A%A1%E5%99%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-31,1667198819.0
 编写可维护的单元测试代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_31-goconvey.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-31,1667174400.0
 杜老师提供非自助服务状态监控平台,杜老师说,https://dusays.com/520/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-30,1667145600.0
@@ -21,8 +22,8 @@ Stage Manager 「台前调度」使用体验,Another Dayu,https://anotherdayu.co
 浏览器插件分享——Wetab,瓦解的生活记事,https://hin.cool/posts/wetab.html,https://hin.cool/,https://hin.cool/atom.xml,2022-10-22,1666442880.0
 博友提供可白嫖的天御云高防 CDN,杜老师说,https://dusays.com/517/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-21,1666368000.0
 Volantis 主题新版渲染图,杜老师说,https://dusays.com/516/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-18,1666108800.0
-同步不同设备间的设置-dotfiles,Bing's Blog,https://imcbc.cn/202210/summary-dotfiles/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-10-18,1666096490.0
 同步不同设备间的设置-dotfiles,Bing's Blog,https://bbing.com.cn/202210/summary-dotfiles/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-10-18,1666096490.0
+同步不同设备间的设置-dotfiles,Bing's Blog,https://imcbc.cn/202210/summary-dotfiles/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-10-18,1666096490.0
 怎么变聪明,见字如面,https://hiwannz.com/archives/731,https://hiwannz.com,https://hiwannz.com/feed,2022-10-17,1665991847.0
 【随笔】npm- 更新所有依赖包,框架師,https://www.mobaijun.com/posts/3252980443.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-10-17,1665984571.0
 吴滩老街：游子盼回 元帅未归,Macin,https://macin.org/2022/10/16/wu-tan-lao-jie/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-16,1665951146.0
@@ -39,13 +40,12 @@ Zsh Problem Compinit503 No Such File or Directory Usr Local Share Zsh Site,cywha
 CDN 选择与推荐,杜老师说,https://dusays.com/514/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-12,1665590400.0
 frp内网穿透记录,Barney's Blog,https://hugo.bnblogs.cc/frp%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-12,1665568522.0
 OAuth 2 详解（六）：Authorization Code Flow with PKCE,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_12-oauth2_explained_authorization_code_pkce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-12,1665532800.0
-Elisp Get free port,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/elisp-get-free-port.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
 使用 Deno 和 Puppeteer 获取在线翻译内容,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/deno-deepl.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
-文件和文件夹md5工具-md5any,Bing's Blog,https://imcbc.cn/202210/md5fileandic-md5any/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-10-11,1665491893.0
+Elisp Get free port,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/elisp-get-free-port.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
 文件和文件夹md5工具-md5any,Bing's Blog,https://bbing.com.cn/202210/md5fileandic-md5any/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-10-11,1665491893.0
+文件和文件夹md5工具-md5any,Bing's Blog,https://imcbc.cn/202210/md5fileandic-md5any/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-10-11,1665491893.0
 再谈学语言的重要性,辛未羊的网络日志,https://panqiincs.me/2022/10/11/language-is-important/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-10-11,1665486409.0
 NENO – 用 Github 自建类 Flomo 子弹笔记软件,Another Dayu,https://anotherdayu.com/2022/3627/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-11,1665482978.0
 iOS 翻译体验优化（欧路词典 + Shortcuts + Back Tap）,Another Dayu,https://anotherdayu.com/2022/3623/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-11,1665479937.0
 OAuth 2 详解（五）：Device Authorization Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_11-oauth2_explained_device_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-11,1665446400.0
 雾起江州：从这里陷入一个自我困境,Macin,https://macin.org/2022/10/10/wu-qi-jiang-zhou/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-10,1665428251.0
-打算做出一个决定，关于这个博客的决定,冰哥笔记,https://www.bgbiji.com/1115.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-10-10,1665394223.0
