@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+本质性的塔西佗--丰县,Frank笔记,https://frank2019.me/archives/ben-zhi-xing-de-ta-xi-tuo--feng-xian,https://frank2019.me/,https://frank2019.me/rss.xml,2022-02-22,1645556160.0
 glibc-fopen源码阅读-补充篇-open系统调用,BBing's Blog,https://bbing.com.cn/202202/fopen-sys-open/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-02-22,1645519808.0
 【随笔】论一个面试题的解决思路,框架師,https://www.mobaijun.com/posts/3567767979.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-02-21,1645465912.0
 读《查理芒格传》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/02/21/reading-charlie-munger.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-21,1645401600.0
@@ -34,8 +35,8 @@ Python 实用技巧与常见错误集锦,This Cute World,https://thiscute.world/
 备忘录,Barney's Blog,https://hugo.bnblogs.cc/memo/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-10,1644481191.0
 【WEB 系列】使用 StopWatch 输出执行耗时,框架師,https://www.mobaijun.com/posts/323943495.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-02-10,1644478505.0
 节后快速恢复工作状态，我推荐7件小事,冰哥笔记,https://www.bgbiji.com/863.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-02-09,1644417660.0
-python实现RSA加密数字,DearXuan的主页,https://blog.dearxuan.com/2022/02/09/python%E5%AE%9E%E7%8E%B0RSA%E5%8A%A0%E5%AF%86%E6%95%B0%E5%AD%97/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-09,1644400380.0
 python实现RSA加密数字,DearXuan的主页,https://dearxuan.top/2022/02/09/python%E5%AE%9E%E7%8E%B0RSA%E5%8A%A0%E5%AF%86%E6%95%B0%E5%AD%97/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-09,1644400380.0
+python实现RSA加密数字,DearXuan的主页,https://blog.dearxuan.com/2022/02/09/python%E5%AE%9E%E7%8E%B0RSA%E5%8A%A0%E5%AF%86%E6%95%B0%E5%AD%97/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-09,1644400380.0
 批量查询域名是否可用,岚天小窝,https://blog.ltya.top/posts/Batch-query-domains-availability.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-02-08,1644336000.0
 批量查询域名是否可用,岚天小窝,http://blog.ltya.top/posts/Batch-query-domains-availability.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-02-08,1644336000.0
 Split Monolith Into Micro Front End,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220208-split-monolith-into-micro-front-end,https://teobler.com,https://teobler.com/rss.xml,2022-02-08,1644325560.0
@@ -43,9 +44,8 @@ Split Monolith Into Micro Front End,Teobler - 失眠多梦，bug体质,https://t
 C#图像压缩相关方法总结,DearXuan的主页,https://dearxuan.top/2022/02/07/C-%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E7%9B%B8%E5%85%B3%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-07,1644237540.0
 C#图像压缩相关方法总结,DearXuan的主页,https://blog.dearxuan.com/2022/02/07/C-%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E7%9B%B8%E5%85%B3%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-07,1644237540.0
 本站统计数据,This Cute World,https://thiscute.world/statistics/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-07,1644231395.0
-Porkbun 的免费域名（附赠支付宝验证方法）,岚天小窝,https://blog.ltya.top/posts/porkbun-free-domains.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-02-06,1644163200.0
 Porkbun 的免费域名（附赠支付宝验证方法）,岚天小窝,http://blog.ltya.top/posts/porkbun-free-domains.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-02-06,1644163200.0
+Porkbun 的免费域名（附赠支付宝验证方法）,岚天小窝,https://blog.ltya.top/posts/porkbun-free-domains.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-02-06,1644163200.0
 分享记录一下一个 scp 操作方法,Nicksxs's Blog,https://nicksxs.me/2022/02/06/%E5%88%86%E4%BA%AB%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E4%B8%80%E4%B8%AA-scp-%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-06,1644155006.0
 分享记录一下一个 git 操作方法,Nicksxs's Blog,https://nicksxs.me/2022/02/06/%E5%88%86%E4%BA%AB%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E4%B8%80%E4%B8%AA-git-%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-06,1644153298.0
 中文独立博客的年化“腐烂率”——8%,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/chinese-independent-blogs-link-rot-2022.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-02-05,1644064560.0
-【对象存储】搭配CF带宽联盟实现流量免费,Luminous' Home,https://luotianyi.vc/6044.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-02-03,1643883817.0
