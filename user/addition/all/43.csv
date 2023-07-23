@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+夜思,Just lepture,https://lepture.com/zh/2018/miss-you,https://lepture.com/,https://lepture.com/feed.xml,2018-06-15,1529031564.0
 CGO简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_06_15-cgo.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-06-15,1529020800.0
 Travis-CI 持续集成部署,云游君的小站,https://www.yunyoujun.cn/posts/use-travis-to-deploy,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-06-10,1528643082.0
 求值策略：Applicative Order vs Normal Order,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_05_22-evaluation_strategy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-22,1526947200.0
@@ -48,4 +49,3 @@ YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-m
 寻路算法-贪婪最佳优先算法,萤火之森,http://frankorz.com/2017/12/16/greedy-best-find-search/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-12-16,1513466667.0
 鱼与熊掌,云游君的小站,https://www.yunyoujun.cn/posts/life-and-work,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-12-11,1512997805.0
 算法导论阅读笔记 --- 排序算法,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_12_02-algorithms_sorting.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-02,1512172800.0
-Git HTTPS 如何保存密码,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_11_29-git_credential_store.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
