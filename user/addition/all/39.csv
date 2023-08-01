@@ -1,6 +1,7 @@
 title,author,link,home,rss,date,timestamp
-你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-dns-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
+代码的坏味道,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_18-code_with_bad_taste.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-18,1566086400.0
 你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-dns-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
+你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-dns-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
 Blender 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/blender-learn-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-08-11,1565520573.0
 Typecho主题 | MDr - 书写你的篇章,FlyingSky's Blog,https://blog.fsky7.com/technology/59,https://blog.fsky7.com,https://blog.fsky7.com/feed,2019-08-07,1565150400.0
 消息分帧(字符串设计或协议设计)的两种形式,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_08_05-message_framing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-05,1564963200.0
@@ -12,9 +13,9 @@ C， Go， Python的错误处理和异常机制杂谈,Jiajun的编程随想,http
 读《系统之美：决策者的系统思考》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_24-thinking_in_systems_a_primer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-24,1563926400.0
 Linux高分屏支持,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_20-linux_hidpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-20,1563580800.0
 未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0
-自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
-GCC默认的头文件搜索路径,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_16-gcc_header_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-16,1563235200.0
 自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
+GCC默认的头文件搜索路径,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_16-gcc_header_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-16,1563235200.0
+自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
 读《远见-如何规划职业生涯3大阶段》,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_15-the_long_view.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-15,1563148800.0
 洞明 Unity ECS 基础概念,萤火之森,http://frankorz.com/2019/07/14/clarify-ecs-basic-concept/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-07-14,1563135180.0
 后端工程师学前端(五): SASS,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_07_13-learn_front_end_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-13,1562976000.0
@@ -48,4 +49,3 @@ Linux下当笔记本合上盖子之后只使用扩展显示器,Jiajun的编程�
 Ubuntu 18.04 dhcp更换新IP,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_30-ubuntu_1804_dhcp_new_ip.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-30,1559174400.0
 Python中的新式类(new style class)和老式类(old style class),Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_29-python_old_new_style_class.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-29,1559088000.0
 Python Requests 简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_05_18-requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-18,1558137600.0
-Everyday Auto Xuexiqiangguo,云游君的小站,https://www.yunyoujun.cn/posts/everyday-auto-xuexiqiangguo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-05-16,1558043515.0
