@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+干了这碗叔本华牌毒鸡汤 --- 《人生的智慧》,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_26-the_wisdom_of_life_on_human_nature.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-26,1543190400.0
 etcd源码阅读与分析（三）：wal,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_24-etcd_source_code_analysis_wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
 Memory leak in net/http,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_24-memory_leak_in_net_http.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
 etcd源码阅读与分析（二）：raft,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_22-etcd_source_code_analysis_raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-22,1542844800.0
@@ -44,8 +45,7 @@ Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的编程�
 ArchLinux 怎么降级 package ？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 为什么我选择放弃运营微信公众号？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Web后端工程师进阶指南(2018),Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
-How to implement fork syscall in Golang?,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
+How to implement fork syscall in Golang?,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 关于运营的思考-运营要怎么做？,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_26-about_traffic.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-26,1535241600.0
 Python中实现单例模式的n种方式和原理,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
-Golang defer中修改返回值,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_23-go_defer_named_return_values.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-23,1534982400.0
