@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+VPS常用脚本,Frank笔记,https://frank2019.me/archives/vpschang-yong-jiao-ben,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-24,1585080900.0
 Redis使用中的几点注意事项,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_23-redis_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-23,1584921600.0
 如何打造好看还好用的 Windows Terminal,ChrAlpha,https://blog.ichr.me/post/windows-terminal-configuration/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-21,1584823047.0
 2020年的春天一样寒冷,Frank笔记,https://frank2019.me/archives/2020nian-de-chun-tian-yi-yang-han-leng,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-18,1584562440.0
@@ -48,4 +49,3 @@ MDr 主题的使用指南,FlyingSky's Blog,https://blog.fsky7.com/archives/93/,h
 CSS 陷阱,云游君的小站,https://www.yunyoujun.cn/posts/css-trap-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-03,1580754775.0
 Git 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/git-learn-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-03,1580748373.0
 Proxy Server | 正向代理与反向代理,ChrAlpha,https://blog.ichr.me/post/proxy-and-reverse-proxy/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-03,1580693916.0
-《图解 C# 教程 第5版》与性能优化,萤火之森,http://frankorz.com/2020/01/31/illustrated-csharp-and-performance/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-01-31,1580515158.0
