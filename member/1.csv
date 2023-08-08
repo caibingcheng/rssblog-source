@@ -1,8 +1,9 @@
 title,author,link,home,rss,date,timestamp
 自贡：盐的另一页,Macin,https://macin.org/2023/08/08/zi-gong/,https://macin.org/,https://www.macin.org/atom.xml,2023-08-08,1691497047.0
+线性代数：行列式和矩阵,辛未羊的网络日志,https://panqiincs.me/2023/08/08/la-determinant-matrix/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-07,1691432561.0
 OKR 落地困难的原因,见字如面,https://hiwannz.com/archives/831,https://hiwannz.com,https://hiwannz.com/feed,2023-08-07,1691391515.0
 springboot 获取 web 应用中所有的接口 url,Nicksxs's Blog,https://nicksxs.me/2023/08/06/springboot-%E8%8E%B7%E5%8F%96-web-%E5%BA%94%E7%94%A8%E4%B8%AD%E6%89%80%E6%9C%89%E7%9A%84%E6%8E%A5%E5%8F%A3-url/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-08-06,1691327796.0
-服役六年的固态硬盘报废,瓦解的生活记事,https://hin.cool/posts/ssddead.html,https://hin.cool/,https://hin.cool/atom.xml,2023-08-06,1691308800.0
+服役六年的固态硬盘报废,瓦解的生活记事,https://hin.cool/posts/ssddead.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-08-06,1691308800.0
 Barbie ：重塑，权力与性别,Another Dayu,https://anotherdayu.com/2023/5257/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-08-06,1691308609.0
 读《任天堂的哲学》,manateelazycat.github.io,//manateelazycat.github.io/2023/08/06/reading-nintendo/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-08-06,1691280000.0
 杜老师说旗下服务调整回源策略,杜老师说,https://dusays.com/613/,https://dusays.com/,https://dusays.com/atom.xml,2023-08-05,1691251200.0
@@ -10,7 +11,6 @@ Barbie ：重塑，权力与性别,Another Dayu,https://anotherdayu.com/2023/525
 【Applied Sciences】矽卡岩成矿过程的全岩和矿物化学研究——以铜山矽卡岩剖面为例,Luminous' Home,https://luotianyi.vc/7378.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-08-01,1690853408.0
 Hexo后台出错修复,醉里博客,https://202271.xyz/post/7448/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-07-31,1690816302.0
 nestjs 联表查询,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/767/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-07-30,1690758278.0
-LMI基础及YALMIP求解实例,辛未羊的网络日志,https://panqiincs.me/2023/07/30/lmi-intro-yalmip/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-07-30,1690701377.0
 开发一个浏览器插件在第三天卖出 1000 元,Randy's Blog,https://lutaonan.com/blog/my-extension-sold-1k-yuan/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2023-07-30,1690675200.0
 踩坑：记安装高版本 nodejs 和 npm 方法,岚天小窝,https://blog.ltya.top/posts/Install-nodejs-and-npm.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-07-29,1690646400.0
 拥抱恐惧,Frank笔记,http://frank2019.me/archives/1690172493042,http://frank2019.me/,https://frank2019.me/rss.xml,2023-07-25,1690261614.0
@@ -28,8 +28,8 @@ Jenkins+Gitee持续集成,Barney's Blog,https://hugo.bnblogs.cc/jenkins-gitee%E6
 Upgrade Kubernetes from 1.23 to 1.24,Bin Wang - My Personal Blog,https://www.binwang.me/2023-05-22-Upgrade-Kubernetes-from-1.23-to-1.24.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-05-22,1684728000.0
 因言获罪的脱口秀,Frank笔记,/archives/1684425172569,/,https://frank2019.me/rss.xml,2023-05-18,1684432680.0
 我的世界mod开发,DearXuan的主页,https://blog.dearxuan.com/2023/05/16/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8Cmod%E5%BC%80%E5%8F%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2023-05-16,1684246680.0
-以星辰为名，以黑暗为姓,Muidar's Site,https://www.muidar.com/posts/cmuidar/siriusblack/,https://www.muidar.com,https://muidar.com/feed,2023-05-14,1684059269.0
 以星辰为名，以黑暗为姓,Muidar's Site,https://muidar.com/posts/cmuidar/siriusblack/,https://muidar.com,https://muidar.com/feed,2023-05-14,1684059269.0
+以星辰为名，以黑暗为姓,Muidar's Site,https://www.muidar.com/posts/cmuidar/siriusblack/,https://www.muidar.com,https://muidar.com/feed,2023-05-14,1684059269.0
 2023最佳免费影视网站测评,Frank笔记,https://frank2019.me/archives/2023zui-jia-mian-fei-ying-shi-wang-zhan-ce-ping,https://frank2019.me/,https://frank2019.me/rss.xml,2023-04-24,1682359855.0
 【随笔】RK987A 键盘说明书（自用）,框架師,https://www.mobaijun.com/posts/3130768971.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-04-24,1682323035.0
 Jana Gana Mana-有感,Frank笔记,https://frank2019.me/articles/2022/06/20/1655702510428.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-15,1678901281.0
