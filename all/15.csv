@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+How RSS Brain Shows Related Articles,Bin Wang - My Personal Blog,https://www.binwang.me/2022-12-03-How-RSS-Brain-Shows-Related-Articles.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2022-12-03,1670043600.0
 每天60s看世界,醉里博客,https://202271.xyz/post/41343/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-12-02,1670000482.0
 Hexo-Fluid主题修改字体思源宋体,醉里博客,https://202271.xyz/post/18118/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-12-02,1669998216.0
 杜老师说旗下头像生成平台,杜老师说,https://dusays.com/531/,https://dusays.com/,https://dusays.com/atom.xml,2022-12-02,1669996800.0
@@ -34,12 +35,12 @@ HttpClient问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/httpclient-issue
 HttpURLConnection设置host请求头无效,Yulin Lewis' Blog,https://lewky.cn/posts/http-host-header/,https://lewky.cn/,https://lewky.cn/index.xml,2022-11-20,1668957202.0
 powershell 初体验二,Nicksxs's Blog,https://nicksxs.me/2022/11/20/powershell-%E5%88%9D%E4%BD%93%E9%AA%8C%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-11-20,1668950144.0
 java-异常、断言和日志,Barney's Blog,https://hugo.bnblogs.cc/java-6/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-20,1668937914.0
-tagged-pointer-让指针包含更多信息,Bing's Blog,https://bbing.com.cn/202211/tagged-pointer/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
 tagged-pointer-让指针包含更多信息,Bing's Blog,https://imcbc.cn/202211/tagged-pointer/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
+tagged-pointer-让指针包含更多信息,Bing's Blog,https://bbing.com.cn/202211/tagged-pointer/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
 搭建旁路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_11_20-router.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-20,1668902400.0
 贰拾捌,瓦解的生活记事,https://hin.cool/posts/ershiba.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-11-18,1668785402.0
-Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/elisp/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
 Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
+Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/elisp/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
 java-内部类,Barney's Blog,https://hugo.bnblogs.cc/java-5/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-17,1668702048.0
 第二款摸鱼游戏文明 2,杜老师说,https://dusays.com/526/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-17,1668700800.0
 202211：边城十一月，雨雪乱霏霏,Macin,https://macin.org/2022/11/16/11-yue-zhou-ji/,https://macin.org/,https://www.macin.org/atom.xml,2022-11-16,1668595240.0
@@ -48,4 +49,3 @@ java-接口、lambda表达式,Barney's Blog,https://hugo.bnblogs.cc/java-4/,http
 Jenkins插件无法安装解决,cywhat's blog,https://cywhat.cn/Jenkins%E6%8F%92%E4%BB%B6%E6%97%A0%E6%B3%95%E5%AE%89%E8%A3%85%E8%A7%A3%E5%86%B3/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-15,1668497251.0
 Jenkins报错 Bash:newman:command Not Found,cywhat's blog,https://cywhat.cn/Jenkins%E6%8A%A5%E9%94%99-bashnewmancommand-not-found/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-15,1668496771.0
 读《英语魔法师之语法俱乐部》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/15/reading-english-magicia.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-15,1668470400.0
-挂机放置类小游戏,杜老师说,https://dusays.com/525/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-14,1668441600.0
