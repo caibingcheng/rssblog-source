@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+用peewee代替SQLAlchemy,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_29-use_peewee.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-29,1590710400.0
 2020年5月技术导读,萤火之森,http://frankorz.com/2020/05/23/2020-05-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-05-23,1590249935.0
 Go的slice工作机制,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_23-go_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-23,1590192000.0
 Linux系统迁移记录(从HDD到SSD),Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_22-linux_clone_sys.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-22,1590105600.0
@@ -48,4 +49,3 @@ Golang validator使用教程,Jiajun的编程随想,https://jiajunhuang.com/artic
 VPS 手动在线一键重装系统脚本整理,ChrAlpha,https://blog.ichr.me/post/scripts-for-reinstalling-linux-vps/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-06,1586171300.0
 人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/posts/life-is-not-a-marathon,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1586012398.0
 人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/diary/life-is-not-a-marathon/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1585983598.0
-N95口罩背后不为人知的历史,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/21.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-04,1585962960.0
