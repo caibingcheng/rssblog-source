@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+记2023年惘闻乐队的重庆现场,瓦解的生活记事,https://hin.cool/posts/wangwen.html,https://hin.cool/,https://hin.cool/atom.xml,2023-03-31,1680246060.0
 Pkg_resources.DistributionNotFound:The Supervisor==3.4,cywhat's blog,https://cywhat.cn/pkg_resources.DistributionNotFoundThe-supervisor3.4.0-distribution-was-not-found-and-is-required-by-the-application/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-03-30,1680159074.0
 杜老师的近况,杜老师说,https://dusays.com/570/,https://dusays.com/,https://dusays.com/atom.xml,2023-03-29,1680105600.0
 Linux 上的 WireGuard 网络分析（一）,This Cute World,https://thiscute.world/posts/wireguard-on-linux/,https://thiscute.world/,https://thiscute.world/index.xml,2023-03-28,1680013165.0
@@ -48,4 +49,3 @@ Kubernetes简单入门之minikube,Barney's Blog,https://hugo.bnblogs.cc/kubernet
 Docker Compose+Dockerfile搭建elasticsearch7.8.0与kibana,Barney's Blog,https://hugo.bnblogs.cc/docker-compose-dockerfile%E6%90%AD%E5%BB%BAelasticsearch7.8.0%E4%B8%8Ekibana/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-19,1676793681.0
 动态系统相图及MATLAB绘制方法,辛未羊的网络日志,https://panqiincs.me/2023/02/19/system-phase-portrait/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-02-18,1676759045.0
 UPS 低电压时通过群晖实现 Ubuntu 自动关机,杜老师说,https://dusays.com/557/,https://dusays.com/,https://dusays.com/atom.xml,2023-02-18,1676736000.0
-Nextcloud 生产环境部署保姆级教程,杜老师说,https://dusays.com/556/,https://dusays.com/,https://dusays.com/atom.xml,2023-02-15,1676476800.0
