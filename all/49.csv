@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+程序員與文學衝突,Just lepture,https://lepture.com/zh/2020/tweet-yuan,https://lepture.com/,https://lepture.com/feed.xml,2020-12-06,1607235718.0
 Android上结合kotlin使用coroutine,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_01-android_kotlin_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-01,1606780800.0
 Mac 上配置 MNMP 环境,4Ark × Blog,https://4ark.me/post/41f45ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-30,1606772294.0
 光速叛逃！——将网站部署至 Cloudflare Workers Site 上,ChrAlpha,https://blog.ichr.me/post/cf-workers-site-deploy/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-11-29,1606691982.0
@@ -48,4 +49,3 @@ Go使用闭包简化数据库操作代码,Jiajun的编程随想,https://jiajunhu
 国庆成都之行,Frank笔记,https://frank2019.me/archives/guo-qing-cheng-du-zhi-xing,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-14,1602652980.0
 Hugo系列(4) - 从Hexo迁移至Hugo以及使用LoveIt主题的踩坑记录,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-4.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-12,1602516495.0
 Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-3.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-11,1602393076.0
-Hugo系列(2) - 通过配置文件来定制个人站点,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-2.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-10,1602317338.0
