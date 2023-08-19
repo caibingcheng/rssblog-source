@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Nvim补全配置记录,Barney's Blog,https://hugo.bnblogs.cc/nvim%E8%A1%A5%E5%85%A8%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-01-16,1642312205.0
 聊聊四元数与万向锁及其实际意义,云游君的小站,https://www.yunyoujun.cn/posts/quaternion-and-spatial-rotation,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2022-01-16,1642298352.0
 飞 鸟,LonelyGod,https://hin.cool/posts/feiniao.html,https://hin.cool/,https://hin.cool/atom.xml,2022-01-16,1642291200.0
 聊聊四元数与万向锁及其实际意义,云游君的小站,https://www.yunyoujun.cn/posts/quaternion-and-spatial-rotation/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2022-01-15,1642269552.0
@@ -48,4 +49,3 @@ C#(.Net) 将非托管dll嵌入exe中,DearXuan的主页,https://dearxuan.top/2021
 记观Pentatonic十周年巡演重庆站,LonelyGod,https://hin.cool/posts/byebyepostrock.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-25,1640390400.0
 Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky.cn/posts/windows-netstat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
 Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky.cn/posts/windows-netstat.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
-（不免费了）Heroku 搭建 Onemanager,岚天小窝,http://blog.ltya.top/posts/onemanager-deploy-to-heroku.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2021-12-24,1640361600.0
