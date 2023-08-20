@@ -1,13 +1,15 @@
 title,author,link,home,rss,date,timestamp
-云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/expirence-of-argo-workflow/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
+数据中心的容错时钟对时 · OSDI '20,面向信仰编程,https://draveness.me//papers-sundial,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
+纳秒级高性能日志系统 · ATC '18,面向信仰编程,https://draveness.me//papers-nanolog,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
 云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/experience-of-argo-workflows/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
+云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/expirence-of-argo-workflow/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
 做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
 Android自动展示和关闭进度条,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_27-android_progress_bar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-27,1611705600.0
 SpringBoot集成Mybatis-Plus,框架师,https://www.mobaijun.com/posts/183863717.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-26,1611655824.0
 My 2020 in Review,Bin Wang - My Personal Blog,https://www.binwang.me/2021-01-26-My-2020-in-Review.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2021-01-26,1611637200.0
 Java日期问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/java-date-issues.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-01-25,1611589382.0
-secrets 管理工具 Vault 的介绍、安装及使用,This Cute World,https://thiscute.world/posts/expirence-of-vault/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-24,1611451901.0
 secrets 管理工具 Vault 的介绍、安装及使用,This Cute World,https://thiscute.world/posts/experience-of-vault/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-24,1611451901.0
+secrets 管理工具 Vault 的介绍、安装及使用,This Cute World,https://thiscute.world/posts/expirence-of-vault/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-24,1611451901.0
 What Is Agile,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210123-what-is-agile,https://teobler.com,https://teobler.com/rss.xml,2021-01-23,1611406920.0
 服务器相关知识记录,框架师,https://www.mobaijun.com/posts/361637157.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-22,1611309513.0
 主服务器完成迁移工作,Frank笔记,https://frank2019.me/archives/zhu-fu-wu-qi-wan-cheng-qian-yi-gong-zuo,https://frank2019.me/,https://frank2019.me/rss.xml,2021-01-21,1611252000.0
@@ -47,5 +49,3 @@ Android手动挡MVVM,Jiajun的编程随想,https://jiajunhuang.com/articles/2021
 gRPC鉴权方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_19-grpc_authentication.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-19,1608336000.0
 如何使用 Git,无妄当自持,https://www.insidentally.com/articles/000006/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-18,1608286030.0
 站点通知,沐云湘夕,https://quest.myxxts.club/archives/15/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-17,1608218940.0
-Golang里数据库migration方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800.0
-Redis Implementation for Cache and Database Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-12-14-Redis-Implementation-for-Cache-and-Database-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-12-14,1607922000.0
