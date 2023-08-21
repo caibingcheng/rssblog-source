@@ -1,9 +1,10 @@
 title,author,link,home,rss,date,timestamp
+Unity 开源双端框架 ET 中初尝热更新技术,萤火之森,http://frankorz.com/2019/01/06/hotfix-introduction-of-unity-et-framework/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-01-06,1546807363.0
 关闭手机通知，修复碎片化的生活,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_01_03-drop_notifications.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-03,1546473600.0
 Authlib Under BSD License,Just lepture,https://lepture.com/en/2019/authlib-bsd-license,https://lepture.com/,https://lepture.com/feed.xml,2019-01-01,1546334189.0
 Linux下系统调用的过程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_01_01-system_call.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-01,1546300800.0
-2018 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2018-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-12-30,1546212781.0
 2018 年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2018-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2018-12-30,1546212781.0
+2018 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2018-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-12-30,1546212781.0
 2018 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2018-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-12-30,1546128000.0
 Redis 5.0 Stream简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_27-redis_stream.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-27,1545868800.0
 耍耍OverlayFS,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_12_27-overlayfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-27,1545868800.0
@@ -32,14 +33,14 @@ etcd源码阅读与分析（一）：raftexample,Jiajun的编程随想,https://j
 虚拟机里的Ubuntu sudo时卡住,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_18-ubuntu_sudo_hang.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-18,1542499200.0
 new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-11-17,1542486792.0
 new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-11-17,1542412800.0
-Raft论文阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_16-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
 Go访问私有变量,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_16-go_private_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
+Raft论文阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_16-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
 避免全局变量,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_15-avoid_global_states.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-15,1542240000.0
 Go的unsafe包,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_13-golang_package_unsafe.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-13,1542067200.0
 Golang中实现禁止拷贝,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
 人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0
-数据库事务,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_10-transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
 Golang的反射,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_10-golang_reflection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
+数据库事务,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_10-transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
 把网站去掉CSS之后,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_09-drop_css.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-09,1541721600.0
 处理并发的方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_07-concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-07,1541548800.0
 常见的索引方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_11_02-index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-02,1541116800.0
@@ -48,4 +49,3 @@ Golang 实践经验,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_
 高性能MySQL笔记第一章,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_10_23-high_performance_mysql_chap1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-23,1540252800.0
 面试的一些技巧,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_10_21-interview_techniques.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-21,1540080000.0
 HTTP/2 简介,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_10_13-http2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-13,1539388800.0
-我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0
