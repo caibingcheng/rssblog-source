@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+记录下 phpunit 的入门使用方法之setUp和tearDown,Nicksxs's Blog,https://nicksxs.me/2022/10/23/%E8%AE%B0%E5%BD%95%E4%B8%8B-phpunit-%E7%9A%84%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E4%B9%8BsetUp%E5%92%8CtearDown/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-23,1666525493.0
 人间食话 | 我在上海吃汉堡,Another Dayu,https://anotherdayu.com/2022/3737/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-23,1666496945.0
 最佳代理实践 2022-10-23,manateelazycat.github.io,//manateelazycat.github.io/proxy/2022/10/23/best-proxy.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-23,1666483200.0
 给Hexo静态博客添加Umami数据分析,Macin,https://macin.org/2022/10/22/add-umami-to-hexo/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-22,1666445721.0
@@ -13,9 +14,9 @@ DISQUS替代方案——disqusjs教程,SinGO博客,https://blog.xsnet.eu.org/pos
 关于我近几天的心情变化,SinGO博客,https://blog.xsnet.eu.org/posts/189/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-10-15,1665840926.0
 关于我近几天的心情变化,SinGO博客,https://blog.xsnetw.cf/posts/189/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-10-15,1665812126.0
 Macbook 电池健康状况查询,Another Dayu,https://anotherdayu.com/2022/3665/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-13,1665637652.0
-Elisp Get free port,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/elisp-get-free-port.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
-OAuth 2 详解（六）：Authorization Code Flow with PKCE,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_12-oauth2_explained_authorization_code_pkce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-12,1665532800.0
 使用 Deno 和 Puppeteer 获取在线翻译内容,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/deno-deepl.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
+OAuth 2 详解（六）：Authorization Code Flow with PKCE,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_12-oauth2_explained_authorization_code_pkce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-12,1665532800.0
+Elisp Get free port,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/elisp-get-free-port.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
 NENO – 用 Github 自建类 Flomo 子弹笔记软件,Another Dayu,https://anotherdayu.com/2022/3627/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-11,1665482978.0
 iOS 翻译体验优化（欧路词典 + Shortcuts + Back Tap）,Another Dayu,https://anotherdayu.com/2022/3623/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-11,1665479937.0
 OAuth 2 详解（五）：Device Authorization Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_11-oauth2_explained_device_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-11,1665446400.0
@@ -31,8 +32,8 @@ OAuth 2 详解（一）：简介及 Authorization Code 模式,Jiajun的编程随
 装修笔记：从0到1打造家庭弱电方案（上篇）,罗磊的独立博客,https://luolei.org/home-network-1/,https://luolei.org/,https://luolei.org/feed/,2022-10-07,1665155878.0
 装修笔记：从0到1打造家庭弱电方案（上篇）,罗磊的独立博客,http://luolei.org/home-network-1/,https://luolei.org/,https://luolei.org/feed/,2022-10-07,1665155878.0
 【恋爱手记 Vol.3】相依的陪伴与告白,Luminous' Home,https://luotianyi.vc/6130.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-10-07,1665123242.0
-消失的两年:2021珠海航展,罗磊的独立博客,http://luolei.org/airshow-china-2021/,https://luolei.org/,https://luolei.org/feed/,2022-10-06,1665057263.0
 消失的两年:2021珠海航展,罗磊的独立博客,https://luolei.org/airshow-china-2021/,https://luolei.org/,https://luolei.org/feed/,2022-10-06,1665057263.0
+消失的两年:2021珠海航展,罗磊的独立博客,http://luolei.org/airshow-china-2021/,https://luolei.org/,https://luolei.org/feed/,2022-10-06,1665057263.0
 ElasticSearch 学习笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_06-elasticsearch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-06,1665014400.0
 仁沱老街：尘埃里的烟火,Macin,https://macin.org/2022/10/03/ren-tuo-lao-jie/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-03,1664838222.0
 从 Rust 扩展 Emacs 到多语言协同扩展 Emacs,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/03/emacs-rpc.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-03,1664755200.0
@@ -48,4 +49,3 @@ Debain&Ubuntu修改DNS,Frank笔记,/archives/debain-ubuntuxiu-gai-dns,/,https://
 Debain&Ubuntu修改DNS,Frank笔记,http://frank2019.me/archives/debain-ubuntuxiu-gai-dns,http://frank2019.me/,https://frank2019.me/rss.xml,2022-09-27,1664301900.0
 Debain&Ubuntu修改DNS,Frank笔记,https://frank2019.me/archives/debain-ubuntuxiu-gai-dns,https://frank2019.me/,https://frank2019.me/rss.xml,2022-09-27,1664301900.0
 你试过“打印”博客文章吗？,非理勿试,https://www.ntiy.com/1934.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-09-26,1664205035.0
-板桥古街：像一条开满橙花的老街,Macin,https://macin.org/2022/09/26/ban-qiao-zhen/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-26,1664194434.0

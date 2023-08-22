@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
 Python3函数参数中的星号,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_21-py3k_asterisk.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-21,1479686400.0
+JavaScript 数据类型判断,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-data-type-judgment/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-21,1479686400.0
 「微信小程序」入坑总结,Yuexun's Blog,https://yuexunjiang.me/blog/wechat-app-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-14,1479081600.0
 使用Git Hooks,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_08-use_git_hooks.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-08,1478563200.0
 你根本用不着退学,Randy's Blog,https://lutaonan.com/blog/you-dont-need-to-drop-out/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-11-06,1478390400.0
@@ -48,4 +49,3 @@ JavaScript 作用域与闭包,Yuexun's Blog,https://yuexunjiang.me/blog/javascri
 重新捡起你那吃灰的树莓派,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_04_03-raspberrypi.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-04-03,1459641600.0
 JavaScript 原型链探究,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-prototype-chain/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-29,1459209600.0
 21 岁我想说的,Randy's Blog,https://lutaonan.com/blog/say-in-21/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-25,1458864000.0
-apply， call 与 bind 的区别,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-apply-call-and-bind/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-20,1458432000.0
