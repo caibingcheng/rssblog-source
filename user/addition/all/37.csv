@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+两种常见的访问控制模型,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_26-access_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-26,1585180800.0
 如何在 Git 中真正删除一个文件,ChrAlpha,https://blog.ichr.me/post/git-remove-files-thoroughly/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-25,1585146890.0
 gunicorn max-requests 选项的作用,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_25-gunicorn_max_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-25,1585094400.0
 鬼子来了，一部超越时代的影片,Frank笔记,https://frank2019.me/archives/gui-zi-lai-liao-yi-bu-chao-yue-shi-dai-de-ying-pian,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-24,1585080960.0
@@ -48,4 +49,3 @@ Python中的并发控制,Jiajun的编程随想,https://jiajunhuang.com/articles/
 让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/technology/50,https://blog.fsky7.com,https://blog.fsky7.com/feed,2020-02-11,1581393600.0
 【花开物语|MAD】幹物女(WeiWei)-Bonboru!,云游君的小站,https://www.yunyoujun.cn/posts/hana-saku-iroha-weiwei-bonboru,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-09,1581272688.0
 Mac 上连接 Android 传输文件与配置 SDK platform tools 环境,ChrAlpha,https://blog.ichr.me/post/configurate-connection-with-android-on-mac/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-08,1581157605.0
-KVM spice协议在高分屏上的分辨率问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_08-kvm_spice_high_dpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-08,1581120000.0
