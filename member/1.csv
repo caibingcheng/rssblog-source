@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+springboot 请求响应处理流程,Nicksxs's Blog,https://nicksxs.me/2023/08/27/springboot-%E8%AF%B7%E6%B1%82%E5%93%8D%E5%BA%94%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-08-27,1693147639.0
+Compare Task Processing Approaches in Scala,Bin Wang - My Personal Blog,https://www.binwang.me/2023-08-27-Compare-Task-Processing-Approaches-in-Scala.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-08-27,1693108800.0
 做事的心境,manateelazycat.github.io,//manateelazycat.github.io/2023/08/27/state-of-mind/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-08-27,1693094400.0
 四款内网穿透工具对比,杜老师说,https://dusays.com/620/,https://dusays.com/,https://dusays.com/atom.xml,2023-08-26,1693065600.0
 如何在 macOS 上浏览 .svs 格式文件,Another Dayu,https://anotherdayu.com/2023/5338/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-08-26,1693061382.0
@@ -6,12 +8,11 @@ title,author,link,home,rss,date,timestamp
 巴南姜家：失落的夏日小镇,Macin,https://macin.org/2023/08/22/ba-nan-jiang-jia/,https://macin.org/,https://www.macin.org/atom.xml,2023-08-22,1692744865.0
 国行 Redmi Note 9 Pro 刷 Magisk Delta (root) 教程,岚天小窝,https://blog.ltya.top/posts/Redmi-Note-9-Pro-root.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-08-22,1692720000.0
 本站不再提供RSS订阅,Zikin 的独立博客,https://zikin.org/,https://zikin.org/,https://zikin.org/feed,2023-08-21,1692576000.0
-springboot web server 启动逻辑,Nicksxs's Blog,https://nicksxs.me/2023/08/20/springboot-web-server-%E5%90%AF%E5%8A%A8%E9%80%BB%E8%BE%91/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-08-20,1692524336.0
 個人域名郵箱免費方案,Just lepture,https://lepture.com/zh/2023/free-email-provider,https://lepture.com/,https://lepture.com/feed.xml,2023-08-20,1692516607.0
 两岸猿声啼不住，轻舟已过万重山——我的四分之一人生,This Cute World,https://thiscute.world/posts/a-quarter-of-the-way-through-life/,https://thiscute.world/,https://thiscute.world/index.xml,2023-08-19,1692439245.0
 线性代数：内积空间,辛未羊的网络日志,https://panqiincs.me/2023/08/18/la-inner-product-space/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-18,1692342072.0
-好久不见: 我消失的900天,罗磊的独立博客,https://luolei.org/why-no-videos-in-900-days/,http://luolei.org/,https://luolei.org/feed/,2023-08-12,1691822870.0
 好久不见: 我消失的900天,罗磊的独立博客,https://luolei.org/why-no-videos-in-900-days/,https://luolei.org/,https://luolei.org/feed/,2023-08-12,1691822870.0
+好久不见: 我消失的900天,罗磊的独立博客,https://luolei.org/why-no-videos-in-900-days/,http://luolei.org/,https://luolei.org/feed/,2023-08-12,1691822870.0
 好久不见: 我消失的900天,罗磊的独立博客,https://luolei.org/why-no-videos-in-900-days,https://luolei.org,https://luolei.org/feed/,2023-08-12,1691798400.0
 “恶意”捐赠-百姓的呐喊,Frank笔记,http://frank2019.me/archives/1691598701279,http://frank2019.me/,https://frank2019.me/rss.xml,2023-08-10,1691688000.0
 这个全平台远程桌面软件我必须安利！,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/768/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-08-08,1691535510.0
@@ -27,7 +28,6 @@ Jmeter进行分布式压测,cywhat's blog,https://cywhat.cn/Jmeter%E8%BF%9B%E8%A
 苹果WWDC2023 发布的Apple Vision Pro🍎,把酒诗代码，趁乱写年华。,https://102no.com/2023/06/07/apple-vision-pro/,https://102no.com/,https://102no.com/atom.xml,2023-06-06,1686067200.0
 五年前的风景,非理勿试,https://www.ntiy.com/1990.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-06-06,1686051588.0
 Jenkins+Gitee持续集成,Barney's Blog,https://hugo.bnblogs.cc/jenkins-gitee%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684848714.0
-Upgrade Kubernetes from 1.23 to 1.24,Bin Wang - My Personal Blog,https://www.binwang.me/2023-05-22-Upgrade-Kubernetes-from-1.23-to-1.24.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-05-22,1684728000.0
 因言获罪的脱口秀,Frank笔记,/archives/1684425172569,/,https://frank2019.me/rss.xml,2023-05-18,1684432680.0
 我的世界mod开发,DearXuan的主页,https://blog.dearxuan.com/2023/05/16/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8Cmod%E5%BC%80%E5%8F%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2023-05-16,1684246680.0
 以星辰为名，以黑暗为姓,Muidar's Site,https://muidar.com/posts/cmuidar/siriusblack/,https://muidar.com,https://muidar.com/feed,2023-05-14,1684059269.0
