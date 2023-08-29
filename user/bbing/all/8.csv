@@ -1,6 +1,7 @@
 title,author,link,home,rss,date,timestamp
-切换Python版本后导致终端打不开,Bing's Blog,https://bbing.com.cn/202208/terminal-python-version/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-08-01,1659322836.0
+有没有兴趣来抢个沙发,杜老师说,https://dusays.com/490/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-03,1659484800.0
 切换Python版本后导致终端打不开,Bing's Blog,https://imcbc.cn/202208/terminal-python-version/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-08-01,1659322836.0
+切换Python版本后导致终端打不开,Bing's Blog,https://bbing.com.cn/202208/terminal-python-version/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-08-01,1659322836.0
 Kubernetes 中的证书管理工具 - cert-manager,This Cute World,https://thiscute.world/posts/kubernetes-cert-management/,https://thiscute.world/,https://thiscute.world/index.xml,2022-07-31,1659251506.0
 Caddy 的简介,杜老师说,https://dusays.com/489/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-31,1659225600.0
 Vercel部署本地项目,Barney's Blog,https://hugo.bnblogs.cc/vercel%E9%83%A8%E7%BD%B2%E6%9C%AC%E5%9C%B0%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-30,1659178583.0
@@ -41,92 +42,6 @@ Optimal Auctions through Deep Learning,Barney's Blog,https://hugo.bnblogs.cc/pap
 杜老师说网站更新图解,杜老师说,https://dusays.com/477/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-25,1656115200.0
 Linux问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/linux-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-06-22,1655916265.0
 杜老师自建国内不蒜子统计平台,杜老师说,https://dusays.com/476/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-22,1655856000.0
-"博客日志<div class=""wrap""><span class=""wraps"">置顶</span></div>
-<style type=""text/css"">
-.wrap {
-width: 100%;
-height: 100%;
-position: absolute;
-top: -8px;
-left: 8px;
-overflow: hidden;
-font-size: 17px;
-font-weight: 400;
-color: #fff;
-opacity: 0.5;
--webkit-transition: .3s ease all;
--moz-transition: .3s ease all;
--ms-transition: .3s ease all;
--o-transition: .3s ease all;
-transition: .3s ease all;
-}
-.wrap:hover {
-opacity: 0.9;
-}
-.wraps {
-display: inline-block;
-text-align: center;
-width: 200px;
-height: 30px;
-line-height: 27px;
-position: absolute;
-top: 30px;
-right: -50px;
-z-index: 2;
-overflow: hidden;
-transform: rotate(45deg);
--ms-transform: rotate(45deg);
--moz-transform: rotate(45deg);
--webkit-transform: rotate(45deg);
--o-transform: rotate(45deg);
-border: 1px dashed;
-box-shadow: 0 0 0 1px #000， 0px 21px 5px -18px rgba(0，0，0，0.6);
-background: red;
-}
-</style>",Peter's Blog,https://www.rainogo.com/posts/blog_log.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2022-06-20,1655739300.0
-"博客告示<div class=""wrap""><span class=""wraps"">置顶</span></div>
-<style type=""text/css"">
-.wrap {
-width: 100%;
-height: 100%;
-position: absolute;
-top: -8px;
-left: 8px;
-overflow: hidden;
-font-size: 17px;
-font-weight: 400;
-color: #fff;
-opacity: 0.5;
--webkit-transition: .3s ease all;
--moz-transition: .3s ease all;
--ms-transition: .3s ease all;
--o-transition: .3s ease all;
-transition: .3s ease all;
-}
-.wrap:hover {
-opacity: 0.9;
-}
-.wraps {
-display: inline-block;
-text-align: center;
-width: 200px;
-height: 30px;
-line-height: 27px;
-position: absolute;
-top: 30px;
-right: -50px;
-z-index: 2;
-overflow: hidden;
-transform: rotate(45deg);
--ms-transform: rotate(45deg);
--moz-transform: rotate(45deg);
--webkit-transform: rotate(45deg);
--o-transform: rotate(45deg);
-border: 1px dashed;
-box-shadow: 0 0 0 1px #000， 0px 21px 5px -18px rgba(0，0，0，0.6);
-background: red;
-}
-</style>",Peter's Blog,https://www.rainogo.com/posts/website_notice.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2022-06-20,1655739300.0
 "博客公告 | 说说<div class=""wrap""><span class=""wraps"">置顶</span></div>
 <style type=""text/css"">
 .wrap {
@@ -170,8 +85,93 @@ box-shadow: 0 0 0 1px #000， 0px 21px 5px -18px rgba(0，0，0，0.6);
 background: red;
 }
 </style>",Peter's Blog,https://www.rainogo.com/posts/blog_notice_talk.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2022-06-20,1655739300.0
+"博客告示<div class=""wrap""><span class=""wraps"">置顶</span></div>
+<style type=""text/css"">
+.wrap {
+width: 100%;
+height: 100%;
+position: absolute;
+top: -8px;
+left: 8px;
+overflow: hidden;
+font-size: 17px;
+font-weight: 400;
+color: #fff;
+opacity: 0.5;
+-webkit-transition: .3s ease all;
+-moz-transition: .3s ease all;
+-ms-transition: .3s ease all;
+-o-transition: .3s ease all;
+transition: .3s ease all;
+}
+.wrap:hover {
+opacity: 0.9;
+}
+.wraps {
+display: inline-block;
+text-align: center;
+width: 200px;
+height: 30px;
+line-height: 27px;
+position: absolute;
+top: 30px;
+right: -50px;
+z-index: 2;
+overflow: hidden;
+transform: rotate(45deg);
+-ms-transform: rotate(45deg);
+-moz-transform: rotate(45deg);
+-webkit-transform: rotate(45deg);
+-o-transform: rotate(45deg);
+border: 1px dashed;
+box-shadow: 0 0 0 1px #000， 0px 21px 5px -18px rgba(0，0，0，0.6);
+background: red;
+}
+</style>",Peter's Blog,https://www.rainogo.com/posts/website_notice.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2022-06-20,1655739300.0
+"博客日志<div class=""wrap""><span class=""wraps"">置顶</span></div>
+<style type=""text/css"">
+.wrap {
+width: 100%;
+height: 100%;
+position: absolute;
+top: -8px;
+left: 8px;
+overflow: hidden;
+font-size: 17px;
+font-weight: 400;
+color: #fff;
+opacity: 0.5;
+-webkit-transition: .3s ease all;
+-moz-transition: .3s ease all;
+-ms-transition: .3s ease all;
+-o-transition: .3s ease all;
+transition: .3s ease all;
+}
+.wrap:hover {
+opacity: 0.9;
+}
+.wraps {
+display: inline-block;
+text-align: center;
+width: 200px;
+height: 30px;
+line-height: 27px;
+position: absolute;
+top: 30px;
+right: -50px;
+z-index: 2;
+overflow: hidden;
+transform: rotate(45deg);
+-ms-transform: rotate(45deg);
+-moz-transform: rotate(45deg);
+-webkit-transform: rotate(45deg);
+-o-transform: rotate(45deg);
+border: 1px dashed;
+box-shadow: 0 0 0 1px #000， 0px 21px 5px -18px rgba(0，0，0，0.6);
+background: red;
+}
+</style>",Peter's Blog,https://www.rainogo.com/posts/blog_log.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2022-06-20,1655739300.0
 C++在给定内存上构造,Bing's Blog,https://bbing.com.cn/202206/cpp_placementnew_allocator/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-20,1655688195.0
 静态博客写作新体验-小书匠,BBing's Blog,https://bbing.com.cn/202206/staticblog_xiaoshujiang/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-19,1655650961.0
 通过 WebDAV 挂载 Cloudreve「Windows 篇」,杜老师说,https://dusays.com/475/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-18,1655568000.0
 今年618我买了啥,瓦解的生活记事,https://hin.cool/posts/618buy.html,https://hin.cool/,https://hin.cool/atom.xml,2022-06-18,1655519400.0
-一块钱买来的自尊心,BBing's Blog,https://bbing.com.cn/202206/1yzzx/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-17,1655471147.0
