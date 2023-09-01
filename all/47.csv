@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+文化让我们不再单纯,Frank笔记,https://frank2019.me/archives/wen-hua-rang-wo-men-bu-zai-dan-chun,https://frank2019.me/,https://frank2019.me/rss.xml,2021-03-22,1616433540.0
 新一轮的通货膨胀离我们还有多远,Frank笔记,https://frank2019.me/archives/xin-yi-lun-de-tong-huo-peng-zhang-chi-wo-men-huan-you-duo-yuan,https://frank2019.me/,https://frank2019.me/rss.xml,2021-03-21,1616347080.0
 Python Queue源码分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_20-python_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-20,1616198400.0
 集群管理系统 Mesos 的设计原理 · NSDI '11,面向信仰编程,https://draveness.me//papers-mesos,https://draveness.me/,https://draveness.me/feed.xml,2021-03-19,1616112000.0
@@ -48,4 +49,3 @@ fonts.googleapis.com访问太慢导致站点加载很慢,Yulin Lewis' Blog,https
 分享一些有趣的代码注释,Yulin Lewis' Blog,https://lewky.cn/posts/program-comment-funny.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-19,1613703345.0
 分享一些有趣的前端图形和页面,Yulin Lewis' Blog,https://lewky.cn/posts/front-end-funny.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-18,1613659858.0
 PostgreSQL - 字符串函数汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-string.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-18,1613659443.0
-仅在 localhost 中部署并使用 RSSHub,ChrAlpha,https://blog.ichr.me/post/localhost-docker-rsshub/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2021-02-16,1613505807.0
