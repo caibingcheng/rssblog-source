@@ -1,6 +1,47 @@
 title,author,link,home,rss,date,timestamp
-Redis源码阅读：字典是怎么实现的,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
+分享我最近看过的剧集,近视眼逛博客,https://blog.dtz9.com/2021/06/Share-the-episodes-I-ve-seen-recently.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-06-18,1624032540.0
+分享我最近看过的剧集,近视眼逛博客,https://blog.9hz.club/2021/06/Share-the-episodes-I-ve-seen-recently.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2021-06-18,1624032540.0
+10本 Docker 进阶学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/06/17/10-docker-advanced-books/,https://102no.com/,https://102no.com/atom.xml,2021-06-16,1623859200.0
+你需要一份好看的简历吗,见字如面,https://hiwannz.com/archives/534,https://hiwannz.com,https://hiwannz.com/feed,2021-06-16,1623850504.0
+Xbox Series S 一个月使用感受,Randy's Blog,https://lutaonan.com/blog/xbox-series-s/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-06-16,1623801600.0
+Next.js 应用开发实践,Randy's Blog,https://lutaonan.com/blog/the-book-nextjs-in-action/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-06-16,1623801600.0
+一种以网约车司机为目标的新型庞氏骗局,非理勿试,https://www.ntiy.com/1566.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-06-15,1623740256.0
+10本 Docker 入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/06/15/10-docker-beginner-books/,https://102no.com/,https://102no.com/atom.xml,2021-06-14,1623686400.0
+聊聊 Java 的类加载机制二,Nicksxs's Blog,https://nicksxs.me/2021/06/13/%E8%81%8A%E8%81%8A-Java-%E7%9A%84%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-06-13,1623590254.0
+让低配电脑流畅运行 Firefox 的5大方法,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/make-firefox-faaaast.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-06-12,1623498600.0
+记一次被电话/短信轰炸,非理勿试,https://www.ntiy.com/1580.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-06-11,1623375526.0
+别拿爱国绑架民众,Frank笔记,https://frank2019.me/articles/2021/06/08/1623143816485.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-06-08,1623143816.0
+TaiShan 200ECS服务器安装Docker、influxdb、JDK,框架师,https://www.mobaijun.com/posts/313051912.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-06-08,1623141702.0
+1024 Days,FlyingSky's Blog,https://blog.fsky7.com/archives/189/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2021-06-08,1623117600.0
+别拿爱国绑架民众,Frank笔记,https://frank2019.me/archives/bie-na-ai-guo-bang-jia-min-zhong,https://frank2019.me/,https://frank2019.me/rss.xml,2021-06-07,1623087000.0
+整理 VPS,近视眼逛博客,https://blog.dtz9.com/2021/06/Organizing-VPS.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-06-07,1623070800.0
+Redis源码阅读：pub/sub实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_06_07-redis_source_code_12.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-06-07,1623024000.0
+10本 Nginx 开发学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/06/07/10-nginx-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-06-06,1622995200.0
+聊聊如何识别和意识到日常生活中的各类危险,Nicksxs's Blog,https://nicksxs.me/2021/06/06/%E8%81%8A%E8%81%8A%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E5%92%8C%E6%84%8F%E8%AF%86%E5%88%B0%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%90%84%E7%B1%BB%E5%8D%B1%E9%99%A9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-06-06,1622983506.0
+Redis源码阅读：zset实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_06_06-redis_source_code_11.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-06-06,1622937600.0
+Cloudflare 搭建短网址,岚天小窝,https://blog.ltya.top/posts/Url-Shorten-Worker.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2021-06-05,1622908800.0
+Cloudflare 搭建短网址,岚天小窝,http://blog.ltya.top/posts/Url-Shorten-Worker.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2021-06-05,1622908800.0
+年轻人需要的不是毒鸡汤,Frank笔记,https://frank2019.me/articles/2021/06/04/1622813824618.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-06-05,1622865040.0
+Centos7安装并配置多网口,框架师,https://www.mobaijun.com/posts/1316700149.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-06-04,1622791463.0
+【杂谈】从个人观点看我们该如何面对气候变化？,Luminous' Home,https://luotianyi.vc/5669.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-06-04,1622784971.0
+年轻人需要的不是毒鸡汤,Frank笔记,https://frank2019.me/archives/nian-qing-ren-xu-yao-de-bu-shi-du-ji-tang,https://frank2019.me/,https://frank2019.me/rss.xml,2021-06-03,1622741340.0
+Linux之cat命令高级版ccat安装使用,框架师,https://www.mobaijun.com/posts/2794786039.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-06-02,1622624269.0
+老子的“躺平”哲学——《道德经》,非理勿试,https://www.ntiy.com/1573.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-06-01,1622527638.0
+10本 Git 版本管理学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/06/01/10-git-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-05-31,1622476800.0
+聊聊传说中的 ThreadLocal,Nicksxs's Blog,https://nicksxs.me/2021/05/30/%E8%81%8A%E8%81%8A%E4%BC%A0%E8%AF%B4%E4%B8%AD%E7%9A%84-ThreadLocal/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-05-30,1622355433.0
+Redis源码阅读：bitmap 位图的运算,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_30-redis_source_code_10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-30,1622332800.0
+Redis源码阅读：set是怎么做交并集运算的？,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_29-redis_source_code_9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-29,1622246400.0
+Redis源码阅读：list实现(ziplist， quicklist),Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_28-redis_source_code_8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-28,1622160000.0
+又拍云—年轻人的第一个 CDN,云游君的小站,https://www.yunyoujun.cn/posts/why-i-use-upyun-cdn/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-05-27,1622122175.0
+[转载]再谈谈这个沉重的话题:程序员的出路,框架师,https://www.mobaijun.com/posts/4100025323.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-05-27,1622105062.0
+Redis源码阅读：RDB是怎么实现的,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_27-redis_source_code_7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-27,1622073600.0
+Redis源码阅读：AOF重写,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_26-redis_source_code_6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-26,1621987200.0
+浅谈躺平主义,Frank笔记,https://frank2019.me/articles/2021/05/25/1621914886868.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-05-25,1621915330.0
+Redis源码阅读：AOF持久化,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_25-redis_source_code_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-25,1621900800.0
+10本 MongoDB 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/05/25/10-mongodb-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-05-24,1621872000.0
+MySQL远程连接失败(错误码:2003),框架师,https://www.mobaijun.com/posts/3639136044.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-05-24,1621840240.0
 Redis源码阅读：key是怎么过期的,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
+Redis源码阅读：字典是怎么实现的,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
 浅谈躺平主义,Frank笔记,https://frank2019.me/archives/qian-tan-tang-ping-zhu-yi,https://frank2019.me/,https://frank2019.me/rss.xml,2021-05-23,1621790820.0
 Leetcode 236 二叉树的最近公共祖先(Lowest Common Ancestor of a Binary Tree) 题解分析,Nicksxs's Blog,https://nicksxs.me/2021/05/23/Leetcode-236-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88-Lowest-Common-Ancestor-of-a-Binary-Tree-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-05-23,1621784704.0
 Redis源码阅读：执行命令,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_23-redis_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-23,1621728000.0
@@ -8,44 +49,3 @@ Redis源码阅读：启动过程,Jiajun的编程随想,https://jiajunhuang.com/a
 如果 chrome 浏览器在新标签加入 RSS 关注功能你会使用吗,近视眼逛博客,https://blog.dtz9.com/2021/05/chrome-new-tabs-added-RSS.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-05-21,1621613460.0
 Docker Nodejs 排坑笔记,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/743/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-05-20,1621551287.0
 程序猿复健计划之B站机器人,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/742/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-05-19,1621466459.0
-10本 PostgreSQL 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/05/20/10-postgresql-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-05-19,1621440000.0
-程序猿复健计划之微信机器人,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/741/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-05-18,1621327783.0
-你真的需要软路由吗,近视眼逛博客,https://blog.dtz9.com/2021/05/VirtualBox.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-05-17,1621252740.0
-rust学习笔记-所有权三之切片,Nicksxs's Blog,https://nicksxs.me/2021/05/16/rust%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E6%89%80%E6%9C%89%E6%9D%83%E4%B8%89%E4%B9%8B%E5%88%87%E7%89%87/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-05-16,1621167540.0
-加密货币与韭菜骗局,非理勿试,https://www.ntiy.com/1554.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-05-16,1621143440.0
-WAL(Write-ahead logging)的套路,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_15-wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-15,1621036800.0
-【Azure】微软Azure开启原生IPv6支持,Luminous' Home,https://luotianyi.vc/5607.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-05-14,1621006060.0
-我给自己设立了每月 $20 的开源捐赠预算,Randy's Blog,https://lutaonan.com/blog/my-oss-donation-budget/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-05-12,1620777600.0
-党史学习笔记,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/740/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-05-11,1620767331.0
-生命就是社会的底线,Frank笔记,https://frank2019.me/archives/sheng-ming-jiu-shi-she-hui-de-di-xian,https://frank2019.me/,https://frank2019.me/rss.xml,2021-05-09,1620581160.0
-聊聊给亲戚朋友的老电脑重装系统那些事儿,Nicksxs's Blog,https://nicksxs.me/2021/05/09/%E8%81%8A%E8%81%8A%E7%BB%99%E4%BA%B2%E6%88%9A%E6%9C%8B%E5%8F%8B%E7%9A%84%E8%80%81%E7%94%B5%E8%84%91%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-05-09,1620569991.0
-10本适合放在互联网公司开发办公室书籍,把酒诗代码，趁乱写年华。,https://102no.com/2021/05/08/10-company-development-office-books/,https://102no.com/,https://102no.com/atom.xml,2021-05-07,1620403200.0
-勤快一点吧！养成写博客的习惯,近视眼逛博客,https://blog.dtz9.com/2021/05/Get-into-the-habit-of-blogging.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-05-06,1620315000.0
-用 Rust 实现简单的光线追踪,萤火之森,http://frankorz.com/2021/05/05/rust-raytrace/,http://frankorz.com/,https://frankorz.com/atom.xml,2021-05-05,1620175710.0
-Leetcode 48 旋转图像(Rotate Image) 题解分析,Nicksxs's Blog,https://nicksxs.me/2021/05/01/Leetcode-48-%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F-Rotate-Image-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-05-01,1619882906.0
-搞定CORS问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_04_29-cors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-29,1619654400.0
-JavaSe-网络编程,框架师,https://www.mobaijun.com/posts/1483848703.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-26,1619424035.0
-【Oracle Cloud】甲骨文云开启原生IPv6支持,Luminous' Home,https://luotianyi.vc/5558.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-04-24,1619252967.0
-Evolution Of Architecture From Monolithic To Micro Front End Theory,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210422-evolution-of-architecture-from-monolithic-to-micro-front-end-theory,https://teobler.com,https://teobler.com/rss.xml,2021-04-22,1619095440.0
-云空调，便携小空调,云游君的小站,https://www.yunyoujun.cn/posts/air-conditioner,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-04-21,1619025527.0
-Kong 2.4 正式发布！,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/21/kong-2.4/,https://102no.com/,https://102no.com/atom.xml,2021-04-20,1618934400.0
-崛起的中国,Frank笔记,https://frank2019.me/archives/jue-qi-de-zhong-guo,https://frank2019.me/,https://frank2019.me/rss.xml,2021-04-18,1618766640.0
-rust学习笔记-所有权一,Nicksxs's Blog,https://nicksxs.me/2021/04/18/rust%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-04-18,1618754641.0
-rust学习笔记-所有权二,Nicksxs's Blog,https://nicksxs.me/2021/04/18/rust%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E6%89%80%E6%9C%89%E6%9D%83%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-04-18,1618754590.0
-24 天像素画从入门到放弃,萤火之森,http://frankorz.com/2021/04/18/learn-pixel-art/,http://frankorz.com/,https://frankorz.com/atom.xml,2021-04-18,1618749210.0
-Compute Shader 简介,萤火之森,http://frankorz.com/2021/04/17/compute-shader/,http://frankorz.com/,https://frankorz.com/atom.xml,2021-04-17,1618697670.0
-云空调，便携小空调,云游君的小站,https://www.yunyoujun.cn/posts/air-conditioner/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-04-17,1618651127.0
-谈谈 Kubernetes 的问题和局限性,面向信仰编程,https://draveness.me//kuberentes-limitations,https://draveness.me/,https://draveness.me/feed.xml,2021-04-16,1618531200.0
-巴中市如何开具《动物检疫合格证明》,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/739/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-04-15,1618505483.0
-再一次被知乎恶心吐了,非理勿试,https://www.ntiy.com/1543.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-04-15,1618465789.0
-如何定位程序问题所在,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_04_15-how_to_debug_program.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-15,1618444800.0
-Nginx,框架师,https://www.mobaijun.com/posts/1706463495.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-14,1618384093.0
-设计一个IM归档系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_04_14-system_design_archive.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-14,1618358400.0
-10本 Redis 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/12/10-redis-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-11,1618156800.0
-聊聊厦门旅游的好与不好,Nicksxs's Blog,https://nicksxs.me/2021/04/11/%E8%81%8A%E8%81%8A%E5%8E%A6%E9%97%A8%E6%97%85%E6%B8%B8%E7%9A%84%E5%A5%BD%E4%B8%8E%E4%B8%8D%E5%A5%BD/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-04-11,1618155487.0
-【ACME】手动签发Buypass及ZeroSSL证书,Luminous' Home,https://luotianyi.vc/5538.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-04-11,1618124143.0
-logrotate read only filesystem问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_04_11-logrotate_read_only_filesystem.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-11,1618099200.0
-Svelte 的异步更新实现原理,Randy's Blog,https://lutaonan.com/blog/how-svelte-set-state-works/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-04-11,1618099200.0
-为什么 Linux 和 macOS 不需要碎片整理,面向信仰编程,https://draveness.me//whys-the-design-linux-macos-fragmentation,https://draveness.me/,https://draveness.me/feed.xml,2021-04-10,1618012800.0
-CPU 和 GPU - 异构计算的演进与发展,面向信仰编程,https://draveness.me//heterogeneous-computing,https://draveness.me/,https://draveness.me/feed.xml,2021-04-09,1617926400.0
-10本 Python 深入学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/09/10-python-learn-depth-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-08,1617897600.0

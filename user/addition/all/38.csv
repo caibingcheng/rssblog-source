@@ -1,4 +1,40 @@
 title,author,link,home,rss,date,timestamp
+德州扑克隐藏的身体语言,Frank笔记,https://frank2019.me/archives/de-zhou-bu-ke-yin-cang-de-shen-ti-yu-yan,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-17,1584475980.0
+深圳电信宽带 / 常用公共 DNS、VPS / 性能 & 稳定性 / 实时监控数据,罗磊的独立博客,https://luolei.org/shenzhen-chinanet-public-dns-realtime-benchmark,https://luolei.org,https://luolei.org/feed/,2020-03-17,1584403200.0
+Hexo 图片 lazyload 的更优尝试,ChrAlpha,https://blog.ichr.me/post/hexo-better-image-lazyload/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-16,1584381969.0
+Lazyload 不让 Valine 评论组件拖慢页面加载,ChrAlpha,https://blog.ichr.me/post/valine-lazyload/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-13,1584127745.0
+给你的代码跑个分？pylint使用教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_12-pylint.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-12,1583971200.0
+谈谈 RSA 非对称加密算法原理及流程,ChrAlpha,https://blog.ichr.me/post/rsa-asymmetric-encryption-algorithm/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-11,1583930619.0
+一个Gunicorn worker数量引发的血案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_11-gunicorn_worker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-11,1583884800.0
+在 GitHub 上使用 GPG 认证你的 Git Commit,ChrAlpha,https://blog.ichr.me/post/use-gpg-verification-in-github/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-08,1583702310.0
+新冠反思-任志强,Frank笔记,https://frank2019.me/archives/xin-guan-fan-si-ren-zhi-qiang,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-08,1583698200.0
+国内自建图床指南,Randy's Blog,https://lutaonan.com/blog/aliyun-cdn-tutorial/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-07,1583539200.0
+👴就是二次元，故尝试证明。,云游君的小站,https://www.yunyoujun.cn/posts/i-am-er-ci-yuan-and-try-to-prove,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-06,1583536357.0
+在 Hexo 博客中更优雅地使用 LaTeX 数学公式,ChrAlpha,https://blog.ichr.me/post/fix-mathjax-layout-bugs-in-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-06,1583503087.0
+MySQL Boolean类型的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_06-mysql_boolean_tinyint_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-06,1583452800.0
+Hexo 博客 | 链接分享卡片生成配置,ChrAlpha,https://blog.ichr.me/post/hexo-generate-link-sharing-card/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-05,1583423588.0
+教你如何从零开始搭建一个属于自己的网站,云游君的小站,https://www.yunyoujun.cn/share/how-to-build-your-site/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-04,1583343068.0
+pip freeze是魔鬼,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_04-pip_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-04,1583280000.0
+居家办公好物 | 震旦 AS036 桌面碎纸机开箱,罗磊的独立博客,https://luolei.org/aurora-as036-shredder,https://luolei.org,https://luolei.org/feed/,2020-03-04,1583280000.0
+一个feed流系统的演进,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_02-feed_system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-02,1583107200.0
+通过4bet来防守3bet,Frank笔记,https://frank2019.me/archives/tong-guo-4betlai-fang-shou-3bet,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096880.0
+使用Markdown在博客中添加视频,Frank笔记,https://frank2019.me/archives/shi-yong-markdownzai-bo-ke-zhong-tian-jia-shi-pin,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096760.0
+Android 使用view binding,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_01-android_view_binding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-01,1583020800.0
+好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
+关于浏览器隐藏 https 与 www 一事,ChrAlpha,https://blog.ichr.me/post/why-browsers-hide-https-and-www-in-address-bar/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-29,1582985007.0
+Ubuntu安装SS-Libev,Frank笔记,https://frank2019.me/archives/ubuntuan-zhuang-ss-libev,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-28,1582923840.0
+Cloudflare 指定 CDN 节点与缓存配置,ChrAlpha,https://blog.ichr.me/post/cloudflare-cdn-optimize/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-28,1582899925.0
+系统调用的过程,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_27-syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-27,1582761600.0
+疫情过后的思考,Frank笔记,https://frank2019.me/archives/yi-qing-guo-hou-de-si-kao,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-26,1582750980.0
+Parcel.js + Vue 搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-parcel-demo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-26,1582689900.0
+MySQL charset不同导致无法使用索引的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_26-mysql_charset_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-26,1582675200.0
+使用 Speedtest CLI 测试服务器带宽质量,ChrAlpha,https://blog.ichr.me/post/use-speedtest-cli-to-test-the-speed-of-your-server/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-24,1582561951.0
+微服务的缺点,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_19-should_i_use_microservice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-19,1582070400.0
+Ubuntu软件更新运维,Frank笔记,https://frank2019.me/archives/ubunturuan-jian-geng-xin-yun-wei,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-18,1582059720.0
+使用 CDN 加速你的 GitHub Pages 网站,云游君的小站,https://www.yunyoujun.cn/posts/use-cdn-speed-up-site,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-16,1581884937.0
+Git 在 macOS 中忽略所有 .DS_Store 文件,ChrAlpha,https://blog.ichr.me/post/git-ignore-all-ds-store-on-mac/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-16,1581865768.0
+归来,Frank笔记,https://frank2019.me/archives/gui-lai,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-15,1581800400.0
+初探无后端静态博客自动化部署方案,ChrAlpha,https://blog.ichr.me/post/automated-deployment-of-serverless-static-blog/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-14,1581718212.0
 远程工作一周有感,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_14-remote_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-14,1581638400.0
 Python中的并发控制,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_12-python_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-12,1581465600.0
 让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/archives/97/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-02-11,1581394020.0
@@ -13,39 +49,3 @@ Git 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/git-learn-not
 Proxy Server | 正向代理与反向代理,ChrAlpha,https://blog.ichr.me/post/proxy-and-reverse-proxy/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-03,1580693916.0
 《图解 C# 教程 第5版》与性能优化,萤火之森,http://frankorz.com/2020/01/31/illustrated-csharp-and-performance/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-01-31,1580515158.0
 用 RIME 定制输入法,Ahonn's Blog,https://www.ahonn.me/blog/custom-input-methods-with-rime,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-01-30,1580400000.0
-用 RIME 定制输入法,Yuexun's Blog,https://yuexunjiang.me/blog/custom-input-methods-with-rime,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-30,1580400000.0
-用 RIME 定制输入法,Yuexun's Blog,https://yuexunjiang.me/blog/custom-input-methods-with-rime/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-01-30,1580342400.0
-武汉肺炎科普教学,Frank笔记,https://frank2019.me/archives/wu-han-fei-yan-ke-pu-jiao-xue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-01-29,1580331420.0
-npm & yarn 常用包与命令,云游君的小站,https://www.yunyoujun.cn/posts/npm-and-yarn,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-01-29,1580310284.0
-使 SSH 保持长时间连接,ChrAlpha,https://blog.ichr.me/post/keep-ssh-connection-alive-for-long/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-01-27,1580132331.0
-用 Tiny Tiny RSS 搭建自己的 RSS 服务端,ChrAlpha,https://blog.ichr.me/post/use-tt-rss-to-build-your-own-rss-service/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-01-20,1579535044.0
-关于 Git 同一终端多用户及 22 端口断连的配置,ChrAlpha,https://blog.ichr.me/post/git-more-user-and-solve-github-22-port-disconnected/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-01-20,1579515920.0
-四个你可能3bet不够多的场合,Frank笔记,https://frank2019.me/archives/si-ge-ni-ke-neng-3betbu-gou-duo-de-chang-he,https://frank2019.me/,https://frank2019.me/rss.xml,2020-01-16,1579208100.0
-使用 CCDIK 或 FABRIK 实现逆向动力学,云游君的小站,https://www.yunyoujun.cn/posts/methods-for-inverse-kinematics,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-01-14,1579040187.0
-计算机中的权衡(trade-off),Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_11-paradigm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-11,1578700800.0
-[声明]本站所有文章禁止转载,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_10-please_do_not_copy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-10,1578614400.0
-Golang不那么蛋疼的sort,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_07-golang_sort_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-07,1578355200.0
-从「后端现在已经看不懂前端了」说起,Randy's Blog,https://lutaonan.com/blog/to-frontend-prejudicers/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-07,1578355200.0
-Flutter给Android应用签名,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_06-flutter_sign_android_apk.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-06,1578268800.0
-React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
-React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
-使用Gitea+Drone打造自己的CI/CD系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_01-use_gitea_with_drone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-01,1577836800.0
-2019 年终总结：慢慢变成别人眼中「食古不化」的「怪人」,Randy's Blog,https://lutaonan.com/blog/2019-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-01,1577836800.0
-年度简报 - 2019 | 拾光,FlyingSky's Blog,https://blog.fsky7.com/archives/71/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-12-31,1577808000.0
-2019年就要结束啦！,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_31-hello_2020.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-31,1577750400.0
-RE: 2019 年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2019-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
-2019 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2019-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
-RE: 2019 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2019-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
-为什么要使用gRPC？,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_27-why_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-27,1577404800.0
-为了你爱的人，读一读《非暴力沟通》,Randy's Blog,https://lutaonan.com/blog/nonviolent-communication/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-12-25,1577232000.0
-Matebook X Pro 2019安装Debian 10,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_24-matebook_x_pro_2019_debian_10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-24,1577145600.0
-ArchLinux忽略某个包的升级,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_22-archlinux_ignore_pkg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-22,1576972800.0
-优化 Google Analytics 使用体验——借助 Cloudflare Workers 或其他,ChrAlpha,https://blog.ichr.me/post/optimize-google-analytics/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-12-21,1576946810.0
-How to style RSS feed,Just lepture,https://lepture.com/en/2019/rss-style-with-xsl,https://lepture.com/,https://lepture.com/feed.xml,2019-12-21,1576916648.0
-SQLAlchemy使用主从与数据库autocommit,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_21-autocommit.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-21,1576886400.0
-Blackbox禁用IPv6,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_19-blackbox_disable_ipv6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-19,1576713600.0
-预防缓存击穿,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_18-cache_miss.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
-Go 1.13的errors挺香,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_18-golang_133_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
-flutter开发体验汇报,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_16-flutter_dev.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-16,1576454400.0
-录翻唱需要哪些设备,Randy's Blog,https://lutaonan.com/blog/how-to-record-cover/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-12-15,1576368000.0
-百度网盘视频倍速播放的方法,ChrAlpha,https://blog.ichr.me/post/video-double-speed-playback-methods/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-12-14,1576339049.0
