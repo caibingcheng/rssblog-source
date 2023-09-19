@@ -15,6 +15,13 @@ def hash_url(url):
     md5.update(url.encode('utf-8'))
     return md5.hexdigest()
 
+def get_entry_date(entry):
+    if "published_parsed" in entry.keys():
+        return entry["published_parsed"]
+    elif "updated_parsed" in entry.keys():
+        return entry["updated_parsed"]
+    else:
+        return time.localtime()
 
 def fetch_source(rss_fetch_source_dir, rss):
     # 按照来源抓取rss
@@ -37,8 +44,8 @@ def fetch_source(rss_fetch_source_dir, rss):
             "link": et["link"],
             "home": rp["feed"]["link"],
             "rss": r,
-            "date": time.strftime("%Y-%m-%d", et["published_parsed" if "published_parsed" in et.keys() else "updated_parsed"]),
-            "timestamp": time.mktime(et["published_parsed" if "published_parsed" in et.keys() else "updated_parsed"]),
+            "date": time.strftime("%Y-%m-%d", get_entry_date(et)),
+            "timestamp": time.mktime(get_entry_date(et)),
         } for et in rp["entries"]]
 
         url_hash = hash_url(r)

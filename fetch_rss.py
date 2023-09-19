@@ -45,6 +45,9 @@ def fetch():
     # 所有源根据url去重
     rss = list({r: r for r in rss}.values())
     # 个人源不去重, 依赖于个人维护
+    # for test
+    # rss = ["https://xxxx/feed/",]
+    # rss_user["test"] = rss
 
     fetch_source(rss_fetch_source_dir, rss)
     combin_source(rss_fetch_all_dir, rss_fetch_source_dir)

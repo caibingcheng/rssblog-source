@@ -2,6 +2,11 @@
 
 本仓库作为[RSSBlog](https://github.com/caibingcheng/rssblog)的资源仓库, 负责rss数据的拉取与整理. 本站实例[rssblog.cn](https://rssblog.cn/).
 
+## USAGE
+```
+python3 action.py
+```
+
 ## BRANCH
 
 - master: 代码逻辑
