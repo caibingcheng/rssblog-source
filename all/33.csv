@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+读《心若菩提》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/02/24/reading-heart-is-bodhi.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-24,1645660800.0
 Hugo添加文章加密功能,Barney's Blog,https://hugo.bnblogs.cc/hugo%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86%E5%8A%9F%E8%83%BD/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645621037.0
 Hugo导航栏添加二级菜单,Barney's Blog,https://hugo.bnblogs.cc/hugo%E5%AF%BC%E8%88%AA%E6%A0%8F%E6%B7%BB%E5%8A%A0%E4%BA%8C%E7%BA%A7%E8%8F%9C%E5%8D%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645618994.0
 算法基础-非线性结构,DearXuan的主页,https://blog.dearxuan.com/2022/02/23/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-23,1645613640.0
@@ -19,11 +20,11 @@ python调用英伟达GPU加速方法,DearXuan的主页,https://dearxuan.top/2022
 算法基础-字符串与模式匹配,DearXuan的主页,https://blog.dearxuan.com/2022/02/18/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%8E%E6%A8%A1%E5%BC%8F%E5%8C%B9%E9%85%8D/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-18,1645162560.0
 算法基础-字符串与模式匹配,DearXuan的主页,https://dearxuan.top/2022/02/18/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%8E%E6%A8%A1%E5%BC%8F%E5%8C%B9%E9%85%8D/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-18,1645162560.0
 周刊（草稿）,4Ark × Blog,https://4ark.me/post/weekly-1.html,https://4ark.me/,https://4ark.me/rss.xml,2022-02-17,1645056000.0
-获取 MCBE 隐藏皮肤包,岚天小窝,http://blog.ltya.top/posts/MCBE-hidden-packages.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-02-15,1644940800.0
 获取 MCBE 隐藏皮肤包,岚天小窝,https://blog.ltya.top/posts/MCBE-hidden-packages.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-02-15,1644940800.0
+获取 MCBE 隐藏皮肤包,岚天小窝,http://blog.ltya.top/posts/MCBE-hidden-packages.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-02-15,1644940800.0
 Linux下安装zsh,Barney's Blog,https://hugo.bnblogs.cc/linux%E4%B8%8B%E5%AE%89%E8%A3%85zsh/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-15,1644928043.0
-算法基础-线性结构,DearXuan的主页,https://dearxuan.top/2022/02/15/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-15,1644917220.0
 算法基础-线性结构,DearXuan的主页,https://blog.dearxuan.com/2022/02/15/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-15,1644917220.0
+算法基础-线性结构,DearXuan的主页,https://dearxuan.top/2022/02/15/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-15,1644917220.0
 无成本反向代理Jsdelivr,LonelyGod,https://hin.cool/posts/jsdfandai.html,https://hin.cool/,https://hin.cool/atom.xml,2022-02-14,1644865201.0
 Clog入门教程,沐云湘夕—求索,https://quest.myxxts.club/archives/131/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-02-14,1644811440.0
 我为什么要写周刊,4Ark × Blog,https://4ark.me/post/weekly-idea.html,https://4ark.me/,https://4ark.me/rss.xml,2022-02-14,1644796800.0
@@ -48,4 +49,3 @@ Split Monolith Into Micro Front End,Teobler - 失眠多梦，bug体质,https://t
 开源一个 PHP 多版本共存 docker 环境🐘,把酒诗代码，趁乱写年华。,https://102no.com/2022/02/08/docker-mutli-php-versions/,https://102no.com/,https://102no.com/atom.xml,2022-02-07,1644249600.0
 C#图像压缩相关方法总结,DearXuan的主页,https://blog.dearxuan.com/2022/02/07/C-%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E7%9B%B8%E5%85%B3%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-07,1644237540.0
 C#图像压缩相关方法总结,DearXuan的主页,https://dearxuan.top/2022/02/07/C-%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E7%9B%B8%E5%85%B3%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-07,1644237540.0
-本站统计数据,This Cute World,https://thiscute.world/statistics/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-07,1644231395.0
