@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+tagged-pointer-让指针包含更多信息,Bing's Blog,https://imcbc.cn/202211/tagged-pointer/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
 搭建旁路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_11_20-router.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-20,1668902400.0
 贰拾捌,瓦解的生活记事,https://hin.cool/posts/ershiba.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-11-18,1668785402.0
 Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/elisp/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
@@ -12,17 +13,17 @@ Jenkins插件无法安装解决,cywhat's blog,https://cywhat.cn/Jenkins%E6%8F%92
 Jenkins报错 Bash:newman:command Not Found,cywhat's blog,https://cywhat.cn/Jenkins%E6%8A%A5%E9%94%99-bashnewmancommand-not-found/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-15,1668496771.0
 读《英语魔法师之语法俱乐部》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/15/reading-english-magicia.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-15,1668470400.0
 挂机放置类小游戏,杜老师说,https://dusays.com/525/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-14,1668441600.0
-dotfiles之外的一些应用,Bing's Blog,https://bbing.com.cn/202211/dotfiles-more/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
 dotfiles之外的一些应用,Bing's Blog,https://imcbc.cn/202211/dotfiles-more/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
+dotfiles之外的一些应用,Bing's Blog,https://bbing.com.cn/202211/dotfiles-more/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
 MPC钱包是什么？,Macin,https://macin.org/2022/11/13/mpc-wallet/,https://macin.org/,https://www.macin.org/atom.xml,2022-11-13,1668363573.0
 powershell 初体验,Nicksxs's Blog,https://nicksxs.me/2022/11/13/powershell-%E5%88%9D%E4%BD%93%E9%AA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-11-13,1668346253.0
 悬崖村：徒步20km的知秋行,Macin,https://macin.org/2022/11/13/xuan-ya-cun/,https://macin.org/,https://www.macin.org/atom.xml,2022-11-13,1668345615.0
 java-继承和多态,Barney's Blog,https://hugo.bnblogs.cc/java-3/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-13,1668325344.0
 java多线程和锁,Barney's Blog,https://hugo.bnblogs.cc/java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%92%8C%E9%94%81/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-12,1668248382.0
-稳定建站服务器:蓝易云,DearXuan的主页,https://blog.dearxuan.com/2022/11/12/%E8%93%9D%E6%98%93%E4%BA%91-%E5%BB%BA%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-11-12,1668224264.0
 稳定建站服务器:蓝易云,DearXuan的主页,https://blog.dearxuan.com/2022/11/12/%E7%A8%B3%E5%AE%9A%E5%BB%BA%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8-%E8%93%9D%E6%98%93%E4%BA%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-11-12,1668224264.0
-读《吴军数学通识讲义》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/12/reading-general-mathematics.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-12,1668211200.0
+稳定建站服务器:蓝易云,DearXuan的主页,https://blog.dearxuan.com/2022/11/12/%E8%93%9D%E6%98%93%E4%BA%91-%E5%BB%BA%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-11-12,1668224264.0
 读《吴军数学通识讲义》,manateelazycat.github.io,//manateelazycat.github.io/reading/math/2022/11/12/reading-general-mathematics.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-12,1668211200.0
+读《吴军数学通识讲义》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/12/reading-general-mathematics.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-12,1668211200.0
 杜老师建站史,杜老师说,https://dusays.com/524/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-11,1668182400.0
 Linux安装newman生成postman脚本报告,cywhat's blog,https://cywhat.cn/Linux%E5%AE%89%E8%A3%85newman%E7%94%9F%E6%88%90postman%E8%84%9A%E6%9C%AC%E6%8A%A5%E5%91%8A/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-10,1668064091.0
 Notice,FlyingSky's Blog,https://blog.fsky7.com/archives/258/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2022-11-10,1668049260.0
@@ -47,5 +48,4 @@ B2 + Cloudflare 转换规则，实现真正无限制使用 Backblaze B2,岚天�
 java-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java-1/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 java核心技术(1)第3章-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java%E5%9F%BA%E7%A1%80/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 五个域名全没了。。。。,SinGO博客,https://blog.xsnet.eu.org/posts/56455/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-11-04,1667588132.0
-Golang gRPC 错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_11_04-grpc_error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-04,1667520000.0
-deno-bridge,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/deno-bridge.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
+blink-search,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/blink-search.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
