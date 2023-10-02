@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Go设计模式：composite模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_07_02-go_design_pattern_composite.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-02,1593648000.0
 云南 | 东航周末随心飞，昆明玉溪两日行 | 抚仙湖 磨豆山,罗磊的独立博客,https://luolei.org/kunming-yuxi-weekend-getaways,https://luolei.org,https://luolei.org/feed/,2020-06-29,1593388800.0
 味遇良品上线一个月总结,Frank笔记,https://frank2019.me/archives/wei-yu-liang-pin-shang-xian-yi-ge-yue-zong-jie,https://frank2019.me/,https://frank2019.me/rss.xml,2020-06-26,1593147300.0
 拯救删除ZFS之后的分区表,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_25-save_partition_table_zfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-25,1593043200.0
@@ -19,16 +20,16 @@ debug故事之：事务让生活更美好,Jiajun的编程随想,https://jiajunhu
 Fireside 遷移記,Just lepture,https://lepture.com/zh/2020/fireside-export,https://lepture.com/,https://lepture.com/feed.xml,2020-06-11,1591843954.0
 Go设计模式：模板模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_11-go_design_pattern_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-11,1591833600.0
 Go设计模式：适配器模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_09-go_design_pattern_adapter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-09,1591660800.0
-Go设计模式：Iterator,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_07-go_design_pattern_iter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-07,1591488000.0
 最容易获得的境外驾照:内地驾照免试换取香港十年驾照攻略,罗磊的独立博客,https://luolei.org/hongkong-driver-lincense,https://luolei.org,https://luolei.org/feed/,2020-06-07,1591488000.0
+Go设计模式：Iterator,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_07-go_design_pattern_iter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-07,1591488000.0
 Shell猜数字游戏,qinxs小站,https://7bxing.com/posts/3713cf69/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-06-06,1591449141.0
 我的云账单:2020年,罗磊的独立博客,https://luolei.org/how-much-i-spend-on-cloud-monthly-2020,https://luolei.org,https://luolei.org/feed/,2020-06-02,1591056000.0
 WebP 图片优化在 Hexo 上的最佳尝试,ChrAlpha,https://blog.ichr.me/post/webp-on-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-05-30,1590858611.0
 Base64 编码并不唯一,This Cute World,https://thiscute.world/posts/base64-encoding-is-not-unique/,https://thiscute.world/,https://thiscute.world/index.xml,2020-05-30,1590855180.0
-glusterfs 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_30-glusterfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-30,1590796800.0
 使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-05-30,1590796800.0
-使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-05-29,1590768000.0
+glusterfs 笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_30-glusterfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-30,1590796800.0
 使用 TiddlyWiki 进行个人知识管理,Ahonn's Blog,https://www.ahonn.me/blog/using-tiddlywiki-for-personal-knowledge-management,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-05-29,1590768000.0
+使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-05-29,1590768000.0
 用peewee代替SQLAlchemy,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_29-use_peewee.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-29,1590710400.0
 使用 tcpdump 和 Wireshark 进行远程实时抓包分析,This Cute World,https://thiscute.world/posts/tcpdump-and-wireshark/,https://thiscute.world/,https://thiscute.world/index.xml,2020-05-28,1590654026.0
 2000元 vs 1000元 vs 300元 | 不同价位键盘声音对比,罗磊的独立博客,https://luolei.org/keyboard-amsr,https://luolei.org,https://luolei.org/feed/,2020-05-26,1590451200.0
@@ -43,9 +44,8 @@ Git学习,qinxs小站,https://7bxing.com/posts/e28ceec1/,https://7bxing.com/,htt
 hello world,qinxs小站,https://7bxing.com/posts/d4a1185/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605202.0
 Golang sort源码阅读,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_16-go_sort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-16,1589587200.0
 分治的思维方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_15-divide_and_conquer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-15,1589500800.0
-说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
 Debian 使用NetworkManager之后networking.service崩溃,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
+说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
 httprouter源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_09-httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-09,1588982400.0
 《程序员的自我修养-装载、链接与库》笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_08-linker_and_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-08,1588896000.0
 在特殊地区科学使用 Disqus 评论系统,ChrAlpha,https://blog.ichr.me/post/use-disqus-conveniently/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-05-05,1588699400.0
-Golang sync.Pool源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_05-go_sync_pool.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-05,1588636800.0
