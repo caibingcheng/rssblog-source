@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+我个人写公众号的思考，以及我觉得应该坚持的东西,冰哥笔记,https://www.bgbiji.com/894.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-30,1648635928.0
+在体全细胞膜片钳研究综述,无妄当自持,https://www.insidentally.com/articles/000024/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-03-30,1648627233.0
 RuntimeWarning:DateTimeField Session.expire_date received a naive datetime,cywhat's blog,https://cywhat.cn/RuntimeWarningDateTimeField-Session.expire_date-received-a-naive-datetime/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-03-30,1648609003.0
 QWebEngine Cookie处理逻辑,manateelazycat.github.io,//manateelazycat.github.io/qt/linux/2022/03/30/webengine-cookie.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-30,1648598400.0
 如何变得不浮躁？,冰哥笔记,https://www.bgbiji.com/893.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-29,1648546597.0
@@ -47,5 +49,3 @@ Hg hooks 实践历程,4Ark × Blog,https://4ark.me/post/hg-hooks.html,https://4a
 计算机组成原理-计数制与定点数编码,DearXuan的主页,https://blog.dearxuan.com/2022/03/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E6%95%B0%E5%88%B6%E4%B8%8E%E5%AE%9A%E7%82%B9%E6%95%B0%E7%BC%96%E7%A0%81/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-15,1647315600.0
 计算机组成原理-计数制与定点数编码,DearXuan的主页,https://dearxuan.top/2022/03/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E6%95%B0%E5%88%B6%E4%B8%8E%E5%AE%9A%E7%82%B9%E6%95%B0%E7%BC%96%E7%A0%81/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-15,1647315600.0
 KVM 显卡穿透给 Windows,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_15-kvm_windows_gpu_passthrough.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-15,1647302400.0
-书评 | 如何提高学习效率，让知识真正转化为自身价值？,冰哥笔记,https://www.bgbiji.com/887.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-14,1647274175.0
-修改了ssh默认端口如何配置git,Barney's Blog,https://hugo.bnblogs.cc/%E4%BF%AE%E6%94%B9%E4%BA%86ssh%E9%BB%98%E8%AE%A4%E7%AB%AF%E5%8F%A3%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AEgit/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-14,1647241133.0
