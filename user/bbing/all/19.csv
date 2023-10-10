@@ -1,4 +1,34 @@
 title,author,link,home,rss,date,timestamp
+Linux 网络工具中的瑞士军刀 - socat &amp; netcat,This Cute World,https://thiscute.world/posts/socat-netcat/,https://thiscute.world/,https://thiscute.world/index.xml,2021-04-11,1618130293.0
+为 Arch Linux 创建软件包,无妄当自持,https://www.insidentally.com/articles/000010/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-04-07,1617756711.0
+JPA/Hibernate问题汇总,雨临Lewis,https://lewky.cn/posts/jpa-hibernate.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-03-31,1617206850.0
+在 windows 下安装配置 nodejs,无妄当自持,https://www.insidentally.com/articles/000009/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-03-27,1616849231.0
+docsify快速入门,雨临Lewis,https://lewky.cn/posts/docsify-0.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-03-01,1614614325.0
+fonts.googleapis.com访问太慢导致站点加载很慢,雨临Lewis,https://lewky.cn/posts/fonts-googleapis-slow.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-20,1613834015.0
+分享一些有趣的代码注释,雨临Lewis,https://lewky.cn/posts/program-comment-funny.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-19,1613703345.0
+分享一些有趣的前端图形和页面,雨临Lewis,https://lewky.cn/posts/front-end-funny.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-18,1613659858.0
+PostgreSQL - 字符串函数汇总,雨临Lewis,https://lewky.cn/posts/postgresql-string.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-18,1613659443.0
+脚踏实地，仰望星空,This Cute World,https://thiscute.world/posts/no-more-dreams/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-13,1613183576.0
+我在创业公司做技术一年多的一点体会,This Cute World,https://thiscute.world/posts/end-of-the-first-round/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-06,1612572406.0
+远程桌面无法复制粘贴,雨临Lewis,https://lewky.cn/posts/remote-desktop-issue.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-03,1612369575.0
+此时此刻的我,This Cute World,https://thiscute.world/now/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-01,1612160075.0
+曾经的我,This Cute World,https://thiscute.world/history/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-01,1612160075.0
+云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/experience-of-argo-workflows/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
+云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/expirence-of-argo-workflow/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
+Java日期问题汇总,雨临Lewis,https://lewky.cn/posts/java-date-issues.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-01-25,1611589382.0
+secrets 管理工具 Vault 的介绍、安装及使用,This Cute World,https://thiscute.world/posts/expirence-of-vault/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-24,1611451901.0
+secrets 管理工具 Vault 的介绍、安装及使用,This Cute World,https://thiscute.world/posts/experience-of-vault/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-24,1611451901.0
+QEMU/KVM 虚拟化环境的搭建与使用,This Cute World,https://thiscute.world/posts/qemu-kvm-usage/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-17,1610890444.0
+我的小伙伴们,This Cute World,https://thiscute.world/friends/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-15,1610727871.0
+关于,This Cute World,https://thiscute.world/about/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-15,1610727871.0
+山城步道——半山崖线,无妄当自持,https://www.insidentally.com/articles/000008/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-01-12,1610441748.0
+Pulumi 使用体验 - 基础设施代码化,This Cute World,https://thiscute.world/posts/expirence-of-pulumi/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-08,1610103090.0
+Pulumi 使用体验 - 基础设施代码化,This Cute World,https://thiscute.world/posts/experience-of-pulumi/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-08,1610103090.0
+openSUSE 使用指南,This Cute World,https://thiscute.world/posts/opensuse-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-04,1609720941.0
+使用 linux 操作系统，如何优化固态硬盘使用体验,刘超智,https://www.insidentally.com/articles/000007/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-30,1609344203.0
+友链墙,雨临Lewis,https://lewky.cn/friends/,https://lewky.cn/,https://lewky.cn/index.xml,2020-12-26,1608991304.0
+如何使用 Git,刘超智,https://www.insidentally.com/articles/000006/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-18,1608286030.0
+2020 年年终总结,This Cute World,https://thiscute.world/posts/2020-summary/,https://thiscute.world/,https://thiscute.world/index.xml,2020-12-12,1607787900.0
 「小歌行」-景德镇文艺复兴-2020巡演-深圳,This Cute World,https://thiscute.world/posts/jingdezhen-renaissance-band-2020-shenzhen/,https://thiscute.world/,https://thiscute.world/index.xml,2020-11-28,1606535340.0
 linux 开启 samba 服务共享文件,刘超智,https://www.insidentally.com/articles/000005/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-27,1606465965.0
 山城晓雾,刘超智,https://www.insidentally.com/articles/000004/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-25,1606281003.0
@@ -19,33 +49,3 @@ Shell猜数字游戏,qinxs小站,https://7bxing.com/posts/3713cf69/,https://7bxi
 Base64 编码并不唯一,This Cute World,https://thiscute.world/posts/base64-encoding-is-not-unique/,https://thiscute.world/,https://thiscute.world/index.xml,2020-05-30,1590855180.0
 使用 tcpdump 和 Wireshark 进行远程实时抓包分析,This Cute World,https://thiscute.world/posts/tcpdump-and-wireshark/,https://thiscute.world/,https://thiscute.world/index.xml,2020-05-28,1590654026.0
 Git学习,qinxs小站,https://7bxing.com/posts/e28ceec1/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605502.0
-hello world,qinxs小站,https://7bxing.com/posts/d4a1185/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605202.0
-使用 Istio 进行 JWT 身份验证（充当 API 网关）,This Cute World,https://thiscute.world/posts/use-istio-for-jwt-auth/,https://thiscute.world/,https://thiscute.world/index.xml,2020-04-06,1586180906.0
-Linux网络学习笔记（二）：域名解析(DNS)——以 CoreDNS 为例,This Cute World,https://thiscute.world/posts/about-dns-protocol/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-29,1585468163.0
-Java的远程调试Remote Debug,雨临Lewis,https://lewky.cn/posts/java-remote-debug.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-03-17,1584459040.0
-JWT 签名算法 HS256、RS256 及 ES256 及密钥生成,This Cute World,https://thiscute.world/posts/jwt-algorithm-key-generation/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-03,1583215786.0
-2019 年年终总结,This Cute World,https://thiscute.world/posts/2019-summary/,https://thiscute.world/,https://thiscute.world/index.xml,2020-01-31,1580469540.0
-Eclipse - 快捷键篇,雨临Lewis,https://lewky.cn/posts/eclipse-hotkey.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-01-18,1579359889.0
-JDK自带的那些好用的工具,雨临Lewis,https://lewky.cn/posts/jdk-tools.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-01-03,1578034779.0
-Kubernetes 常见错误、原因及处理方法,This Cute World,https://thiscute.world/posts/kubernetes-common-errors-and-solutions/,https://thiscute.world/,https://thiscute.world/index.xml,2019-11-24,1574594814.0
-PostgreSQL - 如何杀死被锁死的进程,雨临Lewis,https://lewky.cn/posts/1514292e.html/,https://lewky.cn/,https://lewky.cn/index.xml,2019-11-14,1573745069.0
-Manjaro 使用指南,This Cute World,https://thiscute.world/posts/manjaro-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2019-07-13,1563021504.0
-逃离我的大学,This Cute World,https://thiscute.world/posts/escape-my-university/,https://thiscute.world/,https://thiscute.world/index.xml,2019-06-20,1561041151.0
-SQLAlchemy 学习笔记（三）：ORM 中的关系构建,This Cute World,https://thiscute.world/posts/sqlalchemy-notes-3-relationship-and-foreignkey/,https://thiscute.world/,https://thiscute.world/index.xml,2019-05-21,1558448340.0
-瘾的退却,This Cute World,https://thiscute.world/posts/webnovel-addiction-recovery/,https://thiscute.world/,https://thiscute.world/index.xml,2019-04-14,1555248452.0
-Python 并发编程：PoolExecutor 篇,This Cute World,https://thiscute.world/posts/python-concurrency-pool-executor/,https://thiscute.world/,https://thiscute.world/index.xml,2019-03-15,1552660440.0
-Python 异步编程笔记：asyncio,This Cute World,https://thiscute.world/posts/python-asyncio/,https://thiscute.world/,https://thiscute.world/index.xml,2019-02-14,1550121060.0
-SQLAlchemy 学习笔记（二）：ORM 基础,This Cute World,https://thiscute.world/posts/sqlalchemy-notes-2-orm-basics/,https://thiscute.world/,https://thiscute.world/index.xml,2019-02-11,1549885920.0
-WebSocket、HTTP/2 与 gRPC,This Cute World,https://thiscute.world/posts/websocket-http2-and-grpc/,https://thiscute.world/,https://thiscute.world/index.xml,2019-02-11,1549880796.0
-Chrome 与 Firefox-Dev 的 DevTools,This Cute World,https://thiscute.world/posts/web-browser-dev-tools/,https://thiscute.world/,https://thiscute.world/index.xml,2019-02-11,1549875206.0
-通过 systemctl 设置自定义 Service,This Cute World,https://thiscute.world/posts/systemd-basics/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-28,1548677580.0
-SQLAlchemy 学习笔记（一）：Engine 与 SQL 表达式语言,This Cute World,https://thiscute.world/posts/sqlalchemy-notes-1-engine-and-sql-expression-language/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-21,1548050520.0
-SQL 基础笔记（三）约束,This Cute World,https://thiscute.world/posts/sql-basics-3-restrict/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-20,1547989726.0
-Julia 学习笔记（一）：数组,This Cute World,https://thiscute.world/posts/julia-notes-1-array/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-14,1547466660.0
-常见压缩格式的区别，及 Linux 下的压缩相关指令,This Cute World,https://thiscute.world/posts/compression-related-instructions-under-linux/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-14,1547466660.0
-在回声中重历,This Cute World,https://thiscute.world/posts/relive-in-the-echo/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-08,1546941345.0
-SQL 基础笔记（二）进阶查询,This Cute World,https://thiscute.world/posts/sql-basics-2-queries/,https://thiscute.world/,https://thiscute.world/index.xml,2018-06-17,1529216266.0
-SQL 基础笔记（一）,This Cute World,https://thiscute.world/posts/sql-basics-1/,https://thiscute.world/,https://thiscute.world/index.xml,2018-06-15,1529051266.0
-Python 视频转字符动画（二）进阶,This Cute World,https://thiscute.world/posts/video2chars-2/,https://thiscute.world/,https://thiscute.world/index.xml,2018-05-25,1527242882.0
-学英语啊学英语,This Cute World,https://thiscute.world/posts/learning-english/,https://thiscute.world/,https://thiscute.world/index.xml,2018-05-16,1526472002.0
-《十二国记》,This Cute World,https://thiscute.world/posts/the-twelve-kingdoms/,https://thiscute.world/,https://thiscute.world/index.xml,2018-04-27,1524797354.0
