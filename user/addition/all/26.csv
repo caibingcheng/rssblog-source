@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Kong 2.6 正式发布啦！,把酒诗代码，趁乱写年华。,https://102no.com/2021/11/16/kong-2.6/,https://102no.com/,https://102no.com/atom.xml,2021-11-15,1636992000.0
 【DB系列】SpringBoot集成Flyway版本迭代框架,框架师,https://www.mobaijun.com/posts/3026103144.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-11-15,1636944077.0
 影响力 = 环境 × 技能,见字如面,https://hiwannz.com/archives/651,https://hiwannz.com,https://hiwannz.com/feed,2021-11-15,1636941195.0
 《扬名立万》--百姓的喜剧，思考者的盛宴,Frank笔记,https://frank2019.me/articles/2021/11/14/1636904583466.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-11-14,1636904842.0
@@ -11,7 +12,7 @@ title,author,link,home,rss,date,timestamp
 谈谈最近的自己。,冰哥笔记,https://www.bgbiji.com/836.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-11-10,1636517474.0
 聊聊最近平淡的生活之又聊通勤,Nicksxs's Blog,https://nicksxs.me/2021/11/07/%E8%81%8A%E8%81%8A%E6%9C%80%E8%BF%91%E5%B9%B3%E6%B7%A1%E7%9A%84%E7%94%9F%E6%B4%BB/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-11-07,1636294038.0
 重新开始,Yuexun's Blog,https://yuexunjiang.me/blog/restart/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-11-05,1636070400.0
-SQL 防注入及原理,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_11_04-sql_injection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-11-04,1635984000.0
+SQL 防注入及原理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_11_04-sql_injection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-11-04,1635984000.0
 分享一些阅读的好习惯,冰哥笔记,https://www.bgbiji.com/835.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-11-03,1635910099.0
 Leetcode 028 实现 strStr() ( Implement strStr() ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2021/10/31/Leetcode-028-%E5%AE%9E%E7%8E%B0-strStr-Implement-strStr-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-31,1635684225.0
 Add Index to My Blog,Bin Wang - My Personal Blog,https://www.binwang.me/2021-10-31-Add-Index-to-My-Blog.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2021-10-31,1635652800.0
@@ -25,13 +26,13 @@ Add Index to My Blog,Bin Wang - My Personal Blog,https://www.binwang.me/2021-10-
 聊一下 RocketMQ 的消息存储四,Nicksxs's Blog,https://nicksxs.me/2021/10/17/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E6%B6%88%E6%81%AF%E5%AD%98%E5%82%A8%E5%9B%9B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-17,1634474494.0
 我为什么又更换了博客域名,近视眼逛博客,https://blog.dtz9.com/2021/10/Why-did-I-change-my-blog-domain-name-again.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-10-16,1634373720.0
 我为什么又更换了博客域名,近视眼逛博客,https://blog.9hz.club/2021/10/Why-did-I-change-my-blog-domain-name-again.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2021-10-16,1634373720.0
-Hax 的免费 IPv6 小鸡服务器,岚天小窝,http://blog.ltya.top/posts/hax-vps.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2021-10-15,1634313600.0
 Hax 的免费 IPv6 小鸡服务器,岚天小窝,https://blog.ltya.top/posts/hax-vps.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2021-10-15,1634313600.0
+Hax 的免费 IPv6 小鸡服务器,岚天小窝,http://blog.ltya.top/posts/hax-vps.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2021-10-15,1634313600.0
 如何解决时间焦虑？,冰哥笔记,https://www.bgbiji.com/830.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-10-14,1634194155.0
 【转载】黄国平博士[致谢]完整版，人生失去动力的时候读一读,框架师,https://www.mobaijun.com/posts/294529322.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-14,1634181533.0
 别花费太多时间回答客户的问题,见字如面,https://hiwannz.com/archives/635,https://hiwannz.com,https://hiwannz.com/feed,2021-10-13,1634092884.0
 【DB系列】SpringBoot实现MySQL数据库备份与还原,框架师,https://www.mobaijun.com/posts/2334558877.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-12,1634023174.0
-使用 gomock 测试 Go 代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_10_12-go_mock.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-12,1633996800.0
+使用 gomock 测试 Go 代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_10_12-go_mock.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-12,1633996800.0
 【Git系列】Git 仓库体积过大，缩减记录,框架师,https://www.mobaijun.com/posts/2432586935.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-11,1633917948.0
 gevent不是黑魔法(二): gevent 实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_10_11-gevent_is_good_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-11,1633910400.0
 重看了下《蛮荒记》说说感受,Nicksxs's Blog,https://nicksxs.me/2021/10/10/%E9%87%8D%E7%9C%8B%E4%BA%86%E4%B8%8B%E3%80%8A%E8%9B%AE%E8%8D%92%E8%AE%B0%E3%80%8B%E8%AF%B4%E8%AF%B4%E6%84%9F%E5%8F%97/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-10,1633869863.0
@@ -42,10 +43,9 @@ Leetcode 021 合并两个有序链表 ( Merge Two Sorted Lists ) 题解分析,Ni
 重建旧宅，死了人——无常的日常,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/rebuild-the-old-house.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-10-04,1633344360.0
 收到一位博主的红包,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/red-envelope-and-saveweb.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-10-03,1633286160.0
 聊一下 RocketMQ 的消息存储三,Nicksxs's Blog,https://nicksxs.me/2021/10/03/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E6%B6%88%E6%81%AF%E5%AD%98%E5%82%A8%E4%B8%89/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-03,1633263457.0
-gevent不是黑魔法(一): greenlet 实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_29-gevent_is_good_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-29,1632873600.0
+gevent不是黑魔法(一): greenlet 实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_09_29-gevent_is_good_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-29,1632873600.0
 [转载] 风声鹤唳,Frank笔记,https://frank2019.me/articles/2021/09/28/1632806116085.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-09-28,1632806116.0
 GTO策略简化理解,Frank笔记,https://frank2019.me/articles/2021/09/27/1632719482026.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-09-27,1632719482.0
 聊一下 SpringBoot 中动态切换数据源的方法,Nicksxs's Blog,https://nicksxs.me/2021/09/26/%E8%81%8A%E4%B8%80%E4%B8%8B-SpringBoot-%E4%B8%AD%E5%8A%A8%E6%80%81%E5%88%87%E6%8D%A2%E6%95%B0%E6%8D%AE%E6%BA%90%E7%9A%84%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-09-26,1632649309.0
 【MySQL系列】MySQL数据库备份与恢复-使用MySQLDump记录,框架师,https://www.mobaijun.com/posts/2902111757.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-26,1632642935.0
 从零开始写一个 Web Component - GitHub Corners,云游君的小站,https://www.yunyoujun.cn/posts/how-to-write-a-web-component/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-09-25,1632565657.0
-花呗,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/ant-huabei.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-09-25,1632545040.0
