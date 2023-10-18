@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+感谢北门清燕童靴帮忙开发的云存档插件,杜老师说,https://dusays.com/532/,https://dusays.com/,https://dusays.com/atom.xml,2022-12-05,1670256000.0
 Ubuntu20.04使用记录,Barney's Blog,https://hugo.bnblogs.cc/ubuntu20.04%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-12-05,1670251293.0
 最近头疼二三事,瓦解的生活记事,https://hin.cool/posts/fanxiangshiluo.html,https://hin.cool/,https://hin.cool/atom.xml,2022-12-05,1670229002.0
 杜老师说旗下头像生成平台,杜老师说,https://dusays.com/531/,https://dusays.com/,https://dusays.com/atom.xml,2022-12-02,1669996800.0
@@ -26,12 +27,12 @@ java-接口、lambda表达式,Barney's Blog,https://hugo.bnblogs.cc/java-4/,http
 Jenkins插件无法安装解决,cywhat's blog,https://cywhat.cn/Jenkins%E6%8F%92%E4%BB%B6%E6%97%A0%E6%B3%95%E5%AE%89%E8%A3%85%E8%A7%A3%E5%86%B3/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-15,1668497251.0
 Jenkins报错 Bash:newman:command Not Found,cywhat's blog,https://cywhat.cn/Jenkins%E6%8A%A5%E9%94%99-bashnewmancommand-not-found/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-15,1668496771.0
 挂机放置类小游戏,杜老师说,https://dusays.com/525/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-14,1668441600.0
-dotfiles之外的一些应用,Bing's Blog,https://imcbc.cn/202211/dotfiles-more/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
 dotfiles之外的一些应用,Bing's Blog,https://bbing.com.cn/202211/dotfiles-more/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
+dotfiles之外的一些应用,Bing's Blog,https://imcbc.cn/202211/dotfiles-more/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
 java-继承和多态,Barney's Blog,https://hugo.bnblogs.cc/java-3/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-13,1668325344.0
 java多线程和锁,Barney's Blog,https://hugo.bnblogs.cc/java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%92%8C%E9%94%81/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-12,1668248382.0
-稳定建站服务器:蓝易云,DearXuan的主页,https://blog.dearxuan.com/2022/11/12/%E7%A8%B3%E5%AE%9A%E5%BB%BA%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8-%E8%93%9D%E6%98%93%E4%BA%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-11-12,1668224264.0
 稳定建站服务器:蓝易云,DearXuan的主页,https://blog.dearxuan.com/2022/11/12/%E8%93%9D%E6%98%93%E4%BA%91-%E5%BB%BA%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-11-12,1668224264.0
+稳定建站服务器:蓝易云,DearXuan的主页,https://blog.dearxuan.com/2022/11/12/%E7%A8%B3%E5%AE%9A%E5%BB%BA%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8-%E8%93%9D%E6%98%93%E4%BA%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-11-12,1668224264.0
 杜老师建站史,杜老师说,https://dusays.com/524/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-11,1668182400.0
 Linux安装newman生成postman脚本报告,cywhat's blog,https://cywhat.cn/Linux%E5%AE%89%E8%A3%85newman%E7%94%9F%E6%88%90postman%E8%84%9A%E6%9C%AC%E6%8A%A5%E5%91%8A/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-10,1668064091.0
 拖拽式邮件模板编辑器,杜老师说,https://dusays.com/523/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-08,1667923200.0
@@ -48,4 +49,3 @@ Hugo创建个人网站并部署到vps,Barney's Blog,https://hugo.bnblogs.cc/hugo
 个人云服务器搭建git服务器,Barney's Blog,https://hugo.bnblogs.cc/%E4%B8%AA%E4%BA%BA%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BAgit%E6%9C%8D%E5%8A%A1%E5%99%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-31,1667198819.0
 杜老师提供非自助服务状态监控平台,杜老师说,https://dusays.com/520/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-30,1667145600.0
 NAT 的级别是指什么,杜老师说,https://dusays.com/519/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-27,1666886400.0
-去不图床运营策略调整,杜老师说,https://dusays.com/518/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-24,1666627200.0
