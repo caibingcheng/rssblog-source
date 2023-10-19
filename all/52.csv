@@ -1,10 +1,11 @@
 title,author,link,home,rss,date,timestamp
+你好，2021！,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_22-hello_2021.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-22,1608595200.0
 常用Git相关命令行,沐云湘夕—求索,https://quest.myxxts.club/archives/28/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608441060.0
 必应每日壁纸（刷新更换）,沐云湘夕—求索,https://quest.myxxts.club/archives/25/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608440340.0
 gRPC鉴权方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_19-grpc_authentication.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-19,1608336000.0
 如何使用 Git,无妄当自持,https://www.insidentally.com/articles/000006/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-18,1608286030.0
 站点通知,沐云湘夕,https://quest.myxxts.club/archives/15/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-17,1608218940.0
-Golang里数据库migration方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800.0
+Golang里数据库migration方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800.0
 Redis Implementation for Cache and Database Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-12-14-Redis-Implementation-for-Cache-and-Database-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-12-14,1607922000.0
 2020 年年终总结,This Cute World,https://thiscute.world/posts/2020-summary/,https://thiscute.world/,https://thiscute.world/index.xml,2020-12-12,1607787900.0
 如何找到你朋友的社交账号,云游君的小站,https://www.yunyoujun.cn/posts/find-npy-social-account,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-12-12,1607731380.0
@@ -19,8 +20,8 @@ Undefined,FlyingSky's Blog,https://blog.fsky7.com/archives/173/,https://blog.fsk
 Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-29-Keep-Data-Consistency-During-Database-Migration.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-29,1606626000.0
 「小歌行」-景德镇文艺复兴-2020巡演-深圳,This Cute World,https://thiscute.world/posts/jingdezhen-renaissance-band-2020-shenzhen/,https://thiscute.world/,https://thiscute.world/index.xml,2020-11-28,1606535340.0
 linux 开启 samba 服务共享文件,无妄当自持,https://www.insidentally.com/articles/000005/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-27,1606465965.0
-旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,https://luolei.org/pamu-quiet/,https://luolei.org/,https://luolei.org/feed/,2020-11-26,1606398780.0
 旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,http://luolei.org/pamu-quiet/,https://luolei.org/,https://luolei.org/feed/,2020-11-26,1606398780.0
+旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,https://luolei.org/pamu-quiet/,https://luolei.org/,https://luolei.org/feed/,2020-11-26,1606398780.0
 gRPC错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_26-grpc_error_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-26,1606348800.0
 山城晓雾,无妄当自持,https://www.insidentally.com/articles/000004/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-25,1606281003.0
 眺望渝中,无妄当自持,https://www.insidentally.com/articles/000003/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-23,1606118148.0
@@ -28,8 +29,8 @@ gRPC错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_
 从 Vite 与 Vue 开始的 D3 数据可视化之旅,云游君的小站,https://www.yunyoujun.cn/posts/vue-d3-demo/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-21,1605959769.0
 这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯,罗磊的独立博客,http://luolei.org/warsun-portable-y40-led-light/,https://luolei.org/,https://luolei.org/feed/,2020-11-20,1605876282.0
 这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯,罗磊的独立博客,https://luolei.org/warsun-portable-y40-led-light/,http://luolei.org/,https://luolei.org/feed/,2020-11-20,1605876282.0
-老鞋续命，我给一双穿了5年的沙漠靴修鞋底,罗磊的独立博客,http://luolei.org/clarks-desert-boot-resole/,https://luolei.org/,https://luolei.org/feed/,2020-11-17,1605622348.0
 老鞋续命，我给一双穿了5年的沙漠靴修鞋底,罗磊的独立博客,https://luolei.org/clarks-desert-boot-resole/,https://luolei.org/,https://luolei.org/feed/,2020-11-17,1605622348.0
+老鞋续命，我给一双穿了5年的沙漠靴修鞋底,罗磊的独立博客,http://luolei.org/clarks-desert-boot-resole/,https://luolei.org/,https://luolei.org/feed/,2020-11-17,1605622348.0
 带老婆去华强北买 iPhone 12 手机壳,罗磊的独立博客,https://luolei.org/iphone-shell-supermarket/,https://luolei.org/,https://luolei.org/feed/,2020-11-14,1605326464.0
 Java collection的结构,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_13-java_colletions.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-13,1605225600.0
 超额下注策略,Frank笔记,https://frank2019.me/archives/chao-e-xia-zhu-ce-lue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-11-12,1605162660.0
@@ -46,6 +47,5 @@ Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.bin
 ServerStatus中文版部署,Frank笔记,https://frank2019.me/archives/serverstatuszhong-wen-ban-bu-shu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-27,1603776360.0
 安装使用hexo,无妄当自持,https://www.insidentally.com/articles/000001/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-27,1603760862.0
 Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
-回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
 回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
-通过阳台种菜实现蔬菜自由,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
+回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0

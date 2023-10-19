@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+随想,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_16-tittle_tattle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-16,1552694400.0
 Python 并发编程：PoolExecutor 篇,This Cute World,https://thiscute.world/posts/python-concurrency-pool-executor/,https://thiscute.world/,https://thiscute.world/index.xml,2019-03-15,1552660440.0
 Initial 简约主题的本站食用方式,FlyingSky's Blog,https://blog.fsky7.com/archives/49/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-03-15,1552660320.0
 Golang中的错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_15-golang_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-15,1552608000.0
@@ -20,7 +21,7 @@ SQLAlchemy 学习笔记（二）：ORM 基础,This Cute World,https://thiscute.w
 WebSocket、HTTP/2 与 gRPC,This Cute World,https://thiscute.world/posts/websocket-http2-and-grpc/,https://thiscute.world/,https://thiscute.world/index.xml,2019-02-11,1549880796.0
 Chrome 与 Firefox-Dev 的 DevTools,This Cute World,https://thiscute.world/posts/web-browser-dev-tools/,https://thiscute.world/,https://thiscute.world/index.xml,2019-02-11,1549875206.0
 导出「你的日记」与导入「一本日记」,云游君的小站,https://www.yunyoujun.cn/note/export-nideriji-and-import-1diary/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-01-31,1548923883.0
-记一次Golang TLS编程踩坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_01_30-golang_tls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-30,1548806400.0
+记一次Golang TLS编程踩坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_30-golang_tls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-30,1548806400.0
 给博客添加 DARK Mode ( 黑暗模式 ),FlyingSky's Blog,https://blog.fsky7.com/archives/46/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-01-29,1548768300.0
 给博客添加 DARK Mode (黑暗模式),FlyingSky's Blog,https://blog.fsky7.com/technology/66,https://blog.fsky7.com,https://blog.fsky7.com/feed,2019-01-29,1548734400.0
 Vue 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-learn-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-01-28,1548698304.0
@@ -37,15 +38,14 @@ Julia 学习笔记（一）：数组,This Cute World,https://thiscute.world/post
 不越狱在 iOS 12.113.3 设备安装 Kodi,萤火之森,http://frankorz.com/2019/01/13/install-kodi-with-tweakbox/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-01-13,1547402460.0
 杂谈,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_13-goroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-13,1547337600.0
 使用autossh实现内网穿透,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_12-autossh.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-12,1547251200.0
-告别B站魔性封面，UP主只需要10秒就能学会的创作技巧 | ZUOLUOTV | VLOG27,罗磊的独立博客,https://luolei.org/tips-for-bilibili-video-cover,https://luolei.org,https://luolei.org/feed/,2019-01-12,1547251200.0
 去美国旅行，不要用一加的国际上网|  eSIM境外上网跳坑记 | VLOG28,罗磊的独立博客,https://luolei.org/oneplus-esim-usa-travel,https://luolei.org,https://luolei.org/feed/,2019-01-12,1547251200.0
+告别B站魔性封面，UP主只需要10秒就能学会的创作技巧 | ZUOLUOTV | VLOG27,罗磊的独立博客,https://luolei.org/tips-for-bilibili-video-cover,https://luolei.org,https://luolei.org/feed/,2019-01-12,1547251200.0
 本博客的赞助渠道,Randy's Blog,https://lutaonan.com/blog/donation/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-01-10,1547078400.0
 在回声中重历,This Cute World,https://thiscute.world/posts/relive-in-the-echo/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-08,1546941345.0
-2018 年终总结,Randy's Blog,https://lutaonan.com/blog/2018-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-01-07,1546819200.0
 Linux线程内存模型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_07-linux_thread_mem_layout.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-07,1546819200.0
+2018 年终总结,Randy's Blog,https://lutaonan.com/blog/2018-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-01-07,1546819200.0
 Unity 开源双端框架 ET 中初尝热更新技术,萤火之森,http://frankorz.com/2019/01/06/hotfix-introduction-of-unity-et-framework/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-01-06,1546807363.0
 关闭手机通知，修复碎片化的生活,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_03-drop_notifications.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-03,1546473600.0
 Authlib Under BSD License,Just lepture,https://lepture.com/en/2019/authlib-bsd-license,https://lepture.com/,https://lepture.com/feed.xml,2019-01-01,1546334189.0
-Linux下系统调用的过程,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_01_01-system_call.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-01,1546300800.0
-2018 年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2018-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2018-12-30,1546212781.0
+Linux下系统调用的过程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_01-system_call.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-01,1546300800.0
 2018 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2018-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-12-30,1546212781.0

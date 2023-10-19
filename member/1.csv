@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
-脱钩: 我的个人网络安全策略,罗磊的独立博客,https://luolei.org/personal-decoupling-cybersecurity,https://luolei.org,https://luolei.org/feed/,2023-10-19,1697711200.0
+2023 Mac mini 外挂硬盘升级方案: 打造 2TB 苹果电脑,罗磊的独立博客,https://luolei.org/2023-mac-mini-ssd-upgrade-experience,https://luolei.org,https://luolei.org/feed/,2023-10-19,1697732790.0
+设置 VirtualBox 虚拟机为静态 ip 以方便主机访问,无妄当自持,https://www.insidentally.com/articles/000035/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2023-10-19,1697704468.0
 neutrino-proxy 内网穿透更多的选择,杜老师说,https://dusays.com/637/,https://dusays.com/,https://dusays.com/atom.xml,2023-10-17,1697558400.0
 PromQL 备忘,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_10_17-prometheus_promql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-10-17,1697500800.0
 罗目古镇：峨眉山下喜相逢,Macin,https://macin.org/2023/10/16/luo-mu-gu-zhen/,https://macin.org/,https://www.macin.org/atom.xml,2023-10-16,1697486750.0
@@ -29,7 +30,6 @@ OKR 落地困难的原因,见字如面,https://hiwannz.com/archives/831,https://
 开发一个浏览器插件在第三天卖出 1000 元,Randy's Blog,https://lutaonan.com/blog/my-extension-sold-1k-yuan/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2023-07-30,1690675200.0
 Chrome问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/chrome-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2023-07-25,1690291117.0
 Chrome问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/chrome-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2023-07-25,1690291117.0
-在启用安全启动的 Fedora 中安装 Nvidia 驱动,无妄当自持,https://www.insidentally.com/articles/000034/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2023-07-20,1689831948.0
 3000元装机和NAS升级,Bing's Blog,https://imcbc.cn/202307/3k-diypc-nasup/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2023-07-18,1689658083.0
 我发现了个便宜主机,Muidar's Site,https://muidar.com/posts/cmuidar/i-found-a-cheap-vps/,https://muidar.com,https://muidar.com/feed,2023-07-16,1689510583.0
 Jmeter进行分布式压测,cywhat's blog,https://cywhat.cn/Jmeter%E8%BF%9B%E8%A1%8C%E5%88%86%E5%B8%83%E5%BC%8F%E5%8E%8B%E6%B5%8B/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-06-27,1687848462.0
