@@ -1,7 +1,7 @@
 title,author,link,home,rss,date,timestamp
 【技术分享】Tupper's Self-Referential Formula 塔珀自指公式,城南以南花亦开,https://coonaa.cn/index.php/archives/153/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-23,1629704520.0
-github个人主页的创建方法,DearXuan的主页,https://dearxuan.top/2021/08/22/github%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E7%9A%84%E5%88%9B%E5%BB%BA%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-22,1629623940.0
 github个人主页的创建方法,DearXuan的主页,https://blog.dearxuan.com/2021/08/22/github%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E7%9A%84%E5%88%9B%E5%BB%BA%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-22,1629623940.0
+github个人主页的创建方法,DearXuan的主页,https://dearxuan.top/2021/08/22/github%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E7%9A%84%E5%88%9B%E5%BB%BA%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-22,1629623940.0
 selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary,cywhat's blog,https://cywhat.cn/selenium-common-exceptions-WebDriverException-Message-unknown-error-cannot-find-Chrome-binary/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-20,1629480201.0
 Centos7安装chrome浏览器,cywhat's blog,https://cywhat.cn/Centos7%E5%AE%89%E8%A3%85chrome%E6%B5%8F%E8%A7%88%E5%99%A8/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-20,1629479325.0
 libvulkan.so.1()(64bit)缺少依赖,cywhat's blog,https://cywhat.cn/libvulkan-so-1-64bit-%E7%BC%BA%E5%B0%91%E4%BE%9D%E8%B5%96/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-20,1629479084.0
@@ -10,15 +10,15 @@ SpringBoot问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/springboot-issue
 Mysql连接以及增删改查语句,cywhat's blog,https://cywhat.cn/mysql%E8%BF%9E%E6%8E%A5%E4%BB%A5%E5%8F%8A%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5%E8%AF%AD%E5%8F%A5/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-18,1629304875.0
 解决hexo图片不展示问题,cywhat's blog,https://cywhat.cn/%E8%A7%A3%E5%86%B3hexo%E5%9B%BE%E7%89%87%E4%B8%8D%E5%B1%95%E7%A4%BA%E9%97%AE%E9%A2%98/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-18,1629303160.0
 newman生成好看的html报告,cywhat's blog,https://cywhat.cn/newman%E7%94%9F%E6%88%90%E5%A5%BD%E7%9C%8B%E7%9A%84html%E6%8A%A5%E5%91%8A/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-18,1629283089.0
-平方根倒数快速算法,DearXuan的主页,https://dearxuan.top/2021/08/18/%E5%B9%B3%E6%96%B9%E6%A0%B9%E5%80%92%E6%95%B0%E5%BF%AB%E9%80%9F%E7%AE%97%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-18,1629282000.0
 平方根倒数快速算法,DearXuan的主页,https://blog.dearxuan.com/2021/08/18/%E5%B9%B3%E6%96%B9%E6%A0%B9%E5%80%92%E6%95%B0%E5%BF%AB%E9%80%9F%E7%AE%97%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-18,1629282000.0
+平方根倒数快速算法,DearXuan的主页,https://dearxuan.top/2021/08/18/%E5%B9%B3%E6%96%B9%E6%A0%B9%E5%80%92%E6%95%B0%E5%BF%AB%E9%80%9F%E7%AE%97%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-18,1629282000.0
 sed: -e expression #1， char 24: unknown option to 's',cywhat's blog,https://cywhat.cn/sed-e-expression-1-char-24-unknown-option-to-s/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-17,1629224124.0
 Manjaro升级错误解决方法,辛未羊的网络日志,https://panqiincs.me/2021/08/17/manjaro-update-errors/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2021-08-17,1629180004.0
 没有新的衣服能让你爱恋,LonelyGod,https://hin.cool/posts/hunger.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-08-17,1629158400.0
 iptables 及 docker 容器网络分析,This Cute World,https://thiscute.world/posts/iptables-and-container-networks/,https://thiscute.world/,https://thiscute.world/index.xml,2021-08-15,1629025889.0
 Linux 中的虚拟网络接口,This Cute World,https://thiscute.world/posts/linux-virtual-network-interfaces/,https://thiscute.world/,https://thiscute.world/index.xml,2021-08-14,1628910783.0
-C#的GPU加速方法,DearXuan的主页,https://dearxuan.top/2021/08/13/C-%E7%9A%84GPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-13,1628835060.0
 C#的GPU加速方法,DearXuan的主页,https://blog.dearxuan.com/2021/08/13/C-%E7%9A%84GPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-13,1628835060.0
+C#的GPU加速方法,DearXuan的主页,https://dearxuan.top/2021/08/13/C-%E7%9A%84GPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-13,1628835060.0
 AirConnect——智能音箱Airplay或DLNA支持方案,LonelyGod,https://hin.cool/posts/airconnect.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-08-12,1628726400.0
 【安装教程】Kali Linux 2021.2在VMware和VirtualBox安装教程 超简单 步骤详细讲解,城南以南花亦开,https://coonaa.cn/index.php/archives/52/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-11,1628652060.0
 PowerMock问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/powermock-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-10,1628608384.0
@@ -27,8 +27,8 @@ Spring问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-issues/,https
 iReport问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/ireport-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-08,1628430368.0
 【日常分享】境来不拒，境去不留,城南以南花亦开,https://coonaa.cn/index.php/archives/36/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-08,1628416020.0
 Log4j、Log4j2问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/log4j2-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-07,1628349834.0
-Wallpaper透视效果的C++实现,DearXuan的主页,https://dearxuan.top/2021/08/07/Wallpaper%E9%80%8F%E8%A7%86%E6%95%88%E6%9E%9C%E7%9A%84C-%E5%AE%9E%E7%8E%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-07,1628344440.0
 Wallpaper透视效果的C++实现,DearXuan的主页,https://blog.dearxuan.com/2021/08/07/Wallpaper%E9%80%8F%E8%A7%86%E6%95%88%E6%9E%9C%E7%9A%84C-%E5%AE%9E%E7%8E%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-07,1628344440.0
+Wallpaper透视效果的C++实现,DearXuan的主页,https://dearxuan.top/2021/08/07/Wallpaper%E9%80%8F%E8%A7%86%E6%95%88%E6%9E%9C%E7%9A%84C-%E5%AE%9E%E7%8E%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-07,1628344440.0
 IDEA问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/idea-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-06,1628260917.0
 【技术分享】C语言实现简单的Web服务器,城南以南花亦开,https://coonaa.cn/index.php/archives/29/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-06,1628215200.0
 博客园SimpleMemory皮肤定制化,Yulin Lewis' Blog,https://lewky.cn/posts/cnblogs-skin/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-05,1628174657.0
@@ -36,8 +36,8 @@ npm问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/npm-issues/,https://lew
 git基础,Barney's Blog,https://hugo.bnblogs.cc/git%E5%9F%BA%E7%A1%80/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-08-02,1627879594.0
 vim入门,Barney's Blog,https://hugo.bnblogs.cc/vim%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-07-31,1627743160.0
 现代C++容易忽略的一些特性,BBing's Blog,https://bbing.com.cn/202107/cpp-modern-feature/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-07-30,1627645645.0
-猫盘群晖DSM7.0三合一修复（8.18更新）,瓦解的生活记事,https://www.hin.cool/posts/catdriver.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-07-30,1627603200.0
 猫盘群晖DSM7.0三合一修复（8.18更新）,LonelyGod,https://hin.cool/posts/catdriver.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-07-30,1627603200.0
+猫盘群晖DSM7.0三合一修复（8.18更新）,瓦解的生活记事,https://www.hin.cool/posts/catdriver.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-07-30,1627603200.0
 Maven问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/maven-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-07-29,1627571996.0
 使用C++实现的仿Wallpaper动态壁纸软件(含源文件),DearXuan的主页,https://dearxuan.top/2021/07/28/%E4%BD%BF%E7%94%A8C-%E5%AE%9E%E7%8E%B0%E7%9A%84%E4%BB%BFWallpaper%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%E8%BD%AF%E4%BB%B6/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-28,1627465560.0
 使用C++实现的仿Wallpaper动态壁纸软件(含源文件),DearXuan的主页,https://blog.dearxuan.com/2021/07/28/%E4%BD%BF%E7%94%A8C-%E5%AE%9E%E7%8E%B0%E7%9A%84%E4%BB%BFWallpaper%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%E8%BD%AF%E4%BB%B6/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-28,1627465560.0
@@ -45,7 +45,7 @@ Maven问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/maven-issues/,https:/
 猫盘群晖DSM7.0的frpc配置,LonelyGod,https://hin.cool/posts/nasfrpc2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-07-28,1627430400.0
 Wallpaper的原理和C#实现(含源文件),DearXuan的主页,https://blog.dearxuan.com/2021/07/27/Wallpaper%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8CC-%E5%AE%9E%E7%8E%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-27,1627358940.0
 Wallpaper的原理和C#实现(含源文件),DearXuan的主页,https://dearxuan.top/2021/07/27/Wallpaper%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8CC-%E5%AE%9E%E7%8E%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-27,1627358940.0
-针对内存修改的反作弊方法,DearXuan的主页,https://dearxuan.top/2021/07/25/%E9%92%88%E5%AF%B9%E5%86%85%E5%AD%98%E4%BF%AE%E6%94%B9%E7%9A%84%E5%8F%8D%E4%BD%9C%E5%BC%8A%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-25,1627192260.0
 针对内存修改的反作弊方法,DearXuan的主页,https://blog.dearxuan.com/2021/07/25/%E9%92%88%E5%AF%B9%E5%86%85%E5%AD%98%E4%BF%AE%E6%94%B9%E7%9A%84%E5%8F%8D%E4%BD%9C%E5%BC%8A%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-25,1627192260.0
-PVZ逆向分析与C#内存操作(含源文件),DearXuan的主页,https://dearxuan.top/2021/07/19/PVZ%E9%80%86%E5%90%91%E5%88%86%E6%9E%90%E4%B8%8EC-%E5%86%85%E5%AD%98%E6%93%8D%E4%BD%9C/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-19,1626692580.0
+针对内存修改的反作弊方法,DearXuan的主页,https://dearxuan.top/2021/07/25/%E9%92%88%E5%AF%B9%E5%86%85%E5%AD%98%E4%BF%AE%E6%94%B9%E7%9A%84%E5%8F%8D%E4%BD%9C%E5%BC%8A%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-25,1627192260.0
 PVZ逆向分析与C#内存操作(含源文件),DearXuan的主页,https://blog.dearxuan.com/2021/07/19/PVZ%E9%80%86%E5%90%91%E5%88%86%E6%9E%90%E4%B8%8EC-%E5%86%85%E5%AD%98%E6%93%8D%E4%BD%9C/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-19,1626692580.0
+PVZ逆向分析与C#内存操作(含源文件),DearXuan的主页,https://dearxuan.top/2021/07/19/PVZ%E9%80%86%E5%90%91%E5%88%86%E6%9E%90%E4%B8%8EC-%E5%86%85%E5%AD%98%E6%93%8D%E4%BD%9C/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-19,1626692580.0
