@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+追随梦想,Frank笔记,https://frank2019.me/articles/2019/09/04/1567578966259.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-15,1678901102.0
+MBTI as method,Another Dayu,https://anotherdayu.com/2023/5002/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-03-15,1678898078.0
 加入 Vultr 免费层计划,杜老师说,https://dusays.com/565/,https://dusays.com/,https://dusays.com/atom.xml,2023-03-14,1678809600.0
 我和街头摄影,Another Dayu,https://anotherdayu.com/2023/4984/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-03-14,1678766680.0
 Infrastructure Setup for High Availability,Bin Wang - My Personal Blog,https://www.binwang.me/2023-03-13-Infrastructure-Setup-for-High-Availability.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-03-13,1678680000.0
@@ -19,9 +21,9 @@ mybatis系列-sql 类的简单使用,Nicksxs's Blog,https://nicksxs.me/2023/03/1
 OpenAI API 和 ChatGPT Plus 使用体验,Another Dayu,https://anotherdayu.com/2023/4950/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-03-11,1678512419.0
 民主集中制的消亡,Frank笔记,https://frank2019.me/articles/2023/03/10/1678482362705.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-10,1678482362.0
 Centos7配置记录,Barney's Blog,https://hugo.bnblogs.cc/centos7%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-10,1678430897.0
+【转载】naive节点搭建,Frank笔记,https://frank2019.me/archives/zhuan-zai-naivejie-dian-da-jian,https://frank2019.me/,https://frank2019.me/rss.xml,2023-03-09,1678389540.0
 【转载】naive节点搭建,Frank笔记,/archives/zhuan-zai-naivejie-dian-da-jian,/,https://frank2019.me/rss.xml,2023-03-09,1678389540.0
 【转载】naive节点搭建,Frank笔记,http://frank2019.me/archives/zhuan-zai-naivejie-dian-da-jian,http://frank2019.me/,https://frank2019.me/rss.xml,2023-03-09,1678389540.0
-【转载】naive节点搭建,Frank笔记,https://frank2019.me/archives/zhuan-zai-naivejie-dian-da-jian,https://frank2019.me/,https://frank2019.me/rss.xml,2023-03-09,1678389540.0
 民主集中制的消亡,Frank笔记,https://frank2019.me/archives/min-zhu-ji-zhong-zhi-de-xiao-wang,https://frank2019.me/,https://frank2019.me/rss.xml,2023-03-09,1678389480.0
 民主集中制的消亡,Frank笔记,http://frank2019.me/archives/min-zhu-ji-zhong-zhi-de-xiao-wang,http://frank2019.me/,https://frank2019.me/rss.xml,2023-03-09,1678389480.0
 民主集中制的消亡,Frank笔记,/archives/min-zhu-ji-zhong-zhi-de-xiao-wang,/,https://frank2019.me/rss.xml,2023-03-09,1678389480.0
@@ -40,12 +42,10 @@ MyBatis-Plus使用记录,Barney's Blog,https://hugo.bnblogs.cc/mybatis-plus%E4%B
 小工周记一,Nicksxs's Blog,https://nicksxs.me/2023/03/05/%E5%B0%8F%E5%B7%A5%E5%91%A8%E8%AE%B0%E4%B8%80/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-03-05,1678026840.0
 EE 入门（二） - 使用 ESP32 与 SPI 显示屏绘图、显示图片、跑贪吃蛇,This Cute World,https://thiscute.world/posts/ee-basics-2-esp32-display/,https://thiscute.world/,https://thiscute.world/index.xml,2023-03-05,1678024621.0
 SpringBoot集成SpringDoc和Knife4j,Barney's Blog,https://hugo.bnblogs.cc/knife4j-openapi3/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-05,1678017396.0
-Windows自定义开机Logo,Muidar's Site,https://muidar.com/posts/cmuidar/custom-boot-logo-in-windows/,https://muidar.com,https://muidar.com/feed,2023-03-05,1678006146.0
 Windows自定义开机Logo,Muidar's Site,https://www.muidar.com/posts/cmuidar/custom-boot-logo-in-windows/,https://www.muidar.com,https://muidar.com/feed,2023-03-05,1678006146.0
+Windows自定义开机Logo,Muidar's Site,https://muidar.com/posts/cmuidar/custom-boot-logo-in-windows/,https://muidar.com,https://muidar.com/feed,2023-03-05,1678006146.0
 SpringBoot问题记录,Barney's Blog,https://hugo.bnblogs.cc/springboot%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-05,1677997892.0
-GFW封禁IP及端口逻辑,Frank笔记,https://frank2019.me/archives/gfwfeng-jin-ipji-duan-kou-luo-ji,https://frank2019.me/,https://frank2019.me/rss.xml,2023-03-04,1677957360.0
 GFW封禁IP及端口逻辑,Frank笔记,http://frank2019.me/archives/gfwfeng-jin-ipji-duan-kou-luo-ji,http://frank2019.me/,https://frank2019.me/rss.xml,2023-03-04,1677957360.0
+GFW封禁IP及端口逻辑,Frank笔记,https://frank2019.me/archives/gfwfeng-jin-ipji-duan-kou-luo-ji,https://frank2019.me/,https://frank2019.me/rss.xml,2023-03-04,1677957360.0
 GFW封禁IP及端口逻辑,Frank笔记,/archives/gfwfeng-jin-ipji-duan-kou-luo-ji,/,https://frank2019.me/rss.xml,2023-03-04,1677957360.0
 爬山,醉里博客,https://202271.xyz/post/19315/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-03-04,1677946398.0
-Spring Boot集成Swagger2,Barney's Blog,https://hugo.bnblogs.cc/swagger%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-04,1677936488.0
-最近那点事,Frank笔记,https://frank2019.me/articles/2019/09/04/1567579717884.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-04,1677915938.0
