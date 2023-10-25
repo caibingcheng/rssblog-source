@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Tomcat 系列篇三-介绍下 Coyote,Nicksxs's Blog,https://nicksxs.me/2023/09/24/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E4%B8%89-%E4%BB%8B%E7%BB%8D%E4%B8%8B-Coyote/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-09-24,1695562603.0
 MYNUS：一款优缺点同样明显的手机壳,Another Dayu,https://anotherdayu.com/2023/5362/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-09-24,1695552378.0
 Jekyll Plugin to Load Asciinema Recordings Locally,Bin Wang - My Personal Blog,https://www.binwang.me/2023-09-24-Jekyll-Plugin-to-Load-Asciicast-Locally.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-09-24,1695528000.0
 Migrate Scala2grpc to Cats Effect 3,Bin Wang - My Personal Blog,https://www.binwang.me/2023-09-23-Migrate-Scala2Grpc-to-Cats-Effect-3.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-09-23,1695441600.0
@@ -21,8 +22,8 @@ Tomcat 系列篇一-介绍下 connector,Nicksxs's Blog,https://nicksxs.me/2023/0
 盐——回忆之5,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/mem-5.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2023-09-05,1693929510.0
 FM广播、站起来及汶川地震——回忆之1～4,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/mem-1-to-4.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2023-09-05,1693929420.0
 请 ChatGPT 帮我配置 Nginx,见字如面,https://hiwannz.com/archives/850.html,https://hiwannz.com/,https://hiwannz.com/feed,2023-09-05,1693901036.0
-不要被虚假新闻蒙蔽了双眼,Frank笔记,https://frank2019.me/archives/1693797256900,https://frank2019.me/,https://frank2019.me/rss.xml,2023-09-04,1693803037.0
 不要被虚假新闻蒙蔽了双眼,Frank笔记,http://frank2019.me/archives/1693797256900,http://frank2019.me/,https://frank2019.me/rss.xml,2023-09-04,1693803037.0
+不要被虚假新闻蒙蔽了双眼,Frank笔记,https://frank2019.me/archives/1693797256900,https://frank2019.me/,https://frank2019.me/rss.xml,2023-09-04,1693803037.0
 springboot 处理请求的小分支-跳转 & cookie,Nicksxs's Blog,https://nicksxs.me/2023/09/03/springboot-%E5%A4%84%E7%90%86%E8%AF%B7%E6%B1%82%E7%9A%84%E5%B0%8F%E5%88%86%E6%94%AF-%E8%B7%B3%E8%BD%AC-cookie/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-09-03,1693747752.0
 读《传习录》,manateelazycat.github.io,//manateelazycat.github.io/2023/09/02/reading-chuanxilu/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-02,1693612800.0
 TreeSit API 详解,manateelazycat.github.io,//manateelazycat.github.io/2023/09/02/treesit/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-02,1693612800.0
@@ -48,4 +49,3 @@ Surge 使用笔记 – 新版本支持 Apple TV,Another Dayu,https://anotherdayu
 译 | 驾驶者的哲学,Another Dayu,https://anotherdayu.com/2023/5303/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-08-15,1692078482.0
 修改 MacOS 系统底层时间,Zikin 的独立博客,https://zikin.org/macos-change-system-timezone/,https://zikin.org/,https://zikin.org/feed,2023-08-14,1692015787.0
 springboot mappings 注册逻辑,Nicksxs's Blog,https://nicksxs.me/2023/08/13/springboot-mappings-%E6%B3%A8%E5%86%8C%E9%80%BB%E8%BE%91/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-08-13,1691930311.0
-弃用netlify，改用vercel托管博客,醉里博客,https://202271.xyz/post/55484/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-08-13,1691891834.0
