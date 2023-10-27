@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Nginx 请求匹配规则,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-nginx_request_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(六)：关系型数据库，ORM,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-web_dev_part6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(五)：form， json， xml,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_17-web_dev_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-17,1508198400.0
 Web开发系列(四)：Flask， Tornado和WSGI,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_16-web_dev_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-16,1508112000.0
@@ -48,4 +49,3 @@ A semantic BEM style,Just lepture,https://lepture.com/en/2017/semantic-bem-style
 Golang Map 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_27-golang_map.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-27,1501113600.0
 MySQL 零碎知识 - MySQL必知必会,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_26-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-26,1501027200.0
 【定格动画】交换/EXchange,云游君的小站,https://www.yunyoujun.cn/posts/stop-motion-animation-exchange,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-24,1500919474.0
-万恶的BOM：ï»¿ 与 \ufeff,Yuexun's Blog,https://yuexunjiang.me/blog/the-evil-of-the-BOM-ufeff-and-i%C2%BB%C2%BF/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-07-24,1500854400.0
