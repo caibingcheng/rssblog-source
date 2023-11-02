@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+HttpClient? RestTemplate？WebClient? 不~是 RestClient,Honesty·Blog,https://blog.hehouhui.cn/archives/spring-restclient-2023,https://blog.hehouhui.cn/,https://notion.hehouhui.cn/rss/feed.xml,2023-09-06,1693958400.0
 电动车横向对比,manateelazycat.github.io,//manateelazycat.github.io/2023/09/06/electric-car/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-06,1693958400.0
 便利店的一元——回忆之8,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/mem-8.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2023-09-05,1693929720.0
 轮胎作玩具，铁环的消失——回忆之6～7,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/mem-6-to-7.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2023-09-05,1693929600.0
@@ -26,7 +27,7 @@ Compare Task Processing Approaches in Scala,Bin Wang - My Personal Blog,https://
 四款内网穿透工具对比,杜老师说,https://dusays.com/620/,https://dusays.com/,https://dusays.com/atom.xml,2023-08-26,1693065600.0
 如何在 macOS 上浏览 .svs 格式文件,Another Dayu,https://anotherdayu.com/2023/5338/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-08-26,1693061382.0
 遭殃前的海洋,九弦之屋,https://blog.sinzmise.top/posts/29196/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-08-26,1693042932.0
-京东Plus会员权益变更，还值得买吗,瓦解的生活记事,https://hin.cool/posts/jdplus.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-08-25,1692963000.0
+京东Plus会员权益变更，还值得买吗,瓦解的生活记事,https://hin.cool/posts/jdplus.html,https://hin.cool/,https://hin.cool/atom.xml,2023-08-25,1692963000.0
 加入无畏云联盟每月白嫖 60G 流量,杜老师说,https://dusays.com/619/,https://dusays.com/,https://dusays.com/atom.xml,2023-08-23,1692806400.0
 巴南姜家：失落的夏日小镇,Macin,https://macin.org/2023/08/22/ba-nan-jiang-jia/,https://macin.org/,https://www.macin.org/atom.xml,2023-08-22,1692744865.0
 国行 Redmi Note 9 Pro 刷 Magisk Delta (root) 教程,岚天小窝,https://blog.ltya.top/posts/Redmi-Note-9-Pro-root.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-08-22,1692720000.0
@@ -48,4 +49,3 @@ Surge 使用笔记 – 新版本支持 Apple TV,Another Dayu,https://anotherdayu
 译 | 驾驶者的哲学,Another Dayu,https://anotherdayu.com/2023/5303/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-08-15,1692078482.0
 frp 关于 HTTP 和 HTTPS 设置,杜老师说,https://dusays.com/616/,https://dusays.com/,https://dusays.com/atom.xml,2023-08-14,1692028800.0
 修改 MacOS 系统底层时间,Zikin 的独立博客,https://zikin.org/macos-change-system-timezone/,https://zikin.org/,https://zikin.org/feed,2023-08-14,1692015787.0
-springboot mappings 注册逻辑,Nicksxs's Blog,https://nicksxs.me/2023/08/13/springboot-mappings-%E6%B3%A8%E5%86%8C%E9%80%BB%E8%BE%91/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-08-13,1691930311.0
