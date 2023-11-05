@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+常见的索引方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_02-index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-02,1541116800.0
+Golang 实践经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_01-golang_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-01,1541030400.0
 恋爱证明记,云游君的小站,https://www.yunyoujun.cn/posts/proof-of-love,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-10-31,1541024061.0
 西藏 | 骑行川藏四千里:2012年的青春影像,罗磊的独立博客,https://luolei.org/tibet-road-2012,https://luolei.org,https://luolei.org/feed/,2018-10-31,1540944000.0
 每个创作者都应该有张木桌:Timerecorder 时计 | VLOG18,罗磊的独立博客,https://luolei.org/my-desk-2018,https://luolei.org,https://luolei.org/feed/,2018-10-30,1540857600.0
@@ -30,8 +32,8 @@ Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的技术�
 为什么我选择放弃运营微信公众号？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 ArchLinux 怎么降级 package ？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Web后端工程师进阶指南(2018),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
-How to implement fork syscall in Golang?,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
+How to implement fork syscall in Golang?,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 关于运营的思考-运营要怎么做？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_26-about_traffic.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-26,1535241600.0
 Python中实现单例模式的n种方式和原理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
 Golang defer中修改返回值,Jiajun的编程随想,https://jiajunhuang.com/articles/2018_08_23-go_defer_named_return_values.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-23,1534982400.0
@@ -47,5 +49,3 @@ gRPC-gateway 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com
 设计一个HTTP网关,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_07_18-design_a_gateway.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-07-18,1531872000.0
 多研究些问题，少谈些框架,Randy's Blog,https://lutaonan.com/blog/think-deeper/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-07-16,1531699200.0
 设计一个分布式块存储,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_07_08-design_a_chunked_distributed_file_system.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-07-08,1531008000.0
-Linux低电量自动关机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_06_24-linux_shutdown_when_bat_is_low.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-06-24,1529798400.0
-开箱 | 再见了旧爱，迎小三新欢:索尼A7M3,罗磊的独立博客,https://luolei.org/sony-a7m3-unboxing,https://luolei.org,https://luolei.org/feed/,2018-06-23,1529712000.0

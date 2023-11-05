@@ -1,5 +1,7 @@
 title,author,link,home,rss,date,timestamp
+KVM 共享 Intel 集成显卡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_05-kvm_windows_intel_gpu.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-05,1699142400.0
 PLUTO,Another Dayu,https://anotherdayu.com/2023/5431/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-04,1699108108.0
+How to Cleanup Ceph Filesystem for Deleted Kubernetes Persistent Volume,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-04-How-to-Cleanup-Ceph-Filesystem-for-Deleted-Kubernetes-Persistent-Volume.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-04,1699070400.0
 修复 lsp-bridge 补全菜单图标大小变化的 bug,manateelazycat.github.io,//manateelazycat.github.io/2023/11/02/emacs-font-function/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-02,1698883200.0
 202310：巫峡中宵动，沧江十月雷,Macin,https://macin.org/2023/10/31/202310/,https://macin.org/,https://www.macin.org/atom.xml,2023-10-31,1698793399.0
 关于笔记软件的一些想法,非理勿试,https://www.ntiy.com/2019.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-10-31,1698733800.0
@@ -9,8 +11,6 @@ Tomcat 系列篇七-介绍下 Filter 注册逻辑,Nicksxs's Blog,https://nicksxs
 2023 Mac mini 外挂硬盘升级方案: 打造 2TB 苹果电脑,罗磊的独立博客,https://luolei.org/2023-mac-mini-ssd-upgrade-experience,https://luolei.org,https://luolei.org/feed/,2023-10-26,1698316166.0
 千元投影，哈趣H2,瓦解的生活记事,https://hin.cool/posts/haquh2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-10-22,1697988600.0
 远程办公三年后感,见字如面,https://hiwannz.com/archives/824.html,https://hiwannz.com/,https://hiwannz.com/feed,2023-10-22,1697982306.0
-Linux Full Disk Encryption with Yubikey,Bin Wang - My Personal Blog,https://www.binwang.me/2023-10-22-Full-Disk-Encryption-with-Yubikey.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-10-22,1697947200.0
-PromQL 备忘,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_10_17-prometheus_promql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-10-17,1697500800.0
 聊聊最近,醉里博客,https://202271.xyz/post/50555/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-10-16,1697467527.0
 Hexo 主题开发 hexo-theme-imba97 —— 第零篇,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/770/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-10-14,1697300308.0
 Kong Gateway OSS 官方管理界面 Kong Manager 开源啦！🦍,把酒诗代码，趁乱写年华。,https://102no.com/2023/10/09/kong-manager-oss/,https://102no.com/,https://102no.com/atom.xml,2023-10-08,1696780800.0
