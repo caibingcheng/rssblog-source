@@ -16,7 +16,7 @@ OAuth 2 详解（六）：Authorization Code Flow with PKCE,Jiajun的技术笔�
 OAuth 2 详解（五）：Device Authorization Flow,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_11-oauth2_explained_device_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-11,1665446400.0
 OAuth 2 详解（四）：Client Credentials Flow,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_client_credentials.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
 OAuth 2 详解（三）：Resource Owner Password Credentials Grant,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_password.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
-OAuth 2 详解（二）：Implict Grant Flow,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_10_09-oauth2_explained_implict_grant.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-09,1665273600.0
+OAuth 2 详解（二）：Implict Grant Flow,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_09-oauth2_explained_implict_grant.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-09,1665273600.0
 OAuth 2 详解（一）：简介及 Authorization Code 模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_08-oauth2_explained.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-08,1665187200.0
 ElasticSearch 学习笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_06-elasticsearch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-06,1665014400.0
 三种git流程以及发版模型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_28-git_flows.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-28,1658966400.0
@@ -24,17 +24,17 @@ ElasticSearch 学习笔记,Jiajun的技术笔记,https://jiajunhuang.com/article
 权限模型(RBAC/ABAC),Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_15-access_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-15,1657843200.0
 OIDC(OpenID Connect) 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_06-openid_connect.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-06,1657065600.0
 任务队列简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_05-task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-05,1656979200.0
-使用Drone CI构建CI/CD系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_04_29-drone_ci.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-29,1651190400.0
+使用Drone CI构建CI/CD系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_04_29-drone_ci.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-29,1651190400.0
 PostgreSQL 操作笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_04_29-postgres_notes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-29,1651190400.0
 Golang migrate 做数据库变更管理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_04_28-golang_migrate_iofs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-28,1651104000.0
 使用PostgreSQL做搜索引擎,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_04_12-postgresql_fulltext_search.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-12,1649721600.0
-Nginx 源码阅读（三）: 连接池、内存池,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_23-nginx_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-23,1647993600.0
+Nginx 源码阅读（三）: 连接池、内存池,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_23-nginx_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-23,1647993600.0
 Nginx 源码阅读（二）: 请求处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_22-nginx_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-22,1647907200.0
 Nginx 源码阅读（一）: 启动流程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_21-nginx_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-21,1647820800.0
 Go 泛型简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_17-go_generics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-17,1647475200.0
-KVM 显卡穿透给 Windows,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_15-kvm_windows_gpu_passthrough.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-15,1647302400.0
+KVM 显卡穿透给 Windows,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_15-kvm_windows_gpu_passthrough.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-15,1647302400.0
 使用 HTTP Router 处理 Telegram Bot 按钮回调,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_12-tgbot_httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-12,1647043200.0
-使用反射(reflect)对结构体赋值,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_01_10-reflect_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-10,1641772800.0
+使用反射(reflect)对结构体赋值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_01_10-reflect_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-10,1641772800.0
 GIN 是如何绑定参数的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_01_09-gin_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-09,1641686400.0
 你好 2022(2021 年终总结),Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_12_30-hello_2022.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-30,1640822400.0
 用Go导入大型CSV到PostgreSQL,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_12_11-go_copy_large_file_to_pg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-11,1639180800.0
@@ -43,9 +43,9 @@ GIN 是如何绑定参数的,Jiajun的技术笔记,https://jiajunhuang.com/artic
 SQL 防注入及原理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_11_04-sql_injection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-11-04,1635984000.0
 使用 gomock 测试 Go 代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_10_12-go_mock.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-12,1633996800.0
 gevent不是黑魔法(二): gevent 实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_10_11-gevent_is_good_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-11,1633910400.0
-gevent不是黑魔法(一): greenlet 实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_29-gevent_is_good_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-29,1632873600.0
-用 entgo 替代 gorm,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_06-use_entgo.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-06,1630886400.0
-应用内使用crontab不是那么方便,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_01-cron_is_not_convenient.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-01,1630454400.0
+gevent不是黑魔法(一): greenlet 实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_09_29-gevent_is_good_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-29,1632873600.0
+用 entgo 替代 gorm,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_09_06-use_entgo.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-06,1630886400.0
+应用内使用crontab不是那么方便,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_09_01-cron_is_not_convenient.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-01,1630454400.0
 单测时要不要 mock 数据库？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_08_27-mock_db_or_not.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-27,1630022400.0
 Sentry 自建指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_08_25-use_sentry.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-25,1629849600.0
 用selenium完成自动化任务,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_08_19-selenium.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-19,1629331200.0
