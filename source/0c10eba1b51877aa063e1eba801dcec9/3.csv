@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+TCMalloc设计文档学习,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
 Flask和requests做一个简单的请求代理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
 Linux常用命令(四)：xargs,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_21-linux_cmd_xargs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-21,1600646400.0
 Linux常用命令(三)：watch,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
@@ -17,8 +18,8 @@ NSQ简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_1
 程序员的MySQL手册(四)：索引设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_27-mysql_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-27,1595808000.0
 程序员的MySQL手册(三)：数据库设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_26-mysql_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-26,1595721600.0
 Linux窗口管理器下的截图,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_25-linux_screenshot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-25,1595635200.0
-程序员的MySQL手册(二): 监控与benchmark,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_23-mysql_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
 Go设计模式：facade模式和观察者模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_23-go_design_pattern_facade.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
+程序员的MySQL手册(二): 监控与benchmark,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_23-mysql_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
 Go设计模式: 责任链模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_21-go_design_pattern_chain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-21,1595289600.0
 我们真的需要这么复杂的技术栈吗？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_15-do_we_need_these.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-15,1594771200.0
 Go设计模式：装饰器模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_14-go_design_pattern_decorator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-14,1594684800.0
@@ -27,7 +28,7 @@ ElasticSearch学习笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles
 Go设计模式：composite模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_02-go_design_pattern_composite.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-02,1593648000.0
 拯救删除ZFS之后的分区表,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_25-save_partition_table_zfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-25,1593043200.0
 Linux使用redshift自动调整屏幕色温,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_23-redshift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-23,1592870400.0
-Go设计模式：桥接模式和策略模式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_06_21-go_design_pattern_bridge.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-21,1592697600.0
+Go设计模式：桥接模式和策略模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_21-go_design_pattern_bridge.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-21,1592697600.0
 Go设计模式：单例模式、原型模式和Builder模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_20-go_design_pattern_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-20,1592611200.0
 操作系统也是CRUD,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_15-unix_crud.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-15,1592179200.0
 把USB设备穿透给虚拟机里的系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_13-macos_kvm_usb_pass.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
@@ -45,7 +46,6 @@ virsh自动关闭windows虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/
 Golang sort源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_16-go_sort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-16,1589587200.0
 分治的思维方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_15-divide_and_conquer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-15,1589500800.0
 Debian 使用NetworkManager之后networking.service崩溃,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
-httprouter源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_09-httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-09,1588982400.0
+httprouter源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_09-httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-09,1588982400.0
 《程序员的自我修养-装载、链接与库》笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_08-linker_and_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-08,1588896000.0
 Golang sync.Pool源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_05-go_sync_pool.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-05,1588636800.0
-MySQL操作笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_01-mysql_notes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-01,1588291200.0
