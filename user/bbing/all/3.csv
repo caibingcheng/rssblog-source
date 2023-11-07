@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+用脚本部署 Bitwarden 密码管理平台,杜老师说,https://dusays.com/588/,https://dusays.com/,https://dusays.com/atom.xml,2023-05-22,1684771200.0
+MacOS 窗口管理器 yabai 玩耍笔记,This Cute World,https://thiscute.world/posts/macos-window-manager-yabai-usage/,https://thiscute.world/,https://thiscute.world/index.xml,2023-05-22,1684729497.0
 Vercel 免费托管 Typecho 博客,杜老师说,https://dusays.com/587/,https://dusays.com/,https://dusays.com/atom.xml,2023-05-19,1684512000.0
 没想到我也阳了,瓦解的生活记事,https://hin.cool/posts/igotcovid19.html,https://hin.cool/,https://hin.cool/atom.xml,2023-05-18,1684440000.0
 Ubuntu Server 23.04 使用体验及注意事项,杜老师说,https://dusays.com/586/,https://dusays.com/,https://dusays.com/atom.xml,2023-05-16,1684252800.0
@@ -30,8 +32,8 @@ ValueError:invalid,cywhat's blog,https://cywhat.cn/ValueErrorinvalid-literal-for
 最有效的湿气排除方法,杜老师说,https://dusays.com/575/,https://dusays.com/,https://dusays.com/atom.xml,2023-04-13,1681401600.0
 矩阵论-线性空间,DearXuan的主页,https://blog.dearxuan.com/2023/04/13/%E7%9F%A9%E9%98%B5%E8%AE%BA-%E7%BA%BF%E6%80%A7%E7%A9%BA%E9%97%B4/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2023-04-13,1681386900.0
 深入SpringSecurity,Barney's Blog,https://hugo.bnblogs.cc/%E6%B7%B1%E5%85%A5springsecurity/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-04-13,1681379726.0
-GitHub问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/github-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2023-04-12,1681316821.0
 GitHub问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/github-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2023-04-12,1681316821.0
+GitHub问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/github-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2023-04-12,1681316821.0
 SmartGit问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/smartgit-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2023-04-12,1681309661.0
 SmartGit问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/smartgit-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2023-04-12,1681309661.0
 UnorderedObjectListWarning:Pagination May Yield Inconsistent Results With an Unordered Object_list,cywhat's blog,https://cywhat.cn/UnorderedObjectListWarningPagination-may-yield-inconsistent-results-with-an-unordered-object_list/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-04-11,1681206305.0
@@ -47,5 +49,3 @@ Linux忘记mysql密码解决办法,cywhat's blog,https://cywhat.cn/Linux%E5%BF%9
 记2023年惘闻乐队的重庆现场,瓦解的生活记事,https://hin.cool/posts/wangwen.html,https://hin.cool/,https://hin.cool/atom.xml,2023-03-31,1680246060.0
 Pkg_resources.DistributionNotFound:The Supervisor==3.4,cywhat's blog,https://cywhat.cn/pkg_resources.DistributionNotFoundThe-supervisor3.4.0-distribution-was-not-found-and-is-required-by-the-application/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-03-30,1680159074.0
 杜老师的近况,杜老师说,https://dusays.com/570/,https://dusays.com/,https://dusays.com/atom.xml,2023-03-29,1680105600.0
-Linux 上的 WireGuard 网络分析（一）,This Cute World,https://thiscute.world/posts/wireguard-on-linux/,https://thiscute.world/,https://thiscute.world/index.xml,2023-03-28,1680013165.0
-Failing Package Is: Mysql Community Libs Compat 5.7.37 1.el7,cywhat's blog,https://cywhat.cn/Failing-package-is-mysql-community-libs-compat-5.7.37-1.el7.x86_64/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-03-27,1679905061.0
