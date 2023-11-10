@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Sentry 自建指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_08_25-use_sentry.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-25,1629849600.0
 用selenium完成自动化任务,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_08_19-selenium.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-19,1629331200.0
 用闲置的安卓手机做垃圾电话短信过滤,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_07_09-filter_your_call_and_sms.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-07-09,1625788800.0
 推荐三个时间管理工具,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_07_06-manage_your_time.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-07-06,1625529600.0
@@ -48,4 +49,3 @@ Java collection的结构,Jiajun的技术笔记,https://jiajunhuang.com/articles/
 为啥Redis使用pipelining会更快？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
 通过阳台种菜实现蔬菜自由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
 从GORM里学习到的panic处理方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
-Go使用闭包简化数据库操作代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0

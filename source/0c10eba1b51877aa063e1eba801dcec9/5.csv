@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Flutter应用启动后检查更新,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_11-flutter_do_sth_after_boot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-11,1576022400.0
 Grafana Gravatar头像显示bug修复,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_10-grafana_gravatar_http_hijack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-10,1575936000.0
 flutter中使用RESTful接口,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_09-dart_flutter_json.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-09,1575849600.0
 Vim YouCompleteMe使用LSP(以dart为例),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_04-ycm_lsp_dart.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-04,1575417600.0
@@ -25,8 +26,8 @@ Linux托管Windows虚拟机最佳实践,Jiajun的技术笔记,https://jiajunhuan
 为什么gRPC难以推广,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_29-why_grpc_is_not_popular.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-29,1569715200.0
 关于ORM的思考,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_26-orm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-26,1569456000.0
 MySQL指定使用索引(使用索引提示),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_25-mysql_use_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-25,1569369600.0
-QT5使用GTK主题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-qt5_gtk_theme.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 搭建samba服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-samba.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
+QT5使用GTK主题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-qt5_gtk_theme.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 ssh时自动运行tmux,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 ufw简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_14-ufw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-14,1568419200.0
 zerotier简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_11-zerotier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-11,1568160000.0
@@ -48,4 +49,3 @@ GCC默认的头文件搜索路径,Jiajun的技术笔记,https://jiajunhuang.com/
 后端工程师学前端(四): CSS进阶(盒子模型),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_10-learn_front_end_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-10,1562716800.0
 读《投资中最简单的事》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_06-the_simple_things_in_investment.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-06,1562371200.0
 后端工程师学前端(三): CSS进阶(特指度、单位和字体族),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_04-learn_front_end_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-04,1562198400.0
-后端工程师学前端(二): CSS基础知识(规则与选择器),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_02-learn_front_end_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-02,1562025600.0
