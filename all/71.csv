@@ -19,14 +19,14 @@ Raft 论文阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 我患上了阅读焦虑症,This Cute World,https://thiscute.world/posts/reading-anxiety/,https://thiscute.world/,https://thiscute.world/index.xml,2017-03-07,1488861540.0
 什么是 Golang Comparable Types,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_06-golang_comparable_types.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-06,1488758400.0
 Filco 圣手二代蓝牙版:开箱体验,罗磊的独立博客,https://luolei.org/filco-keyboard-unboxing,https://luolei.org,https://luolei.org/feed/,2017-03-06,1488758400.0
-MapReduce 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_02-map_reduce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 GFS 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_02-gfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
+MapReduce 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_02-map_reduce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 一起来做贼：Goroutine原理和Work stealing,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
 过去10年，我用过的13部手机,罗磊的独立博客,https://luolei.org/mobile-phone-i-used-in-the-past-10-years,https://luolei.org,https://luolei.org/feed/,2017-02-24,1487894400.0
-Vim 折腾记,Ahonn's Blog,https://www.ahonn.me/blog/notes-of-vim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
 Vim 折腾记,Yuexun's Blog,https://yuexunjiang.me/blog/notes-of-vim,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
-电脑键盘上的流行钢琴伴奏,Randy's Blog,https://lutaonan.com/blog/piano-on-computer-keyboard/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-02-19,1487462400.0
+Vim 折腾记,Ahonn's Blog,https://www.ahonn.me/blog/notes-of-vim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
 Vim 折腾记,Yuexun's Blog,https://yuexunjiang.me/blog/notes-of-vim/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-02-19,1487462400.0
+电脑键盘上的流行钢琴伴奏,Randy's Blog,https://lutaonan.com/blog/piano-on-computer-keyboard/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-02-19,1487462400.0
 少有人迹的校园,This Cute World,https://thiscute.world/posts/quiet-and-peaceful-campus/,https://thiscute.world/,https://thiscute.world/index.xml,2017-02-17,1487368989.0
 Go语言的defer， panic和recover,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_15-go_defer_panic_and_recover.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-15,1487116800.0
 年終卷 | 2016年我读了哪些书？,罗磊的独立博客,https://luolei.org/what-i-read-in-2016,https://luolei.org,https://luolei.org/feed/,2017-02-15,1487116800.0
@@ -45,7 +45,7 @@ Cython! Python和C两个世界的交叉点,Jiajun的技术笔记,https://jiajunh
 socketserver 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_09-socketserver_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-09,1483920000.0
 functools 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_08-functools_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-08,1483833600.0
 contextlib代码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_07-contextlib_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-07,1483747200.0
-Redis通信协议阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_06-redis_protocol_specification.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0
 Collections 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_06-collections_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0
+Redis通信协议阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_06-redis_protocol_specification.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0
 从 React 谈 Web UI 开发,Randy's Blog,https://lutaonan.com/blog/react-and-the-way-building-web-ui/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-01-01,1483228800.0
 2016年就要结束了，2017年就要开始啦！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_31-2016_is_over_and_2017_is_coming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-31,1483142400.0
