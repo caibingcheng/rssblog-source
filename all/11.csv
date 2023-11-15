@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+获取网页中光标处的单词,manateelazycat.github.io,//manateelazycat.github.io/eaf/ai/2023/04/08/get-mouse-cursor.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-08,1680912000.0
+【随笔】分享一册 PDF- 劳动法学习实操手册第一版.pdf,框架師,https://www.mobaijun.com/posts/1836243909.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-04-07,1680889762.0
 【随笔】Git 设置代理和取消代理,框架師,https://www.mobaijun.com/posts/3938741716.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-04-07,1680887852.0
 AI 写作对博主影响,杜老师说,https://dusays.com/573/,https://dusays.com/,https://dusays.com/atom.xml,2023-04-07,1680883200.0
 Jenkins端口修改之后没有生效,cywhat's blog,https://cywhat.cn/jenkins%E7%AB%AF%E5%8F%A3%E4%BF%AE%E6%94%B9%E4%B9%8B%E5%90%8E%E6%B2%A1%E6%9C%89%E7%94%9F%E6%95%88/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-04-07,1680830699.0
@@ -6,8 +8,8 @@ Jenkins端口修改之后没有生效,cywhat's blog,https://cywhat.cn/jenkins%E7
 分享一个开发者免费资源网站,醉里博客,https://202271.xyz/post/22633/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-05,1680737017.0
 Microsoft 365 E5 开发人员订阅大面积封号,醉里博客,https://202271.xyz/post/28951/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-05,1680736491.0
 一个新的尝试,Frank笔记,https://frank2019.me/archives/yi-ge-xin-de-chang-shi,https://frank2019.me/,https://frank2019.me/rss.xml,2023-04-05,1680724446.0
-一个新的尝试,Frank笔记,http://frank2019.me/archives/yi-ge-xin-de-chang-shi,http://frank2019.me/,https://frank2019.me/rss.xml,2023-04-05,1680724446.0
 一个新的尝试,Frank笔记,/archives/yi-ge-xin-de-chang-shi,/,https://frank2019.me/rss.xml,2023-04-05,1680724446.0
+一个新的尝试,Frank笔记,http://frank2019.me/archives/yi-ge-xin-de-chang-shi,http://frank2019.me/,https://frank2019.me/rss.xml,2023-04-05,1680724446.0
 密码保护：大概算是一篇碎碎念吧,Zikin 的独立博客,https://zikin.org/memories-2022-2023/,https://zikin.org/,https://zikin.org/feed,2023-04-05,1680703691.0
 搭建自己的在线 vscode,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/762/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-04-05,1680696375.0
 Emacs 里用雾凇拼音实现流畅中文输入,manateelazycat.github.io,//manateelazycat.github.io/emacs/2023/04/05/emacs-rime-ice.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-05,1680652800.0
@@ -29,9 +31,9 @@ lsp-bridge 远程代码补全,manateelazycat.github.io,//manateelazycat.github.i
 AI 编程实践,manateelazycat.github.io,//manateelazycat.github.io/think/ai/2023/03/31/chatgpt.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
 AI 编程实践,manateelazycat.github.io,//manateelazycat.github.io/think/2023/03/31/chatgpt.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
 Pkg_resources.DistributionNotFound:The Supervisor==3.4,cywhat's blog,https://cywhat.cn/pkg_resources.DistributionNotFoundThe-supervisor3.4.0-distribution-was-not-found-and-is-required-by-the-application/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-03-30,1680159074.0
-更换博客系统,Frank笔记,https://frank2019.me/archives/geng-huan-bo-ke-xi-tong,https://frank2019.me/,https://frank2019.me/rss.xml,2023-03-29,1680129599.0
 更换博客系统,Frank笔记,http://frank2019.me/archives/geng-huan-bo-ke-xi-tong,http://frank2019.me/,https://frank2019.me/rss.xml,2023-03-29,1680129599.0
 更换博客系统,Frank笔记,/archives/geng-huan-bo-ke-xi-tong,/,https://frank2019.me/rss.xml,2023-03-29,1680129599.0
+更换博客系统,Frank笔记,https://frank2019.me/archives/geng-huan-bo-ke-xi-tong,https://frank2019.me/,https://frank2019.me/rss.xml,2023-03-29,1680129599.0
 杜老师的近况,杜老师说,https://dusays.com/570/,https://dusays.com/,https://dusays.com/atom.xml,2023-03-29,1680105600.0
 202303：汾川三月雨，晋水百花春,Macin,https://macin.org/2023/03/28/202303/,https://macin.org/,https://www.macin.org/atom.xml,2023-03-28,1680031159.0
 Linux 上的 WireGuard 网络分析（一）,This Cute World,https://thiscute.world/posts/wireguard-on-linux/,https://thiscute.world/,https://thiscute.world/index.xml,2023-03-28,1680013165.0
@@ -45,7 +47,5 @@ Project Xanadu、区块链 和 ChatGPT,Another Dayu,https://anotherdayu.com/2023
 macOS 和 Windows 之间的文件乱码问题,Another Dayu,https://anotherdayu.com/2023/5075/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-03-27,1679896209.0
 关于 cookie 的使用协议,杜老师说,https://dusays.com/569/,https://dusays.com/,https://dusays.com/atom.xml,2023-03-26,1679846400.0
 ssh 小技巧-端口转发,Nicksxs's Blog,https://nicksxs.me/2023/03/26/ssh-%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-03-26,1679836770.0
-Porkbun提供免费WordPress托管,Muidar's Site,https://www.muidar.com/posts/cmuidar/free-wordpress-hosting-provided-by-porkbun/,https://www.muidar.com,https://muidar.com/feed,2023-03-26,1679826446.0
 Porkbun提供免费WordPress托管,Muidar's Site,https://muidar.com/posts/cmuidar/free-wordpress-hosting-provided-by-porkbun/,https://muidar.com,https://muidar.com/feed,2023-03-26,1679826446.0
-我使用过的头像,九弦之屋,https://blog.sinzmise.top/posts/42487/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-03-26,1679800167.0
-论产品思维,manateelazycat.github.io,//manateelazycat.github.io/think/2023/03/26/product-thinking.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-26,1679788800.0
+Porkbun提供免费WordPress托管,Muidar's Site,https://www.muidar.com/posts/cmuidar/free-wordpress-hosting-provided-by-porkbun/,https://www.muidar.com,https://muidar.com/feed,2023-03-26,1679826446.0
