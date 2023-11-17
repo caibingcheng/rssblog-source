@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+FreeBSD 使用 vm-bhyve 安装Debian虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_17-freebsd_vm_bhyve.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-17,1700179200.0
 FreeBSD 和 Linux 网卡聚合实现提速,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_16-freebsd_linux_link_aggr.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-16,1700092800.0
 GPT 帮我搞定了时区转换问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_15-python_datetime_with_timezone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-15,1700006400.0
 长任务系统如何处理？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_12-long_running_task.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-12,1699747200.0
@@ -48,4 +49,3 @@ GIN 是如何绑定参数的,Jiajun的技术笔记,https://jiajunhuang.com/artic
 使用软KVM切换器 barrier 共享键鼠,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_11_26-use_barrier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-11-26,1637884800.0
 SQL 防注入及原理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_11_04-sql_injection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-11-04,1635984000.0
 使用 gomock 测试 Go 代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_10_12-go_mock.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-12,1633996800.0
-gevent不是黑魔法(二): gevent 实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_10_11-gevent_is_good_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-11,1633910400.0
