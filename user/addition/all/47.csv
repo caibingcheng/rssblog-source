@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Prometheus MySQL Exporter源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_16-prometheus_mysqld_exporter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-16,1544918400.0
+MySQL性能指标,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_13-db_metrics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-13,1544659200.0
 使用Dropbox来备份服务器文件,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_12-use_dropbox_to_backup_server.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-12,1544572800.0
 《计算机网络-系统方法》读书笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_10-computer_network_systems_approach.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-10,1544400000.0
 1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/notebook/12,https://blog.fsky7.com,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
@@ -47,5 +49,3 @@ To B(usiness) 和 To C(ustomer),Jiajun的技术笔记,https://jiajunhuang.com/ar
 PyCon JP 2018 記,Just lepture,https://lepture.com/zh/2018/pycon-jp-2018,https://lepture.com/,https://lepture.com/feed.xml,2018-09-19,1537364456.0
 Cookie 中的secure和httponly属性,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_16-cookie_secure_httponly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 常见的软件架构套路,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
-JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-09-15,1536969687.0
-JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-09-15,1536969600.0
