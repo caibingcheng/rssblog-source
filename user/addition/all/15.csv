@@ -1,4 +1,15 @@
 title,author,link,home,rss,date,timestamp
+旧信笺：他们都老了吧...,Macin,https://macin.org/2022/12/12/a-letter-from-1993/,https://macin.org/,https://www.macin.org/atom.xml,2022-12-12,1670883832.0
+使用 Obsidian 建站发布网页 – 基于 Digital Garden + Github + Netlify,Another Dayu,https://anotherdayu.com/2022/4222/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-12-12,1670814152.0
+macOS | 防止合盖后耗电，关闭新式待机功能（Power Nap）,Another Dayu,https://anotherdayu.com/2022/4210/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-12-11,1670778980.0
+mybatis系列-第一条sql的细节,Nicksxs's Blog,https://nicksxs.me/2022/12/11/mybatis%E7%B3%BB%E5%88%97-%E7%AC%AC%E4%B8%80%E6%9D%A1sql%E7%9A%84%E7%BB%86%E8%8A%82/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-12-11,1670763029.0
+WordPress | WP Super Cache 导致 RSS Feed 失效,Another Dayu,https://anotherdayu.com/2022/4193/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-12-10,1670677873.0
+google镜像站（持续更新）,醉里博客,https://202271.xyz/post/65324/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-12-09,1670602762.0
+To Be An Excellent Tech Lead,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20221209-to-be-an-excellent-tech-lead,https://teobler.com,https://teobler.com/rss.xml,2022-12-09,1670581516.0
+读《数学之美》,manateelazycat.github.io,//manateelazycat.github.io/reading/math/2022/12/09/the-beauty-of-mathematics.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-12-09,1670544000.0
+GitHub基于ChatGPT开源项目🤖,把酒诗代码，趁乱写年华。,https://102no.com/2022/12/09/github-chatgpt/,https://102no.com/,https://102no.com/atom.xml,2022-12-08,1670515200.0
+github镜像站（持续更新）,醉里博客,https://202271.xyz/post/30937/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-12-08,1670509902.0
+hexo博客开启rss——fluid主题详解,醉里博客,https://202271.xyz/post/51148/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-12-06,1670364392.0
 静态个人主页,醉里博客,https://202271.xyz/post/39700/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-12-06,1670363729.0
 8:9——8b9.cn社区及时光邮局,醉里博客,https://202271.xyz/post/50566/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-12-05,1670275729.0
 免费手写体生成,醉里博客,https://202271.xyz/post/21951/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-12-05,1670253429.0
@@ -38,14 +49,3 @@ powershell 初体验二,Nicksxs's Blog,https://nicksxs.me/2022/11/20/powershell-
 贰拾捌,瓦解的生活记事,https://hin.cool/posts/ershiba.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-11-18,1668785402.0
 Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
 Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/elisp/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
-202211：边城十一月，雨雪乱霏霏,Macin,https://macin.org/2022/11/16/11-yue-zhou-ji/,https://macin.org/,https://www.macin.org/atom.xml,2022-11-16,1668595240.0
-地铁里的翻书风,Another Dayu,https://anotherdayu.com/2022/3850/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-16,1668567958.0
-读《英语魔法师之语法俱乐部》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/15/reading-english-magicia.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-15,1668470400.0
-MPC钱包是什么？,Macin,https://macin.org/2022/11/13/mpc-wallet/,https://macin.org/,https://www.macin.org/atom.xml,2022-11-13,1668363573.0
-powershell 初体验,Nicksxs's Blog,https://nicksxs.me/2022/11/13/powershell-%E5%88%9D%E4%BD%93%E9%AA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-11-13,1668346253.0
-悬崖村：徒步20km的知秋行,Macin,https://macin.org/2022/11/13/xuan-ya-cun/,https://macin.org/,https://www.macin.org/atom.xml,2022-11-13,1668345615.0
-读《吴军数学通识讲义》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/12/reading-general-mathematics.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-12,1668211200.0
-读《吴军数学通识讲义》,manateelazycat.github.io,//manateelazycat.github.io/reading/math/2022/11/12/reading-general-mathematics.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-12,1668211200.0
-Notice,FlyingSky's Blog,https://blog.fsky7.com/archives/258/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2022-11-10,1668049260.0
-云乐坊工作室的成立与缘起与有关的话,云游君的小站,https://www.yunyoujun.cn/posts/the-birth-of-yunlefun,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2022-11-09,1668038399.0
-【转载】更好的游戏游戏坚果同花听牌,Frank笔记,https://frank2019.me/articles/2022/11/09/1667975355363.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-11-09,1667975355.0

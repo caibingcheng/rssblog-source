@@ -1,4 +1,15 @@
 title,author,link,home,rss,date,timestamp
+聊一下 SpringBoot 设置非 web 应用的方法,Nicksxs's Blog,https://nicksxs.me/2022/07/31/%E8%81%8A%E4%B8%80%E4%B8%8B-SpringBoot-%E8%AE%BE%E7%BD%AE%E9%9D%9E-web-%E5%BA%94%E7%94%A8%E7%9A%84%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-07-31,1659266193.0
+记录自己 | 2022.07.31,冰哥笔记,https://www.bgbiji.com/1091.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-31,1659265536.0
+Kubernetes 中的证书管理工具 - cert-manager,This Cute World,https://thiscute.world/posts/kubernetes-cert-management/,https://thiscute.world/,https://thiscute.world/index.xml,2022-07-31,1659251506.0
+Caddy 的简介,杜老师说,https://dusays.com/489/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-31,1659225600.0
+Vercel部署本地项目,Barney's Blog,https://hugo.bnblogs.cc/vercel%E9%83%A8%E7%BD%B2%E6%9C%AC%E5%9C%B0%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-30,1659178583.0
+git-bash如何使用tmux,Barney's Blog,https://hugo.bnblogs.cc/git-bash%E4%BD%BF%E7%94%A8tmux/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-29,1659109262.0
+迷彩、作者、观众和诠释,Another Dayu,https://anotherdayu.com/2022/3583/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-07-29,1659101928.0
+关于二舅的一些感悟,4Ark × Blog,https://4ark.me/post/live-sentiment.html,https://4ark.me/,https://4ark.me/rss.xml,2022-07-29,1659052800.0
+Linux 搭建 Minecraft 服务器,岚天小窝,https://blog.ltya.top/posts/Build-a-Minecraft-Server-on-Linux.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-28,1659024000.0
+Linux 搭建 Minecraft 服务器,岚天小窝,http://blog.ltya.top/posts/Build-a-Minecraft-Server-on-Linux.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-28,1659024000.0
+【MySQL 系列】冷门 SQL 整理,框架師,https://www.mobaijun.com/posts/970409657.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-28,1658976177.0
 三种git流程以及发版模型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_28-git_flows.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-28,1658966400.0
 ADN公益加速 —— Jsdelivr npm（国内），ElmCDN的优质替代方案,杜老师说,https://dusays.com/488/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-28,1658966400.0
 记录自己 | 2022.07.27,冰哥笔记,https://www.bgbiji.com/1089.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-27,1658930549.0
@@ -16,10 +27,10 @@ Argument list too long 原因与解决思路,杜老师说,https://dusays.com/487
 Artitalk+CFWorker配置教程,SinGO博客,https://blog.xsnet.eu.org/posts/7406/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-07-24,1658684915.0
 记录自己 | 2022.07.24,冰哥笔记,https://www.bgbiji.com/1080.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-24,1658671267.0
 Artitalk+CFWorker配置教程,SinGO博客,https://blog.xsnetw.cf/posts/7406/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-07-24,1658656115.0
-使用 Vercel 自动部署 Hexo,岚天小窝,http://blog.ltya.top/posts/Automatically-deploy-Hexo-in-Vercel.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
-使用 Hexo 搭建静态博客,岚天小窝,http://blog.ltya.top/posts/how-to-initialize-hexo.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
-使用 Vercel 自动部署 Hexo,岚天小窝,https://blog.ltya.top/posts/Automatically-deploy-Hexo-in-Vercel.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
 使用 Hexo 搭建静态博客,岚天小窝,https://blog.ltya.top/posts/how-to-initialize-hexo.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
+使用 Vercel 自动部署 Hexo,岚天小窝,https://blog.ltya.top/posts/Automatically-deploy-Hexo-in-Vercel.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
+使用 Hexo 搭建静态博客,岚天小窝,http://blog.ltya.top/posts/how-to-initialize-hexo.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
+使用 Vercel 自动部署 Hexo,岚天小窝,http://blog.ltya.top/posts/Automatically-deploy-Hexo-in-Vercel.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
 git简单入门,Barney's Blog,https://hugo.bnblogs.cc/github%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-23,1658591824.0
 记录自己 | 2022.07.23,冰哥笔记,https://www.bgbiji.com/1078.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-23,1658585100.0
 记录人生的尝试之二,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/2022-record-activities-on-calendar.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-07-23,1658562900.0
@@ -38,14 +49,3 @@ MacBook Pro 修复之路💻,把酒诗代码，趁乱写年华。,https://102no.
 记录自己 | 2022.07.20,冰哥笔记,https://www.bgbiji.com/1067.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-20,1658326217.0
 魔戒使用教程,cywhat's blog,https://cywhat.cn/%E9%AD%94%E6%88%92%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-07-20,1658312333.0
 记录自己 | 2022.07.19,冰哥笔记,https://www.bgbiji.com/1065.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-19,1658239704.0
-没有一点点防备，又一次被腾讯云干了,非理勿试,https://www.ntiy.com/1867.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-07-19,1658204090.0
-通过群晖虚拟机搭建内网邮件服务器「ExtMail 免费版」,杜老师说,https://dusays.com/485/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-19,1658188800.0
-Python获取当前位置所在行数以及函数名,cywhat's blog,https://cywhat.cn/Python%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E4%BD%8D%E7%BD%AE%E6%89%80%E5%9C%A8%E8%A1%8C%E6%95%B0%E4%BB%A5%E5%8F%8A%E5%87%BD%E6%95%B0%E5%90%8D/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-07-18,1658127285.0
-【Dnsflare】好用的CF Partner接入记录管理面板,Luminous' Home,https://luotianyi.vc/6415.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-07-17,1658059061.0
-《长安的荔枝》读后感,Nicksxs's Blog,https://nicksxs.me/2022/07/17/%E3%80%8A%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-07-17,1658057703.0
-Visit-Stat使用教程,SinGO博客,https://blog.xsnet.eu.org/posts/54175/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-07-17,1658055001.0
-Visit-Stat使用教程,SinGO博客,https://blog.xsnetw.cf/posts/54175/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-07-17,1658026201.0
-记录自己 | 2022.07.16,冰哥笔记,https://www.bgbiji.com/1061.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-16,1657982957.0
-通过群晖套件搭建内网邮件服务,杜老师说,https://dusays.com/484/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-16,1657929600.0
-记录自己 | 2022.07.15,冰哥笔记,https://www.bgbiji.com/1060.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-15,1657893824.0
-用Python的Pillow库绘制天城文,辛未羊的网络日志,https://panqiincs.me/2022/07/15/pillow-draw-devanagari/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-07-15,1657846591.0
