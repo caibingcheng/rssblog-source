@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+PromQL 备忘,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_10_17-prometheus_promql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-10-17,1697500800.0
 罗目古镇：峨眉山下喜相逢,Macin,https://macin.org/2023/10/16/luo-mu-gu-zhen/,https://macin.org/,https://www.macin.org/atom.xml,2023-10-16,1697486750.0
 烟盒纸，少见的公字烟,Macin,https://macin.org/2023/10/16/yan-he-zhi/,https://macin.org/,https://www.macin.org/atom.xml,2023-10-16,1697485831.0
 聊聊最近,醉里博客,https://202271.xyz/post/50555/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-10-16,1697467527.0
@@ -26,7 +27,7 @@ A Boring JVM Memory Profiling Story,Bin Wang - My Personal Blog,https://www.binw
 slicer-gui 音频分片工具一键包分享,杜老师说,https://dusays.com/631/,https://dusays.com/,https://dusays.com/atom.xml,2023-09-29,1696003200.0
 也许是 Emacs 下最好的终端模拟器,manateelazycat.github.io,//manateelazycat.github.io/2023/09/29/intro-eaf-pyqterminal/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-29,1695945600.0
 202309：九月寒露白，六关秋草黄,Macin,https://macin.org/2023/09/28/202309/,https://macin.org/,https://www.macin.org/atom.xml,2023-09-28,1695942199.0
-移动首创:通用话费不通用,瓦解的生活记事,https://hin.cool/posts/fxxkcmcc.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-09-27,1695837600.0
+移动首创:通用话费不通用,瓦解的生活记事,https://hin.cool/posts/fxxkcmcc.html,https://hin.cool/,https://hin.cool/atom.xml,2023-09-27,1695837600.0
 So-VITS-SVC 一键安装包分享,杜老师说,https://dusays.com/630/,https://dusays.com/,https://dusays.com/atom.xml,2023-09-26,1695744000.0
 甲子前忆故里，犹唏嘘,Macin,https://macin.org/2023/09/25/hong-lu-zhen/,https://macin.org/,https://www.macin.org/atom.xml,2023-09-25,1695679959.0
 知乎2023中秋月饼礼盒开箱！🥮,把酒诗代码，趁乱写年华。,https://102no.com/2023/09/26/zhihu-zhongqiu/,https://102no.com/,https://102no.com/atom.xml,2023-09-25,1695657600.0
@@ -48,4 +49,3 @@ DDoS 的攻击鉴赏上章,杜老师说,https://dusays.com/626/,https://dusays.c
 2023 年 WP-Statistics 插件崩溃问题,Another Dayu,https://anotherdayu.com/2023/5357/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-09-12,1694497688.0
 Redis 热key是什么问题，如何导致的？有什么解决方案？,Honesty·Blog,https://blog.hehouhui.cn/archives/redis-key-202309,https://blog.hehouhui.cn/,https://notion.hehouhui.cn/rss/feed.xml,2023-09-12,1694476800.0
 永荣旧山河：机械厂和发电厂,Macin,https://macin.org/2023/09/11/yong-rong-jiu-shan-he/,https://macin.org/,https://www.macin.org/atom.xml,2023-09-11,1694434156.0
-Fcitx 最佳配置实践 2023-09-11,manateelazycat.github.io,//manateelazycat.github.io/2023/09/11/fcitx-best-config/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-11,1694390400.0
