@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
 AI背着人类在编程！！！,湘铭`Blog,https://blog.xiangming.site/420.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-29,1701224510.0
+Linux 自动挂载 alist 提供的webdav,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_29-alist_webdav.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-29,1701216000.0
 Introduce K3s， CephFS and MetalLB to My High Avaliable Cluster,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-28-Introduce-K3s-CephFS-and-MetalLB-to-My-High-Avaliable-Cluster.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-28,1701147600.0
 再回首,湘铭`Blog,https://blog.xiangming.site/419.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-28,1701142062.0
 通过降级 FreeType 解决 WPS 加粗字体乱码的问题,manateelazycat.github.io,//manateelazycat.github.io/2023/11/28/wps-font-problem/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-28,1701129600.0
@@ -48,4 +49,3 @@ How to Cleanup Ceph Filesystem for Deleted Kubernetes Persistent Volume,Bin Wang
 华支睾吸虫病、社会网络结构和饮食决策,Another Dayu,https://anotherdayu.com/2023/5423/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-02,1698917529.0
 永久服务能用多久呢：MXroute 和 SM.MS,Another Dayu,https://anotherdayu.com/2023/5421/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-02,1698897436.0
 修复 lsp-bridge 补全菜单图标大小变化的 bug,manateelazycat.github.io,//manateelazycat.github.io/2023/11/02/emacs-font-function/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-02,1698883200.0
-闭上眼睛，让思绪浮动,Another Dayu,https://anotherdayu.com/2023/5417/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-01,1698848593.0
