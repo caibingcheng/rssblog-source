@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+java-内部类,Barney's Blog,https://hugo.bnblogs.cc/java-5/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-17,1668702048.0
 第二款摸鱼游戏文明 2,杜老师说,https://dusays.com/526/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-17,1668700800.0
 java-接口、lambda表达式,Barney's Blog,https://hugo.bnblogs.cc/java-4/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-15,1668525204.0
 Jenkins插件无法安装解决,cywhat's blog,https://cywhat.cn/Jenkins%E6%8F%92%E4%BB%B6%E6%97%A0%E6%B3%95%E5%AE%89%E8%A3%85%E8%A7%A3%E5%86%B3/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-15,1668497251.0
@@ -17,8 +18,8 @@ Gitea+drone搭建CICD环境,Barney's Blog,https://hugo.bnblogs.cc/gitea-drone-ci
 Ubuntu20.04服务器配置,Barney's Blog,https://hugo.bnblogs.cc/ubuntu20.04%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-07,1667833437.0
 java-类和对象,Barney's Blog,https://hugo.bnblogs.cc/java-2/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-06,1667728523.0
 杜老师的南京「之旅」,杜老师说,https://dusays.com/522/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-05,1667664000.0
-java-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java-1/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 java核心技术(1)第3章-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java%E5%9F%BA%E7%A1%80/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
+java-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java-1/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 我与十年之约,杜老师说,https://dusays.com/521/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-02,1667404800.0
 NovelAI-WebUI安装教程,DearXuan的主页,https://blog.dearxuan.com/2022/11/02/NovelAI-WebUI%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-11-02,1667352585.0
 Gitea+drone搭建CICD环境,Barney's Blog,https://hugo.bnblogs.cc/gitea-drone%E6%90%AD%E5%BB%BAcicd%E7%8E%AF%E5%A2%83/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-01,1667285799.0
@@ -48,4 +49,3 @@ curl使用,Barney's Blog,https://hugo.bnblogs.cc/curl%E4%BD%BF%E7%94%A8/,https:/
 Microsoft365 家庭版合租,杜老师说,https://dusays.com/512/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-06,1665072000.0
 Js异步处理的三种方式,Barney's Blog,https://hugo.bnblogs.cc/js%E5%BC%82%E6%AD%A5%E5%A4%84%E7%90%86%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-05,1664959586.0
 刻意练习,This Cute World,https://thiscute.world/posts/deliberate-practice/,https://thiscute.world/,https://thiscute.world/index.xml,2022-10-05,1664947860.0
-群晖 Docker 安装蚂蚁笔记的教程,杜老师说,https://dusays.com/511/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-03,1664812800.0
