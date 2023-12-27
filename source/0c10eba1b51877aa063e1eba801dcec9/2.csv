@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+使用软KVM切换器 barrier 共享键鼠,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_11_26-use_barrier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-11-26,1637884800.0
 SQL 防注入及原理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_11_04-sql_injection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-11-04,1635984000.0
 使用 gomock 测试 Go 代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_10_12-go_mock.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-12,1633996800.0
 gevent不是黑魔法(二): gevent 实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_10_11-gevent_is_good_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-11,1633910400.0
@@ -48,4 +49,3 @@ Android手动挡MVVM,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021
 你好，2021！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_22-hello_2021.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-22,1608595200.0
 gRPC鉴权方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_19-grpc_authentication.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-19,1608336000.0
 Golang里数据库migration方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800.0
-Android SwipeRefreshLayout左右滑动冲突的解决,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_12-android_swiperefresh_swipe_left_right.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-12,1607731200.0

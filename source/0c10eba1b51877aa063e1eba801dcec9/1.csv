@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+2023年终总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_12_26-good_bye_2023.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-12-26,1703548800.0
 VueJS 总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_12_17-vue3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-12-17,1702771200.0
 Linux 自动挂载 alist 提供的webdav,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_29-alist_webdav.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-29,1701216000.0
 FreeBSD 使用 vm-bhyve 安装Debian虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_17-freebsd_vm_bhyve.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-17,1700179200.0
@@ -48,4 +49,3 @@ GIN 是如何绑定参数的,Jiajun的技术笔记,https://jiajunhuang.com/artic
 你好 2022(2021 年终总结),Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_12_30-hello_2022.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-30,1640822400.0
 用Go导入大型CSV到PostgreSQL,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_12_11-go_copy_large_file_to_pg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-11,1639180800.0
 使用 OpenWRT 搭建软路由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_12_01-openwrt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-01,1638316800.0
-使用软KVM切换器 barrier 共享键鼠,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_11_26-use_barrier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-11-26,1637884800.0
