@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Linux Full Disk Encryption with Yubikey,Bin Wang - My Personal Blog,https://www.binwang.me/2023-10-22-Full-Disk-Encryption-with-Yubikey.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-10-22,1697947200.0
 Tomcat 系列篇六-介绍下 Lifecycle,Nicksxs's Blog,https://nicksxs.me/2023/10/21/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E5%85%AD-%E4%BB%8B%E7%BB%8D%E4%B8%8B-Lifecycle/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-10-21,1697891432.0
 小米、Yeelight 和 BenQ 屏幕挂灯体验,Another Dayu,https://anotherdayu.com/2023/5384/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-10-21,1697880371.0
 杜老师的骑行打卡记录,杜老师说,https://dusays.com/638/,https://dusays.com/,https://dusays.com/atom.xml,2023-10-20,1697817600.0
@@ -12,8 +13,8 @@ PromQL 备忘,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_10_17-
 烟盒纸，少见的公字烟,Macin,https://macin.org/2023/10/16/yan-he-zhi/,https://macin.org/,https://www.macin.org/atom.xml,2023-10-16,1697485831.0
 聊聊最近,醉里博客,https://202271.xyz/post/50555/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-10-16,1697467527.0
 聊聊对 FunctionalInterface 注解的一些理解,Nicksxs's Blog,https://nicksxs.me/2023/10/15/%E8%81%8A%E8%81%8A%E5%AF%B9-FunctionalInterface-%E6%B3%A8%E8%A7%A3%E7%9A%84%E4%B8%80%E4%BA%9B%E7%90%86%E8%A7%A3/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-10-15,1697372022.0
-读《资治通鉴》,manateelazycat.github.io,//manateelazycat.github.io/2023/10/15/reading-zizhitongjian/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-15,1697328000.0
 读《无穷的开始》,manateelazycat.github.io,//manateelazycat.github.io/2023/10/15/reading-the-beginning-of-infinity/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-15,1697328000.0
+读《资治通鉴》,manateelazycat.github.io,//manateelazycat.github.io/2023/10/15/reading-zizhitongjian/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-15,1697328000.0
 Hexo 主题开发 hexo-theme-imba97 —— 第零篇,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/770/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-10-14,1697300308.0
 新版本 frp 参考配置分享,杜老师说,https://dusays.com/636/,https://dusays.com/,https://dusays.com/atom.xml,2023-10-14,1697299200.0
 lsp-bridge 远程代码补全,manateelazycat.github.io,//manateelazycat.github.io/2023/10/12/lsp-bridge-and-tramp/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-12,1697068800.0
@@ -36,7 +37,7 @@ A Boring JVM Memory Profiling Story,Bin Wang - My Personal Blog,https://www.binw
 slicer-gui 音频分片工具一键包分享,杜老师说,https://dusays.com/631/,https://dusays.com/,https://dusays.com/atom.xml,2023-09-29,1696003200.0
 也许是 Emacs 下最好的终端模拟器,manateelazycat.github.io,//manateelazycat.github.io/2023/09/29/intro-eaf-pyqterminal/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-29,1695945600.0
 202309：九月寒露白，六关秋草黄,Macin,https://macin.org/2023/09/28/202309/,https://macin.org/,https://www.macin.org/atom.xml,2023-09-28,1695942199.0
-移动首创:通用话费不通用,瓦解的生活记事,https://hin.cool/posts/fxxkcmcc.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-09-27,1695837600.0
+移动首创:通用话费不通用,瓦解的生活记事,https://hin.cool/posts/fxxkcmcc.html,https://hin.cool/,https://hin.cool/atom.xml,2023-09-27,1695837600.0
 So-VITS-SVC 一键安装包分享,杜老师说,https://dusays.com/630/,https://dusays.com/,https://dusays.com/atom.xml,2023-09-26,1695744000.0
 甲子前忆故里，犹唏嘘,Macin,https://macin.org/2023/09/25/hong-lu-zhen/,https://macin.org/,https://www.macin.org/atom.xml,2023-09-25,1695679959.0
 知乎2023中秋月饼礼盒开箱！🥮,把酒诗代码，趁乱写年华。,https://102no.com/2023/09/26/zhihu-zhongqiu/,https://102no.com/,https://102no.com/atom.xml,2023-09-25,1695657600.0
@@ -48,4 +49,3 @@ Migrate Scala2grpc to Cats Effect 3,Bin Wang - My Personal Blog,https://www.binw
 成都办公室寻址笔记,见字如面,https://hiwannz.com/archives/866.html,https://hiwannz.com/,https://hiwannz.com/feed,2023-09-22,1695363306.0
 武汉周边遛娃景点,manateelazycat.github.io,//manateelazycat.github.io/2023/09/22/wuhan-travel/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-22,1695340800.0
 DDoS 的攻击鉴赏中章,杜老师说,https://dusays.com/628/,https://dusays.com/,https://dusays.com/atom.xml,2023-09-20,1695225600.0
-永川红炉：夏末看“海”好去处,Macin,https://macin.org/2023/09/18/yong-chuan-kuang-keng/,https://macin.org/,https://www.macin.org/atom.xml,2023-09-18,1695068567.0
