@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Golang里数据库migration方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800.0
 Android SwipeRefreshLayout左右滑动冲突的解决,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_12-android_swiperefresh_swipe_left_right.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-12,1607731200.0
 Android调用gRPC的两个小工具函数,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_07-android_kotlin_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-07,1607299200.0
 Android上结合kotlin使用coroutine,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_01-android_kotlin_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-01,1606780800.0
@@ -11,8 +12,8 @@ Go使用闭包简化数据库操作代码,Jiajun的技术笔记,https://jiajunhu
 TCMalloc设计文档学习,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
 Flask和requests做一个简单的请求代理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
 Linux常用命令(四)：xargs,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_21-linux_cmd_xargs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-21,1600646400.0
-Linux常用命令(三)：watch,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
 Linux常用命令(二)：htop,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_htop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
+Linux常用命令(三)：watch,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
 Linux常用命令(一)：netcat,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600.0
 结合Flask 与 marshmallow快速进行参数校验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_16-flask_marshmallow.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-16,1600214400.0
 规整数据的重要性,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_10-form_check.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-10,1599696000.0
@@ -48,4 +49,3 @@ Go设计模式：适配器模式,Jiajun的技术笔记,https://jiajunhuang.com/a
 Go设计模式：Iterator,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_07-go_design_pattern_iter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-07,1591488000.0
 glusterfs 笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_30-glusterfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-30,1590796800.0
 用peewee代替SQLAlchemy,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_29-use_peewee.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-29,1590710400.0
-Go的slice工作机制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_23-go_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-23,1590192000.0
