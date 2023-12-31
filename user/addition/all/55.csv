@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Python3函数参数中的星号,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_21-py3k_asterisk.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-21,1479686400.0
+「微信小程序」入坑总结,Yuexun's Blog,https://yuexunjiang.me/blog/wechat-app-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-14,1479081600.0
 使用Git Hooks,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_08-use_git_hooks.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-08,1478563200.0
 你根本用不着退学,Randy's Blog,https://lutaonan.com/blog/you-dont-need-to-drop-out/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-11-06,1478390400.0
 编程三年:我的程序员成长经历,罗磊的独立博客,https://luolei.org/how-i-became-a-programmer,https://luolei.org,https://luolei.org/feed/,2016-11-06,1478390400.0
@@ -47,5 +49,3 @@ CSS 实现垂直居中,Yuexun's Blog,https://yuexunjiang.me/blog/vertical-center
 使用Tornado和rst来写博客,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_06_18-write_blog_with_tornado_and_rst.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-18,1466208000.0
 《烂泥》李峻一,Randy's Blog,https://lutaonan.com/blog/lan-ni-li-jun-yi/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-06-16,1466035200.0
 从博客搬迁到创造的乐趣,Randy's Blog,https://lutaonan.com/blog/from-blog-migration-to-fun-of-creation/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-06-12,1465689600.0
-Zkin Yeti双肩摄影背包:颜值和功能之间的平衡,罗磊的独立博客,https://luolei.org/zkin-yeti-backbag-review,https://luolei.org,https://luolei.org/feed/,2016-06-10,1465516800.0
-中山纪念中学游记,Randy's Blog,https://lutaonan.com/blog/533-travel-middle-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-06-09,1465430400.0
