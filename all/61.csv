@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+两种常见的访问控制模型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_26-access_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-26,1585180800.0
+如何在 Git 中真正删除一个文件,ChrAlpha,https://blog.ichr.me/post/git-remove-files-thoroughly/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-25,1585146890.0
+gunicorn max-requests 选项的作用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_25-gunicorn_max_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-25,1585094400.0
 鬼子来了，一部超越时代的影片,Frank笔记,https://frank2019.me/archives/gui-zi-lai-liao-yi-bu-chao-yue-shi-dai-de-ying-pian,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-24,1585080960.0
 VPS常用脚本,Frank笔记,https://frank2019.me/archives/vpschang-yong-jiao-ben,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-24,1585080900.0
 Redis使用中的几点注意事项,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_23-redis_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-23,1584921600.0
@@ -20,8 +23,8 @@ Lazyload 不让 Valine 评论组件拖慢页面加载,ChrAlpha,https://blog.ichr
 MySQL Boolean类型的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_06-mysql_boolean_tinyint_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-06,1583452800.0
 Hexo 博客 | 链接分享卡片生成配置,ChrAlpha,https://blog.ichr.me/post/hexo-generate-link-sharing-card/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-05,1583423588.0
 教你如何从零开始搭建一个属于自己的网站,云游君的小站,https://www.yunyoujun.cn/share/how-to-build-your-site/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-04,1583343068.0
-pip freeze是魔鬼,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_04-pip_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-04,1583280000.0
 居家办公好物 | 震旦 AS036 桌面碎纸机开箱,罗磊的独立博客,https://luolei.org/aurora-as036-shredder,https://luolei.org,https://luolei.org/feed/,2020-03-04,1583280000.0
+pip freeze是魔鬼,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_04-pip_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-04,1583280000.0
 JWT 签名算法 HS256、RS256 及 ES256 及密钥生成,This Cute World,https://thiscute.world/posts/jwt-algorithm-key-generation/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-03,1583215786.0
 一个feed流系统的演进,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_02-feed_system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-02,1583107200.0
 通过4bet来防守3bet,Frank笔记,https://frank2019.me/archives/tong-guo-4betlai-fang-shou-3bet,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096880.0
@@ -46,6 +49,3 @@ Git 在 macOS 中忽略所有 .DS_Store 文件,ChrAlpha,https://blog.ichr.me/pos
 Python中的并发控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_12-python_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-12,1581465600.0
 让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/archives/97/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-02-11,1581394020.0
 让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/technology/50,https://blog.fsky7.com,https://blog.fsky7.com/feed,2020-02-11,1581393600.0
-【花开物语|MAD】幹物女(WeiWei)-Bonboru!,云游君的小站,https://www.yunyoujun.cn/posts/hana-saku-iroha-weiwei-bonboru,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-09,1581272688.0
-Mac 上连接 Android 传输文件与配置 SDK platform tools 环境,ChrAlpha,https://blog.ichr.me/post/configurate-connection-with-android-on-mac/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-08,1581157605.0
-KVM spice协议在高分屏上的分辨率问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_08-kvm_spice_high_dpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-08,1581120000.0
