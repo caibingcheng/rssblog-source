@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+控制理论的经典实例：单摆系统,辛未羊的网络日志,https://panqiincs.me/2022/05/19/pendulum-as-example/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-05-19,1652923043.0
 接收 GitHub Webhook 并自动执行脚本,杜老师说,https://dusays.com/464/,https://dusays.com/,https://dusays.com/atom.xml,2022-05-16,1652716800.0
 十年之约活动送个杯具,杜老师说,https://dusays.com/463/,https://dusays.com/,https://dusays.com/atom.xml,2022-05-13,1652457600.0
 NAT 网关、NAT 穿越以及虚拟网络,This Cute World,https://thiscute.world/posts/about-nat/,https://thiscute.world/,https://thiscute.world/index.xml,2022-05-13,1652413560.0
@@ -29,8 +30,8 @@ tanx的n次方不定积分递推方法,DearXuan的主页,https://blog.dearxuan.c
 平价理发店,LonelyGod,https://hin.cool/posts/lifadian.html,https://hin.cool/,https://hin.cool/atom.xml,2022-04-15,1650045600.0
 Docker部署wordpress站点,cywhat's blog,https://cywhat.cn/Docker%E9%83%A8%E7%BD%B2wordpress%E7%AB%99%E7%82%B9/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-04-15,1650003249.0
 Locally Differentially Private Protocols for Frequency Estimation,Barney's Blog,https://hugo.bnblogs.cc/paper08/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-04-13,1649861587.0
-QQ机器人开发,DearXuan的主页,https://dearxuan.top/2022/04/02/QQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-04-02,1648890264.0
 QQ机器人开发,DearXuan的主页,https://blog.dearxuan.com/2022/04/02/QQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-04-02,1648890264.0
+QQ机器人开发,DearXuan的主页,https://dearxuan.top/2022/04/02/QQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-04-02,1648890264.0
 老秦,LonelyGod,https://hin.cool/posts/laoqin.html,https://hin.cool/,https://hin.cool/atom.xml,2022-03-31,1648752000.0
 IDEA - 快捷键篇,Yulin Lewis' Blog,https://lewky.cn/posts/idea-hotkey/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-31,1648727486.0
 glibc-malloc源码阅读二,BBing's Blog,https://bbing.com.cn/202203/glibc-malloc2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-30,1648641282.0
@@ -45,7 +46,6 @@ glibc-malloc源码阅读,BBing's Blog,https://bbing.com.cn/202203/glibc-malloc/,
 这两年工作心态上的一些变化,BBing's Blog,https://bbing.com.cn/202203/work-summary-1922/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-22,1647960635.0
 通过dll的跨进程通讯,DearXuan的主页,https://blog.dearxuan.com/2022/03/22/%E9%80%9A%E8%BF%87dll%E7%9A%84%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E8%AE%AF/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-22,1647923580.0
 通过dll的跨进程通讯,DearXuan的主页,https://dearxuan.top/2022/03/22/%E9%80%9A%E8%BF%87dll%E7%9A%84%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E8%AE%AF/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-22,1647923580.0
-桌面窗口管理器占用内存过高,Yulin Lewis' Blog,https://lewky.cn/posts/dwm-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-22,1647908442.0
 桌面窗口管理器占用内存过高,Yulin Lewis' Blog,https://lewky233.top/posts/dwm-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-22,1647908442.0
+桌面窗口管理器占用内存过高,Yulin Lewis' Blog,https://lewky.cn/posts/dwm-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-22,1647908442.0
 NULL和nullptr实际问题分析,BBing's Blog,https://bbing.com.cn/202203/null-nullptr-problem/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-21,1647851315.0
-ELK系列(6) - Elasticsearch常用接口,Yulin Lewis' Blog,https://lewky.cn/posts/elk-6/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-21,1647823081.0
