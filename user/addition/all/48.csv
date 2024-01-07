@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+读《自控力》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_01-self_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-01,1551398400.0
 Containerd简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_02_27-containerd_tutorial.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-02-27,1551225600.0
 软件设计套路之推拉模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_02_26-push_pull_system.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-02-26,1551139200.0
 香港上台攻略:大陆居民持护照、港澳通行证办理香港手机卡套餐,罗磊的独立博客,https://luolei.org/cuniq-hk-shared-plan-for-chinese-mainland-citizens,https://luolei.org,https://luolei.org/feed/,2019-02-25,1551052800.0
@@ -29,15 +30,15 @@ Linux下系统调用的过程,Jiajun的技术笔记,https://jiajunhuang.com/arti
 2018 年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2018-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2018-12-30,1546212781.0
 2018 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2018-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-12-30,1546212781.0
 2018 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2018-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-12-30,1546128000.0
-耍耍OverlayFS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_27-overlayfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-27,1545868800.0
 2分钟Ins小技巧，不用手机也能发Instagram | ZUOLUOTV,罗磊的独立博客,https://luolei.org/post-instagram-with-chrome,https://luolei.org,https://luolei.org/feed/,2018-12-27,1545868800.0
+耍耍OverlayFS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_27-overlayfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-27,1545868800.0
 Redis 5.0 Stream简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_27-redis_stream.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-27,1545868800.0
 删除分区表,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_26-delete_disk_partition_table.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-26,1545782400.0
 从来如此,云游君的小站,https://www.yunyoujun.cn/posts/always-like-this,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-12-24,1545673311.0
 卷土重来未可知,云游君的小站,https://www.yunyoujun.cn/posts/after-2nd-graduate-exam,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-12-24,1545670344.0
 YouCompleteMe ycmd server SHUTDOWN 和 pyenv的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_24-ycm_pyenv.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
-299元的网易严选 VS 900元的 JINS | 第一次在线配近视眼镜 | ZUOLUOTV,罗磊的独立博客,https://luolei.org/you-163-and-jins-glasees-review,https://luolei.org,https://luolei.org/feed/,2018-12-24,1545609600.0
 Docker组件介绍（二）：shim， docker-init和docker-proxy,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_24-docker_components_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
+299元的网易严选 VS 900元的 JINS | 第一次在线配近视眼镜 | ZUOLUOTV,罗磊的独立博客,https://luolei.org/you-163-and-jins-glasees-review,https://luolei.org,https://luolei.org/feed/,2018-12-24,1545609600.0
 我在阿里巴巴花45元买了一个山寨 Peak Design 快挂 | ZUOLUOTV,罗磊的独立博客,https://luolei.org/peak-design-capture-clip-clone,https://luolei.org,https://luolei.org/feed/,2018-12-23,1545523200.0
 Docker组件介绍（一）：runc和containerd,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_22-docker_components.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-22,1545436800.0
 2018 香港流行音乐推介,Randy's Blog,https://lutaonan.com/blog/2018-cantonpop-list/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-12-19,1545177600.0
@@ -45,7 +46,6 @@ Prometheus MySQL Exporter源码阅读与分析,Jiajun的技术笔记,https://jia
 MySQL性能指标,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_13-db_metrics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-13,1544659200.0
 使用Dropbox来备份服务器文件,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_12-use_dropbox_to_backup_server.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-12,1544572800.0
 《计算机网络-系统方法》读书笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_10-computer_network_systems_approach.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-10,1544400000.0
-1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/notebook/12,https://blog.fsky7.com,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
 1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/archives/37/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
+1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/notebook/12,https://blog.fsky7.com,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
 Y Combinator《如何创业》笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_08-yc_startup.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-08,1544227200.0
-每个创作者都应该有张人体工学梯:西昊M60,罗磊的独立博客,https://luolei.org/my-office-chair-2018,https://luolei.org,https://luolei.org/feed/,2018-12-05,1543968000.0
