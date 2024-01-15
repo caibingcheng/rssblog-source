@@ -133,17 +133,17 @@ jobs:
   #       run: |
   #         curl -X POST ${{ secrets.VERCEL_TRIGGER }}
 
-  sync:
-    needs: deploy
-    if: ${{ github.ref == 'refs/heads/master' }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Sync Gitee
-        uses: Yikun/hub-mirror-action@master
-        with:
-          src: github/caibingcheng
-          dst: gitee/caibingcheng
-          force_update: true
-          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-          dst_token: ${{ secrets.GITEE_TOKEN }}
-          static_list: "rssblog-source"
+  # sync:
+  #   needs: deploy
+  #   if: ${{ github.ref == 'refs/heads/master' }}
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Sync Gitee
+  #       uses: Yikun/hub-mirror-action@master
+  #       with:
+  #         src: github/caibingcheng
+  #         dst: gitee/caibingcheng
+  #         force_update: true
+  #         dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+  #         dst_token: ${{ secrets.GITEE_TOKEN }}
+  #         static_list: "rssblog-source"
