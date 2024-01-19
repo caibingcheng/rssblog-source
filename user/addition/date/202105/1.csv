@@ -4,12 +4,14 @@ Redis源码阅读：bitmap 位图的运算,Jiajun的技术笔记,https://jiajunh
 Redis源码阅读：set是怎么做交并集运算的？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_29-redis_source_code_9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-29,1622246400.0
 Redis源码阅读：list实现(ziplist， quicklist),Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_28-redis_source_code_8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-28,1622160000.0
 又拍云—年轻人的第一个 CDN,云游君的小站,https://www.yunyoujun.cn/posts/why-i-use-upyun-cdn/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-05-27,1622122175.0
+[转载]再谈谈这个沉重的话题:程序员的出路,框架師,https://www.mobaijun.com/posts/4100025323.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-05-27,1622105062.0
 Redis源码阅读：RDB是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_27-redis_source_code_7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-27,1622073600.0
 Redis源码阅读：AOF重写,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_26-redis_source_code_6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-26,1621987200.0
 Redis源码阅读：AOF持久化,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_25-redis_source_code_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-25,1621900800.0
 10本 MongoDB 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/05/25/10-mongodb-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-05-24,1621872000.0
-Redis源码阅读：key是怎么过期的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
+【MySQL系列】'MySQL远程连接失败(错误码:2003)',框架師,https://www.mobaijun.com/posts/3639136044.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-05-24,1621840240.0
 Redis源码阅读：字典是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
+Redis源码阅读：key是怎么过期的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
 浅谈躺平主义,Frank笔记,https://frank2019.me/archives/qian-tan-tang-ping-zhu-yi,https://frank2019.me/,https://frank2019.me/rss.xml,2021-05-23,1621790820.0
 Redis源码阅读：执行命令,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_23-redis_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-23,1621728000.0
 Redis源码阅读：启动过程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_22-redis_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-22,1621641600.0

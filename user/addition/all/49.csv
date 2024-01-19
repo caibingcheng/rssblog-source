@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-Docker组件介绍（二）：shim， docker-init和docker-proxy,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_24-docker_components_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
-299元的网易严选 VS 900元的 JINS | 第一次在线配近视眼镜 | ZUOLUOTV,罗磊的独立博客,https://luolei.org/you-163-and-jins-glasees-review,https://luolei.org,https://luolei.org/feed/,2018-12-24,1545609600.0
-YouCompleteMe ycmd server SHUTDOWN 和 pyenv的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_24-ycm_pyenv.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
-我在阿里巴巴花45元买了一个山寨 Peak Design 快挂 | ZUOLUOTV,罗磊的独立博客,https://luolei.org/peak-design-capture-clip-clone,https://luolei.org,https://luolei.org/feed/,2018-12-23,1545523200.0
-Docker组件介绍（一）：runc和containerd,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_22-docker_components.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-22,1545436800.0
-2018 香港流行音乐推介,Randy's Blog,https://lutaonan.com/blog/2018-cantonpop-list/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-12-19,1545177600.0
-Prometheus MySQL Exporter源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_16-prometheus_mysqld_exporter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-16,1544918400.0
-MySQL性能指标,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_13-db_metrics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-13,1544659200.0
-使用Dropbox来备份服务器文件,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_12-use_dropbox_to_backup_server.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-12,1544572800.0
-《计算机网络-系统方法》读书笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_10-computer_network_systems_approach.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-10,1544400000.0
-1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/notebook/12,https://blog.fsky7.com,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
-1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/archives/37/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
-Y Combinator《如何创业》笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_08-yc_startup.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-08,1544227200.0
-每个创作者都应该有张人体工学梯:西昊M60,罗磊的独立博客,https://luolei.org/my-office-chair-2018,https://luolei.org,https://luolei.org/feed/,2018-12-05,1543968000.0
-Go类型嵌套,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_01-go_embedding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-01,1543622400.0
-etcd源码阅读与分析（五）：mvcc,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_28-etcd_source_code_analysis_mvvc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-28,1543363200.0
-etcd源码阅读与分析（四）：lease,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_27-etcd_source_code_analysis_lease.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-27,1543276800.0
-菲律宾 | 18米深蓝:薄荷岛&宿务 OW潜水旅行,罗磊的独立博客,https://luolei.org/travel-philippines-bohol,https://luolei.org,https://luolei.org/feed/,2018-11-26,1543190400.0
-干了这碗叔本华牌毒鸡汤 --- 《人生的智慧》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_26-the_wisdom_of_life_on_human_nature.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-26,1543190400.0
-etcd源码阅读与分析（三）：wal,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_24-etcd_source_code_analysis_wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
-Memory leak in net/http,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_24-memory_leak_in_net_http.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
-每个UP主都应该有个监视器 | 艾肯HH7 | ZUOLUOTV,罗磊的独立博客,https://luolei.org/ikan-portkeys-hh7-montor,https://luolei.org,https://luolei.org/feed/,2018-11-22,1542844800.0
-etcd源码阅读与分析（二）：raft,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_22-etcd_source_code_analysis_raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-22,1542844800.0
-etcd源码阅读与分析（一）：raftexample,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_20-etcd_source_code_analysis_raftexample.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-20,1542672000.0
-虚拟机里的Ubuntu sudo时卡住,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_18-ubuntu_sudo_hang.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-18,1542499200.0
-new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-11-17,1542486792.0
-new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-11-17,1542412800.0
-Raft论文阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_16-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
-Go访问私有变量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_16-go_private_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
-避免全局变量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_15-avoid_global_states.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-15,1542240000.0
-Go的unsafe包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_13-golang_package_unsafe.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-13,1542067200.0
-Golang中实现禁止拷贝,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
-人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0
-数据库事务,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_10-transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
-Golang的反射,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_10-golang_reflection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
-参观神州第一舰 | 中国海军深圳舰开放日 | VLOG19,罗磊的独立博客,https://luolei.org/china-pla-navy-167-ship-open-day,https://luolei.org,https://luolei.org/feed/,2018-11-09,1541721600.0
-把网站去掉CSS之后,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_09-drop_css.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-09,1541721600.0
-处理并发的方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_07-concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-07,1541548800.0
-常见的索引方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_02-index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-02,1541116800.0
-Golang 实践经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_01-golang_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-01,1541030400.0
-恋爱证明记,云游君的小站,https://www.yunyoujun.cn/posts/proof-of-love,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-10-31,1541024061.0
-西藏 | 骑行川藏四千里:2012年的青春影像,罗磊的独立博客,https://luolei.org/tibet-road-2012,https://luolei.org,https://luolei.org/feed/,2018-10-31,1540944000.0
-每个创作者都应该有张木桌:Timerecorder 时计 | VLOG18,罗磊的独立博客,https://luolei.org/my-desk-2018,https://luolei.org,https://luolei.org/feed/,2018-10-30,1540857600.0
-SliderMini:可能是2018最值得期待的便携滑轨  | ZUOLUOTV | VLOG17,罗磊的独立博客,https://luolei.org/smartta-slidermini-review,https://luolei.org,https://luolei.org/feed/,2018-10-23,1540252800.0
-高性能MySQL笔记第一章,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_23-high_performance_mysql_chap1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-23,1540252800.0
-面试的一些技巧,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_21-interview_techniques.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-21,1540080000.0
-雅西卡 YASHICA Y35 | 编号740,罗磊的独立博客,https://luolei.org/yashica-y35-camera,https://luolei.org,https://luolei.org/feed/,2018-10-17,1539734400.0
-HTTP/2 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_13-http2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-13,1539388800.0
-编程五年:我辞职了,罗磊的独立博客,https://luolei.org/new-journey,https://luolei.org,https://luolei.org/feed/,2018-10-10,1539129600.0
-我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0
+仓生,云游君的小站,https://www.yunyoujun.cn/posts/the-common-hamster,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-10,1554936011.0
+那霸的夜,Just lepture,https://lepture.com/zh/2019/night-in-naha,https://lepture.com/,https://lepture.com/feed.xml,2019-04-10,1554921337.0
+从 @babel/register 到 node.js require(),Ahonn's Blog,https://www.ahonn.me/blog/from-babel-register-to-nodejs-require,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
+我最常访问的五个小众中文网站 | VLOG38,罗磊的独立博客,https://luolei.org/top-5-interesting-chinese-website,https://luolei.org,https://luolei.org/feed/,2019-04-09,1554768000.0
+从 @babel/register 到 node.js require(),Yuexun's Blog,https://yuexunjiang.me/blog/from-babel-register-to-nodejs-require,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
+从 @babel/register 到 node.js require(),Yuexun's Blog,https://yuexunjiang.me/blog/from-babel-register-to-nodejs-require/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
+使用shairport-sync搭建airplay音频服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_06-shairport_sync.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-06,1554508800.0
+搭建aria2服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_06-aria2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-06,1554508800.0
+11 寸 iPad Pro 体验,Randy's Blog,https://lutaonan.com/blog/ipad-pro-11-review/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-04-06,1554508800.0
+VirtManager Windows自适应屏幕,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_05-virt_manager_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-05,1554422400.0
+使用btrfs组建RAID1,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_03-btrfs_raid1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-03,1554249600.0
+如何给 Lycamobile 充值任意金额的话费  |  突破淘宝最低5美元限制 | ZUOLUOTV | VLOG37,罗磊的独立博客,https://luolei.org/lycamobile-recharge-custom-money,https://luolei.org,https://luolei.org/feed/,2019-04-03,1554249600.0
+人生是不断取舍的过程,Randy's Blog,https://lutaonan.com/blog/everything-is-about-trade-off/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-04-03,1554249600.0
+属于 Unity 的 Flutter——UIWidgets,萤火之森,http://frankorz.com/2019/04/01/uiwidgets-practice/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-04-01,1554077580.0
+Swagger? 不好用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_01-swagger_i_dislike.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-01,1554076800.0
+在中国大陆免费体验 iPhone 手机 eSIM | VLOG36,罗磊的独立博客,https://luolei.org/iphone-esim-club-sim,https://luolei.org,https://luolei.org/feed/,2019-03-31,1553990400.0
+Golang/Python最佳实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_29-python_golang_best_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-29,1553817600.0
+Typecho主题 | Initial - Fly 简约更不简单,FlyingSky's Blog,https://blog.fsky7.com/archives/52/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-03-28,1553777100.0
+Typecho主题 | Initial - Fly 简约更不简单,FlyingSky's Blog,https://blog.fsky7.com/technology/71,https://blog.fsky7.com,https://blog.fsky7.com/feed,2019-03-28,1553745600.0
+如何在 iPhone 开通中国联通 Voicemail 语音邮箱 | VLOG35,罗磊的独立博客,https://luolei.org/china-unicom-iphone-active-voicemail,https://luolei.org,https://luolei.org/feed/,2019-03-27,1553644800.0
+腾讯出品的良心境外上网卡WeSim | VLOG30,罗磊的独立博客,https://luolei.org/wesim-roaming-card,https://luolei.org,https://luolei.org/feed/,2019-03-27,1553644800.0
+读《毛泽东选集》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_24-mao.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-24,1553385600.0
+GORM源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_19-gorm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-19,1552953600.0
+随想,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_16-tittle_tattle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-16,1552694400.0
+Initial 简约主题的本站食用方式,FlyingSky's Blog,https://blog.fsky7.com/archives/49/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-03-15,1552660320.0
+Golang中的错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_15-golang_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-15,1552608000.0
+Golang 的槽点,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_14-golang_bad_side.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-14,1552521600.0
+一个想当然的bug,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_12-golang_strings_split.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-12,1552348800.0
+现代的 React,Randy's Blog,https://lutaonan.com/blog/modern-react/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-03-08,1552003200.0
+读《稀缺》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_06-scarcity.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-06,1551830400.0
+让百度收录你的 GitHub Pages 博客,云游君的小站,https://www.yunyoujun.cn/posts/baidu-seo-about-github-pages,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-03-03,1551649977.0
+读《影响力》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_03-influence.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-03,1551571200.0
+搭建自己的 Minecraft 服务器,云游君的小站,https://www.yunyoujun.cn/posts/set-up-my-minecraft-server,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-03-01,1551454060.0
+读《自控力》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_01-self_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-01,1551398400.0
+Containerd简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_02_27-containerd_tutorial.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-02-27,1551225600.0
+软件设计套路之推拉模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_02_26-push_pull_system.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-02-26,1551139200.0
+香港上台攻略:大陆居民持护照、港澳通行证办理香港手机卡套餐,罗磊的独立博客,https://luolei.org/cuniq-hk-shared-plan-for-chinese-mainland-citizens,https://luolei.org,https://luolei.org/feed/,2019-02-25,1551052800.0
+CUniq UK:一卡中英港三号，能在大陆漫游的英国手机卡,罗磊的独立博客,https://luolei.org/cuniq-uk-sim-card-china-roaming,https://luolei.org,https://luolei.org/feed/,2019-02-16,1550275200.0
+创业笔记 | 从0到1开公司是什么体验,罗磊的独立博客,https://luolei.org/shenzhen-startup-tutorial,https://luolei.org,https://luolei.org/feed/,2019-02-15,1550188800.0
+导出「你的日记」与导入「一本日记」,云游君的小站,https://www.yunyoujun.cn/note/export-nideriji-and-import-1diary/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-01-31,1548923883.0
+记一次Golang TLS编程踩坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_30-golang_tls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-30,1548806400.0
+给博客添加 DARK Mode ( 黑暗模式 ),FlyingSky's Blog,https://blog.fsky7.com/archives/46/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-01-29,1548768300.0
+给博客添加 DARK Mode (黑暗模式),FlyingSky's Blog,https://blog.fsky7.com/technology/66,https://blog.fsky7.com,https://blog.fsky7.com/feed,2019-01-29,1548734400.0
+Vue 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-learn-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-01-28,1548698304.0
+在 Linux 下搭建 Minecraft 服务器,FlyingSky's Blog,https://blog.fsky7.com/archives/41/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-01-25,1548408600.0
+在 Linux 下搭建 Minecraft 服务器,FlyingSky's Blog,https://blog.fsky7.com/technology/26,https://blog.fsky7.com,https://blog.fsky7.com/feed,2019-01-25,1548388800.0
+如何拥有真实的美国手机号 | 从免费到超贵，三种实用方案推荐 | VLOG32,罗磊的独立博客,https://luolei.org/how-to-get-a-us-mobile-phone-number,https://luolei.org,https://luolei.org/feed/,2019-01-24,1548288000.0
+MiBox S 小米盒子国际版 | 2019年原生 AndroidTV 推荐 | VLOG31,罗磊的独立博客,https://luolei.org/mibox-s-unboxing,https://luolei.org,https://luolei.org/feed/,2019-01-19,1547856000.0
+健身一年,Randy's Blog,https://lutaonan.com/blog/one-year-of-bulking/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-01-14,1547424000.0
+不越狱在 iOS 12.113.3 设备安装 Kodi,萤火之森,http://frankorz.com/2019/01/13/install-kodi-with-tweakbox/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-01-13,1547402460.0

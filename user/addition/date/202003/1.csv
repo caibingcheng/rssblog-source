@@ -5,6 +5,7 @@ title,author,link,home,rss,date,timestamp
 gunicorn max-requests 选项的作用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_25-gunicorn_max_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-25,1585094400.0
 鬼子来了，一部超越时代的影片,Frank笔记,https://frank2019.me/archives/gui-zi-lai-liao-yi-bu-chao-yue-shi-dai-de-ying-pian,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-24,1585080960.0
 VPS常用脚本,Frank笔记,https://frank2019.me/archives/vpschang-yong-jiao-ben,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-24,1585080900.0
+【工具系列】IDEA链接MySQL数据库失败,框架師,https://www.mobaijun.com/posts/1191060190.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-03-24,1585035553.0
 Redis使用中的几点注意事项,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_23-redis_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-23,1584921600.0
 2020年的春天一样寒冷,Frank笔记,https://frank2019.me/archives/2020nian-de-chun-tian-yi-yang-han-leng,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-18,1584562440.0
 德州扑克隐藏的身体语言,Frank笔记,https://frank2019.me/archives/de-zhou-bu-ke-yin-cang-de-shen-ti-yu-yan,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-17,1584475980.0
@@ -21,5 +22,5 @@ pip freeze是魔鬼,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_
 一个feed流系统的演进,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_02-feed_system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-02,1583107200.0
 通过4bet来防守3bet,Frank笔记,https://frank2019.me/archives/tong-guo-4betlai-fang-shou-3bet,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096880.0
 使用Markdown在博客中添加视频,Frank笔记,https://frank2019.me/archives/shi-yong-markdownzai-bo-ke-zhong-tian-jia-shi-pin,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096760.0
-好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
 Android 使用view binding,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_01-android_view_binding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-01,1583020800.0
+好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0

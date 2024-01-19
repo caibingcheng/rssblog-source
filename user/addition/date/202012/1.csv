@@ -1,7 +1,12 @@
 title,author,link,home,rss,date,timestamp
 年度简报 - 2020 | 等待,FlyingSky's Blog,https://blog.fsky7.com/archives/175/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-12-31,1609430400.0
+【工具系列】常用工具汇总,框架師,https://www.mobaijun.com/posts/1664035384.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-31,1609403450.0
 2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
+【工具系列】StarUML软件使用,框架師,https://www.mobaijun.com/posts/3077971711.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-30,1609324389.0
+【随笔】完整的Java学习路线,框架師,https://www.mobaijun.com/posts/2907784405.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-30,1609323414.0
 用 Code Snippet 提高开发效率,Randy's Blog,https://lutaonan.com/blog/how-to-use-code-snippets/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-12-25,1608854400.0
+【WEB系列】SpirngBoot整合Swagger,框架師,https://www.mobaijun.com/posts/1981059771.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-24,1608801968.0
+【随笔】年终总结,框架師,https://www.mobaijun.com/posts/521709994.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-24,1608801202.0
 来电拦截方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_23-call_screening.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-23,1608681600.0
 你好，2021！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_22-hello_2021.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-22,1608595200.0
 常用Git相关命令行,沐云湘夕—求索,https://quest.myxxts.club/archives/28/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608441060.0
@@ -9,8 +14,10 @@ title,author,link,home,rss,date,timestamp
 gRPC鉴权方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_19-grpc_authentication.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-19,1608336000.0
 Golang里数据库migration方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800.0
 Redis Implementation for Cache and Database Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-12-14-Redis-Implementation-for-Cache-and-Database-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-12-14,1607922000.0
+【Hexo】Hexo matery主题评论系统valine改版记录,框架師,https://www.mobaijun.com/posts/4026840102.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-12,1607747873.0
 如何找到你朋友的社交账号,云游君的小站,https://www.yunyoujun.cn/posts/find-npy-social-account,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-12-12,1607731380.0
 Android SwipeRefreshLayout左右滑动冲突的解决,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_12-android_swiperefresh_swipe_left_right.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-12,1607731200.0
 Android调用gRPC的两个小工具函数,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_07-android_kotlin_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-07,1607299200.0
 程序員與文學衝突,Just lepture,https://lepture.com/zh/2020/tweet-yuan,https://lepture.com/,https://lepture.com/feed.xml,2020-12-06,1607235718.0
+【DB系列】InfluxDB,框架師,https://www.mobaijun.com/posts/2901774056.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-04,1607048712.0
 Android上结合kotlin使用coroutine,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_01-android_kotlin_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-01,1606780800.0

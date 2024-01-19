@@ -1,24 +1,51 @@
 title,author,link,home,rss,date,timestamp
-【DB系列】SpringBoot实现MySQL数据库备份与还原,框架师,https://www.mobaijun.com/posts/2334558877.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-12,1634023174.0
+【DB系列】SpringBoot实现MySQL数据库备份与还原,框架師,https://www.mobaijun.com/posts/2334558877.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-12,1634023174.0
 【Git系列】Git 仓库体积过大，缩减记录,框架师,https://www.mobaijun.com/posts/2432586935.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-11,1633917948.0
 【Linux系列】Linux中的Free命令详解,框架师,https://www.mobaijun.com/posts/386444203.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-09,1633764874.0
 【MySQL系列】MySQL数据库备份与恢复-使用MySQLDump记录,框架师,https://www.mobaijun.com/posts/2902111757.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-26,1632642935.0
 【Git系列】常用Git命令清单,框架师,https://www.mobaijun.com/posts/119849249.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-23,1632363221.0
 转载|漫画｜面试焦虑？滚开！,框架师,https://www.mobaijun.com/posts/244631694.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-08,1631089299.0
-Java数据类型和MySql数据类型对应表,框架师,https://www.mobaijun.com/posts/961492254.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-19,1629343670.0
+【Java基础】Java数据类型和MySql数据类型对应表,框架師,https://www.mobaijun.com/posts/961492254.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-19,1629343670.0
 Ubuntu 20.04.2 LTS Server版本设置静态IP地址,框架师,https://www.mobaijun.com/posts/594559550.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-18,1629285329.0
-SpringBoot监控工具之《Actuator》,框架师,https://www.mobaijun.com/posts/283491354.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-05,1628127593.0
-SpringBoot异步任务记录,框架师,https://www.mobaijun.com/posts/4255110274.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-02,1627891678.0
+【WEB系列】SpringBoot监控工具之《Actuator》,框架師,https://www.mobaijun.com/posts/283491354.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-05,1628127593.0
+【WEB系列】SpringBoot异步任务记录,框架師,https://www.mobaijun.com/posts/4255110274.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-02,1627891678.0
 SpringBoot数据库（URL）参数记录,框架师,https://www.mobaijun.com/posts/2403615121.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-07-19,1626664718.0
 SpringBoot跨域及后端解决方案,框架师,https://www.mobaijun.com/posts/2298002216.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-07-07,1625622396.0
 Linux-MySQL数据备份和定时清理,框架师,https://www.mobaijun.com/posts/619134598.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-06-29,1624933078.0
+【WEB系列】SpringBoot项目安装SSL协议,框架師,https://www.mobaijun.com/posts/1643000683.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-06-21,1624238749.0
+【Linux系列】TaiShan 200ECS服务器安装Docker、influxdb、JDK,框架師,https://www.mobaijun.com/posts/313051912.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-06-08,1623141702.0
+【Linux系列】Centos7安装并配置多网口,框架師,https://www.mobaijun.com/posts/1316700149.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-06-04,1622791463.0
+【Linux系列】Linux之cat命令高级版ccat安装使用,框架師,https://www.mobaijun.com/posts/2794786039.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-06-02,1622624269.0
+[转载]再谈谈这个沉重的话题:程序员的出路,框架師,https://www.mobaijun.com/posts/4100025323.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-05-27,1622105062.0
 MySQL远程连接失败(错误码:2003),框架师,https://www.mobaijun.com/posts/3639136044.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-05-24,1621840240.0
-JavaSe-网络编程,框架师,https://www.mobaijun.com/posts/1483848703.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-26,1619424035.0
-Nginx,框架师,https://www.mobaijun.com/posts/1706463495.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-14,1618384093.0
-常用DOS命令汇总,框架师,https://www.mobaijun.com/posts/567653050.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-02-20,1613789085.0
+【Java基础】JavaSe-网络编程,框架師,https://www.mobaijun.com/posts/1483848703.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-26,1619424035.0
+【Nginx系列】Nginx,框架師,https://www.mobaijun.com/posts/1706463495.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-14,1618384093.0
+【随笔】常用DOS命令汇总,框架師,https://www.mobaijun.com/posts/567653050.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-02-20,1613789085.0
 Node.js更换国内源,框架师,https://www.mobaijun.com/posts/3059858801.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-02-02,1612254603.0
-SpringBoot集成Mybatis-Plus,框架师,https://www.mobaijun.com/posts/183863717.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-26,1611655824.0
-服务器相关知识记录,框架师,https://www.mobaijun.com/posts/361637157.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-22,1611309513.0
+【WEB系列】SpringBoot集成Mybatis-Plus,框架師,https://www.mobaijun.com/posts/183863717.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-26,1611655824.0
+【随笔】服务器相关知识记录,框架師,https://www.mobaijun.com/posts/361637157.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-22,1611309513.0
 SpringBoot2.3整合InfluxDB实现增删查,框架师,https://www.mobaijun.com/posts/1092756891.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-20,1611123302.0
 SpringBoot实现邮件发送,框架师,https://www.mobaijun.com/posts/265470177.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-13,1610533373.0
 正确的使用搜索引擎,框架师,https://www.mobaijun.com/posts/2845351032.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-11,1610359269.0
+【Java基础】Java-多线程,框架師,https://www.mobaijun.com/posts/3237902709.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-06,1609930602.0
+【工具系列】常用工具汇总,框架師,https://www.mobaijun.com/posts/1664035384.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-31,1609403450.0
+【工具系列】StarUML软件使用,框架師,https://www.mobaijun.com/posts/3077971711.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-30,1609324389.0
+【随笔】完整的Java学习路线,框架師,https://www.mobaijun.com/posts/2907784405.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-30,1609323414.0
+【WEB系列】SpirngBoot整合Swagger,框架師,https://www.mobaijun.com/posts/1981059771.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-24,1608801968.0
+【随笔】年终总结,框架師,https://www.mobaijun.com/posts/521709994.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-24,1608801202.0
+【Hexo】Hexo matery主题评论系统valine改版记录,框架師,https://www.mobaijun.com/posts/4026840102.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-12,1607747873.0
+【DB系列】InfluxDB,框架師,https://www.mobaijun.com/posts/2901774056.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-04,1607048712.0
+【随笔】CDN技术原理,框架師,https://www.mobaijun.com/posts/4065328982.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-11-30,1606726339.0
+【工具系列】让JavaWEB程序如MySQL服务一样自启动,框架師,https://www.mobaijun.com/posts/837744366.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-11-30,1606718475.0
+【WEB系列】SpringBoot 实现 Websocket 通信详解,框架師,https://www.mobaijun.com/posts/3556598747.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-11-10,1605005482.0
+【工具系列】常用开发软件配置,框架師,https://www.mobaijun.com/posts/1002246177.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-11-07,1604749676.0
+【工具系列】Lombok,框架師,https://www.mobaijun.com/posts/529462236.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-10-20,1603200487.0
+【WEB系列】阿里云短信服务实战,框架師,https://www.mobaijun.com/posts/22837162.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-08-02,1596382840.0
+【工具系列】让你的IDEA一次设置，多处使用,框架師,https://www.mobaijun.com/posts/798437723.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-06-28,1593363641.0
+【随笔】Gitmoji提交规范,框架師,https://www.mobaijun.com/posts/724837924.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-06-10,1591796288.0
+【Linux系列】Linux学习笔记,框架師,https://www.mobaijun.com/posts/3003968415.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-06-04,1591264146.0
+【随笔】今天给大家推荐几个chrome插件,框架師,https://www.mobaijun.com/posts/715346954.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-30,1590820430.0
+【工具系列】IDEA ctrl+alt+L 格式化快捷键无效时解决,框架師,https://www.mobaijun.com/posts/4259780865.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-29,1590765063.0
+【设计模式】Java设计模式-工厂模式,框架師,https://www.mobaijun.com/posts/973523555.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-29,1590729705.0
+【前端系列】node常用命令汇总,框架師,https://www.mobaijun.com/posts/3052872972.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-26,1590474927.0
+【工具系列】使用码云 + PicGO + Typora搭建一个自动化图床,框架師,https://www.mobaijun.com/posts/1619271054.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-25,1590376321.0
