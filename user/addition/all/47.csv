@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+再谈996,Frank笔记,https://frank2019.me/archives/zai-tan-996,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567572600.0
 恐惧与期待,Frank笔记,https://frank2019.me/archives/kong-ju-yu-qi-dai,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567572300.0
 BBR+BBR魔改+Lotsever(锐速)一键脚本 for Centos/Debian/Ubuntu,Frank笔记,https://frank2019.me/archives/bbr-fix,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567572180.0
 牌局分析：创纪录的超大底池,Frank笔记,https://frank2019.me/archives/pai-ju-fen-xi-chuang-ji-lu-de-chao-da-di-chi,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567571880.0
@@ -11,8 +12,8 @@ Golang(Go语言)爬虫框架colly简明教程及源码阅读与分析,Jiajun的�
 选择合适的技术栈,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_30-choose_properly_tech.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-30,1567123200.0
 Golang的template(模板引擎)简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_23-golang_html_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-23,1566518400.0
 毕业三年，一路走来,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_21-three_years_after_graduate.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-21,1566345600.0
-关于 tapable 你需要知道这些,Ahonn's Blog,https://www.ahonn.me/blog/about-tapable-you-need-to-know-these,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
+关于 tapable 你需要知道这些,Ahonn's Blog,https://www.ahonn.me/blog/about-tapable-you-need-to-know-these,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 代码的坏味道,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_18-code_with_bad_taste.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-18,1566086400.0
 你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-dns-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
@@ -29,15 +30,15 @@ C， Go， Python的错误处理和异常机制杂谈,Jiajun的技术笔记,http
 Linux高分屏支持,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_20-linux_hidpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-20,1563580800.0
 未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0
 GCC默认的头文件搜索路径,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_16-gcc_header_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-16,1563235200.0
-自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
 自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
+自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
 读《远见-如何规划职业生涯3大阶段》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_15-the_long_view.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-15,1563148800.0
 洞明 Unity ECS 基础概念,萤火之森,http://frankorz.com/2019/07/14/clarify-ecs-basic-concept/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-07-14,1563135180.0
 后端工程师学前端(五): SASS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_13-learn_front_end_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-13,1562976000.0
 后端工程师学前端(四): CSS进阶(盒子模型),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_10-learn_front_end_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-10,1562716800.0
 我为什么选择 Telegram 来运营粉丝社群 | 规则、经验和思考,罗磊的独立博客,https://luolei.org/why-i-choose-telegram,https://luolei.org,https://luolei.org/feed/,2019-07-08,1562544000.0
-读《投资中最简单的事》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_06-the_simple_things_in_investment.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-06,1562371200.0
 我的博客从 Ghost 迁移回 Wordpress | 优化记录,罗磊的独立博客,https://luolei.org/migrate-from-ghost-to-wordpress,https://luolei.org,https://luolei.org/feed/,2019-07-06,1562371200.0
+读《投资中最简单的事》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_06-the_simple_things_in_investment.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-06,1562371200.0
 我最喜欢的一台相机，今天被车压碎了 | RICOH GR | VLOG54,罗磊的独立博客,https://luolei.org/my-ricoh-gr-was-crashed-by-a-car,https://luolei.org,https://luolei.org/feed/,2019-07-05,1562284800.0
 后端工程师学前端(三): CSS进阶(特指度、单位和字体族),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_04-learn_front_end_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-04,1562198400.0
 我花20元修好了2000块的 BOSE 降噪耳机  | VLOG53,罗磊的独立博客,https://luolei.org/i-fix-my-broken-bose-qc35,https://luolei.org,https://luolei.org/feed/,2019-07-03,1562112000.0
@@ -48,4 +49,3 @@ Swift语法笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06
 纽约 |  2019，我在时代广场跨年  | NYC深度行摄,罗磊的独立博客,https://luolei.org/new-york-2019,https://luolei.org,https://luolei.org/feed/,2019-06-25,1561420800.0
 读《管理的实践》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_23-the_practice_of_management.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-23,1561248000.0
 后端工程师学前端(一): HTML,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_23-learn_front_end.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-23,1561248000.0
-frp 源码阅读与分析(二)：TCP内网穿透的实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_19-frp_source_code_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-19,1560902400.0
