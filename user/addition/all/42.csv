@@ -1,4 +1,8 @@
 title,author,link,home,rss,date,timestamp
+virsh自动关闭windows虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_18-virsh_shutdown_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-18,1589760000.0
+第三方评论系统之我见,云游君的小站,https://www.yunyoujun.cn/share/third-party-comment-system/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-05-17,1589693440.0
+离开阿里巴巴,Randy's Blog,https://lutaonan.com/blog/leaving-alibaba/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-17,1589673600.0
+Golang sort源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_16-go_sort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-16,1589587200.0
 分治的思维方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_15-divide_and_conquer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-15,1589500800.0
 Debian 使用NetworkManager之后networking.service崩溃,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
 说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
@@ -45,7 +49,3 @@ Golang的可选参数实践,Jiajun的技术笔记,https://jiajunhuang.com/articl
 【Hexo】Hexo——Npm使用报错,框架師,https://www.mobaijun.com/posts/776701796.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-18,1587192270.0
 【随笔】常用Emoji表情一览表😆,框架師,https://www.mobaijun.com/posts/1007769027.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-15,1586935140.0
 【Java基础】权限修饰符和常用关键字学习,框架師,https://www.mobaijun.com/posts/1663206604.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-15,1586927961.0
-KK没有位置低级别策略,Frank笔记,https://frank2019.me/archives/kkmei-you-wei-zhi-di-ji-bie-ce-lue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-14,1586895960.0
-YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-me-money,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-14,1586888548.0
-2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-04-13,1586812489.0
-[博客通报] 切换评论系统至 Disqus,ChrAlpha,https://blog.ichr.me/notice/change-comment-system-into-disqus/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-13,1586811001.0
