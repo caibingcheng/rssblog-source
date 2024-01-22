@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Jsdelivr的证书错误带来了哪些影响？,LonelyGod,https://hin.cool/posts/jsddown.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-20,1639958400.0
 Vscode新建React项目,Barney's Blog,https://hugo.bnblogs.cc/vscode%E6%96%B0%E5%BB%BAreact%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-18,1639835747.0
 必应崩了，还有什么搜索引擎？,LonelyGod,https://hin.cool/posts/fsou.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-16,1639684200.0
 Vscode + window Terminal集成git-Bash终端,Barney's Blog,https://hugo.bnblogs.cc/vscode%E9%9B%86%E6%88%90conda%E5%92%8Cgit-bash%E7%BB%88%E7%AB%AF/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-14,1639467935.0
@@ -19,11 +20,11 @@ volantis多背景图的优化方案,DearXuan的主页,https://blog.dearxuan.com/
 volantis多背景图的优化方案,DearXuan的主页,https://dearxuan.top/2021/11/29/volantis%E5%A4%9A%E8%83%8C%E6%99%AF%E5%9B%BE%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-29,1638181860.0
 变老和博客一周年,LonelyGod,https://hin.cool/posts/27toold.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-29,1638144000.0
 linux常用命令,Barney's Blog,https://hugo.bnblogs.cc/linux%E5%91%BD%E4%BB%A4/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-11-27,1638021609.0
-搭建自己的随机图API,DearXuan的主页,https://blog.dearxuan.com/2021/11/27/%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9A%8F%E6%9C%BA%E5%9B%BEAPI/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-27,1637985300.0
 搭建自己的随机图API,DearXuan的主页,https://dearxuan.top/2021/11/27/%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9A%8F%E6%9C%BA%E5%9B%BEAPI/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-27,1637985300.0
+搭建自己的随机图API,DearXuan的主页,https://blog.dearxuan.com/2021/11/27/%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9A%8F%E6%9C%BA%E5%9B%BEAPI/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-27,1637985300.0
 读钱德勒《漫长的告别》：都市独行侠,LonelyGod,https://hin.cool/posts/longgoodbye.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-25,1637798400.0
-Navicat使用汇总,Yulin Lewis' Blog,https://lewky.cn/posts/navicat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-11-20,1637422008.0
 Navicat使用汇总,Yulin Lewis' Blog,https://lewky233.top/posts/navicat/,https://lewky233.top/,https://lewky.cn/index.xml,2021-11-20,1637422008.0
+Navicat使用汇总,Yulin Lewis' Blog,https://lewky.cn/posts/navicat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-11-20,1637422008.0
 使用 systemd 控制您的计算机时间和日期,无妄当自持,https://www.insidentally.com/articles/000021/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-11-20,1637373099.0
 人工智能基础-动态规划,DearXuan的主页,https://blog.dearxuan.com/2021/11/19/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-19,1637304300.0
 人工智能基础-动态规划,DearXuan的主页,https://dearxuan.top/2021/11/19/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-19,1637304300.0
@@ -48,4 +49,3 @@ CLion编写我的世界基岩版插件(LiteLoaderBDS)-2,DearXuan的主页,https:
 CLion编写我的世界基岩版插件(LiteLoaderBDS)-1,DearXuan的主页,https://blog.dearxuan.com/2021/11/07/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-07,1636299540.0
 CLion编写我的世界基岩版插件(LiteLoaderBDS)-1,DearXuan的主页,https://dearxuan.top/2021/11/07/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-07,1636299540.0
 使用 systemctl 命令管理 systemd 单元,无妄当自持,https://www.insidentally.com/articles/000019/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-11-06,1636242699.0
-强大的博客图片管理工具——PicGo,LonelyGod,https://hin.cool/posts/picgogo.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-05,1636131720.0
