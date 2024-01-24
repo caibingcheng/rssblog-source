@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
 WAL(Write-ahead logging)的套路,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_15-wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-15,1621036800.0
+Vercel无法访问带来了哪些影响？,瓦解的生活记事,https://www.hin.cool/posts/verceldown.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-05-15,1621036800.0
 【Azure】微软Azure开启原生IPv6支持,Luminous' Home,https://luotianyi.vc/5607.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-05-14,1621006060.0
 PlantUML - 类图,Yulin Lewis' Blog,https://lewky.cn/posts/plantuml-class-diagram.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-05-14,1620992812.0
 我给自己设立了每月 $20 的开源捐赠预算,Randy's Blog,https://lutaonan.com/blog/my-oss-donation-budget/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-05-12,1620777600.0
@@ -34,7 +35,7 @@ Compute Shader 简介,萤火之森,http://frankorz.com/2021/04/17/compute-shader
 巴中市如何开具《动物检疫合格证明》,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/739/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-04-15,1618505483.0
 再一次被知乎恶心吐了,非理勿试,https://www.ntiy.com/1543.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-04-15,1618465789.0
 如何定位程序问题所在,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_15-how_to_debug_program.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-15,1618444800.0
-Nginx,框架师,https://www.mobaijun.com/posts/1706463495.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-14,1618384093.0
+【Nginx系列】Nginx,框架師,https://www.mobaijun.com/posts/1706463495.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-14,1618384093.0
 设计一个IM归档系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_14-system_design_archive.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-14,1618358400.0
 为 Arch Linux 创建字体软件包,无妄当自持,https://www.insidentally.com/articles/000011/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-04-13,1618318833.0
 10本 Redis 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/12/10-redis-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-11,1618156800.0
@@ -48,4 +49,3 @@ CPU 和 GPU - 异构计算的演进与发展,面向信仰编程,https://dravenes
 10本 Python 深入学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/09/10-python-learn-depth-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-08,1617897600.0
 为 Arch Linux 创建软件包,无妄当自持,https://www.insidentally.com/articles/000010/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-04-07,1617756711.0
 10本 Python 入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/07/10-python-learn-guide-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-06,1617724800.0
-10本 Python 零基础入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/06/10-python-learn-from-scratch-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-05,1617638400.0
