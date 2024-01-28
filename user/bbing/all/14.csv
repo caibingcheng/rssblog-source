@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+算法基础-排序方法,DearXuan的主页,https://blog.dearxuan.com/2022/01/22/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E6%8E%92%E5%BA%8F%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-22,1642852320.0
 算法基础-排序方法,DearXuan的主页,https://dearxuan.top/2022/01/22/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E6%8E%92%E5%BA%8F%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-01-22,1642852320.0
 几种定投策略的仿真比较,BBing's Blog,https://bbing.com.cn/202201/fund-sim/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-01-21,1642750256.0
 算法基础-随机过程,DearXuan的主页,https://blog.dearxuan.com/2022/01/21/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-21,1642746780.0
@@ -28,8 +29,8 @@ Jackson问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/jackson-issues/
 Jackson问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/jackson-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-04,1641311142.0
 2021 年年终总结,This Cute World,https://thiscute.world/posts/2021-summary/,https://thiscute.world/,https://thiscute.world/index.xml,2022-01-03,1641192600.0
 PicGo插件：上传图片到多吉云存储,LonelyGod,https://hin.cool/posts/picgoplugin.html,https://hin.cool/,https://hin.cool/atom.xml,2022-01-02,1641081600.0
-Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/11/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-01,1641050207.0
 Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/javaweb-servlet-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-01-01,1641050207.0
+Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/11/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-01,1641050207.0
 Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/javaweb-servlet-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-01,1641050207.0
 比zerotier更好的内网穿透方案——Tailscale,LonelyGod,https://hin.cool/posts/tailscale.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-31,1640908800.0
 智能指针三剑客源码阅读,BBing's Blog,https://bbing.com.cn/202112/stl-smartpointers/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-29,1640763783.0
@@ -38,8 +39,8 @@ Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/javaweb-servle
 C#(.Net) 将非托管dll嵌入exe中,DearXuan的主页,https://blog.dearxuan.com/2021/12/26/C-Net-%E5%B0%86%E9%9D%9E%E6%89%98%E7%AE%A1dll%E5%B5%8C%E5%85%A5exe%E4%B8%AD/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-12-26,1640511060.0
 C#(.Net) 将非托管dll嵌入exe中,DearXuan的主页,https://dearxuan.top/2021/12/26/C-Net-%E5%B0%86%E9%9D%9E%E6%89%98%E7%AE%A1dll%E5%B5%8C%E5%85%A5exe%E4%B8%AD/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-12-26,1640511060.0
 记观Pentatonic十周年巡演重庆站,LonelyGod,https://hin.cool/posts/byebyepostrock.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-25,1640390400.0
-Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky.cn/posts/windows-netstat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
 Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky233.top/posts/windows-netstat/,https://lewky233.top/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
+Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky.cn/posts/windows-netstat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
 Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky.cn/posts/windows-netstat.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
 黄桷垭老街与黄葛古道,无妄当自持,https://www.insidentally.com/articles/000023/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-12-24,1640310348.0
 Linux卸载python,cywhat's blog,https://cywhat.cn/Linux%E5%8D%B8%E8%BD%BDpython/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-12-23,1640245782.0
@@ -48,4 +49,3 @@ explicit说明符,BBing's Blog,https://bbing.com.cn/202112/cpp-explicit/,https:/
 ModuleNotFoundError: No Module Named '_Ctypes' Make: *** [Install] 错误 1,cywhat's blog,https://cywhat.cn/ModuleNotFoundError-No-module-named-_ctypes-make-install-%E9%94%99%E8%AF%AF-1/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-12-23,1640227454.0
 zipimport.ZipImportError: can't decompress data; zlib not available make: *** [install] 错误 1,cywhat's blog,https://cywhat.cn/zipimport.ZipImportError-cant-decompress-data-zlib-not-available-make-install-%E9%94%99%E8%AF%AF-1/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-12-23,1640226994.0
 如何保持Ssh长时间连接不断开,cywhat's blog,https://cywhat.cn/%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81Ssh%E9%95%BF%E6%97%B6%E9%97%B4%E9%93%BE%E6%8E%A5%E4%B8%8D%E6%96%AD%E5%BC%80/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-12-22,1640154551.0
-算法作业,Barney's Blog,https://hugo.bnblogs.cc/%E7%AE%97%E6%B3%95%E4%BD%9C%E4%B8%9A/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-22,1640154158.0
