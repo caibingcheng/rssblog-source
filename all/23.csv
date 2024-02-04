@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+读《图解密码技术》,manateelazycat.github.io,//manateelazycat.github.io/reading/cryptography/2022/12/05/reading-graphical-cryptography.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-12-05,1670198400.0
 第三十一年冬至,把酒诗代码，趁乱写年华。,https://102no.com/2022/12/05/31th-dongzhi/,https://102no.com/,https://102no.com/atom.xml,2022-12-04,1670169600.0
 mybatis系列-mybatis是如何初始化mapper的,Nicksxs's Blog,https://nicksxs.me/2022/12/04/mybatis%E6%98%AF%E5%A6%82%E4%BD%95%E5%88%9D%E5%A7%8B%E5%8C%96mapper%E7%9A%84/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-12-04,1670157414.0
 旧信笺：回看80年代婚恋观,Macin,https://macin.org/2022/12/04/a-letter-from-1984/,https://macin.org/,https://www.macin.org/atom.xml,2022-12-04,1670150322.0
@@ -37,15 +38,14 @@ Github Actions Hexo 自动部署,怠惰のコエ - imba久期 BLOG,https://imba9
 密码学中的归约证明过程,辛未羊的网络日志,https://panqiincs.me/2022/11/22/crypto-proof-method/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-11-22,1669111200.0
 洧誰汜嘚當姩哋 QQ 涳簡,杜老师说,https://dusays.com/527/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-20,1668960000.0
 HttpClient问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/httpclient-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-11-20,1668957202.0
-HttpURLConnection设置host请求头无效,Yulin Lewis' Blog,https://lewky.cn/posts/http-host-header/,https://lewky.cn/,https://lewky.cn/index.xml,2022-11-20,1668957202.0
 HttpClient问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/httpclient-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-11-20,1668957202.0
+HttpURLConnection设置host请求头无效,Yulin Lewis' Blog,https://lewky.cn/posts/http-host-header/,https://lewky.cn/,https://lewky.cn/index.xml,2022-11-20,1668957202.0
 powershell 初体验二,Nicksxs's Blog,https://nicksxs.me/2022/11/20/powershell-%E5%88%9D%E4%BD%93%E9%AA%8C%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-11-20,1668950144.0
 java-异常、断言和日志,Barney's Blog,https://hugo.bnblogs.cc/java-6/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-20,1668937914.0
-tagged-pointer-让指针包含更多信息,Bing's Blog,https://imcbc.cn/202211/tagged-pointer/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
 tagged-pointer-让指针包含更多信息,Bing's Blog,https://bbing.com.cn/202211/tagged-pointer/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
+tagged-pointer-让指针包含更多信息,Bing's Blog,https://imcbc.cn/202211/tagged-pointer/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
 搭建旁路由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_11_20-router.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-20,1668902400.0
 贰拾捌,瓦解的生活记事,https://hin.cool/posts/ershiba.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-11-18,1668785402.0
-Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/elisp/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
 Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
+Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/elisp/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
 java-内部类,Barney's Blog,https://hugo.bnblogs.cc/java-5/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-17,1668702048.0
-第二款摸鱼游戏文明 2,杜老师说,https://dusays.com/526/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-17,1668700800.0
