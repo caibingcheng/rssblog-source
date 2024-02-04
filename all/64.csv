@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+疫情过后的思考,Frank笔记,https://frank2019.me/archives/yi-qing-guo-hou-de-si-kao,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-26,1582750980.0
+Parcel.js + Vue 搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-parcel-demo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-26,1582689900.0
 MySQL charset不同导致无法使用索引的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_26-mysql_charset_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-26,1582675200.0
 使用 Speedtest CLI 测试服务器带宽质量,ChrAlpha,https://blog.ichr.me/post/use-speedtest-cli-to-test-the-speed-of-your-server/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-24,1582561951.0
 微服务的缺点,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_19-should_i_use_microservice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-19,1582070400.0
@@ -47,5 +49,3 @@ JDK自带的那些好用的工具,雨临Lewis,https://lewky.cn/posts/jdk-tools.h
 React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
 React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
 2019 年终总结：慢慢变成别人眼中「食古不化」的「怪人」,Randy's Blog,https://lutaonan.com/blog/2019-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-01,1577836800.0
-使用Gitea+Drone打造自己的CI/CD系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_01_01-use_gitea_with_drone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-01,1577836800.0
-年度简报 - 2019 | 拾光,FlyingSky's Blog,https://blog.fsky7.com/archives/71/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-12-31,1577808000.0
