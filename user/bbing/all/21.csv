@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+安装使用hexo,刘超智,https://www.insidentally.com/articles/000001/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-27,1603760862.0
+✳️ Vi/Vim使用备忘,qinxs小站,https://7bxing.com/posts/b04c6f46/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-10-23,1603435073.0
 Hugo系列(4) - 从Hexo迁移至Hugo以及使用LoveIt主题的踩坑记录,雨临Lewis,https://lewky.cn/posts/hugo-4.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-12,1602516495.0
 Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章,雨临Lewis,https://lewky.cn/posts/hugo-3.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-11,1602393076.0
 Hugo系列(2) - 通过配置文件来定制个人站点,雨临Lewis,https://lewky.cn/posts/hugo-2.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-10,1602317338.0
@@ -47,5 +49,3 @@ Java 中文编码分析,This Cute World,https://thiscute.world/posts/how-java-ha
 《尘缘》,This Cute World,https://thiscute.world/posts/fate-of-mortals/,https://thiscute.world/,https://thiscute.world/index.xml,2017-11-17,1510941120.0
 又一个期末,This Cute World,https://thiscute.world/posts/the-end-of-another-semester/,https://thiscute.world/,https://thiscute.world/index.xml,2017-06-26,1498498125.0
 《无限的未知》,This Cute World,https://thiscute.world/posts/infinite-ryvius/,https://thiscute.world/,https://thiscute.world/index.xml,2017-06-14,1497416738.0
-欧几里得算法求最大公约数(GCD)的数学原理,This Cute World,https://thiscute.world/posts/mathematics-in-euclidean-gcd/,https://thiscute.world/,https://thiscute.world/index.xml,2017-05-26,1495814333.0
-我患上了阅读焦虑症,This Cute World,https://thiscute.world/posts/reading-anxiety/,https://thiscute.world/,https://thiscute.world/index.xml,2017-03-07,1488861540.0
