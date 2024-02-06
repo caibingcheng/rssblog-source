@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Jenkins+Gitee持续集成,Barney's Blog,https://hugo.bnblogs.cc/jenkins-gitee%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684848714.0
 Ubuntu搭建redis集群,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E6%90%AD%E5%BB%BAredis%E9%9B%86%E7%BE%A4/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684827988.0
 用脚本部署 Bitwarden 密码管理平台,杜老师说,https://dusays.com/588/,https://dusays.com/,https://dusays.com/atom.xml,2023-05-22,1684771200.0
 MacOS 窗口管理器 yabai 玩耍笔记,This Cute World,https://thiscute.world/posts/macos-window-manager-yabai-usage/,https://thiscute.world/,https://thiscute.world/index.xml,2023-05-22,1684729497.0
@@ -48,4 +49,3 @@ Linux忘记mysql密码解决办法,cywhat's blog,https://cywhat.cn/Linux%E5%BF%9
 常见排序算法,Barney's Blog,https://hugo.bnblogs.cc/%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-04-03,1680511560.0
 无意义活动生成器「摸鱼神器」,杜老师说,https://dusays.com/571/,https://dusays.com/,https://dusays.com/atom.xml,2023-04-01,1680364800.0
 记2023年惘闻乐队的重庆现场,瓦解的生活记事,https://hin.cool/posts/wangwen.html,https://hin.cool/,https://hin.cool/atom.xml,2023-03-31,1680246060.0
-Pkg_resources.DistributionNotFound:The Supervisor==3.4,cywhat's blog,https://cywhat.cn/pkg_resources.DistributionNotFoundThe-supervisor3.4.0-distribution-was-not-found-and-is-required-by-the-application/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-03-30,1680159074.0
