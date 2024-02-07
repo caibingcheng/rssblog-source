@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+如何变得不浮躁？,冰哥笔记,https://www.bgbiji.com/893.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-29,1648546597.0
 【转载】李承鹏：有些事要写进历史的，有些人，已不像人,Frank笔记,https://frank2019.me/articles/2022/03/29/1648525326601.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-03-29,1648525553.0
 Rust 报错 link.exe was not found,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/753/,https://imba97.cn/,https://imba97.cn/atom.xml,2022-03-28,1648498998.0
 初来杭州的一些碎碎念,冰哥笔记,https://www.bgbiji.com/892.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-28,1648460478.0
@@ -19,15 +20,15 @@ Nginx 源码阅读（一）: 启动流程,Jiajun的技术笔记,https://jiajunhu
 【CloudFlare】官方免费CNAME接入教程,Luminous' Home,https://luotianyi.vc/6185.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-03-20,1647753849.0
 Kubernetes、集群联邦和资源分发,面向信仰编程,https://draveness.me//kuberentes-federation,https://draveness.me/,https://draveness.me/feed.xml,2022-03-19,1647648000.0
 被疫情严重影响的这两天,非理勿试,https://www.ntiy.com/1735.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-18,1647609201.0
-Hg hooks 实践历程,4Ark × Blog,https://4ark.me/post/hg-hooks.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-17,1647475200.0
 Go 泛型简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_17-go_generics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-17,1647475200.0
+Hg hooks 实践历程,4Ark × Blog,https://4ark.me/post/hg-hooks.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-17,1647475200.0
 读《摄影构图就这么简单》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/03/16/reading-composition.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-16,1647388800.0
 KVM 显卡穿透给 Windows,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_15-kvm_windows_gpu_passthrough.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-15,1647302400.0
 书评 | 如何提高学习效率，让知识真正转化为自身价值？,冰哥笔记,https://www.bgbiji.com/887.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-14,1647274175.0
 Leetcode 83 删除排序链表中的重复元素 ( Remove Duplicates from Sorted List *Easy* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/03/13/Leetcode-83-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0-Remove-Duplicates-from-Sorted-List-Easy-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-03-13,1647157902.0
 燃烧吧，爆发吧！像苹果一样红，像鞭炮一样响！,非理勿试,https://www.ntiy.com/1728.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-13,1647149279.0
-周刊第4期：独立思考,4Ark × Blog,https://4ark.me/post/weekly-04.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-12,1647043200.0
 使用 HTTP Router 处理 Telegram Bot 按钮回调,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_12-tgbot_httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-12,1647043200.0
+周刊第4期：独立思考,4Ark × Blog,https://4ark.me/post/weekly-04.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-12,1647043200.0
 如何突破自己？,冰哥笔记,https://www.bgbiji.com/886.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-10,1646920190.0
 有哪些坚持就有效果的生活好习惯？,冰哥笔记,https://www.bgbiji.com/885.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-10,1646876326.0
 读《硬战》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/03/09/reading-harden.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-09,1646784000.0
@@ -48,4 +49,3 @@ Emacs递归添加目录下所有插件,manateelazycat.github.io,//manateelazycat
 Hg tips,4Ark × Blog,https://4ark.me/post/hg-tips.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-02,1646179200.0
 每月思考|2022年2月份的一些思考,冰哥笔记,https://www.bgbiji.com/880.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-01,1646129054.0
 Disruptor 系列二,Nicksxs's Blog,https://nicksxs.me/2022/02/27/Disruptor-%E7%B3%BB%E5%88%97%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-27,1645969504.0
-周刊第2期：珍惜和平,4Ark × Blog,https://4ark.me/post/weekly-02.html,https://4ark.me/,https://4ark.me/rss.xml,2022-02-27,1645920000.0
