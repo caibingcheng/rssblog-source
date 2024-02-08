@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+第一次当伴郎是什么体验？,罗磊的独立博客,https://luolei.org/be-a-best-man-shenzhen-wedding,https://luolei.org,https://luolei.org/feed/,2016-05-07,1462579200.0
 Haskell TypeClass 笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_05_05-typeclassopedia.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-05,1462406400.0
 从 optimizeCb 说起,Ahonn's Blog,https://www.ahonn.me/blog/starting-from-the-optimizeCb,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
 从 optimizeCb 说起,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-the-optimizeCb,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
@@ -30,9 +31,9 @@ C语言的位操作,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_
 分治,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_01_25-divide_and_conqure.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-01-25,1453680000.0
 日記、新年お願いします,Just lepture,https://lepture.com/zh/2016/new-year-koshigaya,https://lepture.com/,https://lepture.com/feed.xml,2016-01-16,1452942900.0
 Review of 2015:剁手篇,罗磊的独立博客,https://luolei.org/review-or-2015-gadget,https://luolei.org,https://luolei.org/feed/,2016-01-15,1452816000.0
-Review of 2015 年度回顾,罗磊的独立博客,https://luolei.org/review-of-2015,https://luolei.org,https://luolei.org/feed/,2016-01-09,1452297600.0
 目测是大陆第一个Netflix全平台评测,罗磊的独立博客,https://luolei.org/review-orf-netflix-2016,https://luolei.org,https://luolei.org/feed/,2016-01-09,1452297600.0
 对信息和技术的一些看法,罗磊的独立博客,https://luolei.org/the-value-of-tech-and-information,https://luolei.org,https://luolei.org/feed/,2016-01-09,1452297600.0
+Review of 2015 年度回顾,罗磊的独立博客,https://luolei.org/review-of-2015,https://luolei.org,https://luolei.org/feed/,2016-01-09,1452297600.0
 罗磊博客统计报告2015,罗磊的独立博客,https://luolei.org/annual-analytics-2015,https://luolei.org,https://luolei.org/feed/,2015-12-31,1451520000.0
 2015 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2015-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-31,1451520000.0
 日記、初めまして,Just lepture,https://lepture.com/zh/2015/first-day-koshigaya,https://lepture.com/,https://lepture.com/feed.xml,2015-12-30,1451475000.0
@@ -41,11 +42,10 @@ Review of 2015 年度回顾,罗磊的独立博客,https://luolei.org/review-of-2
 [译] 在 PHP 中如何预防 SQL 注入,Yuexun's Blog,https://yuexunjiang.me/blog/how-can-i-prevent-sql-injection-in-php/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-21,1450656000.0
 PHP cURL 库的简单使用,Yuexun's Blog,https://yuexunjiang.me/blog/simple-use-of-the-php-curl-library/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-19,1450483200.0
 【年終卷】2015年我读了哪些书？,罗磊的独立博客,https://luolei.org/what-i-read-in-2015,https://luolei.org,https://luolei.org/feed/,2015-12-10,1449705600.0
-马拉松 | 2015广州马拉松,罗磊的独立博客,https://luolei.org/guangzhou-marathon-2015,https://luolei.org,https://luolei.org/feed/,2015-12-08,1449532800.0
 马拉松 | 2015广州马拉松・比赛日,罗磊的独立博客,https://luolei.org/guangzhou-marathon-2015-race-day,https://luolei.org,https://luolei.org/feed/,2015-12-08,1449532800.0
+马拉松 | 2015广州马拉松,罗磊的独立博客,https://luolei.org/guangzhou-marathon-2015,https://luolei.org,https://luolei.org/feed/,2015-12-08,1449532800.0
 关于python的decorator和descriptor,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_12_05-python_descriptor_and_decorator.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-12-05,1449273600.0
 知乎用户动态监控爬虫,Yuexun's Blog,https://yuexunjiang.me/blog/the-crawler-of-zhihu-user-dynamic-monitoring/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-11-25,1448409600.0
 月神,Just lepture,https://lepture.com/zh/2015/wish-to-be-found,https://lepture.com/,https://lepture.com/feed.xml,2015-11-23,1448319600.0
 phpmyadmin 缺少 mcrypt 扩展,Yuexun's Blog,https://yuexunjiang.me/blog/phpmyadmin-lack-mcrypt-extension/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-11-22,1448150400.0
 iMac 2015 5K 版外接 USB3.0 硬盘盒+SSD 系统加速体验,罗磊的独立博客,https://luolei.org/imac-5k-external-usb-ssd-update,https://luolei.org,https://luolei.org/feed/,2015-11-17,1447718400.0
-目测这是第一个在大陆的谷歌Chromecast评测,罗磊的独立博客,https://luolei.org/chromecast-2-unboxing-and-review,https://luolei.org,https://luolei.org/feed/,2015-11-06,1446768000.0
