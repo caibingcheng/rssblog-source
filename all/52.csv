@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Next.js 应用开发实践,Randy's Blog,https://lutaonan.com/blog/the-book-nextjs-in-action/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-06-16,1623801600.0
 一种以网约车司机为目标的新型庞氏骗局,非理勿试,https://www.ntiy.com/1566.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-06-15,1623740256.0
 不念过往，不畏将来,瓦解的生活记事,https://www.hin.cool/posts/summerbeer.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-06-15,1623715200.0
 不念过往，不畏将来,瓦解的生活记事,https://www.hin.cool/posts/sunmerbeer.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-06-15,1623715200.0
@@ -48,4 +49,3 @@ Redis源码阅读：list实现(ziplist， quicklist),Jiajun的技术笔记,https
 Redis源码阅读：RDB是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_27-redis_source_code_7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-27,1622073600.0
 让你的 gnome 桌面显示农历,无妄当自持,https://www.insidentally.com/articles/000013/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-05-26,1621994433.0
 Redis源码阅读：AOF重写,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_26-redis_source_code_6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-26,1621987200.0
-为 linux 安装多媒体解码器,无妄当自持,https://www.insidentally.com/articles/000012/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-05-25,1621947633.0
