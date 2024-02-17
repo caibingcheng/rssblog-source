@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+foldl 和 foldr 的变换,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_05_22-foldl_and_foldr.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-22,1463875200.0
 使用 JavaScript 实现简单的拖拽,Yuexun's Blog,https://yuexunjiang.me/blog/use-javascript-to-achieve-simple-drag-and-drop/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 记第一次面试,Yuexun's Blog,https://yuexunjiang.me/blog/the-first-interview/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 关于部落冲突的二三事儿-序,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-0,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2016-05-12,1463067095.0
@@ -22,8 +23,8 @@ JavaScript 原型链探究,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-
 21 岁我想说的,Randy's Blog,https://lutaonan.com/blog/say-in-21/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-25,1458864000.0
 apply， call 与 bind 的区别,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-apply-call-and-bind/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-20,1458432000.0
 我是如何监听 APP 价格变动的,Randy's Blog,https://lutaonan.com/blog/how-do-i-track-app-price/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-16,1458086400.0
-Tornado 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_03_14-tornado.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-14,1457913600.0
 我学五笔的经历,Randy's Blog,https://lutaonan.com/blog/my-wubi-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-14,1457913600.0
+Tornado 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_03_14-tornado.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-14,1457913600.0
 JavaScript权威指南笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_03_06-notes_on_js_the_definitive_guide.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-06,1457222400.0
 Python零碎知识汇总,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_03_05-python_fragmentary_knowledge.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-05,1457136000.0
 便宜开箱:品胜TS-D199充电宝,罗磊的独立博客,https://luolei.org/lcd-power-station-pisen-ts-d199,https://luolei.org,https://luolei.org/feed/,2016-03-02,1456876800.0
@@ -36,9 +37,9 @@ C语言的位操作,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_
 分治,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_01_25-divide_and_conqure.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-01-25,1453680000.0
 日記、新年お願いします,Just lepture,https://lepture.com/zh/2016/new-year-koshigaya,https://lepture.com/,https://lepture.com/feed.xml,2016-01-16,1452942900.0
 Review of 2015:剁手篇,罗磊的独立博客,https://luolei.org/review-or-2015-gadget,https://luolei.org,https://luolei.org/feed/,2016-01-15,1452816000.0
+目测是大陆第一个Netflix全平台评测,罗磊的独立博客,https://luolei.org/review-orf-netflix-2016,https://luolei.org,https://luolei.org/feed/,2016-01-09,1452297600.0
 对信息和技术的一些看法,罗磊的独立博客,https://luolei.org/the-value-of-tech-and-information,https://luolei.org,https://luolei.org/feed/,2016-01-09,1452297600.0
 Review of 2015 年度回顾,罗磊的独立博客,https://luolei.org/review-of-2015,https://luolei.org,https://luolei.org/feed/,2016-01-09,1452297600.0
-目测是大陆第一个Netflix全平台评测,罗磊的独立博客,https://luolei.org/review-orf-netflix-2016,https://luolei.org,https://luolei.org/feed/,2016-01-09,1452297600.0
 罗磊博客统计报告2015,罗磊的独立博客,https://luolei.org/annual-analytics-2015,https://luolei.org,https://luolei.org/feed/,2015-12-31,1451520000.0
 2015 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2015-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-31,1451520000.0
 日記、初めまして,Just lepture,https://lepture.com/zh/2015/first-day-koshigaya,https://lepture.com/,https://lepture.com/feed.xml,2015-12-30,1451475000.0
@@ -47,5 +48,4 @@ Review of 2015 年度回顾,罗磊的独立博客,https://luolei.org/review-of-2
 [译] 在 PHP 中如何预防 SQL 注入,Yuexun's Blog,https://yuexunjiang.me/blog/how-can-i-prevent-sql-injection-in-php/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-21,1450656000.0
 PHP cURL 库的简单使用,Yuexun's Blog,https://yuexunjiang.me/blog/simple-use-of-the-php-curl-library/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-19,1450483200.0
 【年終卷】2015年我读了哪些书？,罗磊的独立博客,https://luolei.org/what-i-read-in-2015,https://luolei.org,https://luolei.org/feed/,2015-12-10,1449705600.0
-马拉松 | 2015广州马拉松,罗磊的独立博客,https://luolei.org/guangzhou-marathon-2015,https://luolei.org,https://luolei.org/feed/,2015-12-08,1449532800.0
 马拉松 | 2015广州马拉松・比赛日,罗磊的独立博客,https://luolei.org/guangzhou-marathon-2015-race-day,https://luolei.org,https://luolei.org/feed/,2015-12-08,1449532800.0
