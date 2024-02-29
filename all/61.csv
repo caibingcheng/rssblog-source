@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+自己搭建的免费虚拟主机（MOFH）,岚天小窝,https://blog.ltya.top/posts/freewebhosting.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
 我们真的需要这么复杂的技术栈吗？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_15-do_we_need_these.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-15,1594771200.0
 Go设计模式：装饰器模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_14-go_design_pattern_decorator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-14,1594684800.0
 短网址生成,qinxs小站,https://7bxing.com/posts/991130e/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-07-12,1594532801.0
@@ -48,4 +49,3 @@ glusterfs 笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_
 使用 tcpdump 和 Wireshark 进行远程实时抓包分析,This Cute World,https://thiscute.world/posts/tcpdump-and-wireshark/,https://thiscute.world/,https://thiscute.world/index.xml,2020-05-28,1590654026.0
 【前端系列】node常用命令汇总,框架師,https://www.mobaijun.com/posts/3052872972.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-26,1590474927.0
 2000元 vs 1000元 vs 300元 | 不同价位键盘声音对比,罗磊的独立博客,https://luolei.org/keyboard-amsr,https://luolei.org,https://luolei.org/feed/,2020-05-26,1590451200.0
-【工具系列】使用码云 + PicGO + Typora搭建一个自动化图床,框架師,https://www.mobaijun.com/posts/1619271054.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-25,1590376321.0
