@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+窗口函数的使用(以PG为例),Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_01-pg_window_function.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-01,1709251200.0
 读《为什么学生不喜欢上学》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_01_16-why_dont_students_like_school.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-01-16,1705363200.0
 OpenAI Prompt Engineering 摘录和总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_01_07-openai_prompt_engineering.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-01-07,1704585600.0
 读《打造真正的新产品》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_12_30-something_really_new.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-12-30,1703894400.0
@@ -48,4 +49,3 @@ Go 泛型简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/202
 KVM 显卡穿透给 Windows,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_15-kvm_windows_gpu_passthrough.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-15,1647302400.0
 使用 HTTP Router 处理 Telegram Bot 按钮回调,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_12-tgbot_httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-12,1647043200.0
 使用反射(reflect)对结构体赋值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_01_10-reflect_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-10,1641772800.0
-GIN 是如何绑定参数的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_01_09-gin_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-09,1641686400.0
