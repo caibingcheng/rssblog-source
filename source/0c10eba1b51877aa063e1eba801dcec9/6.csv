@@ -13,15 +13,15 @@ GCC默认的头文件搜索路径,Jiajun的技术笔记,https://jiajunhuang.com/
 后端工程师学前端(三): CSS进阶(特指度、单位和字体族),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_04-learn_front_end_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-04,1562198400.0
 后端工程师学前端(二): CSS基础知识(规则与选择器),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_02-learn_front_end_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-02,1562025600.0
 Swift语法笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_25-swift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-25,1561420800.0
-读《管理的实践》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_23-the_practice_of_management.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-23,1561248000.0
 后端工程师学前端(一): HTML,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_23-learn_front_end.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-23,1561248000.0
+读《管理的实践》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_23-the_practice_of_management.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-23,1561248000.0
 frp 源码阅读与分析(二)：TCP内网穿透的实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_19-frp_source_code_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-19,1560902400.0
 五天不用微信 - 爽得很,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_15-leave_wechat_for_5_days.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-15,1560556800.0
 frp 源码阅读与分析(一)：流程和概念,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_11-frpc_source_code_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-11,1560211200.0
 学习frp源码之简洁的在两个connection之间转发流量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_10-learn_from_frp_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-10,1560124800.0
 自己动手写一个反向代理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_09-write_you_a_simple_reverse_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-09,1560038400.0
-读《债务危机》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_08-big_debt_crises.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
 从XMonad迁移到i3,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_08-migrate_from_xmonad_to_i3wm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
+读《债务危机》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_08-big_debt_crises.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
 服务器IP被ban学到的经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_06-ip_ban.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
 socks5 协议详解,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_06-socks5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
 开启HSTS(HTTP Strict Transport Security),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_04-hsts.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-04,1559606400.0
@@ -48,4 +48,4 @@ jQuery简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_0
 Python RQ(Redis Queue)添加gevent支持,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_18-python_rq_gevent.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-18,1555545600.0
 技术人，光有技术是不行的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_17-tech_only_is_bad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
 读《超级运营术》- 如何做社区？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_17-chaojiyunyingshu.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
-使用shairport-sync搭建airplay音频服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_06-shairport_sync.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-06,1554508800.0
+搭建aria2服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_06-aria2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-06,1554508800.0
