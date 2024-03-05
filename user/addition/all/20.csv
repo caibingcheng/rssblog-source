@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+OAuth 2 详解（四）：Client Credentials Flow,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_client_credentials.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
 OAuth 2 详解（三）：Resource Owner Password Credentials Grant,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_password.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
 记一个容器中 dubbo 注册的小知识点,Nicksxs's Blog,https://nicksxs.me/2022/10/09/%E8%AE%B0%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8%E4%B8%AD-dubbo-%E6%B3%A8%E5%86%8C%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-09,1665314397.0
 OAuth 2 详解（二）：Implict Grant Flow,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_09-oauth2_explained_implict_grant.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-09,1665273600.0
@@ -7,8 +8,8 @@ OAuth 2 详解（一）：简介及 Authorization Code 模式,Jiajun的技术笔
 装修笔记：从0到1打造家庭弱电方案（上篇）,罗磊的独立博客,http://luolei.org/home-network-1/,https://luolei.org/,https://luolei.org/feed/,2022-10-07,1665155878.0
 装修笔记：从0到1打造家庭弱电方案（上篇）,罗磊的独立博客,https://luolei.org/home-network-1/,https://luolei.org/,https://luolei.org/feed/,2022-10-07,1665155878.0
 【恋爱手记 Vol.3】相依的陪伴与告白,Luminous' Home,https://luotianyi.vc/6130.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-10-07,1665123242.0
-消失的两年:2021珠海航展,罗磊的独立博客,http://luolei.org/airshow-china-2021/,https://luolei.org/,https://luolei.org/feed/,2022-10-06,1665057263.0
 消失的两年:2021珠海航展,罗磊的独立博客,https://luolei.org/airshow-china-2021/,https://luolei.org/,https://luolei.org/feed/,2022-10-06,1665057263.0
+消失的两年:2021珠海航展,罗磊的独立博客,http://luolei.org/airshow-china-2021/,https://luolei.org/,https://luolei.org/feed/,2022-10-06,1665057263.0
 ElasticSearch 学习笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_06-elasticsearch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-06,1665014400.0
 仁沱老街：尘埃里的烟火,Macin,https://macin.org/2022/10/03/ren-tuo-lao-jie/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-03,1664838222.0
 从 Rust 扩展 Emacs 到多语言协同扩展 Emacs,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/03/emacs-rpc.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-03,1664755200.0
@@ -48,4 +49,3 @@ Apollo 客户端启动过程分析,Nicksxs's Blog,https://nicksxs.me/2022/09/18/
 kiwi浏览器下载及介绍,醉里博客,https://202271.xyz/post/53778/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-09-14,1663185741.0
 此前被封的域名已成功从腾讯云转出,非理勿试,https://www.ntiy.com/1918.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-09-14,1663164470.0
 江城中秋月，相赠几时欢,Macin,https://macin.org/2022/09/13/wuhan-moon/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-13,1663086249.0
-干旱下雨冰雹,近视眼逛博客,https://blog.9hz.club/2022/09/Drought-Rain-and-Hail.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2022-09-12,1662989936.0
