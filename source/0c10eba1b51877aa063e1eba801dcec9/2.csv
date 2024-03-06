@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+使用 HTTP Router 处理 Telegram Bot 按钮回调,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_12-tgbot_httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-12,1647043200.0
 使用反射(reflect)对结构体赋值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_01_10-reflect_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-10,1641772800.0
 GIN 是如何绑定参数的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_01_09-gin_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-09,1641686400.0
 你好 2022(2021 年终总结),Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_12_30-hello_2022.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-30,1640822400.0
@@ -48,4 +49,3 @@ Python中用tuple作为key,Jiajun的技术笔记,https://jiajunhuang.com/article
 Android自动展示和关闭进度条,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_27-android_progress_bar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-27,1611705600.0
 Kotlin/Java 列表Protobuf序列化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_13-kotlin_protobuf_serialization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-13,1610496000.0
 怎么使用ViewModel 和 RecyclerView,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_03-recycler_list_view_model.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
-deeplink结合路由处理扩展App的能力,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_03-deeplink_server_route.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0

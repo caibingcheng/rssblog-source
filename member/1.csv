@@ -1,14 +1,14 @@
 title,author,link,home,rss,date,timestamp
+取消总理记者会的一些思考,Frank笔记,https://frank2019.me/archives/1709667604070,https://frank2019.me/,https://frank2019.me/rss.xml,2024-03-05,1709669287.0
+PostgreSQL 配置优化和日志分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_05-postgresql_conf.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-05,1709596800.0
 读《李光耀观天下》,Andy Stewart,//manateelazycat.github.io/2024/03/04/one-main-view-of-the-world/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-03-04,1709510400.0
 FileCodeBox 文件快递柜,杜老师说,https://dusays.com/683/,https://dusays.com/,https://dusays.com/atom.xml,2024-03-03,1709481600.0
 Java 线程池系列-第四篇,Nicksxs's Blog,https://nicksxs.me/2024/03/03/Java-%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%B3%BB%E5%88%97-%E7%AC%AC%E5%9B%9B%E7%AF%87/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-03-03,1709475279.0
 2024-02小记,九弦之屋,https://blog.sinzmise.top/posts/15842/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-03-03,1709460644.0
-有GitHub Copilot？那就可以搭建你的ChatGPT4服务,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_03-copilot_as_gpt4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-03,1709424000.0
 Kong Gateway 3.6.x 正式发布，较大改变！,把酒诗代码，趁乱写年华。,https://102no.com/2024/03/02/kong-3.6/,https://102no.com/,https://102no.com/atom.xml,2024-03-01,1709308800.0
 空中 Wi-Fi 体验,Another Dayu,https://anotherdayu.com/2024/5624/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-03-01,1709284509.0
 租房、搬家、三分之一,非理勿试,https://www.ntiy.com/2135.html,https://www.ntiy.com,https://www.ntiy.com/feed,2024-02-28,1709089272.0
-新增域名,Frank笔记,https://frank2019.me/archives/1708987935954,https://frank2019.me/,https://frank2019.me/rss.xml,2024-02-26,1708988040.0
-Java编译出现java.lang.ExceptionInInitializerError,cywhat's blog,https://cywhat.cn/Java%E7%BC%96%E8%AF%91%E5%87%BA%E7%8E%B0java.lang.ExceptionInInitializerError/,https://cywhat.cn/,https://cywhat.cn/index.xml,2024-02-26,1708928878.0
+Mac修改brew源,cywhat's blog,https://cywhat.cn/Mac%E4%BF%AE%E6%94%B9brew%E6%BA%90/,https://cywhat.cn/,https://cywhat.cn/index.xml,2024-02-27,1709017157.0
 OS as Code - 我的 NixOS 使用体会,This Cute World,https://thiscute.world/posts/my-experience-of-nixos/,https://thiscute.world/,https://thiscute.world/index.xml,2024-02-21,1708503981.0
 【纪念】十载光阴，走马观花,Luminous' Home,https://luotianyi.vc/7792.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-02-19,1708318712.0
 没有红包封面，但是 AI 春联……,云游君的小站,https://www.yunyoujun.cn/posts/ai-sfc,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2024-02-09,1707521700.0
@@ -35,8 +35,8 @@ Prometheus简易入门,Yulin Lewis' Blog,https://lewky233.top/posts/prometheus-s
 便利店的一元——回忆之8,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/mem-8.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2023-09-05,1693929720.0
 不要被虚假新闻蒙蔽了双眼,Frank笔记,http://frank2019.me/archives/1693797256900,http://frank2019.me/,https://frank2019.me/rss.xml,2023-09-04,1693803037.0
 本站不再提供RSS订阅,Zikin 的独立博客,https://zikin.org/,https://zikin.org/,https://zikin.org/feed,2023-08-21,1692576000.0
-好久不见: 我消失的900天,罗磊的独立博客,https://luolei.org/why-no-videos-in-900-days/,http://luolei.org/,https://luolei.org/feed/,2023-08-12,1691822870.0
 好久不见: 我消失的900天,罗磊的独立博客,https://luolei.org/why-no-videos-in-900-days/,https://luolei.org/,https://luolei.org/feed/,2023-08-12,1691822870.0
+好久不见: 我消失的900天,罗磊的独立博客,https://luolei.org/why-no-videos-in-900-days/,http://luolei.org/,https://luolei.org/feed/,2023-08-12,1691822870.0
 OKR 落地困难的原因,见字如面,https://hiwannz.com/archives/831,https://hiwannz.com,https://hiwannz.com/feed,2023-08-07,1691391515.0
 Chrome问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/chrome-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2023-07-25,1690291117.0
 Jenkins+Gitee持续集成,Barney's Blog,https://hugo.bnblogs.cc/jenkins-gitee%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684848714.0
