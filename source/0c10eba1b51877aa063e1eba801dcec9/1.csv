@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+使用 PostgreSQL 搭建 JuiceFS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_07-juicefs_postgresql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-07,1709769600.0
 PostgreSQL 配置优化和日志分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_05-postgresql_conf.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-05,1709596800.0
 有GitHub Copilot？那就可以搭建你的ChatGPT4服务,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_03-copilot_as_gpt4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-03,1709424000.0
 窗口函数的使用(以PG为例),Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_01-pg_window_function.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-01,1709251200.0
@@ -48,4 +49,3 @@ Nginx 源码阅读（三）: 连接池、内存池,Jiajun的技术笔记,https:/
 Nginx 源码阅读（二）: 请求处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_22-nginx_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-22,1647907200.0
 Nginx 源码阅读（一）: 启动流程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_21-nginx_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-21,1647820800.0
 Go 泛型简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_17-go_generics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-17,1647475200.0
-KVM 显卡穿透给 Windows,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_15-kvm_windows_gpu_passthrough.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-15,1647302400.0

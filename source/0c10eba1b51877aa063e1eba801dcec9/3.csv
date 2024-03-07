@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
 deeplink结合路由处理扩展App的能力,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_03-deeplink_server_route.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
+怎么使用ViewModel 和 RecyclerView,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_03-recycler_list_view_model.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
 Android手动挡MVVM,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_02-android_mvvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-02,1609545600.0
 来电拦截方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_23-call_screening.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-23,1608681600.0
 你好，2021！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_22-hello_2021.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-22,1608595200.0
@@ -46,6 +47,5 @@ Linux使用redshift自动调整屏幕色温,Jiajun的技术笔记,https://jiajun
 Go设计模式：桥接模式和策略模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_21-go_design_pattern_bridge.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-21,1592697600.0
 Go设计模式：单例模式、原型模式和Builder模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_20-go_design_pattern_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-20,1592611200.0
 操作系统也是CRUD,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_15-unix_crud.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-15,1592179200.0
-Go设计模式：简单工厂模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_13-go_design_pattern_factory.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
 把USB设备穿透给虚拟机里的系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_13-macos_kvm_usb_pass.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
-debug故事之：事务让生活更美好,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_12-transaction_life_easy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-12,1591920000.0
+Go设计模式：简单工厂模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_13-go_design_pattern_factory.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0

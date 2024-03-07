@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0
 Golang的反射,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_10-golang_reflection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
 数据库事务,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_10-transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
 把网站去掉CSS之后,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_09-drop_css.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-09,1541721600.0
@@ -17,9 +18,9 @@ Go的custom import path,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 如何挖掘二级子域名？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_06-how_to_dig_subdomain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-06,1536192000.0
 Go Module 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_03-go_module.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-03,1535932800.0
 写了一个Telegram Bot：自动化分享高质量内容,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_02-write_a_tgbot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-02,1535846400.0
-为什么我选择放弃运营微信公众号？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-vim_speed_up.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 ArchLinux 怎么降级 package ？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
+为什么我选择放弃运营微信公众号？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Web后端工程师进阶指南(2018),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
 How to implement fork syscall in Golang?,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
@@ -48,4 +49,3 @@ goroutine 切换的时候发生了什么？,Jiajun的技术笔记,https://jiajun
 Prometheus 数据类型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_19-prometheus.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-19,1521417600.0
 Gin源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_16-gin_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-16,1521158400.0
 如何面试-作为面试官得到的经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_10-interview.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-10,1520640000.0
-自己写一个容器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_09-write_you_a_container.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-09,1520553600.0

@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+debug故事之：事务让生活更美好,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_12-transaction_life_easy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-12,1591920000.0
 Go设计模式：模板模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_11-go_design_pattern_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-11,1591833600.0
 Go设计模式：适配器模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_09-go_design_pattern_adapter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-09,1591660800.0
 Go设计模式：Iterator,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_07-go_design_pattern_iter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-07,1591488000.0
@@ -48,4 +49,3 @@ MySQL charset不同导致无法使用索引的坑,Jiajun的技术笔记,https://
 远程工作一周有感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_14-remote_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-14,1581638400.0
 Python中的并发控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_12-python_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-12,1581465600.0
 KVM spice协议在高分屏上的分辨率问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_08-kvm_spice_high_dpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-08,1581120000.0
-计算机中的权衡(trade-off),Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_01_11-paradigm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-11,1578700800.0
