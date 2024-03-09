@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Golang CAS 操作是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_10-golang_cas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-10,1710028800.0
 PostgreSQL 当MQ来使用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_09-postgresql_as_mq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-09,1709942400.0
 Clash 结合 工作VPN 的网络设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_08-clash_vpn.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-08,1709856000.0
 使用 PostgreSQL 搭建 JuiceFS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_07-juicefs_postgresql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-07,1709769600.0
@@ -48,4 +49,3 @@ PostgreSQL 操作笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 Golang migrate 做数据库变更管理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_04_28-golang_migrate_iofs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-28,1651104000.0
 使用PostgreSQL做搜索引擎,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_04_12-postgresql_fulltext_search.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-12,1649721600.0
 Nginx 源码阅读（三）: 连接池、内存池,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_23-nginx_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-23,1647993600.0
-Nginx 源码阅读（二）: 请求处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_22-nginx_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-22,1647907200.0
