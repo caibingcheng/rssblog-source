@@ -2,15 +2,15 @@ title,author,link,home,rss,date,timestamp
 MySQL性能指标,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_13-db_metrics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-13,1544659200.0
 使用Dropbox来备份服务器文件,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_12-use_dropbox_to_backup_server.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-12,1544572800.0
 《计算机网络-系统方法》读书笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_10-computer_network_systems_approach.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-10,1544400000.0
-1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/archives/37/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
 1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/notebook/12,https://blog.fsky7.com,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
+1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/archives/37/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
 Y Combinator《如何创业》笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_08-yc_startup.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-08,1544227200.0
 每个创作者都应该有张人体工学梯:西昊M60,罗磊的独立博客,https://luolei.org/my-office-chair-2018,https://luolei.org,https://luolei.org/feed/,2018-12-05,1543968000.0
 Go类型嵌套,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_01-go_embedding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-01,1543622400.0
 etcd源码阅读与分析（五）：mvcc,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_28-etcd_source_code_analysis_mvvc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-28,1543363200.0
 etcd源码阅读与分析（四）：lease,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_27-etcd_source_code_analysis_lease.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-27,1543276800.0
-菲律宾 | 18米深蓝:薄荷岛&宿务 OW潜水旅行,罗磊的独立博客,https://luolei.org/travel-philippines-bohol,https://luolei.org,https://luolei.org/feed/,2018-11-26,1543190400.0
 干了这碗叔本华牌毒鸡汤 --- 《人生的智慧》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_26-the_wisdom_of_life_on_human_nature.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-26,1543190400.0
+菲律宾 | 18米深蓝:薄荷岛&宿务 OW潜水旅行,罗磊的独立博客,https://luolei.org/travel-philippines-bohol,https://luolei.org,https://luolei.org/feed/,2018-11-26,1543190400.0
 etcd源码阅读与分析（三）：wal,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_24-etcd_source_code_analysis_wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
 Memory leak in net/http,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_24-memory_leak_in_net_http.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
 etcd源码阅读与分析（二）：raft,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_22-etcd_source_code_analysis_raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-22,1542844800.0
@@ -19,14 +19,14 @@ etcd源码阅读与分析（一）：raftexample,Jiajun的技术笔记,https://j
 虚拟机里的Ubuntu sudo时卡住,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_18-ubuntu_sudo_hang.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-18,1542499200.0
 new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-11-17,1542486792.0
 new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-11-17,1542412800.0
-Raft论文阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_16-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
 Go访问私有变量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_16-go_private_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
+Raft论文阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_16-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
 避免全局变量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_15-avoid_global_states.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-15,1542240000.0
 Go的unsafe包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_13-golang_package_unsafe.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-13,1542067200.0
 Golang中实现禁止拷贝,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
 人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0
-数据库事务,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_10-transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
 Golang的反射,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_10-golang_reflection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
+数据库事务,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_10-transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
 把网站去掉CSS之后,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_09-drop_css.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-09,1541721600.0
 参观神州第一舰 | 中国海军深圳舰开放日 | VLOG19,罗磊的独立博客,https://luolei.org/china-pla-navy-167-ship-open-day,https://luolei.org,https://luolei.org/feed/,2018-11-09,1541721600.0
 处理并发的方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_07-concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-07,1541548800.0
@@ -46,6 +46,6 @@ UTAU插件:一键描点 使用帮助,FlyingSky's Blog,https://blog.fsky7.com/tec
 独立运营博客一年的一些数据分享,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
 To B(usiness) 和 To C(ustomer),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_22-to_b_to_c.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-22,1537574400.0
 PyCon JP 2018 記,Just lepture,https://lepture.com/zh/2018/pycon-jp-2018,https://lepture.com/,https://lepture.com/feed.xml,2018-09-19,1537364456.0
-Cookie 中的secure和httponly属性,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_16-cookie_secure_httponly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 常见的软件架构套路,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
+Cookie 中的secure和httponly属性,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_16-cookie_secure_httponly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-09-15,1536969687.0
