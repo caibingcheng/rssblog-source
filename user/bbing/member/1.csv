@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+复变函数的概念,DearXuan的主页,https://blog.dearxuan.com/2024/03/11/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-03-11,1710165240.0
 Tiny RDM 一个轻量优美的 Redis 客户端,杜老师说,https://dusays.com/685/,https://dusays.com/,https://dusays.com/atom.xml,2024-03-09,1710000000.0
 在 Fedora server 39 中纯手动部署 Nextcloud,无妄当自持,https://www.insidentally.com/articles/000038/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-03-09,1709991268.0
 Mac修改brew源,cywhat's blog,https://cywhat.cn/Mac%E4%BF%AE%E6%94%B9brew%E6%BA%90/,https://cywhat.cn/,https://cywhat.cn/index.xml,2024-02-27,1709017157.0
@@ -9,7 +10,6 @@ OS as Code - 我的 NixOS 使用体会,This Cute World,https://thiscute.world/po
 Prometheus简易入门,Yulin Lewis' Blog,https://lewky233.top/posts/prometheus-start/,https://lewky233.top/,https://lewky.cn/index.xml,2023-11-06,1699283598.0
 Chrome问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/chrome-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2023-07-25,1690291117.0
 Jenkins+Gitee持续集成,Barney's Blog,https://hugo.bnblogs.cc/jenkins-gitee%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684848714.0
-我的世界mod开发,DearXuan的主页,https://blog.dearxuan.com/2023/05/16/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8Cmod%E5%BC%80%E5%8F%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2023-05-16,1684246680.0
 HMailServer配置SSL/TLS（避坑）,Thrower的博客,https://thrower.cc/2023/hmailserverssl/,https://thrower.cc,https://thrower.cc/feed/,2023-02-07,1675781935.0
 在宝塔面板中使用frp内网穿透,Peter's Blog,https://www.rainogo.com/posts/frp_btpanel.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2023-01-16,1673839320.0
 tagged-pointer-让指针包含更多信息,Bing's Blog,https://bbing.com.cn/202211/tagged-pointer/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
