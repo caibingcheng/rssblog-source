@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+SliderMini:可能是2018最值得期待的便携滑轨  | ZUOLUOTV | VLOG17,罗磊的独立博客,https://luolei.org/smartta-slidermini-review,https://luolei.org,https://luolei.org/feed/,2018-10-23,1540252800.0
 面试的一些技巧,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_21-interview_techniques.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-21,1540080000.0
 雅西卡 YASHICA Y35 | 编号740,罗磊的独立博客,https://luolei.org/yashica-y35-camera,https://luolei.org,https://luolei.org/feed/,2018-10-17,1539734400.0
 HTTP/2 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_13-http2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-13,1539388800.0
@@ -21,8 +22,8 @@ Go的custom import path,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 微信与象棋,云游君的小站,https://www.yunyoujun.cn/posts/wechat-and-chinese-chess,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-09-03,1536014317.0
 Go Module 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_03-go_module.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-03,1535932800.0
 写了一个Telegram Bot：自动化分享高质量内容,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_02-write_a_tgbot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-02,1535846400.0
-ArchLinux 怎么降级 package ？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 为什么我选择放弃运营微信公众号？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
+ArchLinux 怎么降级 package ？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-vim_speed_up.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Web后端工程师进阶指南(2018),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
 How to implement fork syscall in Golang?,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
@@ -48,4 +49,3 @@ Linux低电量自动关机,Jiajun的技术笔记,https://jiajunhuang.com/article
 Unity 中用有限状态机来实现一个 AI,萤火之森,http://frankorz.com/2018/06/22/finite-state-machine-in-unity/,http://frankorz.com/,https://frankorz.com/atom.xml,2018-06-22,1529691571.0
 2D 像素风平台游戏 Aretha’s Journey,萤火之森,http://frankorz.com/2018/06/17/arethas-journey/,http://frankorz.com/,https://frankorz.com/atom.xml,2018-06-17,1529264290.0
 SQL 基础笔记（二）进阶查询,This Cute World,https://thiscute.world/posts/sql-basics-2-queries/,https://thiscute.world/,https://thiscute.world/index.xml,2018-06-17,1529216266.0
-SQL 基础笔记（一）,This Cute World,https://thiscute.world/posts/sql-basics-1/,https://thiscute.world/,https://thiscute.world/index.xml,2018-06-15,1529051266.0
