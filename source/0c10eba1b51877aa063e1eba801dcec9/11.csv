@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Python的yield关键字有什么作用？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_29-python_yield.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-29,1480377600.0
 借助coroutine用同步的语法写异步,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_27-python_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-27,1480204800.0
 Python3函数参数中的星号,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_21-py3k_asterisk.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-21,1479686400.0
 使用Git Hooks,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_08-use_git_hooks.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-08,1478563200.0
