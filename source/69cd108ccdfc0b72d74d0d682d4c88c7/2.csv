@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+从 Composition API 源码分析 getCurrentInstance() 为何返回 null,4Ark,https://4ark.me/post/87ba8d8b.html,https://4ark.me/,https://4ark.me/rss.xml,2021-01-16,1610836795.0
 2020 年度总结,4Ark,https://4ark.me/posts/2020-summary/,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
 2020 年度总结,4Ark × Blog,https://4ark.me/posts/2020-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
 Mac 上配置 MNMP 环境,4Ark,https://4ark.me/post/41f45ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-30,1606772294.0

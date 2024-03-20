@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+LoveIt主题支持MathJax,Barney's Blog,https://hugo.bnblogs.cc/loveit%E4%B8%BB%E9%A2%98%E6%94%AF%E6%8C%81mathjax/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645607283.0
 本质性的塔西佗--丰县,Frank笔记,https://frank2019.me/archives/ben-zhi-xing-de-ta-xi-tuo--feng-xian,https://frank2019.me/,https://frank2019.me/rss.xml,2022-02-22,1645556160.0
 glibc-fopen源码阅读-补充篇-open系统调用,BBing's Blog,https://bbing.com.cn/202202/fopen-sys-open/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-02-22,1645519808.0
 【随笔】论一个面试题的解决思路,框架師,https://www.mobaijun.com/posts/3567767979.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-02-21,1645465912.0
@@ -42,10 +43,9 @@ python实现RSA加密数字,DearXuan的主页,https://blog.dearxuan.com/2022/02/
 批量查询域名是否可用,岚天小窝,http://blog.ltya.top/posts/Batch-query-domains-availability.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-02-08,1644336000.0
 Split Monolith Into Micro Front End,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220208-split-monolith-into-micro-front-end,https://teobler.com,https://teobler.com/rss.xml,2022-02-08,1644325560.0
 开源一个 PHP 多版本共存 docker 环境🐘,把酒诗代码，趁乱写年华。,https://102no.com/2022/02/08/docker-mutli-php-versions/,https://102no.com/,https://102no.com/atom.xml,2022-02-07,1644249600.0
-C#图像压缩相关方法总结,DearXuan的主页,https://blog.dearxuan.com/2022/02/07/C-%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E7%9B%B8%E5%85%B3%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-07,1644237540.0
 C#图像压缩相关方法总结,DearXuan的主页,https://dearxuan.top/2022/02/07/C-%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E7%9B%B8%E5%85%B3%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-07,1644237540.0
+C#图像压缩相关方法总结,DearXuan的主页,https://blog.dearxuan.com/2022/02/07/C-%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E7%9B%B8%E5%85%B3%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-07,1644237540.0
 本站统计数据,This Cute World,https://thiscute.world/statistics/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-07,1644231395.0
-Porkbun 的免费域名（附赠支付宝验证方法）,岚天小窝,http://blog.ltya.top/posts/porkbun-free-domains.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-02-06,1644163200.0
 Porkbun 的免费域名（附赠支付宝验证方法）,岚天小窝,https://blog.ltya.top/posts/porkbun-free-domains.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-02-06,1644163200.0
+Porkbun 的免费域名（附赠支付宝验证方法）,岚天小窝,http://blog.ltya.top/posts/porkbun-free-domains.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-02-06,1644163200.0
 分享记录一下一个 scp 操作方法,Nicksxs's Blog,https://nicksxs.me/2022/02/06/%E5%88%86%E4%BA%AB%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E4%B8%80%E4%B8%AA-scp-%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-06,1644155006.0
-分享记录一下一个 git 操作方法,Nicksxs's Blog,https://nicksxs.me/2022/02/06/%E5%88%86%E4%BA%AB%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E4%B8%80%E4%B8%AA-git-%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-06,1644153298.0
