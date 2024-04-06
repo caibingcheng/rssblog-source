@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Linux 下将浏览器缓存放到内存，并在登录登出时进行同步,无妄当自持,https://www.insidentally.com/articles/000040/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-04-05,1712329662.0
 Fedora 使用脚本配置国内镜像源,无妄当自持,https://www.insidentally.com/articles/000039/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-03-18,1710760062.0
 在 Fedora server 39 中纯手动部署 Nextcloud,无妄当自持,https://www.insidentally.com/articles/000038/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-03-09,1709991268.0
 使用 shell 脚本和 systemd 定时替换 Gnome 壁纸,无妄当自持,https://www.insidentally.com/articles/000037/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-02-04,1707035668.0
