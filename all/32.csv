@@ -1,10 +1,11 @@
 title,author,link,home,rss,date,timestamp
+Kubernetes 中的证书管理工具 - cert-manager,This Cute World,https://thiscute.world/posts/kubernetes-cert-management/,https://thiscute.world/,https://thiscute.world/index.xml,2022-07-31,1659251506.0
 Caddy 的简介,杜老师说,https://dusays.com/489/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-31,1659225600.0
 Vercel部署本地项目,Barney's Blog,https://hugo.bnblogs.cc/vercel%E9%83%A8%E7%BD%B2%E6%9C%AC%E5%9C%B0%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-30,1659178583.0
 git-bash如何使用tmux,Barney's Blog,https://hugo.bnblogs.cc/git-bash%E4%BD%BF%E7%94%A8tmux/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-29,1659109262.0
 迷彩、作者、观众和诠释,Another Dayu,https://anotherdayu.com/2022/3583/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-07-29,1659101928.0
-关于二舅的一些感悟,4Ark × Blog,https://4ark.me/post/live-sentiment.html,https://4ark.me/,https://4ark.me/rss.xml,2022-07-29,1659052800.0
 关于二舅的一些感悟,4Ark,https://4ark.me/posts/2022-07-29-live-sentiment/,https://4ark.me/,https://4ark.me/rss.xml,2022-07-29,1659052800.0
+关于二舅的一些感悟,4Ark × Blog,https://4ark.me/post/live-sentiment.html,https://4ark.me/,https://4ark.me/rss.xml,2022-07-29,1659052800.0
 Linux 搭建 Minecraft 服务器,岚天小窝,https://blog.ltya.top/posts/Build-a-Minecraft-Server-on-Linux.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-28,1659024000.0
 Linux 搭建 Minecraft 服务器,岚天小窝,http://blog.ltya.top/posts/Build-a-Minecraft-Server-on-Linux.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-28,1659024000.0
 【MySQL 系列】冷门 SQL 整理,框架師,https://www.mobaijun.com/posts/970409657.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-28,1658976177.0
@@ -25,10 +26,10 @@ Argument list too long 原因与解决思路,杜老师说,https://dusays.com/487
 Artitalk+CFWorker配置教程,SinGO博客,https://blog.xsnet.eu.org/posts/7406/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-07-24,1658684915.0
 记录自己 | 2022.07.24,冰哥笔记,https://www.bgbiji.com/1080.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-24,1658671267.0
 Artitalk+CFWorker配置教程,SinGO博客,https://blog.xsnetw.cf/posts/7406/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-07-24,1658656115.0
-使用 Vercel 自动部署 Hexo,岚天小窝,http://blog.ltya.top/posts/Automatically-deploy-Hexo-in-Vercel.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
 使用 Hexo 搭建静态博客,岚天小窝,https://blog.ltya.top/posts/how-to-initialize-hexo.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
-使用 Vercel 自动部署 Hexo,岚天小窝,https://blog.ltya.top/posts/Automatically-deploy-Hexo-in-Vercel.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
+使用 Vercel 自动部署 Hexo,岚天小窝,http://blog.ltya.top/posts/Automatically-deploy-Hexo-in-Vercel.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
 使用 Hexo 搭建静态博客,岚天小窝,http://blog.ltya.top/posts/how-to-initialize-hexo.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
+使用 Vercel 自动部署 Hexo,岚天小窝,https://blog.ltya.top/posts/Automatically-deploy-Hexo-in-Vercel.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
 git简单入门,Barney's Blog,https://hugo.bnblogs.cc/github%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-23,1658591824.0
 记录自己 | 2022.07.23,冰哥笔记,https://www.bgbiji.com/1078.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-23,1658585100.0
 记录人生的尝试之二,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/2022-record-activities-on-calendar.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-07-23,1658562900.0
@@ -48,4 +49,3 @@ MacBook Pro 修复之路💻,把酒诗代码，趁乱写年华。,https://102no.
 记录自己 | 2022.07.20,冰哥笔记,https://www.bgbiji.com/1067.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-20,1658326217.0
 魔戒使用教程,cywhat's blog,https://cywhat.cn/%E9%AD%94%E6%88%92%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-07-20,1658312333.0
 记录自己 | 2022.07.19,冰哥笔记,https://www.bgbiji.com/1065.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-19,1658239704.0
-没有一点点防备，又一次被腾讯云干了,非理勿试,https://www.ntiy.com/1867.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-07-19,1658204090.0
