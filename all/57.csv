@@ -1,12 +1,13 @@
 title,author,link,home,rss,date,timestamp
+集群管理系统 Mesos 的设计原理 · NSDI '11,面向信仰编程,https://draveness.me//papers-mesos,https://draveness.me/,https://draveness.me/feed.xml,2021-03-19,1616112000.0
 Go里优雅的使用全局配置,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_18-go_config.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-18,1616025600.0
 【恋爱手记 Vol.1】从友情走向恋情,Luminous' Home,https://luotianyi.vc/5458.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-03-15,1615812674.0
 Golang sync.Map源码分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_15-go_sync_map.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-15,1615766400.0
 Software Craftsmanship,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210314-software-craftsmanship,https://teobler.com,https://teobler.com/rss.xml,2021-03-14,1615705560.0
 char-dust 一个图片转字符画的 npm 包与示例站点,云游君的小站,https://www.yunyoujun.cn/posts/why-make-char-dust,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-03-14,1615690306.0
 读《蒂姆·库克传》,Randy's Blog,https://lutaonan.com/blog/reading-tim-cook/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-03-14,1615680000.0
-使用 Telegram Bot + Beancount 记账,Ahonn's Blog,https://www.ahonn.me/blog/use-telegram-bot-and-beancount-for-accounting,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2021-03-13,1615668749.0
 使用 Telegram Bot + Beancount 记账,Yuexun's Blog,https://yuexunjiang.me/blog/use-telegram-bot-and-beancount-for-accounting,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2021-03-13,1615668749.0
+使用 Telegram Bot + Beancount 记账,Ahonn's Blog,https://www.ahonn.me/blog/use-telegram-bot-and-beancount-for-accounting,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2021-03-13,1615668749.0
 Xray配置笔记,Frank笔记,https://frank2019.me/archives/xraypei-zhi-bi-ji,https://frank2019.me/,https://frank2019.me/rss.xml,2021-03-13,1615659240.0
 使用 Telegram Bot + Beancount 记账,Yuexun's Blog,https://yuexunjiang.me/blog/use-telegram-bot-and-beancount-for-accounting/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-03-13,1615593600.0
 char-dust 一个图片转字符画的 npm 包与示例站点,云游君的小站,https://www.yunyoujun.cn/posts/why-make-char-dust/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-03-12,1615568926.0
@@ -48,4 +49,3 @@ PostgreSQL - 字符串函数汇总,Yulin Lewis' Blog,https://lewky.cn/posts/post
 仅在 localhost 中部署并使用 RSSHub,ChrAlpha,https://blog.ichr.me/post/localhost-docker-rsshub/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2021-02-16,1613505807.0
 告别无用社交,Frank笔记,https://frank2019.me/archives/gao-bie-wu-yong-she-jiao,https://frank2019.me/,https://frank2019.me/rss.xml,2021-02-16,1613499000.0
 Agile Team Practice,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210214-agile-team-practice,https://teobler.com,https://teobler.com/rss.xml,2021-02-14,1613279580.0
-脚踏实地，仰望星空,This Cute World,https://thiscute.world/posts/no-more-dreams/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-13,1613183576.0
