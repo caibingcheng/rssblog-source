@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Haskell: infixl， infixr， infix,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_27-haskell_infix.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-27,1506470400.0
 Haskell简明教程（五）：处理JSON,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_26-learn_you_a_haskell_part_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-26,1506384000.0
 Haskell简明教程（四）：Monoid， Applicative， Monad,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_25-learn_you_a_haskell_part_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-25,1506297600.0
 3D数学基础-矩阵变换（二）,萤火之森,http://frankorz.com/2017/09/24/matrix-transformation-2/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-09-24,1506273229.0
@@ -9,8 +10,8 @@ Haskell简明教程（四）：Monoid， Applicative， Monad,Jiajun的技术笔
 HTTPS 的详细流程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_22-https_processes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-22,1506038400.0
 OAuth2 为什么需要 Authorization Code?,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_21-oauth2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-21,1505952000.0
 任务队列怎么写？python rq源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_20-task_queue_python_rq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-20,1505865600.0
-Insta360 Nano:一个让我对VR感兴趣的全景相机,罗磊的独立博客,https://luolei.org/insta360-one-vr-camera,https://luolei.org,https://luolei.org/feed/,2017-09-19,1505779200.0
 XMonad 配置教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_19-xmonad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-19,1505779200.0
+Insta360 Nano:一个让我对VR感兴趣的全景相机,罗磊的独立博客,https://luolei.org/insta360-one-vr-camera,https://luolei.org,https://luolei.org/feed/,2017-09-19,1505779200.0
 Haskell简明教程（三）：Haskell语法,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_18-learn_you_a_haskell_part_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-18,1505692800.0
 Haskell简明教程（二）：从命令式语言进行抽象,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_17-learn_you_a_haskell_part_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-17,1505606400.0
 Haskell简明教程（一）：从递归说起,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_11-learn_you_a_haskell_part_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-11,1505088000.0
@@ -48,4 +49,3 @@ Golang log库 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.co
 關西行,Just lepture,https://lepture.com/zh/2017/guan-xi-xing,https://lepture.com/,https://lepture.com/feed.xml,2017-07-07,1499440078.0
 Redux 源码解析,Yuexun's Blog,https://yuexunjiang.me/blog/redux-source-code-insight/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-07-04,1499126400.0
 毕业后一年,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_02-one_year_after_graduate.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-02,1498953600.0
-Vim 全局搜索插件：ctrlsf.vim,Yuexun's Blog,https://yuexunjiang.me/blog/vim-plugin-ctrlsf/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-06-29,1498694400.0
