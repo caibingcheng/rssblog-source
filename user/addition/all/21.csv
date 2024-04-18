@@ -1,11 +1,11 @@
 title,author,link,home,rss,date,timestamp
-OAuth 2 详解（三）：Resource Owner Password Credentials Grant,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_password.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
+OAuth 2 详解（四）：Client Credentials Flow,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_client_credentials.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
 记一个容器中 dubbo 注册的小知识点,Nicksxs's Blog,https://nicksxs.me/2022/10/09/%E8%AE%B0%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8%E4%B8%AD-dubbo-%E6%B3%A8%E5%86%8C%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-09,1665314397.0
 OAuth 2 详解（二）：Implict Grant Flow,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_09-oauth2_explained_implict_grant.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-09,1665273600.0
 从 KDE 回到 Windows 10,近视眼逛博客,https://blog.9hz.club/2022/10/Back-to-Windows-10-from-KDE.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2022-10-08,1665226860.0
 OAuth 2 详解（一）：简介及 Authorization Code 模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_08-oauth2_explained.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-08,1665187200.0
-装修笔记：从0到1打造家庭弱电方案（上篇）,罗磊的独立博客,http://luolei.org/home-network-1/,https://luolei.org/,https://luolei.org/feed/,2022-10-07,1665155878.0
 装修笔记：从0到1打造家庭弱电方案（上篇）,罗磊的独立博客,https://luolei.org/home-network-1/,https://luolei.org/,https://luolei.org/feed/,2022-10-07,1665155878.0
+装修笔记：从0到1打造家庭弱电方案（上篇）,罗磊的独立博客,http://luolei.org/home-network-1/,https://luolei.org/,https://luolei.org/feed/,2022-10-07,1665155878.0
 【恋爱手记 Vol.3】相依的陪伴与告白,Luminous' Home,https://luotianyi.vc/6130.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-10-07,1665123242.0
 消失的两年:2021珠海航展,罗磊的独立博客,https://luolei.org/airshow-china-2021/,https://luolei.org/,https://luolei.org/feed/,2022-10-06,1665057263.0
 消失的两年:2021珠海航展,罗磊的独立博客,http://luolei.org/airshow-china-2021/,https://luolei.org/,https://luolei.org/feed/,2022-10-06,1665057263.0
@@ -20,9 +20,9 @@ Kong Gateway 3.0 正式发布🦍,把酒诗代码，趁乱写年华。,https://1
 每日感触2022.09.30：总结九月,冰哥笔记,https://www.bgbiji.com/1113.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-09-30,1664546400.0
 Debain&Ubuntu修改DNS,Frank笔记,https://frank2019.me/articles/2022/09/29/1664386803327.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-28,1664386803.0
 202209：九月西风兴，月冷露华凝,Macin,https://macin.org/2022/09/28/9-yue-zhou-ji/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-28,1664361640.0
-Debain&Ubuntu修改DNS,Frank笔记,/archives/debain-ubuntuxiu-gai-dns,/,https://frank2019.me/rss.xml,2022-09-27,1664301900.0
-Debain&Ubuntu修改DNS,Frank笔记,http://frank2019.me/archives/debain-ubuntuxiu-gai-dns,http://frank2019.me/,https://frank2019.me/rss.xml,2022-09-27,1664301900.0
 Debain&Ubuntu修改DNS,Frank笔记,https://frank2019.me/archives/debain-ubuntuxiu-gai-dns,https://frank2019.me/,https://frank2019.me/rss.xml,2022-09-27,1664301900.0
+Debain&Ubuntu修改DNS,Frank笔记,http://frank2019.me/archives/debain-ubuntuxiu-gai-dns,http://frank2019.me/,https://frank2019.me/rss.xml,2022-09-27,1664301900.0
+Debain&Ubuntu修改DNS,Frank笔记,/archives/debain-ubuntuxiu-gai-dns,/,https://frank2019.me/rss.xml,2022-09-27,1664301900.0
 你试过“打印”博客文章吗？,非理勿试,https://www.ntiy.com/1934.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-09-26,1664205035.0
 板桥古街：像一条开满橙花的老街,Macin,https://macin.org/2022/09/26/ban-qiao-zhen/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-26,1664194434.0
 Disruptor 系列三,Nicksxs's Blog,https://nicksxs.me/2022/09/25/Disruptor-%E7%B3%BB%E5%88%97%E4%B8%89/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-09-25,1664111848.0
@@ -38,8 +38,8 @@ Re Thinking Architecture Of React Project,Teobler - 失眠多梦，bug体质,htt
 Apollo 客户端启动过程分析,Nicksxs's Blog,https://nicksxs.me/2022/09/18/Apollo-%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-09-18,1663506912.0
 九一八事变,醉里博客,https://202271.xyz/post/57907/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-09-18,1663488449.0
 公司内部培训,manateelazycat.github.io,//manateelazycat.github.io/think/2022/09/18/internal-training.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-18,1663459200.0
-贵阳防疫转运车事故的反思,Frank笔记,http://frank2019.me/archives/gui-yang-fang-yi-zhuan-yun-che-shi-gu-de-fan-si,http://frank2019.me/,https://frank2019.me/rss.xml,2022-09-17,1663437840.0
 贵阳防疫转运车事故的反思,Frank笔记,/archives/gui-yang-fang-yi-zhuan-yun-che-shi-gu-de-fan-si,/,https://frank2019.me/rss.xml,2022-09-17,1663437840.0
+贵阳防疫转运车事故的反思,Frank笔记,http://frank2019.me/archives/gui-yang-fang-yi-zhuan-yun-che-shi-gu-de-fan-si,http://frank2019.me/,https://frank2019.me/rss.xml,2022-09-17,1663437840.0
 贵阳防疫转运车事故的反思,Frank笔记,https://frank2019.me/archives/gui-yang-fang-yi-zhuan-yun-che-shi-gu-de-fan-si,https://frank2019.me/,https://frank2019.me/rss.xml,2022-09-17,1663437840.0
 蔚来与特斯拉一日试驾体验,见字如面,https://hiwannz.com/archives/718,https://hiwannz.com,https://hiwannz.com/feed,2022-09-17,1663410433.0
 梦,瓦解的生活记事,https://hin.cool/posts/meng.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-17,1663407120.0
