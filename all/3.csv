@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Java编译出现java.lang.ExceptionInInitializerError,cywhat's blog,https://cywhat.cn/Java%E7%BC%96%E8%AF%91%E5%87%BA%E7%8E%B0java.lang.ExceptionInInitializerError/,https://cywhat.cn/,https://cywhat.cn/index.xml,2024-02-26,1708928878.0
 一个新型键盘浏览器的构想,Andy Stewart,//manateelazycat.github.io/2024/02/25/a-new-type-keyboard-browser/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-02-25,1708819200.0
 博客正式被墙,Frank笔记,https://frank2019.me/archives/1708799903438,https://frank2019.me/,https://frank2019.me/rss.xml,2024-02-24,1708800840.0
 Java 线程池系列-第三篇,Nicksxs's Blog,https://nicksxs.me/2024/02/24/Java-%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%B3%BB%E5%88%97-%E7%AC%AC%E4%B8%89%E7%AF%87/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-02-24,1708787397.0
@@ -48,4 +49,3 @@ ChatGPT 注册登录最佳实践,Andy Stewart,//manateelazycat.github.io/2024/01
 基于混合注意力的RGBT目标追踪,DearXuan的主页,https://blog.dearxuan.com/2024/01/22/%E5%9F%BA%E4%BA%8E%E6%B7%B7%E5%90%88%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%9A%84RGBT%E7%9B%AE%E6%A0%87%E8%BF%BD%E8%B8%AA/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-01-22,1705913460.0
 推一下 Vercel 加速节点,杜老师说,https://dusays.com/669/,https://dusays.com/,https://dusays.com/atom.xml,2024-01-21,1705852800.0
 Calibre 插件推荐,Another Dayu,https://anotherdayu.com/2024/5604/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-01-21,1705837488.0
-清理 VPS 中的异常文件 mysql-bin,Another Dayu,https://anotherdayu.com/2024/5599/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-01-21,1705822918.0
