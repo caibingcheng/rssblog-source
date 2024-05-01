@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+英文独立博客社群,Another Dayu,https://anotherdayu.com/2023/5552/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-12-15,1702627442.0
+ZFS Profiling on Arch Linux,Bin Wang - My Personal Blog,https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-12-14,1702530000.0
 研发团队构建心得,Andy Stewart,//manateelazycat.github.io/2023/12/14/developer-team/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-14,1702512000.0
 使用 Docker 部署 Wiki.js,杜老师说,https://dusays.com/656/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-13,1702483200.0
 纠结了很久 Chrome 和 Arc，我最终选择了 Librewolf,Another Dayu,https://anotherdayu.com/2023/5546/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-12-13,1702473651.0
@@ -9,7 +11,7 @@ title,author,link,home,rss,date,timestamp
 笔记：Bob + ChatGPT 中英翻译和润色 Prompt,Another Dayu,https://anotherdayu.com/2023/5530/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-12-12,1702369135.0
 如何使用 FFmpeg 来压缩视频,杜老师说,https://dusays.com/655/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-10,1702224000.0
 Tomcat 系列篇十一-介绍下 Tomcat 里的后台处理和热加载,Nicksxs's Blog,https://nicksxs.me/2023/12/10/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E5%8D%81%E4%B8%80-%E4%BB%8B%E7%BB%8D%E4%B8%8B-Tomcat-%E9%87%8C%E7%9A%84%E5%90%8E%E5%8F%B0%E5%A4%84%E7%90%86%E5%92%8C%E7%83%AD%E5%8A%A0%E8%BD%BD/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-12-10,1702211308.0
-贰拾玖,瓦解的生活记事,https://hin.cool/posts/ershijiu.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-12-07,1701972000.0
+贰拾玖,瓦解的生活记事,https://hin.cool/posts/ershijiu.html,https://hin.cool/,https://hin.cool/atom.xml,2023-12-07,1701972000.0
 群晖设备更换缓存磁盘,杜老师说,https://dusays.com/654/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-07,1701964800.0
 离散系统的状态观测器设计与仿真,辛未羊的网络日志,https://panqiincs.me/2023/12/07/discrete-observer-design/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-12-07,1701926022.0
 【随笔】自动化油价推送：GitHub Actions 实战,框架師,https://www.mobaijun.com/posts/2512902170.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-12-05,1701747045.0
@@ -40,12 +42,10 @@ Nodejs 对接 TSCLIB,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archive
 Tomcat 系列篇十-介绍下 Tomcat 里的 Mapper 作用,Nicksxs's Blog,https://nicksxs.me/2023/11/26/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E5%8D%81-%E4%BB%8B%E7%BB%8D%E4%B8%8B-Tomcat-%E9%87%8C%E7%9A%84-Mapper-%E4%BD%9C%E7%94%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-11-26,1700996541.0
 Navidrome：自建音乐库的又一选择,湘铭`Blog,https://blog.xiangming.site/409.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-26,1700979510.0
 又一个免费的CDN服务商,湘铭`Blog,https://blog.xiangming.site/406.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-26,1700969145.0
-杰与不存在的婚姻,瓦解的生活记事,https://hin.cool/posts/thesenseofme.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-11-25,1700931600.0
+杰与不存在的婚姻,瓦解的生活记事,https://hin.cool/posts/thesenseofme.html,https://hin.cool/,https://hin.cool/atom.xml,2023-11-25,1700931600.0
 游戏服务器被坑黑历史二,杜老师说,https://dusays.com/650/,https://dusays.com/,https://dusays.com/atom.xml,2023-11-25,1700928000.0
 趁着 2023 Steam 秋季特惠，推荐几款今年比较喜欢的游戏,Another Dayu,https://anotherdayu.com/2023/5490/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-25,1700920062.0
 你的家里有消防措施吗？,湘铭`Blog,https://blog.xiangming.site/403.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-25,1700892180.0
 游戏服务器被坑黑历史一,杜老师说,https://dusays.com/649/,https://dusays.com/,https://dusays.com/atom.xml,2023-11-22,1700668800.0
 Linux生成自定义名称的ssh证书,cywhat's blog,https://cywhat.cn/Linux%E7%94%9F%E6%88%90%E8%87%AA%E5%AE%9A%E4%B9%89%E5%90%8D%E7%A7%B0%E7%9A%84ssh%E8%AF%81%E4%B9%A6/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-11-22,1700634496.0
 苏北的海：从羊窝头到野鹿荡,Macin,https://macin.org/2023/11/20/lian-yun-gang/,https://macin.org/,https://www.macin.org/atom.xml,2023-11-20,1700523282.0
-马桶往外喷水怎么办？,湘铭`Blog,https://blog.xiangming.site/399.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-20,1700457639.0
-推荐一款开源的 Markdown 编辑工具,杜老师说,https://dusays.com/648/,https://dusays.com/,https://dusays.com/atom.xml,2023-11-19,1700409600.0
