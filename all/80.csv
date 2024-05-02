@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+回声,云游君的小站,https://www.yunyoujun.cn/posts/echo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-04,1486224551.0
+Hexo 静态博客搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/hexo-build-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-02,1486039232.0
 再读 Python Language Reference,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_24-python_language_reference.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
 再读vim help：vim小技巧,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_24-vim_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
 JavaScript 继承的那些事,Yuexun's Blog,https://yuexunjiang.me/blog/something-about-javaScript-inherit/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-01-24,1485216000.0
@@ -47,5 +49,3 @@ JavaScript 数据类型判断,Yuexun's Blog,https://yuexunjiang.me/blog/javascri
 编程三年:我的程序员成长经历,罗磊的独立博客,https://luolei.org/how-i-became-a-programmer,https://luolei.org,https://luolei.org/feed/,2016-11-06,1478390400.0
 你根本用不着退学,Randy's Blog,https://lutaonan.com/blog/you-dont-need-to-drop-out/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-11-06,1478390400.0
 Token Bucket 算法,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_05-token_bucket.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-05,1478304000.0
-nginx配置笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_03-nginx_conf.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-03,1478131200.0
-Python 视频转字符动画（一）60 行代码,This Cute World,https://thiscute.world/posts/video2chars-1-basics/,https://thiscute.world/,https://thiscute.world/index.xml,2016-10-18,1476751022.0
