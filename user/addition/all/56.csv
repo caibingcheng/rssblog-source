@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Golang 分布式异步任务队列 Machinery 教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_30-golang_task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-30,1514592000.0
 2017 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2017-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-12-29,1514505600.0
 使用geohash完成地理距离计算,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_27-geohash.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-27,1514332800.0
 YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-me-money/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-12-26,1514283748.0
@@ -11,8 +12,8 @@ YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-m
 蔡司 | 大地8x25ED 便携望远镜: 蓝标魅力，旅行神器,罗磊的独立博客,https://luolei.org/zeiss-terra-8x25-binocular,https://luolei.org,https://luolei.org/feed/,2017-12-11,1512950400.0
 200块买了块国产表:上海钻石牌504机械秒表,罗磊的独立博客,https://luolei.org/shanghai-diamond-stopwatch-type-504,https://luolei.org,https://luolei.org/feed/,2017-12-08,1512691200.0
 算法导论阅读笔记 --- 排序算法,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_02-algorithms_sorting.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-02,1512172800.0
-Git HTTPS 如何保存密码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_29-git_credential_store.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
 短链系统的实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_29-short_url.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
+Git HTTPS 如何保存密码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_29-git_credential_store.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
 程序员修炼之道 阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_13-the_programmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-13,1510531200.0
 人生本该如此。,云游君的小站,https://www.yunyoujun.cn/posts/that-is-what-life-should-be,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-11-11,1510432186.0
 Python开发实践经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_04-python_develop_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-04,1509753600.0
@@ -25,8 +26,8 @@ Web开发系列(十一）：数据库扩展,Jiajun的技术笔记,https://jiajun
 Web开发简介系列,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_19-web_dev_series.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发系列(九)：消息队列，异步任务,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_19-web_dev_part9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Nginx作为TCP/UDP的负载均衡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_19-nginx_as_tcp_load_balancing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Web开发系列(七)：缓存，CDN,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-web_dev_part7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(八)：单点故障，负载均衡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-web_dev_part8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
+Web开发系列(七)：缓存，CDN,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-web_dev_part7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(六)：关系型数据库，ORM,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-web_dev_part6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Nginx 请求匹配规则,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-nginx_request_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(五)：form， json， xml,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_17-web_dev_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-17,1508198400.0
@@ -48,4 +49,3 @@ Haskell简明教程（四）：Monoid， Applicative， Monad,Jiajun的技术笔
 週記，九月三週,Just lepture,https://lepture.com/zh/2017/weekly-20170924,https://lepture.com/,https://lepture.com/feed.xml,2017-09-24,1506252839.0
 像夏花一样绚烂,云游君的小站,https://www.yunyoujun.cn/posts/as-summer-flowers,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-09-23,1506202608.0
 3D数学基础-向量运算基础和矩阵变换,萤火之森,http://frankorz.com/2017/09/22/basic-of-vector-and-matrix-transformation/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-09-22,1506078350.0
-像遊客一樣生活,Just lepture,https://lepture.com/zh/2017/live-better,https://lepture.com/,https://lepture.com/feed.xml,2017-09-22,1506065108.0
