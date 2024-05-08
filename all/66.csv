@@ -1,6 +1,7 @@
 title,author,link,home,rss,date,timestamp
-善用闭包(closure)让Go代码更优雅,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_21-use_closure.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
+【Git系列】详细记录一次码云和Git异常解决方案,框架師,https://www.mobaijun.com/posts/3160757487.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-21,1587434290.0
 Golang中的并发控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_21-golang_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
+善用闭包(closure)让Go代码更优雅,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_21-use_closure.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
 CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡,罗磊的独立博客,https://luolei.org/cmlink-global-borderless-internet-roaming-card,https://luolei.org,https://luolei.org/feed/,2020-04-21,1587427200.0
 Golang的可选参数实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
 危机四伏的2020，既是困难，也是机遇！,Frank笔记,https://frank2019.me/archives/wei-ji-si-fu-de-2020-ji-shi-kun-nan-ye-shi-ji-yu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-18,1587241740.0
@@ -48,4 +49,3 @@ Redis使用中的几点注意事项,Jiajun的技术笔记,https://jiajunhuang.co
 Java的远程调试Remote Debug,雨临Lewis,https://lewky.cn/posts/java-remote-debug.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-03-17,1584459040.0
 深圳电信宽带 / 常用公共 DNS、VPS / 性能 & 稳定性 / 实时监控数据,罗磊的独立博客,https://luolei.org/shenzhen-chinanet-public-dns-realtime-benchmark,https://luolei.org,https://luolei.org/feed/,2020-03-17,1584403200.0
 Hexo 图片 lazyload 的更优尝试,ChrAlpha,https://blog.ichr.me/post/hexo-better-image-lazyload/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-16,1584381969.0
-Lazyload 不让 Valine 评论组件拖慢页面加载,ChrAlpha,https://blog.ichr.me/post/valine-lazyload/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-13,1584127745.0
