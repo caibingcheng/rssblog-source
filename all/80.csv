@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+MapReduce 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_02-map_reduce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 一起来做贼：Goroutine原理和Work stealing,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
 过去10年，我用过的13部手机,罗磊的独立博客,https://luolei.org/mobile-phone-i-used-in-the-past-10-years,https://luolei.org,https://luolei.org/feed/,2017-02-24,1487894400.0
 Vim 折腾记,Ahonn's Blog,https://www.ahonn.me/blog/notes-of-vim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
@@ -48,4 +49,3 @@ MongoDB 的一些坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016
 体验如家黑科技:如家精选酒店智能客房,罗磊的独立博客,https://luolei.org/homeplus-inn-shanghai-smart-room,https://luolei.org,https://luolei.org/feed/,2016-12-04,1480809600.0
 一加3T:简单开箱 + 第一印象,罗磊的独立博客,https://luolei.org/oneplus-3t-unboxing,https://luolei.org,https://luolei.org/feed/,2016-12-02,1480636800.0
 JavaScript 创建对象的一些姿势,Yuexun's Blog,https://yuexunjiang.me/blog/some-ways-of-javascript-create-object/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-30,1480464000.0
-Python的yield关键字有什么作用？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_29-python_yield.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-29,1480377600.0
