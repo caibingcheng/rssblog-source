@@ -4,8 +4,8 @@ title,author,link,home,rss,date,timestamp
 历史与记忆,Frank笔记,https://frank2019.me/archives/li-shi-yu-ji-yi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-11-29,1606631580.0
 Undefined,FlyingSky's Blog,https://blog.fsky7.com/archives/173/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-11-29,1606629540.0
 Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-29-Keep-Data-Consistency-During-Database-Migration.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-29,1606626000.0
-旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,http://luolei.org/pamu-quiet/,https://luolei.org/,https://luolei.org/feed/,2020-11-26,1606398780.0
 旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,https://luolei.org/pamu-quiet/,http://luolei.org/,https://luolei.org/feed/,2020-11-26,1606398780.0
+旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,http://luolei.org/pamu-quiet/,https://luolei.org/,https://luolei.org/feed/,2020-11-26,1606398780.0
 gRPC错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_26-grpc_error_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-26,1606348800.0
 从 Vite 与 Vue 开始的 D3 数据可视化之旅,云游君的小站,https://www.yunyoujun.cn/posts/vue-d3-demo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-21,1605988569.0
 从 Vite 与 Vue 开始的 D3 数据可视化之旅,云游君的小站,https://www.yunyoujun.cn/posts/vue-d3-demo/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-21,1605959769.0
@@ -29,16 +29,16 @@ Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.bin
 /bin/sh: python: not found 问题的解决,Frank笔记,https://frank2019.me/archives/bin-sh-python-not-found-wen-ti-de-jie-jue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-29,1603949280.0
 ServerStatus中文版部署,Frank笔记,https://frank2019.me/archives/serverstatuszhong-wen-ban-bu-shu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-27,1603776360.0
 Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
-回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
 回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
+回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
 通过阳台种菜实现蔬菜自由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
 写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-22,1603404285.0
 【工具系列】Lombok,框架師,https://www.mobaijun.com/posts/529462236.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-10-20,1603200487.0
 从GORM里学习到的panic处理方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
 写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
 How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-18,1602993600.0
-记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
 记一次因 HSTS 导致跨域问题的经历,4Ark × Blog,https://4ark.me/posts/hsts-problem-solving-experience.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
+记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
 Go使用闭包简化数据库操作代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0
 国庆成都之行,Frank笔记,https://frank2019.me/archives/guo-qing-cheng-du-zhi-xing,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-14,1602652980.0
 TCMalloc设计文档学习,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
