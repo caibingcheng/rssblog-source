@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+自建 CDN 联盟试运营,杜老师说,https://dusays.com/705/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-08,1715184000.0
+通过 FFmpeg 替换音轨解决群晖不支持当前所选音轨问题,杜老师说,https://dusays.com/704/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-05,1714924800.0
 Windows 更新时出现的错误代码 0x80070643 解决方案,杜老师说,https://dusays.com/703/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-02,1714665600.0
 Linux 中挂载 WebDAV 的详细教程,杜老师说,https://dusays.com/702/,https://dusays.com/,https://dusays.com/atom.xml,2024-04-29,1714406400.0
 Cloudreve 部署公私兼备的网盘系统「进阶配置」,杜老师说,https://dusays.com/701/,https://dusays.com/,https://dusays.com/atom.xml,2024-04-26,1714147200.0
@@ -47,5 +49,3 @@ Nginx 的 WAF 规则 LuaJIT 高危险版,杜老师说,https://dusays.com/659/,ht
 Nginx 的 WAF 规则 LuaJIT 中危险版,杜老师说,https://dusays.com/658/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-19,1703001600.0
 Nginx 的 WAF 规则 LuaJIT 低危险版,杜老师说,https://dusays.com/657/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-16,1702742400.0
 使用 Docker 部署 Wiki.js,杜老师说,https://dusays.com/656/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-13,1702483200.0
-如何使用 FFmpeg 来压缩视频,杜老师说,https://dusays.com/655/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-10,1702224000.0
-群晖设备更换缓存磁盘,杜老师说,https://dusays.com/654/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-07,1701964800.0
