@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+复变函数的概念,DearXuan的主页,https://blog.dearxuan.com/2024/03/11/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-03-11,1710165240.0
 聊一聊 https 的逻辑,Nicksxs's Blog,https://nicksxs.me/2024/03/10/%E8%81%8A%E4%B8%80%E8%81%8A-https-%E7%9A%84%E9%80%BB%E8%BE%91/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-03-10,1710081476.0
 不同DNS服务商分区解析,Muidar's Site,https://muidar.com/posts/cmuidar/geographical-dns/,https://muidar.com,https://muidar.com/feed,2024-03-10,1710072004.0
 LM Studio: 在 Obsidian 中使用本地 LLM,Another Dayu,https://anotherdayu.com/2024/5646/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-03-10,1710048877.0
@@ -11,7 +12,7 @@ PostgreSQL 当MQ来使用,Jiajun的技术笔记,https://jiajunhuang.com/articles
 Clash 结合 工作VPN 的网络设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_08-clash_vpn.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-08,1709856000.0
 孤单而不孤独,Another Dayu,https://anotherdayu.com/2024/5636/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-03-07,1709789630.0
 使用 PostgreSQL 搭建 JuiceFS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_07-juicefs_postgresql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-07,1709769600.0
-OPENWRT断流后续和被骗30块钱,瓦解的生活记事,https://hin.cool/posts/opf4ck.html,https://hin.cool/,https://hin.cool/atom.xml,2024-03-06,1709761800.0
+OPENWRT断流后续和被骗30块钱,瓦解的生活记事,https://hin.cool/posts/opf4ck.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-03-06,1709761800.0
 YesPlayMusic 高颜值的第三方网易云播放器,杜老师说,https://dusays.com/684/,https://dusays.com/,https://dusays.com/atom.xml,2024-03-06,1709740800.0
 Altoids 城市 EDC (Everyday Carry),Another Dayu,https://anotherdayu.com/2024/5628/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-03-06,1709721587.0
 取消总理记者会的一些思考,Frank笔记,https://frank2019.me/archives/1709667604070,https://frank2019.me/,https://frank2019.me/rss.xml,2024-03-05,1709669287.0
@@ -48,4 +49,3 @@ ShellCheck 静态代码分析的工具,杜老师说,https://dusays.com/678/,http
 给你的站点添加个可可爱爱的看板娘——伪春菜,星空故事·魔法小屋,https://blog.sinzmise.top/posts/54787/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-02-16,1708103846.0
 滇西大环线,Andy Stewart,//manateelazycat.github.io/2024/02/15/tourism-dianxi/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-02-15,1707955200.0
 一台服务器最大能支持多少条 TCP 连接,杜老师说,https://dusays.com/677/,https://dusays.com/,https://dusays.com/atom.xml,2024-02-14,1707926400.0
-南昌：豫章故郡 洪都新府,Macin,https://macin.org/2024/02/12/nan-chang/,https://macin.org/,https://www.macin.org/atom.xml,2024-02-12,1707779208.0
