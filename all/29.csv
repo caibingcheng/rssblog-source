@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+如何引用 R 和 R Packages,Another Dayu,https://anotherdayu.com/2022/3751/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-25,1666682175.0
 磨心坡：回不去的名字叫故乡,Macin,https://macin.org/2022/10/24/mo-xin-po-kuang/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-24,1666644681.0
 去不图床运营策略调整,杜老师说,https://dusays.com/518/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-24,1666627200.0
 记录下 phpunit 的入门使用方法之setUp和tearDown,Nicksxs's Blog,https://nicksxs.me/2022/10/23/%E8%AE%B0%E5%BD%95%E4%B8%8B-phpunit-%E7%9A%84%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E4%B9%8BsetUp%E5%92%8CtearDown/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-23,1666525493.0
@@ -48,4 +49,3 @@ OAuth 2 详解（一）：简介及 Authorization Code 模式,Jiajun的技术笔
 git撤销操作,Barney's Blog,https://hugo.bnblogs.cc/git%E6%92%A4%E9%94%80%E6%93%8D%E4%BD%9C/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-07,1665158572.0
 装修笔记：从0到1打造家庭弱电方案（上篇）,罗磊的独立博客,https://luolei.org/home-network-1/,https://luolei.org/,https://luolei.org/feed/,2022-10-07,1665155878.0
 装修笔记：从0到1打造家庭弱电方案（上篇）,罗磊的独立博客,http://luolei.org/home-network-1/,https://luolei.org/,https://luolei.org/feed/,2022-10-07,1665155878.0
-curl使用,Barney's Blog,https://hugo.bnblogs.cc/curl%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-07,1665141099.0
