@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+远程桌面工具rustdesk的私有化部署-mac锁定问题,Nicksxs's Blog,https://nicksxs.me/2024/05/19/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7rustdesk%E7%9A%84%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2-mac%E9%94%81%E5%AE%9A%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-05-19,1716129259.0
 远程桌面工具rustdesk的私有化部署,Nicksxs's Blog,https://nicksxs.me/2024/05/12/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7rustdesk%E7%9A%84%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-05-12,1715527844.0
 Leetcode 31 Next Permutation 题解分析,Nicksxs's Blog,https://nicksxs.me/2024/05/06/Leetcode-31-Next-Permutation-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-05-06,1714980740.0
 折腾记-讲一下iptables的一个小问题,Nicksxs's Blog,https://nicksxs.me/2024/05/05/%E6%8A%98%E8%85%BE%E8%AE%B0-%E8%AE%B2%E4%B8%80%E4%B8%8Biptables%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B0%8F%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-05-05,1714919022.0
@@ -48,4 +49,3 @@ java 中发起 http 请求时证书问题解决记录,Nicksxs's Blog,https://nic
 headscale 添加节点,Nicksxs's Blog,https://nicksxs.me/2023/07/09/headscale-%E6%B7%BB%E5%8A%A0%E8%8A%82%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-07-09,1688912314.0
 nas 中使用 tmm 刮削视频,Nicksxs's Blog,https://nicksxs.me/2023/07/02/%E4%BD%BF%E7%94%A8-tmm-%E5%88%AE%E5%89%8A%E8%A7%86%E9%A2%91/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-07-02,1688303512.0
 spring boot中的 http 接口返回 json 形式的小注意点,Nicksxs's Blog,https://nicksxs.me/2023/06/25/spring-boot%E4%B8%AD%E7%9A%84-http-%E6%8E%A5%E5%8F%A3%E8%BF%94%E5%9B%9E-json-%E5%BD%A2%E5%BC%8F%E7%9A%84%E5%B0%8F%E6%B3%A8%E6%84%8F%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-06-25,1687703629.0
-记录一次折腾自组 nas 的失败经历-续续续篇,Nicksxs's Blog,https://nicksxs.me/2023/06/18/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E6%8A%98%E8%85%BE%E8%87%AA%E7%BB%84-nas-%E7%9A%84%E5%A4%B1%E8%B4%A5%E7%BB%8F%E5%8E%86-%E7%BB%AD%E7%BB%AD%E7%BB%AD%E7%AF%87/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-06-18,1687094107.0
