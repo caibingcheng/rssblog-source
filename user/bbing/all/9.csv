@@ -1,7 +1,7 @@
 title,author,link,home,rss,date,timestamp
-HttpURLConnection设置host请求头无效,Yulin Lewis' Blog,https://lewky.cn/posts/http-host-header/,https://lewky.cn/,https://lewky.cn/index.xml,2022-11-20,1668957202.0
-HttpClient问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/httpclient-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-11-20,1668957202.0
 HttpClient问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/httpclient-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-11-20,1668957202.0
+HttpClient问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/httpclient-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-11-20,1668957202.0
+HttpURLConnection设置host请求头无效,Yulin Lewis' Blog,https://lewky.cn/posts/http-host-header/,https://lewky.cn/,https://lewky.cn/index.xml,2022-11-20,1668957202.0
 java-异常、断言和日志,Barney's Blog,https://hugo.bnblogs.cc/java-6/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-20,1668937914.0
 tagged-pointer-让指针包含更多信息,Bing's Blog,https://imcbc.cn/202211/tagged-pointer/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
 tagged-pointer-让指针包含更多信息,Bing's Blog,https://bbing.com.cn/202211/tagged-pointer/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-20,1668915483.0
@@ -12,8 +12,8 @@ java-接口、lambda表达式,Barney's Blog,https://hugo.bnblogs.cc/java-4/,http
 Jenkins插件无法安装解决,cywhat's blog,https://cywhat.cn/Jenkins%E6%8F%92%E4%BB%B6%E6%97%A0%E6%B3%95%E5%AE%89%E8%A3%85%E8%A7%A3%E5%86%B3/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-15,1668497251.0
 Jenkins报错 Bash:newman:command Not Found,cywhat's blog,https://cywhat.cn/Jenkins%E6%8A%A5%E9%94%99-bashnewmancommand-not-found/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-15,1668496771.0
 挂机放置类小游戏,杜老师说,https://dusays.com/525/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-14,1668441600.0
-dotfiles之外的一些应用,Bing's Blog,https://imcbc.cn/202211/dotfiles-more/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
 dotfiles之外的一些应用,Bing's Blog,https://bbing.com.cn/202211/dotfiles-more/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
+dotfiles之外的一些应用,Bing's Blog,https://imcbc.cn/202211/dotfiles-more/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
 java-继承和多态,Barney's Blog,https://hugo.bnblogs.cc/java-3/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-13,1668325344.0
 java多线程和锁,Barney's Blog,https://hugo.bnblogs.cc/java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%92%8C%E9%94%81/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-12,1668248382.0
 稳定建站服务器:蓝易云,DearXuan的主页,https://blog.dearxuan.com/2022/11/12/%E8%93%9D%E6%98%93%E4%BA%91-%E5%BB%BA%E7%AB%99%E6%9C%8D%E5%8A%A1%E5%99%A8/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-11-12,1668224264.0
@@ -25,8 +25,8 @@ Gitea+drone搭建CICD环境,Barney's Blog,https://hugo.bnblogs.cc/gitea-drone-ci
 Ubuntu20.04服务器配置,Barney's Blog,https://hugo.bnblogs.cc/ubuntu20.04%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-07,1667833437.0
 java-类和对象,Barney's Blog,https://hugo.bnblogs.cc/java-2/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-06,1667728523.0
 杜老师的南京「之旅」,杜老师说,https://dusays.com/522/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-05,1667664000.0
-java核心技术(1)第3章-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java%E5%9F%BA%E7%A1%80/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 java-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java-1/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
+java核心技术(1)第3章-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java%E5%9F%BA%E7%A1%80/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 我与十年之约,杜老师说,https://dusays.com/521/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-02,1667404800.0
 NovelAI-WebUI安装教程,DearXuan的主页,https://blog.dearxuan.com/2022/11/02/NovelAI-WebUI%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-11-02,1667352585.0
 Gitea+drone搭建CICD环境,Barney's Blog,https://hugo.bnblogs.cc/gitea-drone%E6%90%AD%E5%BB%BAcicd%E7%8E%AF%E5%A2%83/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-01,1667285799.0
@@ -47,5 +47,5 @@ Failed to Extract Shortcode:template for Shortcode Admonition Not Found,cywhat's
 Zsh Problem Compinit503 No Such File or Directory Usr Local Share Zsh Site,cywhat's blog,https://cywhat.cn/zsh-problem-compinit503-no-such-file-or-directory-usr-local-share-zsh-site/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-10-13,1665628332.0
 CDN 选择与推荐,杜老师说,https://dusays.com/514/,https://dusays.com/,https://dusays.com/atom.xml,2022-10-12,1665590400.0
 frp内网穿透记录,Barney's Blog,https://hugo.bnblogs.cc/frp%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-12,1665568522.0
-文件和文件夹md5工具-md5any,Bing's Blog,https://imcbc.cn/202210/md5fileandic-md5any/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-10-11,1665491893.0
 文件和文件夹md5工具-md5any,Bing's Blog,https://bbing.com.cn/202210/md5fileandic-md5any/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-10-11,1665491893.0
+文件和文件夹md5工具-md5any,Bing's Blog,https://imcbc.cn/202210/md5fileandic-md5any/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-10-11,1665491893.0
