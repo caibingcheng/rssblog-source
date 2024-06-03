@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+React 生命周期函数小结,Yuexun's Blog,https://yuexunjiang.me/blog/react-lifecycle-methods/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-10-02,1475366400.0
 静态类型在 JavaScript 中是一种负担吗？,Randy's Blog,https://lutaonan.com/blog/is-static-type-in-javascript-a-burden/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-09-29,1475107200.0
 太空,云游君的小站,https://www.yunyoujun.cn/posts/outer-space,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2016-09-20,1474379705.0
 阅读Flask源码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_09_15-flask_source_code.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-09-15,1473897600.0
@@ -29,8 +30,8 @@ Vue 中使用 highlight.js,Yuexun's Blog,https://yuexunjiang.me/blog/getting-hig
 视频 | 遇见，日本:东京・仙台 Travel Film,罗磊的独立博客,https://luolei.org/zuoluotv-travel-in-japan,https://luolei.org,https://luolei.org/feed/,2016-07-03,1467504000.0
 2016年度目标之一:我拿到驾照啦！,罗磊的独立博客,https://luolei.org/i-got-the-driver-license,https://luolei.org,https://luolei.org/feed/,2016-06-30,1467244800.0
 CSS 实现垂直居中,Yuexun's Blog,https://yuexunjiang.me/blog/vertical-center-for-css/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-06-29,1467158400.0
-学习使用Bootstrap4的栅格系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_06_20-bootstrap_v4_grid_system.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-20,1466380800.0
 左罗TV:我们的一大步,罗磊的独立博客,https://luolei.org/one-step-forward-for-zuoluotv,https://luolei.org,https://luolei.org/feed/,2016-06-20,1466380800.0
+学习使用Bootstrap4的栅格系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_06_20-bootstrap_v4_grid_system.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-20,1466380800.0
 利用Github的WebHook完成自动部署,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_06_19-use_github_webhooks.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-19,1466294400.0
 使用Tornado和rst来写博客,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_06_18-write_blog_with_tornado_and_rst.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-18,1466208000.0
 《烂泥》李峻一,Randy's Blog,https://lutaonan.com/blog/lan-ni-li-jun-yi/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-06-16,1466035200.0
@@ -44,8 +45,7 @@ Haskell do notation,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_
 使用 Nokogiri 解析 HTML,Yuexun's Blog,https://yuexunjiang.me/blog/using-nokogiri-parsing-html/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-28,1464393600.0
 小明的胡言,Just lepture,https://lepture.com/zh/2016/my-tweets,https://lepture.com/,https://lepture.com/feed.xml,2016-05-27,1464307800.0
 foldl 和 foldr 的变换,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_05_22-foldl_and_foldr.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-22,1463875200.0
-记第一次面试,Yuexun's Blog,https://yuexunjiang.me/blog/the-first-interview/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 使用 JavaScript 实现简单的拖拽,Yuexun's Blog,https://yuexunjiang.me/blog/use-javascript-to-achieve-simple-drag-and-drop/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
+记第一次面试,Yuexun's Blog,https://yuexunjiang.me/blog/the-first-interview/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
 关于部落冲突的二三事儿-序,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-0,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2016-05-12,1463067095.0
 我在读什么:2016春季读书分享,罗磊的独立博客,https://luolei.org/what-i-read-in-2016-spring,https://luolei.org,https://luolei.org/feed/,2016-05-08,1462665600.0
-第一次当伴郎是什么体验？,罗磊的独立博客,https://luolei.org/be-a-best-man-shenzhen-wedding,https://luolei.org,https://luolei.org/feed/,2016-05-07,1462579200.0
