@@ -1,8 +1,10 @@
 title,author,link,home,rss,date,timestamp
+深入分析 LSP 协议,Andy Stewart,//manateelazycat.github.io/2024/06/11/lsp-trick/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-06-11,1718064000.0
+DockerUI 容器管理器的安装与使用,杜老师说,https://dusays.com/716/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-10,1718035200.0
 Create a Checkbox That Returns Boolean Value for htmx,Bin Wang - My Personal Blog,https://www.binwang.me/2024-06-08-Create-a-Checkbox-That-Returns-Boolean-Value-for-htmx.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-06-08,1717819200.0
 to do 工具 Vikunja 的安装与使用,杜老师说,https://dusays.com/715/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-07,1717776000.0
 Potainer 容器管理器的安装与使用,杜老师说,https://dusays.com/714/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-04,1717516800.0
-使用 1panel 自动申请和续签通配符证书,瓦解的生活记事,https://hin.cool/posts/sslfor1panel.html,https://hin.cool/,https://hin.cool/atom.xml,2024-06-04,1717480800.0
+使用 1panel 自动申请和续签通配符证书,瓦解的生活记事,https://hin.cool/posts/sslfor1panel.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-06-04,1717480800.0
 在Argon主题评论添加Turnstile,Muidar's Site,https://muidar.com/posts/cmuidar/add-turnstile-to-argons-comment/,https://muidar.com,https://muidar.com/feed,2024-06-03,1717398702.0
 Random Playlists for Self Hosted Videos,Bin Wang - My Personal Blog,https://www.binwang.me/2024-06-03-Random-Video-Playlists-for-Self-Hosted-Videos.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-06-03,1717387200.0
 给局域网中的Ubuntu固定下ip,Nicksxs's Blog,https://nicksxs.me/2024/06/02/%E7%BB%99%E5%B1%80%E5%9F%9F%E7%BD%91%E4%B8%AD%E7%9A%84Ubuntu%E5%9B%BA%E5%AE%9A%E4%B8%8Bip/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-02,1717342338.0
@@ -23,7 +25,7 @@ iStoreOS 路由系统介绍与安装,杜老师说,https://dusays.com/710/,https:
 基于 rsync+sersync 实现文件的同步备份,杜老师说,https://dusays.com/709/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-20,1716220800.0
 远程桌面工具rustdesk的私有化部署-mac锁定问题,Nicksxs's Blog,https://nicksxs.me/2024/05/19/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7rustdesk%E7%9A%84%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2-mac%E9%94%81%E5%AE%9A%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-05-19,1716129259.0
 SPF、DKIM与DMARC为何？,Muidar's Site,https://muidar.com/posts/cmuidar/what-is-spf-dkim-dmarc/,https://muidar.com,https://muidar.com/feed,2024-05-18,1716036184.0
-免费的代码AI辅助工具：百度comate,瓦解的生活记事,https://hin.cool/posts/baiducomate.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-05-18,1716031200.0
+免费的代码AI辅助工具：百度comate,瓦解的生活记事,https://hin.cool/posts/baiducomate.html,https://hin.cool/,https://hin.cool/atom.xml,2024-05-18,1716031200.0
 基于 rsync+inotifywait 实现文件的实时同步,杜老师说,https://dusays.com/708/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-17,1715961600.0
 拓扑相关概念的演化,辛未羊的网络日志,https://panqiincs.me/2024/05/16/bourbaki-topology/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2024-05-16,1715864162.0
 Artalk 评论工具登录功能使用及反馈收集,杜老师说,https://dusays.com/707/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-14,1715702400.0
@@ -47,5 +49,3 @@ Windows 安装 ZSH 踩坑记录,怠惰のコエ - imba久期 BLOG,https://imba97
 Windows 更新时出现的错误代码 0x80070643 解决方案,杜老师说,https://dusays.com/703/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-02,1714665600.0
 狠狠地美化我的 VS Code,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/779/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-05-02,1714651272.0
 语音笔记 Shortcuts：iOS 音频转文字并导入 Obsidian,Another Dayu,https://anotherdayu.com/2024/5734/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-05-02,1714616770.0
-交个朋友,Another Dayu,https://anotherdayu.com/2024/5727/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-05-01,1714557990.0
-在线日程安排和预约工具 – Calendly、Cal.com 和 Tidycal,Another Dayu,https://anotherdayu.com/2024/5724/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-05-01,1714551557.0

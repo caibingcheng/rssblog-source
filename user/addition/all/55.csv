@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Python中实现单例模式的n种方式和原理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
 Golang defer中修改返回值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_23-go_defer_named_return_values.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-23,1534982400.0
 Serlina: 渐进式的 React 服务器渲染框架,Randy's Blog,https://lutaonan.com/blog/announcing-serlina/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-08-13,1534118400.0
 Python dataclass 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_12-python_dataclasses.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-12,1534032000.0
@@ -48,4 +49,3 @@ Gin源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/
 美国  | 美西6000里:一趟旅行，女友成了前女友,罗磊的独立博客,https://luolei.org/usa-road-travel-feb,https://luolei.org,https://luolei.org/feed/,2018-03-10,1520640000.0
 如何面试-作为面试官得到的经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_10-interview.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-10,1520640000.0
 自己写一个容器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_09-write_you_a_container.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-09,1520553600.0
-Golang(Go语言)中实现典型的fork调用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_08-golang_fork.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-08,1520467200.0
