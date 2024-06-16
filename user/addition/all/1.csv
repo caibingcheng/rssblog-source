@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+NX30Pro 刷成 Openwrt-ImmortalWrt 后作为有线中继的配置方法,Nicksxs's Blog,https://nicksxs.me/2024/06/16/NX30Pro-%E5%88%B7%E6%88%90-Openwrt-ImmortalWrt-%E5%90%8E%E4%BD%9C%E4%B8%BA%E6%9C%89%E7%BA%BF%E4%B8%AD%E7%BB%A7%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-16,1718549123.0
+向量数据库学习基础之跳表,Nicksxs's Blog,https://nicksxs.me/2024/06/16/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E4%B9%8B%E8%B7%B3%E8%A1%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-16,1718548237.0
 【抢鲜体验】腾讯云轻量应用服务器IPv6配置&体验测试,Luminous' Home,https://luotianyi.vc/7965.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-06-16,1718510852.0
 深入分析 LSP 协议,Andy Stewart,//manateelazycat.github.io/2024/06/11/lsp-trick/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-06-11,1718064000.0
 吃灰树莓派再就业,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/783/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-06-10,1718053918.0
@@ -9,8 +11,8 @@ Random Playlists for Self Hosted Videos,Bin Wang - My Personal Blog,https://www.
 给局域网中的Ubuntu固定下ip,Nicksxs's Blog,https://nicksxs.me/2024/06/02/%E7%BB%99%E5%B1%80%E5%9F%9F%E7%BD%91%E4%B8%AD%E7%9A%84Ubuntu%E5%9B%BA%E5%AE%9A%E4%B8%8Bip/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-02,1717342338.0
 自建音乐服务 Navidrome,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/782/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-06-01,1717242096.0
 解决 Github Organizations 不显示,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/781/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-05-30,1717107984.0
-2024-05小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/64916/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-05-26,1716758313.0
 2024-05小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/10021/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-05-26,1716758313.0
+2024-05小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/64916/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-05-26,1716758313.0
 豆角蒸面🍜,把酒诗代码，趁乱写年华。,https://102no.com/2024/05/27/dou-jiao-zheng-mian/,https://102no.com/,https://102no.com/atom.xml,2024-05-26,1716739200.0
 Headscale渐入佳境补充篇-自定义中转derper的证书问题,Nicksxs's Blog,https://nicksxs.me/2024/05/26/Headscale%E6%B8%90%E5%85%A5%E4%BD%B3%E5%A2%83%E8%A1%A5%E5%85%85%E7%AF%87-%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%AD%E8%BD%ACderper%E7%9A%84%E8%AF%81%E4%B9%A6%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-05-26,1716737576.0
 Ruffle测试,星空故事·魔法小屋,https://blog.sinzmise.top/posts/57692/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-05-25,1716671559.0
@@ -47,5 +49,3 @@ N 卡待机死机,Andy Stewart,//manateelazycat.github.io/2024/04/28/lock-nvidia
 放弃阿里云盘,瓦解的生活记事,https://hin.cool/posts/alipanbye.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-04-24,1713988200.0
 在 Electron 中使用 SQLite 的最好方式,Randy's Blog,https://lutaonan.com/blog/electron-sqlite/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-04-22,1713744000.0
 【近期概况】一年一度的降权，是在催更么？,Luminous' Home,https://luotianyi.vc/8114.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-04-21,1713712522.0
-学习下LlamaIndex-初始篇,Nicksxs's Blog,https://nicksxs.me/2024/04/21/%E5%AD%A6%E4%B9%A0%E4%B8%8BLlamaIndex-%E5%88%9D%E5%A7%8B%E7%AF%87/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-04-21,1713708056.0
-ChatGPT、Transformer 与注意力机制,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20240421-chatgpt-attention-and-transformer,https://teobler.com,https://teobler.com/rss.xml,2024-04-21,1713677123.0
