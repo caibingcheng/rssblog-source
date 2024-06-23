@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+LM Studio: 在 Obsidian 中使用本地 LLM,Another Dayu,https://anotherdayu.com/2024/5646/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-03-10,1710048877.0
 Minimalistic Obsidian Setup,Another Dayu,https://anotherdayu.com/2024/5640/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-03-10,1710042794.0
 Golang CAS 操作是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_10-golang_cas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-10,1710028800.0
 运行多用户 FreshRSS 实例的一些经验,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/practices-for-maintaining-multi-user-freshrss-instance.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2024-03-09,1710024300.0
@@ -48,4 +49,3 @@ Leetcode 572 Subtree of Another Tree 题解分析,Nicksxs's Blog,https://nicksxs
 九十年代：是繁花，还是大江大河？,Macin,https://macin.org/2024/01/24/fan-hua/,https://macin.org/,https://www.macin.org/atom.xml,2024-01-24,1706088163.0
 ChatGPT 注册登录最佳实践,Andy Stewart,//manateelazycat.github.io/2024/01/23/chatgpt-way/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-01-23,1705968000.0
 Calibre 插件推荐,Another Dayu,https://anotherdayu.com/2024/5604/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-01-21,1705837488.0
-清理 VPS 中的异常文件 mysql-bin,Another Dayu,https://anotherdayu.com/2024/5599/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-01-21,1705822918.0

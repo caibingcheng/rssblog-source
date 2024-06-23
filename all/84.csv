@@ -1,12 +1,13 @@
 title,author,link,home,rss,date,timestamp
+C语言的位操作,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_02_06-bitwise_operation.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-02-06,1454716800.0
 分治,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_01_25-divide_and_conqure.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-01-25,1453680000.0
 日記、新年お願いします,Just lepture,https://lepture.com/zh/2016/new-year-koshigaya,https://lepture.com/,https://lepture.com/feed.xml,2016-01-16,1452942900.0
 Review of 2015:剁手篇,罗磊的独立博客,https://luolei.org/review-or-2015-gadget,https://luolei.org,https://luolei.org/feed/,2016-01-15,1452816000.0
 对信息和技术的一些看法,罗磊的独立博客,https://luolei.org/the-value-of-tech-and-information,https://luolei.org,https://luolei.org/feed/,2016-01-09,1452297600.0
-目测是大陆第一个Netflix全平台评测,罗磊的独立博客,https://luolei.org/review-orf-netflix-2016,https://luolei.org,https://luolei.org/feed/,2016-01-09,1452297600.0
 Review of 2015 年度回顾,罗磊的独立博客,https://luolei.org/review-of-2015,https://luolei.org,https://luolei.org/feed/,2016-01-09,1452297600.0
-2015 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2015-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-31,1451520000.0
+目测是大陆第一个Netflix全平台评测,罗磊的独立博客,https://luolei.org/review-orf-netflix-2016,https://luolei.org,https://luolei.org/feed/,2016-01-09,1452297600.0
 罗磊博客统计报告2015,罗磊的独立博客,https://luolei.org/annual-analytics-2015,https://luolei.org,https://luolei.org/feed/,2015-12-31,1451520000.0
+2015 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2015-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-31,1451520000.0
 日記、初めまして,Just lepture,https://lepture.com/zh/2015/first-day-koshigaya,https://lepture.com/,https://lepture.com/feed.xml,2015-12-30,1451475000.0
 一个有故事的主题:珠峰上的Yasuko,罗磊的独立博客,https://luolei.org/a-ghost-theme-yasuko-with-story,https://luolei.org,https://luolei.org/feed/,2015-12-28,1451260800.0
 杭州記憶,Just lepture,https://lepture.com/zh/2015/beloved-hangzhou,https://lepture.com/,https://lepture.com/feed.xml,2015-12-24,1450953000.0
@@ -31,8 +32,8 @@ iMac 2015 5K 版外接 USB3.0 硬盘盒+SSD 系统加速体验,罗磊的独立�
 NodeJS + Google Analytics追踪渠道页面浏览量,罗磊的独立博客,https://luolei.org/nodejs-google-analytics-track,https://luolei.org,https://luolei.org/feed/,2015-09-12,1442016000.0
 談藥,Just lepture,https://lepture.com/zh/2015/about-yao,https://lepture.com/,https://lepture.com/feed.xml,2015-09-10,1441843200.0
 Alfred域名IP速查工具,罗磊的独立博客,https://luolei.org/alfred-lookupdomainip,https://luolei.org,https://luolei.org/feed/,2015-09-07,1441584000.0
-Thinking Recursively,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_09_05-thinking_recursively.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-09-05,1441411200.0
 杭州 | 九溪十八涧,罗磊的独立博客,https://luolei.org/meet-hangzhou-day-two,https://luolei.org,https://luolei.org/feed/,2015-09-05,1441411200.0
+Thinking Recursively,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_09_05-thinking_recursively.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-09-05,1441411200.0
 杭州 | 西湖,罗磊的独立博客,https://luolei.org/meet-hangzhou-day-one,https://luolei.org,https://luolei.org/feed/,2015-09-04,1441324800.0
 sudoers is world writable,Yuexun's Blog,https://yuexunjiang.me/blog/sudoers-is-world-writable/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-08-30,1440892800.0
 Vue.js 和 Webpack,Randy's Blog,https://lutaonan.com/blog/vue-and-webpack/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2015-08-29,1440806400.0
@@ -48,4 +49,3 @@ Ubuntu 下 LAMP环境搭建,Yuexun's Blog,https://yuexunjiang.me/blog/ubuntu-lam
 写给即将学习编程的大学新生,Randy's Blog,https://lutaonan.com/blog/note-to-new-programming-students/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2015-07-01,1435708800.0
 【开箱】云麦好轻,罗磊的独立博客,https://luolei.org/yunmai-smart-weighing-health-gear,https://luolei.org,https://luolei.org/feed/,2015-06-27,1435363200.0
 知乎 | 是什么支撑你跑完五公里？,罗磊的独立博客,https://luolei.org/everything-behind-the-road-i-runned,https://luolei.org,https://luolei.org/feed/,2015-06-23,1435017600.0
-Block I/O,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_06_22-notes_on_linux_kernel_development_chap14.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-06-22,1434931200.0
