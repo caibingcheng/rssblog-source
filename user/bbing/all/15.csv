@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+写给开发人员的实用密码学（五）—— 密钥交换 DHKE 与完美前向保密 PFS,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-5-key-exchange/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126105.0
 写给开发人员的实用密码学（四）—— 安全随机数生成器 CSPRNG,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-4-secure-random-generators/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126104.0
 写给开发人员的实用密码学（三）—— MAC 与密钥派生函数 KDF,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-3-key-derivation-function/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126103.0
 写给开发人员的实用密码学（二）—— 哈希函数,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-2-hash/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126101.0
@@ -28,8 +29,8 @@ Linux下安装zsh,Barney's Blog,https://hugo.bnblogs.cc/linux%E4%B8%8B%E5%AE%89%
 算法基础-线性结构,DearXuan的主页,https://dearxuan.top/2022/02/15/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-15,1644917220.0
 无成本反向代理Jsdelivr,LonelyGod,https://hin.cool/posts/jsdfandai.html,https://hin.cool/,https://hin.cool/atom.xml,2022-02-14,1644865201.0
 Linux/Windows/MacOSX 系统常用命令集锦,This Cute World,https://thiscute.world/posts/common-commands-for-various-operating-systems/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-13,1644739740.0
-Java - 字符编码,Yulin Lewis' Blog,https://lewky233.top/posts/java-charset/,https://lewky233.top/,https://lewky.cn/index.xml,2022-02-13,1644720128.0
 Java - 字符编码,Yulin Lewis' Blog,https://lewky.cn/posts/java-charset/,https://lewky.cn/,https://lewky.cn/index.xml,2022-02-13,1644720128.0
+Java - 字符编码,Yulin Lewis' Blog,https://lewky233.top/posts/java-charset/,https://lewky233.top/,https://lewky.cn/index.xml,2022-02-13,1644720128.0
 Python 实用技巧与常见错误集锦,This Cute World,https://thiscute.world/posts/python-tips-and-tricks/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-12,1644686220.0
 备忘录,Barney's Blog,https://hugo.bnblogs.cc/memo/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-10,1644481191.0
 python实现RSA加密数字,DearXuan的主页,https://blog.dearxuan.com/2022/02/09/python%E5%AE%9E%E7%8E%B0RSA%E5%8A%A0%E5%AF%86%E6%95%B0%E5%AD%97/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-09,1644400380.0
@@ -48,4 +49,3 @@ Kubernetes 微服务最佳实践,This Cute World,https://thiscute.world/posts/ku
 算法基础-函数渐近,DearXuan的主页,https://blog.dearxuan.com/2022/01/24/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E5%87%BD%E6%95%B0%E6%B8%90%E8%BF%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-24,1643016720.0
 算法基础-函数渐近,DearXuan的主页,https://dearxuan.top/2022/01/24/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E5%87%BD%E6%95%B0%E6%B8%90%E8%BF%91/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-01-24,1643016720.0
 glibc-exit源码阅读,BBing's Blog,https://bbing.com.cn/202201/glibc-exit/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-01-24,1642994496.0
-Bber和aplayer折腾感想,LonelyGod,https://hin.cool/posts/xiazheteng.html,https://hin.cool/,https://hin.cool/atom.xml,2022-01-22,1642881710.0
