@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+服役六年的固态硬盘报废,瓦解的生活记事,https://hin.cool/posts/ssddead.html,https://hin.cool/,https://hin.cool/atom.xml,2023-08-06,1691308800.0
 杜老师说旗下服务调整回源策略,杜老师说,https://dusays.com/613/,https://dusays.com/,https://dusays.com/atom.xml,2023-08-05,1691251200.0
 杜老师喜提新车啦,杜老师说,https://dusays.com/612/,https://dusays.com/,https://dusays.com/atom.xml,2023-08-02,1690992000.0
 转成动感地带芒果卡套餐,瓦解的生活记事,https://hin.cool/posts/changetomgk.html,https://hin.cool/,https://hin.cool/atom.xml,2023-08-01,1690875000.0
@@ -31,8 +32,8 @@ Jmeter进行分布式压测,cywhat's blog,https://cywhat.cn/Jmeter%E8%BF%9B%E8%A
 李达实验班老师的课堂语录,辛未羊的网络日志,https://panqiincs.me/2023/06/26/lida-teachers-quotes/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-06-26,1687787558.0
 帮杜老师选一张显卡吧,杜老师说,https://dusays.com/599/,https://dusays.com/,https://dusays.com/atom.xml,2023-06-24,1687622400.0
 容器除了 Docker 还有 Podman,杜老师说,https://dusays.com/598/,https://dusays.com/,https://dusays.com/atom.xml,2023-06-21,1687363200.0
-SSH命令问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/ssh-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2023-06-20,1687237878.0
 SSH命令问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/ssh-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2023-06-20,1687237878.0
+SSH命令问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/ssh-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2023-06-20,1687237878.0
 1Panel 新一代 Linux 服务器运维管理面板,杜老师说,https://dusays.com/597/,https://dusays.com/,https://dusays.com/atom.xml,2023-06-18,1687104000.0
 PGP加解密,Yulin Lewis' Blog,https://lewky233.top/posts/pgp/,https://lewky233.top/,https://lewky.cn/index.xml,2023-06-15,1686845979.0
 PGP加解密,Yulin Lewis' Blog,https://lewky.cn/posts/pgp/,https://lewky.cn/,https://lewky.cn/index.xml,2023-06-15,1686845979.0
@@ -48,4 +49,3 @@ FreeDB 免费数据库托管服务,杜老师说,https://dusays.com/590/,https://
 推荐一下 Fgaoxing 与武汉初柒公司提供的公益 CDN,杜老师说,https://dusays.com/589/,https://dusays.com/,https://dusays.com/atom.xml,2023-05-25,1685030400.0
 Python创建并上传自己的pip依赖包,cywhat's blog,https://cywhat.cn/Python%E5%88%9B%E5%BB%BA%E5%B9%B6%E4%B8%8A%E4%BC%A0%E8%87%AA%E5%B7%B1%E7%9A%84pip%E4%BE%9D%E8%B5%96%E5%8C%85/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-05-25,1685007747.0
 Jenkins+Gitee持续集成,Barney's Blog,https://hugo.bnblogs.cc/jenkins-gitee%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684848714.0
-Ubuntu搭建redis集群,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E6%90%AD%E5%BB%BAredis%E9%9B%86%E7%BE%A4/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684827988.0
