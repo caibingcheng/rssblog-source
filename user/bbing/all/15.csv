@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Go语言语法踩坑,Barney's Blog,https://hugo.bnblogs.cc/go%E8%AF%AD%E8%A8%80%E8%AF%AD%E6%B3%95%E8%B8%A9%E5%9D%91/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646754974.0
 Ubuntu20.04彻底卸载mysql8.0,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BDmysql8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646731549.0
 Ubuntu上使用docker安装mysql,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4%B8%8A%E4%BD%BF%E7%94%A8docker%E5%AE%89%E8%A3%85mysql/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-07,1646647303.0
 写给开发人员的实用密码学（六）—— 对称密钥加密算法,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-6-symmetric-key-ciphers/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-06,1646563440.0
@@ -48,4 +49,3 @@ C#图像压缩相关方法总结,DearXuan的主页,https://dearxuan.top/2022/02/
 本站统计数据,This Cute World,https://thiscute.world/statistics/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-07,1644231395.0
 痛苦的大年初二,LonelyGod,https://hin.cool/posts/ihatemymom.html,https://hin.cool/,https://hin.cool/atom.xml,2022-02-02,1643830821.0
 算法基础-顺序统计量,DearXuan的主页,https://dearxuan.top/2022/01/30/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1%E9%87%8F/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-01-30,1643546700.0
-算法基础-顺序统计量,DearXuan的主页,https://blog.dearxuan.com/2022/01/30/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1%E9%87%8F/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-30,1643546700.0
