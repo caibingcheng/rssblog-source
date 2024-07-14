@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+空中 Wi-Fi 体验,Another Dayu,https://anotherdayu.com/2024/5624/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-03-01,1709284509.0
+窗口函数的使用(以PG为例),Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_01-pg_window_function.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-01,1709251200.0
 密码托管服务各平台 APP 分享,杜老师说,https://dusays.com/682/,https://dusays.com/,https://dusays.com/atom.xml,2024-02-29,1709222400.0
 时差 Time difference 和 Jet lag,Another Dayu,https://anotherdayu.com/2024/5619/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-02-29,1709217716.0
 用于高效RGBT追踪的单级Transformer,DearXuan的主页,https://blog.dearxuan.com/2024/02/29/%E7%94%A8%E4%BA%8E%E9%AB%98%E6%95%88RGBT%E8%BF%BD%E8%B8%AA%E7%9A%84%E5%8D%95%E7%BA%A7Transformer/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-02-29,1709195760.0
@@ -31,8 +33,8 @@ Java 线程池系列-第一篇,Nicksxs's Blog,https://nicksxs.me/2024/02/11/Java
 龙年开篇,Frank笔记,https://frank2019.me/archives/1707425582750,https://frank2019.me/,https://frank2019.me/rss.xml,2024-02-08,1707429682.0
 Fort Firewall 开源免费防火墙工具,杜老师说,https://dusays.com/675/,https://dusays.com/,https://dusays.com/atom.xml,2024-02-08,1707408000.0
 PVE 硬件直通导致不能启动的问题,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/777/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-02-08,1707399011.0
-2023 年度总结,4Ark × Blog,https://4ark.me/post/2023-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2024-02-07,1707264000.0
 2023 年度总结,4Ark,https://4ark.me/posts/2024-01-01-2023-summary/,https://4ark.me/,https://4ark.me/rss.xml,2024-02-07,1707264000.0
+2023 年度总结,4Ark × Blog,https://4ark.me/post/2023-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2024-02-07,1707264000.0
 襄阳牛肉面🍜,把酒诗代码，趁乱写年华。,https://102no.com/2024/02/07/xiang-yang-niu-rou-mian/,https://102no.com/,https://102no.com/atom.xml,2024-02-06,1707235200.0
 通过可靠特征配置的RGBT追踪,DearXuan的主页,https://blog.dearxuan.com/2024/02/06/%E9%80%9A%E8%BF%87%E5%8F%AF%E9%9D%A0%E7%89%B9%E5%BE%81%E9%85%8D%E7%BD%AE%E7%9A%84RGBT%E8%BF%BD%E8%B8%AA/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-02-05,1707150660.0
 通过 OpenSSL 生成 SSL 证书,杜老师说,https://dusays.com/674/,https://dusays.com/,https://dusays.com/atom.xml,2024-02-05,1707148800.0
@@ -47,5 +49,3 @@ ITLDC 低价大盘鸡使用体验与简单测评,岚天小窝,https://blog.ltya.
 Linux 下字体配置,无妄当自持,https://www.insidentally.com/articles/000036/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-01-31,1706690068.0
 区域选择性融合网络,DearXuan的主页,https://blog.dearxuan.com/2024/01/31/%E5%8C%BA%E5%9F%9F%E9%80%89%E6%8B%A9%E6%80%A7%E8%9E%8D%E5%90%88%E7%BD%91%E7%BB%9C/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-01-30,1706630880.0
 MySQL 如何启用 SSL 加密连接,杜老师说,https://dusays.com/672/,https://dusays.com/,https://dusays.com/atom.xml,2024-01-30,1706630400.0
-个人数据安全不完全指南,This Cute World,https://thiscute.world/posts/an-incomplete-guide-to-data-security/,https://thiscute.world/,https://thiscute.world/index.xml,2024-01-30,1706593710.0
-NixOS 在 Lichee Pi 4A 上是如何启动的,This Cute World,https://thiscute.world/posts/how-nixos-start-on-licheepi4a/,https://thiscute.world/,https://thiscute.world/index.xml,2024-01-28,1706461137.0
