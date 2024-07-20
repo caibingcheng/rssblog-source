@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Hugo主题推荐,Barney's Blog,https://hugo.bnblogs.cc/hugo%E4%B8%BB%E9%A2%98%E6%8E%A8%E8%8D%90/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-08-04,1659595705.0
 有没有兴趣来抢个沙发,杜老师说,https://dusays.com/490/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-03,1659484800.0
 切换Python版本后导致终端打不开,Bing's Blog,https://bbing.com.cn/202208/terminal-python-version/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-08-01,1659322836.0
 切换Python版本后导致终端打不开,Bing's Blog,https://imcbc.cn/202208/terminal-python-version/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-08-01,1659322836.0
@@ -174,4 +175,3 @@ background: red;
 }
 </style>",Peter's Blog,https://www.rainogo.com/posts/blog_log.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2022-06-20,1655739300.0
 C++在给定内存上构造,Bing's Blog,https://bbing.com.cn/202206/cpp_placementnew_allocator/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-20,1655688195.0
-静态博客写作新体验-小书匠,BBing's Blog,https://bbing.com.cn/202206/staticblog_xiaoshujiang/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-19,1655650961.0

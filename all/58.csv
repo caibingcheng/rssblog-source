@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+使用OrLike为博文添加点赞系统,BBing's Blog,https://bbing.com.cn/202105/blog-orlike/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-05-27,1622127530.0
 又拍云—年轻人的第一个 CDN,云游君的小站,https://www.yunyoujun.cn/posts/why-i-use-upyun-cdn/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-05-27,1622122175.0
 [转载]再谈谈这个沉重的话题:程序员的出路,框架师,https://www.mobaijun.com/posts/4100025323.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-05-27,1622105062.0
 Redis源码阅读：RDB是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_27-redis_source_code_7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-27,1622073600.0
@@ -48,4 +49,3 @@ Leetcode 48 旋转图像(Rotate Image) 题解分析,Nicksxs's Blog,https://nicks
 搞定CORS问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_29-cors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-29,1619654400.0
 【Java基础】JavaSe-网络编程,框架師,https://www.mobaijun.com/posts/1483848703.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-26,1619424035.0
 【Oracle Cloud】甲骨文云开启原生IPv6支持,Luminous' Home,https://luotianyi.vc/5558.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-04-24,1619252967.0
-Evolution Of Architecture From Monolithic To Micro Front End Theory,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210422-evolution-of-architecture-from-monolithic-to-micro-front-end-theory,https://teobler.com,https://teobler.com/rss.xml,2021-04-22,1619095440.0
