@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+写 诗,瓦解的生活记事,https://hin.cool/posts/xieshi.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-30,1664551200.0
 每日感触2022.09.30：总结九月,冰哥笔记,https://www.bgbiji.com/1113.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-09-30,1664546400.0
 Debain&Ubuntu修改DNS,Frank笔记,https://frank2019.me/articles/2022/09/29/1664386803327.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-28,1664386803.0
 杜老师的域名清单,杜老师说,https://dusays.com/509/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-28,1664380800.0
@@ -17,8 +18,8 @@ Disruptor 系列三,Nicksxs's Blog,https://nicksxs.me/2022/09/25/Disruptor-%E7%B
 秘 密,瓦解的生活记事,https://hin.cool/posts/mimi.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-23,1663971600.0
 白嫖一年顶级域名,杜老师说,https://dusays.com/507/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-22,1663862400.0
 【CDN】GCORE CDN全球节点及线路汇总,Luminous' Home,https://luotianyi.vc/6465.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-09-22,1663831705.0
-NAS-OMV容器配置,Bing's Blog,https://imcbc.cn/202209/nas-omv-reprocesss/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
 NAS-OMV容器配置,Bing's Blog,https://bbing.com.cn/202209/nas-omv-reprocesss/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
+NAS-OMV容器配置,Bing's Blog,https://imcbc.cn/202209/nas-omv-reprocesss/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
 重新思考 React 项目架构,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220920-re-thinking-architecture-of-react-project,https://teobler.com,https://teobler.com/rss.xml,2022-09-20,1663672864.0
 做了 6 年程序员，我学到的 10 条经验,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-after-6-years-as-software-engineer/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-09-20,1663632000.0
 浅谈区块链,Frank笔记,https://frank2019.me/articles/2019/10/27/1572182192288.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-19,1663612637.0
@@ -40,12 +41,11 @@ Python获取字体文件所支持的字形,辛未羊的网络日志,https://panq
 蔚来与特斯拉一日试驾体验,见字如面,https://hiwannz.com/archives/718,https://hiwannz.com,https://hiwannz.com/feed,2022-09-17,1663410433.0
 梦,瓦解的生活记事,https://hin.cool/posts/meng.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-17,1663407120.0
 如何删除 GitHub 的提交历史记录,杜老师说,https://dusays.com/505/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-16,1663344000.0
-2019-2022·相机算法集成·总结概述,Bing's Blog,https://bbing.com.cn/202209/2019-2022-work-summary/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-16,1663343537.0
 2019-2022·相机算法集成·总结概述,Bing's Blog,https://imcbc.cn/202209/2019-2022-work-summary/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-16,1663343537.0
+2019-2022·相机算法集成·总结概述,Bing's Blog,https://bbing.com.cn/202209/2019-2022-work-summary/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-16,1663343537.0
 以太坊8年挖矿时代结束：V神、挖矿与英伟达,Macin,https://macin.org/2022/09/15/eth2pos/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-15,1663264539.0
 部分录音数据再次丢失,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/relost-voice-recording-data.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-09-15,1663235580.0
 三角函数的嵌套,DearXuan的主页,https://blog.dearxuan.com/2022/09/15/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%B5%8C%E5%A5%97/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-09-15,1663231080.0
 kiwi浏览器下载及介绍,醉里博客,https://202271.xyz/post/53778/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-09-14,1663185741.0
 此前被封的域名已成功从腾讯云转出,非理勿试,https://www.ntiy.com/1918.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-09-14,1663164470.0
 江城中秋月，相赠几时欢,Macin,https://macin.org/2022/09/13/wuhan-moon/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-13,1663086249.0
-使用 MeiliSearch 实现 Volantis 主题博客搜索「保姆教程」,杜老师说,https://dusays.com/504/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-13,1663084800.0
