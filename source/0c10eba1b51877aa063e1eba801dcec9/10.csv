@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+HTTPS 的详细流程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_22-https_processes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-22,1506038400.0
 OAuth2 为什么需要 Authorization Code?,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_21-oauth2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-21,1505952000.0
 任务队列怎么写？python rq源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_20-task_queue_python_rq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-20,1505865600.0
 XMonad 配置教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_19-xmonad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-19,1505779200.0
@@ -26,8 +27,8 @@ Python字符串格式化,Jiajun的技术笔记,https://jiajunhuang.com/articles/
 Gunicorn 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_04_08-gunicorn.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-08,1491609600.0
 Raft 论文阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_29-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-29,1490745600.0
 什么是 Golang Comparable Types,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_06-golang_comparable_types.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-06,1488758400.0
-GFS 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_02-gfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 MapReduce 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_02-map_reduce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
+GFS 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_02-gfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 一起来做贼：Goroutine原理和Work stealing,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
 Go语言的defer， panic和recover,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_15-go_defer_panic_and_recover.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-15,1487116800.0
 再读 Python Language Reference,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_24-python_language_reference.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
@@ -47,5 +48,4 @@ Mock源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles
 Thinking in Python,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_16-thinking_in_python.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-16,1481846400.0
 我的代码进CPython标准库啦,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_15-my_code_in_python_stdlib.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-15,1481760000.0
 Python零碎小知识,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_09-python_fragments.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-09,1481241600.0
-Python和单元测试,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_07-python_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-07,1481068800.0
 工作一年的总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_07-work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-07,1481068800.0
