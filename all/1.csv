@@ -1,5 +1,5 @@
 title,author,link,home,rss,date,timestamp
-谜 梦,瓦解的生活记事,https://hin.cool/posts/mimeng.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-07-25,1721877000.0
+谜 梦,瓦解的生活记事,https://hin.cool/posts/mimeng.html,https://hin.cool/,https://hin.cool/atom.xml,2024-07-25,1721877000.0
 杜老师说稿件征集,杜老师说,https://dusays.com/730/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-24,1721836800.0
 【随笔】浏览器中的 preview 和 response 的值不一致,框架師,https://www.mobaijun.com/posts/461257689.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-07-24,1721813976.0
 2的补码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_07_24-twos_complement.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-07-24,1721779200.0
@@ -15,8 +15,8 @@ Nginx 反代 SSL_do_handshake 问题解决思路,杜老师说,https://dusays.com
 谈谈独立博客友链,瓦解的生活记事,https://hin.cool/posts/aboutfriendlink.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-07-16,1721130000.0
 怡保：南洋山城，有毒馋人慎入,Macin,https://macin.org/2024/07/14/yi-bao/,https://macin.org/,https://www.macin.org/atom.xml,2024-07-14,1720977090.0
 聊一下 Linux 中 dmesg 跟 journal 的差别,Nicksxs's Blog,https://nicksxs.me/2024/07/14/%E8%81%8A%E4%B8%80%E4%B8%8B-Linux-%E4%B8%AD-dmesg-%E8%B7%9F-journal-%E7%9A%84%E5%B7%AE%E5%88%AB/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-07-14,1720967090.0
-借助 CF 解决 Docker 镜像拉取问题,杜老师说,https://dusays.com/727/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-13,1720886400.0
 巧用 Vercel 重定向,岚天小窝,https://blog.ltya.top/posts/rewrite-of-vercel.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2024-07-13,1720886400.0
+借助 CF 解决 Docker 镜像拉取问题,杜老师说,https://dusays.com/727/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-13,1720886400.0
 我记忆中的7月13日,辛未羊的网络日志,https://panqiincs.me/2024/07/13/today-in-history/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2024-07-13,1720861230.0
 入手小米智能门锁和黑客380,瓦解的生活记事,https://hin.cool/posts/lockandbike.html,https://hin.cool/,https://hin.cool/atom.xml,2024-07-13,1720830000.0
 A Review of Linux on Surface Pro 4,Bin Wang - My Personal Blog,https://www.binwang.me/2024-07-12-A-Review-of-Linux-on-Surface-Pro-4.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-07-12,1720756800.0
@@ -36,8 +36,8 @@ Tianji 访问统计运行监控服务器状态工具简单评测,杜老师说,ht
 使用 Docker 部署 Gitea Actions 的 Runner,杜老师说,https://dusays.com/723/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-01,1719849600.0
 2024夏：不畏浮云遮望眼，乱云飞渡仍从容,Macin,https://macin.org/2024/06/30/202404/,https://macin.org/,https://www.macin.org/atom.xml,2024-06-30,1719779325.0
 介绍一下Java的BiFunction,Nicksxs's Blog,https://nicksxs.me/2024/06/30/%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8BJava%E7%9A%84BiFunction/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-30,1719757055.0
-2024-06小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/10021/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-06-28,1719613919.0
 2024-06小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/64935/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-06-28,1719613919.0
+2024-06小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/10021/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-06-28,1719613919.0
 使用 Docker 部署 Gitea 新一代的代码托管平台,杜老师说,https://dusays.com/722/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-28,1719590400.0
 十亿行挑战-C++,Bing's Blog,https://imcbc.cn/202406/1brc-cpp/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-06-28,1719585720.0
 免费搭建 Docker 镜像存储库解决拉取问题,杜老师说,https://dusays.com/721/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-25,1719331200.0
