@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+关闭了评论，让一切简单起来,BBing's Blog,https://bbing.com.cn/202205/disbalecomment-makeitsimple/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-05-04,1651646700.0
 新版本去不图床 Upgit 上传工具设置,杜老师说,https://dusays.com/459/,https://dusays.com/,https://dusays.com/atom.xml,2022-05-01,1651420800.0
 计算机网络-计算机网络概念,DearXuan的主页,https://blog.dearxuan.com/2022/04/30/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%A6%82%E5%BF%B5/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-04-30,1651333320.0
 新版本去不图床 ShareX 截屏工具设置,杜老师说,https://dusays.com/458/,https://dusays.com/,https://dusays.com/atom.xml,2022-04-28,1651161600.0
@@ -28,8 +29,8 @@ glibc-malloc源码阅读,BBing's Blog,https://bbing.com.cn/202203/glibc-malloc/,
 线性回归例题解析,DearXuan的主页,https://dearxuan.top/2022/03/23/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E4%BE%8B%E9%A2%98%E8%A7%A3%E6%9E%90/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-23,1648048200.0
 线性回归例题解析,DearXuan的主页,https://blog.dearxuan.com/2022/03/23/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E4%BE%8B%E9%A2%98%E8%A7%A3%E6%9E%90/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-23,1648048200.0
 这两年工作心态上的一些变化,BBing's Blog,https://bbing.com.cn/202203/work-summary-1922/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-22,1647960635.0
-通过dll的跨进程通讯,DearXuan的主页,https://dearxuan.top/2022/03/22/%E9%80%9A%E8%BF%87dll%E7%9A%84%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E8%AE%AF/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-22,1647923580.0
 通过dll的跨进程通讯,DearXuan的主页,https://blog.dearxuan.com/2022/03/22/%E9%80%9A%E8%BF%87dll%E7%9A%84%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E8%AE%AF/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-22,1647923580.0
+通过dll的跨进程通讯,DearXuan的主页,https://dearxuan.top/2022/03/22/%E9%80%9A%E8%BF%87dll%E7%9A%84%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E8%AE%AF/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-22,1647923580.0
 桌面窗口管理器占用内存过高,Yulin Lewis' Blog,https://lewky.cn/posts/dwm-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-22,1647908442.0
 桌面窗口管理器占用内存过高,Yulin Lewis' Blog,https://lewky233.top/posts/dwm-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-22,1647908442.0
 NULL和nullptr实际问题分析,BBing's Blog,https://bbing.com.cn/202203/null-nullptr-problem/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-21,1647851315.0
@@ -48,4 +49,3 @@ Nginx安装和卸载,Barney's Blog,https://hugo.bnblogs.cc/nginx%E5%AE%89%E8%A3%
 修改了ssh默认端口如何配置git,Barney's Blog,https://hugo.bnblogs.cc/%E4%BF%AE%E6%94%B9%E4%BA%86ssh%E9%BB%98%E8%AE%A4%E7%AB%AF%E5%8F%A3%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AEgit/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-14,1647241133.0
 写给开发人员的实用密码学（八）—— 数字证书与 TLS 协议,This Cute World,https://thiscute.world/posts/about-tls-cert/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-13,1647187200.0
 计算机组成原理-计算机系统概述,DearXuan的主页,https://blog.dearxuan.com/2022/03/13/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-13,1647182820.0
-计算机组成原理-计算机系统概述,DearXuan的主页,https://dearxuan.top/2022/03/13/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-13,1647182820.0
