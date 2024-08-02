@@ -1,4 +1,13 @@
 title,author,link,home,rss,date,timestamp
+Linux 下将浏览器缓存放到内存，并在登录登出时进行同步,无妄当自持,https://www.insidentally.com/articles/000040/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-04-05,1712329662.0
+Fedora 使用脚本配置国内镜像源,无妄当自持,https://www.insidentally.com/articles/000039/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-03-18,1710760062.0
+在 Fedora server 39 中纯手动部署 Nextcloud,无妄当自持,https://www.insidentally.com/articles/000038/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-03-09,1709991268.0
+使用 shell 脚本和 systemd 定时替换 Gnome 壁纸,无妄当自持,https://www.insidentally.com/articles/000037/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-02-04,1707035668.0
+Linux 下字体配置,无妄当自持,https://www.insidentally.com/articles/000036/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-01-31,1706690068.0
+设置 VirtualBox 虚拟机为静态 ip 以方便主机访问,无妄当自持,https://www.insidentally.com/articles/000035/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2023-10-19,1697704468.0
+在启用安全启动的 Fedora 中安装 Nvidia 驱动,无妄当自持,https://www.insidentally.com/articles/000034/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2023-07-20,1689831948.0
+曲登尼玛冰川,无妄当自持,https://www.insidentally.com/articles/000033/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2023-05-02,1683042348.0
+面向神经科学家的人工神经网络,无妄当自持,https://www.insidentally.com/articles/000032/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-12-27,1672143093.0
 以 U-NET 为例的网络构建代码实现,无妄当自持,https://www.insidentally.com/articles/000031/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-07-02,1656763893.0
 React 函数式组件中防抖的应用（React + Hook + Typescript）,无妄当自持,https://www.insidentally.com/articles/000030/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-29,1656501153.0
 使用 ntfs3 驱动替换 ntfs-3g 挂载 windows NTFS 分区,无妄当自持,https://www.insidentally.com/articles/000029/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-27,1656317553.0

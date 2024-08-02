@@ -1,8 +1,7 @@
 title,author,link,home,rss,date,timestamp
 摸鱼工具-fkfish,BBing's Blog,https://bbing.com.cn/202205/about-fkfish/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-05-31,1653980916.0
-周刊第13期：一些图像 AI 模型、冒名顶替综合症,4Ark × Blog,https://4ark.me/post/weekly-13.html,https://4ark.me/,https://4ark.me/rss.xml,2022-05-31,1653955200.0
-周刊第13期：一些图像 AI 模型、冒名顶替综合症,4Ark × Blog,https://4ark.me/post/weekly-30.html,https://4ark.me/,https://4ark.me/rss.xml,2022-05-31,1653955200.0
-Where Does The Time Go,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220530-where-does-the-time-go,https://teobler.com,https://teobler.com/rss.xml,2022-05-30,1653920700.0
+周刊第13期：一些图像 AI 模型、冒名顶替综合症,4Ark,https://4ark.me/posts/2022-05-31-weekly-13/,https://4ark.me/,https://4ark.me/rss.xml,2022-05-31,1653955200.0
+时间都去哪了,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220530-where-does-the-time-go,https://teobler.com,https://teobler.com/rss.xml,2022-05-30,1653920700.0
 每月思考 | 2022年5月份的一些思考,冰哥笔记,https://www.bgbiji.com/978.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-05-30,1653911249.0
 精神疾病、精神贵族和其他,非理勿试,https://www.ntiy.com/1815.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-05-30,1653899821.0
 每周轮子之 husky：统一规范团队 Git Hooks,4Ark × Blog,https://4ark.me/post/weekly-npm-packages-02.html,https://4ark.me/,https://4ark.me/rss.xml,2022-05-30,1653868800.0
@@ -31,8 +30,7 @@ WPF MediaElement循环播放,DearXuan的主页,https://blog.dearxuan.com/2022/05
 由LogoGround的两条规则引发的思考,非理勿试,https://www.ntiy.com/1794.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-05-19,1652941707.0
 控制理论的经典实例：单摆系统,辛未羊的网络日志,https://panqiincs.me/2022/05/19/pendulum-as-example/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-05-19,1652923043.0
 【工具系列】Maven私服搭建,框架师,https://www.mobaijun.com/posts/3514918103.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-18,1652858912.0
-周刊第12期：每周轮子计划、程序员应该如何写博客,4Ark × Blog,https://4ark.me/post/weekly-12.html,https://4ark.me/,https://4ark.me/rss.xml,2022-05-16,1652659200.0
-每周轮子之 only-allow：统一规范团队包管理器,4Ark × Blog,https://4ark.me/post/weekly-npm-packages-01.html,https://4ark.me/,https://4ark.me/rss.xml,2022-05-16,1652659200.0
+周刊第12期：每周轮子计划、程序员应该如何写博客,4Ark,https://4ark.me/posts/2022-05-13-weekly-12/,https://4ark.me/,https://4ark.me/rss.xml,2022-05-16,1652659200.0
 自然、科技和我们,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/2022-nature-with-us.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-05-15,1652634180.0
 记录下 Java Stream 的一些高效操作,Nicksxs's Blog,https://nicksxs.me/2022/05/15/%E8%AE%B0%E5%BD%95%E4%B8%8B-Java-Lambda-%E7%9A%84%E4%B8%80%E4%BA%9B%E9%AB%98%E6%95%88%E6%93%8D%E4%BD%9C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-05-15,1652617939.0
 NAT 网关、NAT 穿越以及虚拟网络,This Cute World,https://thiscute.world/posts/about-nat/,https://thiscute.world/,https://thiscute.world/index.xml,2022-05-13,1652413560.0
@@ -49,3 +47,5 @@ ULPT: A User-Centric Location Privacy Trading Framework for Mobile Crowd Sensing
 周刊第11期：扩大你的运气表面积（Luck Surface Area）,4Ark × Blog,https://4ark.me/post/weekly-11.html,https://4ark.me/,https://4ark.me/rss.xml,2022-05-05,1651708800.0
 计算机组成原理-定点数运算,DearXuan的主页,https://blog.dearxuan.com/2022/05/04/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%AE%9A%E7%82%B9%E6%95%B0%E8%BF%90%E7%AE%97/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-05-04,1651677780.0
 FinOps for Kubernetes - 如何拆分 Kubernetes 成本,This Cute World,https://thiscute.world/posts/finops-for-kubernetes/,https://thiscute.world/,https://thiscute.world/index.xml,2022-05-04,1651677300.0
+关闭了评论，让一切简单起来,BBing's Blog,https://bbing.com.cn/202205/disbalecomment-makeitsimple/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-05-04,1651646700.0
+《上海》时代的缩影,Frank笔记,https://frank2019.me/articles/2022/05/03/1651553263423.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-05-03,1651554022.0

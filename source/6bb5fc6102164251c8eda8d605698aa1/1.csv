@@ -1,4 +1,14 @@
 title,author,link,home,rss,date,timestamp
+C++标签派发技术,Bing's Blog,https://imcbc.cn/202408/cpp_tag_dispatch/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-08-01,1722500782.0
+栈buffer对比堆buffer,Bing's Blog,https://imcbc.cn/202407/stack_vs_heap_buffer/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-07-29,1722260539.0
+十亿行挑战-C++,Bing's Blog,https://imcbc.cn/202406/1brc-cpp/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-06-28,1719585720.0
+时间同步概述,Bing's Blog,https://imcbc.cn/202406/time-sync-summary/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-06-12,1718234614.0
+clockdiff时间差测量原理,Bing's Blog,https://imcbc.cn/202405/clockdiff-sourcecode/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-05-31,1717118413.0
+日志透传工具-channel,Bing's Blog,https://imcbc.cn/202405/transmite-log-channel/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-05-27,1716769051.0
+2023年终总结,Bing's Blog,https://imcbc.cn/202402/2023-summary/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-02-09,1707462608.0
+扫墓,Bing's Blog,https://imcbc.cn/202402/saomu/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-02-09,1707462522.0
+Work Monitor 视频监控工具,Bing's Blog,https://imcbc.cn/202401/work-monitor/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-01-08,1704718615.0
+3000元装机和NAS升级,Bing's Blog,https://imcbc.cn/202307/3k-diypc-nasup/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2023-07-18,1689658083.0
 我在RoboMaster那些年,Bing's Blog,https://imcbc.cn/202301/robomaster-experience/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2023-01-15,1673758152.0
 glibc-read/write源码阅读,Bing's Blog,https://imcbc.cn/202301/glibc-read-write/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2023-01-08,1673142009.0
 2022年终总结,Bing's Blog,https://imcbc.cn/202212/2022-summary/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-12-25,1671932612.0

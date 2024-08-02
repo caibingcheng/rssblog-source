@@ -1,4 +1,32 @@
 title,author,link,home,rss,date,timestamp
+Jenkins+Gitee持续集成,Barney's Blog,https://hugo.bnblogs.cc/jenkins-gitee%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684848714.0
+Ubuntu搭建redis集群,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E6%90%AD%E5%BB%BAredis%E9%9B%86%E7%BE%A4/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684827988.0
+SpringCloud补充,Barney's Blog,https://hugo.bnblogs.cc/springcloud%E8%A1%A5%E5%85%85/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-09,1683622845.0
+SpringCloud笔记,Barney's Blog,https://hugo.bnblogs.cc/springcloud%E7%AC%94%E8%AE%B0/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-05,1683291733.0
+深入SpringSecurity,Barney's Blog,https://hugo.bnblogs.cc/%E6%B7%B1%E5%85%A5springsecurity/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-04-13,1681379726.0
+常见排序算法,Barney's Blog,https://hugo.bnblogs.cc/%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-04-03,1680511560.0
+Java8补充,Barney's Blog,https://hugo.bnblogs.cc/java8%E8%A1%A5%E5%85%85/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-22,1679465459.0
+SpringMVC记录,Barney's Blog,https://hugo.bnblogs.cc/springmvc%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-21,1679414902.0
+Spring组件注册(转载),Barney's Blog,https://hugo.bnblogs.cc/spring%E7%BB%84%E4%BB%B6%E6%B3%A8%E5%86%8C/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-21,1679395677.0
+使用Spring Boot Admin服务,Barney's Blog,https://hugo.bnblogs.cc/springboot-admin/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-20,1679296424.0
+SpringBoot发送邮件,Barney's Blog,https://hugo.bnblogs.cc/springboot%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-19,1679233316.0
+Jackson的使用(转载),Barney's Blog,https://hugo.bnblogs.cc/jackson%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-19,1679205262.0
+SpringBoot整合mybatis,Barney's Blog,https://hugo.bnblogs.cc/springboot%E6%95%B4%E5%90%88mybatis/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-17,1679063863.0
+前端各种包管理器,Barney's Blog,https://hugo.bnblogs.cc/%E5%89%8D%E7%AB%AF%E5%90%84%E7%A7%8D%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-17,1679031487.0
+Centos7配置记录,Barney's Blog,https://hugo.bnblogs.cc/centos7%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-10,1678430897.0
+JsonPath使用(转载),Barney's Blog,https://hugo.bnblogs.cc/jsonpath%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-09,1678356294.0
+SpringBoot使用Spring Security实现JwtToken验证,Barney's Blog,https://hugo.bnblogs.cc/springboot%E4%BD%BF%E7%94%A8jwttoken%E9%AA%8C%E8%AF%81/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-08,1678265212.0
+MyBatis-Plus使用记录,Barney's Blog,https://hugo.bnblogs.cc/mybatis-plus%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-05,1678032606.0
+SpringBoot集成SpringDoc和Knife4j,Barney's Blog,https://hugo.bnblogs.cc/knife4j-openapi3/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-05,1678017396.0
+SpringBoot问题记录,Barney's Blog,https://hugo.bnblogs.cc/springboot%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-05,1677997892.0
+Spring Boot集成Swagger2,Barney's Blog,https://hugo.bnblogs.cc/swagger%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-04,1677936488.0
+Spring常用注解,Barney's Blog,https://hugo.bnblogs.cc/spring%E5%B8%B8%E7%94%A8%E6%B3%A8%E8%A7%A3/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-02,1677761684.0
+SpringBoot整合MyBatis-Plus操作MySQL数据,Barney's Blog,https://hugo.bnblogs.cc/spring%E4%B8%AD%E4%BD%BF%E7%94%A8mysql/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-01,1677677530.0
+Redis基础,Barney's Blog,https://hugo.bnblogs.cc/redis%E5%9F%BA%E7%A1%80%E7%AF%87/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-28,1677590153.0
+yaml语法,Barney's Blog,https://hugo.bnblogs.cc/yaml%E8%AF%AD%E6%B3%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-24,1677245930.0
+Github Actions配置,Barney's Blog,https://hugo.bnblogs.cc/github-action%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-24,1677241663.0
+Dockerfile学习总结,Barney's Blog,https://hugo.bnblogs.cc/dockerfile%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-23,1677141235.0
+Nginx学习笔记,Barney's Blog,https://hugo.bnblogs.cc/nginx%E9%85%8D%E7%BD%AE%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-04,1675489878.0
 正则表达式入门,Barney's Blog,https://hugo.bnblogs.cc/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-01-02,1672645523.0
 MySQL必知必会笔记(1),Barney's Blog,https://hugo.bnblogs.cc/mysql%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A%E7%AC%94%E8%AE%B0-1/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-12-27,1672154727.0
 MySQL学习笔记,Barney's Blog,https://hugo.bnblogs.cc/mysql%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-12-26,1672070838.0
@@ -21,25 +49,3 @@ curl使用,Barney's Blog,https://hugo.bnblogs.cc/curl%E4%BD%BF%E7%94%A8/,https:/
 Js异步处理的三种方式,Barney's Blog,https://hugo.bnblogs.cc/js%E5%BC%82%E6%AD%A5%E5%A4%84%E7%90%86%E7%9A%84%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-05,1664959586.0
 MySQL命令记录,Barney's Blog,https://hugo.bnblogs.cc/mysql%E5%91%BD%E4%BB%A4%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-19,1663581035.0
 Pycharm的gitignore配置,Barney's Blog,https://hugo.bnblogs.cc/pycharm%E6%8E%A8%E8%8D%90gitignore%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-19,1663576285.0
-django入门,Barney's Blog,https://hugo.bnblogs.cc/django%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-13,1663081287.0
-waline评论迁移到twikoo,Barney's Blog,https://hugo.bnblogs.cc/waline%E8%AF%84%E8%AE%BA%E8%BF%81%E7%A7%BB%E5%88%B0twikoo/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-02,1662113902.0
-Python小概念,Barney's Blog,https://hugo.bnblogs.cc/python%E5%B0%8F%E6%A6%82%E5%BF%B5/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-08-06,1659792975.0
-Vercel部署本地项目,Barney's Blog,https://hugo.bnblogs.cc/vercel%E9%83%A8%E7%BD%B2%E6%9C%AC%E5%9C%B0%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-30,1659178583.0
-git-bash如何使用tmux,Barney's Blog,https://hugo.bnblogs.cc/git-bash%E4%BD%BF%E7%94%A8tmux/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-29,1659109262.0
-ULPT: A User-Centric Location Privacy Trading Framework for Mobile Crowd Sensing,Barney's Blog,https://hugo.bnblogs.cc/paper09/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-05-06,1651848787.0
-Locally Differentially Private Protocols for Frequency Estimation,Barney's Blog,https://hugo.bnblogs.cc/paper08/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-04-13,1649861587.0
-Nginx安装和卸载,Barney's Blog,https://hugo.bnblogs.cc/nginx%E5%AE%89%E8%A3%85%E5%92%8C%E5%8D%B8%E8%BD%BD/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-17,1647531618.0
-修复Uptime Kuma一个小错误,Barney's Blog,https://hugo.bnblogs.cc/%E4%BF%AE%E5%A4%8Duptime-kuma%E4%B8%80%E4%B8%AA%E5%B0%8F%E9%94%99%E8%AF%AF/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-17,1647517507.0
-修改了ssh默认端口如何配置git,Barney's Blog,https://hugo.bnblogs.cc/%E4%BF%AE%E6%94%B9%E4%BA%86ssh%E9%BB%98%E8%AE%A4%E7%AB%AF%E5%8F%A3%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AEgit/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-14,1647241133.0
-Go语言语法踩坑,Barney's Blog,https://hugo.bnblogs.cc/go%E8%AF%AD%E8%A8%80%E8%AF%AD%E6%B3%95%E8%B8%A9%E5%9D%91/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646754974.0
-Ubuntu20.04彻底卸载mysql8.0,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BDmysql8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646731549.0
-Ubuntu上使用docker安装mysql,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4%B8%8A%E4%BD%BF%E7%94%A8docker%E5%AE%89%E8%A3%85mysql/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-07,1646647303.0
-Hugo添加文章加密功能,Barney's Blog,https://hugo.bnblogs.cc/hugo%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86%E5%8A%9F%E8%83%BD/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645621037.0
-Hugo导航栏添加二级菜单,Barney's Blog,https://hugo.bnblogs.cc/hugo%E5%AF%BC%E8%88%AA%E6%A0%8F%E6%B7%BB%E5%8A%A0%E4%BA%8C%E7%BA%A7%E8%8F%9C%E5%8D%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645618994.0
-LoveIt主题支持MathJax,Barney's Blog,https://hugo.bnblogs.cc/loveit%E4%B8%BB%E9%A2%98%E6%94%AF%E6%8C%81mathjax/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645607283.0
-Linux下安装zsh,Barney's Blog,https://hugo.bnblogs.cc/linux%E4%B8%8B%E5%AE%89%E8%A3%85zsh/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-15,1644928043.0
-备忘录,Barney's Blog,https://hugo.bnblogs.cc/memo/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-10,1644481191.0
-Online Pricing and Trading of Private Data in Correlated Queries,Barney's Blog,https://hugo.bnblogs.cc/paper07/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-01-25,1643118527.0
-linux常用命令,Barney's Blog,https://hugo.bnblogs.cc/linux%E5%91%BD%E4%BB%A4/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-11-27,1638021609.0
-git基础,Barney's Blog,https://hugo.bnblogs.cc/git%E5%9F%BA%E7%A1%80/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-08-02,1627879594.0
-博客功能展示,Barney's Blog,https://hugo.bnblogs.cc/%E5%8D%9A%E5%AE%A2%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-06-30,1625055667.0

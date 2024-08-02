@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-带老婆去华强北买 iPhone 12 手机壳,罗磊的独立博客,https://luolei.org/iphone-shell-supermarket/,https://luolei.org,https://luolei.org/feed/,2020-11-14,1605326464.0
-Java collection的结构,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_13-java_colletions.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-13,1605225600.0
-如何找到你朋友的社交账号,云游君的小站,https://www.yunyoujun.cn/posts/find-npy-social-account/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-12,1605152798.0
-为什么 Linux 需要 Swapping,面向信仰编程,https://draveness.me//whys-the-design-linux-swapping,https://draveness.me/,https://draveness.me/feed.xml,2020-11-10,1604966400.0
-DNS Resolving Bug in iOS 14,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-08-DNS-Resolving-Bug-in-iOS-14.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-08,1604811600.0
-十月总结,4Ark × Blog,https://4ark.me/post/edb9a744.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-03,1604440173.0
-Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-02-Use-TLA+-to-Verify-Cache-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-02,1604293200.0
-为啥Redis使用pipelining会更快？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
-配置一个简洁，高效的zsh,无妄当自持,https://www.insidentally.com/articles/000002/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-29,1603933662.0
-安装使用hexo,无妄当自持,https://www.insidentally.com/articles/000001/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-27,1603760862.0
-Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
-回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
-回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
-通过阳台种菜实现蔬菜自由,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
-✳️ Vi/Vim使用备忘,qinxs小站,https://7bxing.com/posts/b04c6f46/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-10-23,1603435073.0
-写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-22,1603404285.0
-从GORM里学习到的panic处理方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
-写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
-How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-18,1602993600.0
-记一次因 HSTS 导致跨域问题的经历,4Ark × Blog,https://4ark.me/posts/hsts-problem-solving-experience.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
-记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
-Go使用闭包简化数据库操作代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0
-Hugo系列(4) - 从Hexo迁移至Hugo以及使用LoveIt主题的踩坑记录,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-4.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-12,1602516495.0
-Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-3.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-11,1602393076.0
-Hugo系列(2) - 通过配置文件来定制个人站点,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-2.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-10,1602317338.0
-TCMalloc设计文档学习,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
-免费获取 EU.org 顶级域名,岚天小窝,https://blog.ltya.top/posts/eu-org.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-10-08,1602172800.0
-如何从 Valine 迁移至 Disqus,云游君的小站,https://www.yunyoujun.cn/posts/migrate-from-valine-to-disqus,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-06,1601996953.0
-Understand Liveness and Fairness in TLA+,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-06-Understand-Liveness-and-Fairness-in-TLA.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-06,1601956800.0
-如果这还都还不算抄袭的话,ChrAlpha,https://blog.ichr.me/post/monologue-of-a-rubbish/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-05,1601937406.0
-博客新增公开笔记部分,萤火之森,http://frankorz.com/2020/10/03/add-note-section-to-blog/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-10-03,1601740410.0
-如何从 Valine 迁移至 Disqus,云游君的小站,https://www.yunyoujun.cn/posts/migrate-from-valine-to-disqus/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-03,1601708953.0
-九月总结,4Ark × Blog,https://4ark.me/post/d33db2d3.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-03,1601687752.0
-观测者：数据爬虫与处理，历史数据可视化视频与用户排名,FlyingSky's Blog,https://blog.fsky7.com/archives/167/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-10-02,1601651280.0
-写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-09-29,1601337600.0
-ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601321597.0
-写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
-写给 VS Code 用户的 Vim 入坑指南,Ahonn's Blog,https://www.ahonn.me/blog/the-vim-guide-for-vs-code-users,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
-ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601292797.0
-Flask和requests做一个简单的请求代理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
-借助 Magisk 优化/个性化 Android 中文字体显示效果,ChrAlpha,https://blog.ichr.me/post/improve-android-font-style-with-magisk/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-09-25,1601064971.0
-Linux常用命令(四)：xargs,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_21-linux_cmd_xargs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-21,1600646400.0
-Linux常用命令(二)：htop,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_htop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
-Linux常用命令(三)：watch,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
-升级 IOS 14 的一些坑,4Ark × Blog,https://4ark.me/post/7b1778ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-09-19,1600529843.0
-【推荐】Hexo博客配置及源文件备份,qinxs小站,https://7bxing.com/posts/659688f7/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-19,1600519111.0
-Linux常用命令(一)：netcat,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600.0
-免费获取 Microsoft 365 E5 订阅,岚天小窝,https://blog.ltya.top/posts/E5-Developer-Subscription.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-09-18,1600444800.0
-装修脑壳痛：家庭万兆光纤网络、智能家居,罗磊的独立博客,https://luolei.org/apartment-log-book-network/,https://luolei.org/,https://luolei.org/feed/,2020-09-18,1600428621.0
-Aurora Database,Bin Wang - My Personal Blog,https://www.binwang.me/2020-09-16-Aurora-Database.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-09-16,1600228800.0
+竞争让我们互相模仿,见字如面,https://hiwannz.com/archives/581,https://hiwannz.com,https://hiwannz.com/feed,2021-08-16,1629089133.0
+redis 的 rdb 和 COW 介绍,Nicksxs's Blog,https://nicksxs.me/2021/08/15/redis-%E7%9A%84-rdb-%E5%92%8C-COW-%E4%BB%8B%E7%BB%8D/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-15,1629033725.0
+iptables 及 docker 容器网络分析,This Cute World,https://thiscute.world/posts/iptables-and-container-networks/,https://thiscute.world/,https://thiscute.world/index.xml,2021-08-15,1629025889.0
+Linux 中的虚拟网络接口,This Cute World,https://thiscute.world/posts/linux-virtual-network-interfaces/,https://thiscute.world/,https://thiscute.world/index.xml,2021-08-14,1628910783.0
+C#的GPU加速方法,DearXuan的主页,https://blog.dearxuan.com/2021/08/13/C-%E7%9A%84GPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-13,1628835060.0
+多事之秋 第一篇,非理勿试,https://www.ntiy.com/1639.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-08-13,1628830559.0
+AirConnect——智能音箱Airplay或DLNA支持方案,瓦解的生活记事,https://www.hin.cool/posts/airconnect.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-08-12,1628726400.0
+AirConnect——智能音箱Airplay或DLNA支持方案,LonelyGod,https://hin.cool/posts/airconnect.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-08-12,1628726400.0
+【安装教程】Kali Linux 2021.2在VMware和VirtualBox安装教程 超简单 步骤详细讲解,城南以南花亦开,https://coonaa.cn/index.php/archives/52/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-11,1628652060.0
+像我这种有强迫症的人,近视眼逛博客,https://blog.dtz9.com/2021/08/People-with-OCD-like-me.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-08-10,1628609220.0
+PowerMock问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/powermock-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-10,1628608384.0
+如何保持高效的工作或学习状态？,冰哥笔记,https://www.bgbiji.com/821.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-08-10,1628584045.0
+【安全学习】ARP缓存中毒攻击,城南以南花亦开,https://coonaa.cn/index.php/archives/38/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-10,1628576580.0
+怎么对候选人进行面试,见字如面,https://hiwannz.com/archives/578,https://hiwannz.com,https://hiwannz.com/feed,2021-08-10,1628565093.0
+《UCB CS61a SICP Python 中文》一周目笔记(一),BBing's Blog,https://bbing.com.cn/202108/sicp-python-read1/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-08-10,1628560054.0
+Spring问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-09,1628521561.0
+iReport问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/ireport-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-08,1628430368.0
+聊在东京奥运会闭幕式这天,Nicksxs's Blog,https://nicksxs.me/2021/08/08/%E8%81%8A%E5%9C%A8%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E8%BF%99%E5%A4%A9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-08,1628424307.0
+【日常分享】境来不拒，境去不留,城南以南花亦开,https://coonaa.cn/index.php/archives/36/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-08,1628416020.0
+Log4j、Log4j2问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/log4j2-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-07,1628349834.0
+Wallpaper透视效果的C++实现,DearXuan的主页,https://blog.dearxuan.com/2021/08/07/Wallpaper%E9%80%8F%E8%A7%86%E6%95%88%E6%9E%9C%E7%9A%84C-%E5%AE%9E%E7%8E%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-07,1628344440.0
+IDEA问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/idea-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-06,1628260917.0
+【技术分享】C语言实现简单的Web服务器,城南以南花亦开,https://coonaa.cn/index.php/archives/29/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-06,1628215200.0
+男人的最爱应该就是金钱和美女吧？,近视眼逛博客,https://blog.dtz9.com/2021/08/Men-s-favorite-should-be-money-and-beauty.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-08-05,1628179860.0
+博客园SimpleMemory皮肤定制化,Yulin Lewis' Blog,https://lewky.cn/posts/cnblogs-skin/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-05,1628174657.0
+「养鱼记」图赏,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/fish-culture-picture-appreciation.html,https://zmmio.com/,https://zmmio.com/feed,2021-08-05,1628172240.0
+SpringBoot监控工具之《Actuator》,框架师,https://www.mobaijun.com/posts/283491354.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-05,1628127593.0
+npm问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/npm-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-04,1628088699.0
+产品思维,见字如面,https://hiwannz.com/archives/576,https://hiwannz.com,https://hiwannz.com/feed,2021-08-04,1628080056.0
+【技术分享】C语言实现基于TCP和UDP的WinSock套接字编程,城南以南花亦开,https://coonaa.cn/index.php/archives/17/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-03,1627984680.0
+如何做一个真正的“长期主义者”？,冰哥笔记,https://www.bgbiji.com/820.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-08-02,1627920311.0
+关于「宝塔一个站点绑定多个域名宝塔ssl证书」配置教程,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/pagoda-panel-single-website-dual-domain-name-dual-certificate-configuration-tutorial.html,https://zmmio.com/,https://zmmio.com/feed,2021-08-02,1627897944.0
+SpringBoot异步任务记录,框架师,https://www.mobaijun.com/posts/4255110274.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-02,1627891678.0
+git基础,Barney's Blog,https://hugo.bnblogs.cc/git%E5%9F%BA%E7%A1%80/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-08-02,1627879594.0
+「跳缸」成小鱼干,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/jump-tank-into-small-dried-fish.html,https://zmmio.com/,https://zmmio.com/feed,2021-08-01,1627861667.0
+生育与教育引发的思考,Frank笔记,https://frank2019.me/articles/2021/07/31/1627741226219.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-08-01,1627829634.0
+redis淘汰策略复习,Nicksxs's Blog,https://nicksxs.me/2021/08/01/redis%E6%B7%98%E6%B1%B0%E7%AD%96%E7%95%A5%E5%A4%8D%E4%B9%A0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-01,1627820393.0
+针对部分请求启用 CloudFlare Challenge,FlyingSky's Blog,https://blog.fsky7.com/archives/195/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2021-07-31,1627728397.0
+2021年7月的一些思考,冰哥笔记,https://www.bgbiji.com/818.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-31,1627705973.0
+现代C++容易忽略的一些特性,BBing's Blog,https://bbing.com.cn/202107/cpp-modern-feature/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-07-30,1627645645.0
+软件与写作 | 写作靠的不是技巧或技术，而是“写作”本身,冰哥笔记,https://www.bgbiji.com/811.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-30,1627644869.0
+猫盘群晖DSM7.0三合一修复（8.18更新）,LonelyGod,https://hin.cool/posts/catdriver.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-07-30,1627603200.0
+猫盘群晖DSM7.0三合一修复（8.18更新）,瓦解的生活记事,https://www.hin.cool/posts/catdriver.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-07-30,1627603200.0
+Kong 2.5 正式发布！,把酒诗代码，趁乱写年华。,https://102no.com/2021/07/30/kong-2.5/,https://102no.com/,https://102no.com/atom.xml,2021-07-29,1627574400.0
+Maven问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/maven-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-07-29,1627571996.0
+天灾过后的反思,Frank笔记,https://frank2019.me/articles/2021/07/29/1627561660485.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-07-29,1627570831.0
+让 Typecho 主题支持多语言,FlyingSky's Blog,https://blog.fsky7.com/archives/191/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2021-07-29,1627549200.0
+让 Typecho 主题支持多语言,FlyingSky's Blog,https://blog.fsky7.com/technology/31,https://blog.fsky7.com,https://blog.fsky7.com/feed,2021-07-29,1627531200.0
+使用C++实现的仿Wallpaper动态壁纸软件(含源文件),DearXuan的主页,https://blog.dearxuan.com/2021/07/28/%E4%BD%BF%E7%94%A8C-%E5%AE%9E%E7%8E%B0%E7%9A%84%E4%BB%BFWallpaper%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%E8%BD%AF%E4%BB%B6/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-28,1627465560.0
+如何找到靠谱的产品经理,见字如面,https://hiwannz.com/archives/571,https://hiwannz.com,https://hiwannz.com/feed,2021-07-28,1627444858.0

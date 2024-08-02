@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-Redis源码阅读：zset实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_06_06-redis_source_code_11.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-06-06,1622937600.0
+使用PostgreSQL做搜索引擎,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_04_12-postgresql_fulltext_search.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-12,1649721600.0
+Nginx 源码阅读（三）: 连接池、内存池,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_23-nginx_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-23,1647993600.0
+Nginx 源码阅读（二）: 请求处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_22-nginx_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-22,1647907200.0
+Nginx 源码阅读（一）: 启动流程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_21-nginx_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-21,1647820800.0
+Go 泛型简明教程,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_17-go_generics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-17,1647475200.0
+KVM 显卡穿透给 Windows,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_15-kvm_windows_gpu_passthrough.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-15,1647302400.0
+使用 HTTP Router 处理 Telegram Bot 按钮回调,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_03_12-tgbot_httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-12,1647043200.0
+使用反射(reflect)对结构体赋值,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_01_10-reflect_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-10,1641772800.0
+GIN 是如何绑定参数的,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_01_09-gin_binding_args.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-01-09,1641686400.0
+你好 2022(2021 年终总结),Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_12_30-hello_2022.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-30,1640822400.0
+用Go导入大型CSV到PostgreSQL,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_12_11-go_copy_large_file_to_pg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-11,1639180800.0
+使用 OpenWRT 搭建软路由,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_12_01-openwrt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-01,1638316800.0
+使用软KVM切换器 barrier 共享键鼠,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_11_26-use_barrier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-11-26,1637884800.0
+SQL 防注入及原理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_11_04-sql_injection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-11-04,1635984000.0
+使用 gomock 测试 Go 代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_10_12-go_mock.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-12,1633996800.0
+gevent不是黑魔法(二): gevent 实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_10_11-gevent_is_good_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-11,1633910400.0
+gevent不是黑魔法(一): greenlet 实现,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_29-gevent_is_good_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-29,1632873600.0
+用 entgo 替代 gorm,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_06-use_entgo.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-06,1630886400.0
+应用内使用crontab不是那么方便,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_09_01-cron_is_not_convenient.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-01,1630454400.0
+单测时要不要 mock 数据库？,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_08_27-mock_db_or_not.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-27,1630022400.0
+Sentry 自建指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_08_25-use_sentry.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-25,1629849600.0
+用selenium完成自动化任务,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_08_19-selenium.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-19,1629331200.0
+用闲置的安卓手机做垃圾电话短信过滤,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_07_09-filter_your_call_and_sms.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-07-09,1625788800.0
+推荐三个时间管理工具,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_07_06-manage_your_time.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-07-06,1625529600.0
+一次事故反思,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_07_02-reflection_on_bug.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-07-02,1625184000.0
+当JS遇到uint64：JS整数溢出问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_06_22-json_int_precision.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-06-22,1624320000.0
+SQLite3 存储以及ACID原理,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_06_19-sqlite3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-06-19,1624060800.0
+Redis源码阅读：pub/sub实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_06_07-redis_source_code_12.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-06-07,1623024000.0
+Redis源码阅读：zset实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_06_06-redis_source_code_11.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-06-06,1622937600.0
 Redis源码阅读：bitmap 位图的运算,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_30-redis_source_code_10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-30,1622332800.0
 Redis源码阅读：set是怎么做交并集运算的？,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_29-redis_source_code_9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-29,1622246400.0
-Redis源码阅读：list实现(ziplist， quicklist),Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_28-redis_source_code_8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-28,1622160000.0
-Redis源码阅读：RDB是怎么实现的,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_27-redis_source_code_7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-27,1622073600.0
+Redis源码阅读：list实现(ziplist， quicklist),Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_28-redis_source_code_8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-28,1622160000.0
+Redis源码阅读：RDB是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_27-redis_source_code_7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-27,1622073600.0
 Redis源码阅读：AOF重写,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_26-redis_source_code_6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-26,1621987200.0
 Redis源码阅读：AOF持久化,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_25-redis_source_code_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-25,1621900800.0
-Redis源码阅读：key是怎么过期的,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
-Redis源码阅读：字典是怎么实现的,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
-Redis源码阅读：执行命令,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_23-redis_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-23,1621728000.0
-Redis源码阅读：启动过程,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_22-redis_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-22,1621641600.0
-WAL(Write-ahead logging)的套路,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_05_15-wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-15,1621036800.0
+Redis源码阅读：key是怎么过期的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
+Redis源码阅读：执行命令,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_23-redis_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-23,1621728000.0
+Redis源码阅读：启动过程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_22-redis_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-22,1621641600.0
+WAL(Write-ahead logging)的套路,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_15-wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-15,1621036800.0
 搞定CORS问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_04_29-cors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-29,1619654400.0
 如何定位程序问题所在,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_04_15-how_to_debug_program.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-15,1618444800.0
 设计一个IM归档系统,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_04_14-system_design_archive.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-14,1618358400.0
-logrotate read only filesystem问题,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_04_11-logrotate_read_only_filesystem.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-11,1618099200.0
+logrotate read only filesystem问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_11-logrotate_read_only_filesystem.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-11,1618099200.0
 Golang GIN写单测时，愉快的使用返回值,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_23-go_gin_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-23,1616457600.0
 Python Queue源码分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_20-python_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-20,1616198400.0
-Go里优雅的使用全局配置,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_18-go_config.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-18,1616025600.0
-Golang sync.Map源码分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_15-go_sync_map.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-15,1615766400.0
-Android滑动时隐藏FAB,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_11-android_fab_hide.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-11,1615420800.0
-Python中用tuple作为key,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_02_25-python_dict_tuple_as_key.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-02-25,1614211200.0
+Go里优雅的使用全局配置,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_18-go_config.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-18,1616025600.0
+Golang sync.Map源码分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_15-go_sync_map.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-15,1615766400.0
+Android滑动时隐藏FAB,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_11-android_fab_hide.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-11,1615420800.0
+Python中用tuple作为key,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_02_25-python_dict_tuple_as_key.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-02-25,1614211200.0
 一些常用的算法思维,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_02_24-use_algorithms_in_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-02-24,1614124800.0
-编写可维护的函数,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_02_21-maintainable_function.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-02-21,1613865600.0
-为什么要把配置保存在仓库里？,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_02_04-why_save_config_to_repo.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-02-04,1612396800.0
-Android自动展示和关闭进度条,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_27-android_progress_bar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-27,1611705600.0
-Kotlin/Java 列表Protobuf序列化,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_13-kotlin_protobuf_serialization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-13,1610496000.0
-deeplink结合路由处理扩展App的能力,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_03-deeplink_server_route.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
-怎么使用ViewModel 和 RecyclerView,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_03-recycler_list_view_model.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
-Android手动挡MVVM,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_01_02-android_mvvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-02,1609545600.0
-来电拦截方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_23-call_screening.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-23,1608681600.0
-你好，2021！,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_22-hello_2021.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-22,1608595200.0
-gRPC鉴权方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_19-grpc_authentication.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-19,1608336000.0
-Golang里数据库migration方案,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800.0
-Android SwipeRefreshLayout左右滑动冲突的解决,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_12-android_swiperefresh_swipe_left_right.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-12,1607731200.0
-Android调用gRPC的两个小工具函数,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_07-android_kotlin_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-07,1607299200.0
-Android上结合kotlin使用coroutine,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_12_01-android_kotlin_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-01,1606780800.0
-gRPC错误处理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_26-grpc_error_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-26,1606348800.0
-Java collection的结构,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_13-java_colletions.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-13,1605225600.0
-为啥Redis使用pipelining会更快？,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
-通过阳台种菜实现蔬菜自由,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
-从GORM里学习到的panic处理方式,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
-Go使用闭包简化数据库操作代码,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0
-TCMalloc设计文档学习,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
-Flask和requests做一个简单的请求代理,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
-Linux常用命令(四)：xargs,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_21-linux_cmd_xargs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-21,1600646400.0
-Linux常用命令(三)：watch,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
-Linux常用命令(二)：htop,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_htop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
-Linux常用命令(一)：netcat,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600.0
-结合Flask 与 marshmallow快速进行参数校验,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_09_16-flask_marshmallow.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-16,1600214400.0

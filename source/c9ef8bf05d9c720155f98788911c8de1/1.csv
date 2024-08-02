@@ -1,4 +1,14 @@
 title,author,link,home,rss,date,timestamp
+深入分析 LSP 协议,Andy Stewart,//manateelazycat.github.io/2024/06/11/lsp-trick/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-06-11,1718064000.0
+武汉及周边美食,Andy Stewart,//manateelazycat.github.io/2024/05/03/wuhan-food/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-05-03,1714694400.0
+最佳的手机浏览器,Andy Stewart,//manateelazycat.github.io/2024/04/29/kiwi-browser/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-29,1714348800.0
+N 卡待机死机,Andy Stewart,//manateelazycat.github.io/2024/04/28/lock-nvidia-driver/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-28,1714262400.0
+研发人员创业 2,Andy Stewart,//manateelazycat.github.io/2024/04/25/developer-startup-2/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-25,1714003200.0
+极限思维害死人,Andy Stewart,//manateelazycat.github.io/2024/04/16/extreme-thinking/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-16,1713225600.0
+编程中的思路清晰,Andy Stewart,//manateelazycat.github.io/2024/04/14/programming-style/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-14,1713052800.0
+最近都在忙啥,Andy Stewart,//manateelazycat.github.io/2024/04/13/recently/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-13,1712966400.0
+Arch 上使用微信原生版本,Andy Stewart,//manateelazycat.github.io/2024/03/26/wechat-linux-version/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-03-26,1711411200.0
+读《李光耀观天下》,Andy Stewart,//manateelazycat.github.io/2024/03/04/one-main-view-of-the-world/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-03-04,1709510400.0
 安装 PaddleOCR,manateelazycat.github.io,//manateelazycat.github.io/linux/ocr/2022/12/19/install-paddocr.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-12-19,1671408000.0
 读《Pro Git》,manateelazycat.github.io,//manateelazycat.github.io/reading/git/2022/12/16/reading-pro-git.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-12-16,1671148800.0
 读《Debug Hacks》,manateelazycat.github.io,//manateelazycat.github.io/reading/debug/2022/12/15/reading_debug_hacks.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-12-15,1671062400.0
@@ -15,7 +25,6 @@ Git via HTTPS,manateelazycat.github.io,//manateelazycat.github.io/proxy/2022/05/
 QWebEngine Cookie 完整实现,manateelazycat.github.io,//manateelazycat.github.io/qt/linux/2022/05/13/webengine-cookie.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-13,1652400000.0
 LSP-Bridge架构设计与LSP协议解析,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/05/12/lsp-bridge.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-12,1652313600.0
 递归搜索插件引用记录,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/04/28/recursive-search-references.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-28,1651104000.0
-从浏览器崩溃窥探Qt事件伪造原理,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/28/eaf-browser-crash.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-28,1651104000.0
 沉默的大多数,manateelazycat.github.io,//manateelazycat.github.io/think/2022/04/24/most-of-the-silencer.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-24,1650758400.0
 EAF Git Client 手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/22/eaf-git.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-22,1650585600.0
 读《详解FPGA - 人工智能时代的驱动引擎》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/04/06/reading-fpga.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-06,1649203200.0
