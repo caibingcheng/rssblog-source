@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-【WEB系列】SpringBoot 实现 Websocket 通信详解,框架師,https://www.mobaijun.com/posts/3556598747.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-11-10,1605005482.0
-为什么 Linux 需要 Swapping,面向信仰编程,https://draveness.me//whys-the-design-linux-swapping,https://draveness.me/,https://draveness.me/feed.xml,2020-11-10,1604966400.0
-DNS Resolving Bug in iOS 14,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-08-DNS-Resolving-Bug-in-iOS-14.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-08,1604811600.0
-【工具系列】常用开发软件配置,框架師,https://www.mobaijun.com/posts/1002246177.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-11-07,1604749676.0
-为什么 HugePages 可以提升数据库性能,面向信仰编程,https://draveness.me//whys-the-design-linux-hugepages,https://draveness.me/,https://draveness.me/feed.xml,2020-11-04,1604448000.0
-十月总结,4Ark × Blog,https://4ark.me/post/edb9a744.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-03,1604440173.0
-Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-02-Use-TLA+-to-Verify-Cache-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-02,1604293200.0
-为啥Redis使用pipelining会更快？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
-/bin/sh: python: not found 问题的解决,Frank笔记,https://frank2019.me/archives/bin-sh-python-not-found-wen-ti-de-jie-jue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-29,1603949280.0
-ServerStatus中文版部署,Frank笔记,https://frank2019.me/archives/serverstatuszhong-wen-ban-bu-shu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-27,1603776360.0
-Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
-回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
-回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
-通过阳台种菜实现蔬菜自由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
-写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-22,1603404285.0
-【工具系列】Lombok,框架師,https://www.mobaijun.com/posts/529462236.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-10-20,1603200487.0
-从GORM里学习到的panic处理方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
-写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
-How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-18,1602993600.0
-记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
-记一次因 HSTS 导致跨域问题的经历,4Ark × Blog,https://4ark.me/posts/hsts-problem-solving-experience.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
-Go使用闭包简化数据库操作代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0
-国庆成都之行,Frank笔记,https://frank2019.me/archives/guo-qing-cheng-du-zhi-xing,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-14,1602652980.0
-TCMalloc设计文档学习,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
-免费获取 EU.org 顶级域名,岚天小窝,http://blog.ltya.top/posts/eu-org.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-10-08,1602172800.0
-免费获取 EU.org 顶级域名,岚天小窝,https://blog.ltya.top/posts/eu-org.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-10-08,1602172800.0
-如何从 Valine 迁移至 Disqus,云游君的小站,https://www.yunyoujun.cn/posts/migrate-from-valine-to-disqus,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-06,1601996953.0
-Understand Liveness and Fairness in TLA+,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-06-Understand-Liveness-and-Fairness-in-TLA.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-06,1601956800.0
-如果这还都还不算抄袭的话,ChrAlpha,https://blog.ichr.me/post/monologue-of-a-rubbish/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-05,1601937406.0
-博客新增公开笔记部分,萤火之森,http://frankorz.com/2020/10/03/add-note-section-to-blog/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-10-03,1601740410.0
-如何从 Valine 迁移至 Disqus,云游君的小站,https://www.yunyoujun.cn/posts/migrate-from-valine-to-disqus/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-03,1601708953.0
-九月总结,4Ark × Blog,https://4ark.me/post/d33db2d3.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-03,1601687752.0
-观测者：数据爬虫与处理，历史数据可视化视频与用户排名,FlyingSky's Blog,https://blog.fsky7.com/archives/167/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-10-02,1601651280.0
-写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-09-29,1601337600.0
-ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601321597.0
-写给 VS Code 用户的 Vim 入坑指南,Ahonn's Blog,https://www.ahonn.me/blog/the-vim-guide-for-vs-code-users,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
-写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
-ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601292797.0
-最大剥削策略,Frank笔记,https://frank2019.me/archives/zui-da-bo-xue-ce-lue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-09-27,1601184000.0
-Flask和requests做一个简单的请求代理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
-借助 Magisk 优化/个性化 Android 中文字体显示效果,ChrAlpha,https://blog.ichr.me/post/improve-android-font-style-with-magisk/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-09-25,1601064971.0
-<蛤蟆先生去看心理医生>思维导图,Frank笔记,https://frank2019.me/archives/ha-ma-xian-sheng-qu-kan-xin-li-yi-sheng-si-wei-dao-tu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-09-22,1600751940.0
-Linux常用命令(四)：xargs,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_21-linux_cmd_xargs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-21,1600646400.0
-Linux常用命令(三)：watch,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
-Linux常用命令(二)：htop,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_htop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
-升级 IOS 14 的一些坑,4Ark × Blog,https://4ark.me/post/7b1778ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-09-19,1600529843.0
-Linux常用命令(一)：netcat,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600.0
-免费获取 Microsoft 365 E5 订阅,岚天小窝,http://blog.ltya.top/posts/E5-Developer-Subscription.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-09-18,1600444800.0
-免费获取 Microsoft 365 E5 订阅,岚天小窝,https://blog.ltya.top/posts/E5-Developer-Subscription.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-09-18,1600444800.0
-装修脑壳痛：家庭万兆光纤网络、智能家居,罗磊的独立博客,https://luolei.org/apartment-log-book-network/,https://luolei.org/,https://luolei.org/feed/,2020-09-18,1600428621.0
+如何看待年仅 28 岁的郭宇宣布从字节跳动退休？,罗磊的独立博客,https://luolei.org/my-friend-guoyu,https://luolei.org,https://luolei.org/feed/,2020-06-16,1592265600.0
+操作系统也是CRUD,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_15-unix_crud.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-15,1592179200.0
+Go设计模式：简单工厂模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_13-go_design_pattern_factory.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
+debug故事之：事务让生活更美好,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_12-transaction_life_easy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-12,1591920000.0
+老婆的第一副眼镜: Tapole 钛架 + 蔡司A系列镜片,罗磊的独立博客,https://luolei.org/tapole-glasses,https://luolei.org,https://luolei.org/feed/,2020-06-12,1591920000.0
+Fireside 遷移記,Just lepture,https://lepture.com/zh/2020/fireside-export,https://lepture.com/,https://lepture.com/feed.xml,2020-06-11,1591843954.0
+Go设计模式：模板模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_11-go_design_pattern_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-11,1591833600.0
+【随笔】Gitmoji提交规范,框架師,https://www.mobaijun.com/posts/724837924.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-06-10,1591796288.0
+Go设计模式：适配器模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_09-go_design_pattern_adapter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-09,1591660800.0
+Go设计模式：Iterator,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_07-go_design_pattern_iter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-07,1591488000.0
+最容易获得的境外驾照:内地驾照免试换取香港十年驾照攻略,罗磊的独立博客,https://luolei.org/hongkong-driver-lincense,https://luolei.org,https://luolei.org/feed/,2020-06-07,1591488000.0
+【Linux系列】Linux学习笔记,框架師,https://www.mobaijun.com/posts/3003968415.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-06-04,1591264146.0
+我的云账单:2020年,罗磊的独立博客,https://luolei.org/how-much-i-spend-on-cloud-monthly-2020,https://luolei.org,https://luolei.org/feed/,2020-06-02,1591056000.0
+WebP 图片优化在 Hexo 上的最佳尝试,ChrAlpha,https://blog.ichr.me/post/webp-on-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-05-30,1590858611.0
+【随笔】今天给大家推荐几个chrome插件,框架師,https://www.mobaijun.com/posts/715346954.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-30,1590820430.0
+glusterfs 笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_30-glusterfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-30,1590796800.0
+使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-05-30,1590796800.0
+使用 TiddlyWiki 进行个人知识管理,Ahonn's Blog,https://www.ahonn.me/blog/using-tiddlywiki-for-personal-knowledge-management,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-05-29,1590768000.0
+使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-05-29,1590768000.0
+【工具系列】IDEA ctrl+alt+L 格式化快捷键无效时解决,框架師,https://www.mobaijun.com/posts/4259780865.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-29,1590765063.0
+【设计模式】Java设计模式-工厂模式,框架師,https://www.mobaijun.com/posts/973523555.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-29,1590729705.0
+用peewee代替SQLAlchemy,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_29-use_peewee.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-29,1590710400.0
+【前端系列】node常用命令汇总,框架師,https://www.mobaijun.com/posts/3052872972.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-26,1590474927.0
+2000元 vs 1000元 vs 300元 | 不同价位键盘声音对比,罗磊的独立博客,https://luolei.org/keyboard-amsr,https://luolei.org,https://luolei.org/feed/,2020-05-26,1590451200.0
+【工具系列】使用码云 + PicGO + Typora搭建一个自动化图床,框架師,https://www.mobaijun.com/posts/1619271054.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-25,1590376321.0
+2020年5月技术导读,萤火之森,http://frankorz.com/2020/05/23/2020-05-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-05-23,1590249935.0
+【设计模式】Java设计模式-六大设计原则,框架師,https://www.mobaijun.com/posts/1088545597.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-23,1590199251.0
+Go的slice工作机制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_23-go_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-23,1590192000.0
+Linux系统迁移记录(从HDD到SSD),Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_22-linux_clone_sys.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-22,1590105600.0
+【MySQL系列】MySQL复习笔记(2)-约束,框架師,https://www.mobaijun.com/posts/1359261681.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-21,1590051831.0
+【Hexo】hexo博客添加到桌面应用程序,框架師,https://www.mobaijun.com/posts/1630447354.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-21,1590046686.0
+Redis是如何工作的？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_21-how_does_redis_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-21,1590019200.0
+【MySQL系列】MySQl复习笔记-(1)-基础.md,框架師,https://www.mobaijun.com/posts/1108852137.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-20,1589954778.0
+【Hexo】hexo备份博客和自动化备份,框架師,https://www.mobaijun.com/posts/190549533.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-19,1589872192.0
+【Hexo】Hexo博客新建文章后自动打开编辑器,框架師,https://www.mobaijun.com/posts/2964207350.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-19,1589868496.0
+virsh自动关闭windows虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_18-virsh_shutdown_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-18,1589760000.0
+第三方评论系统之我见,云游君的小站,https://www.yunyoujun.cn/share/third-party-comment-system/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-05-17,1589693440.0
+离开阿里巴巴,Randy's Blog,https://lutaonan.com/blog/leaving-alibaba/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-17,1589673600.0
+Golang sort源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_16-go_sort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-16,1589587200.0
+分治的思维方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_15-divide_and_conquer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-15,1589500800.0
+Debian 使用NetworkManager之后networking.service崩溃,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
+说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
+【设计模式】Java设计模式-(Singleton)单例模式,框架師,https://www.mobaijun.com/posts/1469544396.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-12,1589246412.0
+【Git系列】Git GC命令清理Git暂存区,框架師,https://www.mobaijun.com/posts/3336337147.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-11,1589190407.0
+【工具系列】GitHub添加密钥,框架師,https://www.mobaijun.com/posts/1298567324.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-11,1589165629.0
+【Git系列】Git连接远程仓库显示找不到存储库,框架師,https://www.mobaijun.com/posts/529462237.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-11,1589162345.0
+【随笔】Emoji表情速查表,框架師,https://www.mobaijun.com/posts/349123010.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-11,1589160580.0
+httprouter源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_09-httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-09,1588982400.0
+《程序员的自我修养-装载、链接与库》笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_08-linker_and_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-08,1588896000.0
+【Hexo】hexo博客valine评论优化,框架師,https://www.mobaijun.com/posts/3474678254.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-07,1588830105.0

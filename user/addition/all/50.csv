@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-录翻唱需要哪些设备,Randy's Blog,https://lutaonan.com/blog/how-to-record-cover/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-12-15,1576368000.0
-百度网盘视频倍速播放的方法,ChrAlpha,https://blog.ichr.me/post/video-double-speed-playback-methods/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-12-14,1576339049.0
-【工具系列】IDEA单行注释快捷键输出空格问题,框架師,https://www.mobaijun.com/posts/3318988070.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-13,1576219263.0
-自己封装一个好用的Dart HTTP库,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_13-dart_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-13,1576195200.0
-Flutter应用启动后检查更新,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_11-flutter_do_sth_after_boot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-11,1576022400.0
-Grafana Gravatar头像显示bug修复,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_10-grafana_gravatar_http_hijack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-10,1575936000.0
-flutter中使用RESTful接口,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_09-dart_flutter_json.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-09,1575849600.0
-【Java基础】详解Lambda表达式,框架師,https://www.mobaijun.com/posts/4260202441.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-06,1575632463.0
-【随笔】Hello World,框架師,https://www.mobaijun.com/posts/hello-world.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-06,1575609123.0
-2019 年的收获与成长,萤火之森,http://frankorz.com/2019/12/04/2019-year-end-summary/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-12-04,1575456618.0
-Vim YouCompleteMe使用LSP(以dart为例),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_04-ycm_lsp_dart.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-04,1575417600.0
-flutter webview加载时显示进度,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_03-flutter_webview_indicator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-03,1575331200.0
-SQLAlchemy快速更新或插入对象,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_02-sqlalchemy_update_or_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-02,1575244800.0
-为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
-为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
-为网站添加 dark mode 支持,Ahonn's Blog,https://www.ahonn.me/blog/add-dark-mode-support-to-your-website,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
-修复Linux下curl等无法使用letsencrypt证书,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_26-lets_encrypt_linux_shell.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-26,1574726400.0
-欣赏一下K&R两位大神的代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_24-code_from_k_and_r.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-24,1574553600.0
-MySQL的ON DUPLICATE KEY UPDATE语句,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_19-mysql_duplicate_key_update.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-19,1574121600.0
-使用microk8s快速搭建k8s,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_17-microk8s.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-17,1573948800.0
-Python中优雅的处理文件路径,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_15-python_pathlib_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-15,1573776000.0
-Go语言MySQL时区问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_14-golang_mysql_timezone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-14,1573689600.0
-我的技术栈选型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_13-tech_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-13,1573603200.0
-博客改版及 Tailwind CSS 实践,Randy's Blog,https://lutaonan.com/blog/what-is-tailwindcss-and-how-did-i-apply-it-on-my-blog/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-12,1573516800.0
-为什么我要用Linux作为桌面？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_11-why_linux_as_desktop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-11,1573430400.0
-1989 年的 CD 机 - SONY Discman D-9,Randy's Blog,https://lutaonan.com/blog/sony-discman-d9/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-09,1573257600.0
-disqus获取评论时忽略query string,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_08-disqus_thread_identifier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-08,1573171200.0
-即刻抽离: FreeBuds 3 无线降噪耳机 - 城市旅行,罗磊的独立博客,https://luolei.org/huawei-freebuds3,https://luolei.org,https://luolei.org/feed/,2019-11-08,1573171200.0
-MySQL性能优化指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_06-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-06,1572998400.0
-【译】30 分钟学会 LaTeX,云游君的小站,https://www.yunyoujun.cn/posts/trans-learn-latex-in-30-minutes,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-11-05,1572970176.0
-来自 2014 年给未来的我的一封信,Randy's Blog,https://lutaonan.com/blog/letter-from-few-years-ago/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-05,1572912000.0
-为什么无法坚持写博客,Randy's Blog,https://lutaonan.com/blog/reason-why-your-blog-is-not-alive/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-05,1572912000.0
-网络编程所需要熟悉的那些函数,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_01-network_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-01,1572566400.0
-DNSCrypt简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_31-dnscrypt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-31,1572480000.0
-【转】三维文件格式知多少,云游君的小站,https://www.yunyoujun.cn/posts/how-much-3d-format,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-10-30,1572451306.0
-如何实现一个 Babel Macros,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-a-babel-macros,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
-如何实现一个 Babel Macros,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-a-babel-macros/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
-SQLAlchemy简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_30-sqlalchemy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-30,1572393600.0
-如何实现一个 Babel Macros,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-a-babel-macros,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
-这些年，我们错过的n个亿,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_25-oh_my_money.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-25,1571961600.0
-Yandex 免费域名邮箱注册及使用教程,ChrAlpha,https://blog.ichr.me/post/yandex-build-your-own-domain-email-for-free/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-10-24,1571941111.0
-LaTeX 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/latex-use-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-10-21,1571667378.0
-给Linux用户的FreeBSD快速指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_19-freebsd_for_linux_users.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-19,1571443200.0
-旧电脑也不能闲着：家用备份方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_18-build_your_own_nas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-18,1571356800.0
-将SQLite的数据迁移到MySQL,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_15-grafana_moved_to_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-15,1571097600.0
-Linux托管Windows虚拟机最佳实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_08-linux_windows.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-08,1570492800.0
-从零开始的独立博客搭建教程,ChrAlpha,https://blog.ichr.me/post/hexo-basic-set-up/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-10-05,1570301061.0
-Github Page + Hexo 免费搭建个人博客教程,ChrAlpha,https://blog.ichr.me/post/set-up-hexo-on-github-page/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-10-05,1570275291.0
-路漫漫其修远兮,云游君的小站,https://www.yunyoujun.cn/posts/after-entering-cuc,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-10-02,1569977708.0
-在 macOS 下配置 OpenGL,云游君的小站,https://www.yunyoujun.cn/posts/opengl-with-macos,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-10-01,1569967702.0
+密码技术简明教程(三)：证书和TLS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_15-crypto_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-15,1557878400.0
+密码技术简明教程(二)：散列、消息认证码和数字签名,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_14-crypto_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-14,1557792000.0
+密码技术简明教程(一)：对称加密和非对称加密,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_12-crypto.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-12,1557619200.0
+Kubernetes 笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_10-kubernetes_tutorial.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-10,1557446400.0
+go mod 和 logrus 路径大小写的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_09-go_mod_logrus.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-09,1557360000.0
+Flask自动加载Blueprint,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_08-flask_load_bp_automaticly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-08,1557273600.0
+Unity DOTS 走马观花,萤火之森,http://frankorz.com/2019/05/07/simple-talk-unity-dots/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-05-07,1557264120.0
+在KVM里安装Minikube,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_07-minikube_kvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-07,1557187200.0
+塞翁失马焉知非福,云游君的小站,https://www.yunyoujun.cn/posts/a-blessing-in-disguise,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-05-06,1557178320.0
+貓與網絡暴力,Just lepture,https://lepture.com/zh/2019/cat-and-violence,https://lepture.com/,https://lepture.com/feed.xml,2019-05-01,1556720168.0
+如何使用 Hammerspoon 实现剪贴板历史,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
+如何使用 Hammerspoon 实现剪贴板历史,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
+如何使用 Hammerspoon 实现剪贴板历史,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-clipboard-history-with-hammerspoon/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
+2020 香港银行开户攻略 | 境外投资必备，如何拥有一个香港银行卡,罗磊的独立博客,https://luolei.org/how-to-open-a-bank-account-in-hongkong,https://luolei.org,https://luolei.org/feed/,2019-04-30,1556582400.0
+Deepin 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/deepin-use-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-29,1556562227.0
+搞定面试中的系统设计题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_29-system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-29,1556496000.0
+hexo-theme-yun 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-hexo-theme-yun/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-27,1556337600.0
+Crontab + Sendmail实现定时任务并且通知,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_25-crontab_sendmail.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-25,1556150400.0
+Nginx设置Referer来防止盗图,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_23-nginx_referer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-23,1555977600.0
+Graphviz dot简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_20-graphviz_dot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-20,1555718400.0
+jQuery简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_19-jquery.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-19,1555632000.0
+7个冷门的中文网站&社区推荐 | VLOG39,罗磊的独立博客,https://luolei.org/7-select-chinese-websites,https://luolei.org,https://luolei.org/feed/,2019-04-19,1555632000.0
+Python RQ(Redis Queue)添加gevent支持,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_18-python_rq_gevent.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-18,1555545600.0
+技术人，光有技术是不行的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_17-tech_only_is_bad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
+北线无战事,云游君的小站,https://www.yunyoujun.cn/posts/after-2nd-postgraduate-re-exam,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-16,1555420345.0
+仓生,云游君的小站,https://www.yunyoujun.cn/posts/the-common-hamster,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-10,1554936011.0
+那霸的夜,Just lepture,https://lepture.com/zh/2019/night-in-naha,https://lepture.com/,https://lepture.com/feed.xml,2019-04-10,1554921337.0
+从 @babel/register 到 node.js require(),Yuexun's Blog,https://yuexunjiang.me/blog/from-babel-register-to-nodejs-require/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
+从 @babel/register 到 node.js require(),Ahonn's Blog,https://www.ahonn.me/blog/from-babel-register-to-nodejs-require,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
+从 @babel/register 到 node.js require(),Yuexun's Blog,https://yuexunjiang.me/blog/from-babel-register-to-nodejs-require,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
+我最常访问的五个小众中文网站 | VLOG38,罗磊的独立博客,https://luolei.org/top-5-interesting-chinese-website,https://luolei.org,https://luolei.org/feed/,2019-04-09,1554768000.0
+搭建aria2服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_06-aria2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-06,1554508800.0
+11 寸 iPad Pro 体验,Randy's Blog,https://lutaonan.com/blog/ipad-pro-11-review/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-04-06,1554508800.0
+VirtManager Windows自适应屏幕,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_05-virt_manager_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-05,1554422400.0
+如何给 Lycamobile 充值任意金额的话费  |  突破淘宝最低5美元限制 | ZUOLUOTV | VLOG37,罗磊的独立博客,https://luolei.org/lycamobile-recharge-custom-money,https://luolei.org,https://luolei.org/feed/,2019-04-03,1554249600.0
+人生是不断取舍的过程,Randy's Blog,https://lutaonan.com/blog/everything-is-about-trade-off/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-04-03,1554249600.0
+使用btrfs组建RAID1,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_03-btrfs_raid1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-03,1554249600.0
+属于 Unity 的 Flutter——UIWidgets,萤火之森,http://frankorz.com/2019/04/01/uiwidgets-practice/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-04-01,1554077580.0
+Swagger? 不好用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_01-swagger_i_dislike.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-01,1554076800.0
+在中国大陆免费体验 iPhone 手机 eSIM | VLOG36,罗磊的独立博客,https://luolei.org/iphone-esim-club-sim,https://luolei.org,https://luolei.org/feed/,2019-03-31,1553990400.0
+Golang/Python最佳实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_29-python_golang_best_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-29,1553817600.0
+Typecho主题 | Initial - Fly 简约更不简单,FlyingSky's Blog,https://blog.fsky7.com/archives/52/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-03-28,1553777100.0
+Typecho主题 | Initial - Fly 简约更不简单,FlyingSky's Blog,https://blog.fsky7.com/technology/71,https://blog.fsky7.com,https://blog.fsky7.com/feed,2019-03-28,1553745600.0
+如何在 iPhone 开通中国联通 Voicemail 语音邮箱 | VLOG35,罗磊的独立博客,https://luolei.org/china-unicom-iphone-active-voicemail,https://luolei.org,https://luolei.org/feed/,2019-03-27,1553644800.0
+读《毛泽东选集》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_24-mao.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-24,1553385600.0
+GORM源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_19-gorm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-19,1552953600.0
+随想,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_16-tittle_tattle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-16,1552694400.0
+Initial 简约主题的本站食用方式,FlyingSky's Blog,https://blog.fsky7.com/archives/49/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-03-15,1552660320.0
+Golang中的错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_15-golang_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-15,1552608000.0
+Golang 的槽点,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_14-golang_bad_side.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-14,1552521600.0

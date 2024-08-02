@@ -1,26 +1,4 @@
 title,author,link,home,rss,date,timestamp
-在KVM里安装Minikube,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_07-minikube_kvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-07,1557187200.0
-搞定面试中的系统设计题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_29-system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-29,1556496000.0
-Crontab + Sendmail实现定时任务并且通知,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_25-crontab_sendmail.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-25,1556150400.0
-Nginx设置Referer来防止盗图,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_23-nginx_referer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-23,1555977600.0
-Graphviz dot简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_20-graphviz_dot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-20,1555718400.0
-jQuery简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_19-jquery.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-19,1555632000.0
-Python RQ(Redis Queue)添加gevent支持,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_18-python_rq_gevent.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-18,1555545600.0
-技术人，光有技术是不行的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_17-tech_only_is_bad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
-读《超级运营术》- 如何做社区？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_17-chaojiyunyingshu.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
-使用shairport-sync搭建airplay音频服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_06-shairport_sync.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-06,1554508800.0
-搭建aria2服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_06-aria2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-06,1554508800.0
-VirtManager Windows自适应屏幕,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_05-virt_manager_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-05,1554422400.0
-使用btrfs组建RAID1,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_03-btrfs_raid1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-03,1554249600.0
-Swagger? 不好用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_01-swagger_i_dislike.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-01,1554076800.0
-Golang/Python最佳实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_29-python_golang_best_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-29,1553817600.0
-读《毛泽东选集》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_24-mao.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-24,1553385600.0
-GORM源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_19-gorm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-19,1552953600.0
-随想,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_16-tittle_tattle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-16,1552694400.0
-Golang中的错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_15-golang_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-15,1552608000.0
-Golang 的槽点,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_14-golang_bad_side.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-14,1552521600.0
-一个想当然的bug,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_12-golang_strings_split.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-12,1552348800.0
-读《稀缺》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_06-scarcity.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-06,1551830400.0
 读《影响力》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_03-influence.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-03,1551571200.0
 读《自控力》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_01-self_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-01,1551398400.0
 Containerd简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_02_27-containerd_tutorial.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-02-27,1551225600.0
@@ -32,10 +10,8 @@ Linux线程内存模型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 关闭手机通知，修复碎片化的生活,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_03-drop_notifications.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-03,1546473600.0
 Linux下系统调用的过程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_01-system_call.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-01,1546300800.0
 耍耍OverlayFS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_27-overlayfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-27,1545868800.0
-Redis 5.0 Stream简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_27-redis_stream.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-27,1545868800.0
 删除分区表,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_26-delete_disk_partition_table.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-26,1545782400.0
 Docker组件介绍（二）：shim， docker-init和docker-proxy,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_24-docker_components_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
-YouCompleteMe ycmd server SHUTDOWN 和 pyenv的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_24-ycm_pyenv.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
 Docker组件介绍（一）：runc和containerd,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_22-docker_components.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-22,1545436800.0
 Prometheus MySQL Exporter源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_16-prometheus_mysqld_exporter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-16,1544918400.0
 MySQL性能指标,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_13-db_metrics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-13,1544659200.0
@@ -46,6 +22,30 @@ Go类型嵌套,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_01
 etcd源码阅读与分析（五）：mvcc,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_28-etcd_source_code_analysis_mvvc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-28,1543363200.0
 etcd源码阅读与分析（四）：lease,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_27-etcd_source_code_analysis_lease.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-27,1543276800.0
 干了这碗叔本华牌毒鸡汤 --- 《人生的智慧》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_26-the_wisdom_of_life_on_human_nature.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-26,1543190400.0
-etcd源码阅读与分析（三）：wal,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_24-etcd_source_code_analysis_wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
 Memory leak in net/http,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_24-memory_leak_in_net_http.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
 etcd源码阅读与分析（二）：raft,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_22-etcd_source_code_analysis_raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-22,1542844800.0
+etcd源码阅读与分析（一）：raftexample,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_20-etcd_source_code_analysis_raftexample.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-20,1542672000.0
+虚拟机里的Ubuntu sudo时卡住,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_18-ubuntu_sudo_hang.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-18,1542499200.0
+Raft论文阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_16-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
+避免全局变量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_15-avoid_global_states.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-15,1542240000.0
+Go的unsafe包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_13-golang_package_unsafe.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-13,1542067200.0
+Golang中实现禁止拷贝,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
+人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0
+Golang的反射,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_10-golang_reflection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
+把网站去掉CSS之后,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_09-drop_css.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-09,1541721600.0
+处理并发的方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_07-concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-07,1541548800.0
+常见的索引方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_02-index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-02,1541116800.0
+Golang 实践经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_01-golang_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-01,1541030400.0
+高性能MySQL笔记第一章,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_23-high_performance_mysql_chap1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-23,1540252800.0
+面试的一些技巧,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_21-interview_techniques.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-21,1540080000.0
+HTTP/2 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_13-http2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-13,1539388800.0
+独立运营博客一年的一些数据分享,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
+To B(usiness) 和 To C(ustomer),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_22-to_b_to_c.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-22,1537574400.0
+Cookie 中的secure和httponly属性,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_16-cookie_secure_httponly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
+Google Ads使用体验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_10-google_ads.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-10,1536537600.0
+Go的custom import path,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_07-go_custom_import_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-07,1536278400.0
+如何挖掘二级子域名？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_06-how_to_dig_subdomain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-06,1536192000.0
+Go Module 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_03-go_module.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-03,1535932800.0
+写了一个Telegram Bot：自动化分享高质量内容,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_02-write_a_tgbot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-02,1535846400.0
+ArchLinux 怎么降级 package ？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
+Web后端工程师进阶指南(2018),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0

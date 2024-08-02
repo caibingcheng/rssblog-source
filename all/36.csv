@@ -1,51 +1,93 @@
 title,author,link,home,rss,date,timestamp
-Linux 搭建 Minecraft 服务器,岚天小窝,https://blog.ltya.top/posts/Build-a-Minecraft-Server-on-Linux.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-28,1659024000.0
-Linux 搭建 Minecraft 服务器,岚天小窝,http://blog.ltya.top/posts/Build-a-Minecraft-Server-on-Linux.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-28,1659024000.0
-【MySQL 系列】冷门 SQL 整理,框架師,https://www.mobaijun.com/posts/970409657.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-28,1658976177.0
-三种git流程以及发版模型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_28-git_flows.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-28,1658966400.0
-ADN公益加速 —— Jsdelivr npm（国内），ElmCDN的优质替代方案,杜老师说,https://dusays.com/488/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-28,1658966400.0
-记录自己 | 2022.07.27,冰哥笔记,https://www.bgbiji.com/1089.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-27,1658930549.0
-【MySQL系列】MySQL按照当前年月周日统计数据,框架師,https://www.mobaijun.com/posts/4014467466.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-27,1658903822.0
-错误处理实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_27-how_to_return_error.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-27,1658880000.0
-记录自己 | 2022.07.26,冰哥笔记,https://www.bgbiji.com/1086.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-26,1658847278.0
-常用泰勒展开,DearXuan的主页,https://blog.dearxuan.com/2022/07/26/%E5%B8%B8%E7%94%A8%E6%B3%B0%E5%8B%92%E5%B1%95%E5%BC%80/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-07-26,1658830270.0
-【工具系列】Hexo 插件给中英文之间加空格,框架師,https://www.mobaijun.com/posts/267676524.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-26,1658815229.0
-购车记——长安Uni-V,瓦解的生活记事,https://hin.cool/posts/goucheji.html,https://hin.cool/,https://hin.cool/atom.xml,2022-07-25,1658790601.0
-记录自己 | 2022.07.25,冰哥笔记,https://www.bgbiji.com/1082.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-25,1658755612.0
-简单喝咖啡 – Clever Dripper,Another Dayu,https://anotherdayu.com/2022/3572/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-07-25,1658742458.0
-SpringBoot2.7新建项目Maven下载依赖出错,Barney's Blog,https://hugo.bnblogs.cc/springboot%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AEmaven%E4%B8%8B%E8%BD%BD%E4%BE%9D%E8%B5%96%E5%87%BA%E9%94%99/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-25,1658738175.0
-异地恋如何一起看电影？,Another Dayu,https://anotherdayu.com/2022/3568/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-07-25,1658725962.0
-Argument list too long 原因与解决思路,杜老师说,https://dusays.com/487/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-25,1658707200.0
-Artitalk+CFWorker配置教程,SinGO博客,https://blog.xsnet.eu.org/posts/7406/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-07-24,1658684915.0
-记录自己 | 2022.07.24,冰哥笔记,https://www.bgbiji.com/1080.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-24,1658671267.0
-Artitalk+CFWorker配置教程,SinGO博客,https://blog.xsnetw.cf/posts/7406/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-07-24,1658656115.0
-使用 Vercel 自动部署 Hexo,岚天小窝,https://blog.ltya.top/posts/Automatically-deploy-Hexo-in-Vercel.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
-使用 Hexo 搭建静态博客,岚天小窝,https://blog.ltya.top/posts/how-to-initialize-hexo.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
-使用 Vercel 自动部署 Hexo,岚天小窝,http://blog.ltya.top/posts/Automatically-deploy-Hexo-in-Vercel.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
-使用 Hexo 搭建静态博客,岚天小窝,http://blog.ltya.top/posts/how-to-initialize-hexo.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-07-23,1658592000.0
-git简单入门,Barney's Blog,https://hugo.bnblogs.cc/github%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-23,1658591824.0
-记录自己 | 2022.07.23,冰哥笔记,https://www.bgbiji.com/1078.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-23,1658585100.0
-记录人生的尝试之二,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/2022-record-activities-on-calendar.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-07-23,1658562900.0
-从一次 yarn 命令死循环说起,4Ark,https://4ark.me/posts/2022-07-23-yarn-cwd-issue/,https://4ark.me/,https://4ark.me/rss.xml,2022-07-23,1658534400.0
-从一次 yarn 命令死循环说起,4Ark × Blog,https://4ark.me/post/yarn-cwd-issue.html,https://4ark.me/,https://4ark.me/rss.xml,2022-07-23,1658534400.0
-我在Anti群里的那些事,SinGO博客,https://blog.xsnet.eu.org/posts/64815/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-07-22,1658506580.0
-Leetcode 1260 二维网格迁移 ( Shift 2D Grid *Easy* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/07/22/Leetcode-1260-%E4%BA%8C%E7%BB%B4%E7%BD%91%E6%A0%BC%E8%BF%81%E7%A7%BB-Shift-2D-Grid-Easy-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-07-22,1658499381.0
-记录自己 | 2022.07.22,冰哥笔记,https://www.bgbiji.com/1076.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-22,1658498492.0
-头疼,见字如面,https://hiwannz.com/archives/690,https://hiwannz.com,https://hiwannz.com/feed,2022-07-22,1658487750.0
-我在Anti群里的那些事,SinGO博客,https://blog.xsnetw.cf/posts/64815/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-07-22,1658477780.0
-Python如何让字典保持有序存储,cywhat's blog,https://cywhat.cn/Python%E5%A6%82%E4%BD%95%E8%AE%A9%E5%AD%97%E5%85%B8%E4%BF%9D%E6%8C%81%E6%9C%89%E5%BA%8F%E5%AD%98%E5%82%A8/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-07-22,1658471830.0
-通过群晖 CentOS 虚拟机搭建邮件服务「EwoMail 开源版」,杜老师说,https://dusays.com/486/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-22,1658448000.0
-MacBook Pro 修复之路💻,把酒诗代码，趁乱写年华。,https://102no.com/2022/07/22/the-way-of-maccbook-pro-fix/,https://102no.com/,https://102no.com/atom.xml,2022-07-21,1658419200.0
-记录自己 | 2022.07.21,冰哥笔记,https://www.bgbiji.com/1074.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-21,1658412928.0
-【工具系列】Git 实用技巧 - 克隆巨大代码仓库,框架師,https://www.mobaijun.com/posts/1795299685.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-07-21,1658396077.0
-系统信息悬浮窗-fstats,Bing's Blog,https://bbing.com.cn/202207/sysinfo-fstats/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-07-21,1658373383.0
-记录自己 | 2022.07.20,冰哥笔记,https://www.bgbiji.com/1067.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-20,1658326217.0
-魔戒使用教程,cywhat's blog,https://cywhat.cn/%E9%AD%94%E6%88%92%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-07-20,1658312333.0
-记录自己 | 2022.07.19,冰哥笔记,https://www.bgbiji.com/1065.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-19,1658239704.0
-没有一点点防备，又一次被腾讯云干了,非理勿试,https://www.ntiy.com/1867.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-07-19,1658204090.0
-通过群晖虚拟机搭建内网邮件服务器「ExtMail 免费版」,杜老师说,https://dusays.com/485/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-19,1658188800.0
-Python获取当前位置所在行数以及函数名,cywhat's blog,https://cywhat.cn/Python%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E4%BD%8D%E7%BD%AE%E6%89%80%E5%9C%A8%E8%A1%8C%E6%95%B0%E4%BB%A5%E5%8F%8A%E5%87%BD%E6%95%B0%E5%90%8D/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-07-18,1658127285.0
-【Dnsflare】好用的CF Partner接入记录管理面板,Luminous' Home,https://luotianyi.vc/6415.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-07-17,1658059061.0
-《长安的荔枝》读后感,Nicksxs's Blog,https://nicksxs.me/2022/07/17/%E3%80%8A%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-07-17,1658057703.0
-Visit-Stat使用教程,SinGO博客,https://blog.xsnet.eu.org/posts/54175/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-07-17,1658055001.0
-Visit-Stat使用教程,SinGO博客,https://blog.xsnetw.cf/posts/54175/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-07-17,1658026201.0
+Vovsoft Text Edit Plus 专业文本编辑器工具软件,杜老师说,https://dusays.com/479/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-01,1656633600.0
+记录自己 | 2022.06.30,冰哥笔记,https://www.bgbiji.com/1031.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-30,1656597720.0
+记录自己 | 2022.06.29,冰哥笔记,https://www.bgbiji.com/1028.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-29,1656511320.0
+React 函数式组件中防抖的应用（React + Hook + Typescript）,无妄当自持,https://www.insidentally.com/articles/000030/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-29,1656501153.0
+2022 Alfred 5 基础设置和 Worklfow 推荐【持续更新】,Another Dayu,https://anotherdayu.com/2022/3500/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-06-29,1656493076.0
+TinyPNG + Alfred Workflow  压缩图片,Another Dayu,https://anotherdayu.com/2022/3494/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-06-28,1656425898.0
+记录自己 | 2022.06.28,冰哥笔记,https://www.bgbiji.com/1024.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-28,1656424920.0
+台灯精 第一篇,非理勿试,https://www.ntiy.com/1829.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-06-28,1656388873.0
+小站长们抵御攻击的临时避风港,杜老师说,https://dusays.com/478/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-28,1656374400.0
+读《非暴力沟通》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/06/28/nonviolent-communication.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-06-28,1656374400.0
+记录自己 | 2022.06.27,冰哥笔记,https://www.bgbiji.com/1023.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-27,1656338520.0
+墨水屏单词卡、智能音箱和大水壶,Another Dayu,https://anotherdayu.com/2022/3479/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-06-27,1656317872.0
+使用 ntfs3 驱动替换 ntfs-3g 挂载 windows NTFS 分区,无妄当自持,https://www.insidentally.com/articles/000029/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-27,1656317553.0
+记录自己 | 2022.06.26,冰哥笔记,https://www.bgbiji.com/1021.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-26,1656252120.0
+聊聊我的远程工作体验,Nicksxs's Blog,https://nicksxs.me/2022/06/26/%E8%81%8A%E8%81%8A%E6%88%91%E7%9A%84%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%BD%93%E9%AA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-06-26,1656248297.0
+为什么lsp-bridge不用capf?,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/06/26/why-lsp-bridge-not-use-capf.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-06-26,1656201600.0
+记录自己 | 2022.06.25,冰哥笔记,https://www.bgbiji.com/1020.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-25,1656165720.0
+FL-Market: Trading Private Models in Federated Learning,Barney's Blog,https://hugo.bnblogs.cc/paper11/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-06-25,1656141635.0
+Optimal Auctions through Deep Learning,Barney's Blog,https://hugo.bnblogs.cc/paper10/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-06-25,1656140878.0
+杜老师说网站更新图解,杜老师说,https://dusays.com/477/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-25,1656115200.0
+记录自己 | 2022.06.24,冰哥笔记,https://www.bgbiji.com/1018.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-24,1656079320.0
+星际牛仔 Cowboy Bebop – 浪漫至死,Another Dayu,https://anotherdayu.com/2022/3469/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-06-24,1656044342.0
+记录自己 | 2022.06.23,冰哥笔记,https://www.bgbiji.com/1017.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-23,1655992920.0
+Linux问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/linux-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-06-22,1655916265.0
+Linux问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/linux-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-06-22,1655916265.0
+【杂谈】合工大地质学考研记录,Luminous' Home,https://luotianyi.vc/6137.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-06-22,1655907471.0
+记录自己 | 2022.06.22,冰哥笔记,https://www.bgbiji.com/1014.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-22,1655906520.0
+从导入到备份，基于免费软件的摄影工作流,Another Dayu,https://anotherdayu.com/2022/3457/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-06-22,1655899708.0
+杜老师自建国内不蒜子统计平台,杜老师说,https://dusays.com/476/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-22,1655856000.0
+记录自己 | 2022.06.21,冰哥笔记,https://www.bgbiji.com/1012.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-21,1655820120.0
+"博客公告 | 说说<div class=""wrap""><span class=""wraps"">置顶</span></div>
+<style type=""text/css"">
+.wrap {
+width: 100%;
+height: 100%;
+position: absolute;
+top: -8px;
+left: 8px;
+overflow: hidden;
+font-size: 17px;
+font-weight: 400;
+color: #fff;
+opacity: 0.5;
+-webkit-transition: .3s ease all;
+-moz-transition: .3s ease all;
+-ms-transition: .3s ease all;
+-o-transition: .3s ease all;
+transition: .3s ease all;
+}
+.wrap:hover {
+opacity: 0.9;
+}
+.wraps {
+display: inline-block;
+text-align: center;
+width: 200px;
+height: 30px;
+line-height: 27px;
+position: absolute;
+top: 30px;
+right: -50px;
+z-index: 2;
+overflow: hidden;
+transform: rotate(45deg);
+-ms-transform: rotate(45deg);
+-moz-transform: rotate(45deg);
+-webkit-transform: rotate(45deg);
+-o-transform: rotate(45deg);
+border: 1px dashed;
+box-shadow: 0 0 0 1px #000， 0px 21px 5px -18px rgba(0，0，0，0.6);
+background: red;
+}
+</style>",Peter's Blog,https://www.rainogo.com/posts/blog_notice_talk.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2022-06-20,1655739300.0
+记录自己 | 2022.06.20,冰哥笔记,https://www.bgbiji.com/1011.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-20,1655733720.0
+C++在给定内存上构造,Bing's Blog,https://bbing.com.cn/202206/cpp_placementnew_allocator/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-20,1655688195.0
+静态博客写作新体验-小书匠,BBing's Blog,https://bbing.com.cn/202206/staticblog_xiaoshujiang/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-19,1655650961.0
+记录自己 | 2022.06.19,冰哥笔记,https://www.bgbiji.com/1010.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-19,1655647320.0
+Leetcode 698 划分为k个相等的子集 ( Partition to K Equal Sum Subsets *Medium* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/06/19/Leetcode-698-%E5%88%92%E5%88%86%E4%B8%BAk%E4%B8%AA%E7%9B%B8%E7%AD%89%E7%9A%84%E5%AD%90%E9%9B%86-Partition-to-K-Equal-Sum-Subsets-Medium-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-06-19,1655644552.0
+Jana Gana Mana-有感,Frank笔记,https://frank2019.me/archives/jana-gana-mana-you-gan,https://frank2019.me/,https://frank2019.me/rss.xml,2022-06-18,1655575200.0
+Jana Gana Mana-有感,Frank笔记,/archives/jana-gana-mana-you-gan,/,https://frank2019.me/rss.xml,2022-06-18,1655575200.0
+通过 WebDAV 挂载 Cloudreve「Windows 篇」,杜老师说,https://dusays.com/475/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-18,1655568000.0
+记录自己 | 2022.06.18,冰哥笔记,https://www.bgbiji.com/1008.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-18,1655560920.0
+今年618我买了啥,瓦解的生活记事,https://hin.cool/posts/618buy.html,https://hin.cool/,https://hin.cool/atom.xml,2022-06-18,1655519400.0
+记录自己 | 2022.06.17,冰哥笔记,https://www.bgbiji.com/1006.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-17,1655474520.0
+一块钱买来的自尊心,BBing's Blog,https://bbing.com.cn/202206/1yzzx/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-17,1655471147.0
+计算机组成原理-存储器,DearXuan的主页,https://blog.dearxuan.com/2022/06/16/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%AD%98%E5%82%A8%E5%99%A8/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-06-16,1655390760.0
+记录自己 | 2022.06.16,冰哥笔记,https://www.bgbiji.com/1004.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-16,1655388060.0
+vercel反向代理解决gitalk跨域问题,BBing's Blog,https://bbing.com.cn/202206/vercel-gitalk-cors/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-16,1655384273.0
+坚持更新博客的动力是什么,杜老师说,https://dusays.com/474/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-15,1655308800.0
+记录自己 | 2022.06.15,冰哥笔记,https://www.bgbiji.com/1001.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-15,1655301660.0
+记录自己 | 2022.06.14,冰哥笔记,https://www.bgbiji.com/999.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-14,1655215260.0
+周刊第14期：暂停更新说明、自动化测试的未来趋势,4Ark,https://4ark.me/posts/2022-06-14-weekly-14/,https://4ark.me/,https://4ark.me/rss.xml,2022-06-14,1655164800.0

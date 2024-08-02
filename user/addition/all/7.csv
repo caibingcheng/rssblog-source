@@ -1,20 +1,4 @@
 title,author,link,home,rss,date,timestamp
-【杂谈】记一次Agilent 7900 ICP-MS电源维修小记,Luminous' Home,https://luotianyi.vc/7723.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-11-19,1700395249.0
-家门口的公园,湘铭`Blog,https://blog.xiangming.site/396.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-19,1700385870.0
-11月小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/42580/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-11-17,1700257804.0
-FreeBSD 使用 vm-bhyve 安装Debian虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_17-freebsd_vm_bhyve.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-17,1700179200.0
-看耳朵,湘铭`Blog,https://blog.xiangming.site/393.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-16,1700127432.0
-暗恋是一个人的事,湘铭`Blog,https://blog.xiangming.site/390.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-16,1700104200.0
-求指导，如何给nas中Docker容器访问链接加上SSL,湘铭`Blog,https://blog.xiangming.site/389.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-16,1700093167.0
-FreeBSD 和 Linux 网卡聚合实现提速,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_16-freebsd_linux_link_aggr.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-16,1700092800.0
-一生必会技能“心肺复苏”,湘铭`Blog,https://blog.xiangming.site/384.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-15,1700039160.0
-GPT 帮我搞定了时区转换问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_15-python_datetime_with_timezone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-15,1700006400.0
-锦州：有佛有塔 无以为家,Macin,https://macin.org/2023/11/14/jin-zhou/,https://macin.org/,https://www.macin.org/atom.xml,2023-11-14,1699975091.0
-在福建吃席-海鲜,湘铭`Blog,https://blog.xiangming.site/378.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-14,1699943400.0
-Update on RSS Brain to Find Related Articles with Machine Learning,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-14-Update-On-RSS-Brain-to-Find-Related-Articles-with-Machine-Learning.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-14,1699938000.0
-人生啊！,湘铭`Blog,https://blog.xiangming.site/373.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-13,1699854960.0
-记录下一次服务器迁移,Nicksxs's Blog,https://nicksxs.me/2023/11/12/%E8%AE%B0%E5%BD%95%E4%B8%8B%E4%B8%80%E6%AC%A1%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%81%E7%A7%BB/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-11-12,1699791540.0
-闭上眼睛，深呼吸一会,Another Dayu,https://anotherdayu.com/2023/5461/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-12,1699776813.0
 长任务系统如何处理？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_12-long_running_task.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-12,1699747200.0
 雪落凉州,湘铭`Blog,https://blog.xiangming.site/366.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-11,1699683660.0
 卡片相机，从了解到放弃,瓦解的生活记事,https://hin.cool/posts/camerano.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-11-11,1699660801.0
@@ -27,8 +11,8 @@ Add Index Sidebar to My Blog,Bin Wang - My Personal Blog,https://www.binwang.me/
 解决 macOS 终端hostname一直变化问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_06-mac_keep_hostname.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-06,1699228800.0
 Tomcat 系列篇八-介绍下 Tomcat 里的线程池用处,Nicksxs's Blog,https://nicksxs.me/2023/11/05/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E5%85%AB-%E4%BB%8B%E7%BB%8D%E4%B8%8B-Tomcat-%E9%87%8C%E7%9A%84%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%94%A8%E5%A4%84/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-11-05,1699184336.0
 2023 年 10 月游记,见字如面,https://hiwannz.com/archives/910.html,https://hiwannz.com/,https://hiwannz.com/feed,2023-11-05,1699155890.0
-千锤百炼出深山， 烈火焚烧若等闲,manateelazycat.github.io,//manateelazycat.github.io/2023/11/05/eaf-qthread-crash/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-05,1699142400.0
 KVM 共享 Intel 集成显卡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_05-kvm_windows_intel_gpu.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-05,1699142400.0
+千锤百炼出深山， 烈火焚烧若等闲,manateelazycat.github.io,//manateelazycat.github.io/2023/11/05/eaf-qthread-crash/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-05,1699142400.0
 PLUTO,Another Dayu,https://anotherdayu.com/2023/5431/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-04,1699108108.0
 How to Cleanup Ceph Filesystem for Deleted Kubernetes Persistent Volume,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-04-How-to-Cleanup-Ceph-Filesystem-for-Deleted-Kubernetes-Persistent-Volume.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-04,1699070400.0
 华支睾吸虫病、社会网络结构和饮食决策,Another Dayu,https://anotherdayu.com/2023/5423/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-02,1698917529.0
@@ -42,10 +26,26 @@ Life is full of sudden goodbyes,Another Dayu,https://anotherdayu.com/2023/5410/,
 Tomcat 系列篇七-介绍下 Filter 注册逻辑,Nicksxs's Blog,https://nicksxs.me/2023/10/29/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E4%B8%83-%E4%BB%8B%E7%BB%8D%E4%B8%8B-Filter-%E6%B3%A8%E5%86%8C%E9%80%BB%E8%BE%91/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-10-29,1698578823.0
 Netlify自建Giscus,九弦之屋,https://blog.sinzmise.top/posts/20441/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-10-28,1698479004.0
 【UptimeKuma】基于腾讯云轻量搭建开源的云监控&云拨测工具,Luminous' Home,https://luotianyi.vc/7652.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-10-27,1698395035.0
-运动式打狗背后的悲哀,Frank笔记,http://localhost:8090/archives/1698378076902,http://localhost:8090/,https://frank2019.me/rss.xml,2023-10-27,1698383522.0
 运动式打狗背后的悲哀,Frank笔记,https://frank2019.me/archives/1698378076902,https://frank2019.me/,https://frank2019.me/rss.xml,2023-10-27,1698383522.0
-不想折腾：绿联 DX4600 国产 NAS 开箱体验,罗磊的独立博客,https://luolei.org/ugreen-dx4600,https://luolei.org,https://luolei.org/feed/,2023-10-26,1698316166.0
-这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯,罗磊的独立博客,https://luolei.org/warsun-portable-y40-led-light,https://luolei.org,https://luolei.org/feed/,2023-10-26,1698316166.0
-好久不见: 我消失的 900 天,罗磊的独立博客,https://luolei.org/why-no-videos-in-900-days,https://luolei.org,https://luolei.org/feed/,2023-10-26,1698316166.0
-我如何在 7 年内胖了 40 斤，又用 90 天减掉 20 斤,罗磊的独立博客,https://luolei.org/how-i-lose-10kg-in-3-months,https://luolei.org,https://luolei.org/feed/,2023-10-26,1698316166.0
-我的云账单: 2023 年,罗磊的独立博客,https://luolei.org/how-much-i-spend-on-cloud-monthly-2023,https://luolei.org,https://luolei.org/feed/,2023-10-26,1698316166.0
+消失的两年: 2021 珠海航展,罗磊的独立博客,https://luolei.org/airshow-china-2021,https://luolei.org,https://luolei.org/feed/,2023-10-26,1698316166.0
+Dell G16 在 Linux 下设置键盘灯 （逆向）,manateelazycat.github.io,//manateelazycat.github.io/2023/10/25/dell-g16-keyboard-light/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-25,1698192000.0
+峨眉山徒步：免门票十公里路线分享,Macin,https://macin.org/2023/10/24/e-mei-shan-tu-bu/,https://macin.org/,https://www.macin.org/atom.xml,2023-10-24,1698139450.0
+PIVOT Vol. 1,Another Dayu,https://anotherdayu.com/2023/5398/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-10-23,1698046412.0
+千元投影，哈趣H2,瓦解的生活记事,https://hin.cool/posts/haquh2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-10-22,1697988600.0
+远程办公三年后感,见字如面,https://hiwannz.com/archives/824.html,https://hiwannz.com/,https://hiwannz.com/feed,2023-10-22,1697982306.0
+替代 Readwise Reader 的选择：Zotero 7,Another Dayu,https://anotherdayu.com/2023/5391/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-10-22,1697959830.0
+Linux Full Disk Encryption with Yubikey,Bin Wang - My Personal Blog,https://www.binwang.me/2023-10-22-Full-Disk-Encryption-with-Yubikey.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-10-22,1697947200.0
+Tomcat 系列篇六-介绍下 Lifecycle,Nicksxs's Blog,https://nicksxs.me/2023/10/21/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E5%85%AD-%E4%BB%8B%E7%BB%8D%E4%B8%8B-Lifecycle/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-10-21,1697891432.0
+小米、Yeelight 和 BenQ 屏幕挂灯体验,Another Dayu,https://anotherdayu.com/2023/5384/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-10-21,1697880371.0
+云端 Jupyter Notebook 平台：Google Colaboratory 和 Featurize,Another Dayu,https://anotherdayu.com/2023/5380/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-10-20,1697781909.0
+“生日快乐”是祝福还是安慰？,非理勿试,https://www.ntiy.com/2009.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-10-20,1697770318.0
+基于本地 AI 大模型的 Emacs 翻译插件,manateelazycat.github.io,//manateelazycat.github.io/2023/10/20/use-ollama-as-translator/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-20,1697760000.0
+PromQL 备忘,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_10_17-prometheus_promql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-10-17,1697500800.0
+罗目古镇：峨眉山下喜相逢,Macin,https://macin.org/2023/10/16/luo-mu-gu-zhen/,https://macin.org/,https://www.macin.org/atom.xml,2023-10-16,1697486750.0
+烟盒纸，少见的公字烟,Macin,https://macin.org/2023/10/16/yan-he-zhi/,https://macin.org/,https://www.macin.org/atom.xml,2023-10-16,1697485831.0
+聊聊最近,醉里博客,https://202271.xyz/post/50555/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-10-16,1697467527.0
+聊聊对 FunctionalInterface 注解的一些理解,Nicksxs's Blog,https://nicksxs.me/2023/10/15/%E8%81%8A%E8%81%8A%E5%AF%B9-FunctionalInterface-%E6%B3%A8%E8%A7%A3%E7%9A%84%E4%B8%80%E4%BA%9B%E7%90%86%E8%A7%A3/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-10-15,1697372022.0
+读《无穷的开始》,manateelazycat.github.io,//manateelazycat.github.io/2023/10/15/reading-the-beginning-of-infinity/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-15,1697328000.0
+Hexo 主题开发 hexo-theme-imba97 —— 第零篇,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/770/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-10-14,1697300308.0
+lsp-bridge 远程代码补全,manateelazycat.github.io,//manateelazycat.github.io/2023/10/12/lsp-bridge-and-tramp/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-12,1697068800.0
+Kong Gateway OSS 官方管理界面 Kong Manager 开源啦！🦍,把酒诗代码，趁乱写年华。,https://102no.com/2023/10/09/kong-manager-oss/,https://102no.com/,https://102no.com/atom.xml,2023-10-08,1696780800.0

@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-摩登 OAuth 2.0：簡介,Just lepture,https://lepture.com/zh/2018/oauth2-intro,https://lepture.com/,https://lepture.com/feed.xml,2018-09-11,1536635588.0
-Google Ads使用体验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_10-google_ads.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-10,1536537600.0
-Go的custom import path,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_07-go_custom_import_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-07,1536278400.0
-如何挖掘二级子域名？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_06-how_to_dig_subdomain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-06,1536192000.0
-微信与象棋,云游君的小站,https://www.yunyoujun.cn/posts/wechat-and-chinese-chess,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-09-03,1536014317.0
-Go Module 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_03-go_module.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-03,1535932800.0
-写了一个Telegram Bot：自动化分享高质量内容,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_02-write_a_tgbot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-02,1535846400.0
-Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-vim_speed_up.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
-ArchLinux 怎么降级 package ？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
-为什么我选择放弃运营微信公众号？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
-Web后端工程师进阶指南(2018),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
-How to implement fork syscall in Golang?,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
-macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
-关于运营的思考-运营要怎么做？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_26-about_traffic.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-26,1535241600.0
-Python中实现单例模式的n种方式和原理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
-Golang defer中修改返回值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_23-go_defer_named_return_values.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-23,1534982400.0
-Serlina: 渐进式的 React 服务器渲染框架,Randy's Blog,https://lutaonan.com/blog/announcing-serlina/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-08-13,1534118400.0
-Python dataclass 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_12-python_dataclasses.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-12,1534032000.0
-gRPC-gateway 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_08-grpc_gateway_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-08,1533686400.0
-腹肌南波湾一日游:FUJIFILM XF10,罗磊的独立博客,https://luolei.org/fujifilme-xf10-review,https://luolei.org,https://luolei.org/feed/,2018-08-05,1533427200.0
-如何阅读源代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_04-how_to_read_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-04,1533340800.0
-我的摄影储存解决方案 | ZUOLUOTV | VLOG15,罗磊的独立博客,https://luolei.org/vlog-15-storage-and-backups,https://luolei.org,https://luolei.org/feed/,2018-07-31,1532995200.0
-我心目中的配置中心应该怎么做？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_07_22-config_center.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-07-22,1532217600.0
-我的相机和镜头:2018年装备清单 | ZUOLUOTV | VLOG13,罗磊的独立博客,https://luolei.org/vlog-13-camera-and-lens,https://luolei.org,https://luolei.org/feed/,2018-07-22,1532217600.0
-摄影师必备的7个小设备 | VLOG14,罗磊的独立博客,https://luolei.org/vlog-14-travel-gears,https://luolei.org,https://luolei.org/feed/,2018-07-22,1532217600.0
-设计一个HTTP网关,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_07_18-design_a_gateway.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-07-18,1531872000.0
-多研究些问题，少谈些框架,Randy's Blog,https://lutaonan.com/blog/think-deeper/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-07-16,1531699200.0
-设计一个分布式块存储,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_07_08-design_a_chunked_distributed_file_system.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-07-08,1531008000.0
-Linux低电量自动关机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_06_24-linux_shutdown_when_bat_is_low.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-06-24,1529798400.0
-开箱 | 再见了旧爱，迎小三新欢:索尼A7M3,罗磊的独立博客,https://luolei.org/sony-a7m3-unboxing,https://luolei.org,https://luolei.org/feed/,2018-06-23,1529712000.0
-关于部落冲突的二三事儿（番外）-端午事变,云游君的小站,https://www.yunyoujun.cn/posts/coc-dragon-boat-incident,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-06-22,1529708724.0
-Unity 中用有限状态机来实现一个 AI,萤火之森,http://frankorz.com/2018/06/22/finite-state-machine-in-unity/,http://frankorz.com/,https://frankorz.com/atom.xml,2018-06-22,1529691571.0
-2D 像素风平台游戏 Aretha’s Journey,萤火之森,http://frankorz.com/2018/06/17/arethas-journey/,http://frankorz.com/,https://frankorz.com/atom.xml,2018-06-17,1529264290.0
-夜思,Just lepture,https://lepture.com/zh/2018/miss-you,https://lepture.com/,https://lepture.com/feed.xml,2018-06-15,1529031564.0
-CGO简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_06_15-cgo.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-06-15,1529020800.0
-Travis-CI 持续集成部署,云游君的小站,https://www.yunyoujun.cn/posts/use-travis-to-deploy,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-06-10,1528643082.0
-求值策略：Applicative Order vs Normal Order,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_05_22-evaluation_strategy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-22,1526947200.0
-High Performance MySQL阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_05_17-high_performance_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-17,1526515200.0
-MySQL EXPLAIN中的filesort是什么？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_05_15-mysql_filesort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-15,1526342400.0
-罗磊啰嗦变聪明了:给微信公众号做了个小升级,罗磊的独立博客,https://luolei.org/wechat-speakl-update-2018,https://luolei.org,https://luolei.org/feed/,2018-05-14,1526256000.0
-数据库索引设计与优化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_05_13-mysql_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-13,1526169600.0
-如何调试？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_05_08-how_to_debug.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-08,1525737600.0
-开箱 | 铁威马 TerraMaster  D2-310 硬盘盒,罗磊的独立博客,https://luolei.org/terramaster-d2-310-review,https://luolei.org,https://luolei.org/feed/,2018-04-23,1524441600.0
-男性用品 | 德国 Geburtstags Shampoo 男士清洗液,罗磊的独立博客,https://luolei.org/geburtstags-shampoo,https://luolei.org,https://luolei.org/feed/,2018-04-22,1524355200.0
-Structure of a Flask Project,Just lepture,https://lepture.com/en/2018/structure-of-a-flask-project,https://lepture.com/,https://lepture.com/feed.xml,2018-04-21,1524321044.0
-Docker CE 18.03源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_14-docker_ce_18_analysis.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-14,1523664000.0
-我设计的第一个桌游,萤火之森,http://frankorz.com/2018/04/13/first-board-game/,http://frankorz.com/,https://frankorz.com/atom.xml,2018-04-13,1523630707.0
-容器时代的日志处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_12-docker_logging.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-12,1523491200.0
-Golang和Thrift,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_10-golang_thrift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-10,1523318400.0
-加拿大 | 我可能办了一个「假」的十年多次签证,罗磊的独立博客,https://luolei.org/canada-visa-2018,https://luolei.org,https://luolei.org/feed/,2018-04-08,1523145600.0
+不合格的旅行者:读《美洲小宇宙》有感,罗磊的独立博客,https://luolei.org/read-microcosm-of-usa,https://luolei.org,https://luolei.org/feed/,2017-07-21,1500595200.0
+来自某夏令营的回忆,云游君的小站,https://www.yunyoujun.cn/posts/memory-about-summer-camp,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-18,1500411690.0
+Golang slice 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_18-golang_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-18,1500336000.0
+经典好书推荐(2017),Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_15-books.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-15,1500076800.0
+水彩原创头像尝试,云游君的小站,https://www.yunyoujun.cn/posts/a-try-about-watercolor-portrait,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-12,1499894106.0
+Golang log库 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_11-golang_log.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-11,1499731200.0
+群晖 DS216j 半年体验报告,Randy's Blog,https://lutaonan.com/blog/synology-ds216j-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-07-11,1499731200.0
+云游君表情包制作计划,云游君的小站,https://www.yunyoujun.cn/posts/yunyoujun-meme,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-10,1499683297.0
+小说连载初尝试-《阿庫娅的星球》,云游君的小站,https://www.yunyoujun.cn/posts/planet-of-aqua,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-10,1499682984.0
+關西行,Just lepture,https://lepture.com/zh/2017/guan-xi-xing,https://lepture.com/,https://lepture.com/feed.xml,2017-07-07,1499440078.0
+Redux 源码解析,Yuexun's Blog,https://yuexunjiang.me/blog/redux-source-code-insight/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-07-04,1499126400.0
+毕业后一年,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_02-one_year_after_graduate.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-02,1498953600.0
+Vim 全局搜索插件：ctrlsf.vim,Yuexun's Blog,https://yuexunjiang.me/blog/vim-plugin-ctrlsf/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-06-29,1498694400.0
+ansible 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_06_22-ansible.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-06-22,1498089600.0
+花田苑雜記,Just lepture,https://lepture.com/zh/2017/hanataen,https://lepture.com/,https://lepture.com/feed.xml,2017-06-19,1497876419.0
+AMPLIFI HD -居家体验报告 | 视频,罗磊的独立博客,https://luolei.org/amplifi-hd-review,https://luolei.org,https://luolei.org/feed/,2017-06-19,1497830400.0
+开箱:AMPLIFI HD - 这应该是我用过的最(贵)漂亮的路由器,罗磊的独立博客,https://luolei.org/amplifi-hd-unboxing,https://luolei.org,https://luolei.org/feed/,2017-06-15,1497484800.0
+React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
+React 初始化渲染,Ahonn's Blog,https://www.ahonn.me/blog/write-a-react-from-scratch-init-render,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
+React 初始化渲染,Yuexun's Blog,https://yuexunjiang.me/blog/write-a-react-from-scratch-init-render,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-06-08,1496880000.0
+利器拾遺,Just lepture,https://lepture.com/zh/2017/liqi,https://lepture.com/,https://lepture.com/feed.xml,2017-06-04,1496582426.0
+自己写个搜索引擎,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_06_02-write_yourself_a_simple_search_engine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-06-02,1496361600.0
+HTTP 路由的两种常见设计形式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_05_24-http_router_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-24,1495584000.0
+Koa2 源码分析,Yuexun's Blog,https://yuexunjiang.me/blog/koa2-analysis/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-05-17,1494979200.0
+五一二雜感,Just lepture,https://lepture.com/zh/2017/yang-yong-xin,https://lepture.com/,https://lepture.com/feed.xml,2017-05-16,1494944556.0
+Golang的short variable declaration,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_05_12-golang_short_variable_declaration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-12,1494547200.0
+我的编程经历,Randy's Blog,https://lutaonan.com/blog/my-coding-road/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-05-12,1494547200.0
+利器访谈｜罗磊｜也许是最会晒妻的程序员,罗磊的独立博客,https://luolei.org/liqi-interview-luolei,https://luolei.org,https://luolei.org/feed/,2017-05-10,1494374400.0
+牛島觀藤記,Just lepture,https://lepture.com/zh/2017/ushijima-fuji,https://lepture.com/,https://lepture.com/feed.xml,2017-05-08,1494251018.0
+你好，Typlog,Just lepture,https://lepture.com/zh/2017/hello-typlog,https://lepture.com/,https://lepture.com/feed.xml,2017-05-02,1493739135.0
+Greenlet和Stackless Python,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_04_26-greenlet.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-26,1493164800.0
+写一个简单的ORM,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_04_25-write_your_own_orm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-25,1493078400.0
+談談 AMP 及其他,Just lepture,https://lepture.com/zh/2017/thought-on-amp,https://lepture.com/,https://lepture.com/feed.xml,2017-04-20,1492700701.0
+搭建自己的 Gitlab CI Runner,Randy's Blog,https://lutaonan.com/blog/gitlab-ci-runner/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-04-20,1492646400.0
+从源码看Python的descriptor,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_04_19-python_descriptor_from_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-19,1492560000.0
+日光一日遊,Just lepture,https://lepture.com/zh/2017/one-day-in-nikko,https://lepture.com/,https://lepture.com/feed.xml,2017-04-16,1492358859.0
+Python字符串格式化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_04_16-python_string_format.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-16,1492300800.0
+Gunicorn 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_04_08-gunicorn.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-08,1491609600.0
+談談 Markdown 編輯器,Just lepture,https://lepture.com/zh/2017/about-markdown-editor,https://lepture.com/,https://lepture.com/feed.xml,2017-04-05,1491405422.0
+閱乎，再見,Just lepture,https://lepture.com/zh/2017/close-yuehu,https://lepture.com/,https://lepture.com/feed.xml,2017-04-05,1491366370.0
+Raft 论文阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_29-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-29,1490745600.0
+开始使用 Neovim,Ahonn's Blog,https://www.ahonn.me/blog/use-neovim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-03-27,1490613006.0
+开始使用 Neovim,Yuexun's Blog,https://yuexunjiang.me/blog/use-neovim,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-03-27,1490613006.0
+开始使用 Neovim,Yuexun's Blog,https://yuexunjiang.me/blog/use-neovim/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-03-27,1490572800.0
+阿里巴巴暑假实习面试总结,Yuexun's Blog,https://yuexunjiang.me/blog/alibaba-summer-internship-interview-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-03-16,1489622400.0
+做技术要自信,Randy's Blog,https://lutaonan.com/blog/do-have-faith-with-yourself/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-03-14,1489449600.0
+什么是 Golang Comparable Types,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_06-golang_comparable_types.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-06,1488758400.0
+Filco 圣手二代蓝牙版:开箱体验,罗磊的独立博客,https://luolei.org/filco-keyboard-unboxing,https://luolei.org,https://luolei.org/feed/,2017-03-06,1488758400.0
+MapReduce 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_02-map_reduce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
+一起来做贼：Goroutine原理和Work stealing,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
