@@ -30,7 +30,7 @@ rss_fetch_date_dir = "./__tmp__/date/"
 
 def fetch():
     global rss
-    for (key, link) in fetch_list.items():
+    for key, link in fetch_list.items():
         rss_list = []
         try:
             rss_list = json.loads(requests.get(link, verify=False).text)
@@ -50,7 +50,7 @@ def fetch():
     # rss_user["test"] = rss
 
     fetch_source(rss_fetch_source_dir, rss)
-    combin_source(rss_fetch_all_dir, rss_fetch_source_dir)
-    combin_member(rss_fetch_member_dir, rss_fetch_all_dir)
+    combine_source(rss_fetch_all_dir, rss_fetch_source_dir)
+    combine_member(rss_fetch_member_dir, rss_fetch_all_dir)
     split_date(rss_fetch_date_dir, rss_fetch_all_dir)
     split_user(rss_fetch_user_dir, rss_user, rss_fetch_source_dir)

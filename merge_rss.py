@@ -1,4 +1,10 @@
-from fetch_rss import rss_fetch_source_dir, rss_fetch_member_dir, rss_fetch_user_dir, rss_fetch_all_dir, rss_fetch_date_dir
+from fetch_rss import (
+    rss_fetch_source_dir,
+    rss_fetch_member_dir,
+    rss_fetch_user_dir,
+    rss_fetch_all_dir,
+    rss_fetch_date_dir,
+)
 from merge_utils import *
 import json
 
@@ -20,6 +26,7 @@ def merge():
         "batch": SPLIT,
         "urls": URL,
     }
+    # 最终结果
     with open(rss_out_stats_dir + "stats.json", "w") as f:
         json.dump(dumps, f, indent=2)
     with open(rss_out_stats_dir + "stats.min.json", "w") as f:
