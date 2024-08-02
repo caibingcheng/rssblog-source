@@ -7,13 +7,15 @@ import requests
 import feedparser
 import pandas
 import hashlib
+from concurrent.futures import ThreadPoolExecutor
 from io import BytesIO
 
 
 def hash_url(url):
     md5 = hashlib.md5()
-    md5.update(url.encode('utf-8'))
+    md5.update(url.encode("utf-8"))
     return md5.hexdigest()
+
 
 def get_entry_date(entry):
     if "published_parsed" in entry.keys():
@@ -23,30 +25,43 @@ def get_entry_date(entry):
     else:
         return time.localtime()
 
+
 def fetch_source(rss_fetch_source_dir, rss):
-    # 按照来源抓取rss
+    """按照来源抓取rss，放到每个源对应的new.csv中"""
     print("fetch new rss ...")
     if not os.path.isdir(rss_fetch_source_dir):
         os.makedirs(rss_fetch_source_dir)
-    for r in rss:
+
+    def parse_rss(r):
         try:
-            rp = feedparser.parse(
-                BytesIO(requests.get(r, timeout=10.0).content))
+            content = requests.get(r, timeout=10.0).content
+            rp = feedparser.parse(BytesIO(content))
         except:
             print("parse", r, "error")
-            continue
+            return
 
         print("parse", r)
-        rss_link = [{
-            "title": et["title"].replace(",", "，"),
-            # 如果源相同, 但是author名字不同, 这里就会使用最后一个
-            "author": rp["feed"]["link"] if "title" not in rp["feed"].keys() else rp["feed"]["title"],
-            "link": et["link"],
-            "home": rp["feed"]["link"],
-            "rss": r,
-            "date": time.strftime("%Y-%m-%d", get_entry_date(et)),
-            "timestamp": time.mktime(get_entry_date(et)),
-        } for et in rp["entries"]]
+        try:
+            rss_link = [
+                {
+                    "title": et["title"].replace(",", "，"),
+                    # 如果源相同, 但是author名字不同, 这里就会使用最后一个
+                    "author": (
+                        rp["feed"]["link"]
+                        if "title" not in rp["feed"].keys()
+                        else rp["feed"]["title"]
+                    ),
+                    "link": et["link"],
+                    "home": rp["feed"]["link"],
+                    "rss": r,
+                    "date": time.strftime("%Y-%m-%d", get_entry_date(et)),
+                    "timestamp": time.mktime(get_entry_date(et)),
+                }
+                for et in rp["entries"]
+            ]
+        except Exception as e:
+            print("un-support rss", r, e)
+            return
 
         url_hash = hash_url(r)
         rss_dir = rss_fetch_source_dir + url_hash + "/"
@@ -58,16 +73,23 @@ def fetch_source(rss_fetch_source_dir, rss):
 
         df = pandas.json_normalize(rss_link)
         if len(df) <= 0:
-            print("fetching skip", r, "to", url_hash,
-                  "size", len(rss_link), len(df))
-            continue
-        df.to_csv(rss_dir + "new.csv", index=False,
-                  sep=",", encoding="utf-8")
+            print("fetching skip", r, "to", url_hash, "size", len(rss_link), len(df))
+            return
+        df.to_csv(rss_dir + "new.csv", index=False, sep=",", encoding="utf-8")
+
+    pool = ThreadPoolExecutor(max_workers=10)
+    futures = []
+    for r in rss:
+        futures.append(pool.submit(parse_rss, r))
+
+    for future in futures:
+        future.result()
+
     print("fetch new rss done")
 
 
-def combin_source(rss_fetch_all_dir, rss_fetch_source_dir):
-    # 合并所有的来源
+def combine_source(rss_fetch_all_dir, rss_fetch_source_dir):
+    """合并所有的来源，把每个源的new.csv合并到all/new.csv中"""
     print("combin all page ...")
     if not os.path.isdir(rss_fetch_all_dir):
         os.makedirs(rss_fetch_all_dir)
@@ -84,13 +106,12 @@ def combin_source(rss_fetch_all_dir, rss_fetch_source_dir):
             print("combining skip", file)
     df = pandas.concat(dfs)
     df = df.sort_values("timestamp", ascending=False)
-    df.to_csv(rss_fetch_all_dir + "new.csv",
-              index=False, sep=",", encoding="utf-8")
+    df.to_csv(rss_fetch_all_dir + "new.csv", index=False, sep=",", encoding="utf-8")
     print("combin all page done")
 
 
-def combin_member(rss_fetch_member_dir, rss_fetch_all_dir):
-    # 获取member
+def combine_member(rss_fetch_member_dir, rss_fetch_all_dir):
+    """通过all/new.csv中的author去重，得到member/new.csv，这里面包含了所有的author（更新了的）"""
     print("combin member rss ...")
     if not os.path.isdir(rss_fetch_member_dir):
         os.makedirs(rss_fetch_member_dir)
@@ -98,45 +119,44 @@ def combin_member(rss_fetch_member_dir, rss_fetch_all_dir):
     df = df.sort_values(by="author", kind="mergesort")  # 保留前后顺序
     df = df.drop_duplicates(subset=["author"], keep="first")
     df = df.sort_values(by="timestamp", ascending=False)
-    df.to_csv(rss_fetch_member_dir + "new.csv",
-              index=False, sep=",", encoding="utf-8")
+    df.to_csv(rss_fetch_member_dir + "new.csv", index=False, sep=",", encoding="utf-8")
     print("combin member rss done")
 
 
 def split_date(rss_fetch_date_dir, rss_fetch_all_dir):
-    # 按照时间年月分类
+    """按照年月分类，把all/new.csv中的数据按照年月分类，放到date/年月/new.csv中"""
     print("split date page ...")
     if not os.path.isdir(rss_fetch_date_dir):
         os.makedirs(rss_fetch_date_dir)
     df = pandas.read_csv(rss_fetch_all_dir + "/new.csv", encoding="utf-8")
     dfd = {}
     for i, d in df.iterrows():
-        year_month = d['date'][0:4] + d['date'][5:7]
+        year_month = d["date"][0:4] + d["date"][5:7]
         if year_month not in dfd.keys():
             dfd[year_month] = []
         dfd[year_month].append(i)
-    for (key, i) in dfd.items():
+    for key, i in dfd.items():
         date_dir = rss_fetch_date_dir + key
         if not os.path.isdir(date_dir):
             os.makedirs(date_dir)
-        df.iloc[i].to_csv(date_dir + "/new.csv", index=False,
-                          sep=",", encoding="utf-8")
+        df.iloc[i].to_csv(date_dir + "/new.csv", index=False, sep=",", encoding="utf-8")
     print("split date page done")
 
 
 def split_user(rss_fetch_user_dir, rss_user, rss_fetch_source_dir):
-    # 按照用户分类
+    """按照用户分类，把all/new.csv中的数据按照用户分类，每个用户下又有date、member、all目录"""
     print("combin user rss ...")
     if not os.path.isdir(rss_fetch_user_dir):
         os.makedirs(rss_fetch_user_dir)
-    for (user, user_rss) in rss_user.items():
+    for user, user_rss in rss_user.items():
         dfs = []
         for r in user_rss:
             url_hash = hash_url(r)
             # 每个源一定有一个source
             try:
-                ldf = pandas.read_csv(rss_fetch_source_dir +
-                                      url_hash + "/new.csv", encoding="utf-8")
+                ldf = pandas.read_csv(
+                    rss_fetch_source_dir + url_hash + "/new.csv", encoding="utf-8"
+                )
                 dfs.append(ldf)
             except:
                 print("combin user skip", url_hash)
@@ -149,5 +169,5 @@ def split_user(rss_fetch_user_dir, rss_user, rss_fetch_source_dir):
         date_dir = rss_fetch_user_dir + user + "/date/"
         split_date(date_dir, rss_dir)  # user date
         member_dir = rss_fetch_user_dir + user + "/member/"
-        combin_member(member_dir, rss_dir)  # user member
+        combine_member(member_dir, rss_dir)  # user member
     print("combin user rss done")
