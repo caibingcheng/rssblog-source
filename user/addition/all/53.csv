@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-09-15,1536969600.0
+一个阅读源代码的技巧,Randy's Blog,https://lutaonan.com/blog/trick-for-reading-source-code/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-09-14,1536883200.0
+高效的 GraphQL + Ant.Design,Randy's Blog,https://lutaonan.com/blog/effective-graphql-and-antd/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-09-12,1536710400.0
 摩登 OAuth 2.0：簡介,Just lepture,https://lepture.com/zh/2018/oauth2-intro,https://lepture.com/,https://lepture.com/feed.xml,2018-09-11,1536635588.0
 Google Ads使用体验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_10-google_ads.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-10,1536537600.0
 Go的custom import path,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_07-go_custom_import_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-07,1536278400.0
@@ -8,7 +11,7 @@ Go Module 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/20
 写了一个Telegram Bot：自动化分享高质量内容,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_02-write_a_tgbot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-02,1535846400.0
 Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-vim_speed_up.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Web后端工程师进阶指南(2018),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
-macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
+How to implement fork syscall in Golang?,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 关于运营的思考-运营要怎么做？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_26-about_traffic.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-26,1535241600.0
 Python中实现单例模式的n种方式和原理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
 Golang defer中修改返回值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_23-go_defer_named_return_values.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-23,1534982400.0
@@ -46,6 +49,3 @@ Docker CE 18.03源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.c
 Golang和Thrift,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_10-golang_thrift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-10,1523318400.0
 加拿大 | 我可能办了一个「假」的十年多次签证,罗磊的独立博客,https://luolei.org/canada-visa-2018,https://luolei.org,https://luolei.org/feed/,2018-04-08,1523145600.0
 折腾Kubernetes,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_05-kubernetes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-05,1522886400.0
-协程(coroutine)简介 - 什么是协程？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_03-coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-03,1522713600.0
-goroutine 切换的时候发生了什么？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_29-goroutine_schedule.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-29,1522281600.0
-Vue 中 canvas 的自适应,云游君的小站,https://www.yunyoujun.cn/posts/responsive-canvas-with-vue,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-03-27,1522151073.0
