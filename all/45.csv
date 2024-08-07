@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+读《如何成为更聪明的人》，我重新思考了我的思考,冰哥笔记,https://www.bgbiji.com/850.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-01-18,1642491597.0
 Kong 2.7 已经准备就绪！,把酒诗代码，趁乱写年华。,https://102no.com/2022/01/18/kong-2.7/,https://102no.com/,https://102no.com/atom.xml,2022-01-17,1642435200.0
 搬运两个 StackOverflow 上的 Mysql 编码相关的问题解答,Nicksxs's Blog,https://nicksxs.me/2022/01/16/%E6%90%AC%E8%BF%90%E4%B8%A4%E4%B8%AA-StackOverflow-%E4%B8%8A%E7%9A%84-Mysql-%E7%BC%96%E7%A0%81%E7%9B%B8%E5%85%B3%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-01-16,1642337551.0
 Nvim补全配置记录,Barney's Blog,https://hugo.bnblogs.cc/nvim%E8%A1%A5%E5%85%A8%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-01-16,1642312205.0
@@ -24,8 +25,8 @@ GIN 是如何绑定参数的,Jiajun的技术笔记,https://jiajunhuang.com/artic
 谈谈碎片化时间,冰哥笔记,https://www.bgbiji.com/844.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-01-08,1641619488.0
 【Mybatis系列】Mybatis入门,框架師,https://www.mobaijun.com/posts/2794875020.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-07,1641539424.0
 【Web系列】SpringBoot防护XSS攻击配置,框架師,https://www.mobaijun.com/posts/407876058.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-06,1641448654.0
-lombok问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/lombok-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-06,1641430890.0
 lombok问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/lombok-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-01-06,1641430890.0
+lombok问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/lombok-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-06,1641430890.0
 使用DDNS+ipv6在公网访问群晖,LonelyGod,https://hin.cool/posts/ddnsipv6.html,https://hin.cool/,https://hin.cool/atom.xml,2022-01-05,1641398400.0
 【工具系列】常用maven命令介绍,框架師,https://www.mobaijun.com/posts/3490035493.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641366238.0
 【工具系列】轻量级虚拟机Multipass使用教程,框架師,https://www.mobaijun.com/posts/3701652676.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641351409.0
@@ -48,4 +49,3 @@ Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/javaweb-se
 【工具系列】mvnd：maven全新构建插件，提高性能,框架師,https://www.mobaijun.com/posts/1982863623.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-29,1640745287.0
 【AWS】CloudFront免费CDN详细配置入门,Luminous' Home,https://luotianyi.vc/5994.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-12-28,1640696356.0
 【原创作品】Ease Bookmarks,qinxs小站,https://7bxing.com/posts/beb3fd2a/,https://7bxing.com/,https://7bxing.com/atom.xml,2021-12-27,1640610083.0
-月宫,This Cute World,https://thiscute.world/posts/moon-palace/,https://thiscute.world/,https://thiscute.world/index.xml,2021-12-27,1640596980.0
