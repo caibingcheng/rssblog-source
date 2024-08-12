@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Java编译出现java.lang.ExceptionInInitializerError,cywhat's blog,https://cywhat.cn/Java%E7%BC%96%E8%AF%91%E5%87%BA%E7%8E%B0java.lang.ExceptionInInitializerError/,https://cywhat.cn/,https://cywhat.cn/index.xml,2024-02-26,1708928878.0
 如何更方便的管理和使用 OSS,杜老师说,https://dusays.com/680/,https://dusays.com/,https://dusays.com/atom.xml,2024-02-23,1708704000.0
 OS as Code - 我的 NixOS 使用体会,This Cute World,https://thiscute.world/posts/my-experience-of-nixos/,https://thiscute.world/,https://thiscute.world/index.xml,2024-02-21,1708503981.0
 基于 Python 的站点漏洞扫描工具,杜老师说,https://dusays.com/679/,https://dusays.com/,https://dusays.com/atom.xml,2024-02-20,1708444800.0
@@ -48,4 +49,3 @@ Nginx 的 WAF 规则 LuaJIT 高危险版,杜老师说,https://dusays.com/659/,ht
 Nginx 的 WAF 规则 LuaJIT 中危险版,杜老师说,https://dusays.com/658/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-19,1703001600.0
 Nginx 的 WAF 规则 LuaJIT 低危险版,杜老师说,https://dusays.com/657/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-16,1702742400.0
 使用 Docker 部署 Wiki.js,杜老师说,https://dusays.com/656/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-13,1702483200.0
-如何使用 FFmpeg 来压缩视频,杜老师说,https://dusays.com/655/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-10,1702224000.0
