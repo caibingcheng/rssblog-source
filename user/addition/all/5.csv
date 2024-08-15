@@ -1,4 +1,16 @@
 title,author,link,home,rss,date,timestamp
+长任务系统如何处理？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_12-long_running_task.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-12,1699747200.0
+macOS/Linux 编译 InputLeap,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_11-input_leap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-11,1699660800.0
+Add Index Sidebar to My Blog,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-10-Index-Sidebar-on-My-Blog.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-10,1699592400.0
+使用开源软KVM - synergy-core,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_10-synergy_core.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-10,1699574400.0
+解决 macOS 终端hostname一直变化问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_06-mac_keep_hostname.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-06,1699228800.0
+KVM 共享 Intel 集成显卡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_05-kvm_windows_intel_gpu.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-05,1699142400.0
+How to Cleanup Ceph Filesystem for Deleted Kubernetes Persistent Volume,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-04-How-to-Cleanup-Ceph-Filesystem-for-Deleted-Kubernetes-Persistent-Volume.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-04,1699070400.0
+关于笔记软件的一些想法,非理勿试,https://www.ntiy.com/2019.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-10-31,1698733800.0
+【UptimeKuma】基于腾讯云轻量搭建开源的云监控&云拨测工具,Luminous' Home,https://luotianyi.vc/7652.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-10-27,1698395035.0
+Linux Full Disk Encryption with Yubikey,Bin Wang - My Personal Blog,https://www.binwang.me/2023-10-22-Full-Disk-Encryption-with-Yubikey.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-10-22,1697947200.0
+“生日快乐”是祝福还是安慰？,非理勿试,https://www.ntiy.com/2009.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-10-20,1697770318.0
+PromQL 备忘,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_10_17-prometheus_promql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-10-17,1697500800.0
 聊聊最近,醉里博客,https://202271.xyz/post/50555/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-10-16,1697467527.0
 Hexo 主题开发 hexo-theme-imba97 —— 第零篇,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/770/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-10-14,1697300308.0
 Kong Gateway OSS 官方管理界面 Kong Manager 开源啦！🦍,把酒诗代码，趁乱写年华。,https://102no.com/2023/10/09/kong-manager-oss/,https://102no.com/,https://102no.com/atom.xml,2023-10-08,1696780800.0
@@ -37,15 +49,3 @@ nestjs 联表查询,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives
 一个国外在线生成个人网站聚合的网站,醉里博客,https://202271.xyz/post/36746/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-06-10,1686408967.0
 复读和命运,Randy's Blog,https://lutaonan.com/blog/retake-and-destiny/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2023-06-10,1686355200.0
 苹果WWDC2023 发布的Apple Vision Pro🍎,把酒诗代码，趁乱写年华。,https://102no.com/2023/06/07/apple-vision-pro/,https://102no.com/,https://102no.com/atom.xml,2023-06-06,1686067200.0
-五年前的风景,非理勿试,https://www.ntiy.com/1990.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-06-06,1686051588.0
-6月5日,醉里博客,https://202271.xyz/post/953/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-06-05,1685975473.0
-《高性能MySQL》第四版：视角升级，拥抱新版📖,把酒诗代码，趁乱写年华。,https://102no.com/2023/06/05/high-performance-mysql-4/,https://102no.com/,https://102no.com/atom.xml,2023-06-04,1685894400.0
-高三成人礼及壮行活动,醉里博客,https://202271.xyz/post/40840/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-30,1685462506.0
-免费ssl证书稳定申请，支持泛域名,醉里博客,https://202271.xyz/post/14446/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-29,1685374528.0
-修改一下我的github,醉里博客,https://202271.xyz/post/36745/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-24,1684944841.0
-Upgrade Kubernetes from 1.23 to 1.24,Bin Wang - My Personal Blog,https://www.binwang.me/2023-05-22-Upgrade-Kubernetes-from-1.23-to-1.24.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-05-22,1684728000.0
-OpenAI上架官方Chat GPT应用,醉里博客,https://202271.xyz/post/64302/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-20,1684598941.0
-母亲节,醉里博客,https://202271.xyz/post/9851/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-13,1683993867.0
-我的笔记管理法,Randy's Blog,https://lutaonan.com/blog/how-do-i-take-note/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2023-05-13,1683936000.0
-titleUrl Submission 一个工具Hexo插件,醉里博客,https://202271.xyz/post/10760/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-08,1683561007.0
-搭建醉里起始页和醉里导航,醉里博客,https://202271.xyz/post/41571/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-06,1683388170.0

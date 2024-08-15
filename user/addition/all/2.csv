@@ -1,4 +1,16 @@
 title,author,link,home,rss,date,timestamp
+NX30Pro 刷成 Openwrt-ImmortalWrt 后作为有线中继的配置方法,Nicksxs's Blog,https://nicksxs.me/2024/06/16/NX30Pro-%E5%88%B7%E6%88%90-Openwrt-ImmortalWrt-%E5%90%8E%E4%BD%9C%E4%B8%BA%E6%9C%89%E7%BA%BF%E4%B8%AD%E7%BB%A7%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-16,1718549123.0
+向量数据库学习基础之跳表,Nicksxs's Blog,https://nicksxs.me/2024/06/16/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E4%B9%8B%E8%B7%B3%E8%A1%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-16,1718548237.0
+【抢鲜体验】腾讯云轻量应用服务器IPv6配置&体验测试,Luminous' Home,https://luotianyi.vc/7965.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-06-16,1718510852.0
+深入分析 LSP 协议,Andy Stewart,//manateelazycat.github.io/2024/06/11/lsp-trick/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-06-11,1718064000.0
+吃灰树莓派再就业,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/783/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-06-10,1718053918.0
+Create a Checkbox That Returns Boolean Value for htmx,Bin Wang - My Personal Blog,https://www.binwang.me/2024-06-08-Create-a-Checkbox-That-Returns-Boolean-Value-for-htmx.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-06-08,1717819200.0
+使用 1panel 自动申请和续签通配符证书,瓦解的生活记事,https://hin.cool/posts/sslfor1panel.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-06-04,1717480800.0
+Random Playlists for Self Hosted Videos,Bin Wang - My Personal Blog,https://www.binwang.me/2024-06-03-Random-Video-Playlists-for-Self-Hosted-Videos.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-06-03,1717387200.0
+给局域网中的Ubuntu固定下ip,Nicksxs's Blog,https://nicksxs.me/2024/06/02/%E7%BB%99%E5%B1%80%E5%9F%9F%E7%BD%91%E4%B8%AD%E7%9A%84Ubuntu%E5%9B%BA%E5%AE%9A%E4%B8%8Bip/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-02,1717342338.0
+自建音乐服务 Navidrome,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/782/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-06-01,1717242096.0
+解决 Github Organizations 不显示,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/781/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-05-30,1717107984.0
+2024-05小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/10021/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-05-26,1716758313.0
 豆角蒸面🍜,把酒诗代码，趁乱写年华。,https://102no.com/2024/05/27/dou-jiao-zheng-mian/,https://102no.com/,https://102no.com/atom.xml,2024-05-26,1716739200.0
 Headscale渐入佳境补充篇-自定义中转derper的证书问题,Nicksxs's Blog,https://nicksxs.me/2024/05/26/Headscale%E6%B8%90%E5%85%A5%E4%BD%B3%E5%A2%83%E8%A1%A5%E5%85%85%E7%AF%87-%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%AD%E8%BD%ACderper%E7%9A%84%E8%AF%81%E4%B9%A6%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-05-26,1716737576.0
 Ruffle测试,星空故事·魔法小屋,https://blog.sinzmise.top/posts/57692/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-05-25,1716671559.0
@@ -37,15 +49,3 @@ N 卡待机死机,Andy Stewart,//manateelazycat.github.io/2024/04/28/lock-nvidia
 ChatGPT、Transformer 与注意力机制,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20240421-chatgpt-attention-and-transformer,https://teobler.com,https://teobler.com/rss.xml,2024-04-21,1713677123.0
 如何将域名从Godaddy转移到Cloudflare,Macin,https://macin.org/2024/04/20/transdomain-from-godaddy2cloudflare/,https://macin.org/,https://www.macin.org/atom.xml,2024-04-20,1713618509.0
 Make Flutter Web Apps More Native Like,Bin Wang - My Personal Blog,https://www.binwang.me/2024-04-18-Make-Flutter-Web-App-More-Native-Like.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-04-18,1713412800.0
-四月随记,瓦解的生活记事,https://hin.cool/posts/myapril.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-04-17,1713362400.0
-极限思维害死人,Andy Stewart,//manateelazycat.github.io/2024/04/16/extreme-thinking/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-16,1713225600.0
-Headscale下篇-自定义中转derper,Nicksxs's Blog,https://nicksxs.me/2024/04/14/Headscale%E4%B8%8B%E7%AF%87-%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%AD%E8%BD%ACderper/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-04-14,1713095129.0
-编程中的思路清晰,Andy Stewart,//manateelazycat.github.io/2024/04/14/programming-style/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-14,1713052800.0
-最近都在忙啥,Andy Stewart,//manateelazycat.github.io/2024/04/13/recently/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-13,1712966400.0
-Serv00搭建Artalk,星空故事·魔法小屋,https://blog.sinzmise.top/posts/13624/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-04-12,1712961974.0
-从辣条哥的“论人性”说起,非理勿试,https://www.ntiy.com/2160.html,https://www.ntiy.com,https://www.ntiy.com/feed,2024-04-11,1712835752.0
-早安，吉隆坡,Macin,https://macin.org/2024/04/09/zao-an-ji-long-po/,https://macin.org/,https://www.macin.org/atom.xml,2024-04-09,1712704234.0
-Headscale渐入佳境-路由设置,Nicksxs's Blog,https://nicksxs.me/2024/04/07/Headscale%E6%B8%90%E5%85%A5%E4%BD%B3%E5%A2%83-%E8%B7%AF%E7%94%B1%E8%AE%BE%E7%BD%AE/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-04-07,1712493405.0
-结婚有什么好处？,非理勿试,https://www.ntiy.com/2147.html,https://www.ntiy.com,https://www.ntiy.com/feed,2024-04-07,1712468069.0
-博客装修+3月小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/27762/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-04-06,1712432444.0
-关于大模型你需要知道的,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20240402-what-you-need-to-know-about-llm,https://teobler.com,https://teobler.com/rss.xml,2024-04-02,1712070263.0

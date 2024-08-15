@@ -1,8 +1,8 @@
 title,author,link,home,rss,date,timestamp
 前端的基礎修養：ARIA Live Regions,Just lepture,https://lepture.com/zh/2017/fe-live-regions,https://lepture.com/,https://lepture.com/feed.xml,2017-09-27,1506505200.0
-Haskell: infixl， infixr， infix,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_27-haskell_infix.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-27,1506470400.0
+Haskell: infixl， infixr， infix,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_27-haskell_infix.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-27,1506470400.0
 Haskell简明教程（五）：处理JSON,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_26-learn_you_a_haskell_part_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-26,1506384000.0
-Haskell简明教程（四）：Monoid， Applicative， Monad,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_25-learn_you_a_haskell_part_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-25,1506297600.0
+Haskell简明教程（四）：Monoid， Applicative， Monad,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_25-learn_you_a_haskell_part_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-25,1506297600.0
 3D数学基础-矩阵变换（二）,萤火之森,http://frankorz.com/2017/09/24/matrix-transformation-2/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-09-24,1506273229.0
 週記，九月三週,Just lepture,https://lepture.com/zh/2017/weekly-20170924,https://lepture.com/,https://lepture.com/feed.xml,2017-09-24,1506252839.0
 像夏花一样绚烂,云游君的小站,https://www.yunyoujun.cn/posts/as-summer-flowers,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-09-23,1506202608.0
@@ -12,9 +12,9 @@ HTTPS 的详细流程,Jiajun的技术笔记,https://jiajunhuang.com/articles/201
 OAuth2 为什么需要 Authorization Code?,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_21-oauth2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-21,1505952000.0
 任务队列怎么写？python rq源码阅读与分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_20-task_queue_python_rq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-20,1505865600.0
 XMonad 配置教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_19-xmonad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-19,1505779200.0
-Haskell简明教程（三）：Haskell语法,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_18-learn_you_a_haskell_part_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-18,1505692800.0
+Haskell简明教程（三）：Haskell语法,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_18-learn_you_a_haskell_part_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-18,1505692800.0
 Haskell简明教程（二）：从命令式语言进行抽象,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_17-learn_you_a_haskell_part_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-17,1505606400.0
-Haskell简明教程（一）：从递归说起,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_09_11-learn_you_a_haskell_part_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-11,1505088000.0
+Haskell简明教程（一）：从递归说起,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_11-learn_you_a_haskell_part_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-11,1505088000.0
 煙花八月,Just lepture,https://lepture.com/zh/2017/hanabi,https://lepture.com/,https://lepture.com/feed.xml,2017-09-06,1504700151.0
 【番剧】《月色真美》（老夫的少女心啊）,云游君的小站,https://www.yunyoujun.cn/posts/the-moonlight-is-beautiful,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-09-05,1504638465.0
 2017年必装的VIM插件推荐,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_03-2017_vim_plugins.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-03,1504396800.0

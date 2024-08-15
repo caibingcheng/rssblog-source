@@ -1,4 +1,21 @@
 title,author,link,home,rss,date,timestamp
+前端各种包管理器,Barney's Blog,https://hugo.bnblogs.cc/%E5%89%8D%E7%AB%AF%E5%90%84%E7%A7%8D%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-17,1679031487.0
+【后端】IntelliJ IDEA 快速自动生成 Junit 测试类,框架師,https://www.mobaijun.com/posts/3073865067.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-03-13,1678679366.0
+Centos7配置记录,Barney's Blog,https://hugo.bnblogs.cc/centos7%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-10,1678430897.0
+JsonPath使用(转载),Barney's Blog,https://hugo.bnblogs.cc/jsonpath%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-09,1678356294.0
+SpringBoot使用Spring Security实现JwtToken验证,Barney's Blog,https://hugo.bnblogs.cc/springboot%E4%BD%BF%E7%94%A8jwttoken%E9%AA%8C%E8%AF%81/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-08,1678265212.0
+MyBatis-Plus使用记录,Barney's Blog,https://hugo.bnblogs.cc/mybatis-plus%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-05,1678032606.0
+SpringBoot集成SpringDoc和Knife4j,Barney's Blog,https://hugo.bnblogs.cc/knife4j-openapi3/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-05,1678017396.0
+SpringBoot问题记录,Barney's Blog,https://hugo.bnblogs.cc/springboot%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-05,1677997892.0
+爬山,醉里博客,https://202271.xyz/post/19315/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-03-04,1677946398.0
+Spring Boot集成Swagger2,Barney's Blog,https://hugo.bnblogs.cc/swagger%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-04,1677936488.0
+【随笔】关于 GitHub Actions Error: Process completed with exit code 128. 的解决方案,框架師,https://www.mobaijun.com/posts/1959112193.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-03-04,1677896639.0
+Spring常用注解,Barney's Blog,https://hugo.bnblogs.cc/spring%E5%B8%B8%E7%94%A8%E6%B3%A8%E8%A7%A3/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-02,1677761684.0
+SpringBoot整合MyBatis-Plus操作MySQL数据,Barney's Blog,https://hugo.bnblogs.cc/spring%E4%B8%AD%E4%BD%BF%E7%94%A8mysql/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-01,1677677530.0
+Redis基础,Barney's Blog,https://hugo.bnblogs.cc/redis%E5%9F%BA%E7%A1%80%E7%AF%87/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-28,1677590153.0
+醉里自建免费公益图床,醉里博客,https://202271.xyz/post/29287/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-02-27,1677542087.0
+yaml语法,Barney's Blog,https://hugo.bnblogs.cc/yaml%E8%AF%AD%E6%B3%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-24,1677245930.0
+Github Actions配置,Barney's Blog,https://hugo.bnblogs.cc/github-action%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-24,1677241663.0
 Dockerfile学习总结,Barney's Blog,https://hugo.bnblogs.cc/dockerfile%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-23,1677141235.0
 更换主题acrylic,醉里博客,https://202271.xyz/post/3608/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-02-22,1677024813.0
 Evolution Host免费服务器,醉里博客,https://202271.xyz/post/4034/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-02-07,1675785164.0
@@ -6,8 +23,8 @@ ChatGPT 类似产品🤖,把酒诗代码，趁乱写年华。,https://102no.com/
 Nginx学习笔记,Barney's Blog,https://hugo.bnblogs.cc/nginx%E9%85%8D%E7%BD%AE%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-04,1675489878.0
 为什么要把复杂的联表操作拆成多个单表查询？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_02_03-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-02-03,1675382400.0
 在深圳过年🧧,把酒诗代码，趁乱写年华。,https://102no.com/2023/02/01/happy-new-year-2023-shenzhen/,https://102no.com/,https://102no.com/atom.xml,2023-01-31,1675180800.0
-2022 年度总结,4Ark,https://4ark.me/posts/2023-01-31-2022-summary/,https://4ark.me/,https://4ark.me/rss.xml,2023-01-31,1675123200.0
 红包系统的设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_01_31-red_envelope.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-01-31,1675123200.0
+2022 年度总结,4Ark,https://4ark.me/posts/2023-01-31-2022-summary/,https://4ark.me/,https://4ark.me/rss.xml,2023-01-31,1675123200.0
 家·烟花·红包封面,云游君的小站,https://www.yunyoujun.cn/posts/home-firework-red-bag,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2023-01-22,1674427906.0
 注册最便宜的xyz域名，低成本搭建一个博客,醉里博客,https://202271.xyz/post/5172/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-01-22,1674414883.0
 Hexo-fluid主题添加51LA统计,醉里博客,https://202271.xyz/post/28857/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-01-21,1674334338.0
@@ -32,20 +49,3 @@ Disroot,Muidar's Site,https://muidar.com/cmuidar/2023/01/disroot/,https://muidar
 个人建站的经历——域名篇,岚天小窝,https://blog.ltya.top/posts/personalexp-domain.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-01-10,1673366400.0
 WordPress 文件及权限,杜老师说,https://dusays.com/544/,https://dusays.com/,https://dusays.com/atom.xml,2023-01-10,1673366400.0
 途径 5 驿站,Another Dayu,https://anotherdayu.com/2023/4449/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-01-10,1673345914.0
-彭州：五教俱全，堪称成都的光明顶,Macin,https://macin.org/2023/01/09/peng-zhou-miao-yu/,https://macin.org/,https://www.macin.org/atom.xml,2023-01-09,1673292570.0
-NeoDB | 书影音标记 – 豆瓣、GoodReads 和 Google Book 的替代品,Another Dayu,https://anotherdayu.com/2023/4434/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-01-09,1673278640.0
-BOOX 文石电纸书 | Calibre 管理和一些实用小技巧,Another Dayu,https://anotherdayu.com/2023/4418/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-01-09,1673272003.0
-2023年初柳州之行,辛未羊的网络日志,https://panqiincs.me/2023/01/09/renyin-liuzhou-trip/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-01-09,1673270672.0
-2022 年终总结,Randy's Blog,https://lutaonan.com/blog/2022-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2023-01-09,1673222400.0
-BOOX 文石电纸书 | 安卓软件推荐,Another Dayu,https://anotherdayu.com/2023/4400/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-01-08,1673181838.0
-mybatis系列-dataSource解析,Nicksxs's Blog,https://nicksxs.me/2023/01/08/mybatis%E7%B3%BB%E5%88%97-dataSource%E8%A7%A3%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-01-08,1673181314.0
-使用duck.com发送邮箱,Muidar's Site,https://muidar.com/cmuidar/2023/01/send-emails-with-duck-com/,https://muidar.com,https://muidar.com/feed,2023-01-08,1673156652.0
-glibc-read/write源码阅读,Bing's Blog,https://imcbc.cn/202301/glibc-read-write/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2023-01-08,1673142009.0
-推荐下渺软公益 CDN,杜老师说,https://dusays.com/543/,https://dusays.com/,https://dusays.com/atom.xml,2023-01-07,1673107200.0
-我的云账单:2023年,罗磊的独立博客,https://luolei.org/how-much-i-spend-on-cloud-monthly-2023/,https://luolei.org/,https://luolei.org/feed/,2023-01-07,1673088031.0
-BOOX 文石电纸书 | 启用 Google Play 套件,Another Dayu,https://anotherdayu.com/2023/4396/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-01-07,1673084548.0
-MS Azure创建永久密钥,Muidar's Site,https://muidar.com/cmuidar/2023/01/secret-text-on-azure-no-time-limited/,https://muidar.com,https://muidar.com/feed,2023-01-07,1673081544.0
-Volantis魔改教程,DearXuan的主页,https://blog.dearxuan.com/2023/01/07/Volantis%E9%AD%94%E6%94%B9%E6%95%99%E7%A8%8B/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2023-01-07,1673079479.0
-BOOX 文石电纸书 | 设置 Kindle、Readwise Reader 和免费外文书城,Another Dayu,https://anotherdayu.com/2023/4381/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-01-06,1673007502.0
-【CloudFlare】API管理Plesk版Spectrum SSH转发,Luminous' Home,https://luotianyi.vc/6741.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-01-06,1673004301.0
-BOOX 文石电纸书 | 更改字体（霞鹜文楷）,Another Dayu,https://anotherdayu.com/2023/4374/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-01-06,1673001553.0

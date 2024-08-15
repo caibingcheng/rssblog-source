@@ -1,4 +1,21 @@
 title,author,link,home,rss,date,timestamp
+OpenAI上架官方Chat GPT应用,醉里博客,https://202271.xyz/post/64302/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-20,1684598941.0
+母亲节,醉里博客,https://202271.xyz/post/9851/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-13,1683993867.0
+我的笔记管理法,Randy's Blog,https://lutaonan.com/blog/how-do-i-take-note/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2023-05-13,1683936000.0
+Apollo问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/apollo-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2023-05-09,1683624560.0
+SpringCloud补充,Barney's Blog,https://hugo.bnblogs.cc/springcloud%E8%A1%A5%E5%85%85/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-09,1683622845.0
+titleUrl Submission 一个工具Hexo插件,醉里博客,https://202271.xyz/post/10760/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-08,1683561007.0
+搭建醉里起始页和醉里导航,醉里博客,https://202271.xyz/post/41571/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-06,1683388170.0
+SpringCloud笔记,Barney's Blog,https://hugo.bnblogs.cc/springcloud%E7%AC%94%E8%AE%B0/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-05,1683291733.0
+NixOS 与 Nix Flakes 新手入门,This Cute World,https://thiscute.world/posts/nixos-and-flake-basics/,https://thiscute.world/,https://thiscute.world/index.xml,2023-05-04,1683184768.0
+曲登尼玛冰川,无妄当自持,https://www.insidentally.com/articles/000033/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2023-05-02,1683042348.0
+【随笔】RK987A 键盘说明书（自用）,框架師,https://www.mobaijun.com/posts/3130768971.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-04-24,1682323035.0
+Hexo与Hugo的对比,醉里博客,https://202271.xyz/post/38886/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-22,1682207437.0
+博客圈APP测试,醉里博客,https://202271.xyz/post/5659/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-20,1682032817.0
+使用netlify搭建hexo博客并使用Fluid主题,醉里博客,https://202271.xyz/post/24705/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947830.0
+netlify和vercel的使用对比,醉里博客,https://202271.xyz/post/53541/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947484.0
+无需信用卡申请免费cdn且中国境内访问速度快,醉里博客,https://202271.xyz/post/27834/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947334.0
+提交网站到百度和谷歌收录,醉里博客,https://202271.xyz/post/26263/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947114.0
 灭蟑螂🪳,把酒诗代码，趁乱写年华。,https://102no.com/2023/04/20/kill-roach/,https://102no.com/,https://102no.com/atom.xml,2023-04-19,1681920000.0
 解决QQ里面直接打开所有链接，不跳转,醉里博客,https://202271.xyz/post/10211/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681864927.0
 Django操作异步任务,cywhat's blog,https://cywhat.cn/Django%E6%93%8D%E4%BD%9C%E5%BC%82%E6%AD%A5%E4%BB%BB%E5%8A%A1/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-04-18,1681800169.0
@@ -32,20 +49,3 @@ Spring组件注册(转载),Barney's Blog,https://hugo.bnblogs.cc/spring%E7%BB%84
 SpringBoot发送邮件,Barney's Blog,https://hugo.bnblogs.cc/springboot%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-19,1679233316.0
 Jackson的使用(转载),Barney's Blog,https://hugo.bnblogs.cc/jackson%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-19,1679205262.0
 SpringBoot整合mybatis,Barney's Blog,https://hugo.bnblogs.cc/springboot%E6%95%B4%E5%90%88mybatis/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-17,1679063863.0
-前端各种包管理器,Barney's Blog,https://hugo.bnblogs.cc/%E5%89%8D%E7%AB%AF%E5%90%84%E7%A7%8D%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-17,1679031487.0
-【后端】IntelliJ IDEA 快速自动生成 Junit 测试类,框架師,https://www.mobaijun.com/posts/3073865067.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-03-13,1678679366.0
-Centos7配置记录,Barney's Blog,https://hugo.bnblogs.cc/centos7%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-10,1678430897.0
-JsonPath使用(转载),Barney's Blog,https://hugo.bnblogs.cc/jsonpath%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-09,1678356294.0
-SpringBoot使用Spring Security实现JwtToken验证,Barney's Blog,https://hugo.bnblogs.cc/springboot%E4%BD%BF%E7%94%A8jwttoken%E9%AA%8C%E8%AF%81/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-08,1678265212.0
-MyBatis-Plus使用记录,Barney's Blog,https://hugo.bnblogs.cc/mybatis-plus%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-05,1678032606.0
-SpringBoot集成SpringDoc和Knife4j,Barney's Blog,https://hugo.bnblogs.cc/knife4j-openapi3/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-05,1678017396.0
-SpringBoot问题记录,Barney's Blog,https://hugo.bnblogs.cc/springboot%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-05,1677997892.0
-爬山,醉里博客,https://202271.xyz/post/19315/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-03-04,1677946398.0
-Spring Boot集成Swagger2,Barney's Blog,https://hugo.bnblogs.cc/swagger%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-04,1677936488.0
-【随笔】关于 GitHub Actions Error: Process completed with exit code 128. 的解决方案,框架師,https://www.mobaijun.com/posts/1959112193.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-03-04,1677896639.0
-Spring常用注解,Barney's Blog,https://hugo.bnblogs.cc/spring%E5%B8%B8%E7%94%A8%E6%B3%A8%E8%A7%A3/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-02,1677761684.0
-SpringBoot整合MyBatis-Plus操作MySQL数据,Barney's Blog,https://hugo.bnblogs.cc/spring%E4%B8%AD%E4%BD%BF%E7%94%A8mysql/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-01,1677677530.0
-Redis基础,Barney's Blog,https://hugo.bnblogs.cc/redis%E5%9F%BA%E7%A1%80%E7%AF%87/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-28,1677590153.0
-醉里自建免费公益图床,醉里博客,https://202271.xyz/post/29287/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-02-27,1677542087.0
-yaml语法,Barney's Blog,https://hugo.bnblogs.cc/yaml%E8%AF%AD%E6%B3%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-24,1677245930.0
-Github Actions配置,Barney's Blog,https://hugo.bnblogs.cc/github-action%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-24,1677241663.0

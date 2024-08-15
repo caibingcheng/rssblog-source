@@ -1,4 +1,21 @@
 title,author,link,home,rss,date,timestamp
+温州：湿漉漉和糯叽叽,Macin,https://macin.org/2023/12/18/wen-zhou/,https://macin.org/,https://www.macin.org/atom.xml,2023-12-18,1702941783.0
+“博客教”形式宗与质料宗的相爱相杀特别报道,非理勿试,https://www.ntiy.com/2043.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-12-17,1702824003.0
+VueJS 总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_12_17-vue3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-12-17,1702771200.0
+Fedora Docker 自动关闭的问题,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/772/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-12-15,1702683537.0
+ZFS Profiling on Arch Linux,Bin Wang - My Personal Blog,https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-12-14,1702530000.0
+离散状态观测器设计与仿真,辛未羊的网络日志,https://panqiincs.me/2023/12/07/discrete-observer-design/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-12-07,1701926022.0
+【随笔】自动化油价推送：GitHub Actions 实战,框架師,https://www.mobaijun.com/posts/2512902170.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-12-05,1701747045.0
+Linux 自动挂载 alist 提供的webdav,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_29-alist_webdav.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-29,1701216000.0
+Introduce K3s， CephFS and MetalLB to My High Avaliable Cluster,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-28-Introduce-K3s-CephFS-and-MetalLB-to-My-High-Avaliable-Cluster.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-28,1701147600.0
+Nodejs 对接 TSCLIB,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/771/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-11-27,1701117226.0
+倒立摆的状态观测器设计与仿真,辛未羊的网络日志,https://panqiincs.me/2023/11/26/pendulum-state-observer/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-11-26,1700998429.0
+Linux生成自定义名称的ssh证书,cywhat's blog,https://cywhat.cn/Linux%E7%94%9F%E6%88%90%E8%87%AA%E5%AE%9A%E4%B9%89%E5%90%8D%E7%A7%B0%E7%9A%84ssh%E8%AF%81%E4%B9%A6/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-11-22,1700634496.0
+【杂谈】记一次Agilent 7900 ICP-MS电源维修小记,Luminous' Home,https://luotianyi.vc/7723.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-11-19,1700395249.0
+11月小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/42580/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-11-17,1700257804.0
+FreeBSD 使用 vm-bhyve 安装Debian虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_17-freebsd_vm_bhyve.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-17,1700179200.0
+FreeBSD 和 Linux 网卡聚合实现提速,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_16-freebsd_linux_link_aggr.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-16,1700092800.0
+GPT 帮我搞定了时区转换问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_15-python_datetime_with_timezone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-15,1700006400.0
 Update on RSS Brain to Find Related Articles with Machine Learning,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-14-Update-On-RSS-Brain-to-Find-Related-Articles-with-Machine-Learning.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-14,1699938000.0
 长任务系统如何处理？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_12-long_running_task.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-12,1699747200.0
 macOS/Linux 编译 InputLeap,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_11-input_leap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-11,1699660800.0
@@ -32,20 +49,3 @@ Migrate Scala2grpc to Cats Effect 3,Bin Wang - My Personal Blog,https://www.binw
 盐——回忆之5,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/mem-5.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2023-09-05,1693929510.0
 FM广播、站起来及汶川地震——回忆之1～4,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/mem-1-to-4.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2023-09-05,1693929420.0
 如果你觉得不开心的话，就来听一下这些纯音乐吧,星空故事·魔法小屋,https://blog.sinzmise.top/posts/54386/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-09-01,1693603381.0
-用ode45做控制系统仿真,辛未羊的网络日志,https://panqiincs.me/2023/09/01/pendulum-simulation/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-09-01,1693547457.0
-Build a Linux Virtual Machine for Windows Apps,Bin Wang - My Personal Blog,https://www.binwang.me/2023-09-01-Build-a-Linux-Virtual-Machine-for-Windows-Apps.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-09-01,1693540800.0
-2023年夏云南自驾游,辛未羊的网络日志,https://panqiincs.me/2023/08/31/guimao-yunnan-trip/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-31,1693479667.0
-参与一下 unocss 开发,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/769/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-08-29,1693340769.0
-【后端】如何使 Chrome Driver 和 Chrome 浏览器保持版本一致,框架師,https://www.mobaijun.com/posts/2959232490.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-08-29,1693308333.0
-Compare Task Processing Approaches in Scala,Bin Wang - My Personal Blog,https://www.binwang.me/2023-08-27-Compare-Task-Processing-Approaches-in-Scala.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-08-27,1693108800.0
-遭殃前的海洋,星空故事·魔法小屋,https://blog.sinzmise.top/posts/29196/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-08-26,1693071732.0
-国行 Redmi Note 9 Pro 刷 Magisk Delta (root) 教程,岚天小窝,https://blog.ltya.top/posts/Redmi-Note-9-Pro-root.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-08-22,1692720000.0
-個人域名郵箱免費方案,Just lepture,https://lepture.com/zh/2023/free-email-provider,https://lepture.com/,https://lepture.com/feed.xml,2023-08-20,1692516607.0
-两岸猿声啼不住，轻舟已过万重山——我的四分之一人生,This Cute World,https://thiscute.world/posts/a-quarter-of-the-way-through-life/,https://thiscute.world/,https://thiscute.world/index.xml,2023-08-19,1692439245.0
-线性代数：内积空间,辛未羊的网络日志,https://panqiincs.me/2023/08/18/la-inner-product-space/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-18,1692342072.0
-线性代数：二次型与正定性,辛未羊的网络日志,https://panqiincs.me/2023/08/17/la-quadratic-form/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-17,1692238033.0
-线性代数：相似标准型,辛未羊的网络日志,https://panqiincs.me/2023/08/16/la-canonical-form/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-16,1692175919.0
-线性代数：特征值,辛未羊的网络日志,https://panqiincs.me/2023/08/15/la-eigenvalue/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-15,1692091956.0
-弃用netlify，改用vercel托管博客,醉里博客,https://202271.xyz/post/55484/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-08-13,1691891834.0
-我的两个手机号,辛未羊的网络日志,https://panqiincs.me/2023/08/12/phone-numbers/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-12,1691831784.0
-线性代数：线性空间与线性映射,辛未羊的网络日志,https://panqiincs.me/2023/08/09/la-linear-space-map/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-09,1691577305.0

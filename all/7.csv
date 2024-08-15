@@ -1,4 +1,21 @@
 title,author,link,home,rss,date,timestamp
+用ode45做控制系统仿真,辛未羊的网络日志,https://panqiincs.me/2023/09/01/pendulum-simulation/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-09-01,1693547457.0
+Build a Linux Virtual Machine for Windows Apps,Bin Wang - My Personal Blog,https://www.binwang.me/2023-09-01-Build-a-Linux-Virtual-Machine-for-Windows-Apps.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-09-01,1693540800.0
+2023年夏云南自驾游,辛未羊的网络日志,https://panqiincs.me/2023/08/31/guimao-yunnan-trip/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-31,1693479667.0
+参与一下 unocss 开发,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/769/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-08-29,1693340769.0
+【后端】如何使 Chrome Driver 和 Chrome 浏览器保持版本一致,框架師,https://www.mobaijun.com/posts/2959232490.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-08-29,1693308333.0
+Compare Task Processing Approaches in Scala,Bin Wang - My Personal Blog,https://www.binwang.me/2023-08-27-Compare-Task-Processing-Approaches-in-Scala.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-08-27,1693108800.0
+遭殃前的海洋,星空故事·魔法小屋,https://blog.sinzmise.top/posts/29196/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-08-26,1693071732.0
+国行 Redmi Note 9 Pro 刷 Magisk Delta (root) 教程,岚天小窝,https://blog.ltya.top/posts/Redmi-Note-9-Pro-root.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-08-22,1692720000.0
+個人域名郵箱免費方案,Just lepture,https://lepture.com/zh/2023/free-email-provider,https://lepture.com/,https://lepture.com/feed.xml,2023-08-20,1692516607.0
+两岸猿声啼不住，轻舟已过万重山——我的四分之一人生,This Cute World,https://thiscute.world/posts/a-quarter-of-the-way-through-life/,https://thiscute.world/,https://thiscute.world/index.xml,2023-08-19,1692439245.0
+线性代数：内积空间,辛未羊的网络日志,https://panqiincs.me/2023/08/18/la-inner-product-space/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-18,1692342072.0
+线性代数：二次型与正定性,辛未羊的网络日志,https://panqiincs.me/2023/08/17/la-quadratic-form/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-17,1692238033.0
+线性代数：相似标准型,辛未羊的网络日志,https://panqiincs.me/2023/08/16/la-canonical-form/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-16,1692175919.0
+线性代数：特征值,辛未羊的网络日志,https://panqiincs.me/2023/08/15/la-eigenvalue/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-15,1692091956.0
+弃用netlify，改用vercel托管博客,醉里博客,https://202271.xyz/post/55484/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-08-13,1691891834.0
+我的两个手机号,辛未羊的网络日志,https://panqiincs.me/2023/08/12/phone-numbers/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-12,1691831784.0
+线性代数：线性空间与线性映射,辛未羊的网络日志,https://panqiincs.me/2023/08/09/la-linear-space-map/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-09,1691577305.0
 这个全平台远程桌面软件我必须安利！,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/768/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-08-08,1691535510.0
 线性代数：行列式和矩阵,辛未羊的网络日志,https://panqiincs.me/2023/08/08/la-determinant-matrix/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-08-07,1691432561.0
 游玩mud游戏,星空故事·魔法小屋,https://blog.sinzmise.top/posts/38917/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-08-06,1691337096.0
@@ -32,20 +49,3 @@ Jenkins+Gitee持续集成,Barney's Blog,https://hugo.bnblogs.cc/jenkins-gitee%E6
 Ubuntu搭建redis集群,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E6%90%AD%E5%BB%BAredis%E9%9B%86%E7%BE%A4/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684827988.0
 MacOS 窗口管理器 yabai 玩耍笔记,This Cute World,https://thiscute.world/posts/macos-window-manager-yabai-usage/,https://thiscute.world/,https://thiscute.world/index.xml,2023-05-22,1684729497.0
 Upgrade Kubernetes from 1.23 to 1.24,Bin Wang - My Personal Blog,https://www.binwang.me/2023-05-22-Upgrade-Kubernetes-from-1.23-to-1.24.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-05-22,1684728000.0
-OpenAI上架官方Chat GPT应用,醉里博客,https://202271.xyz/post/64302/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-20,1684598941.0
-母亲节,醉里博客,https://202271.xyz/post/9851/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-13,1683993867.0
-我的笔记管理法,Randy's Blog,https://lutaonan.com/blog/how-do-i-take-note/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2023-05-13,1683936000.0
-Apollo问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/apollo-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2023-05-09,1683624560.0
-SpringCloud补充,Barney's Blog,https://hugo.bnblogs.cc/springcloud%E8%A1%A5%E5%85%85/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-09,1683622845.0
-titleUrl Submission 一个工具Hexo插件,醉里博客,https://202271.xyz/post/10760/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-08,1683561007.0
-搭建醉里起始页和醉里导航,醉里博客,https://202271.xyz/post/41571/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-06,1683388170.0
-SpringCloud笔记,Barney's Blog,https://hugo.bnblogs.cc/springcloud%E7%AC%94%E8%AE%B0/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-05,1683291733.0
-NixOS 与 Nix Flakes 新手入门,This Cute World,https://thiscute.world/posts/nixos-and-flake-basics/,https://thiscute.world/,https://thiscute.world/index.xml,2023-05-04,1683184768.0
-曲登尼玛冰川,无妄当自持,https://www.insidentally.com/articles/000033/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2023-05-02,1683042348.0
-【随笔】RK987A 键盘说明书（自用）,框架師,https://www.mobaijun.com/posts/3130768971.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-04-24,1682323035.0
-Hexo与Hugo的对比,醉里博客,https://202271.xyz/post/38886/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-22,1682207437.0
-博客圈APP测试,醉里博客,https://202271.xyz/post/5659/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-20,1682032817.0
-使用netlify搭建hexo博客并使用Fluid主题,醉里博客,https://202271.xyz/post/24705/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947830.0
-netlify和vercel的使用对比,醉里博客,https://202271.xyz/post/53541/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947484.0
-无需信用卡申请免费cdn且中国境内访问速度快,醉里博客,https://202271.xyz/post/27834/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947334.0
-提交网站到百度和谷歌收录,醉里博客,https://202271.xyz/post/26263/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947114.0

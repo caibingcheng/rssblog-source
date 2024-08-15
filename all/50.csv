@@ -1,7 +1,24 @@
 title,author,link,home,rss,date,timestamp
+我学五笔的经历,Randy's Blog,https://lutaonan.com/blog/my-wubi-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-14,1457913600.0
+Tornado 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_03_14-tornado.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-14,1457913600.0
+JavaScript权威指南笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_03_06-notes_on_js_the_definitive_guide.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-06,1457222400.0
+Python零碎知识汇总,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_03_05-python_fragmentary_knowledge.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-05,1457136000.0
+Jade 模板引擎,Yuexun's Blog,https://yuexunjiang.me/blog/jade-template-engine/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-02-29,1456704000.0
+Python 多线程初步了解,Yuexun's Blog,https://yuexunjiang.me/blog/python-multithreaded-preliminary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-02-20,1455926400.0
+列車上的女子,Just lepture,https://lepture.com/zh/2016/girl-on-the-train,https://lepture.com/,https://lepture.com/feed.xml,2016-02-06,1454776200.0
+C语言的位操作,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_02_06-bitwise_operation.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-02-06,1454716800.0
+分治,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_01_25-divide_and_conqure.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-01-25,1453680000.0
+日記、新年お願いします,Just lepture,https://lepture.com/zh/2016/new-year-koshigaya,https://lepture.com/,https://lepture.com/feed.xml,2016-01-16,1452942900.0
+2015 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2015-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-31,1451520000.0
+日記、初めまして,Just lepture,https://lepture.com/zh/2015/first-day-koshigaya,https://lepture.com/,https://lepture.com/feed.xml,2015-12-30,1451475000.0
+杭州記憶,Just lepture,https://lepture.com/zh/2015/beloved-hangzhou,https://lepture.com/,https://lepture.com/feed.xml,2015-12-24,1450953000.0
+[译] 在 PHP 中如何预防 SQL 注入,Yuexun's Blog,https://yuexunjiang.me/blog/how-can-i-prevent-sql-injection-in-php/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-21,1450656000.0
+PHP cURL 库的简单使用,Yuexun's Blog,https://yuexunjiang.me/blog/simple-use-of-the-php-curl-library/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-12-19,1450483200.0
+关于python的decorator和descriptor,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_12_05-python_descriptor_and_decorator.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-12-05,1449273600.0
+知乎用户动态监控爬虫,Yuexun's Blog,https://yuexunjiang.me/blog/the-crawler-of-zhihu-user-dynamic-monitoring/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-11-25,1448409600.0
 月神,Just lepture,https://lepture.com/zh/2015/wish-to-be-found,https://lepture.com/,https://lepture.com/feed.xml,2015-11-23,1448319600.0
 phpmyadmin 缺少 mcrypt 扩展,Yuexun's Blog,https://yuexunjiang.me/blog/phpmyadmin-lack-mcrypt-extension/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-11-22,1448150400.0
-程序设计实践笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2015_10_09-notes_on_the_practice_of_programming.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-10-09,1444348800.0
+程序设计实践笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_10_09-notes_on_the_practice_of_programming.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-10-09,1444348800.0
 談藥,Just lepture,https://lepture.com/zh/2015/about-yao,https://lepture.com/,https://lepture.com/feed.xml,2015-09-10,1441843200.0
 Thinking Recursively,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_09_05-thinking_recursively.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-09-05,1441411200.0
 sudoers is world writable,Yuexun's Blog,https://yuexunjiang.me/blog/sudoers-is-world-writable/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-08-30,1440892800.0
@@ -22,7 +39,7 @@ C语言与抽象思维,Jiajun的编程随想,https://jiajunhuang.com/articles/20
 看不懂的文字,Just lepture,https://lepture.com/zh/2014/love-of-nonsense,https://lepture.com/,https://lepture.com/feed.xml,2014-11-10,1415642400.0
 C注意事项,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_11_04-traps_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-11-04,1415059200.0
 不被重視的 HTML：Accessibility,Just lepture,https://lepture.com/zh/2014/talk-on-accessibility-jsdc2014,https://lepture.com/,https://lepture.com/feed.xml,2014-10-12,1413110400.0
-C语言中点操作符(.)和箭头操作符(->)的不同之处,Jiajun的编程随想,https://jiajunhuang.com/articles/2014_09_09-dot_and_arrow_in_c_pointers.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-09,1410220800.0
+C语言中点操作符(.)和箭头操作符(->)的不同之处,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_09_09-dot_and_arrow_in_c_pointers.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-09,1410220800.0
 征服C指针笔记 - 数组和指针的微妙关系,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_09_07-pointer_and_array_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-07,1410048000.0
 关于文件权限的摘记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_08_22-unix_file_permissions.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-08-22,1408665600.0
 Python on A Hard Wheel,Just lepture,https://lepture.com/en/2014/python-on-a-hard-wheel,https://lepture.com/,https://lepture.com/feed.xml,2014-08-19,1408464000.0
