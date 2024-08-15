@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+談談 Markdown 編輯器,Just lepture,https://lepture.com/zh/2017/about-markdown-editor,https://lepture.com/,https://lepture.com/feed.xml,2017-04-05,1491405422.0
 閱乎，再見,Just lepture,https://lepture.com/zh/2017/close-yuehu,https://lepture.com/,https://lepture.com/feed.xml,2017-04-05,1491366370.0
 Raft 论文阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_29-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-29,1490745600.0
 开始使用 Neovim,Ahonn's Blog,https://www.ahonn.me/blog/use-neovim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-03-27,1490613006.0
@@ -6,21 +7,21 @@ Raft 论文阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 开始使用 Neovim,Yuexun's Blog,https://yuexunjiang.me/blog/use-neovim/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-03-27,1490572800.0
 阿里巴巴暑假实习面试总结,Yuexun's Blog,https://yuexunjiang.me/blog/alibaba-summer-internship-interview-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-03-16,1489622400.0
 做技术要自信,Randy's Blog,https://lutaonan.com/blog/do-have-faith-with-yourself/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-03-14,1489449600.0
-什么是 Golang Comparable Types,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_06-golang_comparable_types.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-06,1488758400.0
 Filco 圣手二代蓝牙版:开箱体验,罗磊的独立博客,https://luolei.org/filco-keyboard-unboxing,https://luolei.org,https://luolei.org/feed/,2017-03-06,1488758400.0
-MapReduce 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_02-map_reduce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
-一起来做贼：Goroutine原理和Work stealing,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
+什么是 Golang Comparable Types,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_06-golang_comparable_types.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-06,1488758400.0
+GFS 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_02-gfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 过去10年，我用过的13部手机,罗磊的独立博客,https://luolei.org/mobile-phone-i-used-in-the-past-10-years,https://luolei.org,https://luolei.org/feed/,2017-02-24,1487894400.0
-Vim 折腾记,Ahonn's Blog,https://www.ahonn.me/blog/notes-of-vim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
+一起来做贼：Goroutine原理和Work stealing,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
 Vim 折腾记,Yuexun's Blog,https://yuexunjiang.me/blog/notes-of-vim,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
-电脑键盘上的流行钢琴伴奏,Randy's Blog,https://lutaonan.com/blog/piano-on-computer-keyboard/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-02-19,1487462400.0
+Vim 折腾记,Ahonn's Blog,https://www.ahonn.me/blog/notes-of-vim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
 Vim 折腾记,Yuexun's Blog,https://yuexunjiang.me/blog/notes-of-vim/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-02-19,1487462400.0
+电脑键盘上的流行钢琴伴奏,Randy's Blog,https://lutaonan.com/blog/piano-on-computer-keyboard/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-02-19,1487462400.0
 Go语言的defer， panic和recover,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_15-go_defer_panic_and_recover.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-15,1487116800.0
 年終卷 | 2016年我读了哪些书？,罗磊的独立博客,https://luolei.org/what-i-read-in-2016,https://luolei.org,https://luolei.org/feed/,2017-02-15,1487116800.0
 仓鼠,云游君的小站,https://www.yunyoujun.cn/posts/hamster,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-11,1486854610.0
 回声,云游君的小站,https://www.yunyoujun.cn/posts/echo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-04,1486224551.0
 Hexo 静态博客搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/hexo-build-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-02,1486039232.0
-再读 Python Language Reference,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_24-python_language_reference.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
+再读vim help：vim小技巧,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_24-vim_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
 JavaScript 继承的那些事,Yuexun's Blog,https://yuexunjiang.me/blog/something-about-javaScript-inherit/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-01-24,1485216000.0
 【分享】网页背景效果插件 Canvas-Nest.js,云游君的小站,https://www.yunyoujun.cn/posts/html5-canvas-nest-js,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-01-23,1485205488.0
 关于部落冲突的二三事儿-1,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-1,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-01-22,1485104132.0
@@ -39,13 +40,12 @@ APUEv3 - 重读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/201
 Mock源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_22-mock_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-22,1482364800.0
 马拉松 | 2016深圳国际马拉松,罗磊的独立博客,https://luolei.org/shenzhen-marathon-2016,https://luolei.org,https://luolei.org/feed/,2016-12-21,1482278400.0
 Thinking in Python,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_16-thinking_in_python.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-16,1481846400.0
-从零开始制作 Hexo 主题,Yuexun's Blog,https://yuexunjiang.me/blog/create-a-hexo-theme-from-scratch,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-12-15,1481823827.0
 从零开始制作 Hexo 主题,Ahonn's Blog,https://www.ahonn.me/blog/create-a-hexo-theme-from-scratch,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-12-15,1481823827.0
+从零开始制作 Hexo 主题,Yuexun's Blog,https://yuexunjiang.me/blog/create-a-hexo-theme-from-scratch,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-12-15,1481823827.0
 从零开始制作 Hexo 主题,Yuexun's Blog,https://yuexunjiang.me/blog/create-a-hexo-theme-from-scratch/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-12-15,1481760000.0
 我的代码进CPython标准库啦,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_15-my_code_in_python_stdlib.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-15,1481760000.0
 2016 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2016-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-12-13,1481587200.0
 泰国 | 曼谷军事基地 | 体验军用枪械实弹射击,罗磊的独立博客,https://luolei.org/bangkok-shooting,https://luolei.org,https://luolei.org/feed/,2016-12-11,1481414400.0
 Python零碎小知识,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_09-python_fragments.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-09,1481241600.0
 杭州 | 小众旅行:长乐林场,罗磊的独立博客,https://luolei.org/travel-hangzhou-changle,https://luolei.org,https://luolei.org/feed/,2016-12-09,1481241600.0
-工作一年的总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_07-work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-07,1481068800.0
-MongoDB 的一些坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_06-mongodb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-06,1480982400.0
+Python和单元测试,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_07-python_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-07,1481068800.0
