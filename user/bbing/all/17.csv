@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Jackson问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/jackson-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-04,1641311142.0
 Jackson问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/jackson-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-01-04,1641311142.0
 2021 年年终总结,This Cute World,https://thiscute.world/posts/2021-summary/,https://thiscute.world/,https://thiscute.world/index.xml,2022-01-03,1641192600.0
 PicGo插件：上传图片到多吉云存储,LonelyGod,https://hin.cool/posts/picgoplugin.html,https://hin.cool/,https://hin.cool/atom.xml,2022-01-02,1641081600.0
@@ -11,8 +12,8 @@ Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/javaweb-se
 C#(.Net) 将非托管dll嵌入exe中,DearXuan的主页,https://blog.dearxuan.com/2021/12/26/C-Net-%E5%B0%86%E9%9D%9E%E6%89%98%E7%AE%A1dll%E5%B5%8C%E5%85%A5exe%E4%B8%AD/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-12-26,1640511060.0
 C#(.Net) 将非托管dll嵌入exe中,DearXuan的主页,https://dearxuan.top/2021/12/26/C-Net-%E5%B0%86%E9%9D%9E%E6%89%98%E7%AE%A1dll%E5%B5%8C%E5%85%A5exe%E4%B8%AD/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-12-26,1640511060.0
 记观Pentatonic十周年巡演重庆站,LonelyGod,https://hin.cool/posts/byebyepostrock.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-25,1640390400.0
-Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky233.top/posts/windows-netstat/,https://lewky233.top/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
 Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky.cn/posts/windows-netstat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
+Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky233.top/posts/windows-netstat/,https://lewky233.top/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
 黄桷垭老街与黄葛古道,无妄当自持,https://www.insidentally.com/articles/000023/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-12-24,1640310348.0
 Linux卸载python,cywhat's blog,https://cywhat.cn/Linux%E5%8D%B8%E8%BD%BDpython/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-12-23,1640245782.0
 Linux安装python3.7,cywhat's blog,https://cywhat.cn/Linux%E5%AE%89%E8%A3%85python3.7.0/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-12-23,1640243633.0
@@ -48,4 +49,3 @@ linux常用命令,Barney's Blog,https://hugo.bnblogs.cc/linux%E5%91%BD%E4%BB%A4/
 搭建自己的随机图API,DearXuan的主页,https://dearxuan.top/2021/11/27/%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9A%8F%E6%9C%BA%E5%9B%BEAPI/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-27,1637985300.0
 读钱德勒《漫长的告别》：都市独行侠,LonelyGod,https://hin.cool/posts/longgoodbye.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-25,1637798400.0
 Navicat使用汇总,Yulin Lewis' Blog,https://lewky.cn/posts/navicat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-11-20,1637422008.0
-Navicat使用汇总,Yulin Lewis' Blog,https://lewky233.top/posts/navicat/,https://lewky233.top/,https://lewky.cn/index.xml,2021-11-20,1637422008.0

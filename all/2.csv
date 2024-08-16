@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+自建 Docker 镜像存储库解决拉取问题,杜老师说,https://dusays.com/726/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-10,1720627200.0
 宇宙的尽头是薄膜键盘,Another Dayu,https://anotherdayu.com/2024/5818/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-07-10,1720621355.0
 看见附近：摄影爱好者们,Another Dayu,https://anotherdayu.com/2024/5814/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-07-10,1720604805.0
 看见附近：社区健身房,Another Dayu,https://anotherdayu.com/2024/5806/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-07-10,1720587736.0
@@ -21,7 +22,7 @@ Tianji 访问统计运行监控服务器状态工具简单评测,杜老师说,ht
 PIVOT Vol.5 终于毕业了！,Another Dayu,https://anotherdayu.com/2024/5796/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-06-23,1719134648.0
 使用 imgproxy 对接 MinIO 实现图片处理,杜老师说,https://dusays.com/720/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-22,1719072000.0
 观“我在闲鱼上买购物卡被骗了”有感：虚拟商品交易骗局防不胜防,非理勿试,https://www.ntiy.com/2185.html,https://www.ntiy.com,https://www.ntiy.com/feed,2024-06-21,1718935007.0
-手动清理C盘的空间,瓦解的生活记事,https://hin.cool/posts/cclean.html,https://hin.cool/,https://hin.cool/atom.xml,2024-06-20,1718902800.0
+手动清理C盘的空间,瓦解的生活记事,https://hin.cool/posts/cclean.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-06-20,1718902800.0
 FAST OS DOCKER 容器管理器的安装与使用,杜老师说,https://dusays.com/719/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-19,1718812800.0
 写了个页面分享此时此刻我在听的歌,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/784/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-06-18,1718744366.0
 关丹：一直游到海水变蓝,Macin,https://macin.org/2024/06/18/guan-dan/,https://macin.org/,https://www.macin.org/atom.xml,2024-06-18,1718740043.0
@@ -48,4 +49,3 @@ clockdiff时间差测量原理,Bing's Blog,https://imcbc.cn/202405/clockdiff-sou
 Coolify 开源自托管的 Heroku/Netlify/Vercel 替代方案,杜老师说,https://dusays.com/712/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-29,1716998400.0
 日志透传工具-channel,Bing's Blog,https://imcbc.cn/202405/transmite-log-channel/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-05-27,1716769051.0
 2024-05小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/10021/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-05-26,1716758313.0
-Web-Check 炫酷强大的网站测试工具,杜老师说,https://dusays.com/711/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-26,1716739200.0
