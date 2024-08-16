@@ -79,10 +79,6 @@
         1
       ],
       [
-        "087c51905f87f625bc8c38bec6eaa0b1",
-        4
-      ],
-      [
         "57dcbef78f144662ff9cbbe21ca040cb",
         4
       ],
@@ -709,6 +705,7 @@
     "user": [
       {
         "user": "bbing",
+        "member": 1,
         "date": [
           [
             "2022",
@@ -908,11 +905,11 @@
             ]
           ]
         ],
-        "member": 1,
         "all": 24
       },
       {
         "user": "addition",
+        "member": 1,
         "date": [
           [
             "2016",
@@ -1438,7 +1435,6 @@
             ]
           ]
         ],
-        "member": 1,
         "all": 63
       }
     ]
