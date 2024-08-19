@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+使用microk8s快速搭建k8s,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_17-microk8s.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-17,1573948800.0
 Python中优雅的处理文件路径,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_15-python_pathlib_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-15,1573776000.0
 Go语言MySQL时区问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_14-golang_mysql_timezone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-14,1573689600.0
 我的技术栈选型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_13-tech_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-13,1573603200.0
@@ -14,9 +15,9 @@ MySQL性能优化指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 DNSCrypt简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_31-dnscrypt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-31,1572480000.0
 【转】三维文件格式知多少,云游君的小站,https://www.yunyoujun.cn/posts/how-much-3d-format,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-10-30,1572451306.0
 如何实现一个 Babel Macros,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-a-babel-macros,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
-SQLAlchemy简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_30-sqlalchemy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-30,1572393600.0
-如何实现一个 Babel Macros,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-a-babel-macros/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
 如何实现一个 Babel Macros,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-a-babel-macros,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
+如何实现一个 Babel Macros,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-a-babel-macros/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
+SQLAlchemy简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_30-sqlalchemy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-30,1572393600.0
 这些年，我们错过的n个亿,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_25-oh_my_money.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-25,1571961600.0
 Yandex 免费域名邮箱注册及使用教程,ChrAlpha,https://blog.ichr.me/post/yandex-build-your-own-domain-email-for-free/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-10-24,1571941111.0
 LaTeX 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/latex-use-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-10-21,1571667378.0
@@ -38,8 +39,8 @@ ASHMORE 超声波清洗机 | 用超声波清洁2000块的键盘,罗磊的独立�
 ssh时自动运行tmux,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0
 ufw简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_14-ufw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-14,1568419200.0
-zerotier简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_11-zerotier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-11,1568160000.0
 DockCase P1:让 MacBook Pro 电源适配器秒变拓展坞,罗磊的独立博客,https://luolei.org/dockcase-review,https://luolei.org,https://luolei.org/feed/,2019-09-11,1568160000.0
+zerotier简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_11-zerotier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-11,1568160000.0
 Typecho主题 | MDr - 书写你的篇章,FlyingSky's Blog,https://blog.fsky7.com/archives/60/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-09-07,1567823700.0
 再谈996,Frank笔记,https://frank2019.me/archives/zai-tan-996,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567572600.0
 恐惧与期待,Frank笔记,https://frank2019.me/archives/kong-ju-yu-qi-dai,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567572300.0
@@ -48,4 +49,3 @@ BBR+BBR魔改+Lotsever(锐速)一键脚本 for Centos/Debian/Ubuntu,Frank笔记,
 Youtube 详细统计信息 详解,Frank笔记,https://frank2019.me/archives/youtube-xiang-xi-tong-ji-xin-xi-xiang-jie,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567571340.0
 提取kindle笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_04-kindle_highlights.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-04,1567555200.0
 最近那点事,Frank笔记,https://frank2019.me/archives/zui-jin-na-dian-shi,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-03,1567484160.0
-翻墙看民族复兴,Frank笔记,https://frank2019.me/archives/fan-qiang-kan-min-zu-fu-xing,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-03,1567483920.0
