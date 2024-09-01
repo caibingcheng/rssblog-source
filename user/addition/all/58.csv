@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+unittest 源代码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_29-unittest_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-29,1482969600.0
 2016 年终总结,Randy's Blog,https://lutaonan.com/blog/2016-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-12-28,1482883200.0
 APUEv3 - 重读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_26-apue_v3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-26,1482710400.0
 Mock源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_22-mock_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-22,1482364800.0
@@ -12,7 +13,7 @@ Thinking in Python,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_1
 泰国 | 曼谷军事基地 | 体验军用枪械实弹射击,罗磊的独立博客,https://luolei.org/bangkok-shooting,https://luolei.org,https://luolei.org/feed/,2016-12-11,1481414400.0
 Python零碎小知识,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_09-python_fragments.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-09,1481241600.0
 杭州 | 小众旅行:长乐林场,罗磊的独立博客,https://luolei.org/travel-hangzhou-changle,https://luolei.org,https://luolei.org/feed/,2016-12-09,1481241600.0
-工作一年的总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_07-work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-07,1481068800.0
+Python和单元测试,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_07-python_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-07,1481068800.0
 Python 的继承,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_06-python_c3_mro.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-06,1480982400.0
 体验如家黑科技:如家精选酒店智能客房,罗磊的独立博客,https://luolei.org/homeplus-inn-shanghai-smart-room,https://luolei.org,https://luolei.org/feed/,2016-12-04,1480809600.0
 一加3T:简单开箱 + 第一印象,罗磊的独立博客,https://luolei.org/oneplus-3t-unboxing,https://luolei.org,https://luolei.org/feed/,2016-12-02,1480636800.0
@@ -48,4 +49,3 @@ React 生命周期函数小结,Yuexun's Blog,https://yuexunjiang.me/blog/react-l
 [译] JavaScript 最佳实践,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-best-practices/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-08-31,1472601600.0
 尤克里里,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_08_25-ukulele.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-08-25,1472083200.0
 美国 | USA B1/B2 十年签证到手记,罗磊的独立博客,https://luolei.org/we-got-usa-visa,https://luolei.org,https://luolei.org/feed/,2016-08-20,1471651200.0
-我常用的 macOS 应用,Randy's Blog,https://lutaonan.com/blog/tools-of-my-macbook/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-08-06,1470441600.0
