@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+2024 年香港徒步旅行记录（一）,This Cute World,https://thiscute.world/posts/hong-kong-travel-notes-in-2024/,https://thiscute.world/,https://thiscute.world/index.xml,2024-05-21,1716257100.0
+基于 rsync+sersync 实现文件的同步备份,杜老师说,https://dusays.com/709/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-20,1716220800.0
 免费的代码AI辅助工具：百度comate,瓦解的生活记事,https://hin.cool/posts/baiducomate.html,https://hin.cool/,https://hin.cool/atom.xml,2024-05-18,1716031200.0
 基于 rsync+inotifywait 实现文件的实时同步,杜老师说,https://dusays.com/708/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-17,1715961600.0
 拓扑相关概念的演化,辛未羊的网络日志,https://panqiincs.me/2024/05/16/bourbaki-topology/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2024-05-16,1715864162.0
@@ -47,5 +49,3 @@ OPENWRT断流问题得以解决,瓦解的生活记事,https://hin.cool/posts/opd
 Tiny RDM 一个轻量优美的 Redis 客户端,杜老师说,https://dusays.com/685/,https://dusays.com/,https://dusays.com/atom.xml,2024-03-09,1710000000.0
 在 Fedora server 39 中纯手动部署 Nextcloud,无妄当自持,https://www.insidentally.com/articles/000038/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-03-09,1709991268.0
 OPENWRT断流后续和被骗30块钱,瓦解的生活记事,https://hin.cool/posts/opf4ck.html,https://hin.cool/,https://hin.cool/atom.xml,2024-03-06,1709761800.0
-YesPlayMusic 高颜值的第三方网易云播放器,杜老师说,https://dusays.com/684/,https://dusays.com/,https://dusays.com/atom.xml,2024-03-06,1709740800.0
-FileCodeBox 文件快递柜,杜老师说,https://dusays.com/683/,https://dusays.com/,https://dusays.com/atom.xml,2024-03-03,1709481600.0

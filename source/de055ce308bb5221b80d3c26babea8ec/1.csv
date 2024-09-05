@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+KubeCon China 2024 之旅,This Cute World,https://thiscute.world/posts/kubecon-china-2024/,https://thiscute.world/,https://thiscute.world/index.xml,2024-08-27,1724724622.0
+Kubernetes 集群伸缩组件 - Karpenter,This Cute World,https://thiscute.world/posts/kubernetes-cluster-autoscaling-1-karpenter/,https://thiscute.world/,https://thiscute.world/index.xml,2024-07-10,1720574251.0
 2024 年香港徒步旅行记录（一）,This Cute World,https://thiscute.world/posts/hong-kong-travel-notes-in-2024/,https://thiscute.world/,https://thiscute.world/index.xml,2024-05-21,1716257100.0
 OS as Code - 我的 NixOS 使用体会,This Cute World,https://thiscute.world/posts/my-experience-of-nixos/,https://thiscute.world/,https://thiscute.world/index.xml,2024-02-21,1708503981.0
 个人数据安全不完全指南,This Cute World,https://thiscute.world/posts/an-incomplete-guide-to-data-security/,https://thiscute.world/,https://thiscute.world/index.xml,2024-01-30,1706593710.0
@@ -47,5 +49,3 @@ Linux 网络工具中的瑞士军刀 - socat &amp; netcat,This Cute World,https:
 脚踏实地，仰望星空,This Cute World,https://thiscute.world/posts/no-more-dreams/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-13,1613183576.0
 我在创业公司做技术一年多的一点体会,This Cute World,https://thiscute.world/posts/end-of-the-first-round/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-06,1612572406.0
 曾经的我,This Cute World,https://thiscute.world/history/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-01,1612160075.0
-云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/expirence-of-argo-workflow/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
-secrets 管理工具 Vault 的介绍、安装及使用,This Cute World,https://thiscute.world/posts/expirence-of-vault/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-24,1611451901.0
