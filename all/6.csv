@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+PostgreSQL 当MQ来使用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_09-postgresql_as_mq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-09,1709942400.0
 Clash 结合 工作VPN 的网络设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_08-clash_vpn.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-08,1709856000.0
 孤单而不孤独,Another Dayu,https://anotherdayu.com/2024/5636/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-03-07,1709789630.0
 使用 PostgreSQL 搭建 JuiceFS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_07-juicefs_postgresql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-07,1709769600.0
@@ -48,4 +49,3 @@ Java 线程池系列-第一篇,Nicksxs's Blog,https://nicksxs.me/2024/02/11/Java
 扫墓,Bing's Blog,https://imcbc.cn/202402/saomu/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-02-09,1707462522.0
 龙年开篇,Frank笔记,https://frank2019.me/archives/1707425582750,https://frank2019.me/,https://frank2019.me/rss.xml,2024-02-08,1707429682.0
 Fort Firewall 开源免费防火墙工具,杜老师说,https://dusays.com/675/,https://dusays.com/,https://dusays.com/atom.xml,2024-02-08,1707408000.0
-PVE 硬件直通导致不能启动的问题,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/777/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-02-08,1707399011.0

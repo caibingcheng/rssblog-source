@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+让浏览器下载文件,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_06-browser_download_file.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-06,1725580800.0
 HTTP 压力测试中的 Coordinated Omission,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_08_30-http_load_testing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-08-30,1724976000.0
 2的补码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_07_24-twos_complement.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-07-24,1721779200.0
 编程语言中的 context 是什么？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_07_21-context.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-07-21,1721520000.0
@@ -48,4 +49,3 @@ ElasticSearch 学习笔记,Jiajun的技术笔记,https://jiajunhuang.com/article
 权限模型(RBAC/ABAC),Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_15-access_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-15,1657843200.0
 OIDC(OpenID Connect) 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_06-openid_connect.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-06,1657065600.0
 任务队列简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_05-task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-05,1656979200.0
-PostgreSQL 操作笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_04_29-postgres_notes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-29,1651190400.0
