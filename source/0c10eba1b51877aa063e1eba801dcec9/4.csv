@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+操作系统也是CRUD,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_15-unix_crud.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-15,1592179200.0
 Go设计模式：简单工厂模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_13-go_design_pattern_factory.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
 debug故事之：事务让生活更美好,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_12-transaction_life_easy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-12,1591920000.0
 Go设计模式：模板模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_11-go_design_pattern_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-11,1591833600.0
@@ -48,4 +49,3 @@ Python中的并发控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/
 KVM spice协议在高分屏上的分辨率问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_08-kvm_spice_high_dpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-08,1581120000.0
 计算机中的权衡(trade-off),Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_01_11-paradigm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-11,1578700800.0
 [声明]本站所有文章禁止转载,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_01_10-please_do_not_copy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-10,1578614400.0
-Golang不那么蛋疼的sort,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_01_07-golang_sort_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-07,1578355200.0
