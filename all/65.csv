@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+中国制造 Tesla Model 3 长续航体验,Randy's Blog,https://lutaonan.com/blog/tesla-model-3-review/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-06-22,1592784000.0
 el-bot & mirai-ts 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-el-bot/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-06-21,1592763413.0
 Go设计模式：桥接模式和策略模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_21-go_design_pattern_bridge.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-21,1592697600.0
 升级游戏鼠标：罗技 G502 LIGHTSPEED 无线版,罗磊的独立博客,https://luolei.org/logitech-g502-lightspeed,https://luolei.org,https://luolei.org/feed/,2020-06-21,1592697600.0
@@ -6,7 +7,7 @@ Go设计模式：单例模式、原型模式和Builder模式,Jiajun的技术笔�
 深圳核酸检测经验分享,罗磊的独立博客,https://luolei.org/covid-19-test-shenzhen,https://luolei.org,https://luolei.org/feed/,2020-06-18,1592438400.0
 如何看待年仅 28 岁的郭宇宣布从字节跳动退休？,罗磊的独立博客,https://luolei.org/my-friend-guoyu,https://luolei.org,https://luolei.org/feed/,2020-06-16,1592265600.0
 操作系统也是CRUD,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_15-unix_crud.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-15,1592179200.0
-Go设计模式：简单工厂模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_13-go_design_pattern_factory.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
+把USB设备穿透给虚拟机里的系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_13-macos_kvm_usb_pass.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
 debug故事之：事务让生活更美好,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_12-transaction_life_easy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-12,1591920000.0
 老婆的第一副眼镜: Tapole 钛架 + 蔡司A系列镜片,罗磊的独立博客,https://luolei.org/tapole-glasses,https://luolei.org,https://luolei.org/feed/,2020-06-12,1591920000.0
 Fireside 遷移記,Just lepture,https://lepture.com/zh/2020/fireside-export,https://lepture.com/,https://lepture.com/feed.xml,2020-06-11,1591843954.0
@@ -48,4 +49,3 @@ virsh自动关闭windows虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/
 Git学习,qinxs小站,https://7bxing.com/posts/e28ceec1/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605502.0
 hello world,qinxs小站,https://7bxing.com/posts/d4a1185/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605202.0
 Golang sort源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_16-go_sort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-16,1589587200.0
-分治的思维方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_15-divide_and_conquer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-15,1589500800.0
