@@ -1,6 +1,7 @@
 title,author,link,home,rss,date,timestamp
-个人建站的经历——域名篇,岚天小窝,http://blog.ltya.top/posts/personalexp-domain.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-01-10,1673366400.0
+v2ray 指定对网站使用 IPv4 或 IPv6 出口 (包括Warp),Zikin 的独立博客,https://zikin.org/v2ray-set-ipv/,https://zikin.org/,https://zikin.org/feed,2023-01-11,1673415358.0
 个人建站的经历——域名篇,岚天小窝,https://blog.ltya.top/posts/personalexp-domain.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-01-10,1673366400.0
+个人建站的经历——域名篇,岚天小窝,http://blog.ltya.top/posts/personalexp-domain.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-01-10,1673366400.0
 途径 5 驿站,Another Dayu,https://anotherdayu.com/2023/4449/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-01-10,1673345914.0
 彭州：五教俱全，堪称成都的光明顶,Macin,https://macin.org/2023/01/09/peng-zhou-miao-yu/,https://macin.org/,https://www.macin.org/atom.xml,2023-01-09,1673292570.0
 NeoDB | 书影音标记 – 豆瓣、GoodReads 和 Google Book 的替代品,Another Dayu,https://anotherdayu.com/2023/4434/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-01-09,1673278640.0
@@ -12,8 +13,8 @@ mybatis系列-dataSource解析,Nicksxs's Blog,https://nicksxs.me/2023/01/08/myba
 使用duck.com发送邮箱,Muidar's Site,https://www.muidar.com/posts/cmuidar/send-emails-with-duck-com/,https://www.muidar.com,https://muidar.com/feed,2023-01-08,1673156652.0
 我的云账单:2023年,罗磊的独立博客,https://luolei.org/how-much-i-spend-on-cloud-monthly-2023/,https://luolei.org/,https://luolei.org/feed/,2023-01-07,1673088031.0
 BOOX 文石电纸书 | 启用 Google Play 套件,Another Dayu,https://anotherdayu.com/2023/4396/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-01-07,1673084548.0
-MS Azure创建永久密钥,Muidar's Site,https://www.muidar.com/posts/cmuidar/secret-text-on-azure-no-time-limited/,https://www.muidar.com,https://muidar.com/feed,2023-01-07,1673081544.0
 MS Azure创建永久密钥,Muidar's Site,https://muidar.com/cmuidar/2023/01/secret-text-on-azure-no-time-limited/,https://muidar.com,https://muidar.com/feed,2023-01-07,1673081544.0
+MS Azure创建永久密钥,Muidar's Site,https://www.muidar.com/posts/cmuidar/secret-text-on-azure-no-time-limited/,https://www.muidar.com,https://muidar.com/feed,2023-01-07,1673081544.0
 BOOX 文石电纸书 | 设置 Kindle、Readwise Reader 和免费外文书城,Another Dayu,https://anotherdayu.com/2023/4381/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-01-06,1673007502.0
 Windows 10 家庭版使用组策略编辑器,Zikin 的独立博客,https://zikin.org/windows-10-home-gpedit-group-policy-management/,https://zikin.org/,https://zikin.org/feed,2023-01-06,1673005235.0
 【CloudFlare】API管理Plesk版Spectrum SSH转发,Luminous' Home,https://luotianyi.vc/6741.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-01-06,1673004301.0
@@ -48,4 +49,3 @@ CT8.PL免费主机,Muidar's Site,https://muidar.com/cmuidar/2022/12/ct8pl-free-h
 在 Windows 10 上安装 Screenfetch,Zikin 的独立博客,https://zikin.org/install-screenfetch-on-windows/,https://zikin.org/,https://zikin.org/feed,2022-12-26,1672038604.0
 我们如何从 Wxml2Canvas 迁移到 Painter,4Ark,https://4ark.me/posts/2022-12-26-wxml2canvas-migrate-to-painter/,https://4ark.me/,https://4ark.me/rss.xml,2022-12-26,1672012800.0
 docker比一般多一点的初学者介绍四,Nicksxs's Blog,https://nicksxs.me/2022/12/25/docker%E6%AF%94%E4%B8%80%E8%88%AC%E5%A4%9A%E4%B8%80%E7%82%B9%E7%9A%84%E5%88%9D%E5%AD%A6%E8%80%85%E4%BB%8B%E7%BB%8D%E5%9B%9B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-12-25,1671968428.0
-素数有公式吗？,Muidar's Site,https://muidar.com/cmuidar/2022/12/theorem-for-prime/,https://muidar.com,https://muidar.com/feed,2022-12-25,1671950024.0
