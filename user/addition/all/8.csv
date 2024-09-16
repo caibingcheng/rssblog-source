@@ -1,4 +1,9 @@
 title,author,link,home,rss,date,timestamp
+闭上眼睛，深呼吸一会,Another Dayu,https://anotherdayu.com/2023/5461/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-12,1699776813.0
+长任务系统如何处理？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_12-long_running_task.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-12,1699747200.0
+雪落凉州,湘铭`Blog,https://blog.xiangming.site/366.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-11,1699683660.0
+卡片相机，从了解到放弃,瓦解的生活记事,https://hin.cool/posts/camerano.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-11-11,1699660801.0
+macOS/Linux 编译 InputLeap,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_11-input_leap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-11,1699660800.0
 My App Defaults 2023,Another Dayu,https://anotherdayu.com/2023/5452/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-10,1699622806.0
 Add Index Sidebar to My Blog,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-10-Index-Sidebar-on-My-Blog.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-10,1699592400.0
 使用开源软KVM - synergy-core,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_10-synergy_core.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-10,1699574400.0
@@ -7,8 +12,8 @@ Add Index Sidebar to My Blog,Bin Wang - My Personal Blog,https://www.binwang.me/
 解决 macOS 终端hostname一直变化问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_06-mac_keep_hostname.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-06,1699228800.0
 Tomcat 系列篇八-介绍下 Tomcat 里的线程池用处,Nicksxs's Blog,https://nicksxs.me/2023/11/05/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E5%85%AB-%E4%BB%8B%E7%BB%8D%E4%B8%8B-Tomcat-%E9%87%8C%E7%9A%84%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%94%A8%E5%A4%84/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-11-05,1699184336.0
 2023 年 10 月游记,见字如面,https://hiwannz.com/archives/910.html,https://hiwannz.com/,https://hiwannz.com/feed,2023-11-05,1699155890.0
-千锤百炼出深山， 烈火焚烧若等闲,manateelazycat.github.io,//manateelazycat.github.io/2023/11/05/eaf-qthread-crash/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-05,1699142400.0
 KVM 共享 Intel 集成显卡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_05-kvm_windows_intel_gpu.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-05,1699142400.0
+千锤百炼出深山， 烈火焚烧若等闲,manateelazycat.github.io,//manateelazycat.github.io/2023/11/05/eaf-qthread-crash/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-05,1699142400.0
 PLUTO,Another Dayu,https://anotherdayu.com/2023/5431/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-04,1699108108.0
 How to Cleanup Ceph Filesystem for Deleted Kubernetes Persistent Volume,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-04-How-to-Cleanup-Ceph-Filesystem-for-Deleted-Kubernetes-Persistent-Volume.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-04,1699070400.0
 华支睾吸虫病、社会网络结构和饮食决策,Another Dayu,https://anotherdayu.com/2023/5423/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-02,1698917529.0
@@ -44,8 +49,3 @@ PromQL 备忘,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_10_17-
 读《无穷的开始》,manateelazycat.github.io,//manateelazycat.github.io/2023/10/15/reading-the-beginning-of-infinity/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-15,1697328000.0
 Hexo 主题开发 hexo-theme-imba97 —— 第零篇,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/770/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-10-14,1697300308.0
 lsp-bridge 远程代码补全,manateelazycat.github.io,//manateelazycat.github.io/2023/10/12/lsp-bridge-and-tramp/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-12,1697068800.0
-Kong Gateway OSS 官方管理界面 Kong Manager 开源啦！🦍,把酒诗代码，趁乱写年华。,https://102no.com/2023/10/09/kong-manager-oss/,https://102no.com/,https://102no.com/atom.xml,2023-10-08,1696780800.0
-Tomcat 系列篇五-介绍下 Service 启动过程,Nicksxs's Blog,https://nicksxs.me/2023/10/07/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E5%9B%9B-%E4%BB%8B%E7%BB%8D%E4%B8%8B-Service-%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-10-07,1696665836.0
-读《为什么伟大不能被计划》有感,Macin,https://macin.org/2023/10/06/wei-shi-me-wei-da-bu-neng-bei-ji-hua/,https://macin.org/,https://www.macin.org/atom.xml,2023-10-06,1696609906.0
-我是傻逼,非理勿试,https://www.ntiy.com/2005.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-10-06,1696571503.0
-九月二三事,星空故事·魔法小屋,https://blog.sinzmise.top/posts/56467/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-10-04,1696440346.0
