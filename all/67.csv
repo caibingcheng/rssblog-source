@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【Git系列】详细记录一次码云和Git异常解决方案,框架師,https://www.mobaijun.com/posts/3160757487.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-21,1587434290.0
 Golang中的并发控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_21-golang_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
 CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡,罗磊的独立博客,https://luolei.org/cmlink-global-borderless-internet-roaming-card,https://luolei.org,https://luolei.org/feed/,2020-04-21,1587427200.0
 Golang的可选参数实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
@@ -16,7 +17,7 @@ Golang expvar库源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/artic
 Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
 Golang validator使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
 垃圾清理软件多，是我们缺存储空间吗？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/25.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-09,1586425500.0
-使用Redis的Stream模块实现群聊功能,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_09-redis_stream_as_im.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
+价值编程与职业发展,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_09-value_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
 DeepL | 从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工具,罗磊的独立博客,https://luolei.org/deepl-ai-translator,https://luolei.org,https://luolei.org/feed/,2020-04-09,1586390400.0
 【转载】世界不应该是这样的,Frank笔记,https://frank2019.me/archives/zhuan-zai-shi-jie-bu-ying-gai-shi-zhe-yang-de,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-08,1586377380.0
 关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
@@ -48,4 +49,3 @@ Java的远程调试Remote Debug,雨临Lewis,https://lewky.cn/posts/java-remote-d
 Hexo 图片 lazyload 的更优尝试,ChrAlpha,https://blog.ichr.me/post/hexo-better-image-lazyload/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-16,1584381969.0
 Lazyload 不让 Valine 评论组件拖慢页面加载,ChrAlpha,https://blog.ichr.me/post/valine-lazyload/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-13,1584127745.0
 给你的代码跑个分？pylint使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_12-pylint.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-12,1583971200.0
-谈谈 RSA 非对称加密算法原理及流程,ChrAlpha,https://blog.ichr.me/post/rsa-asymmetric-encryption-algorithm/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-11,1583930619.0
