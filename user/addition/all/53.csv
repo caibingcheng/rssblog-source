@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+卷土重来未可知,云游君的小站,https://www.yunyoujun.cn/posts/after-2nd-graduate-exam,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-12-24,1545670344.0
+YouCompleteMe ycmd server SHUTDOWN 和 pyenv的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_24-ycm_pyenv.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
 299元的网易严选 VS 900元的 JINS | 第一次在线配近视眼镜 | ZUOLUOTV,罗磊的独立博客,https://luolei.org/you-163-and-jins-glasees-review,https://luolei.org,https://luolei.org/feed/,2018-12-24,1545609600.0
 我在阿里巴巴花45元买了一个山寨 Peak Design 快挂 | ZUOLUOTV,罗磊的独立博客,https://luolei.org/peak-design-capture-clip-clone,https://luolei.org,https://luolei.org/feed/,2018-12-23,1545523200.0
 Docker组件介绍（一）：runc和containerd,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_22-docker_components.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-22,1545436800.0
@@ -29,8 +31,8 @@ Go的unsafe包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_13
 Golang中实现禁止拷贝,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
 人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0
 Golang的反射,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_10-golang_reflection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
-把网站去掉CSS之后,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_09-drop_css.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-09,1541721600.0
 参观神州第一舰 | 中国海军深圳舰开放日 | VLOG19,罗磊的独立博客,https://luolei.org/china-pla-navy-167-ship-open-day,https://luolei.org,https://luolei.org/feed/,2018-11-09,1541721600.0
+把网站去掉CSS之后,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_09-drop_css.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-09,1541721600.0
 处理并发的方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_07-concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-07,1541548800.0
 常见的索引方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_02-index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-02,1541116800.0
 Golang 实践经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_01-golang_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-01,1541030400.0
@@ -47,5 +49,3 @@ HTTP/2 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_13-
 UTAU插件:一键描点 使用帮助,FlyingSky's Blog,https://blog.fsky7.com/technology/77,https://blog.fsky7.com,https://blog.fsky7.com/feed,2018-10-01,1538366400.0
 独立运营博客一年的一些数据分享,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
 To B(usiness) 和 To C(ustomer),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_22-to_b_to_c.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-22,1537574400.0
-PyCon JP 2018 記,Just lepture,https://lepture.com/zh/2018/pycon-jp-2018,https://lepture.com/,https://lepture.com/feed.xml,2018-09-19,1537364456.0
-常见的软件架构套路,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
