@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+NAS-OMV容器配置,Bing's Blog,https://bbing.com.cn/202209/nas-omv-reprocesss/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
 重新思考 React 项目架构,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220920-re-thinking-architecture-of-react-project,https://teobler.com,https://teobler.com/rss.xml,2022-09-20,1663672864.0
 做了 6 年程序员，我学到的 10 条经验,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-after-6-years-as-software-engineer/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-09-20,1663632000.0
 浅谈区块链,Frank笔记,https://frank2019.me/articles/2019/10/27/1572182192288.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-19,1663612637.0
@@ -14,14 +15,14 @@ Apollo 客户端启动过程分析,Nicksxs's Blog,https://nicksxs.me/2022/09/18/
 九一八事变,醉里博客,https://202271.xyz/post/57907/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-09-18,1663488449.0
 Python获取字体文件所支持的字形,辛未羊的网络日志,https://panqiincs.me/2022/09/18/supported-glyphs/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-09-18,1663476862.0
 公司内部培训,manateelazycat.github.io,//manateelazycat.github.io/think/2022/09/18/internal-training.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-18,1663459200.0
-贵阳防疫转运车事故的反思,Frank笔记,http://frank2019.me/archives/gui-yang-fang-yi-zhuan-yun-che-shi-gu-de-fan-si,http://frank2019.me/,https://frank2019.me/rss.xml,2022-09-17,1663437840.0
 贵阳防疫转运车事故的反思,Frank笔记,/archives/gui-yang-fang-yi-zhuan-yun-che-shi-gu-de-fan-si,/,https://frank2019.me/rss.xml,2022-09-17,1663437840.0
+贵阳防疫转运车事故的反思,Frank笔记,http://frank2019.me/archives/gui-yang-fang-yi-zhuan-yun-che-shi-gu-de-fan-si,http://frank2019.me/,https://frank2019.me/rss.xml,2022-09-17,1663437840.0
 贵阳防疫转运车事故的反思,Frank笔记,https://frank2019.me/archives/gui-yang-fang-yi-zhuan-yun-che-shi-gu-de-fan-si,https://frank2019.me/,https://frank2019.me/rss.xml,2022-09-17,1663437840.0
 蔚来与特斯拉一日试驾体验,见字如面,https://hiwannz.com/archives/718,https://hiwannz.com,https://hiwannz.com/feed,2022-09-17,1663410433.0
 梦,瓦解的生活记事,https://hin.cool/posts/meng.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-17,1663407120.0
 如何删除 GitHub 的提交历史记录,杜老师说,https://dusays.com/505/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-16,1663344000.0
-2019-2022·相机算法集成·总结概述,Bing's Blog,https://bbing.com.cn/202209/2019-2022-work-summary/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-16,1663343537.0
 2019-2022·相机算法集成·总结概述,Bing's Blog,https://imcbc.cn/202209/2019-2022-work-summary/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-16,1663343537.0
+2019-2022·相机算法集成·总结概述,Bing's Blog,https://bbing.com.cn/202209/2019-2022-work-summary/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-16,1663343537.0
 以太坊8年挖矿时代结束：V神、挖矿与英伟达,Macin,https://macin.org/2022/09/15/eth2pos/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-15,1663264539.0
 部分录音数据再次丢失,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/relost-voice-recording-data.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-09-15,1663235580.0
 三角函数的嵌套,DearXuan的主页,https://blog.dearxuan.com/2022/09/15/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%B5%8C%E5%A5%97/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-09-15,1663231080.0
@@ -30,8 +31,8 @@ kiwi浏览器下载及介绍,醉里博客,https://202271.xyz/post/53778/,https:/
 江城中秋月，相赠几时欢,Macin,https://macin.org/2022/09/13/wuhan-moon/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-13,1663086249.0
 使用 MeiliSearch 实现 Volantis 主题博客搜索「保姆教程」,杜老师说,https://dusays.com/504/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-13,1663084800.0
 django入门,Barney's Blog,https://hugo.bnblogs.cc/django%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-13,1663081287.0
-干旱下雨冰雹,近视眼逛博客,https://blog.9hz.club/2022/09/Drought-Rain-and-Hail.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2022-09-12,1662989936.0
 干旱下雨冰雹,近视眼逛博客,https://blog.dtz9.com/2022/09/Drought-Rain-and-Hail.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2022-09-12,1662989936.0
+干旱下雨冰雹,近视眼逛博客,https://blog.9hz.club/2022/09/Drought-Rain-and-Hail.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2022-09-12,1662989936.0
 Leetcode 1862 向下取整数对和 ( Sum of Floored Pairs *Hard* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/09/11/Leetcode-1862-%E5%90%91%E4%B8%8B%E5%8F%96%E6%95%B4%E6%95%B0%E5%AF%B9%E5%92%8C-Sum-of-Floored-Pairs-Hard-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-09-11,1662906480.0
 关于开往,SinGO博客,https://blog.xsnet.eu.org/posts/55567/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-09-11,1662902186.0
 关于开往,SinGO博客,https://blog.xsnetw.cf/posts/55567/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-09-11,1662873386.0
@@ -48,4 +49,3 @@ Apollo 如何获取当前环境,Nicksxs's Blog,https://nicksxs.me/2022/09/04/Apo
 Learn English Again,This Cute World,https://thiscute.world/posts/learn-english-again/,https://thiscute.world/,https://thiscute.world/index.xml,2022-09-04,1662268920.0
 waline评论迁移到twikoo,Barney's Blog,https://hugo.bnblogs.cc/waline%E8%AF%84%E8%AE%BA%E8%BF%81%E7%A7%BB%E5%88%B0twikoo/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-02,1662113902.0
 Lsky Pro 企业版手动升级、优化教程,杜老师说,https://dusays.com/500/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-02,1662076800.0
-我去过的县级行政区,辛未羊的网络日志,https://panqiincs.me/2022/09/01/places-visited/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-09-01,1662041614.0
