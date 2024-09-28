@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+搞定CORS问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_29-cors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-29,1619654400.0
 浮城往事,瓦解的生活记事,https://www.hin.cool/posts/fuchengwangshi.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-04-29,1619654400.0
 【Java基础】JavaSe-网络编程,框架師,https://www.mobaijun.com/posts/1483848703.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-26,1619424035.0
 【Oracle Cloud】甲骨文云开启原生IPv6支持,Luminous' Home,https://luotianyi.vc/5558.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-04-24,1619252967.0
@@ -47,5 +48,4 @@ Notion 编辑器是怎么实现的？,Yuexun's Blog,https://yuexunjiang.me/blog/
 Notion 编辑器是怎么实现的？,Ahonn's Blog,https://www.ahonn.me/blog/how-the-notion-editor-is-implemented,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2021-03-25,1616630400.0
 Notion 编辑器是怎么实现的？,Yuexun's Blog,https://yuexunjiang.me/blog/how-the-notion-editor-is-implemented,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2021-03-25,1616630400.0
 信息时代更需要理性思考,Frank笔记,https://frank2019.me/archives/xin-xi-shi-dai-geng-xu-yao-li-xing-si-kao,https://frank2019.me/,https://frank2019.me/rss.xml,2021-03-23,1616520060.0
-Golang GIN写单测时，愉快的使用返回值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_23-go_gin_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-23,1616457600.0
 你该如何为 Kubernetes 定制特性,面向信仰编程,https://draveness.me//cloud-native-kubernetes-extension,https://draveness.me/,https://draveness.me/feed.xml,2021-03-23,1616457600.0
