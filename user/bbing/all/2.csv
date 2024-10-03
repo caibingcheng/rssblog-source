@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+使用 Docker 部署 Gitea 新一代的代码托管平台,杜老师说,https://dusays.com/722/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-28,1719590400.0
+十亿行挑战-C++,Bing's Blog,https://imcbc.cn/202406/1brc-cpp/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-06-28,1719585720.0
 免费搭建 Docker 镜像存储库解决拉取问题,杜老师说,https://dusays.com/721/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-25,1719331200.0
 使用 imgproxy 对接 MinIO 实现图片处理,杜老师说,https://dusays.com/720/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-22,1719072000.0
 手动清理C盘的空间,瓦解的生活记事,https://hin.cool/posts/cclean.html,https://hin.cool/,https://hin.cool/atom.xml,2024-06-20,1718902800.0
@@ -47,5 +49,3 @@ MinIO 的部署及与 Memos 的整合,杜老师说,https://dusays.com/693/,https
 天钡R1安装群晖,瓦解的生活记事,https://hin.cool/posts/tbeinas.html,https://hin.cool/,https://hin.cool/atom.xml,2024-04-01,1711954800.0
 入手一台天钡R1,瓦解的生活记事,https://hin.cool/posts/tianbei.html,https://hin.cool/,https://hin.cool/atom.xml,2024-03-30,1711821600.0
 Linux 安装杀毒软件 ClamAV,杜老师说,https://dusays.com/692/,https://dusays.com/,https://dusays.com/atom.xml,2024-03-30,1711814400.0
-中间融合及多阶段多提示的鲁棒RGBT追踪,DearXuan的主页,https://blog.dearxuan.com/2024/03/30/%E4%B8%AD%E9%97%B4%E8%9E%8D%E5%90%88%E5%8F%8A%E5%A4%9A%E9%98%B6%E6%AE%B5%E5%A4%9A%E6%8F%90%E7%A4%BA%E7%9A%84%E9%B2%81%E6%A3%92RGBT%E8%BF%BD%E8%B8%AA/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-03-30,1711809480.0
-RGBT桥接搜索区域交互,DearXuan的主页,https://blog.dearxuan.com/2024/03/28/RGBT%E6%A1%A5%E6%8E%A5%E6%90%9C%E7%B4%A2%E5%8C%BA%E5%9F%9F%E4%BA%A4%E4%BA%92/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-03-28,1711632780.0
