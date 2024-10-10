@@ -173,6 +173,10 @@
       [
         "1da45a6d6e5febefe9aa415552c3e4d8",
         1
+      ],
+      [
+        "087c51905f87f625bc8c38bec6eaa0b1",
+        4
       ]
     ],
     "all": 87,
@@ -713,6 +717,7 @@
     "user": [
       {
         "user": "addition",
+        "member": 1,
         "all": 65,
         "date": [
           [
@@ -1246,11 +1251,11 @@
               ]
             ]
           ]
-        ],
-        "member": 1
+        ]
       },
       {
         "user": "bbing",
+        "member": 1,
         "all": 24,
         "date": [
           [
@@ -1458,8 +1463,7 @@
               ]
             ]
           ]
-        ],
-        "member": 1
+        ]
       }
     ]
   }
