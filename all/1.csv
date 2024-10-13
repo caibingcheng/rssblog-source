@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Linux常用命令,Yulin Lewis' Blog,https://lewky.cn/posts/linux-commands/,https://lewky.cn/,https://lewky.cn/index.xml,2024-10-13,1728826119.0
 不一劳永逸的临时docker镜像拉取解决办法,Nicksxs's Blog,https://nicksxs.me/2024/10/13/%E4%B8%8D%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E4%B8%B4%E6%97%B6docker%E9%95%9C%E5%83%8F%E6%8B%89%E5%8F%96%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-10-13,1728809026.0
 桂林城区FM调频电台实测,辛未羊的网络日志,https://panqiincs.me/2024/10/12/guilin-fm-channels/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2024-10-12,1728735886.0
 SamWaf 网站防火墙工具安装使用,杜老师说,https://dusays.com/757/,https://dusays.com/,https://dusays.com/atom.xml,2024-10-11,1728662400.0
@@ -30,7 +31,7 @@ Look Scanned 开源 PDF 扫描项目,杜老师说,https://dusays.com/751/,https:
 lsp-bridge 已经支持 116 种 LSP Server 啦,Andy Stewart,//manateelazycat.github.io/2024/09/23/lsp-bridge-116/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-23,1727049600.0
 小技巧之-安卓终端工具Termux访问手机文件,Nicksxs's Blog,https://nicksxs.me/2024/09/22/%E5%B0%8F%E6%8A%80%E5%B7%A7%E4%B9%8B-%E5%AE%89%E5%8D%93%E7%BB%88%E7%AB%AF%E5%B7%A5%E5%85%B7Termux%E8%AE%BF%E9%97%AE%E6%89%8B%E6%9C%BA%E6%96%87%E4%BB%B6/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-09-22,1726989014.0
 鱼生,Another Dayu,https://anotherdayu.com/2024/5908/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-09-22,1726986419.0
-lsp-bridge 已经支持 105 种 LSP Server 啦,Andy Stewart,//manateelazycat.github.io/2024/09/22/lsp-bridge-105/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-22,1726963200.0
+基于 cloel 的序号重排插件,Andy Stewart,//manateelazycat.github.io/2024/09/22/reorder-file/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-22,1726963200.0
 不要被仇恨教育吞噬了心灵,Frank笔记,https://frank2019.me/archives/bu-yao-bei-chou-hen-jiao-yu-tun-shi-liao-xin-ling,https://frank2019.me/,https://frank2019.me/rss.xml,2024-09-21,1726892006.0
 用 Clojure 给 Emacs 写插件,Andy Stewart,//manateelazycat.github.io/2024/09/21/cloel/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-21,1726876800.0
 又一次补胎,瓦解的生活记事,https://hin.cool/posts/youbutai.html,https://hin.cool/,https://hin.cool/atom.xml,2024-09-20,1726873200.0
@@ -48,4 +49,3 @@ Navidrome 自托管的开源音乐服务器,杜老师说,https://dusays.com/748/
 SBT Task to Build Frontend Components,Bin Wang - My Personal Blog,https://www.binwang.me/2024-09-13-SBT-Task-to-Build-Frontend-Components.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-09-13,1726200000.0
 第404号梦,瓦解的生活记事,https://hin.cool/posts/losthighway.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-09-12,1726108200.0
 秋名山与路由器,Andy Stewart,//manateelazycat.github.io/2024/09/12/mountain-road/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-12,1726099200.0
-强推下星极世纪 CDN 平台,杜老师说,https://dusays.com/747/,https://dusays.com/,https://dusays.com/atom.xml,2024-09-11,1726070400.0
