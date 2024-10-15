@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+基于 rsync+inotifywait 实现文件的实时同步,杜老师说,https://dusays.com/708/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-17,1715961600.0
 Artalk 评论工具登录功能使用及反馈收集,杜老师说,https://dusays.com/707/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-14,1715702400.0
 同款说说页面部署代码分享,杜老师说,https://dusays.com/706/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-11,1715443200.0
 自建 CDN 联盟试运营,杜老师说,https://dusays.com/705/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-08,1715184000.0
@@ -48,4 +49,3 @@ GitHub 二次验证 APP 推荐,杜老师说,https://dusays.com/663/,https://dusa
 如何屏蔽掉令人讨厌的评论,杜老师说,https://dusays.com/661/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-28,1703779200.0
 Nginx 的 WAF 规则 LuaJIT 严重版本,杜老师说,https://dusays.com/660/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-25,1703520000.0
 Nginx 的 WAF 规则 LuaJIT 高危险版,杜老师说,https://dusays.com/659/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-22,1703260800.0
-Nginx 的 WAF 规则 LuaJIT 中危险版,杜老师说,https://dusays.com/658/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-19,1703001600.0
