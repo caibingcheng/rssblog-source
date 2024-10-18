@@ -1,7 +1,8 @@
 title,author,link,home,rss,date,timestamp
+AIDER AI and Emacs,Andy Stewart,//manateelazycat.github.io/2024/10/07/aider/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-10-07,1728259200.0
 技术人的商业训练,Andy Stewart,//manateelazycat.github.io/2024/09/26/bussiness-and-developer/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-26,1727308800.0
 lsp-bridge 已经支持 116 种 LSP Server 啦,Andy Stewart,//manateelazycat.github.io/2024/09/23/lsp-bridge-116/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-23,1727049600.0
-lsp-bridge 已经支持 105 种 LSP Server 啦,Andy Stewart,//manateelazycat.github.io/2024/09/22/lsp-bridge-105/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-22,1726963200.0
+基于 cloel 的序号重排插件,Andy Stewart,//manateelazycat.github.io/2024/09/22/reorder-file/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-22,1726963200.0
 用 Clojure 给 Emacs 写插件,Andy Stewart,//manateelazycat.github.io/2024/09/21/cloel/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-21,1726876800.0
 读《微信产品背后的故事》,Andy Stewart,//manateelazycat.github.io/2024/09/17/reading-weixin/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-17,1726531200.0
 开源长青， 怎么持续的做开源?,Andy Stewart,//manateelazycat.github.io/2024/09/15/sustainability-open-source/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-15,1726358400.0
@@ -48,4 +49,3 @@ Fcitx 最佳配置实践 2023-09-11,manateelazycat.github.io,//manateelazycat.gi
 电动车横向对比,manateelazycat.github.io,//manateelazycat.github.io/2023/09/06/electric-car/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-06,1693958400.0
 TreeSit API 详解,manateelazycat.github.io,//manateelazycat.github.io/2023/09/02/treesit/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-02,1693612800.0
 做事的心境,manateelazycat.github.io,//manateelazycat.github.io/2023/08/27/state-of-mind/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-08-27,1693094400.0
-holo-layer 一种全新的 Emacs 增强图层插件,manateelazycat.github.io,//manateelazycat.github.io/2023/08/12/holo-layer/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-08-12,1691798400.0
