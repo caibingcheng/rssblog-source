@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+软件设计套路之推拉模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_02_26-push_pull_system.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-02-26,1551139200.0
 香港上台攻略:大陆居民持护照、港澳通行证办理香港手机卡套餐,罗磊的独立博客,https://luolei.org/cuniq-hk-shared-plan-for-chinese-mainland-citizens,https://luolei.org,https://luolei.org/feed/,2019-02-25,1551052800.0
 CUniq UK:一卡中英港三号，能在大陆漫游的英国手机卡,罗磊的独立博客,https://luolei.org/cuniq-uk-sim-card-china-roaming,https://luolei.org,https://luolei.org/feed/,2019-02-16,1550275200.0
 创业笔记 | 从0到1开公司是什么体验,罗磊的独立博客,https://luolei.org/shenzhen-startup-tutorial,https://luolei.org,https://luolei.org/feed/,2019-02-15,1550188800.0
@@ -14,17 +15,17 @@ MiBox S 小米盒子国际版 | 2019年原生 AndroidTV 推荐 | VLOG31,罗磊�
 健身一年,Randy's Blog,https://lutaonan.com/blog/one-year-of-bulking/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-01-14,1547424000.0
 不越狱在 iOS 12.113.3 设备安装 Kodi,萤火之森,http://frankorz.com/2019/01/13/install-kodi-with-tweakbox/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-01-13,1547402460.0
 杂谈,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_13-goroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-13,1547337600.0
-使用autossh实现内网穿透,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_12-autossh.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-12,1547251200.0
 告别B站魔性封面，UP主只需要10秒就能学会的创作技巧 | ZUOLUOTV | VLOG27,罗磊的独立博客,https://luolei.org/tips-for-bilibili-video-cover,https://luolei.org,https://luolei.org/feed/,2019-01-12,1547251200.0
+使用autossh实现内网穿透,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_12-autossh.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-12,1547251200.0
 本博客的赞助渠道,Randy's Blog,https://lutaonan.com/blog/donation/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-01-10,1547078400.0
-Linux线程内存模型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_07-linux_thread_mem_layout.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-07,1546819200.0
 2018 年终总结,Randy's Blog,https://lutaonan.com/blog/2018-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-01-07,1546819200.0
+Linux线程内存模型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_07-linux_thread_mem_layout.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-07,1546819200.0
 Unity 开源双端框架 ET 中初尝热更新技术,萤火之森,http://frankorz.com/2019/01/06/hotfix-introduction-of-unity-et-framework/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-01-06,1546807363.0
 关闭手机通知，修复碎片化的生活,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_03-drop_notifications.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-03,1546473600.0
 Authlib Under BSD License,Just lepture,https://lepture.com/en/2019/authlib-bsd-license,https://lepture.com/,https://lepture.com/feed.xml,2019-01-01,1546334189.0
 Linux下系统调用的过程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_01-system_call.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-01,1546300800.0
-2018 年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2018-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2018-12-30,1546212781.0
 2018 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2018-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-12-30,1546212781.0
+2018 年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2018-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2018-12-30,1546212781.0
 2018 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2018-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-12-30,1546128000.0
 耍耍OverlayFS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_27-overlayfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-27,1545868800.0
 2分钟Ins小技巧，不用手机也能发Instagram | ZUOLUOTV,罗磊的独立博客,https://luolei.org/post-instagram-with-chrome,https://luolei.org,https://luolei.org/feed/,2018-12-27,1545868800.0
@@ -47,5 +48,4 @@ Y Combinator《如何创业》笔记,Jiajun的技术笔记,https://jiajunhuang.c
 Go类型嵌套,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_01-go_embedding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-01,1543622400.0
 etcd源码阅读与分析（五）：mvcc,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_28-etcd_source_code_analysis_mvvc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-28,1543363200.0
 etcd源码阅读与分析（四）：lease,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_27-etcd_source_code_analysis_lease.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-27,1543276800.0
-菲律宾 | 18米深蓝:薄荷岛&宿务 OW潜水旅行,罗磊的独立博客,https://luolei.org/travel-philippines-bohol,https://luolei.org,https://luolei.org/feed/,2018-11-26,1543190400.0
 干了这碗叔本华牌毒鸡汤 --- 《人生的智慧》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_26-the_wisdom_of_life_on_human_nature.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-26,1543190400.0
