@@ -1,8 +1,9 @@
 title,author,link,home,rss,date,timestamp
+Software Craftsmanship,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210314-software-craftsmanship,https://teobler.com,https://teobler.com/rss.xml,2021-03-14,1615705560.0
 char-dust 一个图片转字符画的 npm 包与示例站点,云游君的小站,https://www.yunyoujun.cn/posts/why-make-char-dust,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-03-14,1615690306.0
 读《蒂姆·库克传》,Randy's Blog,https://lutaonan.com/blog/reading-tim-cook/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-03-14,1615680000.0
-使用 Telegram Bot + Beancount 记账,Ahonn's Blog,https://www.ahonn.me/blog/use-telegram-bot-and-beancount-for-accounting,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2021-03-13,1615668749.0
 使用 Telegram Bot + Beancount 记账,Yuexun's Blog,https://yuexunjiang.me/blog/use-telegram-bot-and-beancount-for-accounting,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2021-03-13,1615668749.0
+使用 Telegram Bot + Beancount 记账,Ahonn's Blog,https://www.ahonn.me/blog/use-telegram-bot-and-beancount-for-accounting,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2021-03-13,1615668749.0
 Xray配置笔记,Frank笔记,https://frank2019.me/archives/xraypei-zhi-bi-ji,https://frank2019.me/,https://frank2019.me/rss.xml,2021-03-13,1615659240.0
 使用 Telegram Bot + Beancount 记账,Yuexun's Blog,https://yuexunjiang.me/blog/use-telegram-bot-and-beancount-for-accounting/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-03-13,1615593600.0
 char-dust 一个图片转字符画的 npm 包与示例站点,云游君的小站,https://www.yunyoujun.cn/posts/why-make-char-dust/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-03-12,1615568926.0
@@ -48,4 +49,3 @@ Setup SSH Authentication with YubiKey,Bin Wang - My Personal Blog,https://www.bi
 一月总结,4Ark × Blog,https://4ark.me/post/c0e3674b.html,https://4ark.me/,https://4ark.me/rss.xml,2021-02-10,1612958527.0
 报任少卿书,4Ark × Blog,https://4ark.me/posts/bao-ren-shao-qing-shu.html,https://4ark.me/,https://4ark.me/rss.xml,2021-02-08,1612785727.0
 Agile Three Business Practice,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210207-agile-three-business-practice,https://teobler.com,https://teobler.com/rss.xml,2021-02-07,1612697820.0
-【WGCF】连接CF WARP为服务器添加IPv4/IPv6网络,Luminous’ Home,https://luotianyi.vc/5252.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-02-06,1612594613.0
