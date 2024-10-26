@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+读《系统之美：决策者的系统思考》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_24-thinking_in_systems_a_primer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-24,1563926400.0
 Linux高分屏支持,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_20-linux_hidpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-20,1563580800.0
 未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0
 GCC默认的头文件搜索路径,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_16-gcc_header_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-16,1563235200.0
@@ -14,8 +15,8 @@ GCC默认的头文件搜索路径,Jiajun的技术笔记,https://jiajunhuang.com/
 我最喜欢的一台相机，今天被车压碎了 | RICOH GR | VLOG54,罗磊的独立博客,https://luolei.org/my-ricoh-gr-was-crashed-by-a-car,https://luolei.org,https://luolei.org/feed/,2019-07-05,1562284800.0
 后端工程师学前端(三): CSS进阶(特指度、单位和字体族),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_04-learn_front_end_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-04,1562198400.0
 我花20元修好了2000块的 BOSE 降噪耳机  | VLOG53,罗磊的独立博客,https://luolei.org/i-fix-my-broken-bose-qc35,https://luolei.org,https://luolei.org/feed/,2019-07-03,1562112000.0
-后端工程师学前端(二): CSS基础知识(规则与选择器),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_02-learn_front_end_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-02,1562025600.0
 澳门旅行手机上网卡推荐 | CUniq CMLink | VLOG52,罗磊的独立博客,https://luolei.org/macau-roaming-sim-card,https://luolei.org,https://luolei.org/feed/,2019-07-02,1562025600.0
+后端工程师学前端(二): CSS基础知识(规则与选择器),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_02-learn_front_end_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-02,1562025600.0
 背光门 | 苹果 MacBook 即将爆发的下一个质量问题 ? | Flexgate | 持续更新,罗磊的独立博客,https://luolei.org/apple-macbook-flexgate,https://luolei.org,https://luolei.org/feed/,2019-06-27,1561593600.0
 Swift语法笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_25-swift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-25,1561420800.0
 纽约 |  2019，我在时代广场跨年  | NYC深度行摄,罗磊的独立博客,https://luolei.org/new-york-2019,https://luolei.org,https://luolei.org/feed/,2019-06-25,1561420800.0
@@ -25,9 +26,9 @@ frp 源码阅读与分析(二)：TCP内网穿透的实现,Jiajun的技术笔记,
 五天不用微信 - 爽得很,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_15-leave_wechat_for_5_days.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-15,1560556800.0
 我想得到它，因为它是好的,Randy's Blog,https://lutaonan.com/blog/want-it-cuz-it-is-right/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-13,1560384000.0
 为你写的一首诗,Randy's Blog,https://lutaonan.com/blog/a-poem-for-you/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-12,1560297600.0
-博客近期的变化,Randy's Blog,https://lutaonan.com/blog/nearly-blog-change/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-11,1560211200.0
-2019年，我使用的加强版 VLOG 摄影装备 | 实用配件分享 | VLOG50,罗磊的独立博客,https://luolei.org/vlog-gear-2019,https://luolei.org,https://luolei.org/feed/,2019-06-11,1560211200.0
 frp 源码阅读与分析(一)：流程和概念,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_11-frpc_source_code_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-11,1560211200.0
+2019年，我使用的加强版 VLOG 摄影装备 | 实用配件分享 | VLOG50,罗磊的独立博客,https://luolei.org/vlog-gear-2019,https://luolei.org,https://luolei.org/feed/,2019-06-11,1560211200.0
+博客近期的变化,Randy's Blog,https://lutaonan.com/blog/nearly-blog-change/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-11,1560211200.0
 学习frp源码之简洁的在两个connection之间转发流量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_10-learn_from_frp_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-10,1560124800.0
 談談獨立播客,Just lepture,https://lepture.com/zh/2019/indie-podcasts,https://lepture.com/,https://lepture.com/feed.xml,2019-06-09,1560063101.0
 自己动手写一个反向代理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_09-write_you_a_simple_reverse_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-09,1560038400.0
@@ -48,4 +49,3 @@ Everyday Auto Xuexiqiangguo,云游君的小站,https://www.yunyoujun.cn/posts/ev
 密码技术简明教程(二)：散列、消息认证码和数字签名,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_14-crypto_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-14,1557792000.0
 密码技术简明教程(一)：对称加密和非对称加密,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_12-crypto.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-12,1557619200.0
 Kubernetes 笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_10-kubernetes_tutorial.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-10,1557446400.0
-go mod 和 logrus 路径大小写的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_09-go_mod_logrus.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-09,1557360000.0
