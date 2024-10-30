@@ -1,16 +1,17 @@
 title,author,link,home,rss,date,timestamp
+【DB系列】SpringBoot实现MySQL数据库备份与还原,框架師,https://www.mobaijun.com/posts/2334558877.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-12,1634023174.0
 使用 gomock 测试 Go 代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_10_12-go_mock.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-12,1633996800.0
 Twitch承认遭受攻击，源码泄露,LonelyGod,https://hin.cool/posts/twitchacked.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-11,1633986000.0
-MySQL问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/mysql-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2021-10-11,1633968241.0
 MySQL问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mysql-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-10-11,1633968241.0
+MySQL问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/mysql-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2021-10-11,1633968241.0
 UWP ListView数据绑定,DearXuan的主页,https://dearxuan.top/2021/10/11/UWP-ListView%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-11,1633952940.0
 UWP ListView数据绑定,DearXuan的主页,https://blog.dearxuan.com/2021/10/11/UWP-ListView%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-11,1633952940.0
 【Git系列】Git 仓库体积过大，缩减记录,框架師,https://www.mobaijun.com/posts/2432586935.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-11,1633917948.0
 gevent不是黑魔法(二): gevent 实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_10_11-gevent_is_good_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-11,1633910400.0
 重看了下《蛮荒记》说说感受,Nicksxs's Blog,https://nicksxs.me/2021/10/10/%E9%87%8D%E7%9C%8B%E4%BA%86%E4%B8%8B%E3%80%8A%E8%9B%AE%E8%8D%92%E8%AE%B0%E3%80%8B%E8%AF%B4%E8%AF%B4%E6%84%9F%E5%8F%97/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-10,1633869863.0
 【Linux系列】Linux中的Free命令详解,框架師,https://www.mobaijun.com/posts/386444203.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-09,1633764874.0
-UWP Brush画笔详解,DearXuan的主页,https://blog.dearxuan.com/2021/10/08/UWP-Brush%E7%94%BB%E7%AC%94%E8%AF%A6%E8%A7%A3/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-08,1633699740.0
 UWP Brush画笔详解,DearXuan的主页,https://dearxuan.top/2021/10/08/UWP-Brush%E7%94%BB%E7%AC%94%E8%AF%A6%E8%A7%A3/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-08,1633699740.0
+UWP Brush画笔详解,DearXuan的主页,https://blog.dearxuan.com/2021/10/08/UWP-Brush%E7%94%BB%E7%AC%94%E8%AF%A6%E8%A7%A3/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-08,1633699740.0
 如果你要在节后快速找回工作状态，不妨试试这7个方法,冰哥笔记,https://www.bgbiji.com/829.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-10-08,1633680102.0
 Leetcode 021 合并两个有序链表 ( Merge Two Sorted Lists ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2021/10/07/Leetcode-021-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8-Merge-Two-Sorted-Lists-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-07,1633618996.0
 UWP编程基础,DearXuan的主页,https://dearxuan.top/2021/10/05/UWP%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-05,1633423440.0
@@ -19,15 +20,15 @@ UWP编程基础,DearXuan的主页,https://blog.dearxuan.com/2021/10/05/UWP%E7%BC
 重建旧宅，死了人——无常的日常,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/rebuild-the-old-house.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-10-04,1633344360.0
 收到一位博主的红包,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/red-envelope-and-saveweb.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-10-03,1633286160.0
 聊一下 RocketMQ 的消息存储三,Nicksxs's Blog,https://nicksxs.me/2021/10/03/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E6%B6%88%E6%81%AF%E5%AD%98%E5%82%A8%E4%B8%89/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-03,1633263457.0
-谈谈服务器安全,LonelyGod,https://hin.cool/posts/serversec.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-03,1633219200.0
 谈谈服务器安全,瓦解的生活记事,https://www.hin.cool/posts/serversec.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-10-03,1633219200.0
+谈谈服务器安全,LonelyGod,https://hin.cool/posts/serversec.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-03,1633219200.0
 提升程序的逼格：添加自动更新功能,Thrower的博客,https://thrower.cc/2021/addupdatertoprogram/,https://thrower.cc,https://thrower.cc/feed/,2021-10-01,1633076640.0
 avn自动切换node版本,cywhat's blog,https://cywhat.cn/avn%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2node%E7%89%88%E6%9C%AC/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-29,1632936213.0
 gevent不是黑魔法(一): greenlet 实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_09_29-gevent_is_good_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-29,1632873600.0
 日喀则扎什伦布寺,无妄当自持,https://www.insidentally.com/articles/000018/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-09-28,1632819348.0
 [转载] 风声鹤唳,Frank笔记,https://frank2019.me/articles/2021/09/28/1632806116085.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-09-28,1632806116.0
-Spring Data MongoDB问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-data-mongodb/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-27,1632756442.0
 Spring Data MongoDB问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/spring-data-mongodb/,https://lewky233.top/,https://lewky.cn/index.xml,2021-09-27,1632756442.0
+Spring Data MongoDB问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-data-mongodb/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-27,1632756442.0
 GTO策略简化理解,Frank笔记,https://frank2019.me/articles/2021/09/27/1632719482026.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-09-27,1632719482.0
 聊一下 SpringBoot 中动态切换数据源的方法,Nicksxs's Blog,https://nicksxs.me/2021/09/26/%E8%81%8A%E4%B8%80%E4%B8%8B-SpringBoot-%E4%B8%AD%E5%8A%A8%E6%80%81%E5%88%87%E6%8D%A2%E6%95%B0%E6%8D%AE%E6%BA%90%E7%9A%84%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-09-26,1632649309.0
 【MySQL系列】MySQL数据库备份与恢复-使用MySQLDump记录,框架師,https://www.mobaijun.com/posts/2902111757.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-09-26,1632642935.0
@@ -42,10 +43,9 @@ Linux搭建sonarqube,cywhat's blog,https://cywhat.cn/Linux%E6%90%AD%E5%BB%BAsona
 旋转吧！徽章！,云游君的小站,https://www.yunyoujun.cn/posts/how-to-realize-badge-rotation,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-09-19,1632087971.0
 聊一下 SpringBoot 中使用的 cglib 作为动态代理中的一个注意点,Nicksxs's Blog,https://nicksxs.me/2021/09/19/%E8%81%8A%E4%B8%80%E4%B8%8B-SpringBoot-%E4%B8%AD%E4%BD%BF%E7%94%A8%E7%9A%84-cglib-%E4%BD%9C%E4%B8%BA%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86%E4%B8%AD%E7%9A%84%E4%B8%80%E4%B8%AA%E6%B3%A8%E6%84%8F%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-09-19,1632063391.0
 Personal ZFS Offsite Backup Solution,Bin Wang - My Personal Blog,https://www.binwang.me/2021-09-19-Personal-ZFS-Offsite-Online-Backup-Solution.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2021-09-19,1632024000.0
-你需要一个什么样的浏览器？,瓦解的生活记事,https://www.hin.cool/posts/browser.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-09-19,1632009600.0
 你需要一个什么样的浏览器？,LonelyGod,https://hin.cool/posts/browser.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-09-19,1632009600.0
+你需要一个什么样的浏览器？,瓦解的生活记事,https://www.hin.cool/posts/browser.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-09-19,1632009600.0
 Jenkins启动报错原因分析,cywhat's blog,https://cywhat.cn/Jenkins%E5%90%AF%E5%8A%A8%E6%8A%A5%E9%94%99%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-18,1631987898.0
 Linux安装jdk11,cywhat's blog,https://cywhat.cn/Linux%E5%AE%89%E8%A3%85jdk11/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-18,1631987271.0
 今年买了啥,见字如面,https://hiwannz.com/archives/602,https://hiwannz.com,https://hiwannz.com/feed,2021-09-18,1631936164.0
 Django自定义404页面,cywhat's blog,https://cywhat.cn/Django%E8%87%AA%E5%AE%9A%E4%B9%89404%E9%A1%B5%E9%9D%A2/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-17,1631908333.0
-用C++的odeint库求解微分方程,辛未羊的网络日志,https://panqiincs.me/2021/09/17/solve-ode-with-odeint/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2021-09-17,1631852453.0
