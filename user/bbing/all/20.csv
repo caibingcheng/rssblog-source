@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-MySQL问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mysql-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-10-11,1633968241.0
-UWP ListView数据绑定,DearXuan的主页,https://dearxuan.top/2021/10/11/UWP-ListView%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-11,1633952940.0
-UWP ListView数据绑定,DearXuan的主页,https://blog.dearxuan.com/2021/10/11/UWP-ListView%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-11,1633952940.0
-UWP Brush画笔详解,DearXuan的主页,https://blog.dearxuan.com/2021/10/08/UWP-Brush%E7%94%BB%E7%AC%94%E8%AF%A6%E8%A7%A3/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-08,1633699740.0
-UWP Brush画笔详解,DearXuan的主页,https://dearxuan.top/2021/10/08/UWP-Brush%E7%94%BB%E7%AC%94%E8%AF%A6%E8%A7%A3/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-08,1633699740.0
-UWP编程基础,DearXuan的主页,https://dearxuan.top/2021/10/05/UWP%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-05,1633423440.0
-UWP编程基础,DearXuan的主页,https://blog.dearxuan.com/2021/10/05/UWP%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-05,1633423440.0
-谈谈服务器安全,LonelyGod,https://hin.cool/posts/serversec.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-03,1633219200.0
-提升程序的逼格：添加自动更新功能,Thrower的博客,https://thrower.cc/2021/addupdatertoprogram/,https://thrower.cc,https://thrower.cc/feed/,2021-10-01,1633076640.0
-avn自动切换node版本,cywhat's blog,https://cywhat.cn/avn%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2node%E7%89%88%E6%9C%AC/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-29,1632936213.0
-日喀则扎什伦布寺,无妄当自持,https://www.insidentally.com/articles/000018/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-09-28,1632819348.0
-Spring Data MongoDB问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-data-mongodb/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-27,1632756442.0
-Spring Data MongoDB问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/spring-data-mongodb/,https://lewky233.top/,https://lewky.cn/index.xml,2021-09-27,1632756442.0
-Django中的form表单校验,cywhat's blog,https://cywhat.cn/Django%E4%B8%AD%E7%9A%84form%E8%A1%A8%E5%8D%95%E6%A0%A1%E9%AA%8C/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-24,1632507637.0
-hexo迁移需要进行安装的一些依赖,cywhat's blog,https://cywhat.cn/hexo%E8%BF%81%E7%A7%BB%E9%9C%80%E8%A6%81%E8%BF%9B%E8%A1%8C%E5%AE%89%E8%A3%85%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BE%9D%E8%B5%96/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-24,1632505902.0
-ERROR: Re-run SonarScanner using the -X switch to enable full debug logging.,cywhat's blog,https://cywhat.cn/ERROR-Re-run-SonarScanner-using-the-X-switch-to-enable-full-debug-logging/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-23,1632396317.0
-Linux搭建sonarqube,cywhat's blog,https://cywhat.cn/Linux%E6%90%AD%E5%BB%BAsonarqube/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-22,1632328547.0
-你需要一个什么样的浏览器？,LonelyGod,https://hin.cool/posts/browser.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-09-19,1632009600.0
-Jenkins启动报错原因分析,cywhat's blog,https://cywhat.cn/Jenkins%E5%90%AF%E5%8A%A8%E6%8A%A5%E9%94%99%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-18,1631987898.0
-Linux安装jdk11,cywhat's blog,https://cywhat.cn/Linux%E5%AE%89%E8%A3%85jdk11/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-18,1631987271.0
-Django自定义404页面,cywhat's blog,https://cywhat.cn/Django%E8%87%AA%E5%AE%9A%E4%B9%89404%E9%A1%B5%E9%9D%A2/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-17,1631908333.0
-用C++的odeint库求解微分方程,辛未羊的网络日志,https://panqiincs.me/2021/09/17/solve-ode-with-odeint/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2021-09-17,1631852453.0
-《UCB CS61a SICP Python 中文》一周目笔记(四),BBing's Blog,https://bbing.com.cn/202109/sicp-python-read4/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-09-17,1631842135.0
-【安全学习】ThinkPHP5 5.0.22/5.1.29 远程代码执行漏洞,城南以南花亦开,https://coonaa.cn/index.php/archives/200/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-09-16,1631778840.0
-腾讯云个人站点扶持计划——Webify,LonelyGod,https://hin.cool/posts/webify.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-09-16,1631750400.0
-AMP并发编程概述,DearXuan的主页,https://dearxuan.top/2021/09/11/AMP%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E6%A6%82%E8%BF%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-09-11,1631371260.0
-AMP并发编程概述,DearXuan的主页,https://blog.dearxuan.com/2021/09/11/AMP%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E6%A6%82%E8%BF%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-09-11,1631371260.0
-用C#打造支持众多协议的爆破工具（WinForm）,Thrower的博客,https://thrower.cc/2021/superbuster/,https://thrower.cc,https://thrower.cc/feed/,2021-09-11,1631327007.0
-Mac必备软件推荐,cywhat's blog,https://cywhat.cn/Mac%E5%BF%85%E5%A4%87%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-10,1631285650.0
-Hugo搜索工具hugo-algolia2,BBing's Blog,https://bbing.com.cn/202109/hugo-algolia2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-09-10,1631280721.0
-日志框架与门面模式,Yulin Lewis' Blog,https://lewky.cn/posts/log-framework/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-09,1631202242.0
-html简单实现button加载中且置灰不可点击,cywhat's blog,https://cywhat.cn/html%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0button%E5%8A%A0%E8%BD%BD%E4%B8%AD%E4%B8%94%E7%BD%AE%E7%81%B0%E4%B8%8D%E5%8F%AF%E7%82%B9%E5%87%BB/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-09,1631186772.0
-Elasticsearch问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/es-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-08,1631115899.0
-Django发送邮箱验证码实现以及邮箱html模板,cywhat's blog,https://cywhat.cn/Django%E5%8F%91%E9%80%81%E9%82%AE%E7%AE%B1%E9%AA%8C%E8%AF%81%E7%A0%81%E5%AE%9E%E7%8E%B0%E4%BB%A5%E5%8F%8A%E9%82%AE%E7%AE%B1html%E6%A8%A1%E6%9D%BF/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-08,1631112018.0
-电压钳的实验方法总结,无妄当自持,https://www.insidentally.com/articles/000017/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-09-08,1631066433.0
-Mac忽略系统更新提醒，并取消小红点,cywhat's blog,https://cywhat.cn/Mac%E5%BF%BD%E7%95%A5%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0%E6%8F%90%E9%86%92%E5%B9%B6%E5%8F%96%E6%B6%88%E5%B0%8F%E7%BA%A2%E7%82%B9/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-07,1631026709.0
-【安装教程】Ubuntu 20.04 LTS 替换国内软件源,城南以南花亦开,https://coonaa.cn/index.php/archives/196/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-09-07,1631008680.0
-从AI导出Web的SVG的最佳设置,qinxs小站,https://7bxing.com/posts/f28f8693/,https://7bxing.com/,https://7bxing.com/atom.xml,2021-09-06,1630933429.0
-【技术分享】PE文件映射解析,城南以南花亦开,https://coonaa.cn/index.php/archives/191/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-09-06,1630898400.0
-从希区柯克电影《深闺疑云》说起,LonelyGod,https://hin.cool/posts/suspicion.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-09-04,1630713600.0
-Tampermonkey+脚本+Aira2GUI直链下载百度网盘资源,cywhat's blog,https://cywhat.cn/Tampermonkey-%E8%84%9A%E6%9C%AC-Aira2GUI%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-03,1630680153.0
-为什么看这么多“没用的”东西,BBing's Blog,https://bbing.com.cn/202109/whyread-useless-content/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-09-03,1630662642.0
-【技术分享】PE文件结构解析,城南以南花亦开,https://coonaa.cn/index.php/archives/184/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-09-02,1630552800.0
-Linux关闭防火墙,cywhat's blog,https://cywhat.cn/Linux%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-01,1630493017.0
-DJango Uncaught ReferenceError: $ is not defined,cywhat's blog,https://cywhat.cn/DJango-Uncaught-ReferenceError-is-not-defined/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-31,1630429936.0
-Volantis的APlayer事件捕获,DearXuan的主页,https://blog.dearxuan.com/2021/08/31/Volantis%E7%9A%84APlayer%E4%BA%8B%E4%BB%B6%E6%8D%95%E8%8E%B7/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-31,1630404060.0
-Volantis的APlayer事件捕获,DearXuan的主页,https://dearxuan.top/2021/08/31/Volantis%E7%9A%84APlayer%E4%BA%8B%E4%BB%B6%E6%8D%95%E8%8E%B7/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-31,1630404060.0
-吐槽一下腾讯,Thrower的博客,https://thrower.cc/2021/202108/,https://thrower.cc,https://thrower.cc/feed/,2021-08-30,1630336229.0
-膜片钳实验简介- 膜片钳的基本原理及记录方法,无妄当自持,https://www.insidentally.com/articles/000016/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-08-30,1630288833.0
-键盘监听木马病毒原理,DearXuan的主页,https://blog.dearxuan.com/2021/08/29/%E9%94%AE%E7%9B%98%E7%9B%91%E5%90%AC%E6%9C%A8%E9%A9%AC%E7%97%85%E6%AF%92%E5%8E%9F%E7%90%86/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-29,1630251420.0
+glibc-raise源码阅读,BBing's Blog,https://bbing.com.cn/202111/glibc-raise/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-11-16,1637043315.0
+2021年法治理论考试分析,LonelyGod,https://hin.cool/posts/2021pufa.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-15,1637000400.0
+浮生若梦，为欢几何？,This Cute World,https://thiscute.world/posts/life-is-just-like-a-dream/,https://thiscute.world/,https://thiscute.world/index.xml,2021-11-15,1636999659.0
+CUDA并行编程概述,DearXuan的主页,https://dearxuan.top/2021/11/15/CUDA%E5%B9%B6%E8%A1%8C%E7%BC%96%E7%A8%8B%E6%A6%82%E8%BF%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-15,1636982820.0
+CUDA并行编程概述,DearXuan的主页,https://blog.dearxuan.com/2021/11/15/CUDA%E5%B9%B6%E8%A1%8C%E7%BC%96%E7%A8%8B%E6%A6%82%E8%BF%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-15,1636982820.0
+我的世界插件使用介绍,杜老师说,https://dusays.com/403/,https://dusays.com/,https://dusays.com/atom.xml,2021-11-14,1636905600.0
+Hexo各种一键部署方式的体验,LonelyGod,https://hin.cool/posts/hexodeployer.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-14,1636848000.0
+基于C#的开源远程控制软件V4mp1r3——远控编写思路分享,Thrower的博客,https://thrower.cc/2021/v4mp1r3/,https://thrower.cc,https://thrower.cc/feed/,2021-11-13,1636815363.0
+C# Bitmap图像处理加速,DearXuan的主页,https://blog.dearxuan.com/2021/11/13/C-Bitmap%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%8A%A0%E9%80%9F/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-13,1636807980.0
+C# Bitmap图像处理加速,DearXuan的主页,https://dearxuan.top/2021/11/13/C-Bitmap%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%8A%A0%E9%80%9F/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-13,1636807980.0
+人工智能基础-极大极小策略,DearXuan的主页,https://dearxuan.top/2021/11/13/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E6%9E%81%E5%A4%A7%E6%9E%81%E5%B0%8F%E7%AD%96%E7%95%A5/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-13,1636774260.0
+人工智能基础-极大极小策略,DearXuan的主页,https://blog.dearxuan.com/2021/11/13/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E6%9E%81%E5%A4%A7%E6%9E%81%E5%B0%8F%E7%AD%96%E7%95%A5/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-13,1636774260.0
+使用 Docker 搭建我的世界服务器,杜老师说,https://dusays.com/402/,https://dusays.com/,https://dusays.com/atom.xml,2021-11-11,1636646400.0
+重庆戴家巷,无妄当自持,https://www.insidentally.com/articles/000020/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-11-11,1636613148.0
+glibc-abort源码阅读,BBing's Blog,https://bbing.com.cn/202111/glibc-abort/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-11-11,1636601069.0
+使用Docker模拟软件运行环境,BBing's Blog,https://bbing.com.cn/202111/docker-build2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-11-10,1636524412.0
+什么是 Docker in Docker,杜老师说,https://dusays.com/401/,https://dusays.com/,https://dusays.com/atom.xml,2021-11-08,1636387200.0
+CLion编写我的世界基岩版插件(LiteLoaderBDS)-2,DearXuan的主页,https://dearxuan.top/2021/11/08/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS-2/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-08,1636365720.0
+CLion编写我的世界基岩版插件(LiteLoaderBDS)-2,DearXuan的主页,https://blog.dearxuan.com/2021/11/08/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS-2/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-08,1636365720.0
+CLion编写我的世界基岩版插件(LiteLoaderBDS)-1,DearXuan的主页,https://blog.dearxuan.com/2021/11/07/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-07,1636299540.0
+CLion编写我的世界基岩版插件(LiteLoaderBDS)-1,DearXuan的主页,https://dearxuan.top/2021/11/07/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-07,1636299540.0
+使用 systemctl 命令管理 systemd 单元,无妄当自持,https://www.insidentally.com/articles/000019/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-11-06,1636242699.0
+强大的博客图片管理工具——PicGo,LonelyGod,https://hin.cool/posts/picgogo.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-05,1636131720.0
+去不图床坚决抵制违禁图片,杜老师说,https://dusays.com/400/,https://dusays.com/,https://dusays.com/atom.xml,2021-11-05,1636128000.0
+人工智能基础-局部搜索算法,DearXuan的主页,https://dearxuan.top/2021/11/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E5%B1%80%E9%83%A8%E6%90%9C%E7%B4%A2%E7%AE%97%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-05,1636115100.0
+人工智能基础-局部搜索算法,DearXuan的主页,https://blog.dearxuan.com/2021/11/05/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E5%B1%80%E9%83%A8%E6%90%9C%E7%B4%A2%E7%AE%97%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-05,1636115100.0
+我的世界头衔 RGB 配色表,杜老师说,https://dusays.com/399/,https://dusays.com/,https://dusays.com/atom.xml,2021-11-02,1635868800.0
+Git常用命令,Yulin Lewis' Blog,https://lewky233.top/posts/git-commands/,https://lewky233.top/,https://lewky.cn/index.xml,2021-11-02,1635867083.0
+Git常用命令,Yulin Lewis' Blog,https://lewky.cn/posts/git-commands/,https://lewky.cn/,https://lewky.cn/index.xml,2021-11-02,1635867083.0
+我喜欢的围棋解说,辛未羊的网络日志,https://panqiincs.me/2021/11/01/weiqi-commentators/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2021-11-01,1635771062.0
+C# 编程技巧,DearXuan的主页,https://blog.dearxuan.com/2021/11/01/C-%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-01,1635767340.0
+C# 编程技巧,DearXuan的主页,https://dearxuan.top/2021/11/01/C-%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-01,1635767340.0
+记一次CDN被刷的经历,LonelyGod,https://hin.cool/posts/cdncc.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-01,1635724800.0
+感谢夏目同学赠送的 QQ 会员,杜老师说,https://dusays.com/398/,https://dusays.com/,https://dusays.com/atom.xml,2021-10-30,1635609600.0
+入坑Zippo踩坑记之D机,Thrower的博客,https://thrower.cc/2021/zippo1/,https://thrower.cc,https://thrower.cc/feed/,2021-10-30,1635594454.0
+i++和++i在函数入参时的一些问题,BBing's Blog,https://bbing.com.cn/202110/ppi-ipp-func/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-10-29,1635472443.0
+01背包问题-回溯与动态规划解法,DearXuan的主页,https://dearxuan.top/2021/10/28/01%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98-%E5%9B%9E%E6%BA%AF%E4%B8%8E%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E8%A7%A3%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-28,1635421860.0
+01背包问题-回溯与动态规划解法,DearXuan的主页,https://blog.dearxuan.com/2021/10/28/01%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98-%E5%9B%9E%E6%BA%AF%E4%B8%8E%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E8%A7%A3%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-28,1635421860.0
+去不图床付费注册通知,杜老师说,https://dusays.com/397/,https://dusays.com/,https://dusays.com/atom.xml,2021-10-27,1635350400.0
+人工智能基础-搜索树的扩展与n皇后问题,DearXuan的主页,https://blog.dearxuan.com/2021/10/27/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%89%A9%E5%B1%95%E4%B8%8En%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-27,1635340500.0
+人工智能基础-搜索树的扩展与n皇后问题,DearXuan的主页,https://dearxuan.top/2021/10/27/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%89%A9%E5%B1%95%E4%B8%8En%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-27,1635340500.0
+《程序员的自身修养——链接、装载与库》读书笔记,BBing's Blog,https://bbing.com.cn/202110/coder-link-load/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-10-25,1635162950.0
+去不图床关闭访客上传通知,杜老师说,https://dusays.com/396/,https://dusays.com/,https://dusays.com/atom.xml,2021-10-24,1635091200.0
+修改 GitLab 默认地址及端口,杜老师说,https://dusays.com/395/,https://dusays.com/,https://dusays.com/atom.xml,2021-10-21,1634832000.0
+Loveit开启评论功能,cywhat's blog,https://cywhat.cn/Loveit%E5%BC%80%E5%90%AF%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-10-21,1634807246.0
+Loveit主题开启文章赞赏,cywhat's blog,https://cywhat.cn/Loveit%E4%B8%BB%E9%A2%98%E5%BC%80%E5%90%AF%E6%96%87%E7%AB%A0%E8%B5%9E%E8%B5%8F/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-10-21,1634805401.0
+Loveit主题的一些美化设置,cywhat's blog,https://cywhat.cn/loveit%E4%B8%BB%E9%A2%98%E7%9A%84%E4%B8%80%E4%BA%9B%E7%BE%8E%E5%8C%96%E8%AE%BE%E7%BD%AE/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-10-21,1634803725.0
+乌合之众——从罗小猫猫子事件说起,LonelyGod,https://hin.cool/posts/wuhezhizhong.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-19,1634601600.0
+如何将 Hexo 部署到 OSS,杜老师说,https://dusays.com/394/,https://dusays.com/,https://dusays.com/atom.xml,2021-10-18,1634572800.0
+修改 gitlab-runner 的执行用户,杜老师说,https://dusays.com/393/,https://dusays.com/,https://dusays.com/atom.xml,2021-10-15,1634313600.0

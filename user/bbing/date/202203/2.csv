@@ -1,4 +1,14 @@
 title,author,link,home,rss,date,timestamp
+Ubuntu20.04彻底卸载mysql8.0,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E5%BD%BB%E5%BA%95%E5%8D%B8%E8%BD%BDmysql8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-08,1646731549.0
+Ubuntu上使用docker安装mysql,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4%B8%8A%E4%BD%BF%E7%94%A8docker%E5%AE%89%E8%A3%85mysql/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-07,1646647303.0
+写给开发人员的实用密码学（六）—— 对称密钥加密算法,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-6-symmetric-key-ciphers/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-06,1646563440.0
+DSM 7.1 升级包分享,杜老师说,https://dusays.com/440/,https://dusays.com/,https://dusays.com/atom.xml,2022-03-05,1646496000.0
+「转」且看有思想的年轻人,This Cute World,https://thiscute.world/posts/the-thoughtful-youth/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-04,1646405880.0
+MyBatis问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/mybatis-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-03,1646320233.0
+MyBatis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mybatis-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646320233.0
+PostgreSQL - SQL调优方案,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-sql-tuning/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646266166.0
+PostgreSQL - SQL调优方案,Yulin Lewis' Blog,https://lewky233.top/posts/postgresql-sql-tuning/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-03,1646266166.0
+群晖 7.0 安装 Chat 套件及客户端,杜老师说,https://dusays.com/439/,https://dusays.com/,https://dusays.com/atom.xml,2022-03-02,1646236800.0
 写给开发人员的实用密码学（五）—— 密钥交换 DHKE 与完美前向保密 PFS,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-5-key-exchange/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126105.0
 写给开发人员的实用密码学（四）—— 安全随机数生成器 CSPRNG,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-4-secure-random-generators/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126104.0
 写给开发人员的实用密码学（三）—— MAC 与密钥派生函数 KDF,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-3-key-derivation-function/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126103.0

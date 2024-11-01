@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-配置一个简洁，高效的zsh,刘超智,https://www.insidentally.com/articles/000002/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-29,1603933662.0
-安装使用hexo,刘超智,https://www.insidentally.com/articles/000001/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-27,1603760862.0
-✳️ Vi/Vim使用备忘,qinxs小站,https://7bxing.com/posts/b04c6f46/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-10-23,1603435073.0
-Hugo系列(4) - 从Hexo迁移至Hugo以及使用LoveIt主题的踩坑记录,雨临Lewis,https://lewky.cn/posts/hugo-4.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-12,1602516495.0
-Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章,雨临Lewis,https://lewky.cn/posts/hugo-3.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-11,1602393076.0
-Hugo系列(2) - 通过配置文件来定制个人站点,雨临Lewis,https://lewky.cn/posts/hugo-2.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-10,1602317338.0
-【推荐】Hexo博客配置及源文件备份,qinxs小站,https://7bxing.com/posts/659688f7/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-19,1600519111.0
-「硬核JS」一次搞懂JS运行机制,qinxs小站,https://7bxing.com/posts/9c28944f/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-08,1599574555.0
-Hugo系列(1) - 简单搭建教程与远程部署,雨临Lewis,https://lewky.cn/posts/hugo-1.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-09-06,1599397847.0
-2016美国总统候选人辩论,qinxs小站,https://7bxing.com/posts/52bf0210/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-08-27,1598503361.0
-短网址生成,qinxs小站,https://7bxing.com/posts/991130e/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-07-12,1594532801.0
-VIDAA3/4系统工厂模式,qinxs小站,https://7bxing.com/posts/be2c6b79/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-07-05,1593957961.0
-Shell猜数字游戏,qinxs小站,https://7bxing.com/posts/3713cf69/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-06-06,1591449141.0
-Base64 编码并不唯一,This Cute World,https://thiscute.world/posts/base64-encoding-is-not-unique/,https://thiscute.world/,https://thiscute.world/index.xml,2020-05-30,1590855180.0
-使用 tcpdump 和 Wireshark 进行远程实时抓包分析,This Cute World,https://thiscute.world/posts/tcpdump-and-wireshark/,https://thiscute.world/,https://thiscute.world/index.xml,2020-05-28,1590654026.0
-Git学习,qinxs小站,https://7bxing.com/posts/e28ceec1/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605502.0
-hello world,qinxs小站,https://7bxing.com/posts/d4a1185/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605202.0
-使用 Istio 进行 JWT 身份验证（充当 API 网关）,This Cute World,https://thiscute.world/posts/use-istio-for-jwt-auth/,https://thiscute.world/,https://thiscute.world/index.xml,2020-04-06,1586180906.0
-Linux网络学习笔记（二）：域名解析(DNS)——以 CoreDNS 为例,This Cute World,https://thiscute.world/posts/about-dns-protocol/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-29,1585468163.0
-Java的远程调试Remote Debug,雨临Lewis,https://lewky.cn/posts/java-remote-debug.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-03-17,1584459040.0
-JWT 签名算法 HS256、RS256 及 ES256 及密钥生成,This Cute World,https://thiscute.world/posts/jwt-algorithm-key-generation/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-03,1583215786.0
-2019 年年终总结,This Cute World,https://thiscute.world/posts/2019-summary/,https://thiscute.world/,https://thiscute.world/index.xml,2020-01-31,1580469540.0
-Eclipse - 快捷键篇,雨临Lewis,https://lewky.cn/posts/eclipse-hotkey.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-01-18,1579359889.0
-JDK自带的那些好用的工具,雨临Lewis,https://lewky.cn/posts/jdk-tools.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-01-03,1578034779.0
-Kubernetes 常见错误、原因及处理方法,This Cute World,https://thiscute.world/posts/kubernetes-common-errors-and-solutions/,https://thiscute.world/,https://thiscute.world/index.xml,2019-11-24,1574594814.0
-PostgreSQL - 如何杀死被锁死的进程,雨临Lewis,https://lewky.cn/posts/1514292e.html/,https://lewky.cn/,https://lewky.cn/index.xml,2019-11-14,1573745069.0
-Manjaro 使用指南,This Cute World,https://thiscute.world/posts/manjaro-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2019-07-13,1563021504.0
-逃离我的大学,This Cute World,https://thiscute.world/posts/escape-my-university/,https://thiscute.world/,https://thiscute.world/index.xml,2019-06-20,1561041151.0
-SQLAlchemy 学习笔记（三）：ORM 中的关系构建,This Cute World,https://thiscute.world/posts/sqlalchemy-notes-3-relationship-and-foreignkey/,https://thiscute.world/,https://thiscute.world/index.xml,2019-05-21,1558448340.0
-瘾的退却,This Cute World,https://thiscute.world/posts/webnovel-addiction-recovery/,https://thiscute.world/,https://thiscute.world/index.xml,2019-04-14,1555248452.0
-Python 并发编程：PoolExecutor 篇,This Cute World,https://thiscute.world/posts/python-concurrency-pool-executor/,https://thiscute.world/,https://thiscute.world/index.xml,2019-03-15,1552660440.0
-Python 异步编程笔记：asyncio,This Cute World,https://thiscute.world/posts/python-asyncio/,https://thiscute.world/,https://thiscute.world/index.xml,2019-02-14,1550121060.0
-SQLAlchemy 学习笔记（二）：ORM 基础,This Cute World,https://thiscute.world/posts/sqlalchemy-notes-2-orm-basics/,https://thiscute.world/,https://thiscute.world/index.xml,2019-02-11,1549885920.0
-WebSocket、HTTP/2 与 gRPC,This Cute World,https://thiscute.world/posts/websocket-http2-and-grpc/,https://thiscute.world/,https://thiscute.world/index.xml,2019-02-11,1549880796.0
-Chrome 与 Firefox-Dev 的 DevTools,This Cute World,https://thiscute.world/posts/web-browser-dev-tools/,https://thiscute.world/,https://thiscute.world/index.xml,2019-02-11,1549875206.0
-通过 systemctl 设置自定义 Service,This Cute World,https://thiscute.world/posts/systemd-basics/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-28,1548677580.0
-SQLAlchemy 学习笔记（一）：Engine 与 SQL 表达式语言,This Cute World,https://thiscute.world/posts/sqlalchemy-notes-1-engine-and-sql-expression-language/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-21,1548050520.0
-SQL 基础笔记（三）约束,This Cute World,https://thiscute.world/posts/sql-basics-3-restrict/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-20,1547989726.0
-Julia 学习笔记（一）：数组,This Cute World,https://thiscute.world/posts/julia-notes-1-array/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-14,1547466660.0
-在回声中重历,This Cute World,https://thiscute.world/posts/relive-in-the-echo/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-08,1546941345.0
-SQL 基础笔记（二）进阶查询,This Cute World,https://thiscute.world/posts/sql-basics-2-queries/,https://thiscute.world/,https://thiscute.world/index.xml,2018-06-17,1529216266.0
-SQL 基础笔记（一）,This Cute World,https://thiscute.world/posts/sql-basics-1/,https://thiscute.world/,https://thiscute.world/index.xml,2018-06-15,1529051266.0
-Python 视频转字符动画（二）进阶,This Cute World,https://thiscute.world/posts/video2chars-2/,https://thiscute.world/,https://thiscute.world/index.xml,2018-05-25,1527242882.0
-学英语啊学英语,This Cute World,https://thiscute.world/posts/learning-english/,https://thiscute.world/,https://thiscute.world/index.xml,2018-05-16,1526472002.0
-《十二国记》,This Cute World,https://thiscute.world/posts/the-twelve-kingdoms/,https://thiscute.world/,https://thiscute.world/index.xml,2018-04-27,1524797354.0
-Java 中文编码分析,This Cute World,https://thiscute.world/posts/how-java-handles-chinese/,https://thiscute.world/,https://thiscute.world/index.xml,2018-03-11,1520757540.0
-进程线程协程与并发并行,This Cute World,https://thiscute.world/posts/process-thread-coroutines-concurrency-parallelism/,https://thiscute.world/,https://thiscute.world/index.xml,2018-01-23,1516696740.0
-《尘缘》,This Cute World,https://thiscute.world/posts/fate-of-mortals/,https://thiscute.world/,https://thiscute.world/index.xml,2017-11-17,1510941120.0
-又一个期末,This Cute World,https://thiscute.world/posts/the-end-of-another-semester/,https://thiscute.world/,https://thiscute.world/index.xml,2017-06-26,1498498125.0
-《无限的未知》,This Cute World,https://thiscute.world/posts/infinite-ryvius/,https://thiscute.world/,https://thiscute.world/index.xml,2017-06-14,1497416738.0
+Wallpaper的原理和C#实现(含源文件),DearXuan的主页,https://blog.dearxuan.com/2021/07/27/Wallpaper%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8CC-%E5%AE%9E%E7%8E%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-27,1627358940.0
+Wallpaper的原理和C#实现(含源文件),DearXuan的主页,https://dearxuan.top/2021/07/27/Wallpaper%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8CC-%E5%AE%9E%E7%8E%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-27,1627358940.0
+80 端口重定向三种解决方案,杜老师说,https://dusays.com/366/,https://dusays.com/,https://dusays.com/atom.xml,2021-07-26,1627315200.0
+针对内存修改的反作弊方法,DearXuan的主页,https://dearxuan.top/2021/07/25/%E9%92%88%E5%AF%B9%E5%86%85%E5%AD%98%E4%BF%AE%E6%94%B9%E7%9A%84%E5%8F%8D%E4%BD%9C%E5%BC%8A%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-25,1627192260.0
+针对内存修改的反作弊方法,DearXuan的主页,https://blog.dearxuan.com/2021/07/25/%E9%92%88%E5%AF%B9%E5%86%85%E5%AD%98%E4%BF%AE%E6%94%B9%E7%9A%84%E5%8F%8D%E4%BD%9C%E5%BC%8A%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-25,1627192260.0
+杜老师版我的世界「全版」,杜老师说,https://dusays.com/365/,https://dusays.com/,https://dusays.com/atom.xml,2021-07-23,1627056000.0
+Linux 下修改 MTU 值,杜老师说,https://dusays.com/364/,https://dusays.com/,https://dusays.com/atom.xml,2021-07-20,1626796800.0
+PVZ逆向分析与C#内存操作(含源文件),DearXuan的主页,https://dearxuan.top/2021/07/19/PVZ%E9%80%86%E5%90%91%E5%88%86%E6%9E%90%E4%B8%8EC-%E5%86%85%E5%AD%98%E6%93%8D%E4%BD%9C/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-19,1626692580.0
+PVZ逆向分析与C#内存操作(含源文件),DearXuan的主页,https://blog.dearxuan.com/2021/07/19/PVZ%E9%80%86%E5%90%91%E5%88%86%E6%9E%90%E4%B8%8EC-%E5%86%85%E5%AD%98%E6%93%8D%E4%BD%9C/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-19,1626692580.0
+我的家乡与长江水患,辛未羊的网络日志,https://panqiincs.me/2021/07/19/hometown-and-flood/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2021-07-19,1626682693.0
+C#序列化对象的二进制储存方法及底层原理研究,DearXuan的主页,https://dearxuan.top/2021/07/19/C-%E5%BA%8F%E5%88%97%E5%8C%96%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%82%A8%E5%AD%98%E6%96%B9%E6%B3%95%E5%8F%8A%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%E7%A0%94%E7%A9%B6/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-19,1626659700.0
+C#序列化对象的二进制储存方法及底层原理研究,DearXuan的主页,https://blog.dearxuan.com/2021/07/19/C-%E5%BA%8F%E5%88%97%E5%8C%96%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%82%A8%E5%AD%98%E6%96%B9%E6%B3%95%E5%8F%8A%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%E7%A0%94%E7%A9%B6/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-19,1626659700.0
+正则表达式,qinxs小站,https://7bxing.com/posts/2f57a694/,https://7bxing.com/,https://7bxing.com/atom.xml,2021-07-18,1626621000.0
+V2V 转换器、P2V 迁移器,杜老师说,https://dusays.com/363/,https://dusays.com/,https://dusays.com/atom.xml,2021-07-17,1626537600.0
+通过 npm 调整 Node.js 版本,杜老师说,https://dusays.com/362/,https://dusays.com/,https://dusays.com/atom.xml,2021-07-14,1626278400.0
+C#实现简易XML阅读器(含源文件和exe文件),DearXuan的主页,https://blog.dearxuan.com/2021/07/14/C-%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93XML%E9%98%85%E8%AF%BB%E5%99%A8/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-14,1626267660.0
+C#实现简易XML阅读器(含源文件和exe文件),DearXuan的主页,https://dearxuan.top/2021/07/14/C-%E5%AE%9E%E7%8E%B0%E7%AE%80%E6%98%93XML%E9%98%85%E8%AF%BB%E5%99%A8/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-14,1626267660.0
+C#编写代理验证工具（WinForm）,Thrower的博客,https://thrower.cc/2021/csharpproxyvalidator/,https://thrower.cc,https://thrower.cc/feed/,2021-07-14,1626266324.0
+利用RSA加密实现的简易离线验证功能(C#，含代码),DearXuan的主页,https://dearxuan.top/2021/07/13/%E5%88%A9%E7%94%A8RSA%E5%8A%A0%E5%AF%86%E5%AE%9E%E7%8E%B0%E7%9A%84%E7%AE%80%E6%98%93%E7%A6%BB%E7%BA%BF%E9%AA%8C%E8%AF%81%E5%8A%9F%E8%83%BD/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-13,1626184920.0
+利用RSA加密实现的简易离线验证功能(C#，含代码),DearXuan的主页,https://blog.dearxuan.com/2021/07/13/%E5%88%A9%E7%94%A8RSA%E5%8A%A0%E5%AF%86%E5%AE%9E%E7%8E%B0%E7%9A%84%E7%AE%80%E6%98%93%E7%A6%BB%E7%BA%BF%E9%AA%8C%E8%AF%81%E5%8A%9F%E8%83%BD/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-13,1626184920.0
+杜老师说同款博客搭建,杜老师说,https://dusays.com/361/,https://dusays.com/,https://dusays.com/atom.xml,2021-07-11,1626019200.0
+DFA算法-简易Java敏感词过滤(含源文件和上万敏感词列表),DearXuan的主页,https://blog.dearxuan.com/2021/07/11/DFA%E7%AE%97%E6%B3%95-%E7%AE%80%E6%98%93Java%E6%95%8F%E6%84%9F%E8%AF%8D%E8%BF%87%E6%BB%A4/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-11,1626014340.0
+DFA算法-简易Java敏感词过滤(含源文件和上万敏感词列表),DearXuan的主页,https://dearxuan.top/2021/07/11/DFA%E7%AE%97%E6%B3%95-%E7%AE%80%E6%98%93Java%E6%95%8F%E6%84%9F%E8%AF%8D%E8%BF%87%E6%BB%A4/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-11,1626014340.0
+Swagger问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/swagger-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-07-09,1625845748.0
+第三方微博客户端Share宣布停止维护更新,LonelyGod,https://hin.cool/posts/weiboshare.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-07-09,1625788800.0
+第三方微博客户端Share宣布停止维护更新,瓦解的生活记事,https://www.hin.cool/posts/weiboshare.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-07-09,1625788800.0
+Windows 的高效启动器 Listary,杜老师说,https://dusays.com/360/,https://dusays.com/,https://dusays.com/atom.xml,2021-07-08,1625760000.0
+我还有这一腔孤勇,LonelyGod,https://hin.cool/posts/myeyes.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-07-06,1625529600.0
+我还有这一腔孤勇,瓦解的生活记事,https://www.hin.cool/posts/myeyes.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-07-06,1625529600.0
+用于自定义 Windows 的实用工具 PowerToys,杜老师说,https://dusays.com/359/,https://dusays.com/,https://dusays.com/atom.xml,2021-07-05,1625500800.0
+高斯模糊的Java实现及优化,DearXuan的主页,https://blog.dearxuan.com/2021/07/05/%E9%AB%98%E6%96%AF%E6%A8%A1%E7%B3%8A%E7%9A%84Java%E5%AE%9E%E7%8E%B0%E5%8F%8A%E4%BC%98%E5%8C%96/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-05,1625463900.0
+高斯模糊的Java实现及优化,DearXuan的主页,https://dearxuan.top/2021/07/05/%E9%AB%98%E6%96%AF%E6%A8%A1%E7%B3%8A%E7%9A%84Java%E5%AE%9E%E7%8E%B0%E5%8F%8A%E4%BC%98%E5%8C%96/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-05,1625463900.0
+NSIS制作简单安装程序（带源码及注释）,Thrower的博客,https://thrower.cc/2021/nsis/,https://thrower.cc,https://thrower.cc/feed/,2021-07-04,1625380786.0
+阿里云盘注册邀请,杜老师说,https://dusays.com/358/,https://dusays.com/,https://dusays.com/atom.xml,2021-07-02,1625241600.0
+博客功能展示,Barney's Blog,https://hugo.bnblogs.cc/%E5%8D%9A%E5%AE%A2%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-06-30,1625055667.0
+黑寡妇 2021 资源分享,杜老师说,https://dusays.com/357/,https://dusays.com/,https://dusays.com/atom.xml,2021-06-29,1624982400.0
+扎克施奈德版正义联盟资源分享,杜老师说,https://dusays.com/356/,https://dusays.com/,https://dusays.com/atom.xml,2021-06-26,1624723200.0
+Hexo主题butterfly初体验,LonelyGod,https://hin.cool/posts/butterfly.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-06-25,1624579200.0
+Hexo主题butterfly初体验,瓦解的生活记事,https://www.hin.cool/posts/butterfly.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-06-25,1624579200.0
+宝贝电影 2 第二部资源分享,杜老师说,https://dusays.com/355/,https://dusays.com/,https://dusays.com/atom.xml,2021-06-23,1624464000.0
+宝贝老板资源分享,杜老师说,https://dusays.com/354/,https://dusays.com/,https://dusays.com/atom.xml,2021-06-20,1624204800.0
+读「控制系统设计」,辛未羊的网络日志,https://panqiincs.me/2021/06/20/control-system-design/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2021-06-20,1624172694.0
+Ecosia——一个绿色的搜索引擎,瓦解的生活记事,https://www.hin.cool/posts/ecosia.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-06-20,1624147200.0
+Ecosia——一个绿色的搜索引擎,LonelyGod,https://hin.cool/posts/ecosia.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-06-20,1624147200.0
+GitLab 配合云主机实现持续集成,杜老师说,https://dusays.com/353/,https://dusays.com/,https://dusays.com/atom.xml,2021-06-17,1623945600.0
+不念过往，不畏将来,瓦解的生活记事,https://www.hin.cool/posts/summerbeer.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-06-15,1623715200.0
+热河——2015年“看见”北京现场版,瓦解的生活记事,https://www.hin.cool/posts/mvrehe.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-06-12,1623456000.0
+如何在虚拟机上安装 Synology Guest Tool,杜老师说,https://dusays.com/351/,https://dusays.com/,https://dusays.com/atom.xml,2021-06-11,1623427200.0
+使用Cloudflare加速vercel,瓦解的生活记事,https://www.hin.cool/posts/cfvercel.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-06-10,1623283200.0
+VC++运行库合集「6 月 8 日更新」,杜老师说,https://dusays.com/350/,https://dusays.com/,https://dusays.com/atom.xml,2021-06-08,1623168000.0
