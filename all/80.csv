@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+为什么gRPC难以推广,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_29-why_grpc_is_not_popular.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-29,1569715200.0
 TCP 的三次握手,杜老师说,https://dusays.com/82/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-28,1569686400.0
 vi 编辑器操作指南,杜老师说,https://dusays.com/81/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-27,1569600000.0
 我在 UC 做的前端工程化探索,Randy's Blog,https://lutaonan.com/blog/what-i-have-done-at-UC/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-27,1569542400.0
@@ -48,4 +49,3 @@ OSI 七层模型非专业简介,杜老师说,https://dusays.com/57/,https://dusa
 基于端口的 NAT,杜老师说,https://dusays.com/56/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-02,1567440000.0
 一个Golang gRPC握手错误的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_02-go_grpc_handshake.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-02,1567382400.0
 访问控制列表,杜老师说,https://dusays.com/55/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-01,1567353600.0
-带你读单词第 24 期,杜老师说,https://dusays.com/54/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-31,1567267200.0

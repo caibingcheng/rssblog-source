@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+PostgreSQL - 字符串函数汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-string.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-18,1613659443.0
 告别无用社交,Frank笔记,https://frank2019.me/archives/gao-bie-wu-yong-she-jiao,https://frank2019.me/,https://frank2019.me/rss.xml,2021-02-16,1613499000.0
 正向、反向代理区别,杜老师说,https://dusays.com/313/,https://dusays.com/,https://dusays.com/atom.xml,2021-02-15,1613404800.0
 Agile Team Practice,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210214-agile-team-practice,https://teobler.com,https://teobler.com/rss.xml,2021-02-14,1613279580.0
@@ -28,7 +29,7 @@ Agile Business Practice Planning Games,Teobler - 失眠多梦，bug体质,https:
 在 Windows10 挂载 iSCSI 客户端,杜老师说,https://dusays.com/308/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-31,1612108800.0
 2020年总结,Frank笔记,https://frank2019.me/archives/2020nian-zong-jie,https://frank2019.me/,https://frank2019.me/rss.xml,2021-01-30,1612029660.0
 记一次被网贷催收,非理勿试,https://www.ntiy.com/1515.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-01-30,1611970734.0
-Facebook 集群调度管理系统 · OSDI '20,面向信仰编程,https://draveness.me//papers-twine,https://draveness.me/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
+数据中心的电力超售 · OSDI '20,面向信仰编程,https://draveness.me//papers-thunderbolt,https://draveness.me/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
 纳秒级高性能日志系统 · ATC '18,面向信仰编程,https://draveness.me//papers-nanolog,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
 在群晖上创建 iSCSI 服务端,杜老师说,https://dusays.com/307/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-28,1611849600.0
 云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/experience-of-argo-workflows/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
@@ -48,4 +49,3 @@ iSCSI 概念及原理,杜老师说,https://dusays.com/304/,https://dusays.com/,h
 QEMU/KVM 虚拟化环境的搭建与使用,This Cute World,https://thiscute.world/posts/qemu-kvm-usage/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-17,1610890444.0
 从 Composition API 源码分析 getCurrentInstance() 为何返回 null,4Ark × Blog,https://4ark.me/post/87ba8d8b.html,https://4ark.me/,https://4ark.me/rss.xml,2021-01-16,1610836795.0
 KMS 客户端安装密钥,杜老师说,https://dusays.com/303/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-16,1610812800.0
-关于,This Cute World,https://thiscute.world/about/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-15,1610727871.0
