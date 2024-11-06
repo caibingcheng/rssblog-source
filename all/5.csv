@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+使用 Docker 部署 Gitea Actions 的 Runner,杜老师说,https://dusays.com/723/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-01,1719849600.0
 2024夏：不畏浮云遮望眼，乱云飞渡仍从容,Macin,https://macin.org/2024/06/30/202404/,https://macin.org/,https://www.macin.org/atom.xml,2024-06-30,1719779325.0
 介绍一下Java的BiFunction,Nicksxs's Blog,https://nicksxs.me/2024/06/30/%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8BJava%E7%9A%84BiFunction/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-30,1719757055.0
 2024-06小记,汐塔魔法屋,https://blog.sinzmise.top/posts/64935/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-06-28,1719613919.0
@@ -9,7 +10,7 @@ title,author,link,home,rss,date,timestamp
 PIVOT Vol.5 终于毕业了！,Another Dayu,https://anotherdayu.com/2024/5796/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-06-23,1719134648.0
 使用 imgproxy 对接 MinIO 实现图片处理,杜老师说,https://dusays.com/720/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-22,1719072000.0
 观“我在闲鱼上买购物卡被骗了”有感：虚拟商品交易骗局防不胜防,非理勿试,https://www.ntiy.com/2185.html,https://www.ntiy.com,https://www.ntiy.com/feed,2024-06-21,1718935007.0
-手动清理C盘的空间,瓦解的生活记事,https://hin.cool/posts/cclean.html,https://hin.cool/,https://hin.cool/atom.xml,2024-06-20,1718902800.0
+手动清理C盘的空间,瓦解的生活记事,https://hin.cool/posts/cclean.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-06-20,1718902800.0
 FAST OS DOCKER 容器管理器的安装与使用,杜老师说,https://dusays.com/719/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-19,1718812800.0
 写了个页面分享此时此刻我在听的歌,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/784/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-06-18,1718744366.0
 关丹：一直游到海水变蓝,Macin,https://macin.org/2024/06/18/guan-dan/,https://macin.org/,https://www.macin.org/atom.xml,2024-06-18,1718740043.0
@@ -48,4 +49,3 @@ iStoreOS 路由系统介绍与安装,杜老师说,https://dusays.com/710/,https:
 SPF、DKIM与DMARC为何？,Muidar's Site,https://muidar.com/posts/cmuidar/what-is-spf-dkim-dmarc/,https://muidar.com,https://muidar.com/feed,2024-05-18,1716036184.0
 免费的代码AI辅助工具：百度comate,瓦解的生活记事,https://hin.cool/posts/baiducomate.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-05-18,1716031200.0
 基于 rsync+inotifywait 实现文件的实时同步,杜老师说,https://dusays.com/708/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-17,1715961600.0
-拓扑相关概念的演化,辛未羊的网络日志,https://panqiincs.me/2024/05/16/bourbaki-topology/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2024-05-16,1715864162.0
