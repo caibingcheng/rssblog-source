@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Go Module 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_03-go_module.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-03,1535932800.0
 写了一个Telegram Bot：自动化分享高质量内容,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_02-write_a_tgbot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-02,1535846400.0
 为什么我选择放弃运营微信公众号？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-why_i_give_up_wechat_public_account.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Web后端工程师进阶指南(2018),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
@@ -48,4 +49,3 @@ Golang 分布式异步任务队列 Machinery 教程,Jiajun的技术笔记,https:
 Git HTTPS 如何保存密码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_29-git_credential_store.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
 程序员修炼之道 阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_13-the_programmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-13,1510531200.0
 Python开发实践经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_04-python_develop_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-04,1509753600.0
-Golang实现平滑重启(优雅重启),Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_25-golang_graceful_restart.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-25,1508889600.0
