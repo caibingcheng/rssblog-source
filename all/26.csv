@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+使用Kubeadm搭建Kubernetes集群,Barney's Blog,https://hugo.bnblogs.cc/kubernetes%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-22,1677039991.0
+更换主题acrylic,醉里博客,https://202271.xyz/post/3608/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-02-22,1677024813.0
 把 ChatGPT 接入到微信上「源码部署」,杜老师说,https://dusays.com/558/,https://dusays.com/,https://dusays.com/atom.xml,2023-02-21,1676995200.0
 Kubernetes简单入门之minikube,Barney's Blog,https://hugo.bnblogs.cc/kubernetes%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-20,1676897885.0
 昆明：得意忘形，流连忘返,Macin,https://macin.org/2023/02/20/kun-ming-de-yi-wang-xing/,https://macin.org/,https://www.macin.org/atom.xml,2023-02-20,1676891780.0
@@ -47,5 +49,3 @@ Nginx学习笔记,Barney's Blog,https://hugo.bnblogs.cc/nginx%E9%85%8D%E7%BD%AE%
 为什么要把复杂的联表操作拆成多个单表查询？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_02_03-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-02-03,1675382400.0
 使用github action部署hugo博客,Barney's Blog,https://hugo.bnblogs.cc/%E4%BD%BF%E7%94%A8github_action%E9%83%A8%E7%BD%B2hugo%E5%8D%9A%E5%AE%A2/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-02,1675353247.0
 一个通知！！！,九弦之屋,https://blog.sinzmise.top/posts/48762/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-02-02,1675346852.0
-我如何在 7 年内胖了 40 斤，又用 90 天减掉 20 斤,罗磊的独立博客,http://luolei.org/how-i-lose-10kg-in-3-months/,https://luolei.org/,https://luolei.org/feed/,2023-02-02,1675345891.0
-现在安卓手机还有必要折腾吗,瓦解的生活记事,https://hin.cool/posts/whyandroid.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-02-01,1675236602.0
