@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
+Debian 使用NetworkManager之后networking.service崩溃,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
 【设计模式】Java设计模式-(Singleton)单例模式,框架師,https://www.mobaijun.com/posts/1469544396.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-12,1589246412.0
 Redis 注册服务与自动启动,杜老师说,https://dusays.com/220/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-11,1589212800.0
 【Git系列】Git GC命令清理Git暂存区,框架師,https://www.mobaijun.com/posts/3336337147.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-11,1589190407.0
@@ -39,7 +41,7 @@ Golang log 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 Golang flag源码阅读及自己实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_23-go_flag.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-23,1587600000.0
 Golang context源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_22-golang_context.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
 【Git系列】详细记录一次码云和Git异常解决方案,框架師,https://www.mobaijun.com/posts/3160757487.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-21,1587434290.0
-善用闭包(closure)让Go代码更优雅,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_21-use_closure.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
+Golang中的并发控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_21-golang_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
 CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡,罗磊的独立博客,https://luolei.org/cmlink-global-borderless-internet-roaming-card,https://luolei.org,https://luolei.org/feed/,2020-04-21,1587427200.0
 Linux 特殊权限总结篇,杜老师说,https://dusays.com/213/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-20,1587398400.0
 Golang的可选参数实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
@@ -47,5 +49,3 @@ Golang的可选参数实践,Jiajun的技术笔记,https://jiajunhuang.com/articl
 【Hexo】Hexo——Npm使用报错,框架師,https://www.mobaijun.com/posts/776701796.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-18,1587192270.0
 简单聊 SBIT,杜老师说,https://dusays.com/212/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-17,1587139200.0
 【随笔】常用Emoji表情一览表😆,框架師,https://www.mobaijun.com/posts/1007769027.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-15,1586935140.0
-【Java基础】权限修饰符和常用关键字学习,框架師,https://www.mobaijun.com/posts/1663206604.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-15,1586927961.0
-KK没有位置低级别策略,Frank笔记,https://frank2019.me/archives/kkmei-you-wei-zhi-di-ji-bie-ce-lue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-14,1586895960.0

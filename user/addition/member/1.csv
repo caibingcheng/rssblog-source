@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【随笔】解决 hexo matery 主题卜算子统计失效异常,框架師,https://www.mobaijun.com/posts/2629378943.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-11-11,1731294178.0
 git小技巧之git cherry-pick,Nicksxs's Blog,https://nicksxs.me/2024/11/09/git%E5%B0%8F%E6%8A%80%E5%B7%A7%E4%B9%8Bgit-cherry-pick/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-11-09,1731157874.0
 中国留学生的三个阶段,Another Dayu,https://anotherdayu.com/2024/6027/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-09,1731149206.0
 自动升级Docker容器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_07-auto_upgrade_docker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-07,1730937600.0
@@ -16,7 +17,6 @@ AI 和写作,Randy's Blog,https://lutaonan.com/blog/ai-writing/,https://lutaonan
 SBT Task to Build Frontend Components,Bin Wang - My Personal Blog,https://www.binwang.me/2024-09-13-SBT-Task-to-Build-Frontend-Components.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-09-13,1726200000.0
 Kong 3.7重磅上线！Kong AI Gateway 正式 GA！,把酒诗代码，趁乱写年华。,https://102no.com/2024/08/27/kong-3.7/,https://102no.com/,https://102no.com/atom.xml,2024-08-26,1724688000.0
 Windows 聚焦隐藏“了解此图片”图标,岚天小窝,https://blog.ltya.top/posts/spotlightMgr.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2024-08-22,1724342400.0
-【随笔】如何通过覆盖源码类解决 ServiceUtils 类的 NullPointerException 错误,框架師,https://www.mobaijun.com/posts/474240225.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-08-05,1722851948.0
 八月,醉里博客,https://202271.xyz/post/24179/,https://202271.xyz/,https://202271.xyz/atom.xml,2024-08-02,1722629848.0
 在Argon主题评论添加Turnstile,Muidar's Site,https://muidar.com/posts/cmuidar/add-turnstile-to-argons-comment/,https://muidar.com,https://muidar.com/feed,2024-06-03,1717398702.0
 ChatGPT、Transformer 与注意力机制,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20240421-chatgpt-attention-and-transformer,https://teobler.com,https://teobler.com/rss.xml,2024-04-21,1713677123.0
