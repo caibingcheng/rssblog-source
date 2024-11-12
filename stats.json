@@ -19,10 +19,6 @@
         2
       ],
       [
-        "7ce311d02451e6d8f85a0cae6ea26a0a",
-        1
-      ],
-      [
         "57dcbef78f144662ff9cbbe21ca040cb",
         4
       ],
@@ -721,7 +717,6 @@
     "user": [
       {
         "user": "addition",
-        "member": 1,
         "all": 66,
         "date": [
           [
@@ -1259,11 +1254,11 @@
               ]
             ]
           ]
-        ]
+        ],
+        "member": 1
       },
       {
         "user": "bbing",
-        "member": 1,
         "all": 34,
         "date": [
           [
@@ -1475,7 +1470,8 @@
               ]
             ]
           ]
-        ]
+        ],
+        "member": 1
       }
     ]
   }
