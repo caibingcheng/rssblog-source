@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+2018 香港流行音乐推介,Randy's Blog,https://lutaonan.com/blog/2018-cantonpop-list/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-12-19,1545177600.0
 Prometheus MySQL Exporter源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_16-prometheus_mysqld_exporter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-16,1544918400.0
 MySQL性能指标,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_13-db_metrics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-13,1544659200.0
 使用Dropbox来备份服务器文件,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_12-use_dropbox_to_backup_server.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-12,1544572800.0
@@ -10,11 +11,11 @@ Y Combinator《如何创业》笔记,Jiajun的技术笔记,https://jiajunhuang.c
 Go类型嵌套,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_01-go_embedding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-01,1543622400.0
 etcd源码阅读与分析（五）：mvcc,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_28-etcd_source_code_analysis_mvvc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-28,1543363200.0
 etcd源码阅读与分析（四）：lease,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_27-etcd_source_code_analysis_lease.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-27,1543276800.0
-菲律宾 | 18米深蓝:薄荷岛&宿务 OW潜水旅行,罗磊的独立博客,https://luolei.org/travel-philippines-bohol,https://luolei.org,https://luolei.org/feed/,2018-11-26,1543190400.0
 干了这碗叔本华牌毒鸡汤 --- 《人生的智慧》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_26-the_wisdom_of_life_on_human_nature.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-26,1543190400.0
+菲律宾 | 18米深蓝:薄荷岛&宿务 OW潜水旅行,罗磊的独立博客,https://luolei.org/travel-philippines-bohol,https://luolei.org,https://luolei.org/feed/,2018-11-26,1543190400.0
 etcd源码阅读与分析（三）：wal,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_24-etcd_source_code_analysis_wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
-etcd源码阅读与分析（二）：raft,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_22-etcd_source_code_analysis_raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-22,1542844800.0
 每个UP主都应该有个监视器 | 艾肯HH7 | ZUOLUOTV,罗磊的独立博客,https://luolei.org/ikan-portkeys-hh7-montor,https://luolei.org,https://luolei.org/feed/,2018-11-22,1542844800.0
+etcd源码阅读与分析（二）：raft,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_22-etcd_source_code_analysis_raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-22,1542844800.0
 etcd源码阅读与分析（一）：raftexample,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_20-etcd_source_code_analysis_raftexample.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-20,1542672000.0
 虚拟机里的Ubuntu sudo时卡住,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_18-ubuntu_sudo_hang.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-18,1542499200.0
 new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-11-17,1542486792.0
@@ -44,8 +45,7 @@ UTAU插件:一键描点 使用帮助,FlyingSky's Blog,https://blog.fsky7.com/tec
 独立运营博客一年的一些数据分享,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
 To B(usiness) 和 To C(ustomer),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_22-to_b_to_c.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-22,1537574400.0
 PyCon JP 2018 記,Just lepture,https://lepture.com/zh/2018/pycon-jp-2018,https://lepture.com/,https://lepture.com/feed.xml,2018-09-19,1537364456.0
-Cookie 中的secure和httponly属性,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_16-cookie_secure_httponly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
+常见的软件架构套路,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-09-15,1536969687.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-09-15,1536969600.0
 一个阅读源代码的技巧,Randy's Blog,https://lutaonan.com/blog/trick-for-reading-source-code/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-09-14,1536883200.0
-高效的 GraphQL + Ant.Design,Randy's Blog,https://lutaonan.com/blog/effective-graphql-and-antd/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-09-12,1536710400.0
