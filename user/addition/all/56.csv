@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Linux低电量自动关机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_06_24-linux_shutdown_when_bat_is_low.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-06-24,1529798400.0
 开箱 | 再见了旧爱，迎小三新欢:索尼A7M3,罗磊的独立博客,https://luolei.org/sony-a7m3-unboxing,https://luolei.org,https://luolei.org/feed/,2018-06-23,1529712000.0
 关于部落冲突的二三事儿（番外）-端午事变,云游君的小站,https://www.yunyoujun.cn/posts/coc-dragon-boat-incident,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-06-22,1529708724.0
 Unity 中用有限状态机来实现一个 AI,萤火之森,http://frankorz.com/2018/06/22/finite-state-machine-in-unity/,http://frankorz.com/,https://frankorz.com/atom.xml,2018-06-22,1529691571.0
@@ -46,6 +47,5 @@ Golang runtime 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.c
 Golang的一些坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_31-golang_traps.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-31,1517356800.0
 GC 垃圾回收,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_30-gc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-30,1517270400.0
 VS Code 配置笔记,云游君的小站,https://www.yunyoujun.cn/posts/vscode-config-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-01-29,1517240360.0
-Setapp 体验:每个月 $9.9 订阅 Mac 软件,罗磊的独立博客,https://luolei.org/mac-setapp,https://luolei.org,https://luolei.org/feed/,2018-01-28,1517097600.0
 设计一个路由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_28-router_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-28,1517097600.0
-Go语言性能优化实战,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_22-golang_optimization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-22,1516579200.0
+Setapp 体验:每个月 $9.9 订阅 Mac 软件,罗磊的独立博客,https://luolei.org/mac-setapp,https://luolei.org,https://luolei.org/feed/,2018-01-28,1517097600.0
