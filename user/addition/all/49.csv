@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Mac 上连接 Android 传输文件与配置 SDK platform tools 环境,ChrAlpha,https://blog.ichr.me/post/configurate-connection-with-android-on-mac/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-08,1581157605.0
 KVM spice协议在高分屏上的分辨率问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_08-kvm_spice_high_dpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-08,1581120000.0
 入戏太深，殃及世人。,Frank笔记,https://frank2019.me/archives/ru-xi-tai-shen-yang-ji-shi-ren.,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-06,1581022740.0
 MDr 主题的使用指南,FlyingSky's Blog,https://blog.fsky7.com/archives/93/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-02-06,1580987280.0
@@ -48,4 +49,3 @@ ArchLinux忽略某个包的升级,Jiajun的技术笔记,https://jiajunhuang.com/
 How to style RSS feed,Just lepture,https://lepture.com/en/2019/rss-style-with-xsl,https://lepture.com/,https://lepture.com/feed.xml,2019-12-21,1576916648.0
 【Java基础】JDK1.8的新特性,框架師,https://www.mobaijun.com/posts/3663697501.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-21,1576906389.0
 SQLAlchemy使用主从与数据库autocommit,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_21-autocommit.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-21,1576886400.0
-【WEB系列】SpringBoot引入的依赖为什么没有版本号,框架師,https://www.mobaijun.com/posts/1944509409.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-20,1576807977.0

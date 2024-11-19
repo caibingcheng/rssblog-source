@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【Java基础】Date类练习,框架師,https://www.mobaijun.com/posts/8099667.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-05,1588643938.0
 Golang sync.Pool源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_05-go_sync_pool.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-05,1588636800.0
 【Hexo】hexo博客添加导航功能,框架師,https://www.mobaijun.com/posts/2328089344.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-04,1588576104.0
 【Java基础】Java-[Object，Date，Calendar]复习,框架師,https://www.mobaijun.com/posts/3746716574.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-04,1588556704.0
@@ -34,8 +35,8 @@ Golang expvar库源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/artic
 Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
 Golang validator使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
 垃圾清理软件多，是我们缺存储空间吗？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/25.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-09,1586425500.0
-DeepL | 从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工具,罗磊的独立博客,https://luolei.org/deepl-ai-translator,https://luolei.org,https://luolei.org/feed/,2020-04-09,1586390400.0
 价值编程与职业发展,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_09-value_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
+DeepL | 从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工具,罗磊的独立博客,https://luolei.org/deepl-ai-translator,https://luolei.org,https://luolei.org/feed/,2020-04-09,1586390400.0
 【转载】世界不应该是这样的,Frank笔记,https://frank2019.me/archives/zhuan-zai-shi-jie-bu-ying-gai-shi-zhe-yang-de,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-08,1586377380.0
 关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
 解决k8s cron无法读取环境变量的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
@@ -48,4 +49,3 @@ N95口罩背后不为人知的历史,yzqzss|一座桥在水上's Blog,https://bl
 反复横跳？—— 我的密码管理工具折腾记,ChrAlpha,https://blog.ichr.me/post/password-managements/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-30,1585578224.0
 [2021] 绕过 Google Play 一年一次换区限制,ChrAlpha,https://blog.ichr.me/post/bypass-google-play-region-restrictions/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-27,1585318102.0
 重新注册 PT 网站后，原有种子“红种” 的简单解决方法,yzqzss | 一座桥在水上's Blog,https://blog.othing.xyz/archives/20.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-03-27,1585274160.0
-应用内购的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_27-iap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-27,1585267200.0
