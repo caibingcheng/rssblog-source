@@ -1,17 +1,17 @@
 title,author,link,home,rss,date,timestamp
+自建DERP服务器提升Tailscale连接速度(使用Nginx转发),Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_20-tailscale_derp.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-20,1732060800.0
 热干面🍜,把酒诗代码，趁乱写年华。,https://102no.com/2024/11/20/re-gan-mian/,https://102no.com/,https://102no.com/atom.xml,2024-11-19,1732032000.0
 从个体绝望到社会危机：透视近期无差别袭击事件,Frank笔记,https://frank2019.me/archives/cong-ge-ti-jue-wang-dao-she-hui-wei-ji-tou-shi-jin-qi-wu-chai-bie-xi-ji-shi-jian,https://frank2019.me/,https://frank2019.me/rss.xml,2024-11-18,1731966783.0
 initx 存储模块,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/794/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-11-18,1731960008.0
 第一次推特被封锁,Andy Stewart,//manateelazycat.github.io/2024/11/19/twitter-account/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-18,1731945600.0
 反馈系统的稳定性,辛未羊的网络日志,https://panqiincs.me/2024/11/18/feedback-stability/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2024-11-18,1731892577.0
 多语言博客WordPress 插件 Polylang,Another Dayu,https://anotherdayu.com/2024/6129/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-17,1731854901.0
-蓦然回首,瓦解的生活记事,https://hin.cool/posts/moranhuishou.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-11-17,1731807600.0
+蓦然回首,瓦解的生活记事,https://hin.cool/posts/moranhuishou.html,https://hin.cool/,https://hin.cool/atom.xml,2024-11-17,1731807600.0
 java小技巧之获取调用来源,Nicksxs's Blog,https://nicksxs.me/2024/11/16/java%E5%B0%8F%E6%8A%80%E5%B7%A7%E4%B9%8B%E8%8E%B7%E5%8F%96%E8%B0%83%E7%94%A8%E6%9D%A5%E6%BA%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-11-16,1731765675.0
 【后端】使用 GitHub Action 自动推送 Docker 镜像,框架師,https://www.mobaijun.com/posts/2922523315.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-11-13,1731463652.0
 雪兰莪州：出海口的萤火虫和蓝眼泪,Macin,https://macin.org/2024/11/10/xue-zhou-lan-yan-lei/,https://macin.org/,https://www.macin.org/atom.xml,2024-11-10,1731257062.0
 PM2 安装与使用,杜老师说,https://dusays.com/767/,https://dusays.com/,https://dusays.com/atom.xml,2024-11-10,1731254400.0
 目标跟踪训练时数据集卡在enumerate解决方案,DearXuan的主页,https://blog.dearxuan.com/2024/11/08/%E7%9B%AE%E6%A0%87%E8%B7%9F%E8%B8%AA%E8%AE%AD%E7%BB%83%E6%97%B6%E6%95%B0%E6%8D%AE%E9%9B%86%E5%8D%A1%E5%9C%A8enumerate%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-11-08,1731074820.0
-自动升级Docker容器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_07-auto_upgrade_docker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-07,1730937600.0
 2024-10小记,汐塔魔法屋,https://blog.sinzmise.top/posts/61712/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-10-27,1730028360.0
 最体面的向这个世界告别的方式,非理勿试,https://www.ntiy.com/2240.html,https://www.ntiy.com,https://www.ntiy.com/feed,2024-10-26,1729912166.0
 对 RSS 的再思考：被忽视的力量,4Ark,https://4ark.me/posts/2024-10-19-recent-thoughts-on-rss/,https://4ark.me/,https://4ark.me/rss.xml,2024-10-19,1729296000.0
@@ -20,7 +20,7 @@ AI 和写作,Randy's Blog,https://lutaonan.com/blog/ai-writing/,https://lutaonan
 【Tailscale】自建境内Headscale实现点对点直连异地组网,Luminous' Home,https://luotianyi.vc/8480.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-10-08,1728388403.0
 使用 CDN 加速你的 GitHub Pages 网站,云游君的小站,https://www.yunyoujun.cn/posts/use-cdn-speed-up-site,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2024-10-06,1728246537.0
 SBT Task to Build Frontend Components,Bin Wang - My Personal Blog,https://www.binwang.me/2024-09-13-SBT-Task-to-Build-Frontend-Components.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-09-13,1726200000.0
-KubeCon China 2024 之旅,This Cute World,https://thiscute.world/posts/kubecon-china-2024/,https://thiscute.world/,https://thiscute.world/index.xml,2024-08-27,1724724622.0
+KubeCon China 2024 之旅,This Cute World,https://thiscute.world/posts/kubecon-china-2024/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2024-08-27,1724724622.0
 Windows 聚焦隐藏“了解此图片”图标,岚天小窝,https://blog.ltya.top/posts/spotlightMgr.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2024-08-22,1724342400.0
 轻量级参数解析库-tiny_cmdline,Bing's Blog,https://imcbc.cn/202408/about_tiny_summary/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-08-13,1723549535.0
 八月,醉里博客,https://202271.xyz/post/24179/,https://202271.xyz/,https://202271.xyz/atom.xml,2024-08-02,1722629848.0

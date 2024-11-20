@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+自建DERP服务器提升Tailscale连接速度(使用Nginx转发),Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_20-tailscale_derp.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-20,1732060800.0
 自动升级Docker容器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_07-auto_upgrade_docker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-07,1730937600.0
 再读《程序员修炼之道-从小工到专家》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_07-the_pragmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-07,1725667200.0
 让浏览器下载文件,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_06-browser_download_file.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-06,1725580800.0
@@ -48,4 +49,3 @@ OAuth 2 详解（一）：简介及 Authorization Code 模式,Jiajun的技术笔
 ElasticSearch 学习笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_06-elasticsearch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-06,1665014400.0
 三种git流程以及发版模型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_28-git_flows.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-28,1658966400.0
 错误处理实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_27-how_to_return_error.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-27,1658880000.0
-权限模型(RBAC/ABAC),Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_15-access_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-15,1657843200.0

@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+权限模型(RBAC/ABAC),Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_15-access_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-15,1657843200.0
 OIDC(OpenID Connect) 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_06-openid_connect.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-06,1657065600.0
 任务队列简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_05-task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-05,1656979200.0
 PostgreSQL 操作笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_04_29-postgres_notes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-29,1651190400.0
@@ -48,4 +49,3 @@ WAL(Write-ahead logging)的套路,Jiajun的技术笔记,https://jiajunhuang.com/
 logrotate read only filesystem问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_11-logrotate_read_only_filesystem.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-11,1618099200.0
 Golang GIN写单测时，愉快的使用返回值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_23-go_gin_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-23,1616457600.0
 Python Queue源码分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_20-python_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-20,1616198400.0
-Go里优雅的使用全局配置,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_18-go_config.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-18,1616025600.0
