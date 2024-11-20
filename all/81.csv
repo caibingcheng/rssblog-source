@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+MySQL指定使用索引(使用索引提示),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_25-mysql_use_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-25,1569369600.0
 MySQL 主从复制的简介,杜老师说,https://dusays.com/78/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-24,1569340800.0
 PHP 动态模式和静态模式区别,杜老师说,https://dusays.com/77/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-23,1569254400.0
 搭建samba服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-samba.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
@@ -48,4 +49,3 @@ Golang(Go语言)爬虫框架colly简明教程及源码阅读与分析,Jiajun的�
 带你读单词第 22 期,杜老师说,https://dusays.com/52/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-29,1567094400.0
 带你读单词第 21 期,杜老师说,https://dusays.com/51/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-28,1567008000.0
 思科网络地址转换,杜老师说,https://dusays.com/50/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-27,1566921600.0
-思科 DHCP 中继路由器,杜老师说,https://dusays.com/49/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-26,1566835200.0
