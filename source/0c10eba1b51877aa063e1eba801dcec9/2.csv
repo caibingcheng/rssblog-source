@@ -2,7 +2,7 @@ title,author,link,home,rss,date,timestamp
 权限模型(RBAC/ABAC),Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_15-access_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-15,1657843200.0
 OIDC(OpenID Connect) 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_06-openid_connect.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-06,1657065600.0
 任务队列简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_05-task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-05,1656979200.0
-PostgreSQL 操作笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_04_29-postgres_notes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-29,1651190400.0
+使用Drone CI构建CI/CD系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_04_29-drone_ci.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-29,1651190400.0
 Golang migrate 做数据库变更管理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_04_28-golang_migrate_iofs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-28,1651104000.0
 使用PostgreSQL做搜索引擎,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_04_12-postgresql_fulltext_search.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-12,1649721600.0
 Nginx 源码阅读（三）: 连接池、内存池,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_23-nginx_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-23,1647993600.0
@@ -39,7 +39,7 @@ Redis源码阅读：list实现(ziplist， quicklist),Jiajun的技术笔记,https
 Redis源码阅读：RDB是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_27-redis_source_code_7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-27,1622073600.0
 Redis源码阅读：AOF重写,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_26-redis_source_code_6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-26,1621987200.0
 Redis源码阅读：AOF持久化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_25-redis_source_code_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-25,1621900800.0
-Redis源码阅读：key是怎么过期的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
+Redis源码阅读：字典是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
 Redis源码阅读：执行命令,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_23-redis_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-23,1621728000.0
 Redis源码阅读：启动过程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_22-redis_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-22,1621641600.0
 WAL(Write-ahead logging)的套路,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_15-wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-15,1621036800.0
