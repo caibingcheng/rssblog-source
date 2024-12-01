@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+借助coroutine用同步的语法写异步,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_27-python_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-27,1480204800.0
 我看牙医的经历,Randy's Blog,https://lutaonan.com/blog/dentist-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-11-26,1480118400.0
 台湾 | 精选集・ 2016十月,罗磊的独立博客,https://luolei.org/travel-in-taiwan-2016,https://luolei.org,https://luolei.org/feed/,2016-11-23,1479859200.0
 Python3函数参数中的星号,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_21-py3k_asterisk.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-21,1479686400.0
@@ -48,4 +49,3 @@ Vue 中使用 highlight.js,Yuexun's Blog,https://yuexunjiang.me/blog/getting-hig
 CSS 实现垂直居中,Yuexun's Blog,https://yuexunjiang.me/blog/vertical-center-for-css/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-06-29,1467158400.0
 学习使用Bootstrap4的栅格系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_06_20-bootstrap_v4_grid_system.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-20,1466380800.0
 左罗TV:我们的一大步,罗磊的独立博客,https://luolei.org/one-step-forward-for-zuoluotv,https://luolei.org,https://luolei.org/feed/,2016-06-20,1466380800.0
-利用Github的WebHook完成自动部署,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_06_19-use_github_webhooks.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-19,1466294400.0
