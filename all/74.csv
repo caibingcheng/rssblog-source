@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Redis 的设置启动信息,杜老师说,https://dusays.com/219/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-08,1588953600.0
 《程序员的自我修养-装载、链接与库》笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_08-linker_and_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-08,1588896000.0
 【Hexo】hexo博客valine评论优化,框架師,https://www.mobaijun.com/posts/3474678254.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-07,1588830105.0
 【随笔】中国疫情地图和全球疫情地图组件，一句话调用,框架師,https://www.mobaijun.com/posts/2761809874.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-07,1588816805.0
@@ -48,4 +49,3 @@ YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-m
 FreeBSD ipfw使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_13-freebsd_ipfw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-13,1586736000.0
 Golang expvar库源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_12-expvar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-12,1586649600.0
 简单聊 SUID,杜老师说,https://dusays.com/210/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-11,1586620800.0
-浅谈 DNS 解析与 CDN 原理,ChrAlpha,https://blog.ichr.me/post/how-dns-and-cdn-work/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-11,1586614065.0

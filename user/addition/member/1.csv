@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+PostgreSQL High Availability Solutions - Part 1: Jepsen Test and Patroni,Bin Wang - My Personal Blog,https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-12-02,1733115600.0
 BlogsClub - 博客所有权认证,汐塔魔法屋,https://blog.sinzmise.top/posts/45287/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-12-01,1733054805.0
 吉隆坡的旧书店,Macin,https://macin.org/2024/11/25/ji-long-po-shu-dian/,https://macin.org/,https://www.macin.org/atom.xml,2024-11-25,1732568306.0
 Calibre-web 数据库路径和下载权限 500 Internal Server Error 问题,Another Dayu,https://anotherdayu.com/2024/6157/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-25,1732515795.0
@@ -15,7 +16,6 @@ initx 存储模块,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/
 对 RSS 的再思考：被忽视的力量,4Ark,https://4ark.me/posts/2024-10-19-recent-thoughts-on-rss/,https://4ark.me/,https://4ark.me/rss.xml,2024-10-19,1729296000.0
 AI 和写作,Randy's Blog,https://lutaonan.com/blog/ai-writing/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-10-09,1728432000.0
 使用 CDN 加速你的 GitHub Pages 网站,云游君的小站,https://www.yunyoujun.cn/posts/use-cdn-speed-up-site,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2024-10-06,1728246537.0
-SBT Task to Build Frontend Components,Bin Wang - My Personal Blog,https://www.binwang.me/2024-09-13-SBT-Task-to-Build-Frontend-Components.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-09-13,1726200000.0
 Windows 聚焦隐藏“了解此图片”图标,岚天小窝,https://blog.ltya.top/posts/spotlightMgr.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2024-08-22,1724342400.0
 八月,醉里博客,https://202271.xyz/post/24179/,https://202271.xyz/,https://202271.xyz/atom.xml,2024-08-02,1722629848.0
 在Argon主题评论添加Turnstile,Muidar's Site,https://muidar.com/posts/cmuidar/add-turnstile-to-argons-comment/,https://muidar.com,https://muidar.com/feed,2024-06-03,1717398702.0

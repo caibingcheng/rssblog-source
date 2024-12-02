@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Debian 使用NetworkManager之后networking.service崩溃,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
 【设计模式】Java设计模式-(Singleton)单例模式,框架師,https://www.mobaijun.com/posts/1469544396.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-12,1589246412.0
 【Git系列】Git GC命令清理Git暂存区,框架師,https://www.mobaijun.com/posts/3336337147.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-11,1589190407.0
 【工具系列】GitHub添加密钥,框架師,https://www.mobaijun.com/posts/1298567324.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-11,1589165629.0
@@ -48,4 +49,3 @@ Golang expvar库源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/artic
 浅谈 DNS 解析与 CDN 原理,ChrAlpha,https://blog.ichr.me/post/how-dns-and-cdn-work/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-11,1586614065.0
 Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
 Golang validator使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
-垃圾清理软件多，是我们缺存储空间吗？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/25.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-09,1586425500.0
