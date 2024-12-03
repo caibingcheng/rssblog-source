@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Linux托管Windows虚拟机最佳实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_08-linux_windows.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-08,1570492800.0
+24 个常用的 iptables 规则,杜老师说,https://dusays.com/91/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-07,1570464000.0
 用户管理相关命令,杜老师说,https://dusays.com/90/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-06,1570377600.0
 从零开始的独立博客搭建教程,ChrAlpha,https://blog.ichr.me/post/hexo-basic-set-up/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-10-05,1570301061.0
 快速释放内存脚本,杜老师说,https://dusays.com/89/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-05,1570291200.0
@@ -28,8 +30,8 @@ IaaS/PaaS/SaaS 的区别,杜老师说,https://dusays.com/75/,https://dusays.com/
 简单架构中的数据走向,杜老师说,https://dusays.com/74/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-20,1568995200.0
 地址解析协议,杜老师说,https://dusays.com/73/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-19,1568908800.0
 TCP 的快速恢复,杜老师说,https://dusays.com/72/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-18,1568822400.0
-ssh时自动运行tmux,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 ASHMORE 超声波清洗机 | 用超声波清洁2000块的键盘,罗磊的独立博客,https://luolei.org/ashmore-ultrasonic-cleaner,https://luolei.org,https://luolei.org/feed/,2019-09-18,1568764800.0
+ssh时自动运行tmux,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 TCP 的快速重传,杜老师说,https://dusays.com/71/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-17,1568736000.0
 TCP 的拥塞避免,杜老师说,https://dusays.com/70/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-16,1568649600.0
 爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0
@@ -47,5 +49,3 @@ VMware Workstation 15 Pro 许可证分享,杜老师说,https://dusays.com/62/,ht
 VMware Workstation 10 的安装,杜老师说,https://dusays.com/61/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-07,1567872000.0
 Typecho主题 | MDr - 书写你的篇章,FlyingSky's Blog,https://blog.fsky7.com/archives/60/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-09-07,1567823700.0
 云主机的极致优化,杜老师说,https://dusays.com/60/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-06,1567785600.0
-Linux 各目录及每个目录的详细介绍,杜老师说,https://dusays.com/59/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-05,1567699200.0
-将 rm 命令改造成 mv 到指定的目录,杜老师说,https://dusays.com/58/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-04,1567612800.0
