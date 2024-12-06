@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Markdown 的入门,杜老师说,https://dusays.com/128/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-13,1573660800.0
+我的技术栈选型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_13-tech_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-13,1573603200.0
 CentOS7 系统的安装,杜老师说,https://dusays.com/127/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-12,1573574400.0
 博客改版及 Tailwind CSS 实践,Randy's Blog,https://lutaonan.com/blog/what-is-tailwindcss-and-how-did-i-apply-it-on-my-blog/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-12,1573516800.0
 如何创建 VMware 虚拟机,杜老师说,https://dusays.com/126/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-11,1573488000.0
@@ -26,8 +28,8 @@ DNSCrypt简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019
 LVS 负载均衡 Tunnel 模式,杜老师说,https://dusays.com/114/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-30,1572451200.0
 SQLAlchemy简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_30-sqlalchemy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-30,1572393600.0
 如何实现一个 Babel Macros,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-a-babel-macros,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
-如何实现一个 Babel Macros,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-a-babel-macros/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
 如何实现一个 Babel Macros,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-a-babel-macros,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
+如何实现一个 Babel Macros,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-a-babel-macros/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
 LVS 负载均衡 DR 模式,杜老师说,https://dusays.com/113/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-29,1572364800.0
 LVS 负载均衡 NAT 模式,杜老师说,https://dusays.com/112/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-28,1572278400.0
 LVS 负载均衡服务器,杜老师说,https://dusays.com/111/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-27,1572192000.0
@@ -47,5 +49,3 @@ Docker 的常用命令集合,杜老师说,https://dusays.com/103/,https://dusays
 旧电脑也不能闲着：家用备份方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_18-build_your_own_nas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-18,1571356800.0
 如何安装 deb 软件包,杜老师说,https://dusays.com/101/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-17,1571328000.0
 VMware 虚拟机使用技巧,杜老师说,https://dusays.com/100/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-16,1571241600.0
-高级运维工程师的升级打怪路线,杜老师说,https://dusays.com/99/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-15,1571155200.0
-将SQLite的数据迁移到MySQL,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_15-grafana_moved_to_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-15,1571097600.0
