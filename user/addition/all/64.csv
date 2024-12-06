@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+要加密，也要熊掌:让Ghost支持https并被百度正常收录,罗磊的独立博客,https://luolei.org/ghost-https-baidu-seo-support,https://luolei.org,https://luolei.org/feed/,2015-05-17,1431820800.0
 跑步 | 2015北京国际长跑节 | 在天安门约跑是什么体验,罗磊的独立博客,https://luolei.org/beijing-run-2015,https://luolei.org,https://luolei.org/feed/,2015-04-26,1430006400.0
 上海 | 2015・四月魔都行,罗磊的独立博客,https://luolei.org/beijing-to-shanghai-weekend,https://luolei.org,https://luolei.org/feed/,2015-04-24,1429833600.0
 我在读什么:2015春季读书分享,罗磊的独立博客,https://luolei.org/what-i-read-in-2015-spring,https://luolei.org,https://luolei.org/feed/,2015-04-19,1429401600.0
@@ -34,8 +35,8 @@ C注意事项,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_11_04-
 不被重視的 HTML：Accessibility,Just lepture,https://lepture.com/zh/2014/talk-on-accessibility-jsdc2014,https://lepture.com/,https://lepture.com/feed.xml,2014-10-12,1413110400.0
 Web开发者和设计师必须要知道的 iOS 8 十个变化,罗磊的独立博客,https://luolei.org/safari-ios8-iphone6-web-developers-designers-chinese,https://luolei.org,https://luolei.org/feed/,2014-09-24,1411516800.0
 马拉松 | 2014秦皇岛马拉松 | 人生第一次全程马拉松,罗磊的独立博客,https://luolei.org/qinhuangdao-marathon-2014,https://luolei.org,https://luolei.org/feed/,2014-09-12,1410480000.0
-C语言中点操作符(.)和箭头操作符(->)的不同之处,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_09_09-dot_and_arrow_in_c_pointers.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-09,1410220800.0
 谈情说下爱:浪漫爱情的本质和化学,罗磊的独立博客,https://luolei.org/the-nature-and-chemistry-of-romantic-love,https://luolei.org,https://luolei.org/feed/,2014-09-09,1410220800.0
+C语言中点操作符(.)和箭头操作符(->)的不同之处,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_09_09-dot_and_arrow_in_c_pointers.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-09,1410220800.0
 征服C指针笔记 - 数组和指针的微妙关系,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_09_07-pointer_and_array_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-07,1410048000.0
 关于文件权限的摘记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_08_22-unix_file_permissions.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-08-22,1408665600.0
 Python on A Hard Wheel,Just lepture,https://lepture.com/en/2014/python-on-a-hard-wheel,https://lepture.com/,https://lepture.com/feed.xml,2014-08-19,1408464000.0
@@ -48,4 +49,3 @@ foru17 : 我，17，ID的故事,罗磊的独立博客,https://luolei.org/story-b
 日语学习入门　ひらがな 书写（壹）,罗磊的独立博客,https://luolei.org/learn-japanese-hiragana-write-1,https://luolei.org,https://luolei.org/feed/,2014-06-06,1402012800.0
 別樣經歷搭車記,Just lepture,https://lepture.com/zh/2014/unexpected-journey-with-lift,https://lepture.com/,https://lepture.com/feed.xml,2014-05-28,1401244500.0
 一个令我担心的诊断结果,罗磊的独立博客,https://luolei.org/a-sad-news-for-run-knee-degeneration,https://luolei.org,https://luolei.org/feed/,2014-05-18,1400371200.0
-冰與火之歌寧夏記,Just lepture,https://lepture.com/zh/2014/a-trip-in-ningxia,https://lepture.com/,https://lepture.com/feed.xml,2014-05-15,1400115360.0
