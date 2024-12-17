@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+2024，我使用的工具从 A 到 Z,4Ark,https://4ark.me/posts/2024-12-17-2024-a2z/,https://4ark.me/,https://4ark.me/rss.xml,2024-12-17,1734393600.0
+Fcitx 最佳配置实践 (附带语言大模型) 2024-12-17,Andy Stewart,//manateelazycat.github.io/2024/12/17/fcitx-best-config/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-12-16,1734364800.0
 文莱：是真富还是假富？,Macin,https://macin.org/2024/12/16/brunei/,https://macin.org/,https://www.macin.org/atom.xml,2024-12-16,1734352888.0
 grep命令小技巧-统计行数,Nicksxs's Blog,https://nicksxs.me/2024/12/15/grep%E5%91%BD%E4%BB%A4%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%BB%9F%E8%AE%A1%E8%A1%8C%E6%95%B0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-12-15,1734271987.0
 你考不上，关我屁事,非理勿试,https://www.ntiy.com/2249.html,https://www.ntiy.com,https://www.ntiy.com/feed,2024-12-14,1734150353.0
@@ -9,11 +11,9 @@ grep命令小技巧-统计行数,Nicksxs's Blog,https://nicksxs.me/2024/12/15/gr
 Jepsen Test on Patroni: A PostgreSQL High Availability Solution,Bin Wang - My Personal Blog,https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-12-02,1733115600.0
 BlogsClub - 博客所有权认证,汐塔魔法屋,https://blog.sinzmise.top/posts/45287/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-12-01,1733054805.0
 【Tailscale】DERPer中继从源码的搭建及Headscale导入,Luminous' Home,https://luotianyi.vc/8661.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-11-23,1732339226.0
-最佳代理实践之 Nexitally (2024-11-23),Andy Stewart,//manateelazycat.github.io/2024/11/23/best-proxy/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-22,1732291200.0
 自建DERP服务器提升Tailscale连接速度(使用Nginx转发),Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_20-tailscale_derp.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-20,1732060800.0
 initx 存储模块,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/794/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-11-18,1731960008.0
 【后端】使用 GitHub Action 自动推送 Docker 镜像,框架師,https://www.mobaijun.com/posts/2922523315.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-11-13,1731463652.0
-对 RSS 的再思考：被忽视的力量,4Ark,https://4ark.me/posts/2024-10-19-recent-thoughts-on-rss/,https://4ark.me/,https://4ark.me/rss.xml,2024-10-19,1729296000.0
 AI 和写作,Randy's Blog,https://lutaonan.com/blog/ai-writing/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-10-09,1728432000.0
 使用 CDN 加速你的 GitHub Pages 网站,云游君的小站,https://www.yunyoujun.cn/posts/use-cdn-speed-up-site,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2024-10-06,1728246537.0
 Windows 聚焦隐藏“了解此图片”图标,岚天小窝,https://blog.ltya.top/posts/spotlightMgr.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2024-08-22,1724342400.0

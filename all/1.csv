@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+2024，我使用的工具从 A 到 Z,4Ark,https://4ark.me/posts/2024-12-17-2024-a2z/,https://4ark.me/,https://4ark.me/rss.xml,2024-12-17,1734393600.0
+Fcitx 最佳配置实践 (附带语言大模型) 2024-12-17,Andy Stewart,//manateelazycat.github.io/2024/12/17/fcitx-best-config/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-12-16,1734364800.0
 文莱：是真富还是假富？,Macin,https://macin.org/2024/12/16/brunei/,https://macin.org/,https://www.macin.org/atom.xml,2024-12-16,1734352888.0
 grep命令小技巧-统计行数,Nicksxs's Blog,https://nicksxs.me/2024/12/15/grep%E5%91%BD%E4%BB%A4%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%BB%9F%E8%AE%A1%E8%A1%8C%E6%95%B0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-12-15,1734271987.0
 你考不上，关我屁事,非理勿试,https://www.ntiy.com/2249.html,https://www.ntiy.com,https://www.ntiy.com/feed,2024-12-14,1734150353.0
@@ -30,8 +32,8 @@ grep小技巧之匹配到二进制文件,Nicksxs's Blog,https://nicksxs.me/2024/
 目前使用的 WordPress 插件,Another Dayu,https://anotherdayu.com/2024/6150/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-24,1732435144.0
 【Tailscale】DERPer中继从源码的搭建及Headscale导入,Luminous' Home,https://luotianyi.vc/8661.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-11-23,1732339226.0
 公告：博客维护,Another Dayu,https://anotherdayu.com/2024/6147/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-23,1732330987.0
-最佳代理实践之 Nexitally (2024-11-23),Andy Stewart,//manateelazycat.github.io/2024/11/23/best-proxy/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-22,1732291200.0
 新版本不蒜子统计平台使用说明,杜老师说,https://dusays.com/771/,https://dusays.com/,https://dusays.com/atom.xml,2024-11-22,1732291200.0
+最佳代理实践之 Nexitally (2024-11-23),Andy Stewart,//manateelazycat.github.io/2024/11/23/best-proxy/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-22,1732291200.0
 炒细米粉🍝,把酒诗代码，趁乱写年华。,https://102no.com/2024/11/22/chao-xi-mi-fen/,https://102no.com/,https://102no.com/atom.xml,2024-11-21,1732204800.0
 自建DERP服务器提升Tailscale连接速度(使用Nginx转发),Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_20-tailscale_derp.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-20,1732060800.0
 热干面🍜,把酒诗代码，趁乱写年华。,https://102no.com/2024/11/20/re-gan-mian/,https://102no.com/,https://102no.com/atom.xml,2024-11-19,1732032000.0
@@ -43,9 +45,7 @@ initx 存储模块,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/
 多语言博客WordPress 插件 Polylang,Another Dayu,https://anotherdayu.com/2024/6129/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-17,1731854901.0
 聊聊最近 Lancet 上刊登的中药复方研究,Another Dayu,https://anotherdayu.com/2024/6096/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-17,1731822166.0
 Kagi 使用体验和近期更新：翻译、助手和与Perplexity的对比,Another Dayu,https://anotherdayu.com/2024/6093/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-17,1731811811.0
-蓦然回首,瓦解的生活记事,https://hin.cool/posts/moranhuishou.html,https://hin.cool/,https://hin.cool/atom.xml,2024-11-17,1731807600.0
+蓦然回首,瓦解的生活记事,https://hin.cool/posts/moranhuishou.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-11-17,1731807600.0
 推荐一款文字修仙摸鱼页游,杜老师说,https://dusays.com/769/,https://dusays.com/,https://dusays.com/atom.xml,2024-11-16,1731772800.0
 java小技巧之获取调用来源,Nicksxs's Blog,https://nicksxs.me/2024/11/16/java%E5%B0%8F%E6%8A%80%E5%B7%A7%E4%B9%8B%E8%8E%B7%E5%8F%96%E8%B0%83%E7%94%A8%E6%9D%A5%E6%BA%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-11-16,1731765675.0
 戴尔显示屏（U2720QM）屏闪问题,Another Dayu,https://anotherdayu.com/2024/6090/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-16,1731745283.0
-向国内用户展示Twitter X和Instagram-WordPress插件,Another Dayu,https://anotherdayu.com/2024/6075/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-16,1731740874.0
-年轻人的技术选型,Andy Stewart,//manateelazycat.github.io/2024/11/16/find-right-tech/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-15,1731686400.0

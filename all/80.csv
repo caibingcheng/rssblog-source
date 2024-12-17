@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Linux 系统 3 个最危险命令,杜老师说,https://dusays.com/134/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-19,1574179200.0
+MySQL的ON DUPLICATE KEY UPDATE语句,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_19-mysql_duplicate_key_update.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-19,1574121600.0
 sudo 命令的使用,杜老师说,https://dusays.com/133/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-18,1574092800.0
 gpasswd 群组密码的使用,杜老师说,https://dusays.com/132/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-17,1574006400.0
 使用microk8s快速搭建k8s,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_17-microk8s.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-17,1573948800.0
@@ -35,9 +37,9 @@ LVS 的算法,杜老师说,https://dusays.com/117/,https://dusays.com/,https://d
 DNSCrypt简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_31-dnscrypt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-31,1572480000.0
 【转】三维文件格式知多少,云游君的小站,https://www.yunyoujun.cn/posts/how-much-3d-format,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-10-30,1572451306.0
 LVS 负载均衡 Tunnel 模式,杜老师说,https://dusays.com/114/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-30,1572451200.0
-如何实现一个 Babel Macros,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-a-babel-macros,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
 SQLAlchemy简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_30-sqlalchemy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-30,1572393600.0
 如何实现一个 Babel Macros,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-a-babel-macros,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
+如何实现一个 Babel Macros,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-a-babel-macros,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
 如何实现一个 Babel Macros,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-a-babel-macros/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
 LVS 负载均衡 DR 模式,杜老师说,https://dusays.com/113/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-29,1572364800.0
 LVS 负载均衡 NAT 模式,杜老师说,https://dusays.com/112/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-28,1572278400.0
@@ -47,5 +49,3 @@ LVS 负载均衡服务器,杜老师说,https://dusays.com/111/,https://dusays.co
 这些年，我们错过的n个亿,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_25-oh_my_money.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-25,1571961600.0
 Yandex 免费域名邮箱注册及使用教程,ChrAlpha,https://blog.ichr.me/post/yandex-build-your-own-domain-email-for-free/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-10-24,1571941111.0
 如何学习 Linux 的性能优化,杜老师说,https://dusays.com/108/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-24,1571932800.0
-开源的 Linux 策略模拟游戏「韦诺之战」,杜老师说,https://dusays.com/107/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-23,1571846400.0
-开源的 Linux 策略模拟游戏「运输大亨」,杜老师说,https://dusays.com/106/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-22,1571760000.0
