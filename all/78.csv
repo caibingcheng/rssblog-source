@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
 从「后端现在已经看不懂前端了」说起,Randy's Blog,https://lutaonan.com/blog/to-frontend-prejudicers/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-07,1578355200.0
+Golang不那么蛋疼的sort,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_01_07-golang_sort_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-07,1578355200.0
 愿你不要成为运维讲师,杜老师说,https://dusays.com/178/,https://dusays.com/,https://dusays.com/atom.xml,2020-01-06,1578326400.0
 Flutter给Android应用签名,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_01_06-flutter_sign_android_apk.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-06,1578268800.0
 【随笔】好玩的bat命令,框架師,https://www.mobaijun.com/posts/3867178586.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-01-04,1578116620.0
@@ -48,4 +49,3 @@ SQLAlchemy使用主从与数据库autocommit,Jiajun的技术笔记,https://jiaju
 Blackbox禁用IPv6,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_19-blackbox_disable_ipv6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-19,1576713600.0
 爱奇艺周会员 N+5 期,杜老师说,https://dusays.com/163/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-18,1576684800.0
 预防缓存击穿,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_18-cache_miss.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
-爱奇艺周会员 N+4 期,杜老师说,https://dusays.com/162/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-17,1576598400.0
