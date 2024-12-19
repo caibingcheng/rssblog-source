@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Linux系统迁移记录(从HDD到SSD),Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_22-linux_clone_sys.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-22,1590105600.0
+【MySQL系列】MySQL复习笔记(2)-约束,框架師,https://www.mobaijun.com/posts/1359261681.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-21,1590051831.0
 【Hexo】hexo博客添加到桌面应用程序,框架師,https://www.mobaijun.com/posts/1630447354.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-21,1590046686.0
 Redis是如何工作的？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_21-how_does_redis_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-21,1590019200.0
 过期键的设置、获取、删除过期时间,杜老师说,https://dusays.com/223/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-20,1589990400.0
@@ -47,5 +49,3 @@ MySQL操作笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05
 Theme Cards | 又一款追求简洁的 Hexo 主题,ChrAlpha,https://blog.ichr.me/post/hexo-theme-cards/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-30,1588257737.0
 【Java基础】Java内部类复习笔记,框架師,https://www.mobaijun.com/posts/664001238.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-30,1588235529.0
 【工具系列】IDEA设置单行行首注释去掉多余空格,框架師,https://www.mobaijun.com/posts/385939477.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-30,1588211306.0
-Go语言解析GBK编码的xml,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_30-golang_gbk_xml.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-30,1588204800.0
-Cisco 以太网通道,杜老师说,https://dusays.com/216/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-29,1588176000.0
