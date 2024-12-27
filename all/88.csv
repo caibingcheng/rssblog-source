@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+避免全局变量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_15-avoid_global_states.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-15,1542240000.0
 Go的unsafe包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_13-golang_package_unsafe.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-13,1542067200.0
 Golang中实现禁止拷贝,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
 人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0
@@ -48,4 +49,3 @@ gRPC-gateway 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com
 我的摄影储存解决方案 | ZUOLUOTV | VLOG15,罗磊的独立博客,https://luolei.org/vlog-15-storage-and-backups,https://luolei.org,https://luolei.org/feed/,2018-07-31,1532995200.0
 我心目中的配置中心应该怎么做？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_07_22-config_center.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-07-22,1532217600.0
 我的相机和镜头:2018年装备清单 | ZUOLUOTV | VLOG13,罗磊的独立博客,https://luolei.org/vlog-13-camera-and-lens,https://luolei.org,https://luolei.org/feed/,2018-07-22,1532217600.0
-设计一个HTTP网关,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_07_18-design_a_gateway.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-07-18,1531872000.0
