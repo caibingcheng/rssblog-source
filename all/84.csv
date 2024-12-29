@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+带你读单词第 1 期,杜老师说,https://dusays.com/26/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-03,1564848000.0
+通过 VTP 在多台交换机间同步 VLAN 数据,杜老师说,https://dusays.com/25/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-02,1564761600.0
 通过 Trunk 实现多台交换间 VLAN 内通信,杜老师说,https://dusays.com/24/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-01,1564675200.0
 C， Go， Python的错误处理和异常机制杂谈,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_01-error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-01,1564617600.0
 VLAN 虚拟局域网,杜老师说,https://dusays.com/23/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-31,1564588800.0
@@ -6,9 +8,9 @@ CentOS7 的内核优化详解,杜老师说,https://dusays.com/22/,https://dusays
 FTP 服务的详解「下篇」,杜老师说,https://dusays.com/21/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-29,1564416000.0
 好的命名是最好的文档,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_29-name_is_the_best_doc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-29,1564358400.0
 FTP 服务的详解「上篇」,杜老师说,https://dusays.com/20/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-28,1564329600.0
-你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-util-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
-你可能不知道的 Node.js util 模块,Ahonn's Blog,https://www.ahonn.me/blog/node.js-util-module-you-may-not-know,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
 你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-util-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
+你可能不知道的 Node.js util 模块,Ahonn's Blog,https://www.ahonn.me/blog/node.js-util-module-you-may-not-know,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
+你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-util-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
 CentOS7 的内核优化,杜老师说,https://dusays.com/19/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-27,1564243200.0
 初始化 CentOS7 系统「下篇」,杜老师说,https://dusays.com/18/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-26,1564156800.0
 初始化 CentOS7 系统「上篇」,杜老师说,https://dusays.com/17/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-25,1564070400.0
@@ -40,12 +42,10 @@ Manjaro 使用指南,This Cute World,https://thiscute.world/posts/manjaro-instru
 后端工程师学前端(四): CSS进阶(盒子模型),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_10-learn_front_end_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-10,1562716800.0
 CentOS7 用命令配置链路聚合,杜老师说,https://dusays.com/1/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-09,1562688000.0
 我为什么选择 Telegram 来运营粉丝社群 | 规则、经验和思考,罗磊的独立博客,https://luolei.org/why-i-choose-telegram,https://luolei.org,https://luolei.org/feed/,2019-07-08,1562544000.0
-我的博客从 Ghost 迁移回 Wordpress | 优化记录,罗磊的独立博客,https://luolei.org/migrate-from-ghost-to-wordpress,https://luolei.org,https://luolei.org/feed/,2019-07-06,1562371200.0
 读《投资中最简单的事》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_06-the_simple_things_in_investment.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-06,1562371200.0
+我的博客从 Ghost 迁移回 Wordpress | 优化记录,罗磊的独立博客,https://luolei.org/migrate-from-ghost-to-wordpress,https://luolei.org,https://luolei.org/feed/,2019-07-06,1562371200.0
 我最喜欢的一台相机，今天被车压碎了 | RICOH GR | VLOG54,罗磊的独立博客,https://luolei.org/my-ricoh-gr-was-crashed-by-a-car,https://luolei.org,https://luolei.org/feed/,2019-07-05,1562284800.0
 后端工程师学前端(三): CSS进阶(特指度、单位和字体族),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_04-learn_front_end_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-04,1562198400.0
 我花20元修好了2000块的 BOSE 降噪耳机  | VLOG53,罗磊的独立博客,https://luolei.org/i-fix-my-broken-bose-qc35,https://luolei.org,https://luolei.org/feed/,2019-07-03,1562112000.0
 澳门旅行手机上网卡推荐 | CUniq CMLink | VLOG52,罗磊的独立博客,https://luolei.org/macau-roaming-sim-card,https://luolei.org,https://luolei.org/feed/,2019-07-02,1562025600.0
 后端工程师学前端(二): CSS基础知识(规则与选择器),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_02-learn_front_end_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-02,1562025600.0
-背光门 | 苹果 MacBook 即将爆发的下一个质量问题 ? | Flexgate | 持续更新,罗磊的独立博客,https://luolei.org/apple-macbook-flexgate,https://luolei.org,https://luolei.org/feed/,2019-06-27,1561593600.0
-Swift语法笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_25-swift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-25,1561420800.0
