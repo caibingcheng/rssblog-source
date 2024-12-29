@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+2024年终总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_12_29-bye_2024.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-12-29,1735430400.0
 2024冬：千日造船 一日过河,Macin,https://macin.org/2024/12/28/202410/,https://macin.org/,https://www.macin.org/atom.xml,2024-12-28,1735383867.0
 2024: 在夜海中观望浪潮,Randy's Blog,https://lutaonan.com/blog/2024-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-12-28,1735344000.0
 回推特网友问题 (2024-12-28),Andy Stewart,//manateelazycat.github.io/2024/12/28/twitter-answers/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-12-27,1735315200.0
@@ -14,7 +15,6 @@ java的agent初体验,Nicksxs's Blog,https://nicksxs.me/2024/12/22/java%E7%9A%84
 二维数据可视化工具-painter,Bing's Blog,https://imcbc.cn/202412/2d-vistual-painter/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-12-09,1733753843.0
 Jepsen Test on Patroni: A PostgreSQL High Availability Solution,Bin Wang - My Personal Blog,https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-12-02,1733115600.0
 【Tailscale】DERPer中继从源码的搭建及Headscale导入,Luminous' Home,https://luotianyi.vc/8661.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-11-23,1732339226.0
-自建DERP服务器提升Tailscale连接速度(使用Nginx转发),Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_20-tailscale_derp.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-20,1732060800.0
 initx 存储模块,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/794/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-11-18,1731960008.0
 反馈系统的稳定性,辛未羊的网络日志,https://panqiincs.me/2024/11/18/feedback-stability/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2024-11-18,1731892577.0
 【后端】使用 GitHub Action 自动推送 Docker 镜像,框架師,https://www.mobaijun.com/posts/2922523315.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-11-13,1731463652.0
