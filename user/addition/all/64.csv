@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+关于python的decorator和descriptor,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_12_05-python_descriptor_and_decorator.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-12-05,1449273600.0
 知乎用户动态监控爬虫,Yuexun's Blog,https://yuexunjiang.me/blog/the-crawler-of-zhihu-user-dynamic-monitoring/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-11-25,1448409600.0
 月神,Just lepture,https://lepture.com/zh/2015/wish-to-be-found,https://lepture.com/,https://lepture.com/feed.xml,2015-11-23,1448319600.0
 phpmyadmin 缺少 mcrypt 扩展,Yuexun's Blog,https://yuexunjiang.me/blog/phpmyadmin-lack-mcrypt-extension/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2015-11-22,1448150400.0
@@ -48,4 +49,3 @@ Block I/O,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_06_22-note
 注册成了苹果开发者,罗磊的独立博客,https://luolei.org/become-apple-developer,https://luolei.org,https://luolei.org/feed/,2015-03-09,1425859200.0
 非程序员别点:Geek Style开发思维、技巧、工具,罗磊的独立博客,https://luolei.org/code-like-a-geek,https://luolei.org,https://luolei.org/feed/,2015-03-04,1425427200.0
 理光GR:夜拍深圳湾,罗磊的独立博客,https://luolei.org/ricoh-gr-shenzhen-bay,https://luolei.org,https://luolei.org/feed/,2015-02-28,1425081600.0
-深圳 | 花开深大，据说是中国最美的大学校园之一 | 深圳大学,罗磊的独立博客,https://luolei.org/meet-shenzhen-flower,https://luolei.org,https://luolei.org/feed/,2015-02-26,1424908800.0
