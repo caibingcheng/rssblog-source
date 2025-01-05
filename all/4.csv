@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Jellyfin 软件媒体系统介绍与部署,杜老师说,https://dusays.com/758/,https://dusays.com/,https://dusays.com/atom.xml,2024-10-14,1728921600.0
 学术、酒吧、醉了,Another Dayu,https://anotherdayu.com/2024/5955/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-10-14,1728906773.0
 Linux常用命令,Yulin Lewis' Blog,https://lewky.cn/posts/linux-commands/,https://lewky.cn/,https://lewky.cn/index.xml,2024-10-13,1728826119.0
 不一劳永逸的临时docker镜像拉取解决办法,Nicksxs's Blog,https://nicksxs.me/2024/10/13/%E4%B8%8D%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E4%B8%B4%E6%97%B6docker%E9%95%9C%E5%83%8F%E6%8B%89%E5%8F%96%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-10-13,1728809026.0
@@ -48,4 +49,3 @@ NuxtHub (Cloudflare) 部署 Nuxt 项目卡住的问题,怠惰のコエ - imba久
 用netty实现一个简单的http server-深入理解下,Nicksxs's Blog,https://nicksxs.me/2024/09/15/%E7%94%A8netty%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84http-server-%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E4%B8%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-09-15,1726368755.0
 开源长青， 怎么持续的做开源?,Andy Stewart,//manateelazycat.github.io/2024/09/15/sustainability-open-source/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-15,1726358400.0
 戾气,Frank笔记,https://frank2019.me/archives/li-qi,https://frank2019.me/,https://frank2019.me/rss.xml,2024-09-14,1726346611.0
-Navidrome 自托管的开源音乐服务器,杜老师说,https://dusays.com/748/,https://dusays.com/,https://dusays.com/atom.xml,2024-09-14,1726329600.0
