@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+MySQL 主键和唯一索引区别,杜老师说,https://dusays.com/251/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-12,1597248000.0
 何为内网穿透,杜老师说,https://dusays.com/250/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-09,1596988800.0
 新一代多系统启动 U 盘解决方案,杜老师说,https://dusays.com/249/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-06,1596729600.0
 DevTools failed to load SourceMap 问题的解决,杜老师说,https://dusays.com/248/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-03,1596470400.0
@@ -48,4 +49,3 @@ Linux 特殊权限总结篇,杜老师说,https://dusays.com/213/,https://dusays.
 简单聊 SGID,杜老师说,https://dusays.com/211/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-14,1586880000.0
 简单聊 SUID,杜老师说,https://dusays.com/210/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-11,1586620800.0
 CDN 原理及使用,杜老师说,https://dusays.com/209/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-08,1586361600.0
-使用 Istio 进行 JWT 身份验证（充当 API 网关）,This Cute World,https://thiscute.world/posts/use-istio-for-jwt-auth/,https://thiscute.world/,https://thiscute.world/index.xml,2020-04-06,1586180906.0
