@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【Hexo】hexo备份博客和自动化备份,框架師,https://www.mobaijun.com/posts/190549533.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-19,1589872192.0
 【Hexo】Hexo博客新建文章后自动打开编辑器,框架師,https://www.mobaijun.com/posts/2964207350.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-19,1589868496.0
 virsh自动关闭windows虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_18-virsh_shutdown_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-18,1589760000.0
 AOF 持久化的配置和原理,杜老师说,https://dusays.com/222/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-17,1589731200.0
@@ -48,4 +49,3 @@ Golang log 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 简单聊 VRRP,杜老师说,https://dusays.com/215/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-26,1587916800.0
 使用Go语言实现一个异步任务框架,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_24-gotasks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-24,1587686400.0
 简单聊 Tunnel,杜老师说,https://dusays.com/214/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-23,1587657600.0
-Golang flag源码阅读及自己实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_23-go_flag.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-23,1587600000.0

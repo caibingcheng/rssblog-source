@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+SSH命令问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/ssh-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2023-06-20,1687237878.0
 买服务器，搞个论坛玩玩,醉里博客,https://202271.xyz/post/64920/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-06-19,1687180727.0
 2023 Mac mini 外挂硬盘升级方案：打造 2TB 苹果电脑,罗磊的独立博客,https://luolei.org/2023-mac-mini-ssd-upgrade-experience/,https://luolei.org/,https://luolei.org/feed/,2023-06-18,1687105537.0
 1Panel 新一代 Linux 服务器运维管理面板,杜老师说,https://dusays.com/597/,https://dusays.com/,https://dusays.com/atom.xml,2023-06-18,1687104000.0
@@ -20,8 +21,8 @@ mybatis系列-foreach 解析,Nicksxs's Blog,https://nicksxs.me/2023/06/11/mybati
 如何用 ChatGPT 助力开发: 已经有 15 万人看过的经验分享,罗磊的独立博客,https://luolei.org/chatgpt-in-development/,https://luolei.org/,https://luolei.org/feed/,2023-06-09,1686306347.0
 解决 Vivaldi 浏览器无法播放 HTML 视频的问题,manateelazycat.github.io,//manateelazycat.github.io/linux/2023/06/09/vivaldi-html5-video.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-06-09,1686268800.0
 防御性驾驶,Another Dayu,https://anotherdayu.com/2023/5165/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-06-07,1686125267.0
-又一款碾压 ChatGPT 的 AI 人工智能应用,杜老师说,https://dusays.com/593/,https://dusays.com/,https://dusays.com/atom.xml,2023-06-06,1686067200.0
 苹果WWDC2023 发布的Apple Vision Pro🍎,把酒诗代码，趁乱写年华。,https://102no.com/2023/06/07/apple-vision-pro/,https://102no.com/,https://102no.com/atom.xml,2023-06-06,1686067200.0
+又一款碾压 ChatGPT 的 AI 人工智能应用,杜老师说,https://dusays.com/593/,https://dusays.com/,https://dusays.com/atom.xml,2023-06-06,1686067200.0
 特斯拉 Tesla model Y 提车指南,Another Dayu,https://anotherdayu.com/2023/5159/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-06-06,1686062363.0
 五年前的风景,非理勿试,https://www.ntiy.com/1990.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-06-06,1686051588.0
 尧坝古镇：草木笨拙 诗也笨拙,Macin,https://macin.org/2023/06/05/yao-ba-gu-zhen/,https://macin.org/,https://www.macin.org/atom.xml,2023-06-05,1685978343.0
@@ -32,8 +33,8 @@ win 下 vmware 虚拟机搭建黑裙 nas 的小思路,Nicksxs's Blog,https://nic
 最佳代理实践之机场 (2023-06-04),manateelazycat.github.io,//manateelazycat.github.io/2023/06/04/best-proxy/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-06-04,1685836800.0
 免费使用 ChatGPT-4 的 3 种方法,杜老师说,https://dusays.com/592/,https://dusays.com/,https://dusays.com/atom.xml,2023-06-03,1685808000.0
 ArchLinux 安装 N 卡闭源驱动,manateelazycat.github.io,//manateelazycat.github.io/linux/2023/06/03/nvidia-driver.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-06-03,1685750400.0
-Ubuntu版本升级命令,Frank笔记,http://frank2019.me/archives/ubuntuban-ben-sheng-ji-ming-ling,http://frank2019.me/,https://frank2019.me/rss.xml,2023-06-02,1685726015.0
 Ubuntu版本升级命令,Frank笔记,https://frank2019.me/archives/ubuntuban-ben-sheng-ji-ming-ling,https://frank2019.me/,https://frank2019.me/rss.xml,2023-06-02,1685726015.0
+Ubuntu版本升级命令,Frank笔记,http://frank2019.me/archives/ubuntuban-ben-sheng-ji-ming-ling,http://frank2019.me/,https://frank2019.me/rss.xml,2023-06-02,1685726015.0
 上海咖啡文化周之薅瑞幸羊毛,Honesty·Blog,https://blog.hehouhui.cn/archives/lkcoffee-shanghai-coffee-activities-20230602,https://blog.hehouhui.cn/,https://notion.hehouhui.cn/rss/feed.xml,2023-06-02,1685664000.0
 Capacitor js 使用体验,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/764/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-06-01,1685652023.0
 【Argo】Windows/Linux开机自启配置简记,Luminous' Home,https://luotianyi.vc/7286.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-06-01,1685581716.0
@@ -48,4 +49,3 @@ FreeDB 免费数据库托管服务,杜老师说,https://dusays.com/590/,https://
 Python创建并上传自己的pip依赖包,cywhat's blog,https://cywhat.cn/Python%E5%88%9B%E5%BB%BA%E5%B9%B6%E4%B8%8A%E4%BC%A0%E8%87%AA%E5%B7%B1%E7%9A%84pip%E4%BE%9D%E8%B5%96%E5%8C%85/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-05-25,1685007747.0
 修改一下我的github,醉里博客,https://202271.xyz/post/36745/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-24,1684944841.0
 Jenkins+Gitee持续集成,Barney's Blog,https://hugo.bnblogs.cc/jenkins-gitee%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684848714.0
-Ubuntu搭建redis集群,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E6%90%AD%E5%BB%BAredis%E9%9B%86%E7%BE%A4/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684827988.0
