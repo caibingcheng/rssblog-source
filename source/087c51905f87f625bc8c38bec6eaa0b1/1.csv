@@ -16,6 +16,7 @@ title,author,link,home,rss,date,timestamp
 【随笔】分享几个免费的 ChatGPT 镜像网站,框架師,https://www.mobaijun.com/posts/3716495196.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-03-20,1679296313.0
 【后端】IntelliJ IDEA 快速自动生成 Junit 测试类,框架師,https://www.mobaijun.com/posts/3073865067.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-03-13,1678679366.0
 【随笔】关于 GitHub Actions Error: Process completed with exit code 128. 的解决方案,框架師,https://www.mobaijun.com/posts/1959112193.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-03-04,1677896639.0
+【后端】Stream 常用操作，简化你的代码！,框架師,https://www.mobaijun.com/posts/2924491765.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-01-14,1673664985.0
 【Linux 系列】Watchtower - 自动更新 Docker 镜像与容器,框架師,https://www.mobaijun.com/posts/863705360.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-12-19,1671414110.0
 【转载】一把梭：REST API 全用 POST,框架師,https://www.mobaijun.com/posts/2822068467.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-12-15,1671086238.0
 【工具系列】为你的项目制作 Shields 徽章,框架師,https://www.mobaijun.com/posts/1801508789.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-11-24,1669253613.0
@@ -48,4 +49,3 @@ title,author,link,home,rss,date,timestamp
 【工具系列】常用maven命令介绍,框架師,https://www.mobaijun.com/posts/3490035493.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641366238.0
 【工具系列】轻量级虚拟机Multipass使用教程,框架師,https://www.mobaijun.com/posts/3701652676.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641351409.0
 【工具系列】mvnd：maven全新构建插件，提高性能,框架師,https://www.mobaijun.com/posts/1982863623.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-29,1640745287.0
-【Linux系列】Docker启动Nginx配置动静分离,框架師,https://www.mobaijun.com/posts/649017238.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-23,1640222875.0
