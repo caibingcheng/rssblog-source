@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+char-dust 一个图片转字符画的 npm 包与示例站点,云游君的小站,https://www.yunyoujun.cn/posts/why-make-char-dust,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-03-14,1615690306.0
 读《蒂姆·库克传》,Randy's Blog,https://lutaonan.com/blog/reading-tim-cook/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-03-14,1615680000.0
 使用 Telegram Bot + Beancount 记账,Ahonn's Blog,https://www.ahonn.me/blog/use-telegram-bot-and-beancount-for-accounting,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2021-03-13,1615668749.0
 使用 Telegram Bot + Beancount 记账,Yuexun's Blog,https://yuexunjiang.me/blog/use-telegram-bot-and-beancount-for-accounting,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2021-03-13,1615668749.0
@@ -24,8 +25,8 @@ nnrm - 一个极简的 npm/yarn registry 切换管理器,云游君的小站,http
 二月总结,4Ark × Blog,https://4ark.me/post/2021-03-04-2020-feb-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2021-03-03,1614798976.0
 做猪呢，最重要的是开心,云游君的小站,https://www.yunyoujun.cn/posts/2020-summary,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-03-02,1614721363.0
 从思辨中学历史,4Ark × Blog,https://4ark.me/posts/cong-si-bina-xue-xi-li-shi.html,https://4ark.me/,https://4ark.me/rss.xml,2021-03-02,1614712575.0
-10本 Go 语言入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/03/02/10-golang-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-03-01,1614614400.0
 Linux Mint 界面的选择,杜老师说,https://dusays.com/317/,https://dusays.com/,https://dusays.com/atom.xml,2021-03-01,1614614400.0
+10本 Go 语言入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/03/02/10-golang-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-03-01,1614614400.0
 docsify快速入门,Yulin Lewis' Blog,https://lewky.cn/posts/docsify-0.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-03-01,1614614325.0
 Xp Technology Practices,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210228-xp-technology-practices,https://teobler.com,https://teobler.com/rss.xml,2021-02-28,1614483600.0
 内存管理设计精要,面向信仰编程,https://draveness.me//system-design-memory-management,https://draveness.me/,https://draveness.me/feed.xml,2021-02-27,1614384000.0
@@ -48,4 +49,3 @@ fonts.googleapis.com访问太慢导致站点加载很慢,Yulin Lewis' Blog,https
 PostgreSQL - 字符串函数汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-string.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-02-18,1613659443.0
 告别无用社交,Frank笔记,https://frank2019.me/archives/gao-bie-wu-yong-she-jiao,https://frank2019.me/,https://frank2019.me/rss.xml,2021-02-16,1613499000.0
 正向、反向代理区别,杜老师说,https://dusays.com/313/,https://dusays.com/,https://dusays.com/atom.xml,2021-02-15,1613404800.0
-Agile Team Practice,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210214-agile-team-practice,https://teobler.com,https://teobler.com/rss.xml,2021-02-14,1613279580.0
