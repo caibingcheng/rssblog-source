@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
 CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡,罗磊的独立博客,https://luolei.org/cmlink-global-borderless-internet-roaming-card,https://luolei.org,https://luolei.org/feed/,2020-04-21,1587427200.0
+Golang中的并发控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_21-golang_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
 Golang的可选参数实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
 危机四伏的2020，既是困难，也是机遇！,Frank笔记,https://frank2019.me/archives/wei-ji-si-fu-de-2020-ji-shi-kun-nan-ye-shi-ji-yu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-18,1587241740.0
 【Hexo】Hexo——Npm使用报错,框架師,https://www.mobaijun.com/posts/776701796.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-18,1587192270.0
@@ -48,4 +49,3 @@ Lazyload 不让 Valine 评论组件拖慢页面加载,ChrAlpha,https://blog.ichr
 一个Gunicorn worker数量引发的血案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_11-gunicorn_worker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-11,1583884800.0
 在 GitHub 上使用 GPG 认证你的 Git Commit,ChrAlpha,https://blog.ichr.me/post/use-gpg-verification-in-github/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-08,1583702310.0
 新冠反思-任志强,Frank笔记,https://frank2019.me/archives/xin-guan-fan-si-ren-zhi-qiang,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-08,1583698200.0
-国内自建图床指南,Randy's Blog,https://lutaonan.com/blog/aliyun-cdn-tutorial/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-07,1583539200.0
