@@ -1,4 +1,8 @@
 title,author,link,home,rss,date,timestamp
+使用 Docker 部署 Gitea Actions 的 Runner,杜老师说,https://dusays.com/723/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-01,1719849600.0
+2024夏：不畏浮云遮望眼，乱云飞渡仍从容,Macin,https://macin.org/2024/06/30/202404/,https://macin.org/,https://www.macin.org/atom.xml,2024-06-30,1719779325.0
+介绍一下Java的BiFunction,Nicksxs's Blog,https://nicksxs.me/2024/06/30/%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8BJava%E7%9A%84BiFunction/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-30,1719757055.0
+2024-06小记,汐塔魔法屋,https://blog.sinzmise.top/posts/64935/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-06-28,1719613919.0
 使用 Docker 部署 Gitea 新一代的代码托管平台,杜老师说,https://dusays.com/722/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-28,1719590400.0
 十亿行挑战-C++,Bing's Blog,https://imcbc.cn/202406/1brc-cpp/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-06-28,1719585720.0
 免费搭建 Docker 镜像存储库解决拉取问题,杜老师说,https://dusays.com/721/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-25,1719331200.0
@@ -45,7 +49,3 @@ iStoreOS 路由系统介绍与安装,杜老师说,https://dusays.com/710/,https:
 SPF、DKIM与DMARC为何？,Muidar's Site,https://muidar.com/posts/cmuidar/what-is-spf-dkim-dmarc/,https://muidar.com,https://muidar.com/feed,2024-05-18,1716036184.0
 免费的代码AI辅助工具：百度comate,瓦解的生活记事,https://hin.cool/posts/baiducomate.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-05-18,1716031200.0
 基于 rsync+inotifywait 实现文件的实时同步,杜老师说,https://dusays.com/708/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-17,1715961600.0
-拓扑相关概念的演化,辛未羊的网络日志,https://panqiincs.me/2024/05/16/bourbaki-topology/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2024-05-16,1715864162.0
-Artalk 评论工具登录功能使用及反馈收集,杜老师说,https://dusays.com/707/,https://dusays.com/,https://dusays.com/atom.xml,2024-05-14,1715702400.0
-不上班的第一年,Randy's Blog,https://lutaonan.com/blog/a-year-off-work/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-05-14,1715644800.0
-Apple Watch Terminal 风格表盘,Another Dayu,https://anotherdayu.com/2024/5755/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-05-13,1715605047.0
