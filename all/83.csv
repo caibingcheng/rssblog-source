@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+用户管理相关命令,杜老师说,https://dusays.com/90/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-06,1570377600.0
 从零开始的独立博客搭建教程,ChrAlpha,https://blog.ichr.me/post/hexo-basic-set-up/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-10-05,1570301061.0
 快速释放内存脚本,杜老师说,https://dusays.com/89/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-05,1570291200.0
 Github Page + Hexo 免费搭建个人博客教程,ChrAlpha,https://blog.ichr.me/post/set-up-hexo-on-github-page/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-10-05,1570275291.0
@@ -20,7 +21,7 @@ MySQL 几种存储引擎的介绍,杜老师说,https://dusays.com/79/,https://du
 MySQL指定使用索引(使用索引提示),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_25-mysql_use_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-25,1569369600.0
 MySQL 主从复制的简介,杜老师说,https://dusays.com/78/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-24,1569340800.0
 PHP 动态模式和静态模式区别,杜老师说,https://dusays.com/77/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-23,1569254400.0
-搭建samba服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-samba.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
+QT5使用GTK主题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-qt5_gtk_theme.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 Linux 运维人员最常用 166 个命令汇总,杜老师说,https://dusays.com/76/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-22,1569168000.0
 IaaS/PaaS/SaaS 的区别,杜老师说,https://dusays.com/75/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-21,1569081600.0
 回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
@@ -48,4 +49,3 @@ Typecho主题 | MDr - 书写你的篇章,FlyingSky's Blog,https://blog.fsky7.com
 云主机的极致优化,杜老师说,https://dusays.com/60/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-06,1567785600.0
 Linux 各目录及每个目录的详细介绍,杜老师说,https://dusays.com/59/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-05,1567699200.0
 将 rm 命令改造成 mv 到指定的目录,杜老师说,https://dusays.com/58/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-04,1567612800.0
-再谈996,Frank笔记,https://frank2019.me/archives/zai-tan-996,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567572600.0
