@@ -1,10 +1,12 @@
 title,author,link,home,rss,date,timestamp
+cmd - 常用命令,Yulin Lewis' Blog,https://lewky.cn/posts/cmd-commands/,https://lewky.cn/,https://lewky.cn/index.xml,2025-02-03,1738589319.0
+Hugo系列(1) - 简单搭建教程与远程部署,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-1.html/,https://lewky.cn/,https://lewky.cn/index.xml,2025-02-03,1738588247.0
 Linux常用命令,Yulin Lewis' Blog,https://lewky.cn/posts/linux-commands/,https://lewky.cn/,https://lewky.cn/index.xml,2024-10-13,1728826119.0
 别了，向晚,Yulin Lewis' Blog,https://lewky.cn/posts/asoul-ava/,https://lewky.cn/,https://lewky.cn/index.xml,2024-04-19,1713541887.0
 别了，向晚,Yulin Lewis' Blog,https://lewky233.top/posts/asoul-ava/,https://lewky233.top/,https://lewky.cn/index.xml,2024-04-19,1713541887.0
 必胜客自助餐,Yulin Lewis' Blog,https://lewky.cn/posts/bishengke/,https://lewky.cn/,https://lewky.cn/index.xml,2024-03-24,1711255350.0
-Prometheus简易入门,Yulin Lewis' Blog,https://lewky233.top/posts/prometheus-start/,https://lewky233.top/,https://lewky.cn/index.xml,2023-11-06,1699283598.0
 Prometheus简易入门,Yulin Lewis' Blog,https://lewky.cn/posts/prometheus-start/,https://lewky.cn/,https://lewky.cn/index.xml,2023-11-06,1699283598.0
+Prometheus简易入门,Yulin Lewis' Blog,https://lewky233.top/posts/prometheus-start/,https://lewky233.top/,https://lewky.cn/index.xml,2023-11-06,1699283598.0
 Chrome问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/chrome-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2023-07-25,1690291117.0
 Chrome问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/chrome-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2023-07-25,1690291117.0
 SSH命令问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/ssh-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2023-06-20,1687237878.0
@@ -23,12 +25,12 @@ Oculus Quest2食用指南,Yulin Lewis' Blog,https://lewky.cn/posts/oculus-quests
 Oculus Quest2食用指南,Yulin Lewis' Blog,https://lewky233.top/posts/oculus-quests/,https://lewky233.top/,https://lewky.cn/index.xml,2022-08-25,1661433601.0
 背包英雄：匕首流无尽模式详细攻略,Yulin Lewis' Blog,https://lewky.cn/posts/backpack-hero-dagger/,https://lewky.cn/,https://lewky.cn/index.xml,2022-07-03,1656836774.0
 背包英雄：匕首流无尽模式详细攻略,Yulin Lewis' Blog,https://lewky233.top/posts/backpack-hero-dagger/,https://lewky233.top/,https://lewky.cn/index.xml,2022-07-03,1656836774.0
-Linux问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/linux-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-06-22,1655916265.0
 Linux问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/linux-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-06-22,1655916265.0
+Linux问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/linux-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-06-22,1655916265.0
 Postman问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postman-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-06-07,1654616948.0
 Postman问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/postman-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-06-07,1654616948.0
-别了，珈乐,Yulin Lewis' Blog,https://lewky233.top/posts/asoul-jiale/,https://lewky233.top/,https://lewky.cn/index.xml,2022-05-11,1652283034.0
 别了，珈乐,Yulin Lewis' Blog,https://lewky.cn/posts/asoul-jiale/,https://lewky.cn/,https://lewky.cn/index.xml,2022-05-11,1652283034.0
+别了，珈乐,Yulin Lewis' Blog,https://lewky233.top/posts/asoul-jiale/,https://lewky233.top/,https://lewky.cn/index.xml,2022-05-11,1652283034.0
 IDEA - 快捷键篇,Yulin Lewis' Blog,https://lewky.cn/posts/idea-hotkey/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-31,1648727486.0
 桌面窗口管理器占用内存过高,Yulin Lewis' Blog,https://lewky.cn/posts/dwm-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-22,1647908442.0
 桌面窗口管理器占用内存过高,Yulin Lewis' Blog,https://lewky233.top/posts/dwm-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-22,1647908442.0
@@ -42,10 +44,8 @@ PostgreSQL - SQL调优方案,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql
 PostgreSQL - SQL调优方案,Yulin Lewis' Blog,https://lewky233.top/posts/postgresql-sql-tuning/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-03,1646266166.0
 Java - 字符编码,Yulin Lewis' Blog,https://lewky.cn/posts/java-charset/,https://lewky.cn/,https://lewky.cn/index.xml,2022-02-13,1644720128.0
 Java - 字符编码,Yulin Lewis' Blog,https://lewky233.top/posts/java-charset/,https://lewky233.top/,https://lewky.cn/index.xml,2022-02-13,1644720128.0
-Spring Data Redis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-data-redis/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-13,1642086642.0
 Spring Data Redis问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/spring-data-redis/,https://lewky233.top/,https://lewky.cn/index.xml,2022-01-13,1642086642.0
+Spring Data Redis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-data-redis/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-13,1642086642.0
 Java数值问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/java-number/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-10,1641826986.0
 Java数值问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/java-number/,https://lewky233.top/,https://lewky.cn/index.xml,2022-01-10,1641826986.0
 lombok问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/lombok-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-06,1641430890.0
-lombok问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/lombok-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-01-06,1641430890.0
-Jackson问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/jackson-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-01-04,1641311142.0
