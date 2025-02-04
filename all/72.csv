@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+博客新增公开笔记部分,萤火之森,http://frankorz.com/2020/10/03/add-note-section-to-blog/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-10-03,1601740410.0
 如何从 Valine 迁移至 Disqus,云游君的小站,https://www.yunyoujun.cn/posts/migrate-from-valine-to-disqus/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-03,1601708953.0
 九月总结,4Ark × Blog,https://4ark.me/post/d33db2d3.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-03,1601687752.0
 VMware Workstation 16 Pro 许可证分享,杜老师说,https://dusays.com/268/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-02,1601654400.0
@@ -6,8 +7,8 @@ VMware Workstation 16 Pro 许可证分享,杜老师说,https://dusays.com/268/,h
 VMware Workstation 16 Pro 新功能,杜老师说,https://dusays.com/267/,https://dusays.com/,https://dusays.com/atom.xml,2020-09-29,1601395200.0
 写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-09-29,1601337600.0
 ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601321597.0
-写给 VS Code 用户的 Vim 入坑指南,Ahonn's Blog,https://www.ahonn.me/blog/the-vim-guide-for-vs-code-users,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
 写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
+写给 VS Code 用户的 Vim 入坑指南,Ahonn's Blog,https://www.ahonn.me/blog/the-vim-guide-for-vs-code-users,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
 ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601292797.0
 最大剥削策略,Frank笔记,https://frank2019.me/archives/zui-da-bo-xue-ce-lue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-09-27,1601184000.0
 Flask和requests做一个简单的请求代理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
@@ -17,7 +18,7 @@ Flask和requests做一个简单的请求代理,Jiajun的技术笔记,https://jia
 <蛤蟆先生去看心理医生>思维导图,Frank笔记,https://frank2019.me/archives/ha-ma-xian-sheng-qu-kan-xin-li-yi-sheng-si-wei-dao-tu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-09-22,1600751940.0
 Linux常用命令(四)：xargs,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_21-linux_cmd_xargs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-21,1600646400.0
 NAS 品牌的选择,杜老师说,https://dusays.com/264/,https://dusays.com/,https://dusays.com/atom.xml,2020-09-20,1600617600.0
-Linux常用命令(二)：htop,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_htop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
+Linux常用命令(三)：watch,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
 升级 IOS 14 的一些坑,4Ark × Blog,https://4ark.me/post/7b1778ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-09-19,1600529843.0
 【推荐】Hexo博客配置及源文件备份,qinxs小站,https://7bxing.com/posts/659688f7/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-19,1600519111.0
 Linux常用命令(一)：netcat,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600.0
@@ -48,4 +49,3 @@ An Overview of China’s Internet Censorship Strategy,Bin Wang - My Personal Blo
 Strato - Hexo 主题「Yun」版本宣传 PV,云游君的小站,https://www.yunyoujun.cn/posts/hexo-theme-yun-strato,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-28,1598652000.0
 Strato - Hexo 主题「Yun」版本宣传 PV,云游君的小站,https://www.yunyoujun.cn/share/hexo-theme-yun-strato/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-28,1598623200.0
 八月总结,4Ark × Blog,https://4ark.me/post/f05d518.html,https://4ark.me/,https://4ark.me/rss.xml,2020-08-28,1598573148.0
-《八佰》观后感,4Ark,https://4ark.me/posts/ba-bai-review/,https://4ark.me/,https://4ark.me/rss.xml,2020-08-28,1598573025.0
