@@ -1,4 +1,9 @@
 title,author,link,home,rss,date,timestamp
+Android SwipeRefreshLayout左右滑动冲突的解决,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_12-android_swiperefresh_swipe_left_right.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-12,1607731200.0
+通过 Watchtower 实现 Docker 容器自动更新,杜老师说,https://dusays.com/291/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-11,1607702400.0
+建立集中式 Clash 网关,杜老师说,https://dusays.com/290/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-08,1607443200.0
+Android调用gRPC的两个小工具函数,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_07-android_kotlin_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-07,1607299200.0
+程序員與文學衝突,Just lepture,https://lepture.com/zh/2020/tweet-yuan,https://lepture.com/,https://lepture.com/feed.xml,2020-12-06,1607235718.0
 通过 Docker 部署 AdGuard Home 实战,杜老师说,https://dusays.com/289/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-05,1607184000.0
 【DB系列】InfluxDB,框架師,https://www.mobaijun.com/posts/2901774056.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-04,1607048712.0
 Docker 套件的功能介绍,杜老师说,https://dusays.com/288/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-02,1606924800.0
@@ -44,8 +49,3 @@ DNS Resolving Bug in iOS 14,Bin Wang - My Personal Blog,https://www.binwang.me/2
 Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-02-Use-TLA+-to-Verify-Cache-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-02,1604293200.0
 为啥Redis使用pipelining会更快？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
 Java 的 SE/EE/ME 区别知道吗,杜老师说,https://dusays.com/278/,https://dusays.com/,https://dusays.com/atom.xml,2020-11-01,1604246400.0
-在线、近线、离线存储都是什么,杜老师说,https://dusays.com/277/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-29,1603987200.0
-/bin/sh: python: not found 问题的解决,Frank笔记,https://frank2019.me/archives/bin-sh-python-not-found-wen-ti-de-jie-jue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-29,1603949280.0
-配置一个简洁，高效的zsh,无妄当自持,https://www.insidentally.com/articles/000002/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-29,1603933662.0
-ServerStatus中文版部署,Frank笔记,https://frank2019.me/archives/serverstatuszhong-wen-ban-bu-shu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-27,1603776360.0
-安装使用hexo,无妄当自持,https://www.insidentally.com/articles/000001/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-27,1603760862.0

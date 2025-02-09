@@ -1,19 +1,21 @@
 title,author,link,home,rss,date,timestamp
+宝塔Linux nginx http强制跳转https设置方法,Frank笔记,https://frank2019.me/articles/2019/09/06/1567736075817.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-01,1677700638.0
+线上商城思考,Frank笔记,https://frank2019.me/articles/2019/09/06/1567732355856.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-01,1677700604.0
 BBR+BBR魔改+Lotsever(锐速)一键脚本 for Centos/Debian/Ubuntu,Frank笔记,https://frank2019.me/articles/2019/09/05/1567613574813.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-01,1677700560.0
 Youtube 详细统计信息 详解,Frank笔记,https://frank2019.me/articles/2019/09/05/1567613389949.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-01,1677700527.0
 浅谈销售,Frank笔记,https://frank2019.me/articles/2019/09/04/1567579899235.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-01,1677700500.0
 安装SHADOWSCOCKS-MANAGER,Frank笔记,https://frank2019.me/articles/2019/09/04/1567580175121.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-01,1677700468.0
+一切向好是个伪命题,Frank笔记,/archives/yi-qie-xiang-hao-shi-ge-wei-ming-ti,/,https://frank2019.me/rss.xml,2023-03-01,1677662100.0
 一切向好是个伪命题,Frank笔记,https://frank2019.me/archives/yi-qie-xiang-hao-shi-ge-wei-ming-ti,https://frank2019.me/,https://frank2019.me/rss.xml,2023-03-01,1677662100.0
 一切向好是个伪命题,Frank笔记,http://frank2019.me/archives/yi-qie-xiang-hao-shi-ge-wei-ming-ti,http://frank2019.me/,https://frank2019.me/rss.xml,2023-03-01,1677662100.0
-一切向好是个伪命题,Frank笔记,/archives/yi-qie-xiang-hao-shi-ge-wei-ming-ti,/,https://frank2019.me/rss.xml,2023-03-01,1677662100.0
 回顾2018,Frank笔记,https://frank2019.me/articles/2019/09/04/1567579388775.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-02-28,1677570640.0
 群魔乱舞的时代,Frank笔记,https://frank2019.me/articles/2019/09/04/1567579814533.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-02-28,1677570607.0
 醉里自建免费公益图床,醉里博客,https://202271.xyz/post/29287/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-02-27,1677542087.0
 202302：二月东风来，草坼花心开,Macin,https://macin.org/2023/02/27/202302/,https://macin.org/,https://www.macin.org/atom.xml,2023-02-27,1677525559.0
 小指拇山：这估计是梵净山的迷你版,Macin,https://macin.org/2023/02/27/xiao-zhi-mu-shan/,https://macin.org/,https://www.macin.org/atom.xml,2023-02-27,1677498332.0
 风的咏颂,Another Dayu,https://anotherdayu.com/2023/4843/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-02-27,1677497889.0
-传销骗局与韭菜,见字如面,https://hiwannz.com/archives/757,https://hiwannz.com,https://hiwannz.com/feed,2023-02-27,1677475444.0
 传销骗局与韭菜,见字如面,https://hiwannz.com/archives/757.html,https://hiwannz.com/,https://hiwannz.com/feed,2023-02-27,1677475444.0
+传销骗局与韭菜,见字如面,https://hiwannz.com/archives/757,https://hiwannz.com,https://hiwannz.com/feed,2023-02-27,1677475444.0
 分享一次折腾老旧笔记本的体验-续续篇,Nicksxs's Blog,https://nicksxs.me/2023/02/26/%E5%88%86%E4%BA%AB%E4%B8%80%E6%AC%A1%E6%8A%98%E8%85%BE%E8%80%81%E6%97%A7%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%9A%84%E4%BD%93%E9%AA%8C-%E7%BB%AD%E7%BB%AD%E7%AF%87/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-02-26,1677419514.0
 渲染 Markdown 内容为思维导图,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2023/02/26/eaf-markmap.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-02-26,1677369600.0
 华为云DNS自定义Nameserver,Muidar's Site,https://muidar.com/posts/cmuidar/custom-nameserver/,https://muidar.com,https://muidar.com/feed,2023-02-25,1677330513.0
@@ -39,13 +41,11 @@ ChatGPT,manateelazycat.github.io,//manateelazycat.github.io/think/2023/02/14/cha
 分享一次折腾老旧笔记本的体验-续篇,Nicksxs's Blog,https://nicksxs.me/2023/02/12/%E5%88%86%E4%BA%AB%E4%B8%80%E6%AC%A1%E6%8A%98%E8%85%BE%E8%80%81%E6%97%A7%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%9A%84%E4%BD%93%E9%AA%8C-%E7%BB%AD%E7%AF%87/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-02-12,1676210223.0
 更优雅的使用虚拟机,Zikin 的独立博客,https://zikin.org/windows-remote-app/,https://zikin.org/,https://zikin.org/feed,2023-02-12,1676197460.0
 网页广告屏蔽工具 | uBlock Origin,Another Dayu,https://anotherdayu.com/2023/4757/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-02-12,1676179150.0
-BTNvsBB SRP KQJ彩虹面,Frank笔记,http://frank2019.me/archives/btnvsbb-srp-kqjcai-hong-mian,http://frank2019.me/,https://frank2019.me/rss.xml,2023-02-08,1675883580.0
 BTNvsBB SRP KQJ彩虹面,Frank笔记,https://frank2019.me/archives/btnvsbb-srp-kqjcai-hong-mian,https://frank2019.me/,https://frank2019.me/rss.xml,2023-02-08,1675883580.0
 BTNvsBB SRP KQJ彩虹面,Frank笔记,/archives/btnvsbb-srp-kqjcai-hong-mian,/,https://frank2019.me/rss.xml,2023-02-08,1675883580.0
+BTNvsBB SRP KQJ彩虹面,Frank笔记,http://frank2019.me/archives/btnvsbb-srp-kqjcai-hong-mian,http://frank2019.me/,https://frank2019.me/rss.xml,2023-02-08,1675883580.0
 短暂的离别,醉里博客,https://202271.xyz/post/47860/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-02-07,1675813964.0
 Evolution Host免费服务器,醉里博客,https://202271.xyz/post/4034/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-02-07,1675785164.0
 简单几步搞定 nostr 紫标认证,Macin,https://macin.org/2023/02/07/nostr-verification/,https://macin.org/,https://www.macin.org/atom.xml,2023-02-07,1675784500.0
 凉山昭觉：这里曾是中国深度贫困的标本,Macin,https://macin.org/2023/02/07/liang-shan-zhao-jue/,https://macin.org/,https://www.macin.org/atom.xml,2023-02-07,1675766056.0
 Cloudflare 免费版自定义切换边缘证书,Zikin 的独立博客,https://zikin.org/cloudflare-set-edge-cert/,https://zikin.org/,https://zikin.org/feed,2023-02-06,1675692397.0
-ChatGPT 类似产品🤖,把酒诗代码，趁乱写年华。,https://102no.com/2023/02/06/chatgtp-alternatives/,https://102no.com/,https://102no.com/atom.xml,2023-02-05,1675612800.0
-分享一次折腾老旧笔记本的体验,Nicksxs's Blog,https://nicksxs.me/2023/02/05/%E5%88%86%E4%BA%AB%E4%B8%80%E6%AC%A1%E6%8A%98%E8%85%BE%E8%80%81%E6%97%A7%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%9A%84%E4%BD%93%E9%AA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-02-05,1675605451.0
