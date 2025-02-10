@@ -958,8 +958,8 @@
             ]
           ]
         ],
-        "all": 35,
-        "member": 1
+        "member": 1,
+        "all": 35
       },
       {
         "user": "addition",
@@ -1517,8 +1517,8 @@
             ]
           ]
         ],
-        "all": 69,
-        "member": 1
+        "member": 1,
+        "all": 69
       }
     ]
   }
