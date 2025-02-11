@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+3D数学基础-向量运算基础和矩阵变换,萤火之森,http://frankorz.com/2017/09/22/basic-of-vector-and-matrix-transformation/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-09-22,1506078350.0
 像遊客一樣生活,Just lepture,https://lepture.com/zh/2017/live-better,https://lepture.com/,https://lepture.com/feed.xml,2017-09-22,1506065108.0
 HTTPS 的详细流程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_22-https_processes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-22,1506038400.0
 OAuth2 为什么需要 Authorization Code?,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_21-oauth2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-21,1505952000.0
@@ -20,8 +21,8 @@ TCP/IP简明教程 - 从零构建TCP/IP协议（二）连接，断开与拥塞�
 米家小相机开箱:本是同根生，相煎也太急,罗磊的独立博客,https://luolei.org/mijia-action-camera-unboxing,https://luolei.org,https://luolei.org/feed/,2017-08-22,1503360000.0
 南京之旅-记10th计算机设计大赛,云游君的小站,https://www.yunyoujun.cn/posts/a-trip-to-nanjing-10th-contest,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-08-21,1503355272.0
 Laravel 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/laravel-use-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-08-21,1503332818.0
-养猫随想,Randy's Blog,https://lutaonan.com/blog/cat-capriccio/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-08-20,1503187200.0
 养猫随想,Randy's Blog,https://lutaonan.com/blog/cat-capriccio,https://lutaonan.com,https://lutaonan.com/rss.xml,2017-08-20,1503187200.0
+养猫随想,Randy's Blog,https://lutaonan.com/blog/cat-capriccio/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-08-20,1503187200.0
 SONY A6500:APS-C最强微单开箱,罗磊的独立博客,https://luolei.org/sony-a6500-unboxing,https://luolei.org,https://luolei.org/feed/,2017-08-18,1503014400.0
 TCP/IP简明教程 - 从零构建TCP/IP协议（这次叫PCT协议）,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_08_12-tcp_ip.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-08-12,1502496000.0
 Lua Manual 阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_08_09-lua_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-08-09,1502236800.0
@@ -37,8 +38,8 @@ MySQL 零碎知识 - MySQL必知必会,Jiajun的技术笔记,https://jiajunhuang
 Golang slice 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_18-golang_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-18,1500336000.0
 经典好书推荐(2017),Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_15-books.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-15,1500076800.0
 水彩原创头像尝试,云游君的小站,https://www.yunyoujun.cn/posts/a-try-about-watercolor-portrait,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-12,1499894106.0
-群晖 DS216j 半年体验报告,Randy's Blog,https://lutaonan.com/blog/synology-ds216j-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-07-11,1499731200.0
 Golang log库 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_11-golang_log.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-11,1499731200.0
+群晖 DS216j 半年体验报告,Randy's Blog,https://lutaonan.com/blog/synology-ds216j-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-07-11,1499731200.0
 云游君表情包制作计划,云游君的小站,https://www.yunyoujun.cn/posts/yunyoujun-meme,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-10,1499683297.0
 小说连载初尝试-《阿庫娅的星球》,云游君的小站,https://www.yunyoujun.cn/posts/planet-of-aqua,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-10,1499682984.0
 關西行,Just lepture,https://lepture.com/zh/2017/guan-xi-xing,https://lepture.com/,https://lepture.com/feed.xml,2017-07-07,1499440078.0
@@ -48,4 +49,3 @@ Vim 全局搜索插件：ctrlsf.vim,Yuexun's Blog,https://yuexunjiang.me/blog/vi
 ansible 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_06_22-ansible.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-06-22,1498089600.0
 花田苑雜記,Just lepture,https://lepture.com/zh/2017/hanataen,https://lepture.com/,https://lepture.com/feed.xml,2017-06-19,1497876419.0
 AMPLIFI HD -居家体验报告 | 视频,罗磊的独立博客,https://luolei.org/amplifi-hd-review,https://luolei.org,https://luolei.org/feed/,2017-06-19,1497830400.0
-开箱:AMPLIFI HD - 这应该是我用过的最(贵)漂亮的路由器,罗磊的独立博客,https://luolei.org/amplifi-hd-unboxing,https://luolei.org,https://luolei.org/feed/,2017-06-15,1497484800.0
