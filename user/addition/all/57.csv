@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+健身一年,Randy's Blog,https://lutaonan.com/blog/one-year-of-bulking/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-01-14,1547424000.0
 健身一年,Randy's Blog,https://lutaonan.com/blog/one-year-of-bulking,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-01-14,1547424000.0
 不越狱在 iOS 12.113.3 设备安装 Kodi,萤火之森,http://frankorz.com/2019/01/13/install-kodi-with-tweakbox/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-01-13,1547402460.0
 杂谈,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_13-goroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-13,1547337600.0
@@ -48,4 +49,3 @@ new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuex
 Raft论文阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_16-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
 避免全局变量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_15-avoid_global_states.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-15,1542240000.0
 Go的unsafe包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_13-golang_package_unsafe.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-13,1542067200.0
-Golang中实现禁止拷贝,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
