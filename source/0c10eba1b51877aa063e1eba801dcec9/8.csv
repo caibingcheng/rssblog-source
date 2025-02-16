@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+常见的软件架构套路,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 Google Ads使用体验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_10-google_ads.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-10,1536537600.0
 Go的custom import path,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_07-go_custom_import_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-07,1536278400.0
 如何挖掘二级子域名？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_06-how_to_dig_subdomain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-06,1536192000.0
@@ -36,7 +37,7 @@ Gin源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/
 Golang(Go语言)中实现典型的fork调用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_08-golang_fork.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-08,1520467200.0
 软件开发之禅---大事化小，各个击破,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_02_26-zen_of_dev.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-26,1519603200.0
 程序员的自我修养：链接，装载与库 阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_02_25-linker_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-25,1519516800.0
-Redis源码阅读与分析三：哈希表,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_hash_table.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
+Redis源码阅读与分析一：sds,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_sds.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400.0
 Golang runtime 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_02_02-golang_runtime.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-02,1517529600.0
 Golang的一些坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_31-golang_traps.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-31,1517356800.0
 GC 垃圾回收,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_30-gc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-30,1517270400.0
@@ -48,4 +49,3 @@ Go语言性能优化实战,Jiajun的技术笔记,https://jiajunhuang.com/article
 Golang 分布式异步任务队列 Machinery 教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_30-golang_task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-30,1514592000.0
 使用geohash完成地理距离计算,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_27-geohash.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-27,1514332800.0
 2018年就要到了，这一年都做了什么呢？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_20-2017_is_over_and_2018_is_coming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-20,1513728000.0
-算法导论阅读笔记 --- 排序算法,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_02-algorithms_sorting.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-02,1512172800.0
