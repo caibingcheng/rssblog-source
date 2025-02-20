@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+【Mybatis系列】Mybatis入门,框架師,https://www.mobaijun.com/posts/2794875020.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-07,1641539424.0
+【Web系列】SpringBoot防护XSS攻击配置,框架師,https://www.mobaijun.com/posts/407876058.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-06,1641448654.0
+【工具系列】常用maven命令介绍,框架師,https://www.mobaijun.com/posts/3490035493.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641366238.0
 【工具系列】轻量级虚拟机Multipass使用教程,框架師,https://www.mobaijun.com/posts/3701652676.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-05,1641351409.0
 【工具系列】mvnd：maven全新构建插件，提高性能,框架師,https://www.mobaijun.com/posts/1982863623.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-29,1640745287.0
 【Linux系列】Docker启动Nginx配置动静分离,框架師,https://www.mobaijun.com/posts/649017238.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-23,1640222875.0
@@ -46,6 +49,3 @@ SpringBoot2.3整合InfluxDB实现增删查,框架师,https://www.mobaijun.com/po
 【Hexo】Hexo matery主题评论系统valine改版记录,框架師,https://www.mobaijun.com/posts/4026840102.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-12,1607747873.0
 【DB系列】InfluxDB,框架師,https://www.mobaijun.com/posts/2901774056.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-04,1607048712.0
 【随笔】CDN技术原理,框架師,https://www.mobaijun.com/posts/4065328982.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-11-30,1606726339.0
-【工具系列】让JavaWEB程序如MySQL服务一样自启动,框架師,https://www.mobaijun.com/posts/837744366.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-11-30,1606718475.0
-【WEB系列】SpringBoot 实现 Websocket 通信详解,框架師,https://www.mobaijun.com/posts/3556598747.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-11-10,1605005482.0
-【工具系列】常用开发软件配置,框架師,https://www.mobaijun.com/posts/1002246177.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-11-07,1604749676.0
