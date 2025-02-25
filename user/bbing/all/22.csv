@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+《程序员的自身修养——链接、装载与库》读书笔记,BBing's Blog,https://bbing.com.cn/202110/coder-link-load/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-10-25,1635162950.0
 去不图床关闭访客上传通知,杜老师说,https://dusays.com/396/,https://dusays.com/,https://dusays.com/atom.xml,2021-10-24,1635091200.0
 修改 GitLab 默认地址及端口,杜老师说,https://dusays.com/395/,https://dusays.com/,https://dusays.com/atom.xml,2021-10-21,1634832000.0
 Loveit开启评论功能,cywhat's blog,https://cywhat.cn/Loveit%E5%BC%80%E5%90%AF%E8%AF%84%E8%AE%BA%E5%8A%9F%E8%83%BD/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-10-21,1634807246.0
@@ -21,10 +22,10 @@ Java正则表达式问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/jav
 fonts.googleapis.com访问较慢[已解决],cywhat's blog,https://cywhat.cn/fonts-googleapis-com%E8%AE%BF%E9%97%AE%E8%BE%83%E6%85%A2-%E5%B7%B2%E8%A7%A3%E5%86%B3/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-10-12,1634062472.0
 两种通过 Nginx 实现强制 HTTPS 访问方法,杜老师说,https://dusays.com/392/,https://dusays.com/,https://dusays.com/atom.xml,2021-10-12,1634054400.0
 Twitch承认遭受攻击，源码泄露,LonelyGod,https://hin.cool/posts/twitchacked.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-10-11,1633986000.0
-MySQL问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mysql-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-10-11,1633968241.0
 MySQL问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/mysql-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2021-10-11,1633968241.0
-UWP ListView数据绑定,DearXuan的主页,https://dearxuan.top/2021/10/11/UWP-ListView%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-11,1633952940.0
+MySQL问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mysql-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-10-11,1633968241.0
 UWP ListView数据绑定,DearXuan的主页,https://blog.dearxuan.com/2021/10/11/UWP-ListView%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-11,1633952940.0
+UWP ListView数据绑定,DearXuan的主页,https://dearxuan.top/2021/10/11/UWP-ListView%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-11,1633952940.0
 Ubuntu 的 DNS 不可用处理办法,杜老师说,https://dusays.com/391/,https://dusays.com/,https://dusays.com/atom.xml,2021-10-09,1633795200.0
 UWP Brush画笔详解,DearXuan的主页,https://dearxuan.top/2021/10/08/UWP-Brush%E7%94%BB%E7%AC%94%E8%AF%A6%E8%A7%A3/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-10-08,1633699740.0
 UWP Brush画笔详解,DearXuan的主页,https://blog.dearxuan.com/2021/10/08/UWP-Brush%E7%94%BB%E7%AC%94%E8%AF%A6%E8%A7%A3/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-10-08,1633699740.0
@@ -38,8 +39,8 @@ UWP编程基础,DearXuan的主页,https://blog.dearxuan.com/2021/10/05/UWP%E7%BC
 avn自动切换node版本,cywhat's blog,https://cywhat.cn/avn%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2node%E7%89%88%E6%9C%AC/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-29,1632936213.0
 日喀则扎什伦布寺,无妄当自持,https://www.insidentally.com/articles/000018/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-09-28,1632819348.0
 通过 Vercel 部署 Hexo「部署」,杜老师说,https://dusays.com/387/,https://dusays.com/,https://dusays.com/atom.xml,2021-09-27,1632758400.0
-Spring Data MongoDB问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/spring-data-mongodb/,https://lewky233.top/,https://lewky.cn/index.xml,2021-09-27,1632756442.0
 Spring Data MongoDB问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-data-mongodb/,https://lewky.cn/,https://lewky.cn/index.xml,2021-09-27,1632756442.0
+Spring Data MongoDB问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/spring-data-mongodb/,https://lewky233.top/,https://lewky.cn/index.xml,2021-09-27,1632756442.0
 Django中的form表单校验,cywhat's blog,https://cywhat.cn/Django%E4%B8%AD%E7%9A%84form%E8%A1%A8%E5%8D%95%E6%A0%A1%E9%AA%8C/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-24,1632507637.0
 hexo迁移需要进行安装的一些依赖,cywhat's blog,https://cywhat.cn/hexo%E8%BF%81%E7%A7%BB%E9%9C%80%E8%A6%81%E8%BF%9B%E8%A1%8C%E5%AE%89%E8%A3%85%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BE%9D%E8%B5%96/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-24,1632505902.0
 可白嫖的顶级域名,杜老师说,https://dusays.com/386/,https://dusays.com/,https://dusays.com/atom.xml,2021-09-24,1632499200.0
@@ -48,4 +49,3 @@ Linux搭建sonarqube,cywhat's blog,https://cywhat.cn/Linux%E6%90%AD%E5%BB%BAsona
 去不图床 Chrome/Edge 浏览器扩展,杜老师说,https://dusays.com/385/,https://dusays.com/,https://dusays.com/atom.xml,2021-09-21,1632240000.0
 你需要一个什么样的浏览器？,LonelyGod,https://hin.cool/posts/browser.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-09-19,1632009600.0
 Jenkins启动报错原因分析,cywhat's blog,https://cywhat.cn/Jenkins%E5%90%AF%E5%8A%A8%E6%8A%A5%E9%94%99%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-18,1631987898.0
-Linux安装jdk11,cywhat's blog,https://cywhat.cn/Linux%E5%AE%89%E8%A3%85jdk11/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-18,1631987271.0
