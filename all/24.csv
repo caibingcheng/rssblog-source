@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Hutool 5.8.8  BeanUtil.copyProperties 致命异常,Honesty·Blog,https://blog.hehouhui.cn/archives/hutool-beanutil-error,https://blog.hehouhui.cn/,https://notion.hehouhui.cn/rss/feed.xml,2023-05-23,1684800000.0
+用脚本部署 Bitwarden 密码管理平台,杜老师说,https://dusays.com/588/,https://dusays.com/,https://dusays.com/atom.xml,2023-05-22,1684771200.0
 玉龙老街：古镇悠悠竹林深深的好地方,Macin,https://macin.org/2023/05/22/yulong/,https://macin.org/,https://www.macin.org/atom.xml,2023-05-22,1684750155.0
 MacOS 窗口管理器 yabai 玩耍笔记,This Cute World,https://thiscute.world/posts/macos-window-manager-yabai-usage/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2023-05-22,1684729497.0
 Upgrade Kubernetes from 1.23 to 1.24,Bin Wang - My Personal Blog,https://www.binwang.me/2023-05-22-Upgrade-Kubernetes-from-1.23-to-1.24.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-05-22,1684728000.0
@@ -47,5 +49,3 @@ AI 是风口浪尖会飞的猪吗,瓦解的生活记事,https://hin.cool/posts/w
 网页沉浸式双语翻译的原理,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2023/05/06/the-principle-of-immersive-translation.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-05-06,1683331200.0
 SpringCloud笔记,Barney's Blog,https://hugo.bnblogs.cc/springcloud%E7%AC%94%E8%AE%B0/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-05,1683291733.0
 终极广告拦截器 Adguard「合购计划」,杜老师说,https://dusays.com/582/,https://dusays.com/,https://dusays.com/atom.xml,2023-05-04,1683216000.0
-NixOS 与 Nix Flakes 新手入门,This Cute World,https://thiscute.world/posts/nixos-and-flake-basics/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2023-05-04,1683184768.0
-听道德经,manateelazycat.github.io,//manateelazycat.github.io/think/2023/05/04/daodejing.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-05-04,1683158400.0
