@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+算法导论阅读笔记 --- 排序算法,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_02-algorithms_sorting.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-02,1512172800.0
+Git HTTPS 如何保存密码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_29-git_credential_store.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
 《尘缘》,This Cute World,https://thiscute.world/posts/fate-of-mortals/,https://thiscute.world/,https://thiscute.world/index.xml,2017-11-17,1510941120.0
 程序员修炼之道 阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_13-the_programmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-13,1510531200.0
 人生本该如此。,云游君的小站,https://www.yunyoujun.cn/posts/that-is-what-life-should-be,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-11-11,1510432186.0
@@ -10,8 +12,8 @@ traefik 教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_24
 Web开发系列(十)：事务和锁,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_19-web_dev_part10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Nginx 请求匹配规则,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-nginx_request_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(五)：form， json， xml,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_17-web_dev_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-17,1508198400.0
-海信A2 Pro:一部给喜欢阅读的人准备的手机,罗磊的独立博客,https://luolei.org/hisense-a2-pro-unboxing,https://luolei.org,https://luolei.org/feed/,2017-10-16,1508112000.0
 Web开发系列(四)：Flask， Tornado和WSGI,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_16-web_dev_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-16,1508112000.0
+海信A2 Pro:一部给喜欢阅读的人准备的手机,罗磊的独立博客,https://luolei.org/hisense-a2-pro-unboxing,https://luolei.org,https://luolei.org/feed/,2017-10-16,1508112000.0
 Discourse 新一代开源论坛,云游君的小站,https://www.yunyoujun.cn/posts/discourse-forum,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-10-15,1508089086.0
 Web开发系列(三)：什么是HTML，CSS，JS？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_15-web_dev_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-15,1508025600.0
 佐渡與阿賀町記,Just lepture,https://lepture.com/zh/2017/sado-and-ago,https://lepture.com/,https://lepture.com/feed.xml,2017-10-14,1507984443.0
@@ -47,5 +49,3 @@ TCP/IP简明教程 - 从零构建TCP/IP协议（二）连接，断开与拥塞�
 高中时的地下刊物,Randy's Blog,https://lutaonan.com/blog/my-underground-publication,https://lutaonan.com,https://lutaonan.com/rss.xml,2017-08-25,1503619200.0
 我的地下刊物,Randy's Blog,https://lutaonan.com/blog/my-underground-publication/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-08-25,1503619200.0
 米家小相机开箱:本是同根生，相煎也太急,罗磊的独立博客,https://luolei.org/mijia-action-camera-unboxing,https://luolei.org,https://luolei.org/feed/,2017-08-22,1503360000.0
-南京之旅-记10th计算机设计大赛,云游君的小站,https://www.yunyoujun.cn/posts/a-trip-to-nanjing-10th-contest,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-08-21,1503355272.0
-Laravel 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/laravel-use-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-08-21,1503332818.0

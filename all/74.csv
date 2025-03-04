@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Flask和requests做一个简单的请求代理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
+群晖 NAS 添加社群套件源,杜老师说,https://dusays.com/266/,https://dusays.com/,https://dusays.com/atom.xml,2020-09-26,1601136000.0
 借助 Magisk 优化/个性化 Android 中文字体显示效果,ChrAlpha,https://blog.ichr.me/post/improve-android-font-style-with-magisk/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-09-25,1601064971.0
 群晖 NAS 的套件介绍「全套件篇」,杜老师说,https://dusays.com/265/,https://dusays.com/,https://dusays.com/atom.xml,2020-09-23,1600876800.0
 <蛤蟆先生去看心理医生>思维导图,Frank笔记,https://frank2019.me/archives/ha-ma-xian-sheng-qu-kan-xin-li-yi-sheng-si-wei-dao-tu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-09-22,1600751940.0
@@ -47,5 +49,3 @@ Matrix: A Self Hosted Instant Messaging Solution with End to End Encryption,Bin 
 Go DiskQueue源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-22,1598054400.0
 Apache 的三种工作模式介绍「worker 篇」,杜老师说,https://dusays.com/254/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-21,1598025600.0
 《八佰》观后感,Frank笔记,https://frank2019.me/archives/ba-bai-guan-hou-gan,https://frank2019.me/,https://frank2019.me/rss.xml,2020-08-21,1597986660.0
-el-bot & mirai-ts 制作笔记,云游君的小站,https://www.yunyoujun.cn/posts/make-el-bot,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-20,1597954613.0
-natapp 树莓派开机启动脚本,杜老师说,https://dusays.com/253/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-18,1597766400.0
