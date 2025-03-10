@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+用自托管的 2FAuth 来做双因素身份验证,Andy Stewart,//manateelazycat.github.io/2024/11/14/2fauth/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-13,1731513600.0
 【后端】使用 GitHub Action 自动推送 Docker 镜像,框架師,https://www.mobaijun.com/posts/2922523315.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-11-13,1731492452.0
 Fcitx 最佳配置实践 2024-11-13,Andy Stewart,//manateelazycat.github.io/2024/11/13/fcitx-best-config/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-12,1731427200.0
 【随笔】解决 hexo matery 主题卜算子统计失效异常,框架師,https://www.mobaijun.com/posts/2629378943.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-11-11,1731322978.0
@@ -48,4 +49,3 @@ initx 更方便的脚本引擎,怠惰のコエ - imba久期 BLOG,https://imba97.
 为什么善良可以解决一切事情？,Andy Stewart,//manateelazycat.github.io/2024/10/22/why-kindness-solve-everything/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-10-22,1729555200.0
 initx 更方便的初始化工具,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/792/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-10-21,1729547069.0
 新版本 Memos 说说页面部署代码分享,杜老师说,https://dusays.com/760/,https://dusays.com/,https://dusays.com/atom.xml,2024-10-20,1729440000.0
-Headscale渐入佳境补充篇-自定义中转derper使用反向代理,Nicksxs's Blog,https://nicksxs.me/2024/10/20/Headscale%E6%B8%90%E5%85%A5%E4%BD%B3%E5%A2%83%E8%A1%A5%E5%85%85%E7%AF%87-%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%AD%E8%BD%ACderper%E4%BD%BF%E7%94%A8%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-10-20,1729411764.0
