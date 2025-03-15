@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+提取kindle笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_04-kindle_highlights.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-04,1567555200.0
 一个Golang gRPC握手错误的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_02-go_grpc_handshake.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-02,1567382400.0
 Golang(Go语言)爬虫框架colly简明教程及源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_31-go_colly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-31,1567209600.0
 选择合适的技术栈,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_30-choose_properly_tech.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-30,1567123200.0
@@ -45,7 +46,6 @@ Nginx设置Referer来防止盗图,Jiajun的技术笔记,https://jiajunhuang.com/
 Graphviz dot简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_20-graphviz_dot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-20,1555718400.0
 jQuery简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_19-jquery.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-19,1555632000.0
 Python RQ(Redis Queue)添加gevent支持,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_18-python_rq_gevent.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-18,1555545600.0
-技术人，光有技术是不行的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_17-tech_only_is_bad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
-使用shairport-sync搭建airplay音频服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_06-shairport_sync.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-06,1554508800.0
+读《超级运营术》- 如何做社区？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_17-chaojiyunyingshu.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
+搭建aria2服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_06-aria2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-06,1554508800.0
 VirtManager Windows自适应屏幕,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_05-virt_manager_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-05,1554422400.0
-使用btrfs组建RAID1,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_03-btrfs_raid1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-03,1554249600.0
