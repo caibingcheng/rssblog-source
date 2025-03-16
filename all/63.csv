@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+【WEB系列】SpringBoot监控工具之《Actuator》,框架師,https://www.mobaijun.com/posts/283491354.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-05,1628127593.0
+Minecraft 如何使用材质包,杜老师说,https://dusays.com/369/,https://dusays.com/,https://dusays.com/atom.xml,2021-08-04,1628092800.0
+npm问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/npm-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-04,1628088699.0
 产品思维,见字如面,https://hiwannz.com/archives/576,https://hiwannz.com,https://hiwannz.com/feed,2021-08-04,1628080056.0
 【技术分享】C语言实现基于TCP和UDP的WinSock套接字编程,城南以南花亦开,https://coonaa.cn/index.php/archives/17/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-03,1627984680.0
 如何做一个真正的“长期主义者”？,冰哥笔记,https://www.bgbiji.com/820.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-08-02,1627920311.0
@@ -23,12 +26,12 @@ Maven问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/maven-issues/,https:/
 让 Typecho 主题支持多语言,FlyingSky's Blog,https://blog.fsky7.com/archives/191/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2021-07-29,1627549200.0
 让 Typecho 主题支持多语言,FlyingSky's Blog,https://blog.fsky7.com/technology/31,https://blog.fsky7.com,https://blog.fsky7.com/feed,2021-07-29,1627531200.0
 天灾过后的反思,Frank笔记,https://frank2019.me/archives/tian-zai-guo-hou-de-fan-si,https://frank2019.me/,https://frank2019.me/rss.xml,2021-07-28,1627493820.0
-使用C++实现的仿Wallpaper动态壁纸软件(含源文件),DearXuan的主页,https://dearxuan.top/2021/07/28/%E4%BD%BF%E7%94%A8C-%E5%AE%9E%E7%8E%B0%E7%9A%84%E4%BB%BFWallpaper%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%E8%BD%AF%E4%BB%B6/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-28,1627465560.0
 使用C++实现的仿Wallpaper动态壁纸软件(含源文件),DearXuan的主页,https://blog.dearxuan.com/2021/07/28/%E4%BD%BF%E7%94%A8C-%E5%AE%9E%E7%8E%B0%E7%9A%84%E4%BB%BFWallpaper%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%E8%BD%AF%E4%BB%B6/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-28,1627465560.0
+使用C++实现的仿Wallpaper动态壁纸软件(含源文件),DearXuan的主页,https://dearxuan.top/2021/07/28/%E4%BD%BF%E7%94%A8C-%E5%AE%9E%E7%8E%B0%E7%9A%84%E4%BB%BFWallpaper%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%E8%BD%AF%E4%BB%B6/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-28,1627465560.0
 如何找到靠谱的产品经理,见字如面,https://hiwannz.com/archives/571,https://hiwannz.com,https://hiwannz.com/feed,2021-07-28,1627444858.0
 让电脑真正成为工作学习的工具,冰哥笔记,https://www.bgbiji.com/805.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-28,1627441147.0
-猫盘群晖DSM7.0的frpc配置,LonelyGod,https://hin.cool/posts/nasfrpc2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-07-28,1627430400.0
 猫盘群晖DSM7.0的frpc配置,瓦解的生活记事,https://www.hin.cool/posts/nasfrpc2.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-07-28,1627430400.0
+猫盘群晖DSM7.0的frpc配置,LonelyGod,https://hin.cool/posts/nasfrpc2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-07-28,1627430400.0
 莫名其妙的「少鱼」,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/inexplicable-less-fish.html,https://zmmio.com/,https://zmmio.com/feed,2021-07-27,1627427040.0
 Wallpaper的原理和C#实现(含源文件),DearXuan的主页,https://blog.dearxuan.com/2021/07/27/Wallpaper%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8CC-%E5%AE%9E%E7%8E%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-27,1627358940.0
 Wallpaper的原理和C#实现(含源文件),DearXuan的主页,https://dearxuan.top/2021/07/27/Wallpaper%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8CC-%E5%AE%9E%E7%8E%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-27,1627358940.0
@@ -46,6 +49,3 @@ Linux 下修改 MTU 值,杜老师说,https://dusays.com/364/,https://dusays.com/
 PVZ逆向分析与C#内存操作(含源文件),DearXuan的主页,https://blog.dearxuan.com/2021/07/19/PVZ%E9%80%86%E5%90%91%E5%88%86%E6%9E%90%E4%B8%8EC-%E5%86%85%E5%AD%98%E6%93%8D%E4%BD%9C/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-19,1626692580.0
 PVZ逆向分析与C#内存操作(含源文件),DearXuan的主页,https://dearxuan.top/2021/07/19/PVZ%E9%80%86%E5%90%91%E5%88%86%E6%9E%90%E4%B8%8EC-%E5%86%85%E5%AD%98%E6%93%8D%E4%BD%9C/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-19,1626692580.0
 我的家乡与长江水患,辛未羊的网络日志,https://panqiincs.me/2021/07/19/hometown-and-flood/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2021-07-19,1626682693.0
-建立与他人的连接,见字如面,https://hiwannz.com/archives/564,https://hiwannz.com,https://hiwannz.com/feed,2021-07-19,1626680297.0
-【WEB系列】SpringBoot数据库（URL）参数记录,框架師,https://www.mobaijun.com/posts/2403615121.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-07-19,1626664718.0
-C#序列化对象的二进制储存方法及底层原理研究,DearXuan的主页,https://dearxuan.top/2021/07/19/C-%E5%BA%8F%E5%88%97%E5%8C%96%E5%AF%B9%E8%B1%A1%E7%9A%84%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%82%A8%E5%AD%98%E6%96%B9%E6%B3%95%E5%8F%8A%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%E7%A0%94%E7%A9%B6/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-19,1626659700.0

@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+java小知识之String.format中的%秘密,Nicksxs's Blog,https://nicksxs.me/2025/03/16/java%E5%B0%8F%E7%9F%A5%E8%AF%86%E4%B9%8BString-format%E4%B8%AD%E7%9A%84-%E7%A7%98%E5%AF%86/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-03-16,1742130964.0
 A RC script for freebsd frpc,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_16-freebsd_frpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-16,1742083200.0
 刀削面🍜,把酒诗代码，趁乱写年华。,https://102no.com/2025/03/16/dao-xiao-miam/,https://102no.com/,https://102no.com/atom.xml,2025-03-15,1742054400.0
 服务器完成迁移工作,Frank笔记,https://frank2019.me/archives/fu-wu-qi-wan-cheng-qian-yi-gong-zuo,https://frank2019.me,https://frank2019.me/rss.xml,2025-03-15,1741999215.0
@@ -41,11 +42,10 @@ IT 管理晋升路径以及学习方法,Andy Stewart,//manateelazycat.github.io/
 mac os 14.x 出现 'xxx 已损坏，无法打开。 你应该将它移到废纸篓。' 解决方法,Nicksxs's Blog,https://nicksxs.me/2025/02/16/mac-os-14-x-%E5%87%BA%E7%8E%B0-xxx-%E5%B7%B2%E6%8D%9F%E5%9D%8F%EF%BC%8C%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80%E3%80%82-%E4%BD%A0%E5%BA%94%E8%AF%A5%E5%B0%86%E5%AE%83%E7%A7%BB%E5%88%B0%E5%BA%9F%E7%BA%B8%E7%AF%93%E3%80%82-%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-02-16,1739711269.0
 寒假,cmWeblog,https://muidar.com/posts/cmuidar/winter-holiday-2025/,https://muidar.com,https://muidar.com/feed,2025-02-16,1739703503.0
 【近期概况】温暖惬意的春节与接踵而至的繁忙毕业季,Luminous' Home,https://luotianyi.vc/8751.html,https://luotianyi.vc,https://luotianyi.vc/feed,2025-02-16,1739693651.0
-AWS IAM 信任链 和 EKS IRSA,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_02_16-aws_iam.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-02-16,1739664000.0
+自己动手写一个k8s controller,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_02_16-k8s_controller.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-02-16,1739664000.0
 AI 会取代你的(编程)岗位吗？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_02_15-ai.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-02-15,1739577600.0
 清单与六边形战士,Andy Stewart,//manateelazycat.github.io/2025/02/15/lazycat-todolist/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-02-14,1739548800.0
 〈哪吒2〉的另类解读：一场关于权力的寓言,Frank笔记,https://frank2019.me/archives/na-zha-2-de-ling-lei-jie-du-yi-chang-guan-yu-quan-li-de-yu-yan,https://frank2019.me,https://frank2019.me/rss.xml,2025-02-14,1739503062.0
 读《被讨厌的勇气》,Andy Stewart,//manateelazycat.github.io/2025/02/12/reading-taoyangdeyongqi/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-02-11,1739289600.0
 江门碉楼：世界文化遗产免票路线分享,Macin,https://macin.org/2025/02/11/jiang-men-diao-lou/,https://macin.org/,https://www.macin.org/atom.xml,2025-02-11,1739266596.0
 第三十三年春分,把酒诗代码，趁乱写年华。,https://102no.com/2025/02/11/33th-chunfen/,https://102no.com/,https://102no.com/atom.xml,2025-02-10,1739203200.0
-解决一个比较奇妙的问题 - leancloud 阅读计数不显示,Nicksxs's Blog,https://nicksxs.me/2025/02/09/%E8%A7%A3%E5%86%B3%E4%B8%80%E4%B8%AA%E6%AF%94%E8%BE%83%E5%A5%87%E5%A6%99%E7%9A%84%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-02-09,1739107455.0

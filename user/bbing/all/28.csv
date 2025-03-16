@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+在群晖上创建 iSCSI 服务端,杜老师说,https://dusays.com/307/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-28,1611849600.0
+云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/experience-of-argo-workflows/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
 在 CentOS8 挂载 iSCSI 客户端,杜老师说,https://dusays.com/306/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-25,1611590400.0
 Java日期问题汇总,雨临Lewis,https://lewky.cn/posts/java-date-issues.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-01-25,1611589382.0
 secrets 管理工具 Vault 的介绍、安装及使用,This Cute World,https://thiscute.world/posts/expirence-of-vault/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-24,1611451901.0
@@ -47,5 +49,3 @@ Java 的 SE/EE/ME 区别知道吗,杜老师说,https://dusays.com/278/,https://d
 配置一个简洁，高效的zsh,刘超智,https://www.insidentally.com/articles/000002/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-29,1603933662.0
 安装使用hexo,刘超智,https://www.insidentally.com/articles/000001/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-27,1603760862.0
 云主机需哪些安全设置,杜老师说,https://dusays.com/276/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-26,1603728000.0
-VPS 云主机测试脚本,杜老师说,https://dusays.com/275/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-23,1603468800.0
-✳️ Vi/Vim使用备忘,qinxs小站,https://7bxing.com/posts/b04c6f46/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-10-23,1603435073.0
