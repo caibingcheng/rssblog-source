@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+A RC script for freebsd frpc,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_16-freebsd_frpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-16,1742083200.0
 BottleRocket Linux check kubelet logs,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_15-bottlerocket_debug.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-15,1741996800.0
 Cockpit Create VM Permission Denied,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_02-cockpit_vm_create_permission_denied.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-02,1740873600.0
 自己动手写一个k8s controller,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_02_16-k8s_controller.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-02-16,1739664000.0
@@ -48,4 +49,3 @@ Golang gRPC 错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/
 编写可维护的单元测试代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_31-goconvey.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-31,1667174400.0
 OAuth 2 详解（六）：Authorization Code Flow with PKCE,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_12-oauth2_explained_authorization_code_pkce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-12,1665532800.0
 OAuth 2 详解（五）：Device Authorization Flow,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_11-oauth2_explained_device_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-11,1665446400.0
-OAuth 2 详解（四）：Client Credentials Flow,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_client_credentials.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
