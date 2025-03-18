@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+一起来做贼：Goroutine原理和Work stealing,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
 Go语言的defer， panic和recover,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_15-go_defer_panic_and_recover.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-15,1487116800.0
 再读vim help：vim小技巧,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_24-vim_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
 设计模式（2）- 深入浅出设计模式 阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_22-head_first_design_patterns_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-22,1485043200.0
@@ -15,7 +16,7 @@ Mock源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles
 Thinking in Python,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_16-thinking_in_python.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-16,1481846400.0
 我的代码进CPython标准库啦,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_15-my_code_in_python_stdlib.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-15,1481760000.0
 Python零碎小知识,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_09-python_fragments.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-09,1481241600.0
-Python和单元测试,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_07-python_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-07,1481068800.0
+工作一年的总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_07-work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-07,1481068800.0
 Python 的继承,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_06-python_c3_mro.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-06,1480982400.0
 Python的yield关键字有什么作用？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_29-python_yield.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-29,1480377600.0
 借助coroutine用同步的语法写异步,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_27-python_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-27,1480204800.0
@@ -48,4 +49,3 @@ C注意事项,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_11_04-
 C语言中点操作符(.)和箭头操作符(->)的不同之处,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_09_09-dot_and_arrow_in_c_pointers.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-09,1410220800.0
 征服C指针笔记 - 数组和指针的微妙关系,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_09_07-pointer_and_array_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-07,1410048000.0
 关于文件权限的摘记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_08_22-unix_file_permissions.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-08-22,1408665600.0
-用crontab完成自动化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_06_17-use_cron.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-06-17,1402963200.0
