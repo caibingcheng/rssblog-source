@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Replace docker with podman,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_21-podman.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-21,1742515200.0
 Using xmonad with xfce4,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_18-xmonad_xfce4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-18,1742256000.0
 java小知识之String.format中的%秘密,Nicksxs's Blog,https://nicksxs.me/2025/03/16/java%E5%B0%8F%E7%9F%A5%E8%AF%86%E4%B9%8BString-format%E4%B8%AD%E7%9A%84-%E7%A7%98%E5%AF%86/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-03-16,1742130964.0
 A RC script for freebsd frpc,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_16-freebsd_frpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-16,1742083200.0
@@ -9,7 +10,7 @@ BottleRocket Linux check kubelet logs,Jiajun的技术笔记,https://jiajunhuang.
 在个人简介同步正在玩的 Steam 游戏,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/799/,https://imba97.cn/,https://imba97.cn/atom.xml,2025-03-13,1741908288.0
 PIVOT Vol.14 折纸战士,Another Dayu,https://anotherdayu.com/2025/6665/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-03-13,1741880517.0
 申公豹：无法逆袭的一只蜉蝣,Macin,https://macin.org/2025/03/11/shen-gong-bao/,https://macin.org/,https://www.macin.org/atom.xml,2025-03-11,1741729260.0
-游泳禅定,Andy Stewart,//manateelazycat.github.io/2025/03/12/swim-and-zen/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-03-11,1741708800.0
+Emacser 不用焦虑 Cursor,Andy Stewart,//manateelazycat.github.io/2025/03/12/why-emacser-donnot-need-worry-cursor/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-03-11,1741708800.0
 【全志A527】瑞莎Radxa Cubie A5E单片机资料及固件整理,Luminous' Home,https://luotianyi.vc/8777.html,https://luotianyi.vc,https://luotianyi.vc/feed,2025-03-11,1741671759.0
 我的朋友 Ryan,Another Dayu,https://anotherdayu.com/2025/6659/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-03-10,1741620429.0
 使用 chatbox 来连接火山引擎等api服务来使用Deepseek-R1 全尺寸大模型,Nicksxs's Blog,https://nicksxs.me/2025/03/09/%E4%BD%BF%E7%94%A8-chatbox-%E6%9D%A5%E8%BF%9E%E6%8E%A5%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E%E7%AD%89api%E6%9C%8D%E5%8A%A1%E6%9D%A5%E4%BD%BF%E7%94%A8Deepseek-R1-%E5%85%A8%E5%B0%BA%E5%AF%B8%E5%A4%A7%E6%A8%A1%E5%9E%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-03-09,1741526146.0
@@ -48,4 +49,3 @@ AI 会取代你的(编程)岗位吗？,Jiajun的技术笔记,https://jiajunhuang
 清单与六边形战士,Andy Stewart,//manateelazycat.github.io/2025/02/15/lazycat-todolist/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-02-14,1739548800.0
 〈哪吒2〉的另类解读：一场关于权力的寓言,Frank笔记,https://frank2019.me/archives/na-zha-2-de-ling-lei-jie-du-yi-chang-guan-yu-quan-li-de-yu-yan,https://frank2019.me,https://frank2019.me/rss.xml,2025-02-14,1739503062.0
 读《被讨厌的勇气》,Andy Stewart,//manateelazycat.github.io/2025/02/12/reading-taoyangdeyongqi/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-02-11,1739289600.0
-江门碉楼：世界文化遗产免票路线分享,Macin,https://macin.org/2025/02/11/jiang-men-diao-lou/,https://macin.org/,https://www.macin.org/atom.xml,2025-02-11,1739266596.0

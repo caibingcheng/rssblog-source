@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+高性能MySQL笔记第一章,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_23-high_performance_mysql_chap1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-23,1540252800.0
 面试的一些技巧,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_21-interview_techniques.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-21,1540080000.0
 HTTP/2 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_13-http2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-13,1539388800.0
 独立运营博客一年的一些数据分享,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
@@ -9,7 +10,7 @@ Go的custom import path,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 如何挖掘二级子域名？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_06-how_to_dig_subdomain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-06,1536192000.0
 Go Module 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_03-go_module.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-03,1535932800.0
 写了一个Telegram Bot：自动化分享高质量内容,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_02-write_a_tgbot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-02,1535846400.0
-ArchLinux 怎么降级 package ？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
+Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-vim_speed_up.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 Web后端工程师进阶指南(2018),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
 macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 关于运营的思考-运营要怎么做？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_26-about_traffic.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-26,1535241600.0
@@ -48,4 +49,3 @@ GC 垃圾回收,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_3
 设计一个路由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_28-router_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-28,1517097600.0
 Go语言性能优化实战,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_22-golang_optimization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-22,1516579200.0
 那些年开发的时候踩过的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_14-pitfalls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-14,1515888000.0
-(关系型)数据库优化总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_08-db_optimizations.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-08,1515369600.0

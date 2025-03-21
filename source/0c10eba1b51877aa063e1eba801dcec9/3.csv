@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Redis源码阅读：启动过程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_22-redis_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-22,1621641600.0
 WAL(Write-ahead logging)的套路,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_15-wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-15,1621036800.0
 搞定CORS问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_29-cors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-29,1619654400.0
 如何定位程序问题所在,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_15-how_to_debug_program.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-15,1618444800.0
@@ -48,4 +49,3 @@ NSQ简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_1
 程序员的MySQL手册(三)：数据库设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_26-mysql_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-26,1595721600.0
 Linux窗口管理器下的截图,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_25-linux_screenshot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-25,1595635200.0
 程序员的MySQL手册(二): 监控与benchmark,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_23-mysql_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
-Go设计模式: 责任链模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_21-go_design_pattern_chain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-21,1595289600.0
