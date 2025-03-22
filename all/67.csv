@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+gogs 搭建自己的代码托管平台,无妄当自持,https://www.insidentally.com/articles/000014/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-05-28,1622167233.0
 Redis源码阅读：list实现(ziplist， quicklist),Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_28-redis_source_code_8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-28,1622160000.0
 内卷、躺平，当代社会是如何Pua年轻人的？,瓦解的生活记事,https://www.hin.cool/posts/neijuan.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-05-28,1622160000.0
 pangu 自动格式化工具,杜老师说,https://dusays.com/346/,https://dusays.com/,https://dusays.com/atom.xml,2021-05-27,1622131200.0
@@ -48,4 +49,3 @@ Go 语言实现 2048 游戏「中篇」,杜老师说,https://dusays.com/340/,htt
 我知道，我也知道,ChrAlpha,https://blog.ichr.me/post/i-know-but-i-want/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2021-05-09,1620558678.0
 你是否愿意为智能音箱内容二次付费？,瓦解的生活记事,https://www.hin.cool/posts/xiaodu.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-05-08,1620432000.0
 10本适合放在互联网公司开发办公室书籍,把酒诗代码，趁乱写年华。,https://102no.com/2021/05/08/10-company-development-office-books/,https://102no.com/,https://102no.com/atom.xml,2021-05-07,1620403200.0
-使用 Termbox 绘制数据流,杜老师说,https://dusays.com/339/,https://dusays.com/,https://dusays.com/atom.xml,2021-05-06,1620316800.0

@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+《UCB CS61a SICP Python 中文》一周目笔记(三),BBing's Blog,https://bbing.com.cn/202109/sicp-python-read3/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-09-02,1630583760.0
 【技术分享】PE文件结构解析,城南以南花亦开,https://coonaa.cn/index.php/archives/184/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-09-02,1630552800.0
 Linux关闭防火墙,cywhat's blog,https://cywhat.cn/Linux%E5%85%B3%E9%97%AD%E9%98%B2%E7%81%AB%E5%A2%99/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-01,1630493017.0
 应用内使用crontab不是那么方便,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_09_01-cron_is_not_convenient.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-09-01,1630454400.0
@@ -22,13 +23,13 @@ Volantis的APlayer事件捕获,DearXuan的主页,https://dearxuan.top/2021/08/31
 最强水冷方案,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/best-water-colding.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-08-28,1630123020.0
 单测时要不要 mock 数据库？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_08_27-mock_db_or_not.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-27,1630022400.0
 《UCB CS61a SICP Python 中文》一周目笔记(二),BBing's Blog,https://bbing.com.cn/202108/sicp-python-read2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-08-26,1629966553.0
-QQ隐藏图原理与C#实现(含源文件),DearXuan的主页,https://dearxuan.top/2021/08/26/QQ%E9%9A%90%E8%97%8F%E5%9B%BE%E5%8E%9F%E7%90%86%E4%B8%8EC-%E5%AE%9E%E7%8E%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-26,1629949080.0
 QQ隐藏图原理与C#实现(含源文件),DearXuan的主页,https://blog.dearxuan.com/2021/08/26/QQ%E9%9A%90%E8%97%8F%E5%9B%BE%E5%8E%9F%E7%90%86%E4%B8%8EC-%E5%AE%9E%E7%8E%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-26,1629949080.0
-房间,瓦解的生活记事,https://www.hin.cool/posts/fangjian.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-08-26,1629936000.0
+QQ隐藏图原理与C#实现(含源文件),DearXuan的主页,https://dearxuan.top/2021/08/26/QQ%E9%9A%90%E8%97%8F%E5%9B%BE%E5%8E%9F%E7%90%86%E4%B8%8EC-%E5%AE%9E%E7%8E%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-26,1629949080.0
 房间,LonelyGod,https://hin.cool/posts/fangjian.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-08-26,1629936000.0
+房间,瓦解的生活记事,https://www.hin.cool/posts/fangjian.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-08-26,1629936000.0
 松井除湿机 SJ-121E 测评,杜老师说,https://dusays.com/376/,https://dusays.com/,https://dusays.com/atom.xml,2021-08-25,1629907200.0
-Volantis主题自定义—暗黑模式动画,DearXuan的主页,https://blog.dearxuan.com/2021/08/25/Volantis%E4%B8%BB%E9%A2%98%E8%87%AA%E5%AE%9A%E4%B9%89%E2%80%94%E6%9A%97%E9%BB%91%E6%A8%A1%E5%BC%8F%E5%8A%A8%E7%94%BB/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-25,1629862860.0
 Volantis主题自定义—暗黑模式动画,DearXuan的主页,https://dearxuan.top/2021/08/25/Volantis%E4%B8%BB%E9%A2%98%E8%87%AA%E5%AE%9A%E4%B9%89%E2%80%94%E6%9A%97%E9%BB%91%E6%A8%A1%E5%BC%8F%E5%8A%A8%E7%94%BB/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-25,1629862860.0
+Volantis主题自定义—暗黑模式动画,DearXuan的主页,https://blog.dearxuan.com/2021/08/25/Volantis%E4%B8%BB%E9%A2%98%E8%87%AA%E5%AE%9A%E4%B9%89%E2%80%94%E6%9A%97%E9%BB%91%E6%A8%A1%E5%BC%8F%E5%8A%A8%E7%94%BB/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-25,1629862860.0
 Sentry 自建指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_08_25-use_sentry.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-25,1629849600.0
 10本 Excel VBA 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/08/25/10-excel-vba-books/,https://102no.com/,https://102no.com/atom.xml,2021-08-24,1629820800.0
 Hugo系列(3.3) - LoveIt主题美化与博客功能增强 · 第四章,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-3-3/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-24,1629789076.0
@@ -42,10 +43,9 @@ Hexo的安装与Volantis主题的配置,DearXuan的主页,https://blog.dearxuan.
 Hexo的安装与Volantis主题的配置,DearXuan的主页,https://dearxuan.top/2021/08/23/Hexo%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8EVolantis%E4%B8%BB%E9%A2%98%E7%9A%84%E9%85%8D%E7%BD%AE/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-23,1629706740.0
 【技术分享】Tupper's Self-Referential Formula 塔珀自指公式,城南以南花亦开,https://coonaa.cn/index.php/archives/153/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-23,1629704520.0
 杜老师经历过的劳动仲裁记录篇,杜老师说,https://dusays.com/375/,https://dusays.com/,https://dusays.com/atom.xml,2021-08-22,1629648000.0
-github个人主页的创建方法,DearXuan的主页,https://dearxuan.top/2021/08/22/github%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E7%9A%84%E5%88%9B%E5%BB%BA%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-22,1629623940.0
 github个人主页的创建方法,DearXuan的主页,https://blog.dearxuan.com/2021/08/22/github%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E7%9A%84%E5%88%9B%E5%BB%BA%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-22,1629623940.0
+github个人主页的创建方法,DearXuan的主页,https://dearxuan.top/2021/08/22/github%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E7%9A%84%E5%88%9B%E5%BB%BA%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-22,1629623940.0
 selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary,cywhat's blog,https://cywhat.cn/selenium-common-exceptions-WebDriverException-Message-unknown-error-cannot-find-Chrome-binary/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-20,1629480201.0
 Centos7安装chrome浏览器,cywhat's blog,https://cywhat.cn/Centos7%E5%AE%89%E8%A3%85chrome%E6%B5%8F%E8%A7%88%E5%99%A8/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-20,1629479325.0
 libvulkan.so.1()(64bit)缺少依赖,cywhat's blog,https://cywhat.cn/libvulkan-so-1-64bit-%E7%BC%BA%E5%B0%91%E4%BE%9D%E8%B5%96/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-20,1629479084.0
 SpringBoot问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/springboot-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-20,1629419006.0
-Blogger 选程序的那些事,杜老师说,https://dusays.com/374/,https://dusays.com/,https://dusays.com/atom.xml,2021-08-19,1629388800.0
