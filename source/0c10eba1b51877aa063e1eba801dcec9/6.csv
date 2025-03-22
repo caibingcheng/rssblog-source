@@ -1,5 +1,5 @@
 title,author,link,home,rss,date,timestamp
-QT5使用GTK主题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-qt5_gtk_theme.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
+搭建samba服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-samba.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 ssh时自动运行tmux,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 ufw简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_14-ufw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-14,1568419200.0
 zerotier简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_11-zerotier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-11,1568160000.0
@@ -30,9 +30,9 @@ frp 源码阅读与分析(一)：流程和概念,Jiajun的技术笔记,https://j
 学习frp源码之简洁的在两个connection之间转发流量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_10-learn_from_frp_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-10,1560124800.0
 自己动手写一个反向代理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_09-write_you_a_simple_reverse_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-09,1560038400.0
 从XMonad迁移到i3,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_08-migrate_from_xmonad_to_i3wm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0
-服务器IP被ban学到的经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_06-ip_ban.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
+socks5 协议详解,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_06-socks5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0
 开启HSTS(HTTP Strict Transport Security),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_04-hsts.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-04,1559606400.0
-网络乞讨之合并支付宝和微信的收款二维码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_01-combine_wechat_alipay.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-01,1559347200.0
+从Chrome切换到Firefox,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_01-from_chrome_to_firefox.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-01,1559347200.0
 Linux下当笔记本合上盖子之后只使用扩展显示器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_31-turnoff_screen_when_lid_is_closed.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-31,1559260800.0
 Ubuntu 18.04 dhcp更换新IP,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_30-ubuntu_1804_dhcp_new_ip.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-30,1559174400.0
 Python中的新式类(new style class)和老式类(old style class),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_29-python_old_new_style_class.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-29,1559088000.0
