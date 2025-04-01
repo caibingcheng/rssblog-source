@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+secrets 管理工具 Vault 的介绍、安装及使用,This Cute World,https://thiscute.world/posts/experience-of-vault/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-24,1611451901.0
 What Is Agile,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210123-what-is-agile,https://teobler.com,https://teobler.com/rss.xml,2021-01-23,1611406920.0
 在 CentOS8 搭建 iSCSI 服务器,杜老师说,https://dusays.com/305/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-22,1611331200.0
 【随笔】服务器相关知识记录,框架師,https://www.mobaijun.com/posts/361637157.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-22,1611309513.0
@@ -32,8 +33,8 @@ Android手动挡MVVM,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021
 年度简报 - 2020 | 等待,FlyingSky's Blog,https://blog.fsky7.com/archives/175/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-12-31,1609430400.0
 【工具系列】常用工具汇总,框架師,https://www.mobaijun.com/posts/1664035384.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-31,1609403450.0
 二〇二〇年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
-2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 二〇二〇年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2020-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
+2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 使用 linux 操作系统，如何优化固态硬盘使用体验,无妄当自持,https://www.insidentally.com/articles/000007/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-30,1609344203.0
 【工具系列】StarUML软件使用,框架師,https://www.mobaijun.com/posts/3077971711.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-30,1609324389.0
 【随笔】完整的Java学习路线,框架師,https://www.mobaijun.com/posts/2907784405.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-30,1609323414.0
@@ -48,4 +49,3 @@ Android手动挡MVVM,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021
 你好，2021！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_22-hello_2021.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-22,1608595200.0
 Apache 主配置、站点配置文件参考,杜老师说,https://dusays.com/294/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-20,1608480000.0
 常用Git相关命令行,沐云湘夕—求索,https://quest.myxxts.club/archives/28/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608441060.0
-必应每日壁纸（刷新更换）,沐云湘夕—求索,https://quest.myxxts.club/archives/25/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608440340.0
