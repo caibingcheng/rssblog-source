@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+podman 无故退出,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_04_02-podman_rootless_exited.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-04-02,1743552000.0
 Cursor Control-L (CTRL-L) Keyboard Shortcuts in Terminal,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_22-cursor_ctrl_l.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-22,1742601600.0
 Replace docker with podman,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_21-podman.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-21,1742515200.0
 Using xmonad with xfce4,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_18-xmonad_xfce4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-18,1742256000.0
@@ -11,7 +12,7 @@ AI 会取代你的(编程)岗位吗？,Jiajun的技术笔记,https://jiajunhuang
 自建DERP服务器提升Tailscale连接速度(使用Nginx转发),Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_20-tailscale_derp.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-20,1732060800.0
 自动升级Docker容器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_07-auto_upgrade_docker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-07,1730937600.0
 再读《程序员修炼之道-从小工到专家》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_07-the_pragmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-07,1725667200.0
-再读《软件随想录》/《黑客与画家》/《软技能》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_06-reread_3_books.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-06,1725580800.0
+让浏览器下载文件,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_06-browser_download_file.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-06,1725580800.0
 HTTP 压力测试中的 Coordinated Omission,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_08_30-http_load_testing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-08-30,1724976000.0
 2的补码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_07_24-twos_complement.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-07-24,1721779200.0
 编程语言中的 context 是什么？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_07_21-context.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-07-21,1721520000.0
@@ -48,4 +49,3 @@ MySQL Index Condition Pushdown Optimization,Jiajun的技术笔记,https://jiajun
 Go mod 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_12_16-go_mod.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-12-16,1671148800.0
 OpenWRT 使用 Android/iOS USB 网络,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_12_04-openwrt_usb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-12-04,1670112000.0
 搭建旁路由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_11_20-router.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-20,1668902400.0
-Golang gRPC 错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_11_04-grpc_error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-04,1667520000.0
