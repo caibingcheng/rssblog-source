@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/elisp/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
 java-内部类,Barney's Blog,https://hugo.bnblogs.cc/java-5/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-17,1668702048.0
 第二款摸鱼游戏文明 2,杜老师说,https://dusays.com/526/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-17,1668700800.0
 202211：边城十一月，雨雪乱霏霏,Macin,https://macin.org/2022/11/16/11-yue-zhou-ji/,https://macin.org/,https://www.macin.org/atom.xml,2022-11-16,1668595240.0
@@ -8,8 +9,8 @@ Jenkins插件无法安装解决,cywhat's blog,https://cywhat.cn/Jenkins%E6%8F%92
 Jenkins报错 Bash:newman:command Not Found,cywhat's blog,https://cywhat.cn/Jenkins%E6%8A%A5%E9%94%99-bashnewmancommand-not-found/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-11-15,1668496771.0
 读《英语魔法师之语法俱乐部》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/15/reading-english-magicia.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-15,1668470400.0
 挂机放置类小游戏,杜老师说,https://dusays.com/525/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-14,1668441600.0
-dotfiles之外的一些应用,Bing's Blog,https://imcbc.cn/202211/dotfiles-more/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
 dotfiles之外的一些应用,Bing's Blog,https://bbing.com.cn/202211/dotfiles-more/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
+dotfiles之外的一些应用,Bing's Blog,https://imcbc.cn/202211/dotfiles-more/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-11-14,1668409691.0
 MPC钱包是什么？,Macin,https://macin.org/2022/11/13/mpc-wallet/,https://macin.org/,https://www.macin.org/atom.xml,2022-11-13,1668363573.0
 powershell 初体验,Nicksxs's Blog,https://nicksxs.me/2022/11/13/powershell-%E5%88%9D%E4%BD%93%E9%AA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-11-13,1668346253.0
 悬崖村：徒步20km的知秋行,Macin,https://macin.org/2022/11/13/xuan-ya-cun/,https://macin.org/,https://www.macin.org/atom.xml,2022-11-13,1668345615.0
@@ -40,12 +41,11 @@ B2 + Cloudflare 转换规则，实现真正无限制使用 Backblaze B2,岚天�
 B2 + Cloudflare 转换规则，实现真正无限制使用 Backblaze B2,岚天小窝,http://blog.ltya.top/posts/BackblazeB2+Cloudflare-rule.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-11-05,1667664000.0
 java-基本程序设计结构,Barney's Blog,https://hugo.bnblogs.cc/java-1/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-11-05,1667660264.0
 五个域名全没了。。。。,SinGO博客,https://blog.xsnet.eu.org/posts/56455/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-11-04,1667588132.0
-Golang gRPC 错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_11_04-grpc_error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-04,1667520000.0
 deno-bridge,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/deno-bridge.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
+Golang gRPC 错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_11_04-grpc_error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-04,1667520000.0
 2022 | About me | 答普鲁斯特问卷,Another Dayu,https://anotherdayu.com/2022/3801/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-11-03,1667466765.0
 在谈大数据下的计划经济,Frank笔记,https://frank2019.me/articles/2022/11/03/1667415579106.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-11-02,1667415579.0
 我与十年之约,杜老师说,https://dusays.com/521/,https://dusays.com/,https://dusays.com/atom.xml,2022-11-02,1667404800.0
 又去了一次长沙,见字如面,https://hiwannz.com/archives/734,https://hiwannz.com,https://hiwannz.com/feed,2022-11-02,1667370054.0
 NovelAI-WebUI安装教程,DearXuan的主页,https://blog.dearxuan.com/2022/11/02/NovelAI-WebUI%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-11-02,1667352585.0
-在谈大数据下的计划经济,Frank笔记,https://frank2019.me/archives/zai-tan-da-shu-ju-xia-de-ji-hua-jing-ji,https://frank2019.me/,https://frank2019.me/rss.xml,2022-11-01,1667326020.0
-在谈大数据下的计划经济,Frank笔记,/archives/zai-tan-da-shu-ju-xia-de-ji-hua-jing-ji,/,https://frank2019.me/rss.xml,2022-11-01,1667326020.0
+在谈大数据下的计划经济,Frank笔记,http://frank2019.me/archives/zai-tan-da-shu-ju-xia-de-ji-hua-jing-ji,http://frank2019.me/,https://frank2019.me/rss.xml,2022-11-01,1667326020.0
