@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
-Redis源码阅读：key是怎么过期的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
+Redis源码阅读：AOF持久化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_25-redis_source_code_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-25,1621900800.0
+Redis源码阅读：字典是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_24-redis_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-24,1621814400.0
 Redis源码阅读：执行命令,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_23-redis_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-23,1621728000.0
 Redis源码阅读：启动过程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_22-redis_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-22,1621641600.0
 WAL(Write-ahead logging)的套路,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_15-wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-15,1621036800.0
@@ -48,4 +49,3 @@ NSQ简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_1
 结合Redis与MySQL实现又快又好的数据方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_11-redis_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-11,1597104000.0
 程序员的MySQL手册(五)：索引优化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_28-mysql_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-28,1595894400.0
 程序员的MySQL手册(四)：索引设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_27-mysql_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-27,1595808000.0
-程序员的MySQL手册(三)：数据库设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_26-mysql_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-26,1595721600.0
