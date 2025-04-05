@@ -1,7 +1,8 @@
 title,author,link,home,rss,date,timestamp
+React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
 2019 年终总结：慢慢变成别人眼中「食古不化」的「怪人」,Randy's Blog,https://lutaonan.com/blog/2019-summary,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-01-01,1577836800.0
-2019 年终总结：慢慢变成别人眼中「食古不化」的「怪人」,Randy's Blog,https://lutaonan.com/blog/2019-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-01,1577836800.0
 使用Gitea+Drone打造自己的CI/CD系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_01_01-use_gitea_with_drone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-01,1577836800.0
+2019 年终总结：慢慢变成别人眼中「食古不化」的「怪人」,Randy's Blog,https://lutaonan.com/blog/2019-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-01,1577836800.0
 年度简报 - 2019 | 拾光,FlyingSky's Blog,https://blog.fsky7.com/archives/71/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-12-31,1577808000.0
 【Hexo】Hexo博客添加音乐、视频,框架師,https://www.mobaijun.com/posts/2187918275.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-31,1577756496.0
 2019年就要结束啦！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_31-hello_2020.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-31,1577750400.0
@@ -12,8 +13,8 @@ RE: 2019 年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2019-summary,https:
 RE: 2019 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2019-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
 为什么要使用gRPC？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_27-why_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-27,1577404800.0
 【Hexo系列】Windows环境下搭建一个Hexo博客,框架師,https://www.mobaijun.com/posts/3211381432.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-25,1577265926.0
-为了你爱的人，读一读《非暴力沟通》,Randy's Blog,https://lutaonan.com/blog/nonviolent-communication,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-12-25,1577232000.0
 为了你爱的人，读一读《非暴力沟通》,Randy's Blog,https://lutaonan.com/blog/nonviolent-communication/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-12-25,1577232000.0
+为了你爱的人，读一读《非暴力沟通》,Randy's Blog,https://lutaonan.com/blog/nonviolent-communication,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-12-25,1577232000.0
 Matebook X Pro 2019安装Debian 10,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_24-matebook_x_pro_2019_debian_10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-24,1577145600.0
 ArchLinux忽略某个包的升级,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_22-archlinux_ignore_pkg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-22,1576972800.0
 优化 Google Analytics 使用体验——借助 Cloudflare Workers 或其他,ChrAlpha,https://blog.ichr.me/post/optimize-google-analytics/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-12-21,1576946810.0
@@ -41,11 +42,10 @@ flutter中使用RESTful接口,Jiajun的技术笔记,https://jiajunhuang.com/arti
 Vim YouCompleteMe使用LSP(以dart为例),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_04-ycm_lsp_dart.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-04,1575417600.0
 flutter webview加载时显示进度,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_03-flutter_webview_indicator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-03,1575331200.0
 SQLAlchemy快速更新或插入对象,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_02-sqlalchemy_update_or_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-02,1575244800.0
-为网站添加 dark mode 支持,Ahonn's Blog,https://www.ahonn.me/blog/add-dark-mode-support-to-your-website,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
 为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
 为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
+为网站添加 dark mode 支持,Ahonn's Blog,https://www.ahonn.me/blog/add-dark-mode-support-to-your-website,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
 修复Linux下curl等无法使用letsencrypt证书,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_26-lets_encrypt_linux_shell.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-26,1574726400.0
 欣赏一下K&R两位大神的代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_24-code_from_k_and_r.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-24,1574553600.0
 MySQL的ON DUPLICATE KEY UPDATE语句,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_19-mysql_duplicate_key_update.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-19,1574121600.0
 使用microk8s快速搭建k8s,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_17-microk8s.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-17,1573948800.0
-Python中优雅的处理文件路径,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_15-python_pathlib_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-15,1573776000.0
