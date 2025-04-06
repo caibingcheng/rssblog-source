@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+KVM 显卡穿透给 Windows,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_15-kvm_windows_gpu_passthrough.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-15,1647302400.0
+书评 | 如何提高学习效率，让知识真正转化为自身价值？,冰哥笔记,https://www.bgbiji.com/887.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-14,1647274175.0
 麒麟服务器操作系统安装 VMTools,杜老师说,https://dusays.com/443/,https://dusays.com/,https://dusays.com/atom.xml,2022-03-14,1647273600.0
 修改了ssh默认端口如何配置git,Barney's Blog,https://hugo.bnblogs.cc/%E4%BF%AE%E6%94%B9%E4%BA%86ssh%E9%BB%98%E8%AE%A4%E7%AB%AF%E5%8F%A3%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AEgit/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-14,1647241133.0
 写给开发人员的实用密码学（八）—— 数字证书与 TLS 协议,This Cute World,https://thiscute.world/posts/about-tls-cert/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-13,1647187200.0
@@ -10,11 +12,11 @@ Leetcode 83 删除排序链表中的重复元素 ( Remove Duplicates from Sorted
 使用 HTTP Router 处理 Telegram Bot 按钮回调,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_12-tgbot_httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-12,1647043200.0
 周刊第4期：独立思考,4Ark × Blog,https://4ark.me/post/weekly-04.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-12,1647043200.0
 《Halo Infinite》光环无限第3幕「无人声版」,杜老师说,https://dusays.com/442/,https://dusays.com/,https://dusays.com/atom.xml,2022-03-11,1647014400.0
-算法基础-RSA公钥体系,DearXuan的主页,https://blog.dearxuan.com/2022/03/11/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-RSA%E5%85%AC%E9%92%A5%E4%BD%93%E7%B3%BB/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-11,1647006180.0
 算法基础-RSA公钥体系,DearXuan的主页,https://dearxuan.top/2022/03/11/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-RSA%E5%85%AC%E9%92%A5%E4%BD%93%E7%B3%BB/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-11,1647006180.0
+算法基础-RSA公钥体系,DearXuan的主页,https://blog.dearxuan.com/2022/03/11/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-RSA%E5%85%AC%E9%92%A5%E4%BD%93%E7%B3%BB/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-11,1647006180.0
 如何突破自己？,冰哥笔记,https://www.bgbiji.com/886.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-10,1646920190.0
-vercel制作api(python，nodejs，php),DearXuan的主页,https://blog.dearxuan.com/2022/03/10/vercel%E5%88%B6%E4%BD%9Capi-python-nodejs-php/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-10,1646899440.0
 vercel制作api(python，nodejs，php),DearXuan的主页,https://dearxuan.top/2022/03/10/vercel%E5%88%B6%E4%BD%9Capi-python-nodejs-php/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-10,1646899440.0
+vercel制作api(python，nodejs，php),DearXuan的主页,https://blog.dearxuan.com/2022/03/10/vercel%E5%88%B6%E4%BD%9Capi-python-nodejs-php/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-10,1646899440.0
 有哪些坚持就有效果的生活好习惯？,冰哥笔记,https://www.bgbiji.com/885.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-10,1646876326.0
 算法基础-二叉搜索树,DearXuan的主页,https://dearxuan.top/2022/03/09/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-09,1646832240.0
 算法基础-二叉搜索树,DearXuan的主页,https://blog.dearxuan.com/2022/03/09/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-09,1646832240.0
@@ -36,16 +38,14 @@ DSM 7.1 升级包分享,杜老师说,https://dusays.com/440/,https://dusays.com/
 【工具系列】服务器搭建一个自用网盘Zpan,框架師,https://www.mobaijun.com/posts/3473890439.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-03-05,1646449823.0
 「转」且看有思想的年轻人,This Cute World,https://thiscute.world/posts/the-thoughtful-youth/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-04,1646405880.0
 这是一份新媒体创作者的自检清单,冰哥笔记,https://www.bgbiji.com/882.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-04,1646390837.0
-MyBatis问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/mybatis-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-03,1646320233.0
 MyBatis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mybatis-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646320233.0
+MyBatis问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/mybatis-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-03,1646320233.0
 PostgreSQL - SQL调优方案,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-sql-tuning/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646266166.0
 PostgreSQL - SQL调优方案,Yulin Lewis' Blog,https://lewky233.top/posts/postgresql-sql-tuning/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-03,1646266166.0
 魔方CFOP公式,manateelazycat.github.io,//manateelazycat.github.io/curiosity/2022/03/03/cube-cfop.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-03,1646265600.0
 群晖 7.0 安装 Chat 套件及客户端,杜老师说,https://dusays.com/439/,https://dusays.com/,https://dusays.com/atom.xml,2022-03-02,1646236800.0
 【工具系列】Windows包管理工具Scoop安装及使用,框架師,https://www.mobaijun.com/posts/908521329.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-03-02,1646223740.0
 我在广州的这几年,冰哥笔记,https://www.bgbiji.com/881.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-02,1646215983.0
-Git tips,4Ark × Blog,https://4ark.me/post/git-tips.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-02,1646179200.0
 Emacs递归添加目录下所有插件,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/03/02/emacs-load-directory-recursively.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-02,1646179200.0
+Git tips,4Ark × Blog,https://4ark.me/post/git-tips.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-02,1646179200.0
 每月思考|2022年2月份的一些思考,冰哥笔记,https://www.bgbiji.com/880.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-01,1646129054.0
-写给开发人员的实用密码学（五）—— 密钥交换 DHKE 与完美前向保密 PFS,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-5-key-exchange/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126105.0
-写给开发人员的实用密码学（四）—— 安全随机数生成器 CSPRNG,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-4-secure-random-generators/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126104.0

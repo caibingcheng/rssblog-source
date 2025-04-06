@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+那些年开发的时候踩过的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_14-pitfalls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-14,1515888000.0
 Announcement of Authlib,Just lepture,https://lepture.com/en/2018/announcement-of-authlib,https://lepture.com/,https://lepture.com/feed.xml,2018-01-08,1515417697.0
 (关系型)数据库优化总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_08-db_optimizations.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-08,1515369600.0
 动态规划民科教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_04-dynamic_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-04,1515024000.0
@@ -29,8 +30,8 @@ traefik 教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_24
 Nginx作为TCP/UDP的负载均衡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_19-nginx_as_tcp_load_balancing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Nginx 请求匹配规则,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-nginx_request_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(五)：form， json， xml,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_17-web_dev_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-17,1508198400.0
-海信A2 Pro:一部给喜欢阅读的人准备的手机,罗磊的独立博客,https://luolei.org/hisense-a2-pro-unboxing,https://luolei.org,https://luolei.org/feed/,2017-10-16,1508112000.0
 Web开发系列(四)：Flask， Tornado和WSGI,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_16-web_dev_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-16,1508112000.0
+海信A2 Pro:一部给喜欢阅读的人准备的手机,罗磊的独立博客,https://luolei.org/hisense-a2-pro-unboxing,https://luolei.org,https://luolei.org/feed/,2017-10-16,1508112000.0
 Discourse 新一代开源论坛,云游君的小站,https://www.yunyoujun.cn/posts/discourse-forum,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-10-15,1508089086.0
 Web开发系列(三)：什么是HTML，CSS，JS？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_15-web_dev_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-15,1508025600.0
 佐渡與阿賀町記,Just lepture,https://lepture.com/zh/2017/sado-and-ago,https://lepture.com/,https://lepture.com/feed.xml,2017-10-14,1507984443.0
@@ -48,4 +49,3 @@ Haskell简明教程（四）：Monoid， Applicative， Monad,Jiajun的技术笔
 像夏花一样绚烂,云游君的小站,https://www.yunyoujun.cn/posts/as-summer-flowers,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-09-23,1506202608.0
 3D数学基础-向量运算基础和矩阵变换,萤火之森,http://frankorz.com/2017/09/22/basic-of-vector-and-matrix-transformation/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-09-22,1506078350.0
 像遊客一樣生活,Just lepture,https://lepture.com/zh/2017/live-better,https://lepture.com/,https://lepture.com/feed.xml,2017-09-22,1506065108.0
-HTTPS 的详细流程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_22-https_processes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-22,1506038400.0
