@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+使用microk8s快速搭建k8s,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_17-microk8s.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-17,1573948800.0
 带你读单词第 31 期,杜老师说,https://dusays.com/131/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-16,1573920000.0
 公有、私有和联盟链区别,杜老师说,https://dusays.com/130/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-15,1573833600.0
 Python中优雅的处理文件路径,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_15-python_pathlib_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-15,1573776000.0
@@ -15,8 +16,8 @@ CentOS7 系统的安装,杜老师说,https://dusays.com/127/,https://dusays.com/
 带你读单词第 29 期,杜老师说,https://dusays.com/124/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-09,1573315200.0
 1989 年的 CD 机 - SONY Discman D-9,Randy's Blog,https://lutaonan.com/blog/sony-discman-d9/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-09,1573257600.0
 带你读单词第 28 期,杜老师说,https://dusays.com/123/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-08,1573228800.0
-disqus获取评论时忽略query string,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_08-disqus_thread_identifier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-08,1573171200.0
 即刻抽离: FreeBuds 3 无线降噪耳机 - 城市旅行,罗磊的独立博客,https://luolei.org/huawei-freebuds3,https://luolei.org,https://luolei.org/feed/,2019-11-08,1573171200.0
+disqus获取评论时忽略query string,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_08-disqus_thread_identifier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-08,1573171200.0
 区块链是什么,杜老师说,https://dusays.com/122/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-07,1573142400.0
 思科单臂路由,杜老师说,https://dusays.com/121/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-06,1573056000.0
 MySQL性能优化指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_06-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-06,1572998400.0
@@ -48,4 +49,3 @@ Yandex 免费域名邮箱注册及使用教程,ChrAlpha,https://blog.ichr.me/pos
 开源的 Linux 策略模拟游戏「韦诺之战」,杜老师说,https://dusays.com/107/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-23,1571846400.0
 开源的 Linux 策略模拟游戏「运输大亨」,杜老师说,https://dusays.com/106/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-22,1571760000.0
 开源的 Linux 策略模拟游戏「文明」,杜老师说,https://dusays.com/105/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-21,1571673600.0
-LaTeX 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/latex-use-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-10-21,1571667378.0
