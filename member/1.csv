@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+自托管 Bitwarden,瓦解的生活记事,https://hin.cool/posts/bitwardenselfhosted.html,https://hin.cool/,https://hin.cool/atom.xml,2025-04-17,1744903200.0
 Base64压缩,Bing's Blog,https://imcbc.cn/202504/base64-compression/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2025-04-17,1744868225.0
 【随笔】解决 dynamic-datasource 2.5.6 与 Spring Boot 2.7.7 不兼容问题,框架師,https://www.mobaijun.com/posts/1479088608.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-04-14,1744626416.0
 关于arthas的一个比较有用的使用方式,Nicksxs's Blog,https://nicksxs.me/2025/04/13/%E5%85%B3%E4%BA%8Earthas%E7%9A%84%E4%B8%80%E4%B8%AA%E6%AF%94%E8%BE%83%E6%9C%89%E7%94%A8%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-04-13,1744547033.0
@@ -7,7 +8,6 @@ Base64压缩,Bing's Blog,https://imcbc.cn/202504/base64-compression/,https://imc
 现代浏览器插件开发指南,Randy's Blog,https://lutaonan.com/blog/browser-extension-development-guide,https://lutaonan.com,https://lutaonan.com/rss.xml,2025-04-09,1744156800.0
 initx v0.1.0 发布,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/800/,https://imba97.cn/,https://imba97.cn/atom.xml,2025-04-08,1744151957.0
 Manifest V3 之后如何屏蔽广告：NextDNS,Another Dayu,https://anotherdayu.com/2025/6697/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-04-08,1744148931.0
-孤独的杰永远长不大,瓦解的生活记事,https://hin.cool/posts/wajiedeshenghuo.html,https://hin.cool/,https://hin.cool/atom.xml,2025-04-06,1743944400.0
 CockroachDB Serverless Architecture,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_04_03-cockroachdb_serverless_architecture.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-04-03,1743638400.0
 砂锅糊饽🥘,把酒诗代码，趁乱写年华。,https://102no.com/2025/04/01/sha-guo-hu-bo/,https://102no.com/,https://102no.com/atom.xml,2025-03-31,1743436800.0
 【LHCOS】腾讯云200M锐驰轻量实例手动挂载免费轻量对象存储,Luminous' Home,https://luotianyi.vc/8869.html,https://luotianyi.vc,https://luotianyi.vc/feed,2025-03-26,1742966772.0
