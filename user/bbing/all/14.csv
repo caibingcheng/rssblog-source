@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+使用 MeiliSearch 实现 Volantis 主题博客搜索「保姆教程」,杜老师说,https://dusays.com/504/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-13,1663084800.0
 django入门,Barney's Blog,https://hugo.bnblogs.cc/django%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-13,1663081287.0
 通过 GitHub Actions 实现 Hexo 定时发布,杜老师说,https://dusays.com/503/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-10,1662825600.0
 暗 恋,瓦解的生活记事,https://hin.cool/posts/anlian.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-10,1662773520.0
@@ -48,4 +49,3 @@ Python如何让字典保持有序存储,cywhat's blog,https://cywhat.cn/Python%E
 通过群晖 CentOS 虚拟机搭建邮件服务「EwoMail 开源版」,杜老师说,https://dusays.com/486/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-22,1658448000.0
 系统信息悬浮窗-fstats,Bing's Blog,https://bbing.com.cn/202207/sysinfo-fstats/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-07-21,1658373383.0
 魔戒使用教程,cywhat's blog,https://cywhat.cn/%E9%AD%94%E6%88%92%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-07-20,1658312333.0
-通过群晖虚拟机搭建内网邮件服务器「ExtMail 免费版」,杜老师说,https://dusays.com/485/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-19,1658188800.0
