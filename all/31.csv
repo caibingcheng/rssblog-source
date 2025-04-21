@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+【转载】世界不应该是这样的,Frank笔记,https://frank2019.me/articles/2020/04/09/1586424996813.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-02,1677795028.0
+公司内部建设的重要性,Frank笔记,https://frank2019.me/articles/2020/03/31/1585645413710.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-02,1677795014.0
+鬼子来了，一部超越时代的影片,Frank笔记,https://frank2019.me/articles/2020/03/25/1585120980598.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-02,1677794994.0
 VPS常用脚本,Frank笔记,https://frank2019.me/articles/2020/03/25/1585120880298.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-02,1677794975.0
 2020年的春天一样寒冷,Frank笔记,https://frank2019.me/articles/2020/03/19/1584606231169.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-02,1677794932.0
 使用 Memos 搭建时光机教程,杜老师说,https://dusays.com/561/,https://dusays.com/,https://dusays.com/atom.xml,2023-03-02,1677772800.0
@@ -13,9 +16,9 @@ Youtube 详细统计信息 详解,Frank笔记,https://frank2019.me/articles/2019
 浅谈销售,Frank笔记,https://frank2019.me/articles/2019/09/04/1567579899235.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-01,1677700500.0
 安装SHADOWSCOCKS-MANAGER,Frank笔记,https://frank2019.me/articles/2019/09/04/1567580175121.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-03-01,1677700468.0
 SpringBoot整合MyBatis-Plus操作MySQL数据,Barney's Blog,https://hugo.bnblogs.cc/spring%E4%B8%AD%E4%BD%BF%E7%94%A8mysql/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-01,1677677530.0
-一切向好是个伪命题,Frank笔记,http://frank2019.me/archives/yi-qie-xiang-hao-shi-ge-wei-ming-ti,http://frank2019.me/,https://frank2019.me/rss.xml,2023-03-01,1677662100.0
-一切向好是个伪命题,Frank笔记,/archives/yi-qie-xiang-hao-shi-ge-wei-ming-ti,/,https://frank2019.me/rss.xml,2023-03-01,1677662100.0
 一切向好是个伪命题,Frank笔记,https://frank2019.me/archives/yi-qie-xiang-hao-shi-ge-wei-ming-ti,https://frank2019.me/,https://frank2019.me/rss.xml,2023-03-01,1677662100.0
+一切向好是个伪命题,Frank笔记,/archives/yi-qie-xiang-hao-shi-ge-wei-ming-ti,/,https://frank2019.me/rss.xml,2023-03-01,1677662100.0
+一切向好是个伪命题,Frank笔记,http://frank2019.me/archives/yi-qie-xiang-hao-shi-ge-wei-ming-ti,http://frank2019.me/,https://frank2019.me/rss.xml,2023-03-01,1677662100.0
 Redis基础,Barney's Blog,https://hugo.bnblogs.cc/redis%E5%9F%BA%E7%A1%80%E7%AF%87/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-28,1677590153.0
 回顾2018,Frank笔记,https://frank2019.me/articles/2019/09/04/1567579388775.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-02-28,1677570640.0
 群魔乱舞的时代,Frank笔记,https://frank2019.me/articles/2019/09/04/1567579814533.html,https://frank2019.me,https://frank2019.me/rss.xml,2023-02-28,1677570607.0
@@ -46,6 +49,3 @@ ChatGPT 必备 Chrome 插件和 Prompts 技巧汇总,Another Dayu,https://anothe
 把 ChatGPT 接入到微信上「源码部署」,杜老师说,https://dusays.com/558/,https://dusays.com/,https://dusays.com/atom.xml,2023-02-21,1676995200.0
 Kubernetes简单入门之minikube,Barney's Blog,https://hugo.bnblogs.cc/kubernetes%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-20,1676897885.0
 昆明：得意忘形，流连忘返,Macin,https://macin.org/2023/02/20/kun-ming-de-yi-wang-xing/,https://macin.org/,https://www.macin.org/atom.xml,2023-02-20,1676891780.0
-控制系统的输入到状态稳定性,辛未羊的网络日志,https://panqiincs.me/2023/02/20/input-to-state-stability/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-02-19,1676822462.0
-mybatis系列-connection连接池解析,Nicksxs's Blog,https://nicksxs.me/2023/02/19/mybatis%E7%B3%BB%E5%88%97-connection%E8%BF%9E%E6%8E%A5%E6%B1%A0%E8%A7%A3%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-02-19,1676815348.0
-Docker Compose+Dockerfile搭建elasticsearch7.8.0与kibana,Barney's Blog,https://hugo.bnblogs.cc/docker-compose-dockerfile%E6%90%AD%E5%BB%BAelasticsearch7.8.0%E4%B8%8Ekibana/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-02-19,1676793681.0
