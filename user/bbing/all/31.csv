@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+使用 Istio 进行 JWT 身份验证（充当 API 网关）,This Cute World,https://thiscute.world/posts/use-istio-for-jwt-auth/,https://thiscute.world/,https://thiscute.world/index.xml,2020-04-06,1586180906.0
 安装 GNS3 思科模拟器,杜老师说,https://dusays.com/208/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-05,1586102400.0
 四命令玩转 Linux 进程管理,杜老师说,https://dusays.com/207/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-02,1585843200.0
 思科设备连接指南,杜老师说,https://dusays.com/206/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-30,1585584000.0
@@ -48,4 +49,3 @@ JDK自带的那些好用的工具,雨临Lewis,https://lewky.cn/posts/jdk-tools.h
 爱奇艺周会员 N+10 期,杜老师说,https://dusays.com/168/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-23,1577116800.0
 爱奇艺周会员 N+9 期,杜老师说,https://dusays.com/167/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-22,1577030400.0
 爱奇艺周会员 N+8 期,杜老师说,https://dusays.com/166/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-21,1576944000.0
-爱奇艺周会员 N+7 期,杜老师说,https://dusays.com/165/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-20,1576857600.0

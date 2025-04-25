@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+SpringBoot2.7新建项目Maven下载依赖出错,Barney's Blog,https://hugo.bnblogs.cc/springboot%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AEmaven%E4%B8%8B%E8%BD%BD%E4%BE%9D%E8%B5%96%E5%87%BA%E9%94%99/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-25,1658738175.0
 Argument list too long 原因与解决思路,杜老师说,https://dusays.com/487/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-25,1658707200.0
 git简单入门,Barney's Blog,https://hugo.bnblogs.cc/github%E7%AE%80%E5%8D%95%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-23,1658591824.0
 Python如何让字典保持有序存储,cywhat's blog,https://cywhat.cn/Python%E5%A6%82%E4%BD%95%E8%AE%A9%E5%AD%97%E5%85%B8%E4%BF%9D%E6%8C%81%E6%9C%89%E5%BA%8F%E5%AD%98%E5%82%A8/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-07-22,1658471830.0
@@ -20,8 +21,8 @@ XMind 2022 专业思维导图脑图软件,杜老师说,https://dusays.com/481/,h
 STL-any源码阅读,Bing's Blog,https://bbing.com.cn/202207/cpp-stl-any/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-07-06,1657098651.0
 Django的csrf防御机制,cywhat's blog,https://cywhat.cn/Django%E7%9A%84csrf%E9%98%B2%E5%BE%A1%E6%9C%BA%E5%88%B6/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-07-04,1656916290.0
 奶牛快传专业版 COWTRANSFER PRO 文件在线传输,杜老师说,https://dusays.com/480/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-04,1656892800.0
-背包英雄：匕首流无尽模式详细攻略,Yulin Lewis' Blog,https://lewky.cn/posts/backpack-hero-dagger/,https://lewky.cn/,https://lewky.cn/index.xml,2022-07-03,1656836774.0
 背包英雄：匕首流无尽模式详细攻略,Yulin Lewis' Blog,https://lewky233.top/posts/backpack-hero-dagger/,https://lewky233.top/,https://lewky.cn/index.xml,2022-07-03,1656836774.0
+背包英雄：匕首流无尽模式详细攻略,Yulin Lewis' Blog,https://lewky.cn/posts/backpack-hero-dagger/,https://lewky.cn/,https://lewky.cn/index.xml,2022-07-03,1656836774.0
 以 U-NET 为例的网络构建代码实现,无妄当自持,https://www.insidentally.com/articles/000031/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-07-02,1656763893.0
 Vovsoft Text Edit Plus 专业文本编辑器工具软件,杜老师说,https://dusays.com/479/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-01,1656633600.0
 React 函数式组件中防抖的应用（React + Hook + Typescript）,无妄当自持,https://www.insidentally.com/articles/000030/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-29,1656501153.0
@@ -90,4 +91,3 @@ vercel反向代理解决gitalk跨域问题,BBing's Blog,https://bbing.com.cn/202
 Postman问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postman-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-06-07,1654616948.0
 Postman问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/postman-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-06-07,1654616948.0
 免费提供 Artalk 服务及数据托管,杜老师说,https://dusays.com/471/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-06,1654531200.0
-像数学公式一样写C++代码,BBing's Blog,https://bbing.com.cn/202206/mathlike-cpp/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-06,1654527265.0
