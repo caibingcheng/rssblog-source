@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+路线决定未来,Frank笔记,https://frank2019.me/archives/lu-xian-jue-ding-wei-lai,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-29,1595998980.0
 程序员的MySQL手册(五)：索引优化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_28-mysql_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-28,1595894400.0
 程序员的MySQL手册(四)：索引设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_27-mysql_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-27,1595808000.0
 图形学常见的变换推导,萤火之森,http://frankorz.com/2020/07/26/transformation/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-07-26,1595785595.0
@@ -9,8 +10,8 @@ Go设计模式：facade模式和观察者模式,Jiajun的技术笔记,https://ji
 牌普分析,Frank笔记,https://frank2019.me/archives/pai-pu-fen-xi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-22,1595393880.0
 Go设计模式: 责任链模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_21-go_design_pattern_chain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-21,1595289600.0
 「发言成本」与为什么我（个人博主）不想建立交流社群,ChrAlpha,https://blog.ichr.me/post/expressing-costs/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-07-19,1595172616.0
-自己搭建的免费虚拟主机（MOFH）,岚天小窝,http://blog.ltya.top/posts/freewebhosting.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
 自己搭建的免费虚拟主机（MOFH）,岚天小窝,https://blog.ltya.top/posts/freewebhosting.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
+自己搭建的免费虚拟主机（MOFH）,岚天小窝,http://blog.ltya.top/posts/freewebhosting.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
 我们真的需要这么复杂的技术栈吗？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_15-do_we_need_these.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-15,1594771200.0
 Go设计模式：装饰器模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_14-go_design_pattern_decorator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-14,1594684800.0
 GTO与阻断牌效应,Frank笔记,https://frank2019.me/archives/gtoyu-zu-duan-pai-xiao-ying,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-10,1594357020.0
@@ -33,8 +34,8 @@ Go设计模式：单例模式、原型模式和Builder模式,Jiajun的技术笔�
 如何看待年仅 28 岁的郭宇宣布从字节跳动退休？,罗磊的独立博客,https://luolei.org/my-friend-guoyu,https://luolei.org,https://luolei.org/feed/,2020-06-16,1592265600.0
 操作系统也是CRUD,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_15-unix_crud.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-15,1592179200.0
 把USB设备穿透给虚拟机里的系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_13-macos_kvm_usb_pass.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
-debug故事之：事务让生活更美好,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_12-transaction_life_easy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-12,1591920000.0
 老婆的第一副眼镜: Tapole 钛架 + 蔡司A系列镜片,罗磊的独立博客,https://luolei.org/tapole-glasses,https://luolei.org,https://luolei.org/feed/,2020-06-12,1591920000.0
+debug故事之：事务让生活更美好,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_12-transaction_life_easy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-12,1591920000.0
 Fireside 遷移記,Just lepture,https://lepture.com/zh/2020/fireside-export,https://lepture.com/,https://lepture.com/feed.xml,2020-06-11,1591843954.0
 Go设计模式：模板模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_11-go_design_pattern_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-11,1591833600.0
 【随笔】Gitmoji提交规范,框架師,https://www.mobaijun.com/posts/724837924.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-06-10,1591796288.0
@@ -48,4 +49,3 @@ WebP 图片优化在 Hexo 上的最佳尝试,ChrAlpha,https://blog.ichr.me/post/
 glusterfs 笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_30-glusterfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-30,1590796800.0
 使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-05-30,1590796800.0
 使用 TiddlyWiki 进行个人知识管理,Ahonn's Blog,https://www.ahonn.me/blog/using-tiddlywiki-for-personal-knowledge-management,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-05-29,1590768000.0
-使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-05-29,1590768000.0
