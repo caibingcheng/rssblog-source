@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+切换Python版本后导致终端打不开,Bing's Blog,https://bbing.com.cn/202208/terminal-python-version/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-08-01,1659322836.0
+切换Python版本后导致终端打不开,Bing's Blog,https://imcbc.cn/202208/terminal-python-version/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-08-01,1659322836.0
+Kubernetes 中的证书管理工具 - cert-manager,This Cute World,https://thiscute.world/posts/kubernetes-cert-management/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2022-07-31,1659251506.0
 Caddy 的简介,杜老师说,https://dusays.com/489/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-31,1659225600.0
 Vercel部署本地项目,Barney's Blog,https://hugo.bnblogs.cc/vercel%E9%83%A8%E7%BD%B2%E6%9C%AC%E5%9C%B0%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-30,1659178583.0
 git-bash如何使用tmux,Barney's Blog,https://hugo.bnblogs.cc/git-bash%E4%BD%BF%E7%94%A8tmux/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-07-29,1659109262.0
@@ -88,6 +91,3 @@ C++在给定内存上构造,Bing's Blog,https://bbing.com.cn/202206/cpp_placemen
 通过 WebDAV 挂载 Cloudreve「Windows 篇」,杜老师说,https://dusays.com/475/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-18,1655568000.0
 今年618我买了啥,瓦解的生活记事,https://hin.cool/posts/618buy.html,https://hin.cool/,https://hin.cool/atom.xml,2022-06-18,1655519400.0
 一块钱买来的自尊心,BBing's Blog,https://bbing.com.cn/202206/1yzzx/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-17,1655471147.0
-计算机组成原理-存储器,DearXuan的主页,https://blog.dearxuan.com/2022/06/16/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%AD%98%E5%82%A8%E5%99%A8/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-06-16,1655390760.0
-vercel反向代理解决gitalk跨域问题,BBing's Blog,https://bbing.com.cn/202206/vercel-gitalk-cors/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-16,1655384273.0
-坚持更新博客的动力是什么,杜老师说,https://dusays.com/474/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-15,1655308800.0
