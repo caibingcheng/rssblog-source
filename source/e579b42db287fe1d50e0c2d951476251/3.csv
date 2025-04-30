@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+使用 Docker 部署 Gitea Actions 的 Runner,杜老师说,https://dusays.com/723/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-01,1719849600.0
 使用 Docker 部署 Gitea 新一代的代码托管平台,杜老师说,https://dusays.com/722/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-28,1719590400.0
 免费搭建 Docker 镜像存储库解决拉取问题,杜老师说,https://dusays.com/721/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-25,1719331200.0
 使用 imgproxy 对接 MinIO 实现图片处理,杜老师说,https://dusays.com/720/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-22,1719072000.0
@@ -48,4 +49,3 @@ ShellCheck 静态代码分析的工具,杜老师说,https://dusays.com/678/,http
 9 个实用的 Shell 脚本,杜老师说,https://dusays.com/676/,https://dusays.com/,https://dusays.com/atom.xml,2024-02-11,1707667200.0
 Fort Firewall 开源免费防火墙工具,杜老师说,https://dusays.com/675/,https://dusays.com/,https://dusays.com/atom.xml,2024-02-08,1707408000.0
 通过 OpenSSL 生成 SSL 证书,杜老师说,https://dusays.com/674/,https://dusays.com/,https://dusays.com/atom.xml,2024-02-05,1707148800.0
-MySQL 预编译语句,杜老师说,https://dusays.com/673/,https://dusays.com/,https://dusays.com/atom.xml,2024-02-02,1706889600.0
