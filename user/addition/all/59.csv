@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Golang中的错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_15-golang_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-15,1552608000.0
+Golang 的槽点,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_14-golang_bad_side.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-14,1552521600.0
 一个想当然的bug,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_12-golang_strings_split.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-12,1552348800.0
 现代的 React,Randy's Blog,https://lutaonan.com/blog/modern-react/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-03-08,1552003200.0
 读《稀缺》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_06-scarcity.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-06,1551830400.0
@@ -47,5 +49,3 @@ YouCompleteMe ycmd server SHUTDOWN 和 pyenv的问题,Jiajun的技术笔记,http
 我在阿里巴巴花45元买了一个山寨 Peak Design 快挂 | ZUOLUOTV,罗磊的独立博客,https://luolei.org/peak-design-capture-clip-clone,https://luolei.org,https://luolei.org/feed/,2018-12-23,1545523200.0
 Docker组件介绍（一）：runc和containerd,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_22-docker_components.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-22,1545436800.0
 2018 香港流行音乐推介,Randy's Blog,https://lutaonan.com/blog/2018-cantonpop-list/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-12-19,1545177600.0
-Prometheus MySQL Exporter源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_16-prometheus_mysqld_exporter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-16,1544918400.0
-MySQL性能指标,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_13-db_metrics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-13,1544659200.0
