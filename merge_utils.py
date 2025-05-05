@@ -71,9 +71,11 @@ def generator_rss(rss_out, rss_in):
     df_dict = json.loads(df.to_json(orient="records"))
 
     def rss_not_empty(r):
-        return {"title", "link", "author", "timestamp"}.issubset(
-            r.keys()
-        ) and "" not in {r["title"], r["link"], r["author"], r["timestamp"]}
+        return (
+            {"title", "link", "author", "timestamp"}.issubset(r.keys())
+            and "" not in {r["title"], r["link"], r["author"], r["timestamp"]}
+            and None not in {r["title"], r["link"], r["author"], r["timestamp"]}
+        )
 
     rss = PyRSS2Gen.RSS2(
         title="RSSBlog",
