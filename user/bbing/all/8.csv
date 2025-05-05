@@ -1,51 +1,93 @@
 title,author,link,home,rss,date,timestamp
-Ubuntu上使用docker安装mysql,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4%B8%8A%E4%BD%BF%E7%94%A8docker%E5%AE%89%E8%A3%85mysql/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-07,1646647303.0
-写给开发人员的实用密码学（六）—— 对称密钥加密算法,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-6-symmetric-key-ciphers/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-06,1646563440.0
-「转」且看有思想的年轻人,This Cute World,https://thiscute.world/posts/the-thoughtful-youth/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-04,1646405880.0
-MyBatis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mybatis-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646320233.0
-PostgreSQL - SQL调优方案,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-sql-tuning/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646266166.0
-写给开发人员的实用密码学（五）—— 密钥交换 DHKE 与完美前向保密 PFS,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-5-key-exchange/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126105.0
-写给开发人员的实用密码学（四）—— 安全随机数生成器 CSPRNG,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-4-secure-random-generators/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126104.0
-写给开发人员的实用密码学（三）—— MAC 与密钥派生函数 KDF,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-3-key-derivation-function/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126103.0
-写给开发人员的实用密码学（二）—— 哈希函数,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-2-hash/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126101.0
-写给开发人员的实用密码学（一）—— 概览,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-1/,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126100.0
-glibc-mmap源码阅读,BBing's Blog,https://bbing.com.cn/202202/glibc-mmap/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-02-28,1646016843.0
-算法基础-散列表与开放寻址,DearXuan的主页,https://blog.dearxuan.com/2022/02/27/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E6%95%A3%E5%88%97%E8%A1%A8%E4%B8%8E%E5%BC%80%E6%94%BE%E5%AF%BB%E5%9D%80/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-27,1645966560.0
-Win32 API编程——前言,qinxs小站,https://7bxing.com/posts/67bdf631/,https://7bxing.com/,https://7bxing.com/atom.xml,2022-02-26,1645875801.0
-「转」仙马赛记——我又 PB 了,This Cute World,https://thiscute.world/posts/likenttt-2021-04-11-xianlin-half-marathon-1_33_12/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-26,1645868640.0
-「转」MIRT出征广马——首次摸到330的边儿,This Cute World,https://thiscute.world/posts/likenttt-2020-12-13-guangzhou-marathon-3_30_15/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-26,1645865940.0
-Flask路由基础,DearXuan的主页,https://blog.dearxuan.com/2022/02/24/Flask%E8%B7%AF%E7%94%B1%E5%9F%BA%E7%A1%80/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-24,1645697400.0
-Hugo添加文章加密功能,Barney's Blog,https://hugo.bnblogs.cc/hugo%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86%E5%8A%9F%E8%83%BD/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645621037.0
-Hugo导航栏添加二级菜单,Barney's Blog,https://hugo.bnblogs.cc/hugo%E5%AF%BC%E8%88%AA%E6%A0%8F%E6%B7%BB%E5%8A%A0%E4%BA%8C%E7%BA%A7%E8%8F%9C%E5%8D%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645618994.0
-算法基础-非线性结构,DearXuan的主页,https://blog.dearxuan.com/2022/02/23/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-23,1645613640.0
-LoveIt主题支持MathJax,Barney's Blog,https://hugo.bnblogs.cc/loveit%E4%B8%BB%E9%A2%98%E6%94%AF%E6%8C%81mathjax/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645607283.0
-python调用英伟达GPU加速方法,DearXuan的主页,https://blog.dearxuan.com/2022/02/20/python%E8%B0%83%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-20,1645336500.0
-尝试下Amann的数学分析,辛未羊的网络日志,https://panqiincs.me/2022/02/18/attempt-amann-analysis/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-02-18,1645178812.0
-算法基础-字符串与模式匹配,DearXuan的主页,https://blog.dearxuan.com/2022/02/18/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%8E%E6%A8%A1%E5%BC%8F%E5%8C%B9%E9%85%8D/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-18,1645162560.0
-Linux下安装zsh,Barney's Blog,https://hugo.bnblogs.cc/linux%E4%B8%8B%E5%AE%89%E8%A3%85zsh/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-15,1644928043.0
-算法基础-线性结构,DearXuan的主页,https://blog.dearxuan.com/2022/02/15/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-15,1644917220.0
-Linux/Windows/MacOSX 系统常用命令集锦,This Cute World,https://thiscute.world/posts/common-commands-for-various-operating-systems/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-13,1644739740.0
-Java - 字符编码,Yulin Lewis' Blog,https://lewky.cn/posts/java-charset/,https://lewky.cn/,https://lewky.cn/index.xml,2022-02-13,1644720128.0
-Python 实用技巧与常见错误集锦,This Cute World,https://thiscute.world/posts/python-tips-and-tricks/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-12,1644686220.0
-备忘录,Barney's Blog,https://hugo.bnblogs.cc/memo/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-10,1644481191.0
-python实现RSA加密数字,DearXuan的主页,https://blog.dearxuan.com/2022/02/09/python%E5%AE%9E%E7%8E%B0RSA%E5%8A%A0%E5%AF%86%E6%95%B0%E5%AD%97/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-09,1644400380.0
-C#图像压缩相关方法总结,DearXuan的主页,https://blog.dearxuan.com/2022/02/07/C-%E5%9B%BE%E5%83%8F%E5%8E%8B%E7%BC%A9%E7%9B%B8%E5%85%B3%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-07,1644237540.0
-算法基础-顺序统计量,DearXuan的主页,https://blog.dearxuan.com/2022/01/30/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E9%A1%BA%E5%BA%8F%E7%BB%9F%E8%AE%A1%E9%87%8F/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-30,1643546700.0
-Online Pricing and Trading of Private Data in Correlated Queries,Barney's Blog,https://hugo.bnblogs.cc/paper07/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-01-25,1643118527.0
-部署一个 Kubernetes 集群,This Cute World,https://thiscute.world/posts/kubernetes-deployment-using-kubeadm/,https://thiscute.world/,https://thiscute.world/index.xml,2022-01-24,1643045820.0
-Kubernetes 微服务最佳实践,This Cute World,https://thiscute.world/posts/kubernetes-best-practices/,https://thiscute.world/,https://thiscute.world/index.xml,2022-01-24,1643040780.0
-算法基础-函数渐近,DearXuan的主页,https://blog.dearxuan.com/2022/01/24/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E5%87%BD%E6%95%B0%E6%B8%90%E8%BF%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-24,1643016720.0
-算法基础-排序方法,DearXuan的主页,https://blog.dearxuan.com/2022/01/22/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E6%8E%92%E5%BA%8F%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-22,1642852320.0
-算法基础-随机过程,DearXuan的主页,https://blog.dearxuan.com/2022/01/21/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-21,1642746780.0
-算法基础-算法分析,DearXuan的主页,https://blog.dearxuan.com/2022/01/20/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-20,1642683000.0
-Linux部署grafana+node_exporter+prometheus监控,cywhat's blog,https://cywhat.cn/Linux%E9%83%A8%E7%BD%B2grafana-node_export-prometheus%E7%9B%91%E6%8E%A7/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-01-20,1642647979.0
-2022年初广西自驾游,辛未羊的网络日志,https://panqiincs.me/2022/01/14/xinchou-guangxi-trip/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-01-14,1642160544.0
-桌面窗口管理器(dwm.exe)占用高内存的解决方法,DearXuan的主页,https://blog.dearxuan.com/2022/01/14/%E6%A1%8C%E9%9D%A2%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8-dwm-exe-%E5%8D%A0%E7%94%A8%E9%AB%98%E5%86%85%E5%AD%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-14,1642129380.0
-Spring Data Redis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/spring-data-redis/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-13,1642086642.0
-Java数值问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/java-number/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-10,1641826986.0
-Node.js路由方法,DearXuan的主页,https://blog.dearxuan.com/2022/01/10/Node-js%E8%B7%AF%E7%94%B1%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-10,1641805920.0
-lombok问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/lombok-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-06,1641430890.0
-Linux配置时间同步,cywhat's blog,https://cywhat.cn/Linux%E9%85%8D%E7%BD%AE%E6%97%B6%E9%97%B4%E5%90%8C%E6%AD%A5/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-01-05,1641350985.0
-Jackson问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/jackson-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-04,1641311142.0
-2021 年年终总结,This Cute World,https://thiscute.world/posts/2021-summary/,https://thiscute.world/,https://thiscute.world/index.xml,2022-01-03,1641192600.0
-Java Servlet问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/javaweb-servlet-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-01-01,1641050207.0
+唯有音乐永恒,瓦解的生活记事,https://hin.cool/posts/guahua.html,https://hin.cool/,https://hin.cool/atom.xml,2022-07-14,1657836600.0
+天城文基础及计算机处理方法,辛未羊的网络日志,https://panqiincs.me/2022/07/14/python-devanagari/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-07-14,1657762912.0
+计算机网络-分层结构,DearXuan的主页,https://blog.dearxuan.com/2022/07/12/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E5%88%86%E5%B1%82%E7%BB%93%E6%9E%84/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-07-12,1657600200.0
+Django的csrf防御机制,cywhat's blog,https://cywhat.cn/Django%E7%9A%84csrf%E9%98%B2%E5%BE%A1%E6%9C%BA%E5%88%B6/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-07-04,1656916290.0
+背包英雄：匕首流无尽模式详细攻略,Yulin Lewis' Blog,https://lewky.cn/posts/backpack-hero-dagger/,https://lewky.cn/,https://lewky.cn/index.xml,2022-07-03,1656836774.0
+以 U-NET 为例的网络构建代码实现,无妄当自持,https://www.insidentally.com/articles/000031/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-07-02,1656763893.0
+React 函数式组件中防抖的应用（React + Hook + Typescript）,无妄当自持,https://www.insidentally.com/articles/000030/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-29,1656501153.0
+使用 ntfs3 驱动替换 ntfs-3g 挂载 windows NTFS 分区,无妄当自持,https://www.insidentally.com/articles/000029/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-27,1656317553.0
+Linux问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/linux-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-06-22,1655916265.0
+"博客告示<div class=""wrap""><span class=""wraps"">置顶</span></div>
+<style type=""text/css"">
+.wrap {
+width: 100%;
+height: 100%;
+position: absolute;
+top: -8px;
+left: 8px;
+overflow: hidden;
+font-size: 17px;
+font-weight: 400;
+color: #fff;
+opacity: 0.5;
+-webkit-transition: .3s ease all;
+-moz-transition: .3s ease all;
+-ms-transition: .3s ease all;
+-o-transition: .3s ease all;
+transition: .3s ease all;
+}
+.wrap:hover {
+opacity: 0.9;
+}
+.wraps {
+display: inline-block;
+text-align: center;
+width: 200px;
+height: 30px;
+line-height: 27px;
+position: absolute;
+top: 30px;
+right: -50px;
+z-index: 2;
+overflow: hidden;
+transform: rotate(45deg);
+-ms-transform: rotate(45deg);
+-moz-transform: rotate(45deg);
+-webkit-transform: rotate(45deg);
+-o-transform: rotate(45deg);
+border: 1px dashed;
+box-shadow: 0 0 0 1px #000， 0px 21px 5px -18px rgba(0，0，0，0.6);
+background: red;
+}
+</style>",Peter's Blog,https://www.rainogo.com/posts/website_notice.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2022-06-20,1655739300.0
+一块钱买来的自尊心,BBing's Blog,https://bbing.com.cn/202206/1yzzx/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-17,1655471147.0
+计算机组成原理-存储器,DearXuan的主页,https://blog.dearxuan.com/2022/06/16/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%AD%98%E5%82%A8%E5%99%A8/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-06-16,1655390760.0
+vercel反向代理解决gitalk跨域问题,BBing's Blog,https://bbing.com.cn/202206/vercel-gitalk-cors/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-16,1655384273.0
+曲线与曲面积分公式整理,DearXuan的主页,https://blog.dearxuan.com/2022/06/11/%E6%9B%B2%E7%BA%BF%E4%B8%8E%E6%9B%B2%E9%9D%A2%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F%E6%95%B4%E7%90%86/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-06-11,1654958940.0
+Postman问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postman-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-06-07,1654616948.0
+像数学公式一样写C++代码,BBing's Blog,https://bbing.com.cn/202206/mathlike-cpp/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-06,1654527265.0
+待定系数法求二阶常系数非齐次线性方程特解,DearXuan的主页,https://blog.dearxuan.com/2022/06/04/%E5%BE%85%E5%AE%9A%E7%B3%BB%E6%95%B0%E6%B3%95%E6%B1%82%E4%BA%8C%E9%98%B6%E5%B8%B8%E7%B3%BB%E6%95%B0%E9%9D%9E%E9%BD%90%E6%AC%A1%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B%E7%89%B9%E8%A7%A3/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-06-04,1654356480.0
+安装 Fedora 36 后一些适合中国用户的简单设置,无妄当自持,https://www.insidentally.com/articles/000028/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-04,1654308633.0
+摸鱼工具-fkfish,BBing's Blog,https://bbing.com.cn/202205/about-fkfish/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-05-31,1653980916.0
+如何切换到独特的滚动发行版——Debian sid,无妄当自持,https://www.insidentally.com/articles/000027/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-05-27,1653617433.0
+二重积分的对称性技巧,DearXuan的主页,https://blog.dearxuan.com/2022/05/26/%E4%BA%8C%E9%87%8D%E7%A7%AF%E5%88%86%E7%9A%84%E5%AF%B9%E7%A7%B0%E6%80%A7%E6%8A%80%E5%B7%A7/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-05-26,1653574260.0
+指数基金估值查询-djeva,BBing's Blog,https://bbing.com.cn/202205/funds-djeva/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-05-25,1653477614.0
+Death Is But a Dream,This Cute World,https://thiscute.world/posts/death-is-but-a-dream/,https://thiscute.world/,https://thiscute.world/index.xml,2022-05-23,1653329820.0
+WPF MediaElement循环播放,DearXuan的主页,https://blog.dearxuan.com/2022/05/22/WPF-MediaElement%E5%BE%AA%E7%8E%AF%E6%92%AD%E6%94%BE/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-05-22,1653201120.0
+图床转换工具-picvt,BBing's Blog,https://bbing.com.cn/202205/aboutpicvt/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-05-19,1652959271.0
+控制理论的经典实例：单摆系统,辛未羊的网络日志,https://panqiincs.me/2022/05/19/pendulum-as-example/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-05-19,1652923043.0
+NAT 网关、NAT 穿越以及虚拟网络,This Cute World,https://thiscute.world/posts/about-nat/,https://thiscute.world/,https://thiscute.world/index.xml,2022-05-13,1652413560.0
+别了，珈乐,Yulin Lewis' Blog,https://lewky.cn/posts/asoul-jiale/,https://lewky.cn/,https://lewky.cn/index.xml,2022-05-11,1652283034.0
+区间再现公式的理解与应用,DearXuan的主页,https://blog.dearxuan.com/2022/05/07/%E5%8C%BA%E9%97%B4%E5%86%8D%E7%8E%B0%E5%85%AC%E5%BC%8F%E7%9A%84%E7%90%86%E8%A7%A3%E4%B8%8E%E5%BA%94%E7%94%A8/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-05-07,1651929960.0
+ULPT: A User-Centric Location Privacy Trading Framework for Mobile Crowd Sensing,Barney's Blog,https://hugo.bnblogs.cc/paper09/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-05-06,1651848787.0
+计算机网络-计算机网络组成,DearXuan的主页,https://blog.dearxuan.com/2022/05/05/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E7%BB%84%E6%88%90/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-05-05,1651758720.0
+计算机组成原理-定点数运算,DearXuan的主页,https://blog.dearxuan.com/2022/05/04/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%AE%9A%E7%82%B9%E6%95%B0%E8%BF%90%E7%AE%97/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-05-04,1651677780.0
+FinOps for Kubernetes - 如何拆分 Kubernetes 成本,This Cute World,https://thiscute.world/posts/finops-for-kubernetes/,https://thiscute.world/,https://thiscute.world/index.xml,2022-05-04,1651677300.0
+关闭了评论，让一切简单起来,BBing's Blog,https://bbing.com.cn/202205/disbalecomment-makeitsimple/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-05-04,1651646700.0
+计算机网络-计算机网络概念,DearXuan的主页,https://blog.dearxuan.com/2022/04/30/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%A6%82%E5%BF%B5/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-04-30,1651333320.0
+车运动时和静止时被鸟拉屎的概率,BBing's Blog,https://bbing.com.cn/202204/birdshit-rate/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-04-25,1650888002.0
+Django连接Mysql配置,cywhat's blog,https://cywhat.cn/Django%E8%BF%9E%E6%8E%A5Mysql%E9%85%8D%E7%BD%AE/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-04-24,1650770156.0
+Mac安装mysql5.7,cywhat's blog,https://cywhat.cn/Mac%E5%AE%89%E8%A3%85mysql5.7/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-04-24,1650769154.0
+tanx的n次方不定积分递推方法,DearXuan的主页,https://blog.dearxuan.com/2022/04/23/tanx%E7%9A%84n%E6%AC%A1%E6%96%B9%E4%B8%8D%E5%AE%9A%E7%A7%AF%E5%88%86%E9%80%92%E6%8E%A8%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-04-23,1650713220.0
+记一次网站重大升级,辛未羊的网络日志,https://panqiincs.me/2022/04/20/website-great-updates/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-04-20,1650430169.0
+帮人解决过的电脑问题,辛未羊的网络日志,https://panqiincs.me/2022/04/16/computer-problems/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-04-16,1650120233.0
+闲置笔记本改NAS-omv踩坑记录,BBing's Blog,https://bbing.com.cn/202204/laptopnas-omv/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-04-16,1650078160.0
+Docker部署wordpress站点,cywhat's blog,https://cywhat.cn/Docker%E9%83%A8%E7%BD%B2wordpress%E7%AB%99%E7%82%B9/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-04-15,1650003249.0
+Locally Differentially Private Protocols for Frequency Estimation,Barney's Blog,https://hugo.bnblogs.cc/paper08/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-04-13,1649861587.0
+QQ机器人开发,DearXuan的主页,https://blog.dearxuan.com/2022/04/02/QQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-04-02,1648890264.0
+glibc-malloc源码阅读二,BBing's Blog,https://bbing.com.cn/202203/glibc-malloc2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-30,1648641282.0
+在体全细胞膜片钳研究综述,无妄当自持,https://www.insidentally.com/articles/000024/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-03-30,1648627233.0
+RuntimeWarning:DateTimeField Session.expire_date received a naive datetime,cywhat's blog,https://cywhat.cn/RuntimeWarningDateTimeField-Session.expire_date-received-a-naive-datetime/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-03-30,1648609003.0
+在服务器上直接独立部署 Waline，并使用 systemd 启动,无妄当自持,https://www.insidentally.com/articles/000026/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-03-29,1648519833.0
+变革与创新,This Cute World,https://thiscute.world/posts/revolution-and-innovation/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-27,1648399200.0

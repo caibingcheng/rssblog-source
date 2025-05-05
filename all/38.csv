@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-善用闭包(closure)让Go代码更优雅,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_21-use_closure.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
-Golang的可选参数实践,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
-YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-me-money,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-14,1586888548.0
-2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-04-13,1586812489.0
-[博客通报] 切换评论系统至 Disqus,ChrAlpha,https://blog.ichr.me/notice/change-comment-system-into-disqus/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-13,1586811001.0
-FreeBSD ipfw使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_13-freebsd_ipfw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-13,1586736000.0
-Golang expvar库源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_12-expvar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-12,1586649600.0
-浅谈 DNS 解析与 CDN 原理,ChrAlpha,https://blog.ichr.me/post/how-dns-and-cdn-work/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-11,1586614065.0
-Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
-Golang validator使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
-垃圾清理软件多，是我们缺存储空间吗？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/25.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-09,1586425500.0
-使用Redis的Stream模块实现群聊功能,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_09-redis_stream_as_im.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
-关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
-解决k8s cron无法读取环境变量的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
-使用 Istio 进行 JWT 身份验证（充当 API 网关）,This Cute World,https://thiscute.world/posts/use-istio-for-jwt-auth/,https://thiscute.world/,https://thiscute.world/index.xml,2020-04-06,1586180906.0
-VPS 手动在线一键重装系统脚本整理,ChrAlpha,https://blog.ichr.me/post/scripts-for-reinstalling-linux-vps/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-06,1586171300.0
-人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/posts/life-is-not-a-marathon,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1586012398.0
-人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/diary/life-is-not-a-marathon/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1585983598.0
-N95口罩背后不为人知的历史,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/21.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-04,1585962960.0
-在网页 404 前将其备份的不同方法,ChrAlpha,https://blog.ichr.me/post/archive-webpage-before-404/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-01,1585740437.0
-反复横跳？—— 我的密码管理工具折腾记,ChrAlpha,https://blog.ichr.me/post/password-managements/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-30,1585578224.0
-Linux网络学习笔记（二）：域名解析(DNS)——以 CoreDNS 为例,This Cute World,https://thiscute.world/posts/about-dns-protocol/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-29,1585468163.0
-[2021] 绕过 Google Play 一年一次换区限制,ChrAlpha,https://blog.ichr.me/post/bypass-google-play-region-restrictions/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-27,1585318102.0
-重新注册 PT 网站后，原有种子“红种” 的简单解决方法,yzqzss | 一座桥在水上's Blog,https://blog.othing.xyz/archives/20.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-03-27,1585274160.0
-应用内购的坑,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_03_27-iap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-27,1585267200.0
-两种常见的访问控制模型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_26-access_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-26,1585180800.0
-如何在 Git 中真正删除一个文件,ChrAlpha,https://blog.ichr.me/post/git-remove-files-thoroughly/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-25,1585146890.0
-gunicorn max-requests 选项的作用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_25-gunicorn_max_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-25,1585094400.0
-Redis使用中的几点注意事项,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_23-redis_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-23,1584921600.0
-如何打造好看还好用的 Windows Terminal,ChrAlpha,https://blog.ichr.me/post/windows-terminal-configuration/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-21,1584823047.0
-Java的远程调试Remote Debug,雨临Lewis,https://lewky.cn/posts/java-remote-debug.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-03-17,1584459040.0
-Hexo 图片 lazyload 的更优尝试,ChrAlpha,https://blog.ichr.me/post/hexo-better-image-lazyload/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-16,1584381969.0
-Lazyload 不让 Valine 评论组件拖慢页面加载,ChrAlpha,https://blog.ichr.me/post/valine-lazyload/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-13,1584127745.0
-给你的代码跑个分？pylint使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_12-pylint.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-12,1583971200.0
-谈谈 RSA 非对称加密算法原理及流程,ChrAlpha,https://blog.ichr.me/post/rsa-asymmetric-encryption-algorithm/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-11,1583930619.0
-一个Gunicorn worker数量引发的血案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_11-gunicorn_worker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-11,1583884800.0
-在 GitHub 上使用 GPG 认证你的 Git Commit,ChrAlpha,https://blog.ichr.me/post/use-gpg-verification-in-github/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-08,1583702310.0
-国内自建图床指南,Randy's Blog,https://lutaonan.com/blog/aliyun-cdn-tutorial/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-07,1583539200.0
-👴就是二次元，故尝试证明。,云游君的小站,https://www.yunyoujun.cn/posts/i-am-er-ci-yuan-and-try-to-prove,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-06,1583536357.0
-在 Hexo 博客中更优雅地使用 LaTeX 数学公式,ChrAlpha,https://blog.ichr.me/post/fix-mathjax-layout-bugs-in-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-06,1583503087.0
-MySQL Boolean类型的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_06-mysql_boolean_tinyint_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-06,1583452800.0
-Hexo 博客 | 链接分享卡片生成配置,ChrAlpha,https://blog.ichr.me/post/hexo-generate-link-sharing-card/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-05,1583423588.0
-教你如何从零开始搭建一个属于自己的网站,云游君的小站,https://www.yunyoujun.cn/share/how-to-build-your-site/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-04,1583343068.0
-pip freeze是魔鬼,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_04-pip_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-04,1583280000.0
-JWT 签名算法 HS256、RS256 及 ES256 及密钥生成,This Cute World,https://thiscute.world/posts/jwt-algorithm-key-generation/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-03,1583215786.0
-一个feed流系统的演进,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_02-feed_system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-02,1583107200.0
-Android 使用view binding,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_01-android_view_binding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-01,1583020800.0
-好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
-关于浏览器隐藏 https 与 www 一事,ChrAlpha,https://blog.ichr.me/post/why-browsers-hide-https-and-www-in-address-bar/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-29,1582985007.0
-Cloudflare 指定 CDN 节点与缓存配置,ChrAlpha,https://blog.ichr.me/post/cloudflare-cdn-optimize/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-28,1582899925.0
+10本 Redis 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/12/10-redis-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-11,1618156800.0
+聊聊厦门旅游的好与不好,Nicksxs's Blog,https://nicksxs.me/2021/04/11/%E8%81%8A%E8%81%8A%E5%8E%A6%E9%97%A8%E6%97%85%E6%B8%B8%E7%9A%84%E5%A5%BD%E4%B8%8E%E4%B8%8D%E5%A5%BD/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-04-11,1618155487.0
+Linux 网络工具中的瑞士军刀 - socat &amp; netcat,This Cute World,https://thiscute.world/posts/socat-netcat/,https://thiscute.world/,https://thiscute.world/index.xml,2021-04-11,1618130293.0
+【ACME】手动签发Buypass及ZeroSSL证书,Luminous' Home,https://luotianyi.vc/5538.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-04-11,1618124143.0
+Svelte 的异步更新实现原理,Randy's Blog,https://lutaonan.com/blog/how-svelte-set-state-works,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-04-11,1618099200.0
+logrotate read only filesystem问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_11-logrotate_read_only_filesystem.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-11,1618099200.0
+Svelte 的异步更新实现原理,Randy's Blog,https://lutaonan.com/blog/how-svelte-set-state-works/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-04-11,1618099200.0
+为什么 Linux 和 macOS 不需要碎片整理,面向信仰编程,https://draveness.me//whys-the-design-linux-macos-fragmentation,https://draveness.me/,https://draveness.me/feed.xml,2021-04-10,1618012800.0
+为什么 Linux 和 macOS 不需要碎片整理,面向信仰编程,https://draven.co//whys-the-design-linux-macos-fragmentation,https://draven.co/,https://draveness.me/feed.xml,2021-04-10,1618012800.0
+CPU 和 GPU - 异构计算的演进与发展,面向信仰编程,https://draven.co//heterogeneous-computing,https://draven.co/,https://draveness.me/feed.xml,2021-04-09,1617926400.0
+CPU 和 GPU - 异构计算的演进与发展,面向信仰编程,https://draveness.me//heterogeneous-computing,https://draveness.me/,https://draveness.me/feed.xml,2021-04-09,1617926400.0
+10本 Python 深入学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/09/10-python-learn-depth-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-08,1617897600.0
+为 Arch Linux 创建软件包,无妄当自持,https://www.insidentally.com/articles/000010/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-04-07,1617756711.0
+10本 Python 入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/07/10-python-learn-guide-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-06,1617724800.0
+10本 Python 零基础入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/06/10-python-learn-from-scratch-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-05,1617638400.0
+文本笔记记录方式,沐云湘夕—求索,https://quest.myxxts.club/archives/83/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2021-04-04,1617548940.0
+聊聊 dubbo 的线程池,Nicksxs,https://nicksxs.me/2021/04/04/%E8%81%8A%E8%81%8A-dubbo-%E7%9A%84%E7%BA%BF%E7%A8%8B%E6%B1%A0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-04-04,1617545697.0
+尝试在 GitHub Issues 上写文章并自动同步至博客,ChrAlpha,https://blog.ichr.me/post/blog-with-github-issues/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2021-04-04,1617544962.0
+uni-app 踩坑小记,4Ark,https://4ark.me/post/uni-app-issues/,https://4ark.me/,https://4ark.me/rss.xml,2021-04-01,1617235200.0
+为什么早期的 Windows 需要整理碎片,面向信仰编程,https://draveness.me//whys-the-design-windows-defragmentation,https://draveness.me/,https://draveness.me/feed.xml,2021-04-01,1617235200.0
+为什么早期的 Windows 需要整理碎片,面向信仰编程,https://draven.co//whys-the-design-windows-defragmentation,https://draven.co/,https://draveness.me/feed.xml,2021-04-01,1617235200.0
+JPA/Hibernate问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/jpa-hibernate.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-03-31,1617206850.0
+司马迁是一个什么样的人？,4Ark,https://4ark.me/post/about-si-ma-qian/,https://4ark.me/,https://4ark.me/rss.xml,2021-03-31,1617148800.0
+三月总结,4Ark × Blog,https://4ark.me/post/2021-03-31-2021-mar-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2021-03-30,1617148182.0
+2020 年总结 · 渐入佳境,面向信仰编程,https://draveness.me//2020-summary,https://draveness.me/,https://draveness.me/feed.xml,2021-03-28,1616889600.0
+2020 年总结 · 渐入佳境,面向信仰编程,https://draven.co//2020-summary,https://draven.co/,https://draveness.me/feed.xml,2021-03-28,1616889600.0
+在 windows 下安装配置 nodejs,无妄当自持,https://www.insidentally.com/articles/000009/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-03-27,1616849231.0
+Serverless 与轻量级虚拟化 Firecracker · NSDI '20,面向信仰编程,https://draven.co//papers-firecracker,https://draven.co/,https://draveness.me/feed.xml,2021-03-27,1616803200.0
+Serverless 与轻量级虚拟化 Firecracker · NSDI '20,面向信仰编程,https://draveness.me//papers-firecracker,https://draveness.me/,https://draveness.me/feed.xml,2021-03-27,1616803200.0
+Notion 编辑器是怎么实现的？,Ahonn's Blog,https://www.ahonn.me/blog/how-the-notion-editor-is-implemented,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2021-03-25,1616630400.0
+Notion 编辑器是怎么实现的？,Yuexun's Blog,https://yuexunjiang.me/blog/how-the-notion-editor-is-implemented,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2021-03-25,1616630400.0
+Notion 编辑器是怎么实现的？,Yuexun's Blog,https://yuexunjiang.me/blog/how-the-notion-editor-is-implemented/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-03-25,1616630400.0
+Golang GIN写单测时，愉快的使用返回值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_23-go_gin_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-23,1616457600.0
+你该如何为 Kubernetes 定制特性,面向信仰编程,https://draveness.me//cloud-native-kubernetes-extension,https://draveness.me/,https://draveness.me/feed.xml,2021-03-23,1616457600.0
+你该如何为 Kubernetes 定制特性,面向信仰编程,https://draven.co//cloud-native-kubernetes-extension,https://draven.co/,https://draveness.me/feed.xml,2021-03-23,1616457600.0
+Python Queue源码分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_20-python_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-20,1616198400.0
+集群管理系统 Mesos 的设计原理 · NSDI '11,面向信仰编程,https://draven.co//papers-mesos,https://draven.co/,https://draveness.me/feed.xml,2021-03-19,1616112000.0
+集群管理系统 Mesos 的设计原理 · NSDI '11,面向信仰编程,https://draveness.me//papers-mesos,https://draveness.me/,https://draveness.me/feed.xml,2021-03-19,1616112000.0
+Go里优雅的使用全局配置,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_18-go_config.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-18,1616025600.0
+【恋爱手记 Vol.1】从友情走向恋情,Luminous' Home,https://luotianyi.vc/5458.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-03-15,1615812674.0
+Golang sync.Map源码分析,Jiajun的编程随想,https://jiajunhuang.com/articles/2021_03_15-go_sync_map.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-15,1615766400.0
+Software Craftsmanship,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210314-software-craftsmanship,https://teobler.com,https://teobler.com/rss.xml,2021-03-14,1615705560.0
+char-dust 一个图片转字符画的 npm 包与示例站点,云游君的小站,https://www.yunyoujun.cn/posts/why-make-char-dust,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-03-14,1615690306.0
+读《蒂姆·库克传》,Randy's Blog,https://lutaonan.com/blog/reading-tim-cook/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-03-14,1615680000.0
+读《蒂姆·库克传》,Randy's Blog,https://lutaonan.com/blog/reading-tim-cook,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-03-14,1615680000.0
+使用 Telegram Bot + Beancount 记账,Yuexun's Blog,https://yuexunjiang.me/blog/use-telegram-bot-and-beancount-for-accounting,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2021-03-13,1615668749.0
+使用 Telegram Bot + Beancount 记账,Ahonn's Blog,https://www.ahonn.me/blog/use-telegram-bot-and-beancount-for-accounting,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2021-03-13,1615668749.0
+使用 Telegram Bot + Beancount 记账,Yuexun's Blog,https://yuexunjiang.me/blog/use-telegram-bot-and-beancount-for-accounting/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-03-13,1615593600.0
+char-dust 一个图片转字符画的 npm 包与示例站点,云游君的小站,https://www.yunyoujun.cn/posts/why-make-char-dust/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-03-12,1615568926.0
+Android滑动时隐藏FAB,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_11-android_fab_hide.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-11,1615420800.0

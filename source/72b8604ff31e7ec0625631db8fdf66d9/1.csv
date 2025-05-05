@@ -1,4 +1,10 @@
 title,author,link,home,rss,date,timestamp
+cron表达式,Yulin Lewis' Blog,https://lewky.cn/posts/cron/,https://lewky.cn/,https://lewky.cn/index.xml,2025-03-06,1741276355.0
+cmd - 常用命令,Yulin Lewis' Blog,https://lewky.cn/posts/cmd-commands/,https://lewky.cn/,https://lewky.cn/index.xml,2025-02-03,1738589319.0
+Eureka问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/eureka-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2025-01-09,1736414960.0
+Excel常见用法,Yulin Lewis' Blog,https://lewky.cn/posts/excel-skill/,https://lewky.cn/,https://lewky.cn/index.xml,2024-12-16,1734361462.0
+shell脚本常用语法,Yulin Lewis' Blog,https://lewky.cn/posts/shell/,https://lewky.cn/,https://lewky.cn/index.xml,2024-11-24,1732464592.0
+Linux常用命令,Yulin Lewis' Blog,https://lewky.cn/posts/linux-commands/,https://lewky.cn/,https://lewky.cn/index.xml,2024-10-13,1728826119.0
 别了，向晚,Yulin Lewis' Blog,https://lewky.cn/posts/asoul-ava/,https://lewky.cn/,https://lewky.cn/index.xml,2024-04-19,1713541887.0
 必胜客自助餐,Yulin Lewis' Blog,https://lewky.cn/posts/bishengke/,https://lewky.cn/,https://lewky.cn/index.xml,2024-03-24,1711255350.0
 Prometheus简易入门,Yulin Lewis' Blog,https://lewky.cn/posts/prometheus-start/,https://lewky.cn/,https://lewky.cn/index.xml,2023-11-06,1699283598.0
@@ -43,9 +49,3 @@ iReport问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/ireport-issues/,htt
 Log4j、Log4j2问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/log4j2-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-07,1628349834.0
 IDEA问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/idea-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-06,1628260917.0
 博客园SimpleMemory皮肤定制化,Yulin Lewis' Blog,https://lewky.cn/posts/cnblogs-skin/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-05,1628174657.0
-npm问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/npm-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-04,1628088699.0
-Maven问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/maven-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-07-29,1627571996.0
-Swagger问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/swagger-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-07-09,1625845748.0
-Java - 数据结构之树,Yulin Lewis' Blog,https://lewky.cn/posts/java-tree.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-06-01,1622561442.0
-Hexo系列(2.1) - NexT主题美化与博客功能增强 · 第二章,Yulin Lewis' Blog,https://lewky.cn/posts/hexo-2.1.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-05-29,1622302644.0
-Hugo系列(3.2) - LoveIt主题美化与博客功能增强 · 第三章,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-3.2.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-05-29,1622268676.0

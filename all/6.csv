@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-温州：湿漉漉和糯叽叽,Macin,https://macin.org/2023/12/18/wen-zhou/,https://macin.org/,https://www.macin.org/atom.xml,2023-12-18,1702941783.0
-“博客教”形式宗与质料宗的相爱相杀特别报道,非理勿试,https://www.ntiy.com/2043.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-12-17,1702824003.0
-VueJS 总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_12_17-vue3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-12-17,1702771200.0
-Fedora Docker 自动关闭的问题,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/772/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-12-15,1702683537.0
-ZFS Profiling on Arch Linux,Bin Wang - My Personal Blog,https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-12-14,1702530000.0
-离散状态观测器设计与仿真,辛未羊的网络日志,https://panqiincs.me/2023/12/07/discrete-observer-design/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-12-07,1701926022.0
-【随笔】自动化油价推送：GitHub Actions 实战,框架師,https://www.mobaijun.com/posts/2512902170.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-12-05,1701747045.0
-Linux 自动挂载 alist 提供的webdav,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_29-alist_webdav.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-29,1701216000.0
-Introduce K3s， CephFS and MetalLB to My High Avaliable Cluster,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-28-Introduce-K3s-CephFS-and-MetalLB-to-My-High-Avaliable-Cluster.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-28,1701147600.0
-Nodejs 对接 TSCLIB,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/771/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-11-27,1701117226.0
-倒立摆的状态观测器设计与仿真,辛未羊的网络日志,https://panqiincs.me/2023/11/26/pendulum-state-observer/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-11-26,1700998429.0
-Linux生成自定义名称的ssh证书,cywhat's blog,https://cywhat.cn/Linux%E7%94%9F%E6%88%90%E8%87%AA%E5%AE%9A%E4%B9%89%E5%90%8D%E7%A7%B0%E7%9A%84ssh%E8%AF%81%E4%B9%A6/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-11-22,1700634496.0
-【杂谈】记一次Agilent 7900 ICP-MS电源维修小记,Luminous' Home,https://luotianyi.vc/7723.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-11-19,1700395249.0
-11月小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/42580/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-11-17,1700257804.0
-FreeBSD 使用 vm-bhyve 安装Debian虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_17-freebsd_vm_bhyve.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-17,1700179200.0
-FreeBSD 和 Linux 网卡聚合实现提速,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_16-freebsd_linux_link_aggr.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-16,1700092800.0
-GPT 帮我搞定了时区转换问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_15-python_datetime_with_timezone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-15,1700006400.0
-Update on RSS Brain to Find Related Articles with Machine Learning,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-14-Update-On-RSS-Brain-to-Find-Related-Articles-with-Machine-Learning.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-14,1699938000.0
-长任务系统如何处理？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_12-long_running_task.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-12,1699747200.0
-macOS/Linux 编译 InputLeap,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_11-input_leap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-11,1699660800.0
-Add Index Sidebar to My Blog,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-10-Index-Sidebar-on-My-Blog.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-10,1699592400.0
-使用开源软KVM - synergy-core,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_10-synergy_core.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-10,1699574400.0
-倒立摆的状态反馈控制仿真,辛未羊的网络日志,https://panqiincs.me/2023/11/09/pendulum-control-design/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-11-09,1699515553.0
-Prometheus简易入门,Yulin Lewis' Blog,https://lewky.cn/posts/prometheus-start/,https://lewky.cn/,https://lewky.cn/index.xml,2023-11-06,1699283598.0
-解决 macOS 终端hostname一直变化问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_06-mac_keep_hostname.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-06,1699228800.0
-KVM 共享 Intel 集成显卡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_05-kvm_windows_intel_gpu.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-05,1699142400.0
-How to Cleanup Ceph Filesystem for Deleted Kubernetes Persistent Volume,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-04-How-to-Cleanup-Ceph-Filesystem-for-Deleted-Kubernetes-Persistent-Volume.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-04,1699070400.0
-关于笔记软件的一些想法,非理勿试,https://www.ntiy.com/2019.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-10-31,1698733800.0
-【UptimeKuma】基于腾讯云轻量搭建开源的云监控&云拨测工具,Luminous' Home,https://luotianyi.vc/7652.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-10-27,1698395035.0
-Linux Full Disk Encryption with Yubikey,Bin Wang - My Personal Blog,https://www.binwang.me/2023-10-22-Full-Disk-Encryption-with-Yubikey.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-10-22,1697947200.0
-“生日快乐”是祝福还是安慰？,非理勿试,https://www.ntiy.com/2009.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-10-20,1697770318.0
-设置 VirtualBox 虚拟机为静态 ip 以方便主机访问,无妄当自持,https://www.insidentally.com/articles/000035/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2023-10-19,1697704468.0
-PromQL 备忘,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_10_17-prometheus_promql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-10-17,1697500800.0
-聊聊最近,醉里博客,https://202271.xyz/post/50555/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-10-16,1697467527.0
-Hexo 主题开发 hexo-theme-imba97 —— 第零篇,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/770/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-10-14,1697300308.0
-2023年国庆游高中母校,辛未羊的网络日志,https://panqiincs.me/2023/10/09/guimao-huanggao-compus/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-10-09,1696854217.0
-Kong Gateway OSS 官方管理界面 Kong Manager 开源啦！🦍,把酒诗代码，趁乱写年华。,https://102no.com/2023/10/09/kong-manager-oss/,https://102no.com/,https://102no.com/atom.xml,2023-10-08,1696780800.0
-我是傻逼,非理勿试,https://www.ntiy.com/2005.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-10-06,1696571503.0
-九月二三事,星空故事·魔法小屋,https://blog.sinzmise.top/posts/56467/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-10-04,1696440346.0
-註冊郵箱攻擊,Just lepture,https://lepture.com/zh/2023/signup-attack,https://lepture.com/,https://lepture.com/feed.xml,2023-10-01,1696155579.0
-A Boring JVM Memory Profiling Story,Bin Wang - My Personal Blog,https://www.binwang.me/2023-09-30-A-Boring-JVM-Memory-Profiling-Story.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-09-30,1696046400.0
-【装机小记】AMD锐龙7000系令人费解的内存问题,Luminous' Home,https://luotianyi.vc/7622.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-09-30,1696043871.0
-知乎2023中秋月饼礼盒开箱！🥮,把酒诗代码，趁乱写年华。,https://102no.com/2023/09/26/zhihu-zhongqiu/,https://102no.com/,https://102no.com/atom.xml,2023-09-25,1695657600.0
-Jekyll Plugin to Load Asciinema Recordings Locally,Bin Wang - My Personal Blog,https://www.binwang.me/2023-09-24-Jekyll-Plugin-to-Load-Asciicast-Locally.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-09-24,1695528000.0
-Migrate Scala2grpc to Cats Effect 3,Bin Wang - My Personal Blog,https://www.binwang.me/2023-09-23-Migrate-Scala2Grpc-to-Cats-Effect-3.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-09-23,1695441600.0
-便利店的一元——回忆之8,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/mem-8.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2023-09-05,1693929720.0
-轮胎作玩具，铁环的消失——回忆之6～7,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/mem-6-to-7.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2023-09-05,1693929600.0
-盐——回忆之5,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/mem-5.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2023-09-05,1693929510.0
-FM广播、站起来及汶川地震——回忆之1～4,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/mem-1-to-4.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2023-09-05,1693929420.0
-如果你觉得不开心的话，就来听一下这些纯音乐吧,星空故事·魔法小屋,https://blog.sinzmise.top/posts/54386/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-09-01,1693603381.0
+SBT Task to Build Frontend Components,Bin Wang - My Personal Blog,https://www.binwang.me/2024-09-13-SBT-Task-to-Build-Frontend-Components.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-09-13,1726200000.0
+C++闭包二,Bing's Blog,https://imcbc.cn/202409/cpp-closure2/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-09-11,1726035869.0
+再读《程序员修炼之道-从小工到专家》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_07-the_pragmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-07,1725667200.0
+再读《软件随想录》/《黑客与画家》/《软技能》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_06-reread_3_books.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-06,1725580800.0
+Roundcube Webmail 安装教程,Frank笔记,https://frank2019.me/archives/roundcubeqian-duan-an-zhuang-ji-lu,https://frank2019.me,https://frank2019.me/rss.xml,2024-09-05,1725512583.0
+两则魔怔新闻,Frank笔记,https://frank2019.me/archives/liang-ze-xin-wen,https://frank2019.me,https://frank2019.me/rss.xml,2024-08-30,1725038260.0
+HTTP 压力测试中的 Coordinated Omission,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_08_30-http_load_testing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-08-30,1724976000.0
+KubeCon China 2024 之旅,This Cute World,https://thiscute.world/posts/kubecon-china-2024/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2024-08-27,1724724622.0
+Kong 3.7重磅上线！Kong AI Gateway 正式 GA！🦍,把酒诗代码，趁乱写年华。,https://102no.com/2024/08/27/kong-3.7/,https://102no.com/,https://102no.com/atom.xml,2024-08-26,1724688000.0
+Windows 聚焦隐藏“了解此图片”图标,岚天小窝,https://blog.ltya.top/posts/spotlightMgr.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2024-08-22,1724342400.0
+使用Uptimeflare监控网站,cmWeblog,https://muidar.com/posts/cmuidar/monitor-websites-with-uptimeflare/,https://muidar.com,https://muidar.com/feed,2024-08-21,1724249822.0
+久违的暑假,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/787/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-08-16,1723815713.0
+乐子哥老翟,瓦解的生活记事,https://hin.cool/posts/lezigelaozhai.html,https://hin.cool/,https://hin.cool/atom.xml,2024-08-14,1723656600.0
+轻量级参数解析库-tiny_cmdline,Bing's Blog,https://imcbc.cn/202408/about_tiny_summary/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-08-13,1723549535.0
+服务器操作系统安全加固项,杜老师说,https://dusays.com/737/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-12,1723478400.0
+一个经典的fastjson反序列化问题记录,Nicksxs's Blog,https://nicksxs.me/2024/08/11/%E4%B8%80%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84fastjson%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-08-11,1723374595.0
+「代码艺术家」不会被 AI 取代,Randy's Blog,https://lutaonan.com/blog/code-artists/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-08-10,1723248000.0
+「代码艺术家」不会被 AI 取代,Randy's Blog,https://lutaonan.com/blog/code-artists,https://lutaonan.com,https://lutaonan.com/rss.xml,2024-08-10,1723248000.0
+Nginx 可视化编辑工具 nginxWebUI 安装和使用,杜老师说,https://dusays.com/736/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-09,1723219200.0
+My MacOS Essentials,Bin Wang - My Personal Blog,https://www.binwang.me/2024-08-07-My-MacOS-Essentials.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-08-07,1723003200.0
+Nginx 可视化编辑工具 Nginx UI 安装和使用,杜老师说,https://dusays.com/735/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-06,1722960000.0
+PIVOT Vol.7,Another Dayu,https://anotherdayu.com/2024/5845/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-08-06,1722932202.0
+别揍了，别揍了，我服了,Luminous' Home,https://luotianyi.vc/8366.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-08-06,1722908298.0
+手机端没有好用又安全的输入法,瓦解的生活记事,https://hin.cool/posts/badgboard.html,https://hin.cool/,https://hin.cool/atom.xml,2024-08-06,1722904200.0
+【随笔】如何通过覆盖源码类解决 ServiceUtils 类的 NullPointerException 错误,框架師,https://www.mobaijun.com/posts/474240225.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-08-05,1722880748.0
+使用milvus和towhee实现简陋版的以图搜图,Nicksxs's Blog,https://nicksxs.me/2024/08/04/%E4%BD%BF%E7%94%A8milvus%E5%92%8Ctowhee%E5%AE%9E%E7%8E%B0%E7%AE%80%E9%99%8B%E7%89%88%E7%9A%84%E4%BB%A5%E5%9B%BE%E6%90%9C%E5%9B%BE/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-08-04,1722764954.0
+通过 Gitea 部署 Hexo 教程,杜老师说,https://dusays.com/734/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-03,1722700800.0
+八月,醉里博客,https://202271.xyz/post/24179/,https://202271.xyz/,https://202271.xyz/atom.xml,2024-08-02,1722629848.0
+真·彩虹猫加载动画,星空故事·魔法小屋,https://blog.sinzmise.top/posts/46640/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-08-02,1722618748.0
+读《营销笔记和卖货真相》,Andy Stewart,//manateelazycat.github.io/2024/08/02/reading-marketing-notes/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-08-02,1722556800.0
+持证上网,Frank笔记,https://frank2019.me/archives/chi-zheng-shang-wang,https://frank2019.me,https://frank2019.me/rss.xml,2024-08-01,1722547413.0
+C++标签派发技术,Bing's Blog,https://imcbc.cn/202408/cpp_tag_dispatch/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-08-01,1722500782.0
+【转载】如何把人变成恶魔,Frank笔记,https://frank2019.me/archives/zhuan-zai-ru-he-ba-ren-bian-cheng-e-mo-ya-sha-long,https://frank2019.me,https://frank2019.me/rss.xml,2024-07-31,1722451342.0
+通过 PicList 客户端工具对接去不图床,杜老师说,https://dusays.com/733/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-31,1722441600.0
+2024-07小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/15799/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-07-30,1722379339.0
+Nuxt Docker 自动化,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/786/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-07-30,1722337883.0
+栈buffer对比堆buffer,Bing's Blog,https://imcbc.cn/202407/stack_vs_heap_buffer/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-07-29,1722260539.0
+如何借助 Cloudflare 自建 NPM 镜像教程,杜老师说,https://dusays.com/732/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-28,1722182400.0
+尝试下图片向量化,Nicksxs's Blog,https://nicksxs.me/2024/07/28/%E5%B0%9D%E8%AF%95%E4%B8%8B%E5%9B%BE%E7%89%87%E5%90%91%E9%87%8F%E5%8C%96/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-07-28,1722156063.0
+Source Code of RSS Brain is Available,Bin Wang - My Personal Blog,https://www.binwang.me/2024-07-27-Source-Code-of-RSS-Brain-Is-Available.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-07-27,1722052800.0
+如何借助 Vercel 自建 NPM 镜像教程,杜老师说,https://dusays.com/731/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-25,1721923200.0
+谜 梦,瓦解的生活记事,https://hin.cool/posts/mimeng.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-07-25,1721877000.0
+【随笔】浏览器中的 preview 和 response 的值不一致,框架師,https://www.mobaijun.com/posts/461257689.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-07-24,1721842776.0
+2的补码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_07_24-twos_complement.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-07-24,1721779200.0
+杜老师说稿件征集,杜老师说,https://dusays.com/730/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-22,1721664000.0
+向量数据库 Milvus 安装初体验,Nicksxs's Blog,https://nicksxs.me/2024/07/21/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93-Milvus-%E5%AE%89%E8%A3%85%E5%88%9D%E4%BD%93%E9%AA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-07-21,1721563631.0
+编程语言中的 context 是什么？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_07_21-context.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-07-21,1721520000.0
+订阅制搜索引擎: Kagi,Another Dayu,https://anotherdayu.com/2024/5837/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-07-20,1721492476.0
+Kagi 使用技巧,Another Dayu,https://anotherdayu.com/2024/5834/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-07-20,1721490477.0
+索尼 NW-A55 第三方固件刷机教程,杜老师说,https://dusays.com/729/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-19,1721404800.0
