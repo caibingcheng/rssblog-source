@@ -36,8 +36,8 @@ def fetch_source(rss_fetch_source_dir, rss):
         try:
             content = requests.get(r, timeout=10.0).content
             rp = feedparser.parse(BytesIO(content))
-        except:
-            print("parse", r, "error")
+        except Exception as e:
+            print("parse", r, "error", e)
             return
 
         print("parse", r)
@@ -77,13 +77,16 @@ def fetch_source(rss_fetch_source_dir, rss):
             return
         df.to_csv(rss_dir + "new.csv", index=False, sep=",", encoding="utf-8")
 
-    pool = ThreadPoolExecutor(max_workers=10)
-    futures = []
-    for r in rss:
-        futures.append(pool.submit(parse_rss, r))
+    # pool = ThreadPoolExecutor(max_workers=10)
+    # futures = []
+    # for r in rss:
+    #     futures.append(pool.submit(parse_rss, r))
 
-    for future in futures:
-        future.result()
+    # for future in futures:
+    #     future.result()
+
+    for r in rss:
+        parse_rss(r)
 
     print("fetch new rss done")
 
