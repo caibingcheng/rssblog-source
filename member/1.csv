@@ -1,8 +1,11 @@
 title,author,link,home,rss,date,timestamp
+KVM 穿透板载蓝牙和无线网卡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_05_05-kvm_passthrough_bluetooth_wireless.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-05-05,1746403200.0
 简单介绍下mcp是什么,Nicksxs's Blog,https://nicksxs.me/2025/05/04/%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D%E4%B8%8Bmcp%E6%98%AF%E4%BB%80%E4%B9%88/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-05-04,1746367017.0
 喝酒可以修疑难杂症是什么原理？,Andy Stewart,//manateelazycat.github.io/2025/05/04/drink-code/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-03,1746288000.0
+资源收集（持续更新）,菲兹克斯喵,https://physnya.top/posts/bnw31l0t/,https://physnya.top/,https://physnya.top/atom.xml,2025-05-03,1746266663.0
 没能走进心里的桃花源,瓦解的生活记事,https://hin.cool/posts/travel2youyang.html,https://hin.cool/,https://hin.cool/atom.xml,2025-05-02,1746199980.0
 协和4+4，谁在践踏公平的最后防线？,Frank笔记,https://frank2019.me/archives/xie-he-4-4-huang-dan-de,https://frank2019.me,https://frank2019.me/rss.xml,2025-05-01,1746121218.0
+花开有时，落有时，当谢了，就不必再灌溉了,谋生者 I Create Life,https://www.icl.site/17459968883669.html,https://www.icl.site/,https://www.icl.site/atom.xml,2025-04-30,1745996888.0
 合肥游记「多图预警」,杜老师说,https://dusays.com/824/,https://dusays.com/,https://dusays.com/atom.xml,2025-04-29,1745942400.0
 Use OpenAPI Instead of MCP for LLM Tools,Bin Wang - My Personal Blog,https://www.binwang.me/2025-04-27-Use-OpenAPI-Instead-of-MCP-for-LLM-Tools.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2025-04-27,1745726400.0
 让 HR 直接跟我的 AI 聊,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/801/,https://imba97.cn/,https://imba97.cn/atom.xml,2025-04-26,1745700018.0
@@ -11,7 +14,6 @@ MarsCode算法题(6-10),DearXuan的主页,https://blog.dearxuan.com/2025/04/27/M
 生成文章摘要,Bing's Blog,https://imcbc.cn/202504/summary-by-ai/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2025-04-25,1745548251.0
 【随笔】解决 dynamic-datasource 2.5.6 与 Spring Boot 2.7.7 不兼容问题,框架師,https://www.mobaijun.com/posts/1479088608.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-04-14,1744626416.0
 现代浏览器插件开发指南,Randy's Blog,https://lutaonan.com/blog/browser-extension-development-guide,https://lutaonan.com,https://lutaonan.com/rss.xml,2025-04-09,1744156800.0
-CockroachDB Serverless Architecture,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_04_03-cockroachdb_serverless_architecture.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-04-03,1743638400.0
 砂锅糊饽🥘,把酒诗代码，趁乱写年华。,https://102no.com/2025/04/01/sha-guo-hu-bo/,https://102no.com/,https://102no.com/atom.xml,2025-03-31,1743436800.0
 【LHCOS】腾讯云200M锐驰轻量实例手动挂载免费轻量对象存储,Luminous' Home,https://luotianyi.vc/8869.html,https://luotianyi.vc,https://luotianyi.vc/feed,2025-03-26,1742966772.0
 CSSWAF: Browser Detection Using CSS (No JavaScript Needed),yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/csswaf.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2025-03-24,1742815560.0
@@ -47,5 +49,3 @@ Jenkins+Gitee持续集成,Barney's Blog,https://hugo.bnblogs.cc/jenkins-gitee%E6
 以星辰为名，以黑暗为姓,Muidar's Site,https://www.muidar.com/posts/cmuidar/siriusblack/,https://www.muidar.com,https://muidar.com/feed,2023-05-14,1684059269.0
 HMailServer配置SSL/TLS（避坑）,Thrower的博客,https://thrower.cc/2023/hmailserverssl/,https://thrower.cc,https://thrower.cc/feed/,2023-02-07,1675781935.0
 在宝塔面板中使用frp内网穿透,Peter's Blog,https://www.rainogo.com/posts/frp_btpanel.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2023-01-16,1673839320.0
-本博客已停止更新,SinGO博客,https://blog.xsnet.eu.org/posts/11275/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2023-01-13,1673598386.0
-个人建站的经历——域名篇,岚天小窝,http://blog.ltya.top/posts/personalexp-domain.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-01-10,1673366400.0

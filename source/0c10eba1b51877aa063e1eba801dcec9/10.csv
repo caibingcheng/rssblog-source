@@ -1,8 +1,9 @@
 title,author,link,home,rss,date,timestamp
+Python字符串格式化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_04_16-python_string_format.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-16,1492300800.0
 Gunicorn 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_04_08-gunicorn.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-08,1491609600.0
 Raft 论文阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_29-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-29,1490745600.0
 什么是 Golang Comparable Types,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_06-golang_comparable_types.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-06,1488758400.0
-MapReduce 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_02-map_reduce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
+GFS 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_02-gfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 一起来做贼：Goroutine原理和Work stealing,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
 Go语言的defer， panic和recover,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_15-go_defer_panic_and_recover.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-15,1487116800.0
 再读vim help：vim小技巧,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_24-vim_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
@@ -48,4 +49,3 @@ Thinking Recursively,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015
 Block I/O,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_06_22-notes_on_linux_kernel_development_chap14.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-06-22,1434931200.0
 如何解读c的声明,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_03_17-declaration_of_c_pointers.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-03-17,1426550400.0
 关于输入法的猜想,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_01_11-my_guess_about_input_method.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-01-11,1420934400.0
-C语言与抽象思维,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_12_12-abstractions_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-12-12,1418342400.0
