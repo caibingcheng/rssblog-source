@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+github个人主页的创建方法,DearXuan的主页,https://blog.dearxuan.com/2021/08/22/github%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E7%9A%84%E5%88%9B%E5%BB%BA%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-22,1629623940.0
 selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary,cywhat's blog,https://cywhat.cn/selenium-common-exceptions-WebDriverException-Message-unknown-error-cannot-find-Chrome-binary/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-20,1629480201.0
 Centos7安装chrome浏览器,cywhat's blog,https://cywhat.cn/Centos7%E5%AE%89%E8%A3%85chrome%E6%B5%8F%E8%A7%88%E5%99%A8/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-20,1629479325.0
 libvulkan.so.1()(64bit)缺少依赖,cywhat's blog,https://cywhat.cn/libvulkan-so-1-64bit-%E7%BC%BA%E5%B0%91%E4%BE%9D%E8%B5%96/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-08-20,1629479084.0
@@ -29,8 +30,8 @@ iReport问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/ireport-issues/,htt
 【日常分享】境来不拒，境去不留,城南以南花亦开,https://coonaa.cn/index.php/archives/36/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-08,1628416020.0
 我的世界 1.17 版资源分享,杜老师说,https://dusays.com/370/,https://dusays.com/,https://dusays.com/atom.xml,2021-08-07,1628352000.0
 Log4j、Log4j2问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/log4j2-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-07,1628349834.0
-Wallpaper透视效果的C++实现,DearXuan的主页,https://blog.dearxuan.com/2021/08/07/Wallpaper%E9%80%8F%E8%A7%86%E6%95%88%E6%9E%9C%E7%9A%84C-%E5%AE%9E%E7%8E%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-07,1628344440.0
 Wallpaper透视效果的C++实现,DearXuan的主页,https://dearxuan.top/2021/08/07/Wallpaper%E9%80%8F%E8%A7%86%E6%95%88%E6%9E%9C%E7%9A%84C-%E5%AE%9E%E7%8E%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-08-07,1628344440.0
+Wallpaper透视效果的C++实现,DearXuan的主页,https://blog.dearxuan.com/2021/08/07/Wallpaper%E9%80%8F%E8%A7%86%E6%95%88%E6%9E%9C%E7%9A%84C-%E5%AE%9E%E7%8E%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-08-07,1628344440.0
 IDEA问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/idea-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-06,1628260917.0
 【技术分享】C语言实现简单的Web服务器,城南以南花亦开,https://coonaa.cn/index.php/archives/29/,https://coonaa.cn/,https://coonaa.cn/index.php/feed,2021-08-06,1628215200.0
 博客园SimpleMemory皮肤定制化,Yulin Lewis' Blog,https://lewky.cn/posts/cnblogs-skin/,https://lewky.cn/,https://lewky.cn/index.xml,2021-08-05,1628174657.0
@@ -44,8 +45,7 @@ vim入门,Barney's Blog,https://hugo.bnblogs.cc/vim%E5%9F%BA%E7%A1%80%E6%93%8D%E
 猫盘群晖DSM7.0三合一修复（8.18更新）,LonelyGod,https://hin.cool/posts/catdriver.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-07-30,1627603200.0
 安全组和 IPTABLES 的选择,杜老师说,https://dusays.com/367/,https://dusays.com/,https://dusays.com/atom.xml,2021-07-29,1627574400.0
 Maven问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/maven-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2021-07-29,1627571996.0
-使用C++实现的仿Wallpaper动态壁纸软件(含源文件),DearXuan的主页,https://dearxuan.top/2021/07/28/%E4%BD%BF%E7%94%A8C-%E5%AE%9E%E7%8E%B0%E7%9A%84%E4%BB%BFWallpaper%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%E8%BD%AF%E4%BB%B6/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-28,1627465560.0
 使用C++实现的仿Wallpaper动态壁纸软件(含源文件),DearXuan的主页,https://blog.dearxuan.com/2021/07/28/%E4%BD%BF%E7%94%A8C-%E5%AE%9E%E7%8E%B0%E7%9A%84%E4%BB%BFWallpaper%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%E8%BD%AF%E4%BB%B6/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-07-28,1627465560.0
-猫盘群晖DSM7.0的frpc配置,LonelyGod,https://hin.cool/posts/nasfrpc2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-07-28,1627430400.0
+使用C++实现的仿Wallpaper动态壁纸软件(含源文件),DearXuan的主页,https://dearxuan.top/2021/07/28/%E4%BD%BF%E7%94%A8C-%E5%AE%9E%E7%8E%B0%E7%9A%84%E4%BB%BFWallpaper%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%E8%BD%AF%E4%BB%B6/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-28,1627465560.0
 猫盘群晖DSM7.0的frpc配置,瓦解的生活记事,https://www.hin.cool/posts/nasfrpc2.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-07-28,1627430400.0
-Wallpaper的原理和C#实现(含源文件),DearXuan的主页,https://dearxuan.top/2021/07/27/Wallpaper%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8CC-%E5%AE%9E%E7%8E%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-07-27,1627358940.0
+猫盘群晖DSM7.0的frpc配置,LonelyGod,https://hin.cool/posts/nasfrpc2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-07-28,1627430400.0
