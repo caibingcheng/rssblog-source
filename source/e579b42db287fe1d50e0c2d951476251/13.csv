@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Redis 持久化及主从复制对过期键的处理,杜老师说,https://dusays.com/225/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-26,1590508800.0
 过期键的删除,杜老师说,https://dusays.com/224/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-23,1590249600.0
 过期键的设置、获取、删除过期时间,杜老师说,https://dusays.com/223/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-20,1589990400.0
 AOF 持久化的配置和原理,杜老师说,https://dusays.com/222/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-17,1589731200.0
@@ -48,4 +49,3 @@ Linux 下 8 种查 xfs 等文件系统类型的实用方法总结,杜老师说,h
 愿你不要成为运维讲师,杜老师说,https://dusays.com/178/,https://dusays.com/,https://dusays.com/atom.xml,2020-01-06,1578326400.0
 TCP 的四次挥手,杜老师说,https://dusays.com/177/,https://dusays.com/,https://dusays.com/atom.xml,2020-01-03,1578067200.0
 杜老师说 macOS 官方版,杜老师说,https://dusays.com/176/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-31,1577808000.0
-爱奇艺周会员 N+17 期,杜老师说,https://dusays.com/175/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-30,1577721600.0
