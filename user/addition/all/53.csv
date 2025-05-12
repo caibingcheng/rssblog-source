@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+httprouter源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_09-httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-09,1588982400.0
+《程序员的自我修养-装载、链接与库》笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_08-linker_and_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-08,1588896000.0
 【Hexo】hexo博客valine评论优化,框架師,https://www.mobaijun.com/posts/3474678254.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-07,1588830105.0
 【随笔】中国疫情地图和全球疫情地图组件，一句话调用,框架師,https://www.mobaijun.com/posts/2761809874.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-07,1588816805.0
 【Java基础】java-[Serializable复习],框架師,https://www.mobaijun.com/posts/98857262.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-06,1588749396.0
@@ -47,5 +49,3 @@ DeepL | 从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工�
 【转载】世界不应该是这样的,Frank笔记,https://frank2019.me/archives/zhuan-zai-shi-jie-bu-ying-gai-shi-zhe-yang-de,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-08,1586377380.0
 关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
 解决k8s cron无法读取环境变量的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
-VPS 手动在线一键重装系统脚本整理,ChrAlpha,https://blog.ichr.me/post/scripts-for-reinstalling-linux-vps/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-06,1586171300.0
-人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/posts/life-is-not-a-marathon,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1586012398.0
