@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
 在 Electron 中使用 SQLite 的最好方式,Randy's Blog,https://lutaonan.com/blog/electron-sqlite/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-04-22,1713744000.0
+在 Electron 中使用 SQLite 的最好方式,Randy's Blog,https://lutaonan.com/blog/electron-sqlite,https://lutaonan.com,https://lutaonan.com/rss.xml,2024-04-22,1713744000.0
 【近期概况】一年一度的降权，是在催更么？,Luminous' Home,https://luotianyi.vc/8114.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-04-21,1713712522.0
 学习下LlamaIndex-初始篇,Nicksxs's Blog,https://nicksxs.me/2024/04/21/%E5%AD%A6%E4%B9%A0%E4%B8%8BLlamaIndex-%E5%88%9D%E5%A7%8B%E7%AF%87/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-04-21,1713708056.0
 ChatGPT、Transformer 与注意力机制,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20240421-chatgpt-attention-and-transformer,https://teobler.com,https://teobler.com/rss.xml,2024-04-21,1713677123.0
@@ -48,4 +49,3 @@ OPENWRT断流问题得以解决,瓦解的生活记事,https://hin.cool/posts/opd
 不同DNS服务商分区解析,Muidar's Site,https://muidar.com/posts/cmuidar/geographical-dns/,https://muidar.com,https://muidar.com/feed,2024-03-10,1710072004.0
 LM Studio: 在 Obsidian 中使用本地 LLM,Another Dayu,https://anotherdayu.com/2024/5646/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-03-10,1710048877.0
 Minimalistic Obsidian Setup,Another Dayu,https://anotherdayu.com/2024/5640/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-03-10,1710042794.0
-Golang CAS 操作是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_10-golang_cas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-10,1710028800.0

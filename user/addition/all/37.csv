@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【工具系列】Idea 远程调试服务器 Jar 包,框架師,https://www.mobaijun.com/posts/55789149.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-13,1649846866.0
 我的每日私人成长暗器,冰哥笔记,https://www.bgbiji.com/909.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-12,1649768995.0
 使用PostgreSQL做搜索引擎,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_04_12-postgresql_fulltext_search.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-12,1649721600.0
 当写文章没有任何规划时……,冰哥笔记,https://www.bgbiji.com/908.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-04-11,1649667727.0
@@ -47,5 +48,4 @@ Nginx 源码阅读（一）: 启动流程,Jiajun的技术笔记,https://jiajunhu
 Kubernetes、集群联邦和资源分发,面向信仰编程,https://draven.co//kuberentes-federation,https://draven.co/,https://draveness.me/feed.xml,2022-03-19,1647648000.0
 Kubernetes、集群联邦和资源分发,面向信仰编程,https://draveness.me//kuberentes-federation,https://draveness.me/,https://draveness.me/feed.xml,2022-03-19,1647648000.0
 被疫情严重影响的这两天,非理勿试,https://www.ntiy.com/1735.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-18,1647609201.0
-Hg hooks 实践历程,4Ark × Blog,https://4ark.me/post/hg-hooks.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-17,1647475200.0
 Go 泛型简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_17-go_generics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-17,1647475200.0
