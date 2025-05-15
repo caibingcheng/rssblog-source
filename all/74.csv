@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+一月总结,4Ark × Blog,https://4ark.me/post/c0e3674b.html,https://4ark.me/,https://4ark.me/rss.xml,2021-02-10,1612958527.0
+常见 Web 引擎的反向代理配置参考,杜老师说,https://dusays.com/311/,https://dusays.com/,https://dusays.com/atom.xml,2021-02-09,1612886400.0
+报任少卿书,4Ark × Blog,https://4ark.me/posts/bao-ren-shao-qing-shu.html,https://4ark.me/,https://4ark.me/rss.xml,2021-02-08,1612785727.0
 Agile Three Business Practice,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210207-agile-three-business-practice,https://teobler.com,https://teobler.com/rss.xml,2021-02-07,1612697820.0
 CentOS8 升级 Stream,杜老师说,https://dusays.com/310/,https://dusays.com/,https://dusays.com/atom.xml,2021-02-06,1612627200.0
 【WGCF】连接CF WARP为服务器添加IPv4/IPv6网络,Luminous’ Home,https://luotianyi.vc/5252.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-02-06,1612594613.0
@@ -11,21 +14,21 @@ Ubuntu 20.04 LTS 升级 20.10,杜老师说,https://dusays.com/309/,https://dusay
 随机壁纸API整理,沐云湘夕—求索,https://quest.myxxts.club/archives/54/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2021-02-03,1612358760.0
 使用 Docker 部署 FreshRSS 自建专属 RSS 服务,ChrAlpha,https://blog.ichr.me/post/docker-freshrss-setup/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2021-02-02,1612284492.0
 【前端系列】Node.js更换国内源,框架師,https://www.mobaijun.com/posts/3059858801.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-02-02,1612254603.0
-为什么 OLAP 需要列式存储,面向信仰编程,https://draveness.me//whys-the-design-olap-column-oriented,https://draveness.me/,https://draveness.me/feed.xml,2021-02-02,1612224000.0
 为什么 OLAP 需要列式存储,面向信仰编程,https://draven.co//whys-the-design-olap-column-oriented,https://draven.co/,https://draveness.me/feed.xml,2021-02-02,1612224000.0
+为什么 OLAP 需要列式存储,面向信仰编程,https://draveness.me//whys-the-design-olap-column-oriented,https://draveness.me/,https://draveness.me/feed.xml,2021-02-02,1612224000.0
 Agile Business Practice Planning Games,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210201-agile-business-practice-planning-games,https://teobler.com,https://teobler.com/rss.xml,2021-02-01,1612187820.0
 此时此刻的我,This Cute World,https://thiscute.world/now/,https://thiscute.world/,https://thiscute.world/index.xml,2021-02-01,1612160075.0
 在 Windows10 挂载 iSCSI 客户端,杜老师说,https://dusays.com/308/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-31,1612108800.0
 2020年总结,Frank笔记,https://frank2019.me/archives/2020nian-zong-jie,https://frank2019.me/,https://frank2019.me/rss.xml,2021-01-30,1612029660.0
 记一次被网贷催收,非理勿试,https://www.ntiy.com/1515.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-01-30,1611970734.0
-Facebook 集群调度管理系统 · OSDI '20,面向信仰编程,https://draven.co//papers-twine,https://draven.co/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
+数据中心的电力超售 · OSDI '20,面向信仰编程,https://draven.co//papers-thunderbolt,https://draven.co/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
 Facebook 集群调度管理系统 · OSDI '20,面向信仰编程,https://draveness.me//papers-twine,https://draveness.me/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
 数据中心的容错时钟对时 · OSDI '20,面向信仰编程,https://draven.co//papers-sundial,https://draven.co/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
 纳秒级高性能日志系统 · ATC '18,面向信仰编程,https://draveness.me//papers-nanolog,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
 在群晖上创建 iSCSI 服务端,杜老师说,https://dusays.com/307/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-28,1611849600.0
 云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/experience-of-argo-workflows/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
-做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
 做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
+做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
 Android自动展示和关闭进度条,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_27-android_progress_bar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-27,1611705600.0
 【WEB系列】SpringBoot集成Mybatis-Plus,框架師,https://www.mobaijun.com/posts/183863717.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-26,1611655824.0
 My 2020 in Review,Bin Wang - My Personal Blog,https://www.binwang.me/2021-01-26-My-2020-in-Review.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2021-01-26,1611637200.0
@@ -46,6 +49,3 @@ KMS 客户端安装密钥,杜老师说,https://dusays.com/303/,https://dusays.co
 从9元到9000元，我包里常备的十件产品 | EDC,罗磊的独立博客,http://luolei.org/edc-2020/,https://luolei.org/,https://luolei.org/feed/,2021-01-13,1610547892.0
 【WEB系列】SpringBoot实现邮件发送,框架師,https://www.mobaijun.com/posts/265470177.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-13,1610533373.0
 Kotlin/Java 列表Protobuf序列化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_13-kotlin_protobuf_serialization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-13,1610496000.0
-山城步道——半山崖线,无妄当自持,https://www.insidentally.com/articles/000008/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-01-12,1610441748.0
-【随笔】正确的使用搜索引擎,框架師,https://www.mobaijun.com/posts/2845351032.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-11,1610359269.0
-[CloudMare] Android上管理Cloudflare的小工具,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/cloudmare-app.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-01-10,1610298060.0

@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【随笔】Docker 环境下重置 Gitea 管理员密码,框架師,https://www.mobaijun.com/posts/3592973200.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-05-13,1747129378.0
 【随笔】解决 dynamic-datasource 2.5.6 与 Spring Boot 2.7.7 不兼容问题,框架師,https://www.mobaijun.com/posts/1479088608.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-04-14,1744626416.0
 【随笔】Windows Server 2012 安装 SqlServer 踩坑记录,框架師,https://www.mobaijun.com/posts/3825546266.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-03-28,1743157035.0
 【随笔】如何将任意 Java 程序转换为 Linux 系统服务,框架師,https://www.mobaijun.com/posts/761234883.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-03-05,1741193563.0
@@ -48,4 +49,3 @@ title,author,link,home,rss,date,timestamp
 【WEB系列】SpringBootStarter-组件化开发,框架師,https://www.mobaijun.com/posts/1232000011.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-28,1651141156.0
 【后端】MapStruct 使用详解,框架師,https://www.mobaijun.com/posts/239252401.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-20,1650447800.0
 【工具系列】Idea 远程调试服务器 Jar 包,框架師,https://www.mobaijun.com/posts/55789149.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-13,1649846866.0
-【工具系列】服务器搭建一个自用网盘Zpan,框架師,https://www.mobaijun.com/posts/3473890439.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-03-05,1646449823.0

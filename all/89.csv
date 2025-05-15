@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+chage 账号与密码有效期限,杜老师说,https://dusays.com/85/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-01,1569945600.0
+Linux 群组管理员,杜老师说,https://dusays.com/84/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-30,1569859200.0
+权限管理相关命令,杜老师说,https://dusays.com/83/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-29,1569772800.0
 为什么gRPC难以推广,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_29-why_grpc_is_not_popular.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-29,1569715200.0
 TCP 的三次握手,杜老师说,https://dusays.com/82/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-28,1569686400.0
 vi 编辑器操作指南,杜老师说,https://dusays.com/81/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-27,1569600000.0
@@ -10,7 +13,7 @@ MySQL 几种存储引擎的介绍,杜老师说,https://dusays.com/79/,https://du
 MySQL指定使用索引(使用索引提示),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_25-mysql_use_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-25,1569369600.0
 MySQL 主从复制的简介,杜老师说,https://dusays.com/78/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-24,1569340800.0
 PHP 动态模式和静态模式区别,杜老师说,https://dusays.com/77/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-23,1569254400.0
-搭建samba服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-samba.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
+QT5使用GTK主题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-qt5_gtk_theme.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 Linux 运维人员最常用 166 个命令汇总,杜老师说,https://dusays.com/76/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-22,1569168000.0
 IaaS/PaaS/SaaS 的区别,杜老师说,https://dusays.com/75/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-21,1569081600.0
 回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
@@ -46,6 +49,3 @@ BBR+BBR魔改+Lotsever(锐速)一键脚本 for Centos/Debian/Ubuntu,Frank笔记,
 牌局分析：创纪录的超大底池,Frank笔记,https://frank2019.me/archives/pai-ju-fen-xi-chuang-ji-lu-de-chao-da-di-chi,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567571880.0
 Youtube 详细统计信息 详解,Frank笔记,https://frank2019.me/archives/youtube-xiang-xi-tong-ji-xin-xi-xiang-jie,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567571340.0
 提取kindle笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_04-kindle_highlights.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-04,1567555200.0
-OSI 七层模型非专业简介,杜老师说,https://dusays.com/57/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-03,1567526400.0
-最近那点事,Frank笔记,https://frank2019.me/archives/zui-jin-na-dian-shi,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-03,1567484160.0
-翻墙看民族复兴,Frank笔记,https://frank2019.me/archives/fan-qiang-kan-min-zu-fu-xing,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-03,1567483920.0
