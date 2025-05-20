@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Jekyll 定制时区,Andy Stewart,//manateelazycat.github.io/2024/11/03/jekyll-timezone/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-02,1730563200.0
 产品定价、 产异化和供应链,Andy Stewart,//manateelazycat.github.io/2024/11/02/product-question/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-02,1730505600.0
 对抗创业焦虑,Andy Stewart,//manateelazycat.github.io/2024/11/01/fighting-anxiety/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-01,1730419200.0
 创业架构师和工程架构师,Andy Stewart,//manateelazycat.github.io/2024/11/01/framework-for-simple/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-10-31,1730390400.0
@@ -48,4 +49,3 @@ ChatGPT 注册登录最佳实践,Andy Stewart,//manateelazycat.github.io/2024/01
 Dell G16 在 Linux 下设置键盘灯 （逆向）,manateelazycat.github.io,//manateelazycat.github.io/2023/10/25/dell-g16-keyboard-light/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-25,1698192000.0
 基于本地 AI 大模型的 Emacs 翻译插件,manateelazycat.github.io,//manateelazycat.github.io/2023/10/20/use-ollama-as-translator/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-20,1697760000.0
 读《无穷的开始》,manateelazycat.github.io,//manateelazycat.github.io/2023/10/15/reading-the-beginning-of-infinity/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-15,1697328000.0
-lsp-bridge 远程代码补全,manateelazycat.github.io,//manateelazycat.github.io/2023/10/12/lsp-bridge-and-tramp/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-12,1697068800.0

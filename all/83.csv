@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+2020年5月技术导读,萤火之森,http://frankorz.com/2020/05/23/2020-05-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-05-23,1590249935.0
 过期键的删除,杜老师说,https://dusays.com/224/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-23,1590249600.0
 【设计模式】Java设计模式-六大设计原则,框架師,https://www.mobaijun.com/posts/1088545597.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-23,1590199251.0
 Go的slice工作机制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_23-go_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-23,1590192000.0
@@ -13,8 +14,8 @@ Redis是如何工作的？,Jiajun的技术笔记,https://jiajunhuang.com/article
 virsh自动关闭windows虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_18-virsh_shutdown_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-18,1589760000.0
 AOF 持久化的配置和原理,杜老师说,https://dusays.com/222/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-17,1589731200.0
 第三方评论系统之我见,云游君的小站,https://www.yunyoujun.cn/share/third-party-comment-system/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-05-17,1589693440.0
-离开阿里巴巴,Randy's Blog,https://lutaonan.com/blog/leaving-alibaba/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-17,1589673600.0
 离开阿里巴巴,Randy's Blog,https://lutaonan.com/blog/leaving-alibaba,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-05-17,1589673600.0
+离开阿里巴巴,Randy's Blog,https://lutaonan.com/blog/leaving-alibaba/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-17,1589673600.0
 Git学习,qinxs小站,https://7bxing.com/posts/e28ceec1/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605502.0
 hello world,qinxs小站,https://7bxing.com/posts/d4a1185/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605202.0
 Golang sort源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_16-go_sort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-16,1589587200.0
@@ -48,4 +49,3 @@ Golang sync.Pool源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.
 【Java基础】Java-[Arrays，Scanner，Math，RanDom]复习,框架師,https://www.mobaijun.com/posts/3116814990.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-03,1588490135.0
 【Java基础】Java-String类复习笔记,框架師,https://www.mobaijun.com/posts/230577513.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-03,1588486604.0
 [转载]如果一个民族到没有一个人敢出来说真话，这个民族就没有希望----寻找林昭,Frank笔记,https://frank2019.me/archives/zhuan-linzhaojun,https://frank2019.me/,https://frank2019.me/rss.xml,2020-05-02,1588451400.0
-Typlog 三週年,Just lepture,https://lepture.com/zh/2020/3-years-of-typlog,https://lepture.com/,https://lepture.com/feed.xml,2020-05-02,1588438232.0
