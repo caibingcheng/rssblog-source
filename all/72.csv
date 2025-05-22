@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+使用OrLike为博文添加点赞系统,BBing's Blog,https://bbing.com.cn/202105/blog-orlike/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-05-27,1622127530.0
 又拍云—年轻人的第一个 CDN,云游君的小站,https://www.yunyoujun.cn/posts/why-i-use-upyun-cdn/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-05-27,1622122175.0
 [转载]再谈谈这个沉重的话题:程序员的出路,框架师,https://www.mobaijun.com/posts/4100025323.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-05-27,1622105062.0
 Redis源码阅读：RDB是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_27-redis_source_code_7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-27,1622073600.0
@@ -34,8 +35,8 @@ Vercel无法访问带来了哪些影响？,瓦解的生活记事,https://www.hin
 【Azure】微软Azure开启原生IPv6支持,Luminous' Home,https://luotianyi.vc/5607.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-05-14,1621006060.0
 PlantUML - 类图,Yulin Lewis' Blog,https://lewky.cn/posts/plantuml-class-diagram.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-05-14,1620992812.0
 Go 语言实现 2048 游戏,杜老师说,https://dusays.com/341/,https://dusays.com/,https://dusays.com/atom.xml,2021-05-12,1620835200.0
-我给自己设立了每月 $20 的开源捐赠预算,Randy's Blog,https://lutaonan.com/blog/my-oss-donation-budget/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-05-12,1620777600.0
 我给自己设立了每月 $20 的开源捐赠预算,Randy's Blog,https://lutaonan.com/blog/my-oss-donation-budget,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-05-12,1620777600.0
+我给自己设立了每月 $20 的开源捐赠预算,Randy's Blog,https://lutaonan.com/blog/my-oss-donation-budget/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-05-12,1620777600.0
 党史学习笔记,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/740/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-05-11,1620767331.0
 理性发声，坚定爱国,瓦解的生活记事,https://www.hin.cool/posts/weirenminfuwu.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-05-11,1620691200.0
 生命就是社会的底线,Frank笔记,https://frank2019.me/archives/sheng-ming-jiu-shi-she-hui-de-di-xian,https://frank2019.me/,https://frank2019.me/rss.xml,2021-05-09,1620581160.0
@@ -48,4 +49,3 @@ Go 语言实现 2048 游戏「中篇」,杜老师说,https://dusays.com/340/,htt
 勤快一点吧！养成写博客的习惯,近视眼逛博客,https://blog.dtz9.com/2021/05/Get-into-the-habit-of-blogging.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-05-06,1620315000.0
 用 Rust 实现简单的光线追踪,萤火之森,http://frankorz.com/2021/05/05/rust-raytrace/,http://frankorz.com/,https://frankorz.com/atom.xml,2021-05-05,1620175710.0
 如何学习 Linux 呢,杜老师说,https://dusays.com/338/,https://dusays.com/,https://dusays.com/atom.xml,2021-05-03,1620057600.0
-这次 OTA 翻车后，我开始思考退烧这件事,ChrAlpha,https://blog.ichr.me/post/android-calm-down/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2021-05-02,1619980524.0
