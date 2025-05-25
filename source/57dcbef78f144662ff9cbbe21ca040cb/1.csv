@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+介绍个非常好用的工具 pakeplus,Nicksxs's Blog,https://nicksxs.me/2025/05/25/%E4%BB%8B%E7%BB%8D%E4%B8%AA%E9%9D%9E%E5%B8%B8%E5%A5%BD%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7-pakeplus/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-05-25,1748176383.0
 java中arraylist的sort方法的 ConcurrentModificationException 问题,Nicksxs's Blog,https://nicksxs.me/2025/05/18/java%E4%B8%ADarraylist%E7%9A%84sort%E6%96%B9%E6%B3%95%E7%9A%84%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-05-18,1747572994.0
 使用rclone来当临时图床,Nicksxs's Blog,https://nicksxs.me/2025/05/11/%E4%BD%BF%E7%94%A8rclone%E6%9D%A5%E5%BD%93%E4%B8%B4%E6%97%B6%E5%9B%BE%E5%BA%8A/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-05-11,1746970097.0
 简单介绍下mcp是什么,Nicksxs's Blog,https://nicksxs.me/2025/05/04/%E7%AE%80%E5%8D%95%E4%BB%8B%E7%BB%8D%E4%B8%8Bmcp%E6%98%AF%E4%BB%80%E4%B9%88/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-05-04,1746367017.0
@@ -48,4 +49,3 @@ Headscale渐入佳境补充篇-自定义中转derper使用反向代理,Nicksxs's
 向量数据库学习-介绍一下HNSW算法,Nicksxs's Blog,https://nicksxs.me/2024/06/23/%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8BHNSW%E7%AE%97%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-23,1719154250.0
 NX30Pro 刷成 Openwrt-ImmortalWrt 后作为有线中继的配置方法,Nicksxs's Blog,https://nicksxs.me/2024/06/16/NX30Pro-%E5%88%B7%E6%88%90-Openwrt-ImmortalWrt-%E5%90%8E%E4%BD%9C%E4%B8%BA%E6%9C%89%E7%BA%BF%E4%B8%AD%E7%BB%A7%E7%9A%84%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-16,1718549123.0
 向量数据库学习基础之跳表,Nicksxs's Blog,https://nicksxs.me/2024/06/16/%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E4%B9%8B%E8%B7%B3%E8%A1%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-16,1718548237.0
-给局域网中的Ubuntu固定下ip,Nicksxs's Blog,https://nicksxs.me/2024/06/02/%E7%BB%99%E5%B1%80%E5%9F%9F%E7%BD%91%E4%B8%AD%E7%9A%84Ubuntu%E5%9B%BA%E5%AE%9A%E4%B8%8Bip/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-02,1717342338.0
