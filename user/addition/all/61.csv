@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Swift语法笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_25-swift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-25,1561420800.0
 纽约 |  2019，我在时代广场跨年  | NYC深度行摄,罗磊的独立博客,https://luolei.org/new-york-2019,https://luolei.org,https://luolei.org/feed/,2019-06-25,1561420800.0
 读《管理的实践》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_23-the_practice_of_management.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-23,1561248000.0
 frp 源码阅读与分析(二)：TCP内网穿透的实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_19-frp_source_code_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-19,1560902400.0
@@ -21,7 +22,7 @@ socks5 协议详解,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_
 Realme X 蒸汽白 | OPPO子品牌千元新机 | VLOG48,罗磊的独立博客,https://luolei.org/realme-x-unboxing,https://luolei.org,https://luolei.org/feed/,2019-06-05,1559692800.0
 开启HSTS(HTTP Strict Transport Security),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_04-hsts.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-04,1559606400.0
 网络乞讨之合并支付宝和微信的收款二维码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_01-combine_wechat_alipay.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-01,1559347200.0
-Linux下当笔记本合上盖子之后只使用扩展显示器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_31-turnoff_screen_when_lid_is_closed.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-31,1559260800.0
+nomad简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_31-nomad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-31,1559260800.0
 Ubuntu 18.04 dhcp更换新IP,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_30-ubuntu_1804_dhcp_new_ip.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-30,1559174400.0
 Python中的新式类(new style class)和老式类(old style class),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_29-python_old_new_style_class.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-29,1559088000.0
 Python Requests 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_18-requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-18,1558137600.0
@@ -37,10 +38,10 @@ Unity DOTS 走马观花,萤火之森,http://frankorz.com/2019/05/07/simple-talk-
 在KVM里安装Minikube,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_07-minikube_kvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-07,1557187200.0
 塞翁失马焉知非福,云游君的小站,https://www.yunyoujun.cn/posts/a-blessing-in-disguise,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-05-06,1557178320.0
 貓與網絡暴力,Just lepture,https://lepture.com/zh/2019/cat-and-violence,https://lepture.com/,https://lepture.com/feed.xml,2019-05-01,1556720168.0
-2020 香港银行开户攻略 | 境外投资必备，如何拥有一个香港银行卡,罗磊的独立博客,https://luolei.org/how-to-open-a-bank-account-in-hongkong,https://luolei.org,https://luolei.org/feed/,2019-04-30,1556582400.0
-如何使用 Hammerspoon 实现剪贴板历史,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
-如何使用 Hammerspoon 实现剪贴板历史,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
 如何使用 Hammerspoon 实现剪贴板历史,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-clipboard-history-with-hammerspoon/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
+2020 香港银行开户攻略 | 境外投资必备，如何拥有一个香港银行卡,罗磊的独立博客,https://luolei.org/how-to-open-a-bank-account-in-hongkong,https://luolei.org,https://luolei.org/feed/,2019-04-30,1556582400.0
+如何使用 Hammerspoon 实现剪贴板历史,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
+如何使用 Hammerspoon 实现剪贴板历史,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
 Deepin 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/deepin-use-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-29,1556562227.0
 搞定面试中的系统设计题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_29-system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-29,1556496000.0
 hexo-theme-yun 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-hexo-theme-yun/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-27,1556337600.0
@@ -48,4 +49,3 @@ Crontab + Sendmail实现定时任务并且通知,Jiajun的技术笔记,https://j
 Nginx设置Referer来防止盗图,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_23-nginx_referer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-23,1555977600.0
 Graphviz dot简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_20-graphviz_dot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-20,1555718400.0
 jQuery简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_19-jquery.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-19,1555632000.0
-7个冷门的中文网站&社区推荐 | VLOG39,罗磊的独立博客,https://luolei.org/7-select-chinese-websites,https://luolei.org,https://luolei.org/feed/,2019-04-19,1555632000.0
