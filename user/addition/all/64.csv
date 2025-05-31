@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Go访问私有变量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_16-go_private_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
 避免全局变量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_15-avoid_global_states.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-15,1542240000.0
 Go的unsafe包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_13-golang_package_unsafe.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-13,1542067200.0
 Golang中实现禁止拷贝,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
@@ -18,8 +19,8 @@ SliderMini:可能是2018最值得期待的便携滑轨  | ZUOLUOTV | VLOG17,罗�
 雅西卡 YASHICA Y35 | 编号740,罗磊的独立博客,https://luolei.org/yashica-y35-camera,https://luolei.org,https://luolei.org/feed/,2018-10-17,1539734400.0
 HTTP/2 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_13-http2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-13,1539388800.0
 编程五年:我辞职了,罗磊的独立博客,https://luolei.org/new-journey,https://luolei.org,https://luolei.org/feed/,2018-10-10,1539129600.0
-我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0
 我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school,https://lutaonan.com,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0
+我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0
 UTAU插件:一键描点 使用帮助,FlyingSky's Blog,https://blog.fsky7.com/technology/77,https://blog.fsky7.com,https://blog.fsky7.com/feed,2018-10-01,1538366400.0
 独立运营博客一年的一些数据分享,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
 To B(usiness) 和 To C(ustomer),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_22-to_b_to_c.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-22,1537574400.0
@@ -48,4 +49,3 @@ gRPC-gateway 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com
 腹肌南波湾一日游:FUJIFILM XF10,罗磊的独立博客,https://luolei.org/fujifilme-xf10-review,https://luolei.org,https://luolei.org/feed/,2018-08-05,1533427200.0
 如何阅读源代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_04-how_to_read_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-04,1533340800.0
 我的摄影储存解决方案 | ZUOLUOTV | VLOG15,罗磊的独立博客,https://luolei.org/vlog-15-storage-and-backups,https://luolei.org,https://luolei.org/feed/,2018-07-31,1532995200.0
-我心目中的配置中心应该怎么做？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_07_22-config_center.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-07-22,1532217600.0
