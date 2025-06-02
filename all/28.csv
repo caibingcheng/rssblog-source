@@ -1,7 +1,7 @@
 title,author,link,home,rss,date,timestamp
 一种 Emacs 增强图层的构想,manateelazycat.github.io,//manateelazycat.github.io/2023/07/07/emacs-overlay/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-07-07,1688688000.0
-盘点我访问过的古老站点,汐塔魔法屋,https://blog.sinzmise.top/posts/12779/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-07-06,1688663052.0
 盘点我访问过的古老站点,汐塔魔法屋,https://blog.storical.space/posts/12779,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-07-06,1688663052.0
+盘点我访问过的古老站点,汐塔魔法屋,https://blog.sinzmise.top/posts/12779/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-07-06,1688663052.0
 去不图床的故障分析及解决方案,杜老师说,https://dusays.com/603/,https://dusays.com/,https://dusays.com/atom.xml,2023-07-06,1688659200.0
 让小爱也能控制美的电器,瓦解的生活记事,https://hin.cool/posts/homeassistant.html,https://hin.cool/,https://hin.cool/atom.xml,2023-07-06,1688608800.0
 读《打开心智》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_07_06-free_your_mind.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-07-06,1688601600.0
@@ -35,8 +35,8 @@ spring boot中的 http 接口返回 json 形式的小注意点,Nicksxs's Blog,ht
 最佳代理实践之 v2raya (2023-06-23),manateelazycat.github.io,//manateelazycat.github.io/proxy/2023/06/23/best-proxy.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-06-23,1687478400.0
 容器除了 Docker 还有 Podman,杜老师说,https://dusays.com/598/,https://dusays.com/,https://dusays.com/atom.xml,2023-06-21,1687363200.0
 南山徒步：原来焦虑的源泉是无法自洽的自己,Macin,https://macin.org/2023/06/20/nan-shan-tu-bu/,https://macin.org/,https://www.macin.org/atom.xml,2023-06-20,1687249686.0
-SSH命令问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/ssh-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2023-06-20,1687237878.0
 SSH命令问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/ssh-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2023-06-20,1687237878.0
+SSH命令问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/ssh-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2023-06-20,1687237878.0
 买服务器，搞个论坛玩玩,醉里博客,https://202271.xyz/post/64920/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-06-19,1687180727.0
 2023 Mac mini 外挂硬盘升级方案：打造 2TB 苹果电脑,罗磊的独立博客,https://luolei.org/2023-mac-mini-ssd-upgrade-experience/,https://luolei.org/,https://luolei.org/feed/,2023-06-18,1687105537.0
 1Panel 新一代 Linux 服务器运维管理面板,杜老师说,https://dusays.com/597/,https://dusays.com/,https://dusays.com/atom.xml,2023-06-18,1687104000.0
@@ -44,8 +44,8 @@ SSH命令问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/ssh-issues/,https
 特斯拉 Tesla 的最佳伴侣：Teslamate,Another Dayu,https://anotherdayu.com/2023/5185/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-06-18,1687061277.0
 读《经济学原理 - 微观经济学分册》,manateelazycat.github.io,//manateelazycat.github.io/2023/06/18/principles-of-economics/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-06-18,1687046400.0
 Onekey Card 虚拟信用卡使用体验,Another Dayu,https://anotherdayu.com/2023/5180/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-06-17,1687006579.0
-PGP加解密,Yulin Lewis' Blog,https://lewky.cn/posts/pgp/,https://lewky.cn/,https://lewky.cn/index.xml,2023-06-15,1686845979.0
 PGP加解密,Yulin Lewis' Blog,https://lewky233.top/posts/pgp/,https://lewky233.top/,https://lewky.cn/index.xml,2023-06-15,1686845979.0
+PGP加解密,Yulin Lewis' Blog,https://lewky.cn/posts/pgp/,https://lewky.cn/,https://lewky.cn/index.xml,2023-06-15,1686845979.0
 猛玛无线领夹 LARK M1 麦克风体验文,杜老师说,https://dusays.com/596/,https://dusays.com/,https://dusays.com/atom.xml,2023-06-15,1686844800.0
 时间逆流是另一种形式的熵增,瓦解的生活记事,https://hin.cool/posts/shangzeng.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-06-15,1686808800.0
 EAF 音乐更新,manateelazycat.github.io,//manateelazycat.github.io/2023/06/13/eaf-music/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-06-13,1686614400.0
