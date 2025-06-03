@@ -1,3 +1,3 @@
-title,author,link,home,rss,date,timestamp
-数组乱序的正确姿势,Yuexun's Blog,https://yuexunjiang.me/blog/the-right-way-to-array-of-random-sequence/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-07-25,1469404800.0
-Vue 中使用 highlight.js,Yuexun's Blog,https://yuexunjiang.me/blog/getting-highlightjs-to-work-with-vue.js/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-07-13,1468368000.0
+title,author,link,home,rss,date,timestamp,tags,test
+数组乱序的正确姿势,Yuexun's Blog,https://yuexunjiang.me/blog/the-right-way-to-array-of-random-sequence,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-07-25,1469404800,,
+Vue 中使用 highlight.js,Yuexun's Blog,https://yuexunjiang.me/blog/getting-highlightjs-to-work-with-vue.js,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-07-13,1468368000,,

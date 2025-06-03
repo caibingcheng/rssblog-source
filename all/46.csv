@@ -1,51 +1,51 @@
-title,author,link,home,rss,date,timestamp
-JDK自带的那些好用的工具,雨临Lewis,https://lewky.cn/posts/jdk-tools.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-01-03,1578034779.0
-React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
-React Hooks 不完全总结,Yuexun's Blog,https://yuexunjiang.me/blog/react-hooks-incomplete-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-02,1577923200.0
-使用Gitea+Drone打造自己的CI/CD系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_01_01-use_gitea_with_drone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-01,1577836800.0
-2019 年终总结：慢慢变成别人眼中「食古不化」的「怪人」,Randy's Blog,https://lutaonan.com/blog/2019-summary,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-01-01,1577836800.0
-2019 年终总结：慢慢变成别人眼中「食古不化」的「怪人」,Randy's Blog,https://lutaonan.com/blog/2019-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-01,1577836800.0
-年度简报 - 2019 | 拾光,FlyingSky's Blog,https://blog.fsky7.com/archives/71/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-12-31,1577808000.0
-2019年就要结束啦！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_31-hello_2020.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-31,1577750400.0
-RE: 2019 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2019-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
-2019 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2019-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
-RE: 2019 年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2019-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-29,1577577600.0
-为什么要使用gRPC？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_27-why_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-27,1577404800.0
-为了你爱的人，读一读《非暴力沟通》,Randy's Blog,https://lutaonan.com/blog/nonviolent-communication/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-12-25,1577232000.0
-为了你爱的人，读一读《非暴力沟通》,Randy's Blog,https://lutaonan.com/blog/nonviolent-communication,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-12-25,1577232000.0
-Matebook X Pro 2019安装Debian 10,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_24-matebook_x_pro_2019_debian_10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-24,1577145600.0
-ArchLinux忽略某个包的升级,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_22-archlinux_ignore_pkg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-22,1576972800.0
-优化 Google Analytics 使用体验——借助 Cloudflare Workers 或其他,ChrAlpha,https://blog.ichr.me/post/optimize-google-analytics/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-12-21,1576946810.0
-How to style RSS feed,Just lepture,https://lepture.com/en/2019/rss-style-with-xsl,https://lepture.com/,https://lepture.com/feed.xml,2019-12-21,1576916648.0
-SQLAlchemy使用主从与数据库autocommit,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_21-autocommit.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-21,1576886400.0
-Blackbox禁用IPv6,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_19-blackbox_disable_ipv6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-19,1576713600.0
-Go 1.13的errors挺香,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_18-golang_133_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
-flutter开发体验汇报,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_16-flutter_dev.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-16,1576454400.0
-录翻唱需要哪些设备,Randy's Blog,https://lutaonan.com/blog/how-to-record-cover/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-12-15,1576368000.0
-百度网盘视频倍速播放的方法,ChrAlpha,https://blog.ichr.me/post/video-double-speed-playback-methods/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-12-14,1576339049.0
-自己封装一个好用的Dart HTTP库,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_13-dart_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-13,1576195200.0
-Flutter应用启动后检查更新,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_12_11-flutter_do_sth_after_boot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-11,1576022400.0
-Grafana Gravatar头像显示bug修复,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_10-grafana_gravatar_http_hijack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-10,1575936000.0
-flutter中使用RESTful接口,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_09-dart_flutter_json.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-09,1575849600.0
-2019 年的收获与成长,萤火之森,http://frankorz.com/2019/12/04/2019-year-end-summary/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-12-04,1575456618.0
-Vim YouCompleteMe使用LSP(以dart为例),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_04-ycm_lsp_dart.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-04,1575417600.0
-flutter webview加载时显示进度,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_03-flutter_webview_indicator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-03,1575331200.0
-SQLAlchemy快速更新或插入对象,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_02-sqlalchemy_update_or_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-02,1575244800.0
-为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
-为网站添加 dark mode 支持,Ahonn's Blog,https://www.ahonn.me/blog/add-dark-mode-support-to-your-website,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
-为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
-修复Linux下curl等无法使用letsencrypt证书,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_26-lets_encrypt_linux_shell.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-26,1574726400.0
-Kubernetes 常见错误、原因及处理方法,This Cute World,https://thiscute.world/posts/kubernetes-common-errors-and-solutions/,https://thiscute.world/,https://thiscute.world/index.xml,2019-11-24,1574594814.0
-欣赏一下K&R两位大神的代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_24-code_from_k_and_r.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-24,1574553600.0
-MySQL的ON DUPLICATE KEY UPDATE语句,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_19-mysql_duplicate_key_update.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-19,1574121600.0
-使用microk8s快速搭建k8s,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_17-microk8s.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-17,1573948800.0
-Python中优雅的处理文件路径,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_15-python_pathlib_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-15,1573776000.0
-PostgreSQL - 如何杀死被锁死的进程,雨临Lewis,https://lewky.cn/posts/1514292e.html/,https://lewky.cn/,https://lewky.cn/index.xml,2019-11-14,1573745069.0
-Go语言MySQL时区问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_14-golang_mysql_timezone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-14,1573689600.0
-我的技术栈选型,Jiajun的编程随想,https://jiajunhuang.com/articles/2019_11_13-tech_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-13,1573603200.0
-博客改版及 Tailwind CSS 实践,Randy's Blog,https://lutaonan.com/blog/what-is-tailwindcss-and-how-did-i-apply-it-on-my-blog/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-12,1573516800.0
-为什么我要用Linux作为桌面？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_11-why_linux_as_desktop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-11,1573430400.0
-1989 年的 CD 机 - SONY Discman D-9,Randy's Blog,https://lutaonan.com/blog/sony-discman-d9/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-09,1573257600.0
-disqus获取评论时忽略query string,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_08-disqus_thread_identifier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-08,1573171200.0
-MySQL性能优化指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_06-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-06,1572998400.0
-【译】30 分钟学会 LaTeX,云游君的小站,https://www.yunyoujun.cn/posts/trans-learn-latex-in-30-minutes,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-11-05,1572970176.0
+title,author,link,home,rss,date,timestamp,tags,test
+程序员的MySQL手册(四)：索引设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_27-mysql_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-27,1595808000,,
+图形学常见的变换推导,萤火之森,http://frankorz.com/2020/07/26/transformation,http://frankorz.com,https://frankorz.com/atom.xml,2020-07-26,1595785595,,
+程序员的MySQL手册(三)：数据库设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_26-mysql_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-26,1595721600,,
+Linux窗口管理器下的截图,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_25-linux_screenshot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-25,1595635200,,
+Go设计模式：facade模式和观察者模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_23-go_design_pattern_facade.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400,,
+程序员的MySQL手册(二): 监控与benchmark,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_23-mysql_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400,,
+Go设计模式: 责任链模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_21-go_design_pattern_chain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-21,1595289600,,
+「发言成本」与为什么我（个人博主）不想建立交流社群,ChrAlpha,https://blog.ichr.me/post/expressing-costs,https://blog.ichr.me,https://blog.ichr.me/atom.xml,2020-07-19,1595172616,,
+自己搭建的免费虚拟主机（MOFH）,岚天小窝,https://blog.ltya.top/posts/freewebhosting.shtml,https://blog.ltya.top,https://blog.ltya.top/atom.xml,2020-07-18,1595088000,,
+我们真的需要这么复杂的技术栈吗？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_15-do_we_need_these.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-15,1594771200,,
+Go设计模式：装饰器模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_14-go_design_pattern_decorator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-14,1594684800,,
+短网址生成,qinxs小站,https://7bxing.com/posts/991130e,https://7bxing.com,https://7bxing.com/atom.xml,2020-07-12,1594532801,,
+VIDAA3/4系统工厂模式,qinxs小站,https://7bxing.com/posts/be2c6b79,https://7bxing.com,https://7bxing.com/atom.xml,2020-07-05,1593957961,,
+程序员的MySQL手册(一): 安装，基本配置,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_05-mysql_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-05,1593907200,,
+ElasticSearch学习笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_04-elasticsearch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-04,1593820800,,
+Go设计模式：composite模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_02-go_design_pattern_composite.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-02,1593648000,,
+拯救删除ZFS之后的分区表,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_25-save_partition_table_zfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-25,1593043200,,
+Linux使用redshift自动调整屏幕色温,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_23-redshift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-23,1592870400,,
+中国制造 Tesla Model 3 长续航体验,Randy's Blog,https://lutaonan.com/blog/tesla-model-3-review,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-06-22,1592784000,,
+Go设计模式：桥接模式和策略模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_21-go_design_pattern_bridge.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-21,1592697600,,
+el-bot & mirai-ts 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-el-bot,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-06-21,1592763413,,
+Go设计模式：单例模式、原型模式和Builder模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_20-go_design_pattern_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-20,1592611200,,
+操作系统也是CRUD,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_15-unix_crud.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-15,1592179200,,
+Go设计模式：简单工厂模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_13-go_design_pattern_factory.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400,,
+把USB设备穿透给虚拟机里的系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_13-macos_kvm_usb_pass.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400,,
+debug故事之：事务让生活更美好,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_12-transaction_life_easy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-12,1591920000,,
+Go设计模式：模板模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_11-go_design_pattern_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-11,1591833600,,
+Fireside 遷移記,Just lepture,https://lepture.com/zh/2020/fireside-export,https://lepture.com,https://lepture.com/feed.xml,2020-06-11,1591843954,,
+Go设计模式：适配器模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_09-go_design_pattern_adapter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-09,1591660800,,
+Go设计模式：Iterator,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_07-go_design_pattern_iter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-07,1591488000,,
+Shell猜数字游戏,qinxs小站,https://7bxing.com/posts/3713cf69,https://7bxing.com,https://7bxing.com/atom.xml,2020-06-06,1591449141,,
+WebP 图片优化在 Hexo 上的最佳尝试,ChrAlpha,https://blog.ichr.me/post/webp-on-hexo,https://blog.ichr.me,https://blog.ichr.me/atom.xml,2020-05-30,1590858611,,
+glusterfs 笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_30-glusterfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-30,1590796800,,
+Base64 编码并不唯一,This Cute World,https://thiscute.world/posts/base64-encoding-is-not-unique,https://thiscute.world,https://thiscute.world/index.xml,2020-05-30,1590855180,,
+用peewee代替SQLAlchemy,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_29-use_peewee.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-29,1590710400,,
+使用 TiddlyWiki 进行个人知识管理,Ahonn's Blog,https://www.ahonn.me/blog/using-tiddlywiki-for-personal-knowledge-management,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-05-29,1590768000,,
+使用 TiddlyWiki 进行个人知识管理,Yuexun's Blog,https://yuexunjiang.me/blog/using-tiddlywiki-for-personal-knowledge-management,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-05-29,1590768000,,
+使用 tcpdump 和 Wireshark 进行远程实时抓包分析,This Cute World,https://thiscute.world/posts/tcpdump-and-wireshark,https://thiscute.world,https://thiscute.world/index.xml,2020-05-28,1590654026,,
+2020年5月技术导读,萤火之森,http://frankorz.com/2020/05/23/2020-05-tech-reading,http://frankorz.com,https://frankorz.com/atom.xml,2020-05-23,1590249935,,
+Go的slice工作机制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_23-go_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-23,1590192000,,
+Linux系统迁移记录(从HDD到SSD),Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_22-linux_clone_sys.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-22,1590105600,,
+Redis是如何工作的？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_21-how_does_redis_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-21,1590019200,,
+virsh自动关闭windows虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_18-virsh_shutdown_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-18,1589760000,,
+离开阿里巴巴,Randy's Blog,https://lutaonan.com/blog/leaving-alibaba,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-05-17,1589673600,,
+第三方评论系统之我见,云游君的小站,https://www.yunyoujun.cn/share/third-party-comment-system,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-05-17,1589693440,,
+hello world,qinxs小站,https://7bxing.com/posts/d4a1185,https://7bxing.com,https://7bxing.com/atom.xml,2020-05-16,1589605202,,
+Git学习,qinxs小站,https://7bxing.com/posts/e28ceec1,https://7bxing.com,https://7bxing.com/atom.xml,2020-05-16,1589605502,,
+Golang sort源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_16-go_sort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-16,1589587200,,
+分治的思维方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_15-divide_and_conquer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-15,1589500800,,
+Debian 使用NetworkManager之后networking.service崩溃,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000,,

@@ -1,3 +1,3 @@
-title,author,link,home,rss,date,timestamp
-React 路由跳转后回到页面顶部,Yuexun's Blog,https://yuexunjiang.me/blog/after-the-react-routing-scroll-to-the-top-of-the-page/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-10-11,1476144000.0
-React 生命周期函数小结,Yuexun's Blog,https://yuexunjiang.me/blog/react-lifecycle-methods/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-10-02,1475366400.0
+title,author,link,home,rss,date,timestamp,tags,test
+React 路由跳转后回到页面顶部,Yuexun's Blog,https://yuexunjiang.me/blog/after-the-react-routing-scroll-to-the-top-of-the-page,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-10-11,1476144000,,
+React 生命周期函数小结,Yuexun's Blog,https://yuexunjiang.me/blog/react-lifecycle-methods,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-10-02,1475366400,,

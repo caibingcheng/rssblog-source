@@ -1,51 +1,51 @@
-title,author,link,home,rss,date,timestamp
-在 GitHub 上使用 GPG 认证你的 Git Commit,ChrAlpha,https://blog.ichr.me/post/use-gpg-verification-in-github/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-08,1583702310.0
-国内自建图床指南,Randy's Blog,https://lutaonan.com/blog/aliyun-cdn-tutorial/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-07,1583539200.0
-👴就是二次元，故尝试证明。,云游君的小站,https://www.yunyoujun.cn/posts/i-am-er-ci-yuan-and-try-to-prove,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-06,1583536357.0
-在 Hexo 博客中更优雅地使用 LaTeX 数学公式,ChrAlpha,https://blog.ichr.me/post/fix-mathjax-layout-bugs-in-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-06,1583503087.0
-MySQL Boolean类型的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_06-mysql_boolean_tinyint_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-06,1583452800.0
-Hexo 博客 | 链接分享卡片生成配置,ChrAlpha,https://blog.ichr.me/post/hexo-generate-link-sharing-card/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-05,1583423588.0
-教你如何从零开始搭建一个属于自己的网站,云游君的小站,https://www.yunyoujun.cn/share/how-to-build-your-site/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-04,1583343068.0
-pip freeze是魔鬼,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_04-pip_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-04,1583280000.0
-JWT 签名算法 HS256、RS256 及 ES256 及密钥生成,This Cute World,https://thiscute.world/posts/jwt-algorithm-key-generation/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-03,1583215786.0
-一个feed流系统的演进,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_02-feed_system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-02,1583107200.0
-Android 使用view binding,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_01-android_view_binding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-01,1583020800.0
-好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
-好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
-关于浏览器隐藏 https 与 www 一事,ChrAlpha,https://blog.ichr.me/post/why-browsers-hide-https-and-www-in-address-bar/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-29,1582985007.0
-Cloudflare 指定 CDN 节点与缓存配置,ChrAlpha,https://blog.ichr.me/post/cloudflare-cdn-optimize/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-28,1582899925.0
-系统调用的过程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_27-syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-27,1582761600.0
-Parcel.js + Vue 搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-parcel-demo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-26,1582689900.0
-MySQL charset不同导致无法使用索引的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_26-mysql_charset_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-26,1582675200.0
-使用 Speedtest CLI 测试服务器带宽质量,ChrAlpha,https://blog.ichr.me/post/use-speedtest-cli-to-test-the-speed-of-your-server/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-24,1582561951.0
-微服务的缺点,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_19-should_i_use_microservice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-19,1582070400.0
-Git 在 macOS 中忽略所有 .DS_Store 文件,ChrAlpha,https://blog.ichr.me/post/git-ignore-all-ds-store-on-mac/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-16,1581865768.0
-初探无后端静态博客自动化部署方案,ChrAlpha,https://blog.ichr.me/post/automated-deployment-of-serverless-static-blog/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-14,1581718212.0
-远程工作一周有感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_14-remote_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-14,1581638400.0
-Python中的并发控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_12-python_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-12,1581465600.0
-让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/archives/97/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-02-11,1581394020.0
-让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/technology/50,https://blog.fsky7.com,https://blog.fsky7.com/feed,2020-02-11,1581393600.0
-【花开物语|MAD】幹物女(WeiWei)-Bonboru!,云游君的小站,https://www.yunyoujun.cn/posts/hana-saku-iroha-weiwei-bonboru,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-09,1581272688.0
-Mac 上连接 Android 传输文件与配置 SDK platform tools 环境,ChrAlpha,https://blog.ichr.me/post/configurate-connection-with-android-on-mac/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-08,1581157605.0
-KVM spice协议在高分屏上的分辨率问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_08-kvm_spice_high_dpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-08,1581120000.0
-MDr 主题的使用指南,FlyingSky's Blog,https://blog.fsky7.com/archives/93/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-02-06,1580987280.0
-CSS 陷阱,云游君的小站,https://www.yunyoujun.cn/posts/css-trap-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-03,1580754775.0
-Git 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/git-learn-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-03,1580748373.0
-Proxy Server | 正向代理与反向代理,ChrAlpha,https://blog.ichr.me/post/proxy-and-reverse-proxy/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-03,1580693916.0
-《图解 C# 教程 第5版》与性能优化,萤火之森,http://frankorz.com/2020/01/31/illustrated-csharp-and-performance/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-01-31,1580515158.0
-2019 年年终总结,This Cute World,https://thiscute.world/posts/2019-summary/,https://thiscute.world/,https://thiscute.world/index.xml,2020-01-31,1580469540.0
-用 RIME 定制输入法,Yuexun's Blog,https://yuexunjiang.me/blog/custom-input-methods-with-rime,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-30,1580400000.0
-用 RIME 定制输入法,Ahonn's Blog,https://www.ahonn.me/blog/custom-input-methods-with-rime,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-01-30,1580400000.0
-用 RIME 定制输入法,Yuexun's Blog,https://yuexunjiang.me/blog/custom-input-methods-with-rime/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-01-30,1580342400.0
-npm & yarn 常用包与命令,云游君的小站,https://www.yunyoujun.cn/posts/npm-and-yarn,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-01-29,1580310284.0
-使 SSH 保持长时间连接,ChrAlpha,https://blog.ichr.me/post/keep-ssh-connection-alive-for-long/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-01-27,1580132331.0
-用 Tiny Tiny RSS 搭建自己的 RSS 服务端,ChrAlpha,https://blog.ichr.me/post/use-tt-rss-to-build-your-own-rss-service/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-01-20,1579535044.0
-关于 Git 同一终端多用户及 22 端口断连的配置,ChrAlpha,https://blog.ichr.me/post/git-more-user-and-solve-github-22-port-disconnected/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-01-20,1579515920.0
-Eclipse - 快捷键篇,雨临Lewis,https://lewky.cn/posts/eclipse-hotkey.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-01-18,1579359889.0
-使用 CCDIK 或 FABRIK 实现逆向动力学,云游君的小站,https://www.yunyoujun.cn/posts/methods-for-inverse-kinematics,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-01-14,1579040187.0
-计算机中的权衡(trade-off),Jiajun的编程随想,https://jiajunhuang.com/articles/2020_01_11-paradigm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-11,1578700800.0
-[声明]本站所有文章禁止转载,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_01_10-please_do_not_copy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-10,1578614400.0
-从「后端现在已经看不懂前端了」说起,Randy's Blog,https://lutaonan.com/blog/to-frontend-prejudicers,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-01-07,1578355200.0
-Golang不那么蛋疼的sort,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_01_07-golang_sort_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-07,1578355200.0
-从「后端现在已经看不懂前端了」说起,Randy's Blog,https://lutaonan.com/blog/to-frontend-prejudicers/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-01-07,1578355200.0
-Flutter给Android应用签名,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_01_06-flutter_sign_android_apk.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-06,1578268800.0
+title,author,link,home,rss,date,timestamp,tags,test
+博客新增公开笔记部分,萤火之森,http://frankorz.com/2020/10/03/add-note-section-to-blog,http://frankorz.com,https://frankorz.com/atom.xml,2020-10-03,1601740410,,
+九月总结,4Ark × Blog,https://4ark.me/post/d33db2d3.html,https://4ark.me,https://4ark.me/rss.xml,2020-10-03,1601687752,,
+观测者：数据爬虫与处理，历史数据可视化视频与用户排名,FlyingSky's Blog,https://blog.fsky7.com/archives/167,https://blog.fsky7.com,https://blog.fsky7.com/feed,2020-10-02,1601651280,,
+写给 VS Code 用户的 Vim 入坑指南,Ahonn's Blog,https://www.ahonn.me/blog/the-vim-guide-for-vs-code-users,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808,,
+ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601321597,,
+写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808,,
+Flask和requests做一个简单的请求代理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800,,
+借助 Magisk 优化/个性化 Android 中文字体显示效果,ChrAlpha,https://blog.ichr.me/post/improve-android-font-style-with-magisk,https://blog.ichr.me,https://blog.ichr.me/atom.xml,2020-09-25,1601064971,,
+Linux常用命令(四)：xargs,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_21-linux_cmd_xargs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-21,1600646400,,
+Linux常用命令(二)：htop,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_htop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000,,
+Linux常用命令(三)：watch,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000,,
+升级 IOS 14 的一些坑,4Ark × Blog,https://4ark.me/post/7b1778ee.html,https://4ark.me,https://4ark.me/rss.xml,2020-09-19,1600529843,,
+【推荐】Hexo博客配置及源文件备份,qinxs小站,https://7bxing.com/posts/659688f7,https://7bxing.com,https://7bxing.com/atom.xml,2020-09-19,1600519111,,
+Linux常用命令(一)：netcat,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600,,
+免费获取 Microsoft 365 E5 订阅,岚天小窝,https://blog.ltya.top/posts/E5-Developer-Subscription.shtml,https://blog.ltya.top,https://blog.ltya.top/atom.xml,2020-09-18,1600444800,,
+装修脑壳痛：家庭万兆光纤网络、智能家居,罗磊的独立博客,https://luolei.org/apartment-log-book-network,https://luolei.org,https://luolei.org/feed,2020-09-18,1600428621,,
+结合Flask 与 marshmallow快速进行参数校验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_16-flask_marshmallow.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-16,1600214400,,
+Aurora Database,Bin Wang - My Personal Blog,https://www.binwang.me/2020-09-16-Aurora-Database.html,https://www.binwang.me,https://www.binwang.me/feed.xml,2020-09-16,1600228800,,
+关于我打算当老师并报考教师资格证这件事,云游君的小站,https://www.yunyoujun.cn/diary/try-to-become-a-teacher,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-09-11,1599839963,,
+规整数据的重要性,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_10-form_check.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-10,1599696000,,
+「硬核JS」一次搞懂JS运行机制,qinxs小站,https://7bxing.com/posts/9c28944f,https://7bxing.com,https://7bxing.com/atom.xml,2020-09-08,1599574555,,
+Deploy Matrix for Users in China,Bin Wang - My Personal Blog,https://www.binwang.me/2020-09-08-Build-An-Instant-Messaging-System-without-Censorship-Deployment-Options.html,https://www.binwang.me,https://www.binwang.me/feed.xml,2020-09-08,1599537600,,
+Hugo系列(1) - 简单搭建教程与远程部署,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-1.html,https://lewky.cn,https://lewky.cn/index.xml,2020-09-06,1599397847,,
+我与小镇与家,云游君的小站,https://www.yunyoujun.cn/posts/i-and-town-and-home,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-09-06,1599368400,,
+apt安装特定包以及忽略升级某个包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_05-apt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-05,1599264000,,
+hexo-theme-yun 制作笔记,云游君的小站,https://www.yunyoujun.cn/posts/make-hexo-theme-yun,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-09-01,1598990400,,
+An Overview of China’s Internet Censorship Strategy,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-29-Build-An-Instant_Messaging-System-without-Censorship-Choose-An-Overview-of-Chinese-Internet-Censorship-Strategy.html,https://www.binwang.me,https://www.binwang.me/feed.xml,2020-08-29,1598673600,,
+八月总结,4Ark × Blog,https://4ark.me/post/f05d518.html,https://4ark.me,https://4ark.me/rss.xml,2020-08-28,1598573148,,
+《八佰》观后感,4Ark,https://4ark.me/posts/ba-bai-review,https://4ark.me,https://4ark.me/rss.xml,2020-08-28,1598573025,,
+Strato - Hexo 主题「Yun」版本宣传 PV,云游君的小站,https://www.yunyoujun.cn/posts/hexo-theme-yun-strato,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-08-28,1598652000,,
+Strato - Hexo 主题「Yun」版本宣传 PV,云游君的小站,https://www.yunyoujun.cn/share/hexo-theme-yun-strato,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-08-28,1598623200,,
+2016美国总统候选人辩论,qinxs小站,https://7bxing.com/posts/52bf0210,https://7bxing.com,https://7bxing.com/atom.xml,2020-08-27,1598503361,,
+【装修日记：10月1日更新】：松山没有湖:，东莞三房装修 | 长期记录,罗磊的独立博客,https://luolei.org/new-apartment-log-book,https://luolei.org,https://luolei.org/feed,2020-08-27,1598506672,,
+Goroutine是如何处理栈的？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000,,
+StackGuard的作用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_26-stackguard.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000,,
+博客开放评论,Randy's Blog,https://lutaonan.com/blog/open-for-comment,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-08-26,1598400000,,
+Matrix: A Self Hosted Instant Messaging Solution with End to End Encryption,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-23-Build-An-Instant_Messaging-System-without-Censorship-Choose-the-right-technology.html,https://www.binwang.me,https://www.binwang.me/feed.xml,2020-08-23,1598155200,,
+Go DiskQueue源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-22,1598054400,,
+el-bot & mirai-ts 制作笔记,云游君的小站,https://www.yunyoujun.cn/posts/make-el-bot,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-08-20,1597954613,,
+NSQ源码分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_16-nsq_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-16,1597536000,,
+NSQ简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_15-nsq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-15,1597449600,,
+写给大学新生的数字指南,罗磊的独立博客,https://luolei.org/freshman-internet-guidebook,https://luolei.org,https://luolei.org/feed,2020-08-15,1597495033,,
+Docmate - 一个可以自由部署的文档平台,Randy's Blog,https://lutaonan.com/blog/announcing-docmate,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-08-15,1597449600,,
+我与小镇与家,云游君的小站,https://www.yunyoujun.cn/essay/i-and-town-and-home,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-08-14,1597442400,,
+结合Redis与MySQL实现又快又好的数据方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_11-redis_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-11,1597104000,,
+导出「你的日记」与导入「一本日记」,云游君的小站,https://www.yunyoujun.cn/posts/export-nideriji-and-import-1diary,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-08-05,1596645483,,
+西藏 | 五日自驾三千里，叹祖国壮美边疆 | 拉萨・羊湖・日喀则・珠峰,罗磊的独立博客,https://luolei.org/tibet-2020,https://luolei.org,https://luolei.org/feed,2020-08-04,1596547567,,
+不必二选一！AdGuard 去除广告与 Clash 网络代理同时进行,ChrAlpha,https://blog.ichr.me/post/adguard-with-clash,https://blog.ichr.me,https://blog.ichr.me/atom.xml,2020-08-02,1596411381,,
+中国网络基建有多厉害？我在珠峰测网速,罗磊的独立博客,https://luolei.org/mountain-everest-internet-speedtest,https://luolei.org,https://luolei.org/feed,2020-07-31,1596201040,,
+程序员的MySQL手册(五)：索引优化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_28-mysql_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-28,1595894400,,

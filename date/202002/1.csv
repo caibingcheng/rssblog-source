@@ -1,15 +1,21 @@
-title,author,link,home,rss,date,timestamp
-系统调用的过程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_27-syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-27,1582761600.0
-Parcel.js + Vue 搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-parcel-demo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-26,1582689900.0
-MySQL charset不同导致无法使用索引的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_26-mysql_charset_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-26,1582675200.0
-微服务的缺点,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_19-should_i_use_microservice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-19,1582070400.0
-使用 CDN 加速你的 GitHub Pages 网站,云游君的小站,https://www.yunyoujun.cn/posts/use-cdn-speed-up-site,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-16,1581884937.0
-远程工作一周有感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_14-remote_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-14,1581638400.0
-Python中的并发控制,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_02_12-python_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-12,1581465600.0
-让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/archives/97/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-02-11,1581394020.0
-让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/technology/50,https://blog.fsky7.com,https://blog.fsky7.com/feed,2020-02-11,1581393600.0
-【花开物语|MAD】幹物女(WeiWei)-Bonboru!,云游君的小站,https://www.yunyoujun.cn/posts/hana-saku-iroha-weiwei-bonboru,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-09,1581272688.0
-KVM spice协议在高分屏上的分辨率问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_08-kvm_spice_high_dpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-08,1581120000.0
-MDr 主题的使用指南,FlyingSky's Blog,https://blog.fsky7.com/archives/93/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-02-06,1580987280.0
-CSS 陷阱,云游君的小站,https://www.yunyoujun.cn/posts/css-trap-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-03,1580754775.0
-Git 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/git-learn-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-03,1580748373.0
+title,author,link,home,rss,date,timestamp,tags,test
+关于浏览器隐藏 https 与 www 一事,ChrAlpha,https://blog.ichr.me/post/why-browsers-hide-https-and-www-in-address-bar,https://blog.ichr.me,https://blog.ichr.me/atom.xml,2020-02-29,1582985007,,
+Cloudflare 指定 CDN 节点与缓存配置,ChrAlpha,https://blog.ichr.me/post/cloudflare-cdn-optimize,https://blog.ichr.me,https://blog.ichr.me/atom.xml,2020-02-28,1582899925,,
+系统调用的过程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_27-syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-27,1582761600,,
+MySQL charset不同导致无法使用索引的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_26-mysql_charset_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-26,1582675200,,
+Parcel.js + Vue 搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-parcel-demo,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-02-26,1582689900,,
+使用 Speedtest CLI 测试服务器带宽质量,ChrAlpha,https://blog.ichr.me/post/use-speedtest-cli-to-test-the-speed-of-your-server,https://blog.ichr.me,https://blog.ichr.me/atom.xml,2020-02-24,1582561951,,
+微服务的缺点,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_19-should_i_use_microservice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-19,1582070400,,
+Git 在 macOS 中忽略所有 .DS_Store 文件,ChrAlpha,https://blog.ichr.me/post/git-ignore-all-ds-store-on-mac,https://blog.ichr.me,https://blog.ichr.me/atom.xml,2020-02-16,1581865768,,
+初探无后端静态博客自动化部署方案,ChrAlpha,https://blog.ichr.me/post/automated-deployment-of-serverless-static-blog,https://blog.ichr.me,https://blog.ichr.me/atom.xml,2020-02-14,1581718212,,
+远程工作一周有感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_14-remote_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-14,1581638400,,
+Python中的并发控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_12-python_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-12,1581465600,,
+让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/archives/97,https://blog.fsky7.com,https://blog.fsky7.com/feed,2020-02-11,1581394020,,
+让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/technology/50,https://blog.fsky7.com,https://blog.fsky7.com/feed,2020-02-11,1581393600,,
+【花开物语|MAD】幹物女(WeiWei)-Bonboru!,云游君的小站,https://www.yunyoujun.cn/posts/hana-saku-iroha-weiwei-bonboru,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-02-09,1581272688,,
+Mac 上连接 Android 传输文件与配置 SDK platform tools 环境,ChrAlpha,https://blog.ichr.me/post/configurate-connection-with-android-on-mac,https://blog.ichr.me,https://blog.ichr.me/atom.xml,2020-02-08,1581157605,,
+KVM spice协议在高分屏上的分辨率问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_08-kvm_spice_high_dpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-08,1581120000,,
+MDr 主题的使用指南,FlyingSky's Blog,https://blog.fsky7.com/archives/93,https://blog.fsky7.com,https://blog.fsky7.com/feed,2020-02-06,1580987280,,
+Proxy Server | 正向代理与反向代理,ChrAlpha,https://blog.ichr.me/post/proxy-and-reverse-proxy,https://blog.ichr.me,https://blog.ichr.me/atom.xml,2020-02-03,1580693916,,
+CSS 陷阱,云游君的小站,https://www.yunyoujun.cn/posts/css-trap-note,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-02-03,1580754775,,
+Git 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/git-learn-note,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-02-03,1580748373,,

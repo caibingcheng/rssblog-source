@@ -1,51 +1,51 @@
-title,author,link,home,rss,date,timestamp
-Go语言的defer， panic和recover,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_15-go_defer_panic_and_recover.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-15,1487116800.0
-仓鼠,云游君的小站,https://www.yunyoujun.cn/posts/hamster,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-11,1486854610.0
-回声,云游君的小站,https://www.yunyoujun.cn/posts/echo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-04,1486224551.0
-Hexo 静态博客搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/hexo-build-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-02,1486039232.0
-再读 Python Language Reference,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_24-python_language_reference.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
-JavaScript 继承的那些事,Yuexun's Blog,https://yuexunjiang.me/blog/something-about-javaScript-inherit/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-01-24,1485216000.0
-【分享】网页背景效果插件 Canvas-Nest.js,云游君的小站,https://www.yunyoujun.cn/posts/html5-canvas-nest-js,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-01-23,1485205488.0
-关于部落冲突的二三事儿-1,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-1,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-01-22,1485104132.0
-设计模式（2）- 深入浅出设计模式 阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_22-head_first_design_patterns_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-22,1485043200.0
-设计模式（1）- 深入浅出设计模式 阅读笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2017_01_21-head_first_design_patterns.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-21,1484956800.0
-Cython! Python和C两个世界的交叉点,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_15-cython_rocks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-15,1484438400.0
-socketserver 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_09-socketserver_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-09,1483920000.0
-functools 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_08-functools_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-08,1483833600.0
-contextlib代码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_07-contextlib_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-07,1483747200.0
-Collections 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_06-collections_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0
-从 React 谈 Web UI 开发,Randy's Blog,https://lutaonan.com/blog/react-and-the-way-building-web-ui,https://lutaonan.com,https://lutaonan.com/rss.xml,2017-01-01,1483228800.0
-从 React 谈 Web UI 开发,Randy's Blog,https://lutaonan.com/blog/react-and-the-way-building-web-ui/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-01-01,1483228800.0
-2016年就要结束了，2017年就要开始啦！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_31-2016_is_over_and_2017_is_coming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-31,1483142400.0
-unittest 源代码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_29-unittest_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-29,1482969600.0
-2016 年终总结,Randy's Blog,https://lutaonan.com/blog/2016-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-12-28,1482883200.0
-2016 年终总结,Randy's Blog,https://lutaonan.com/blog/2016-summary,https://lutaonan.com,https://lutaonan.com/rss.xml,2016-12-28,1482883200.0
-APUEv3 - 重读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_26-apue_v3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-26,1482710400.0
-Mock源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_22-mock_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-22,1482364800.0
-Thinking in Python,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_16-thinking_in_python.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-16,1481846400.0
-从零开始制作 Hexo 主题,Ahonn's Blog,https://www.ahonn.me/blog/create-a-hexo-theme-from-scratch,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-12-15,1481823827.0
-从零开始制作 Hexo 主题,Yuexun's Blog,https://yuexunjiang.me/blog/create-a-hexo-theme-from-scratch,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-12-15,1481823827.0
-我的代码进CPython标准库啦,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_15-my_code_in_python_stdlib.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-15,1481760000.0
-从零开始制作 Hexo 主题,Yuexun's Blog,https://yuexunjiang.me/blog/create-a-hexo-theme-from-scratch/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-12-15,1481760000.0
-2016 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2016-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-12-13,1481587200.0
-Python零碎小知识,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_09-python_fragments.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-09,1481241600.0
-工作一年的总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_07-work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-07,1481068800.0
-MongoDB 的一些坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_06-mongodb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-06,1480982400.0
-JavaScript 创建对象的一些姿势,Yuexun's Blog,https://yuexunjiang.me/blog/some-ways-of-javascript-create-object/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-30,1480464000.0
-Python的yield关键字有什么作用？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_29-python_yield.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-29,1480377600.0
-借助coroutine用同步的语法写异步,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_27-python_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-27,1480204800.0
-我看牙医的经历,Randy's Blog,https://lutaonan.com/blog/dentist-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-11-26,1480118400.0
-我看牙医的经历,Randy's Blog,https://lutaonan.com/blog/dentist-exp,https://lutaonan.com,https://lutaonan.com/rss.xml,2016-11-26,1480118400.0
-Python3函数参数中的星号,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_21-py3k_asterisk.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-21,1479686400.0
-JavaScript 数据类型判断,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-data-type-judgment/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-21,1479686400.0
-「微信小程序」入坑总结,Yuexun's Blog,https://yuexunjiang.me/blog/wechat-app-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-11-14,1479081600.0
-使用Git Hooks,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_08-use_git_hooks.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-08,1478563200.0
-你根本用不着退学,Randy's Blog,https://lutaonan.com/blog/you-dont-need-to-drop-out/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-11-06,1478390400.0
-你根本用不着退学,Randy's Blog,https://lutaonan.com/blog/you-dont-need-to-drop-out,https://lutaonan.com,https://lutaonan.com/rss.xml,2016-11-06,1478390400.0
-Token Bucket 算法,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_05-token_bucket.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-05,1478304000.0
-nginx配置笔记,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_11_03-nginx_conf.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-03,1478131200.0
-React 路由跳转后回到页面顶部,Yuexun's Blog,https://yuexunjiang.me/blog/after-the-react-routing-scroll-to-the-top-of-the-page/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-10-11,1476144000.0
-React 生命周期函数小结,Yuexun's Blog,https://yuexunjiang.me/blog/react-lifecycle-methods/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-10-02,1475366400.0
-静态类型在 JavaScript 中是一种负担吗？,Randy's Blog,https://lutaonan.com/blog/is-static-type-in-javascript-a-burden/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-09-29,1475107200.0
-太空,云游君的小站,https://www.yunyoujun.cn/posts/outer-space,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2016-09-20,1474379705.0
-阅读Flask源码,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_09_15-flask_source_code.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-09-15,1473897600.0
+title,author,link,home,rss,date,timestamp,tags,test
+我设计的第一个桌游,萤火之森,http://frankorz.com/2018/04/13/first-board-game,http://frankorz.com,https://frankorz.com/atom.xml,2018-04-13,1523630707,,
+容器时代的日志处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_12-docker_logging.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-12,1523491200,,
+Golang和Thrift,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_10-golang_thrift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-10,1523318400,,
+折腾Kubernetes,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_05-kubernetes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-05,1522886400,,
+协程(coroutine)简介 - 什么是协程？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_03-coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-03,1522713600,,
+goroutine 切换的时候发生了什么？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_29-goroutine_schedule.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-29,1522281600,,
+Vue 中 canvas 的自适应,云游君的小站,https://www.yunyoujun.cn/posts/responsive-canvas-with-vue,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2018-03-27,1522151073,,
+大家一起吃火锅吧,云游君的小站,https://www.yunyoujun.cn/posts/eat-hot-pot-together,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2018-03-25,1521966671,,
+Prometheus 数据类型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_19-prometheus.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-19,1521417600,,
+Gin源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_16-gin_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-16,1521158400,,
+关于部落冲突的二三事儿-2,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-2,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2018-03-16,1521212960,,
+如何面试-作为面试官得到的经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_10-interview.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-10,1520640000,,
+自己写一个容器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_09-write_you_a_container.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-09,1520553600,,
+Golang(Go语言)中实现典型的fork调用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_08-golang_fork.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-08,1520467200,,
+软件开发之禅---大事化小，各个击破,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_02_26-zen_of_dev.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-26,1519603200,,
+程序员的自我修养：链接，装载与库 阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_02_25-linker_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-25,1519516800,,
+Redis源码阅读与分析二：双链表,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_doubly_linked_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400,,
+Redis源码阅读与分析三：哈希表,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_hash_table.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400,,
+Redis源码阅读与分析一：sds,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_02_24-redis_source_code_sds.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-24,1519430400,,
+【动画电影】《声之形》观后感,云游君的小站,https://www.yunyoujun.cn/posts/the-shape-of-voice,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2018-02-03,1517686818,,
+Golang runtime 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_02_02-golang_runtime.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-02,1517529600,,
+Golang的一些坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_31-golang_traps.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-31,1517356800,,
+GC 垃圾回收,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_30-gc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-30,1517270400,,
+VS Code 配置笔记,云游君的小站,https://www.yunyoujun.cn/posts/vscode-config-note,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2018-01-29,1517240360,,
+设计一个路由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_28-router_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-28,1517097600,,
+Go语言性能优化实战,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_22-golang_optimization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-22,1516579200,,
+那些年开发的时候踩过的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_14-pitfalls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-14,1515888000,,
+(关系型)数据库优化总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_08-db_optimizations.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-08,1515369600,,
+Announcement of Authlib,Just lepture,https://lepture.com/en/2018/announcement-of-authlib,https://lepture.com,https://lepture.com/feed.xml,2018-01-08,1515417697,,
+动态规划民科教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_04-dynamic_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-04,1515024000,,
+2017 年终总结,Randy's Blog,https://lutaonan.com/blog/2017-summary,https://lutaonan.com,https://lutaonan.com/rss.xml,2018-01-03,1514937600,,
+Golang 分布式异步任务队列 Machinery 教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_30-golang_task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-30,1514592000,,
+2017 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2017-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-12-29,1514505600,,
+使用geohash完成地理距离计算,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_27-geohash.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-27,1514332800,,
+永远相信美好的事情即将发生,云游君的小站,https://www.yunyoujun.cn/posts/after-graduate-exam,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2017-12-25,1514240096,,
+2018年就要到了，这一年都做了什么呢？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_20-2017_is_over_and_2018_is_coming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-20,1513728000,,
+寻路算法-贪婪最佳优先算法,萤火之森,http://frankorz.com/2017/12/16/greedy-best-find-search,http://frankorz.com,https://frankorz.com/atom.xml,2017-12-16,1513466667,,
+鱼与熊掌,云游君的小站,https://www.yunyoujun.cn/posts/life-and-work,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2017-12-11,1512997805,,
+算法导论阅读笔记 --- 排序算法,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_02-algorithms_sorting.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-02,1512172800,,
+Git HTTPS 如何保存密码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_29-git_credential_store.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600,,
+短链系统的实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_29-short_url.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600,,
+程序员修炼之道 阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_13-the_programmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-13,1510531200,,
+人生本该如此。,云游君的小站,https://www.yunyoujun.cn/posts/that-is-what-life-should-be,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2017-11-11,1510432186,,
+Python开发实践经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_04-python_develop_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-04,1509753600,,
+三藩記,Just lepture,https://lepture.com/zh/2017/san-francisco-trip,https://lepture.com,https://lepture.com/feed.xml,2017-11-02,1509637087,,
+Golang实现平滑重启(优雅重启),Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_25-golang_graceful_restart.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-25,1508889600,,
+traefik 教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_24-traefik.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-24,1508803200,,
+Nginx作为TCP/UDP的负载均衡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_19-nginx_as_tcp_load_balancing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200,,
+Web开发系列(十)：事务和锁,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_19-web_dev_part10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200,,
+Web开发系列(十一）：数据库扩展,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_19-web_dev_part11.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200,,

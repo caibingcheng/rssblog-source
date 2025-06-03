@@ -1,5 +1,21 @@
-title,author,link,home,rss,date,timestamp
-CockroachDB Serverless Architecture,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_04_03-cockroachdb_serverless_architecture.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-04-03,1743638400.0
-Linux 下的高效压缩工具 Zstandard,杜老师说,https://dusays.com/815/,https://dusays.com/,https://dusays.com/atom.xml,2025-04-02,1743609600.0
-podman 无故退出,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_04_02-podman_rootless_exited.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-04-02,1743552000.0
-我们高估了智力的重要性,Randy's Blog,https://lutaonan.com/blog/oi,https://lutaonan.com,https://lutaonan.com/rss.xml,2025-04-01,1743465600.0
+title,author,link,home,rss,date,timestamp,tags,test
+现代浏览器插件开发指南,Randy's Blog,https://lutaonan.com/blog/browser-extension-development-guide,https://lutaonan.com,https://lutaonan.com/rss.xml,2025-04-09,1744156800,,
+Lesson 44 多元高阶导数,菲兹克斯喵,https://physnya.top/integral/lesson-44,https://physnya.top,https://physnya.top/atom.xml,2025-04-09,1744182851,,
+Lesson 8 情感劳动,菲兹克斯喵,https://physnya.top/writing/lesson-8,https://physnya.top,https://physnya.top/atom.xml,2025-04-09,1744169583,,
+Manifest V3 之后如何屏蔽广告：NextDNS,Another Dayu,https://anotherdayu.com/2025/6697,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-04-08,1744148931,,
+Logseq 高效知识管理与协作利器,杜老师说,https://dusays.com/817,https://dusays.com,https://dusays.com/atom.xml,2025-04-08,1744128000,,
+initx v0.1.0 发布,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/800,https://imba97.cn,https://imba97.cn/atom.xml,2025-04-08,1744151957,,
+Lesson 8 视界 & CMB,菲兹克斯喵,https://physnya.top/cosmos/lesson-8,https://physnya.top,https://physnya.top/atom.xml,2025-04-07,1744036850,,
+孤独的杰永远长不大,瓦解的生活记事,https://hin.cool/posts/wajiedeshenghuo.html,https://hin.cool,https://hin.cool/atom.xml,2025-04-06,1743944400,,
+关于Termux中的shell命令的历史记录问题,Nicksxs's Blog,https://nicksxs.me/2025/04/06/%E5%85%B3%E4%BA%8ETermux%E4%B8%AD%E7%9A%84shell%E5%91%BD%E4%BB%A4%E7%9A%84%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95%E9%97%AE%E9%A2%98,https://nicksxs.me,https://nicksxs.me/atom.xml,2025-04-06,1743948394,,
+流水账 Week 19,菲兹克斯喵,https://physnya.top/posts/2tft6k64,https://physnya.top,https://physnya.top/atom.xml,2025-04-06,1743951342,,
+Linux 系统监控利器 ctop 命令详解,杜老师说,https://dusays.com/816,https://dusays.com,https://dusays.com/atom.xml,2025-04-05,1743868800,,
+腾讯云原生开发自动化部署Hexo,瓦解的生活记事,https://hin.cool/posts/cnb4hexo.html,https://hin.cool,https://hin.cool/atom.xml,2025-04-04,1743755400,,
+Lesson 7 宇宙学常数,菲兹克斯喵,https://physnya.top/cosmos/lesson-7,https://physnya.top,https://physnya.top/atom.xml,2025-04-04,1743753351,,
+流水账 Week 2,菲兹克斯喵,https://physnya.top/posts/yjy9ql2s,https://physnya.top,https://physnya.top/atom.xml,2025-04-04,1743753351,,
+CockroachDB Serverless Architecture,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_04_03-cockroachdb_serverless_architecture.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-04-03,1743638400,,
+Linux 下的高效压缩工具 Zstandard,杜老师说,https://dusays.com/815,https://dusays.com,https://dusays.com/atom.xml,2025-04-02,1743609600,,
+podman 无故退出,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_04_02-podman_rootless_exited.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-04-02,1743552000,,
+Lesson 43 链式法则,菲兹克斯喵,https://physnya.top/integral/lesson-43,https://physnya.top,https://physnya.top/atom.xml,2025-04-02,1743579624,,
+Lesson 7 第三次研讨,菲兹克斯喵,https://physnya.top/writing/lesson-7,https://physnya.top,https://physnya.top/atom.xml,2025-04-02,1743579624,,
+我们高估了智力的重要性,Randy's Blog,https://lutaonan.com/blog/oi,https://lutaonan.com,https://lutaonan.com/rss.xml,2025-04-01,1743465600,,

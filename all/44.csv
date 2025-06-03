@@ -1,51 +1,51 @@
-title,author,link,home,rss,date,timestamp
-Debian 使用NetworkManager之后networking.service崩溃,Jiajun的编程随想,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
-说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
-httprouter源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_09-httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-09,1588982400.0
-《程序员的自我修养-装载、链接与库》笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_08-linker_and_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-08,1588896000.0
-在特殊地区科学使用 Disqus 评论系统,ChrAlpha,https://blog.ichr.me/post/use-disqus-conveniently/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-05-05,1588699400.0
-Golang sync.Pool源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_05-go_sync_pool.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-05,1588636800.0
-Typlog 三週年,Just lepture,https://lepture.com/zh/2020/3-years-of-typlog,https://lepture.com/,https://lepture.com/feed.xml,2020-05-02,1588438232.0
-MySQL操作笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_01-mysql_notes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-01,1588291200.0
-Theme Cards | 又一款追求简洁的 Hexo 主题,ChrAlpha,https://blog.ichr.me/post/hexo-theme-cards/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-30,1588257737.0
-Go语言解析GBK编码的xml,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_30-golang_gbk_xml.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-30,1588204800.0
-Golang log 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_28-golang_log.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-28,1588032000.0
-使用Go语言实现一个异步任务框架,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_24-gotasks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-24,1587686400.0
-Go使用gdb调试,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_23-go_gdb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-23,1587600000.0
-Golang ASM简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_22-go_asm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
-Golang中的并发控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_21-golang_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
-Golang的可选参数实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
-YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-me-money,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-14,1586888548.0
-2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-04-13,1586812489.0
-[博客通报] 切换评论系统至 Disqus,ChrAlpha,https://blog.ichr.me/notice/change-comment-system-into-disqus/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-13,1586811001.0
-FreeBSD ipfw使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_13-freebsd_ipfw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-13,1586736000.0
-Golang expvar库源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_12-expvar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-12,1586649600.0
-浅谈 DNS 解析与 CDN 原理,ChrAlpha,https://blog.ichr.me/post/how-dns-and-cdn-work/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-11,1586614065.0
-Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
-Golang validator使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
-垃圾清理软件多，是我们缺存储空间吗？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/25.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-09,1586425500.0
-使用Redis的Stream模块实现群聊功能,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_09-redis_stream_as_im.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
-关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
-解决k8s cron无法读取环境变量的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
-使用 Istio 进行 JWT 身份验证（充当 API 网关）,This Cute World,https://thiscute.world/posts/use-istio-for-jwt-auth/,https://thiscute.world/,https://thiscute.world/index.xml,2020-04-06,1586180906.0
-VPS 手动在线一键重装系统脚本整理,ChrAlpha,https://blog.ichr.me/post/scripts-for-reinstalling-linux-vps/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-06,1586171300.0
-人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/posts/life-is-not-a-marathon,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1586012398.0
-人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/diary/life-is-not-a-marathon/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1585983598.0
-N95口罩背后不为人知的历史,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/21.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-04,1585962960.0
-在网页 404 前将其备份的不同方法,ChrAlpha,https://blog.ichr.me/post/archive-webpage-before-404/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-01,1585740437.0
-反复横跳？—— 我的密码管理工具折腾记,ChrAlpha,https://blog.ichr.me/post/password-managements/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-30,1585578224.0
-Linux网络学习笔记（二）：域名解析(DNS)——以 CoreDNS 为例,This Cute World,https://thiscute.world/posts/about-dns-protocol/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-29,1585468163.0
-[2021] 绕过 Google Play 一年一次换区限制,ChrAlpha,https://blog.ichr.me/post/bypass-google-play-region-restrictions/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-27,1585318102.0
-重新注册 PT 网站后，原有种子“红种” 的简单解决方法,yzqzss | 一座桥在水上's Blog,https://blog.othing.xyz/archives/20.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-03-27,1585274160.0
-应用内购的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_27-iap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-27,1585267200.0
-两种常见的访问控制模型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_26-access_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-26,1585180800.0
-如何在 Git 中真正删除一个文件,ChrAlpha,https://blog.ichr.me/post/git-remove-files-thoroughly/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-25,1585146890.0
-gunicorn max-requests 选项的作用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_25-gunicorn_max_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-25,1585094400.0
-Redis使用中的几点注意事项,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_23-redis_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-23,1584921600.0
-如何打造好看还好用的 Windows Terminal,ChrAlpha,https://blog.ichr.me/post/windows-terminal-configuration/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-21,1584823047.0
-Java的远程调试Remote Debug,雨临Lewis,https://lewky.cn/posts/java-remote-debug.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-03-17,1584459040.0
-Hexo 图片 lazyload 的更优尝试,ChrAlpha,https://blog.ichr.me/post/hexo-better-image-lazyload/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-16,1584381969.0
-Lazyload 不让 Valine 评论组件拖慢页面加载,ChrAlpha,https://blog.ichr.me/post/valine-lazyload/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-13,1584127745.0
-给你的代码跑个分？pylint使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_12-pylint.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-12,1583971200.0
-谈谈 RSA 非对称加密算法原理及流程,ChrAlpha,https://blog.ichr.me/post/rsa-asymmetric-encryption-algorithm/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-11,1583930619.0
-一个Gunicorn worker数量引发的血案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_11-gunicorn_worker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-11,1583884800.0
+title,author,link,home,rss,date,timestamp,tags,test
+如何使用 Git,无妄当自持,https://www.insidentally.com/articles/000006,https://www.insidentally.com,https://www.insidentally.com/atom.xml,2020-12-18,1608286030,,
+站点通知,沐云湘夕,https://quest.myxxts.club/archives/15,https://quest.myxxts.club,https://quest.myxxts.club/feed,2020-12-17,1608218940,,
+Golang里数据库migration方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800,,
+Redis Implementation for Cache and Database Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-12-14-Redis-Implementation-for-Cache-and-Database-Consistency.html,https://www.binwang.me,https://www.binwang.me/feed.xml,2020-12-14,1607922000,,
+Android SwipeRefreshLayout左右滑动冲突的解决,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_12-android_swiperefresh_swipe_left_right.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-12,1607731200,,
+2020 年年终总结,This Cute World,https://thiscute.world/posts/2020-summary,https://thiscute.world,https://thiscute.world/index.xml,2020-12-12,1607787900,,
+如何找到你朋友的社交账号,云游君的小站,https://www.yunyoujun.cn/posts/find-npy-social-account,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-12-12,1607731380,,
+Android调用gRPC的两个小工具函数,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_07-android_kotlin_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-07,1607299200,,
+程序員與文學衝突,Just lepture,https://lepture.com/zh/2020/tweet-yuan,https://lepture.com,https://lepture.com/feed.xml,2020-12-06,1607235718,,
+Android上结合kotlin使用coroutine,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_01-android_kotlin_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-01,1606780800,,
+Mac 上配置 MNMP 环境,4Ark × Blog,https://4ark.me/post/41f45ee.html,https://4ark.me,https://4ark.me/rss.xml,2020-11-30,1606772294,,
+Undefined,FlyingSky's Blog,https://blog.fsky7.com/archives/173,https://blog.fsky7.com,https://blog.fsky7.com/feed,2020-11-29,1606629540,,
+光速叛逃！——将网站部署至 Cloudflare Workers Site 上,ChrAlpha,https://blog.ichr.me/post/cf-workers-site-deploy,https://blog.ichr.me,https://blog.ichr.me/atom.xml,2020-11-29,1606691982,,
+Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-29-Keep-Data-Consistency-During-Database-Migration.html,https://www.binwang.me,https://www.binwang.me/feed.xml,2020-11-29,1606626000,,
+「小歌行」-景德镇文艺复兴-2020巡演-深圳,This Cute World,https://thiscute.world/posts/jingdezhen-renaissance-band-2020-shenzhen,https://thiscute.world,https://thiscute.world/index.xml,2020-11-28,1606535340,,
+linux 开启 samba 服务共享文件,无妄当自持,https://www.insidentally.com/articles/000005,https://www.insidentally.com,https://www.insidentally.com/atom.xml,2020-11-27,1606465965,,
+gRPC错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_26-grpc_error_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-26,1606348800,,
+旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,https://luolei.org/pamu-quiet,https://luolei.org,https://luolei.org/feed,2020-11-26,1606398780,,
+山城晓雾,无妄当自持,https://www.insidentally.com/articles/000004,https://www.insidentally.com,https://www.insidentally.com/atom.xml,2020-11-25,1606281003,,
+眺望渝中,无妄当自持,https://www.insidentally.com/articles/000003,https://www.insidentally.com,https://www.insidentally.com/atom.xml,2020-11-23,1606118148,,
+从 Vite 与 Vue 开始的 D3 数据可视化之旅,云游君的小站,https://www.yunyoujun.cn/posts/vue-d3-demo,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-11-21,1605988569,,
+这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯,罗磊的独立博客,https://luolei.org/warsun-portable-y40-led-light,https://luolei.org,https://luolei.org/feed,2020-11-20,1605876282,,
+老鞋续命，我给一双穿了5年的沙漠靴修鞋底,罗磊的独立博客,https://luolei.org/clarks-desert-boot-resole,https://luolei.org,https://luolei.org/feed,2020-11-17,1605622348,,
+带老婆去华强北买 iPhone 12 手机壳,罗磊的独立博客,https://luolei.org/iphone-shell-supermarket,https://luolei.org,https://luolei.org/feed,2020-11-14,1605326464,,
+Java collection的结构,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_13-java_colletions.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-13,1605225600,,
+为什么 Linux 需要 Swapping,面向信仰编程,https://draven.co//whys-the-design-linux-swapping,https://draven.co,https://draveness.me/feed.xml,2020-11-10,1604966400,,
+为什么 Linux 需要 Swapping,面向信仰编程,https://draveness.me//whys-the-design-linux-swapping,https://draveness.me,https://draveness.me/feed.xml,2020-11-10,1604966400,,
+DNS Resolving Bug in iOS 14,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-08-DNS-Resolving-Bug-in-iOS-14.html,https://www.binwang.me,https://www.binwang.me/feed.xml,2020-11-08,1604811600,,
+十月总结,4Ark × Blog,https://4ark.me/post/edb9a744.html,https://4ark.me,https://4ark.me/rss.xml,2020-11-03,1604440173,,
+为啥Redis使用pipelining会更快？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200,,
+Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-02-Use-TLA+-to-Verify-Cache-Consistency.html,https://www.binwang.me,https://www.binwang.me/feed.xml,2020-11-02,1604293200,,
+配置一个简洁，高效的zsh,无妄当自持,https://www.insidentally.com/articles/000002,https://www.insidentally.com,https://www.insidentally.com/atom.xml,2020-10-29,1603933662,,
+安装使用hexo,无妄当自持,https://www.insidentally.com/articles/000001,https://www.insidentally.com,https://www.insidentally.com/atom.xml,2020-10-27,1603760862,,
+回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan,https://4ark.me,https://4ark.me/rss.xml,2020-10-24,1603499894,,
+Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode,https://blog.ichr.me,https://blog.ichr.me/atom.xml,2020-10-24,1603550295,,
+通过阳台种菜实现蔬菜自由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600,,
+✳️ Vi/Vim使用备忘,qinxs小站,https://7bxing.com/posts/b04c6f46,https://7bxing.com,https://7bxing.com/atom.xml,2020-10-23,1603435073,,
+写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-10-22,1603404285,,
+从GORM里学习到的panic处理方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600,,
+How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me,https://www.binwang.me/feed.xml,2020-10-18,1602993600,,
+记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience,https://4ark.me,https://4ark.me/rss.xml,2020-10-17,1602939409,,
+Go使用闭包简化数据库操作代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800,,
+Hugo系列(4) - 从Hexo迁移至Hugo以及使用LoveIt主题的踩坑记录,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-4.html,https://lewky.cn,https://lewky.cn/index.xml,2020-10-12,1602516495,,
+Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-3.html,https://lewky.cn,https://lewky.cn/index.xml,2020-10-11,1602393076,,
+TCMalloc设计文档学习,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000,,
+Hugo系列(2) - 通过配置文件来定制个人站点,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-2.html,https://lewky.cn,https://lewky.cn/index.xml,2020-10-10,1602317338,,
+免费获取 EU.org 顶级域名,岚天小窝,https://blog.ltya.top/posts/eu-org.shtml,https://blog.ltya.top,https://blog.ltya.top/atom.xml,2020-10-08,1602172800,,
+Understand Liveness and Fairness in TLA+,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-06-Understand-Liveness-and-Fairness-in-TLA.html,https://www.binwang.me,https://www.binwang.me/feed.xml,2020-10-06,1601956800,,
+如何从 Valine 迁移至 Disqus,云游君的小站,https://www.yunyoujun.cn/posts/migrate-from-valine-to-disqus,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-10-06,1601996953,,
+如果这还都还不算抄袭的话,ChrAlpha,https://blog.ichr.me/post/monologue-of-a-rubbish,https://blog.ichr.me,https://blog.ichr.me/atom.xml,2020-10-05,1601937406,,

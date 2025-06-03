@@ -1,51 +1,51 @@
-title,author,link,home,rss,date,timestamp
-正则表达式备忘录,Yuexun's Blog,https://yuexunjiang.me/blog/the-memo-of-javascript-regexp/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-09-13,1473724800.0
-我的利器,Randy's Blog,https://lutaonan.com/blog/my-liqi/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-09-09,1473379200.0
-离开大学这一年,Randy's Blog,https://lutaonan.com/blog/one-year-after-dropping-out-of-school,https://lutaonan.com,https://lutaonan.com/rss.xml,2016-09-08,1473292800.0
-离开大学这一年,Randy's Blog,https://lutaonan.com/blog/one-year-after-dropping-out-of-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-09-08,1473292800.0
-[译] JavaScript 最佳实践,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-best-practices/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-08-31,1472601600.0
-尤克里里,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_08_25-ukulele.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-08-25,1472083200.0
-我常用的 macOS 应用,Randy's Blog,https://lutaonan.com/blog/tools-of-my-macbook/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-08-06,1470441600.0
-如何减少浏览器回流,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-reduce-the-browser-reflow,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-08-02,1470177993.0
-如何减少浏览器回流,Ahonn's Blog,https://www.ahonn.me/blog/javascript-reduce-the-browser-reflow,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-08-02,1470177993.0
-如何减少浏览器回流,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-reduce-the-browser-reflow/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-08-02,1470096000.0
-数组乱序的正确姿势,Yuexun's Blog,https://yuexunjiang.me/blog/the-right-way-to-array-of-random-sequence/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-07-25,1469404800.0
-Vue 中使用 highlight.js,Yuexun's Blog,https://yuexunjiang.me/blog/getting-highlightjs-to-work-with-vue.js/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-07-13,1468368000.0
-CSS 实现垂直居中,Yuexun's Blog,https://yuexunjiang.me/blog/vertical-center-for-css/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-06-29,1467158400.0
-学习使用Bootstrap4的栅格系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_06_20-bootstrap_v4_grid_system.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-20,1466380800.0
-利用Github的WebHook完成自动部署,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_06_19-use_github_webhooks.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-19,1466294400.0
-使用Tornado和rst来写博客,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_06_18-write_blog_with_tornado_and_rst.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-18,1466208000.0
-《烂泥》李峻一,Randy's Blog,https://lutaonan.com/blog/lan-ni-li-jun-yi/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-06-16,1466035200.0
-从博客搬迁到创造的乐趣,Randy's Blog,https://lutaonan.com/blog/from-blog-migration-to-fun-of-creation/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-06-12,1465689600.0
-中山纪念中学游记,Randy's Blog,https://lutaonan.com/blog/533-travel-middle-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-06-09,1465430400.0
-Sass 初探,Yuexun's Blog,https://yuexunjiang.me/blog/sass-preliminary-study/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-06-07,1465257600.0
-Vue: from view to view,Just lepture,https://lepture.com/en/2016/vuejs-from-view-to-view,https://lepture.com/,https://lepture.com/feed.xml,2016-06-06,1465248000.0
-Haskell do notation,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_06_05-haskell_do_notation.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-06-05,1465084800.0
-使用 Nokogiri 解析 HTML,Yuexun's Blog,https://yuexunjiang.me/blog/using-nokogiri-parsing-html/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-28,1464393600.0
-小明的胡言,Just lepture,https://lepture.com/zh/2016/my-tweets,https://lepture.com/,https://lepture.com/feed.xml,2016-05-27,1464307800.0
-foldl 和 foldr 的变换,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_05_22-foldl_and_foldr.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-22,1463875200.0
-记第一次面试,Yuexun's Blog,https://yuexunjiang.me/blog/the-first-interview/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-14,1463184000.0
-关于部落冲突的二三事儿-序,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-0,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2016-05-12,1463067095.0
-Haskell TypeClass 笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_05_05-typeclassopedia.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-05-05,1462406400.0
-从 optimizeCb 说起,Ahonn's Blog,https://www.ahonn.me/blog/starting-from-the-optimizeCb,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
-从 optimizeCb 说起,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-the-optimizeCb,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-05-03,1462271060.0
-从 optimizeCb 说起,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-the-optimizeCb/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-05-03,1462233600.0
-JavaScript 中不合常理的变量提升,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-hoisting/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-28,1461801600.0
-JavaScript 事件流：冒泡与捕获,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-event-stream/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-16,1460764800.0
-JavaScript 作用域与闭包,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-closures/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-04-04,1459728000.0
-重新捡起你那吃灰的树莓派,Jiajun的编程随想,https://jiajunhuang.com/articles/2016_04_03-raspberrypi.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-04-03,1459641600.0
-JavaScript 原型链探究,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-prototype-chain/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-29,1459209600.0
-21 岁我想说的,Randy's Blog,https://lutaonan.com/blog/say-in-21/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-25,1458864000.0
-21 岁我想说的,Randy's Blog,https://lutaonan.com/blog/say-in-21,https://lutaonan.com,https://lutaonan.com/rss.xml,2016-03-25,1458864000.0
-apply， call 与 bind 的区别,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-apply-call-and-bind/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-03-20,1458432000.0
-我是如何监听 APP 价格变动的,Randy's Blog,https://lutaonan.com/blog/how-do-i-track-app-price/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-16,1458086400.0
-Tornado 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_03_14-tornado.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-14,1457913600.0
-我学五笔的经历,Randy's Blog,https://lutaonan.com/blog/my-wubi-exp,https://lutaonan.com,https://lutaonan.com/rss.xml,2016-03-14,1457913600.0
-我学五笔的经历,Randy's Blog,https://lutaonan.com/blog/my-wubi-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2016-03-14,1457913600.0
-JavaScript权威指南笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_03_06-notes_on_js_the_definitive_guide.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-06,1457222400.0
-Python零碎知识汇总,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_03_05-python_fragmentary_knowledge.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-05,1457136000.0
-Jade 模板引擎,Yuexun's Blog,https://yuexunjiang.me/blog/jade-template-engine/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-02-29,1456704000.0
-Python 多线程初步了解,Yuexun's Blog,https://yuexunjiang.me/blog/python-multithreaded-preliminary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2016-02-20,1455926400.0
-列車上的女子,Just lepture,https://lepture.com/zh/2016/girl-on-the-train,https://lepture.com/,https://lepture.com/feed.xml,2016-02-06,1454776200.0
-C语言的位操作,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_02_06-bitwise_operation.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-02-06,1454716800.0
-分治,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_01_25-divide_and_conqure.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-01-25,1453680000.0
+title,author,link,home,rss,date,timestamp,tags,test
+Web开发系列(九)：消息队列，异步任务,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_19-web_dev_part9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200,,
+Web开发简介系列,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_19-web_dev_series.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200,,
+Nginx 请求匹配规则,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-nginx_request_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800,,
+Web开发系列(六)：关系型数据库，ORM,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-web_dev_part6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800,,
+Web开发系列(七)：缓存，CDN,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-web_dev_part7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800,,
+Web开发系列(八)：单点故障，负载均衡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-web_dev_part8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800,,
+Web开发系列(五)：form， json， xml,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_17-web_dev_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-17,1508198400,,
+Web开发系列(四)：Flask， Tornado和WSGI,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_16-web_dev_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-16,1508112000,,
+Web开发系列(三)：什么是HTML，CSS，JS？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_15-web_dev_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-15,1508025600,,
+Discourse 新一代开源论坛,云游君的小站,https://www.yunyoujun.cn/posts/discourse-forum,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2017-10-15,1508089086,,
+Web开发系列(二)：HTTP协议,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_14-web_dev_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-14,1507939200,,
+佐渡與阿賀町記,Just lepture,https://lepture.com/zh/2017/sado-and-ago,https://lepture.com,https://lepture.com/feed.xml,2017-10-14,1507984443,,
+Web开发系列(一)：从输入网址到最后，这个过程经历了什么？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_13-web_dev_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-13,1507852800,,
+SNI: 让Nginx在一个IP上使用多个证书,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_11-sni.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-11,1507680000,,
+Coding WebIDE 云端开发实验室,云游君的小站,https://www.yunyoujun.cn/posts/coding-webide-dev-env,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2017-10-11,1507738872,,
+週記，九月末,Just lepture,https://lepture.com/zh/2017/weekly-20170930,https://lepture.com,https://lepture.com/feed.xml,2017-10-01,1506864165,,
+Haskell: infixl， infixr， infix,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_27-haskell_infix.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-27,1506470400,,
+前端的基礎修養：ARIA Live Regions,Just lepture,https://lepture.com/zh/2017/fe-live-regions,https://lepture.com,https://lepture.com/feed.xml,2017-09-27,1506505200,,
+Haskell简明教程（五）：处理JSON,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_26-learn_you_a_haskell_part_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-26,1506384000,,
+Haskell简明教程（四）：Monoid， Applicative， Monad,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_25-learn_you_a_haskell_part_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-25,1506297600,,
+3D数学基础-矩阵变换（二）,萤火之森,http://frankorz.com/2017/09/24/matrix-transformation-2,http://frankorz.com,https://frankorz.com/atom.xml,2017-09-24,1506273229,,
+週記，九月三週,Just lepture,https://lepture.com/zh/2017/weekly-20170924,https://lepture.com,https://lepture.com/feed.xml,2017-09-24,1506252839,,
+像夏花一样绚烂,云游君的小站,https://www.yunyoujun.cn/posts/as-summer-flowers,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2017-09-23,1506202608,,
+3D数学基础-向量运算基础和矩阵变换,萤火之森,http://frankorz.com/2017/09/22/basic-of-vector-and-matrix-transformation,http://frankorz.com,https://frankorz.com/atom.xml,2017-09-22,1506078350,,
+HTTPS 的详细流程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_22-https_processes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-22,1506038400,,
+像遊客一樣生活,Just lepture,https://lepture.com/zh/2017/live-better,https://lepture.com,https://lepture.com/feed.xml,2017-09-22,1506065108,,
+OAuth2 为什么需要 Authorization Code?,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_21-oauth2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-21,1505952000,,
+任务队列怎么写？python rq源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_20-task_queue_python_rq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-20,1505865600,,
+XMonad 配置教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_19-xmonad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-19,1505779200,,
+Haskell简明教程（三）：Haskell语法,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_18-learn_you_a_haskell_part_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-18,1505692800,,
+Haskell简明教程（二）：从命令式语言进行抽象,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_17-learn_you_a_haskell_part_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-17,1505606400,,
+Haskell简明教程（一）：从递归说起,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_11-learn_you_a_haskell_part_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-11,1505088000,,
+煙花八月,Just lepture,https://lepture.com/zh/2017/hanabi,https://lepture.com,https://lepture.com/feed.xml,2017-09-06,1504700151,,
+【番剧】《月色真美》（老夫的少女心啊）,云游君的小站,https://www.yunyoujun.cn/posts/the-moonlight-is-beautiful,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2017-09-05,1504638465,,
+2017年必装的VIM插件推荐,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_03-2017_vim_plugins.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-03,1504396800,,
+TCP/IP简明教程 - 从零构建TCP/IP协议（二）连接，断开与拥塞控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_02-tcp_ip_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-02,1504310400,,
+从零开始的 macOS 生活,Yuexun's Blog,https://yuexunjiang.me/blog/starting-from-scratch-mac,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-08-31,1504137600,,
+高中时的地下刊物,Randy's Blog,https://lutaonan.com/blog/my-underground-publication,https://lutaonan.com,https://lutaonan.com/rss.xml,2017-08-25,1503619200,,
+临摹一只智障女神∠( ᐛ 」∠)＿,云游君的小站,https://www.yunyoujun.cn/posts/draw-a-fool-goddess,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2017-08-25,1503673526,,
+南京之旅-记10th计算机设计大赛,云游君的小站,https://www.yunyoujun.cn/posts/a-trip-to-nanjing-10th-contest,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2017-08-21,1503355272,,
+Laravel 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/laravel-use-note,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2017-08-21,1503332818,,
+养猫随想,Randy's Blog,https://lutaonan.com/blog/cat-capriccio,https://lutaonan.com,https://lutaonan.com/rss.xml,2017-08-20,1503187200,,
+TCP/IP简明教程 - 从零构建TCP/IP协议（这次叫PCT协议）,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_08_12-tcp_ip.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-08-12,1502496000,,
+Lua Manual 阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_08_09-lua_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-08-09,1502236800,,
+Wordpress 的实用插件与主题推荐,云游君的小站,https://www.yunyoujun.cn/posts/wordpress-plugins-themes,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2017-08-04,1501844186,,
+A semantic BEM style,Just lepture,https://lepture.com/en/2017/semantic-bem-style,https://lepture.com,https://lepture.com/feed.xml,2017-07-28,1501210605,,
+Golang Map 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_27-golang_map.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-27,1501113600,,
+MySQL 零碎知识 - MySQL必知必会,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_26-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-26,1501027200,,
+【定格动画】交换/EXchange,云游君的小站,https://www.yunyoujun.cn/posts/stop-motion-animation-exchange,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2017-07-24,1500919474,,
+万恶的BOM：ï»¿ 与 \ufeff,Yuexun's Blog,https://yuexunjiang.me/blog/the-evil-of-the-BOM-ufeff-and-i%C2%BB%C2%BF,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-07-24,1500854400,,
