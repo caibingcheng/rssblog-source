@@ -1,0 +1,27 @@
+{
+  "tmp_dir": "./tmp",
+  "database_path": "database/rawdata.db",
+  "rss_source_list": [
+    "https://gist.githubusercontent.com/caibingcheng/adf8f300dc50a61a965bdcc6ef0aecb3/raw/rssblog-source-list.json"
+  ],
+  "export": {
+    "all_dir": "public/all",
+    "date_dir": "public/date",
+    "source_dir": "public/source",
+    "member_dir": "public/member",
+    "batch_size": 50,
+    "batch_file": "batch",
+    "stats_file": "public/stats.json",
+    "stats_min_file": "public/stats.min.json",
+    "version": "public/version"
+  },
+  "llm": {
+    "//model": "Qwen/Qwen3-235B-A22B",
+    "//model2": "deepseek-ai/DeepSeek-V3",
+    "//api_key": "***",
+    "//api_endpoint": "https://api.siliconflow.cn/v1",
+    "model": "gpt-4.1-mini",
+    "api_key": "**",
+    "api_endpoint": "https://oa.api2d.net"
+  }
+}
