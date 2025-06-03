@@ -4,3 +4,4 @@ requests
 pandas
 gevent
 grequests
+openai
