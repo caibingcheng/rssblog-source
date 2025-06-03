@@ -1,9 +1,9 @@
 title,author,link,home,rss,date,timestamp
 Koa2 源码分析,Yuexun's Blog,https://yuexunjiang.me/blog/koa2-analysis/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-05-17,1494979200.0
 五一二雜感,Just lepture,https://lepture.com/zh/2017/yang-yong-xin,https://lepture.com/,https://lepture.com/feed.xml,2017-05-16,1494944556.0
-我的编程经历,Randy's Blog,https://lutaonan.com/blog/my-coding-road,https://lutaonan.com,https://lutaonan.com/rss.xml,2017-05-12,1494547200.0
-Golang的short variable declaration,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_05_12-golang_short_variable_declaration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-12,1494547200.0
 我的编程经历,Randy's Blog,https://lutaonan.com/blog/my-coding-road/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-05-12,1494547200.0
+Golang的short variable declaration,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_05_12-golang_short_variable_declaration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-12,1494547200.0
+我的编程经历,Randy's Blog,https://lutaonan.com/blog/my-coding-road,https://lutaonan.com,https://lutaonan.com/rss.xml,2017-05-12,1494547200.0
 利器访谈｜罗磊｜也许是最会晒妻的程序员,罗磊的独立博客,https://luolei.org/liqi-interview-luolei,https://luolei.org,https://luolei.org/feed/,2017-05-10,1494374400.0
 牛島觀藤記,Just lepture,https://lepture.com/zh/2017/ushijima-fuji,https://lepture.com/,https://lepture.com/feed.xml,2017-05-08,1494251018.0
 你好，Typlog,Just lepture,https://lepture.com/zh/2017/hello-typlog,https://lepture.com/,https://lepture.com/feed.xml,2017-05-02,1493739135.0
@@ -22,11 +22,11 @@ Raft 论文阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 开始使用 Neovim,Ahonn's Blog,https://www.ahonn.me/blog/use-neovim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-03-27,1490613006.0
 开始使用 Neovim,Yuexun's Blog,https://yuexunjiang.me/blog/use-neovim/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-03-27,1490572800.0
 阿里巴巴暑假实习面试总结,Yuexun's Blog,https://yuexunjiang.me/blog/alibaba-summer-internship-interview-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-03-16,1489622400.0
-做技术要自信,Randy's Blog,https://lutaonan.com/blog/do-have-faith-with-yourself/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-03-14,1489449600.0
 做技术要自信,Randy's Blog,https://lutaonan.com/blog/do-have-faith-with-yourself,https://lutaonan.com,https://lutaonan.com/rss.xml,2017-03-14,1489449600.0
+做技术要自信,Randy's Blog,https://lutaonan.com/blog/do-have-faith-with-yourself/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-03-14,1489449600.0
 我患上了阅读焦虑症,This Cute World,https://thiscute.world/posts/reading-anxiety/,https://thiscute.world/,https://thiscute.world/index.xml,2017-03-07,1488861540.0
-什么是 Golang Comparable Types,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_06-golang_comparable_types.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-06,1488758400.0
 Filco 圣手二代蓝牙版:开箱体验,罗磊的独立博客,https://luolei.org/filco-keyboard-unboxing,https://luolei.org,https://luolei.org/feed/,2017-03-06,1488758400.0
+什么是 Golang Comparable Types,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_06-golang_comparable_types.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-06,1488758400.0
 MapReduce 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_02-map_reduce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-02,1488412800.0
 过去10年，我用过的13部手机,罗磊的独立博客,https://luolei.org/mobile-phone-i-used-in-the-past-10-years,https://luolei.org,https://luolei.org/feed/,2017-02-24,1487894400.0
 一起来做贼：Goroutine原理和Work stealing,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
@@ -41,8 +41,8 @@ Go语言的defer， panic和recover,Jiajun的技术笔记,https://jiajunhuang.co
 忽而假末,This Cute World,https://thiscute.world/posts/the-holiday-is-coming-to-an-end/,https://thiscute.world/,https://thiscute.world/index.xml,2017-02-06,1486383475.0
 回声,云游君的小站,https://www.yunyoujun.cn/posts/echo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-04,1486224551.0
 Hexo 静态博客搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/hexo-build-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-02,1486039232.0
-JavaScript 继承的那些事,Yuexun's Blog,https://yuexunjiang.me/blog/something-about-javaScript-inherit/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-01-24,1485216000.0
 再读vim help：vim小技巧,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_24-vim_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0
+JavaScript 继承的那些事,Yuexun's Blog,https://yuexunjiang.me/blog/something-about-javaScript-inherit/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-01-24,1485216000.0
 【分享】网页背景效果插件 Canvas-Nest.js,云游君的小站,https://www.yunyoujun.cn/posts/html5-canvas-nest-js,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-01-23,1485205488.0
 关于部落冲突的二三事儿-1,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-1,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-01-22,1485104132.0
 设计模式（2）- 深入浅出设计模式 阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_22-head_first_design_patterns_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-22,1485043200.0
