@@ -1,4 +1,9 @@
 title,author,link,home,rss,date,timestamp
+Python 视频转字符动画（二）进阶,This Cute World,https://thiscute.world/posts/video2chars-2/,https://thiscute.world/,https://thiscute.world/index.xml,2018-05-25,1527242882.0
+求值策略：Applicative Order vs Normal Order,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_05_22-evaluation_strategy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-22,1526947200.0
+High Performance MySQL阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_05_17-high_performance_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-17,1526515200.0
+学英语啊学英语,This Cute World,https://thiscute.world/posts/learning-english/,https://thiscute.world/,https://thiscute.world/index.xml,2018-05-16,1526472002.0
+MySQL EXPLAIN中的filesort是什么？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_05_15-mysql_filesort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-15,1526342400.0
 罗磊啰嗦变聪明了:给微信公众号做了个小升级,罗磊的独立博客,https://luolei.org/wechat-speakl-update-2018,https://luolei.org,https://luolei.org/feed/,2018-05-14,1526256000.0
 数据库索引设计与优化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_05_13-mysql_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-13,1526169600.0
 如何调试？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_05_08-how_to_debug.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-05-08,1525737600.0
@@ -38,14 +43,9 @@ Golang runtime 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.c
 Golang的一些坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_31-golang_traps.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-31,1517356800.0
 GC 垃圾回收,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_30-gc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-30,1517270400.0
 VS Code 配置笔记,云游君的小站,https://www.yunyoujun.cn/posts/vscode-config-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-01-29,1517240360.0
-Setapp 体验:每个月 $9.9 订阅 Mac 软件,罗磊的独立博客,https://luolei.org/mac-setapp,https://luolei.org,https://luolei.org/feed/,2018-01-28,1517097600.0
 设计一个路由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_28-router_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-28,1517097600.0
+Setapp 体验:每个月 $9.9 订阅 Mac 软件,罗磊的独立博客,https://luolei.org/mac-setapp,https://luolei.org,https://luolei.org/feed/,2018-01-28,1517097600.0
 进程线程协程与并发并行,This Cute World,https://thiscute.world/posts/process-thread-coroutines-concurrency-parallelism/,https://thiscute.world/,https://thiscute.world/index.xml,2018-01-23,1516696740.0
 Go语言性能优化实战,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_22-golang_optimization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-22,1516579200.0
 那些年开发的时候踩过的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_14-pitfalls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-14,1515888000.0
 Announcement of Authlib,Just lepture,https://lepture.com/en/2018/announcement-of-authlib,https://lepture.com/,https://lepture.com/feed.xml,2018-01-08,1515417697.0
-(关系型)数据库优化总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_08-db_optimizations.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-08,1515369600.0
-动态规划民科教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_04-dynamic_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-04,1515024000.0
-2017 年终总结,Randy's Blog,https://lutaonan.com/blog/2017-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-01-03,1514937600.0
-2017 年终总结,Randy's Blog,https://lutaonan.com/blog/2017-summary,https://lutaonan.com,https://lutaonan.com/rss.xml,2018-01-03,1514937600.0
-全球首发开箱:QQ阅读电子书・易,罗磊的独立博客,https://luolei.org/qqread-elink-reader-yi-2018-review,https://luolei.org,https://luolei.org/feed/,2017-12-31,1514678400.0
