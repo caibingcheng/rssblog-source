@@ -1,4 +1,12 @@
 title,author,link,home,rss,date,timestamp
+Emacs GC 的一些研究,manateelazycat.github.io,//manateelazycat.github.io/emacs/2023/04/17/emacs-gc-research.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-17,1681689600.0
+获取网页中光标处的单词,manateelazycat.github.io,//manateelazycat.github.io/eaf/ai/2023/04/08/get-mouse-cursor.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-08,1680912000.0
+健身要点,manateelazycat.github.io,//manateelazycat.github.io/healthy/2023/04/06/fitness-essentials.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-06,1680739200.0
+Emacs 里用雾凇拼音实现流畅中文输入,manateelazycat.github.io,//manateelazycat.github.io/emacs/2023/04/05/emacs-rime-ice.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-05,1680652800.0
+AI 编程实践,manateelazycat.github.io,//manateelazycat.github.io/think/ai/2023/03/31/chatgpt.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
+论产品思维,manateelazycat.github.io,//manateelazycat.github.io/think/2023/03/26/product-thinking.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-26,1679788800.0
+读《穷查理宝典》,manateelazycat.github.io,//manateelazycat.github.io/reading/2023/03/17/reading-poor-charlies-almanack.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-17,1679011200.0
+mind-wave 基于 ChatGPT API 的 Emacs AI 插件,manateelazycat.github.io,//manateelazycat.github.io/emacs/ai/2023/03/09/mind-wave.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-09,1678320000.0
 渲染 Markdown 内容为思维导图,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2023/02/26/eaf-markmap.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-02-26,1677369600.0
 浏览器广告拦截技术原理,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2023/02/25/eaf-browser-adblock.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-02-25,1677283200.0
 全键盘旅游地图,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2023/02/24/eaf-map.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-02-24,1677196800.0
@@ -41,10 +49,3 @@ EAF Git Client 手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/
 欢迎加入我们，我们继续折腾Linux,manateelazycat.github.io,//manateelazycat.github.io/work/2022/03/31/join-us.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-31,1648684800.0
 QWebEngine Cookie处理逻辑,manateelazycat.github.io,//manateelazycat.github.io/qt/linux/2022/03/30/webengine-cookie.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-30,1648598400.0
 读《摄影构图就这么简单》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/03/16/reading-composition.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-16,1647388800.0
-读《硬战》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/03/09/reading-harden.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-09,1646784000.0
-魔方CFOP公式,manateelazycat.github.io,//manateelazycat.github.io/curiosity/2022/03/03/cube-cfop.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-03,1646265600.0
-Emacs递归添加目录下所有插件,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/03/02/emacs-load-directory-recursively.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-02,1646179200.0
-读《心若菩提》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/02/24/reading-heart-is-bodhi.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-24,1645660800.0
-读《查理芒格传》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/02/21/reading-charlie-munger.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-21,1645401600.0
-海南行,manateelazycat.github.io,//manateelazycat.github.io/travel/2022/02/03/tourism-hainan.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-03,1643846400.0
-EAF支持Wayland native啦!,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/01/02/eaf-support-wayland-native.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-01-02,1641081600.0

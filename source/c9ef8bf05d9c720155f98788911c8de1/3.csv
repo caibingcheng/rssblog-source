@@ -1,4 +1,12 @@
 title,author,link,home,rss,date,timestamp
+研发团队管理的目的,Andy Stewart,//manateelazycat.github.io/2024/01/17/purpose-of-development-management/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-01-17,1705449600.0
+什么是利他？,Andy Stewart,//manateelazycat.github.io/2024/01/12/kindness/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-01-12,1705017600.0
+怎么提升研发能力？,Andy Stewart,//manateelazycat.github.io/2023/12/29/how-to-improve-development-capabilities/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-29,1703808000.0
+坦克 500 Hi4-T 越野测试,Andy Stewart,//manateelazycat.github.io/2023/12/18/tank-500-enhance/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-18,1702857600.0
+研发团队构建心得,manateelazycat.github.io,//manateelazycat.github.io/2023/12/14/developer-team/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-14,1702512000.0
+怎么打造流畅的 Emacs？,Andy Stewart,//manateelazycat.github.io/2023/12/05/how-to-create-a-smooth-emacs/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-05,1701734400.0
+坦克 500 Hi4-T 评测,manateelazycat.github.io,//manateelazycat.github.io/2023/12/03/tank-500/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-03,1701561600.0
+通过降级 FreeType 解决 WPS 加粗字体乱码的问题,manateelazycat.github.io,//manateelazycat.github.io/2023/11/28/wps-font-problem/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-28,1701129600.0
 千锤百炼出深山， 烈火焚烧若等闲,manateelazycat.github.io,//manateelazycat.github.io/2023/11/05/eaf-qthread-crash/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-05,1699142400.0
 修复 lsp-bridge 补全菜单图标大小变化的 bug,manateelazycat.github.io,//manateelazycat.github.io/2023/11/02/emacs-font-function/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-02,1698883200.0
 Dell G16 在 Linux 下设置键盘灯 （逆向）,manateelazycat.github.io,//manateelazycat.github.io/2023/10/25/dell-g16-keyboard-light/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-25,1698192000.0
@@ -41,11 +49,3 @@ Wraplish 完全异步的英文空格插件,manateelazycat.github.io,//manateelaz
 读《发明》,manateelazycat.github.io,//manateelazycat.github.io/reading/2023/04/30/reading-dyson.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-30,1682812800.0
 聊聊编程语言,manateelazycat.github.io,//manateelazycat.github.io/think/2023/04/23/programming-languages.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-23,1682208000.0
 读《生意的艺术》,manateelazycat.github.io,//manateelazycat.github.io/reading/2023/04/22/reading-the-art-of-business.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-22,1682121600.0
-Emacs GC 的一些研究,manateelazycat.github.io,//manateelazycat.github.io/emacs/2023/04/17/emacs-gc-research.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-17,1681689600.0
-获取网页中光标处的单词,manateelazycat.github.io,//manateelazycat.github.io/eaf/ai/2023/04/08/get-mouse-cursor.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-08,1680912000.0
-健身要点,manateelazycat.github.io,//manateelazycat.github.io/healthy/2023/04/06/fitness-essentials.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-06,1680739200.0
-Emacs 里用雾凇拼音实现流畅中文输入,manateelazycat.github.io,//manateelazycat.github.io/emacs/2023/04/05/emacs-rime-ice.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-04-05,1680652800.0
-AI 编程实践,manateelazycat.github.io,//manateelazycat.github.io/think/ai/2023/03/31/chatgpt.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-31,1680220800.0
-论产品思维,manateelazycat.github.io,//manateelazycat.github.io/think/2023/03/26/product-thinking.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-26,1679788800.0
-读《穷查理宝典》,manateelazycat.github.io,//manateelazycat.github.io/reading/2023/03/17/reading-poor-charlies-almanack.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-17,1679011200.0
-mind-wave 基于 ChatGPT API 的 Emacs AI 插件,manateelazycat.github.io,//manateelazycat.github.io/emacs/ai/2023/03/09/mind-wave.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-03-09,1678320000.0
