@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+思科策略路由,杜老师说,https://dusays.com/235/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-25,1593100800.0
 拯救删除ZFS之后的分区表,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_25-save_partition_table_zfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-25,1593043200.0
 拔牙记: 深圳人民医院使用医保拔智齿经验,罗磊的独立博客,https://luolei.org/shenzhen-wisdom-teeth-extraction,https://luolei.org,https://luolei.org/feed/,2020-06-24,1592956800.0
 Linux使用redshift自动调整屏幕色温,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_23-redshift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-23,1592870400.0
@@ -14,9 +15,9 @@ Firefox 火狐浏览器关闭缓存,杜老师说,https://dusays.com/233/,https:/
 如何看待年仅 28 岁的郭宇宣布从字节跳动退休？,罗磊的独立博客,https://luolei.org/my-friend-guoyu,https://luolei.org,https://luolei.org/feed/,2020-06-16,1592265600.0
 操作系统也是CRUD,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_15-unix_crud.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-15,1592179200.0
 动态网络地址转换,杜老师说,https://dusays.com/231/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-13,1592064000.0
-把USB设备穿透给虚拟机里的系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_13-macos_kvm_usb_pass.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
-老婆的第一副眼镜: Tapole 钛架 + 蔡司A系列镜片,罗磊的独立博客,https://luolei.org/tapole-glasses,https://luolei.org,https://luolei.org/feed/,2020-06-12,1591920000.0
+Go设计模式：简单工厂模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_13-go_design_pattern_factory.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
 debug故事之：事务让生活更美好,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_12-transaction_life_easy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-12,1591920000.0
+老婆的第一副眼镜: Tapole 钛架 + 蔡司A系列镜片,罗磊的独立博客,https://luolei.org/tapole-glasses,https://luolei.org,https://luolei.org/feed/,2020-06-12,1591920000.0
 Fireside 遷移記,Just lepture,https://lepture.com/zh/2020/fireside-export,https://lepture.com/,https://lepture.com/feed.xml,2020-06-11,1591843954.0
 Go设计模式：模板模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_11-go_design_pattern_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-11,1591833600.0
 RIP 如何实现与 OSPF 的通信,杜老师说,https://dusays.com/230/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-10,1591804800.0
@@ -48,4 +49,3 @@ Redis 持久化及主从复制对过期键的处理,杜老师说,https://dusays.
 【工具系列】使用码云 + PicGO + Typora搭建一个自动化图床,框架師,https://www.mobaijun.com/posts/1619271054.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-25,1590376321.0
 2020年5月技术导读,萤火之森,http://frankorz.com/2020/05/23/2020-05-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-05-23,1590249935.0
 过期键的删除,杜老师说,https://dusays.com/224/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-23,1590249600.0
-【设计模式】Java设计模式-六大设计原则,框架師,https://www.mobaijun.com/posts/1088545597.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-23,1590199251.0
