@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+为什么gRPC难以推广,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_29-why_grpc_is_not_popular.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-29,1569715200.0
+TCP 的三次握手,杜老师说,https://dusays.com/82/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-28,1569686400.0
 vi 编辑器操作指南,杜老师说,https://dusays.com/81/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-27,1569600000.0
 我在 UC 做的前端工程化探索,Randy's Blog,https://lutaonan.com/blog/what-i-have-done-at-uc,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-27,1569542400.0
 我在 UC 做的前端工程化探索,Randy's Blog,https://lutaonan.com/blog/what-i-have-done-at-UC/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-27,1569542400.0
@@ -11,8 +13,8 @@ PHP 动态模式和静态模式区别,杜老师说,https://dusays.com/77/,https:
 QT5使用GTK主题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-qt5_gtk_theme.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 Linux 运维人员最常用 166 个命令汇总,杜老师说,https://dusays.com/76/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-22,1569168000.0
 IaaS/PaaS/SaaS 的区别,杜老师说,https://dusays.com/75/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-21,1569081600.0
-回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
 回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
+回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
 简单架构中的数据走向,杜老师说,https://dusays.com/74/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-20,1568995200.0
 地址解析协议,杜老师说,https://dusays.com/73/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-19,1568908800.0
 TCP 的快速恢复,杜老师说,https://dusays.com/72/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-18,1568822400.0
@@ -28,8 +30,8 @@ ufw简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_1
 图解 TCP/IP 电子书分享,杜老师说,https://dusays.com/67/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-13,1568390400.0
 带你读单词第 25 期,杜老师说,https://dusays.com/66/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-12,1568304000.0
 Server2019 搭建 DNS 服务,杜老师说,https://dusays.com/65/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-11,1568217600.0
-zerotier简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_11-zerotier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-11,1568160000.0
 DockCase P1:让 MacBook Pro 电源适配器秒变拓展坞,罗磊的独立博客,https://luolei.org/dockcase-review,https://luolei.org,https://luolei.org/feed/,2019-09-11,1568160000.0
+zerotier简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_11-zerotier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-11,1568160000.0
 Server2019 搭建 DHCP 服务,杜老师说,https://dusays.com/64/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-10,1568131200.0
 Windows Server 2019 的安装,杜老师说,https://dusays.com/63/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-09,1568044800.0
 VMware Workstation 15 Pro 许可证分享,杜老师说,https://dusays.com/62/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-08,1567958400.0
@@ -47,5 +49,3 @@ Youtube 详细统计信息 详解,Frank笔记,https://frank2019.me/archives/yout
 OSI 七层模型非专业简介,杜老师说,https://dusays.com/57/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-03,1567526400.0
 最近那点事,Frank笔记,https://frank2019.me/archives/zui-jin-na-dian-shi,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-03,1567484160.0
 翻墙看民族复兴,Frank笔记,https://frank2019.me/archives/fan-qiang-kan-min-zu-fu-xing,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-03,1567483920.0
-基于端口的 NAT,杜老师说,https://dusays.com/56/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-02,1567440000.0
-一个Golang gRPC握手错误的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_02-go_grpc_handshake.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-02,1567382400.0
