@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【AWS】CloudFront免费CDN详细配置入门,Luminous' Home,https://luotianyi.vc/5994.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-12-28,1640696356.0
 【原创作品】Ease Bookmarks,qinxs小站,https://7bxing.com/posts/beb3fd2a/,https://7bxing.com/,https://7bxing.com/atom.xml,2021-12-27,1640610083.0
 月宫,This Cute World,https://thiscute.world/posts/moon-palace/,https://thiscute.world/,https://thiscute.world/index.xml,2021-12-27,1640596980.0
 解决 gitlab-runner 部署时 Host key verification failed 的报错问题,杜老师说,https://dusays.com/417/,https://dusays.com/,https://dusays.com/atom.xml,2021-12-26,1640534400.0
@@ -47,5 +48,4 @@ sort 的用法,杜老师说,https://dusays.com/412/,https://dusays.com/,https://
 用Go导入大型CSV到PostgreSQL,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_12_11-go_copy_large_file_to_pg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-11,1639180800.0
 如何创建自己的cdn图床地址,cywhat's blog,https://cywhat.cn/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84cdn%E5%9B%BE%E5%BA%8A%E5%9C%B0%E5%9D%80/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-12-10,1639123262.0
 cut 的用法,杜老师说,https://dusays.com/411/,https://dusays.com/,https://dusays.com/atom.xml,2021-12-08,1638979200.0
-PostgreSQL - DML操作汇总,Yulin Lewis' Blog,https://lewky233.top/posts/postgresql-dml/,https://lewky233.top/,https://lewky.cn/index.xml,2021-12-07,1638891797.0
 PostgreSQL - DML操作汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-dml/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-07,1638891797.0
