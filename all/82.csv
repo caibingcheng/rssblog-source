@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Go DiskQueue源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-22,1598054400.0
 Apache 的三种工作模式介绍「worker 篇」,杜老师说,https://dusays.com/254/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-21,1598025600.0
 《八佰》观后感,Frank笔记,https://frank2019.me/archives/ba-bai-guan-hou-gan,https://frank2019.me/,https://frank2019.me/rss.xml,2020-08-21,1597986660.0
 el-bot & mirai-ts 制作笔记,云游君的小站,https://www.yunyoujun.cn/posts/make-el-bot,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-20,1597954613.0
@@ -38,7 +39,7 @@ Hexo 指定不进行渲染的文件或目录,杜老师说,https://dusays.com/246
 Hexo 生成页面出现问题 WARN No layout,杜老师说,https://dusays.com/245/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-25,1595692800.0
 Linux窗口管理器下的截图,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_25-linux_screenshot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-25,1595635200.0
 更换博客系统BOLO,Frank笔记,https://frank2019.me/archives/geng-huan-bo-ke-xi-tong-bolo,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-23,1595480460.0
-程序员的MySQL手册(二): 监控与benchmark,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_23-mysql_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
+Go设计模式：facade模式和观察者模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_23-go_design_pattern_facade.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
 为 Nextcloud 添加 Markdown 编辑器,杜老师说,https://dusays.com/244/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-22,1595433600.0
 牌普分析,Frank笔记,https://frank2019.me/archives/pai-pu-fen-xi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-22,1595393880.0
 Go设计模式: 责任链模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_21-go_design_pattern_chain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-21,1595289600.0
@@ -48,4 +49,3 @@ Go设计模式: 责任链模式,Jiajun的技术笔记,https://jiajunhuang.com/ar
 自己搭建的免费虚拟主机（MOFH）,岚天小窝,https://blog.ltya.top/posts/freewebhosting.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
 Node.js 的安装,杜老师说,https://dusays.com/242/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-16,1594915200.0
 我们真的需要这么复杂的技术栈吗？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_15-do_we_need_these.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-15,1594771200.0
-Go设计模式：装饰器模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_14-go_design_pattern_decorator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-14,1594684800.0
