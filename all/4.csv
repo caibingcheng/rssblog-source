@@ -1,12 +1,14 @@
 title,author,link,home,rss,date,timestamp
+Lesson 47 隐函数,菲兹克斯喵,https://physnya.top/integral/lesson-47/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-18,1744953970.0
 Electerm 高效便捷的开源终端工具,杜老师说,https://dusays.com/820/,https://dusays.com/,https://dusays.com/atom.xml,2025-04-17,1744905600.0
 自托管 Bitwarden,瓦解的生活记事,https://hin.cool/posts/bitwardenselfhosted.html,https://hin.cool/,https://hin.cool/atom.xml,2025-04-17,1744903200.0
 Base64压缩,Bing's Blog,https://imcbc.cn/202504/base64-compression/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2025-04-17,1744868225.0
+这道题答的，还行？,见字如面,https://hiwannz.com/archives/1187.html,https://hiwannz.com,https://hiwannz.com/feed,2025-04-17,1744864013.0
 Lesson 2 解析函数,菲兹克斯喵,https://physnya.top/complex/lesson-2/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-17,1744860568.0
 Lesson 46 反函数定理,菲兹克斯喵,https://physnya.top/integral/lesson-46/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-16,1744787337.0
 Lesson 9 第四次研讨,菲兹克斯喵,https://physnya.top/writing/lesson-9/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-16,1744779461.0
 Lesson 7 宇宙学常数,菲兹克斯喵,https://physnya.top/cosmos/lesson-7/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-15,1744720211.0
-Lesson 1 简介,菲兹克斯喵,https://physnya.top/complex/lesson-1/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-15,1744682367.0
+复变函数,菲兹克斯喵,https://physnya.top/complex/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-15,1744682367.0
 Wave Terminal 多功能开源终端工具,杜老师说,https://dusays.com/819/,https://dusays.com/,https://dusays.com/atom.xml,2025-04-14,1744646400.0
 【随笔】解决 dynamic-datasource 2.5.6 与 Spring Boot 2.7.7 不兼容问题,框架師,https://www.mobaijun.com/posts/1479088608.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-04-14,1744626416.0
 流水账 Week 20,菲兹克斯喵,https://physnya.top/posts/lctmnkeh/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-13,1744559281.0
@@ -26,8 +28,8 @@ Lesson 8 视界 & CMB,菲兹克斯喵,https://physnya.top/cosmos/lesson-8/,https
 流水账 Week 19,菲兹克斯喵,https://physnya.top/posts/2tft6k64/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-06,1743951342.0
 关于Termux中的shell命令的历史记录问题,Nicksxs's Blog,https://nicksxs.me/2025/04/06/%E5%85%B3%E4%BA%8ETermux%E4%B8%AD%E7%9A%84shell%E5%91%BD%E4%BB%A4%E7%9A%84%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-04-06,1743948394.0
 孤独的杰永远长不大,瓦解的生活记事,https://hin.cool/posts/wajiedeshenghuo.html,https://hin.cool/,https://hin.cool/atom.xml,2025-04-06,1743944400.0
-罗技 MX MECHANICAL MINI 机械键盘的蓝牙配对,Andy Stewart,//manateelazycat.github.io/2025/04/06/logi-mx-keyboard/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-04-05,1743868800.0
 Linux 系统监控利器 ctop 命令详解,杜老师说,https://dusays.com/816/,https://dusays.com/,https://dusays.com/atom.xml,2025-04-05,1743868800.0
+罗技 MX MECHANICAL MINI 机械键盘的蓝牙配对,Andy Stewart,//manateelazycat.github.io/2025/04/06/logi-mx-keyboard/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-04-05,1743868800.0
 ThinkPad 键盘忠粉：如何挑机械键盘,Andy Stewart,//manateelazycat.github.io/2025/04/05/keyboard-choose/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-04-04,1743782400.0
 腾讯云原生开发自动化部署Hexo,瓦解的生活记事,https://hin.cool/posts/cnb4hexo.html,https://hin.cool/,https://hin.cool/atom.xml,2025-04-04,1743755400.0
 流水账 Week 2,菲兹克斯喵,https://physnya.top/posts/yjy9ql2s/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-04,1743753351.0
@@ -47,5 +49,3 @@ podman 无故退出,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_
 【随笔】Windows Server 2012 安装 SqlServer 踩坑记录,框架師,https://www.mobaijun.com/posts/3825546266.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-03-28,1743157035.0
 Lesson 42 映射的微分,菲兹克斯喵,https://physnya.top/integral/lesson-42/,https://physnya.top/,https://physnya.top/atom.xml,2025-03-28,1743135503.0
 X Window 与 Wayland 的深度对比,杜老师说,https://dusays.com/813/,https://dusays.com/,https://dusays.com/atom.xml,2025-03-27,1743091200.0
-Lesson 41 多元函数的可微性,菲兹克斯喵,https://physnya.top/integral/lesson-41/,https://physnya.top/,https://physnya.top/atom.xml,2025-03-26,1742973028.0
-【LHCOS】腾讯云200M锐驰轻量实例手动挂载免费轻量对象存储,Luminous' Home,https://luotianyi.vc/8869.html,https://luotianyi.vc,https://luotianyi.vc/feed,2025-03-26,1742966772.0
