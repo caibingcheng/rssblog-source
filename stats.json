@@ -734,7 +734,6 @@
     "user": [
       {
         "user": "addition",
-        "member": 2,
         "all": 76,
         "date": [
           [
@@ -1293,11 +1292,11 @@
               ]
             ]
           ]
-        ]
+        ],
+        "member": 2
       },
       {
         "user": "bbing",
-        "member": 1,
         "all": 36,
         "date": [
           [
@@ -1534,7 +1533,8 @@
               ]
             ]
           ]
-        ]
+        ],
+        "member": 1
       }
     ]
   }
