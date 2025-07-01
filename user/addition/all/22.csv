@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Vercel部署Umami,汐塔魔法屋,https://blog.sinzmise.top/posts/28733/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-07-14,1689324493.0
+屏蔽 Censys 扫描器， 及设置仅允许 Cloudflare 回源,Zikin 的独立博客,https://zikin.org/block-censys-scanner/,https://zikin.org/,https://zikin.org/feed,2023-07-12,1689154107.0
 八角井村：藕花深 莲蓬沉,Macin,https://macin.org/2023/07/10/ba-jiao-jing-cun/,https://macin.org/,https://www.macin.org/atom.xml,2023-07-10,1689031582.0
 安卓手机使用 Box64 模拟 x64 架构搭建 Minecraft 基岩版服务器（BDS）！,岚天小窝,https://blog.ltya.top/posts/Running-BDS-with-Box64.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-07-10,1689009540.0
 Rita2 Online计划,九弦之屋,https://blog.sinzmise.top/posts/40387/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-07-10,1688975462.0
@@ -6,12 +8,12 @@ headscale 添加节点,Nicksxs's Blog,https://nicksxs.me/2023/07/09/headscale-%E
 读《格鲁夫给经理人的第一课》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_07_09-high_output_management.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-07-09,1688860800.0
 Ubuntu 手动编译 PyQt6 支持私有解码器,manateelazycat.github.io,//manateelazycat.github.io/2023/07/08/eaf-browser-ubuntu/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-07-08,1688774400.0
 一种 Emacs 增强图层的构想,manateelazycat.github.io,//manateelazycat.github.io/2023/07/07/emacs-overlay/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-07-07,1688688000.0
-盘点我访问过的古老站点,汐塔魔法屋,https://blog.sinzmise.top/posts/12779/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-07-06,1688663052.0
 盘点我访问过的古老站点,汐塔魔法屋,https://blog.storical.space/posts/12779,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-07-06,1688663052.0
+盘点我访问过的古老站点,汐塔魔法屋,https://blog.sinzmise.top/posts/12779/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-07-06,1688663052.0
 让小爱也能控制美的电器,瓦解的生活记事,https://hin.cool/posts/homeassistant.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-07-06,1688608800.0
 读《打开心智》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_07_06-free_your_mind.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-07-06,1688601600.0
-博客大更新,汐塔魔法屋,https://blog.sinzmise.top/posts/53662/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-07-05,1688585620.0
 博客大更新,汐塔魔法屋,https://blog.storical.space/posts/53662,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-07-05,1688585620.0
+博客大更新,汐塔魔法屋,https://blog.sinzmise.top/posts/53662/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-07-05,1688585620.0
 免费的海艺AI绘图体验,瓦解的生活记事,https://hin.cool/posts/seaart.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-07-04,1688482800.0
 台州：百越地，梅子黄时雨,Macin,https://macin.org/2023/07/03/tai-zhou-mei-shi/,https://macin.org/,https://www.macin.org/atom.xml,2023-07-03,1688424660.0
 车险报价和续保,瓦解的生活记事,https://hin.cool/posts/chexian.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-07-03,1688402400.0
@@ -47,5 +49,3 @@ mybatis系列-foreach 解析,Nicksxs's Blog,https://nicksxs.me/2023/06/11/mybati
 复读和命运,Randy's Blog,https://lutaonan.com/blog/retake-and-destiny/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2023-06-10,1686355200.0
 如何用 ChatGPT 助力开发: 已经有 15 万人看过的经验分享,罗磊的独立博客,https://luolei.org/chatgpt-in-development/,https://luolei.org/,https://luolei.org/feed/,2023-06-09,1686306347.0
 解决 Vivaldi 浏览器无法播放 HTML 视频的问题,manateelazycat.github.io,//manateelazycat.github.io/linux/2023/06/09/vivaldi-html5-video.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-06-09,1686268800.0
-防御性驾驶,Another Dayu,https://anotherdayu.com/2023/5165/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-06-07,1686125267.0
-苹果WWDC2023 发布的Apple Vision Pro🍎,把酒诗代码，趁乱写年华。,https://102no.com/2023/06/07/apple-vision-pro/,https://102no.com/,https://102no.com/atom.xml,2023-06-06,1686067200.0

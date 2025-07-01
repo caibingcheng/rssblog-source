@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+旧电脑也不能闲着：家用备份方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_18-build_your_own_nas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-18,1571356800.0
+如何安装 deb 软件包,杜老师说,https://dusays.com/101/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-17,1571328000.0
 VMware 虚拟机使用技巧,杜老师说,https://dusays.com/100/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-16,1571241600.0
 高级运维工程师的升级打怪路线,杜老师说,https://dusays.com/99/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-15,1571155200.0
 将SQLite的数据迁移到MySQL,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_15-grafana_moved_to_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-15,1571097600.0
@@ -42,10 +44,8 @@ IaaS/PaaS/SaaS 的区别,杜老师说,https://dusays.com/75/,https://dusays.com/
 简单架构中的数据走向,杜老师说,https://dusays.com/74/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-20,1568995200.0
 地址解析协议,杜老师说,https://dusays.com/73/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-19,1568908800.0
 TCP 的快速恢复,杜老师说,https://dusays.com/72/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-18,1568822400.0
-ssh时自动运行tmux,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 ASHMORE 超声波清洗机 | 用超声波清洁2000块的键盘,罗磊的独立博客,https://luolei.org/ashmore-ultrasonic-cleaner,https://luolei.org,https://luolei.org/feed/,2019-09-18,1568764800.0
+ssh时自动运行tmux,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 TCP 的快速重传,杜老师说,https://dusays.com/71/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-17,1568736000.0
 TCP 的拥塞避免,杜老师说,https://dusays.com/70/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-16,1568649600.0
 爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0
-爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0
-TCP 的慢速启动,杜老师说,https://dusays.com/69/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-15,1568563200.0
