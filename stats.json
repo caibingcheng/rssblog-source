@@ -738,7 +738,6 @@
     "user": [
       {
         "user": "addition",
-        "all": 76,
         "date": [
           [
             "2020",
@@ -1301,11 +1300,11 @@
             ]
           ]
         ],
-        "member": 2
+        "member": 2,
+        "all": 76
       },
       {
         "user": "bbing",
-        "all": 36,
         "date": [
           [
             "2020",
@@ -1542,7 +1541,8 @@
             ]
           ]
         ],
-        "member": 1
+        "member": 1,
+        "all": 36
       }
     ]
   }
