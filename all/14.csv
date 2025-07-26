@@ -1,8 +1,8 @@
 title,author,link,home,rss,date,timestamp
 用netty实现一个简单的http server,Nicksxs's Blog,https://nicksxs.me/2024/09/08/%E7%94%A8netty%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84http-server/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-09-08,1725785038.0
 Demo、 产品、 可持续热爱,Andy Stewart,//manateelazycat.github.io/2024/09/08/demo-product-persevere/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-08,1725753600.0
-读《华与华方法》,Andy Stewart,//manateelazycat.github.io/2024/09/07/reading-hua-yu-hua/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-07,1725667200.0
 再读《程序员修炼之道-从小工到专家》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_07-the_pragmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-07,1725667200.0
+读《华与华方法》,Andy Stewart,//manateelazycat.github.io/2024/09/07/reading-hua-yu-hua/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-07,1725667200.0
 再读《软件随想录》/《黑客与画家》/《软技能》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_06-reread_3_books.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-06,1725580800.0
 如何配置 Nginx 防止 CC 攻击,杜老师说,https://dusays.com/745/,https://dusays.com/,https://dusays.com/atom.xml,2024-09-05,1725552000.0
 Roundcube Webmail 安装教程,Frank笔记,https://frank2019.me/archives/roundcubeqian-duan-an-zhuang-ji-lu,https://frank2019.me,https://frank2019.me/rss.xml,2024-09-05,1725512583.0
@@ -17,8 +17,8 @@ Nginx 集成 ModSecurity 实现 Web 应用防火墙功能,杜老师说,https://d
 HTTP 压力测试中的 Coordinated Omission,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_08_30-http_load_testing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-08-30,1724976000.0
 使用 Docker 自托管 VS Code 网页版,杜老师说,https://dusays.com/742/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-27,1724774400.0
 KubeCon China 2024 之旅,This Cute World,https://thiscute.world/posts/kubecon-china-2024/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2024-08-27,1724724622.0
-Kong 3.7重磅上线！Kong AI Gateway 正式 GA！🦍,把酒诗代码，趁乱写年华。,https://102no.com/2024/08/27/kong-3.7/,https://102no.com/,https://102no.com/atom.xml,2024-08-27,1724716800.0
 产品创意是怎么来的？,Andy Stewart,//manateelazycat.github.io/2024/08/27/how-creativity-arises/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-08-27,1724716800.0
+Kong 3.7重磅上线！Kong AI Gateway 正式 GA！🦍,把酒诗代码，趁乱写年华。,https://102no.com/2024/08/27/kong-3.7/,https://102no.com/,https://102no.com/atom.xml,2024-08-27,1724716800.0
 水银河：重庆人想要的清凉都在这里,Macin,https://macin.org/2024/08/26/shui-yin-he/,https://macin.org/,https://www.macin.org/atom.xml,2024-08-26,1724716201.0
 聊下apollo配置中心的接入,Nicksxs's Blog,https://nicksxs.me/2024/08/25/%E8%81%8A%E4%B8%8Bapollo%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83%E7%9A%84%E6%8E%A5%E5%85%A5/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-08-25,1724595468.0
 【VMware】虚拟机绕过软件授权——锁定时间及修改CPU型号,Luminous' Home,https://luotianyi.vc/8375.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-08-25,1724552303.0
@@ -39,8 +39,8 @@ AI 服务器， 开源开发者专属福利！,Andy Stewart,//manateelazycat.git
 轻量级参数解析库-tiny_cmdline,Bing's Blog,https://imcbc.cn/202408/about_tiny_summary/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-08-13,1723549535.0
 服务器操作系统安全加固项,杜老师说,https://dusays.com/737/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-12,1723478400.0
 一个经典的fastjson反序列化问题记录,Nicksxs's Blog,https://nicksxs.me/2024/08/11/%E4%B8%80%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84fastjson%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-08-11,1723374595.0
-「代码艺术家」不会被 AI 取代,Randy's Blog,https://lutaonan.com/blog/code-artists/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-08-10,1723248000.0
 「代码艺术家」不会被 AI 取代,Randy's Blog,https://lutaonan.com/blog/code-artists,https://lutaonan.com,https://lutaonan.com/rss.xml,2024-08-10,1723248000.0
+「代码艺术家」不会被 AI 取代,Randy's Blog,https://lutaonan.com/blog/code-artists/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-08-10,1723248000.0
 Nginx 可视化编辑工具 nginxWebUI 安装和使用,杜老师说,https://dusays.com/736/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-09,1723219200.0
 My MacOS Essentials,Bin Wang - My Personal Blog,https://www.binwang.me/2024-08-07-My-MacOS-Essentials.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-08-07,1723003200.0
 Nginx 可视化编辑工具 Nginx UI 安装和使用,杜老师说,https://dusays.com/735/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-06,1722960000.0
