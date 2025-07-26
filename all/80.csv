@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+光速叛逃！——将网站部署至 Cloudflare Workers Site 上,ChrAlpha,https://blog.ichr.me/post/cf-workers-site-deploy/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-11-29,1606691982.0
+Virtual Machine Manager 使用和进阶,杜老师说,https://dusays.com/287/,https://dusays.com/,https://dusays.com/atom.xml,2020-11-29,1606665600.0
 历史与记忆,Frank笔记,https://frank2019.me/archives/li-shi-yu-ji-yi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-11-29,1606631580.0
 Undefined,FlyingSky's Blog,https://blog.fsky7.com/archives/173/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-11-29,1606629540.0
 Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-29-Keep-Data-Consistency-During-Database-Migration.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-29,1606626000.0
@@ -47,5 +49,3 @@ Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,htt
 通过阳台种菜实现蔬菜自由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
 VPS 云主机测试脚本,杜老师说,https://dusays.com/275/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-23,1603468800.0
 ✳️ Vi/Vim使用备忘,qinxs小站,https://7bxing.com/posts/b04c6f46/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-10-23,1603435073.0
-写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-22,1603404285.0
-公共 DNS 服务器地址,杜老师说,https://dusays.com/274/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-20,1603209600.0
