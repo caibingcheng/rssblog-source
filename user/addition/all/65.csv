@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+2018 香港流行音乐推介,Randy's Blog,https://lutaonan.com/blog/2018-cantonpop-list/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-12-19,1545177600.0
 Prometheus MySQL Exporter源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_16-prometheus_mysqld_exporter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-16,1544918400.0
 MySQL性能指标,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_13-db_metrics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-13,1544659200.0
 使用Dropbox来备份服务器文件,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_12-use_dropbox_to_backup_server.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-12,1544572800.0
@@ -48,4 +49,3 @@ PyCon JP 2018 記,Just lepture,https://lepture.com/zh/2018/pycon-jp-2018,https:/
 Cookie 中的secure和httponly属性,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_16-cookie_secure_httponly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-09-15,1536969687.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-09-15,1536969600.0
-一个阅读源代码的技巧,Randy's Blog,https://lutaonan.com/blog/trick-for-reading-source-code/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-09-14,1536883200.0
