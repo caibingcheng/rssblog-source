@@ -1,9 +1,10 @@
 title,author,link,home,rss,date,timestamp
+java 中发起 http 请求时证书问题解决记录,Nicksxs's Blog,https://nicksxs.me/2023/07/29/java-%E4%B8%AD%E5%8F%91%E8%B5%B7-http-%E8%AF%B7%E6%B1%82%E6%97%B6%E8%AF%81%E4%B9%A6%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E8%AE%B0%E5%BD%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-07-29,1690616633.0
 GitLab Runner 初体验,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/766/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-07-27,1690495831.0
-拥抱恐惧,Frank笔记,https://frank2019.me/archives/1690172493042,https://frank2019.me/,https://frank2019.me/rss.xml,2023-07-25,1690261614.0
 拥抱恐惧,Frank笔记,http://frank2019.me/archives/1690172493042,http://frank2019.me/,https://frank2019.me/rss.xml,2023-07-25,1690261614.0
-萌ICP备异次元之旅,汐塔魔法屋,https://blog.storical.space/posts/58203,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-07-24,1690209992.0
+拥抱恐惧,Frank笔记,https://frank2019.me/archives/1690172493042,https://frank2019.me/,https://frank2019.me/rss.xml,2023-07-25,1690261614.0
 萌ICP备异次元之旅,汐塔魔法屋,https://blog.sinzmise.top/posts/58203/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-07-24,1690209992.0
+萌ICP备异次元之旅,汐塔魔法屋,https://blog.storical.space/posts/58203,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-07-24,1690209992.0
 野人湾：夏日溪降，撒欢撒欢,Macin,https://macin.org/2023/07/23/ye-ren-wan/,https://macin.org/,https://www.macin.org/atom.xml,2023-07-23,1690154727.0
 《寻羊历险记》读后感,Nicksxs's Blog,https://nicksxs.me/2023/07/23/%E3%80%8A%E5%AF%BB%E7%BE%8A%E5%8E%86%E9%99%A9%E8%AE%B0%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-07-23,1690119637.0
 除了升职加薪，激励员工还有别的方法吗,见字如面,https://hiwannz.com/archives/834,https://hiwannz.com,https://hiwannz.com/feed,2023-07-23,1690098343.0
@@ -22,8 +23,8 @@ Nodejs 发送短信程序避坑指南,怠惰のコエ - imba久期 BLOG,https://
 我的tulpa —— 夏玖铃的简介,汐塔魔法屋,https://blog.storical.space/posts/50710,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-07-16,1689504189.0
 我的tulpa —— 夏玖铃的简介,汐塔魔法屋,https://blog.sinzmise.top/posts/50710/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-07-16,1689504189.0
 分享一款离线下载网盘Pikpak,瓦解的生活记事,https://hin.cool/posts/pikpakshare.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-07-16,1689472800.0
-Vercel部署Umami,汐塔魔法屋,https://blog.storical.space/posts/28733,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-07-14,1689324493.0
 Vercel部署Umami,汐塔魔法屋,https://blog.sinzmise.top/posts/28733/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-07-14,1689324493.0
+Vercel部署Umami,汐塔魔法屋,https://blog.storical.space/posts/28733,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-07-14,1689324493.0
 屏蔽 Censys 扫描器， 及设置仅允许 Cloudflare 回源,Zikin 的独立博客,https://zikin.org/block-censys-scanner/,https://zikin.org/,https://zikin.org/feed,2023-07-12,1689154107.0
 八角井村：藕花深 莲蓬沉,Macin,https://macin.org/2023/07/10/ba-jiao-jing-cun/,https://macin.org/,https://www.macin.org/atom.xml,2023-07-10,1689031582.0
 安卓手机使用 Box64 模拟 x64 架构搭建 Minecraft 基岩版服务器（BDS）！,岚天小窝,https://blog.ltya.top/posts/Running-BDS-with-Box64.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2023-07-10,1689009540.0
@@ -36,8 +37,8 @@ Ubuntu 手动编译 PyQt6 支持私有解码器,manateelazycat.github.io,//manat
 盘点我访问过的古老站点,汐塔魔法屋,https://blog.storical.space/posts/12779,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-07-06,1688663052.0
 让小爱也能控制美的电器,瓦解的生活记事,https://hin.cool/posts/homeassistant.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-07-06,1688608800.0
 读《打开心智》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_07_06-free_your_mind.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-07-06,1688601600.0
-博客大更新,汐塔魔法屋,https://blog.sinzmise.top/posts/53662/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-07-05,1688585620.0
 博客大更新,汐塔魔法屋,https://blog.storical.space/posts/53662,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-07-05,1688585620.0
+博客大更新,汐塔魔法屋,https://blog.sinzmise.top/posts/53662/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-07-05,1688585620.0
 免费的海艺AI绘图体验,瓦解的生活记事,https://hin.cool/posts/seaart.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-07-04,1688482800.0
 台州：百越地，梅子黄时雨,Macin,https://macin.org/2023/07/03/tai-zhou-mei-shi/,https://macin.org/,https://www.macin.org/atom.xml,2023-07-03,1688424660.0
 车险报价和续保,瓦解的生活记事,https://hin.cool/posts/chexian.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-07-03,1688402400.0
@@ -48,4 +49,3 @@ nas 中使用 tmm 刮削视频,Nicksxs's Blog,https://nicksxs.me/2023/07/02/%E4%
 xLog 免费博客,Muidar's Site,https://muidar.com/posts/cmuidar/free-blog-xlog/,https://muidar.com,https://muidar.com/feed,2023-07-02,1688290402.0
 叶敬忠：在权力的包围中不要熄灭真善美的光,Macin,https://macin.org/2023/06/30/xie-jing-zhong-jiang-hua/,https://macin.org/,https://www.macin.org/atom.xml,2023-06-30,1688124622.0
 202306：萧寺经新雨，山间六月清,Macin,https://macin.org/2023/06/30/202306/,https://macin.org/,https://www.macin.org/atom.xml,2023-06-30,1688122227.0
-苍岭古道：浙徒步真够野,Macin,https://macin.org/2023/06/28/cang-ling-gu-dao/,https://macin.org/,https://www.macin.org/atom.xml,2023-06-28,1687952479.0
