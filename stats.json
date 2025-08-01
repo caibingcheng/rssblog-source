@@ -738,7 +738,6 @@
     "user": [
       {
         "user": "bbing",
-        "all": 36,
         "date": [
           [
             "2025",
@@ -979,11 +978,11 @@
             ]
           ]
         ],
-        "member": 1
+        "member": 1,
+        "all": 36
       },
       {
         "user": "addition",
-        "all": 77,
         "date": [
           [
             "2025",
@@ -1546,7 +1545,8 @@
             ]
           ]
         ],
-        "member": 2
+        "member": 2,
+        "all": 77
       }
     ]
   }
