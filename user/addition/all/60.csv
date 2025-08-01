@@ -10,7 +10,7 @@ SQLAlchemy使用主从与数据库autocommit,Jiajun的技术笔记,https://jiaju
 【WEB系列】SpringBoot引入的依赖为什么没有版本号,框架師,https://www.mobaijun.com/posts/1944509409.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-20,1576807977.0
 【工具系列】IDEA启动项目很慢解决方案,框架師,https://www.mobaijun.com/posts/3587260547.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-19,1576718814.0
 Blackbox禁用IPv6,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_19-blackbox_disable_ipv6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-19,1576713600.0
-预防缓存击穿,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_18-cache_miss.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
+Go 1.13的errors挺香,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_18-golang_133_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
 【工具系列】Typora Markdown 语法,框架師,https://www.mobaijun.com/posts/1660316417.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-16,1576482063.0
 【随笔】记录bug的一份文档,框架師,https://www.mobaijun.com/posts/174183769.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-16,1576478074.0
 【工具系列】'MyBatisCodeHelper-Pro插件破解版[2.7.7]',框架師,https://www.mobaijun.com/posts/381456583.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-16,1576464063.0
@@ -28,8 +28,8 @@ flutter中使用RESTful接口,Jiajun的技术笔记,https://jiajunhuang.com/arti
 Vim YouCompleteMe使用LSP(以dart为例),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_04-ycm_lsp_dart.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-04,1575417600.0
 flutter webview加载时显示进度,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_03-flutter_webview_indicator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-03,1575331200.0
 SQLAlchemy快速更新或插入对象,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_02-sqlalchemy_update_or_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-02,1575244800.0
-为网站添加 dark mode 支持,Ahonn's Blog,https://www.ahonn.me/blog/add-dark-mode-support-to-your-website,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
 为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
+为网站添加 dark mode 支持,Ahonn's Blog,https://www.ahonn.me/blog/add-dark-mode-support-to-your-website,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
 为网站添加 dark mode 支持,Yuexun's Blog,https://yuexunjiang.me/blog/add-dark-mode-support-to-your-website/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-12-01,1575158400.0
 修复Linux下curl等无法使用letsencrypt证书,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_26-lets_encrypt_linux_shell.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-26,1574726400.0
 欣赏一下K&R两位大神的代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_24-code_from_k_and_r.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-24,1574553600.0
@@ -41,11 +41,11 @@ Go语言MySQL时区问题,Jiajun的技术笔记,https://jiajunhuang.com/articles
 博客改版及 Tailwind CSS 实践,Randy's Blog,https://lutaonan.com/blog/what-is-tailwindcss-and-how-did-i-apply-it-on-my-blog/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-12,1573516800.0
 为什么我要用Linux作为桌面？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_11-why_linux_as_desktop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-11,1573430400.0
 1989 年的 CD 机 - SONY Discman D-9,Randy's Blog,https://lutaonan.com/blog/sony-discman-d9/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-09,1573257600.0
-disqus获取评论时忽略query string,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_08-disqus_thread_identifier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-08,1573171200.0
 即刻抽离: FreeBuds 3 无线降噪耳机 - 城市旅行,罗磊的独立博客,https://luolei.org/huawei-freebuds3,https://luolei.org,https://luolei.org/feed/,2019-11-08,1573171200.0
+disqus获取评论时忽略query string,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_08-disqus_thread_identifier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-08,1573171200.0
 MySQL性能优化指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_06-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-06,1572998400.0
 【译】30 分钟学会 LaTeX,云游君的小站,https://www.yunyoujun.cn/posts/trans-learn-latex-in-30-minutes,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-11-05,1572970176.0
-为什么无法坚持写博客,Randy's Blog,https://lutaonan.com/blog/reason-why-your-blog-is-not-alive,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-11-05,1572912000.0
 为什么无法坚持写博客,Randy's Blog,https://lutaonan.com/blog/reason-why-your-blog-is-not-alive/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-11-05,1572912000.0
+为什么无法坚持写博客,Randy's Blog,https://lutaonan.com/blog/reason-why-your-blog-is-not-alive,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-11-05,1572912000.0
 网络编程所需要熟悉的那些函数,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_01-network_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-01,1572566400.0
 DNSCrypt简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_31-dnscrypt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-31,1572480000.0
