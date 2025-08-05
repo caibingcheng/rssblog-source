@@ -1,14 +1,14 @@
 title,author,link,home,rss,date,timestamp
 这两年工作心态上的一些变化,BBing's Blog,https://bbing.com.cn/202203/work-summary-1922/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-22,1647960635.0
-通过dll的跨进程通讯,DearXuan的主页,https://blog.dearxuan.com/2022/03/22/%E9%80%9A%E8%BF%87dll%E7%9A%84%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E8%AE%AF/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-22,1647923580.0
 通过dll的跨进程通讯,DearXuan的主页,https://dearxuan.top/2022/03/22/%E9%80%9A%E8%BF%87dll%E7%9A%84%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E8%AE%AF/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-22,1647923580.0
+通过dll的跨进程通讯,DearXuan的主页,https://blog.dearxuan.com/2022/03/22/%E9%80%9A%E8%BF%87dll%E7%9A%84%E8%B7%A8%E8%BF%9B%E7%A8%8B%E9%80%9A%E8%AE%AF/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-22,1647923580.0
 桌面窗口管理器占用内存过高,Yulin Lewis' Blog,https://lewky.cn/posts/dwm-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-22,1647908442.0
 桌面窗口管理器占用内存过高,Yulin Lewis' Blog,https://lewky233.top/posts/dwm-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-22,1647908442.0
 Nginx 源码阅读（二）: 请求处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_22-nginx_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-22,1647907200.0
 直接负责,见字如面,https://hiwannz.com/archives/679,https://hiwannz.com,https://hiwannz.com/feed,2022-03-21,1647860631.0
 NULL和nullptr实际问题分析,BBing's Blog,https://bbing.com.cn/202203/null-nullptr-problem/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-03-21,1647851315.0
-ELK系列(6) - Elasticsearch常用接口,Yulin Lewis' Blog,https://lewky233.top/posts/elk-6/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-21,1647823081.0
 ELK系列(6) - Elasticsearch常用接口,Yulin Lewis' Blog,https://lewky.cn/posts/elk-6/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-21,1647823081.0
+ELK系列(6) - Elasticsearch常用接口,Yulin Lewis' Blog,https://lewky233.top/posts/elk-6/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-21,1647823081.0
 Nginx 源码阅读（一）: 启动流程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_21-nginx_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-21,1647820800.0
 麒麟系统引导优盘制作,杜老师说,https://dusays.com/445/,https://dusays.com/,https://dusays.com/atom.xml,2022-03-20,1647792000.0
 给小电驴上牌,Nicksxs's Blog,https://nicksxs.me/2022/03/20/%E7%BB%99%E5%B0%8F%E7%94%B5%E9%A9%B4%E4%B8%8A%E7%89%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-03-20,1647780113.0
@@ -18,8 +18,8 @@ ELK系列(5) - Elasticsearch性能调优,Yulin Lewis' Blog,https://lewky233.top/
 ELK系列(5) - Elasticsearch性能调优,Yulin Lewis' Blog,https://lewky.cn/posts/elk-5/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-19,1647700025.0
 Kubernetes、集群联邦和资源分发,面向信仰编程,https://draveness.me//kuberentes-federation,https://draveness.me/,https://draveness.me/feed.xml,2022-03-19,1647648000.0
 Kubernetes、集群联邦和资源分发,面向信仰编程,https://draven.co//kuberentes-federation,https://draven.co/,https://draveness.me/feed.xml,2022-03-19,1647648000.0
-深度学习基础-线性回归,DearXuan的主页,https://dearxuan.top/2022/03/18/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80-%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-18,1647612180.0
 深度学习基础-线性回归,DearXuan的主页,https://blog.dearxuan.com/2022/03/18/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80-%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-18,1647612180.0
+深度学习基础-线性回归,DearXuan的主页,https://dearxuan.top/2022/03/18/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80-%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-18,1647612180.0
 被疫情严重影响的这两天,非理勿试,https://www.ntiy.com/1735.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-18,1647609201.0
 Hugo的Loveit主题修改sitemap,cywhat's blog,https://cywhat.cn/Hugo%E7%9A%84Loveit%E4%B8%BB%E9%A2%98%E4%BF%AE%E6%94%B9sitemap.xml%E9%85%8D%E7%BD%AE/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-03-18,1647574281.0
 麒麟桌面操作系统密码恢复,杜老师说,https://dusays.com/444/,https://dusays.com/,https://dusays.com/atom.xml,2022-03-17,1647532800.0
@@ -28,24 +28,24 @@ Nginx安装和卸载,Barney's Blog,https://hugo.bnblogs.cc/nginx%E5%AE%89%E8%A3%
 Go 泛型简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_17-go_generics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-17,1647475200.0
 Hg hooks 实践历程,4Ark × Blog,https://4ark.me/post/hg-hooks.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-17,1647475200.0
 读《摄影构图就这么简单》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/03/16/reading-composition.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-16,1647388800.0
-计算机组成原理-计数制与定点数编码,DearXuan的主页,https://blog.dearxuan.com/2022/03/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E6%95%B0%E5%88%B6%E4%B8%8E%E5%AE%9A%E7%82%B9%E6%95%B0%E7%BC%96%E7%A0%81/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-15,1647315600.0
 计算机组成原理-计数制与定点数编码,DearXuan的主页,https://dearxuan.top/2022/03/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E6%95%B0%E5%88%B6%E4%B8%8E%E5%AE%9A%E7%82%B9%E6%95%B0%E7%BC%96%E7%A0%81/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-15,1647315600.0
+计算机组成原理-计数制与定点数编码,DearXuan的主页,https://blog.dearxuan.com/2022/03/15/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E6%95%B0%E5%88%B6%E4%B8%8E%E5%AE%9A%E7%82%B9%E6%95%B0%E7%BC%96%E7%A0%81/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-15,1647315600.0
 KVM 显卡穿透给 Windows,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_15-kvm_windows_gpu_passthrough.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-15,1647302400.0
 书评 | 如何提高学习效率，让知识真正转化为自身价值？,冰哥笔记,https://www.bgbiji.com/887.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-14,1647274175.0
 麒麟服务器操作系统安装 VMTools,杜老师说,https://dusays.com/443/,https://dusays.com/,https://dusays.com/atom.xml,2022-03-14,1647273600.0
 修改了ssh默认端口如何配置git,Barney's Blog,https://hugo.bnblogs.cc/%E4%BF%AE%E6%94%B9%E4%BA%86ssh%E9%BB%98%E8%AE%A4%E7%AB%AF%E5%8F%A3%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AEgit/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-03-14,1647241133.0
 写给开发人员的实用密码学（八）—— 数字证书与 TLS 协议,This Cute World,https://thiscute.world/posts/about-tls-cert/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-13,1647187200.0
-计算机组成原理-计算机系统概述,DearXuan的主页,https://blog.dearxuan.com/2022/03/13/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-13,1647182820.0
 计算机组成原理-计算机系统概述,DearXuan的主页,https://dearxuan.top/2022/03/13/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-13,1647182820.0
+计算机组成原理-计算机系统概述,DearXuan的主页,https://blog.dearxuan.com/2022/03/13/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-13,1647182820.0
 Leetcode 83 删除排序链表中的重复元素 ( Remove Duplicates from Sorted List *Easy* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/03/13/Leetcode-83-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0-Remove-Duplicates-from-Sorted-List-Easy-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-03-13,1647157902.0
 燃烧吧，爆发吧！像苹果一样红，像鞭炮一样响！,非理勿试,https://www.ntiy.com/1728.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-13,1647149279.0
 失眠症治疗所（未完结）,LonelyGod,https://hin.cool/posts/shimianzheng.html,https://hin.cool/,https://hin.cool/atom.xml,2022-03-12,1647054000.0
 使用 HTTP Router 处理 Telegram Bot 按钮回调,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_12-tgbot_httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-12,1647043200.0
 周刊第4期：独立思考,4Ark × Blog,https://4ark.me/post/weekly-04.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-12,1647043200.0
 《Halo Infinite》光环无限第3幕「无人声版」,杜老师说,https://dusays.com/442/,https://dusays.com/,https://dusays.com/atom.xml,2022-03-11,1647014400.0
-算法基础-RSA公钥体系,DearXuan的主页,https://blog.dearxuan.com/2022/03/11/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-RSA%E5%85%AC%E9%92%A5%E4%BD%93%E7%B3%BB/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-11,1647006180.0
 算法基础-RSA公钥体系,DearXuan的主页,https://dearxuan.top/2022/03/11/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-RSA%E5%85%AC%E9%92%A5%E4%BD%93%E7%B3%BB/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-11,1647006180.0
+算法基础-RSA公钥体系,DearXuan的主页,https://blog.dearxuan.com/2022/03/11/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-RSA%E5%85%AC%E9%92%A5%E4%BD%93%E7%B3%BB/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-11,1647006180.0
 如何突破自己？,冰哥笔记,https://www.bgbiji.com/886.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-10,1646920190.0
-vercel制作api(python，nodejs，php),DearXuan的主页,https://dearxuan.top/2022/03/10/vercel%E5%88%B6%E4%BD%9Capi-python-nodejs-php/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-10,1646899440.0
 vercel制作api(python，nodejs，php),DearXuan的主页,https://blog.dearxuan.com/2022/03/10/vercel%E5%88%B6%E4%BD%9Capi-python-nodejs-php/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-03-10,1646899440.0
+vercel制作api(python，nodejs，php),DearXuan的主页,https://dearxuan.top/2022/03/10/vercel%E5%88%B6%E4%BD%9Capi-python-nodejs-php/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-03-10,1646899440.0
 有哪些坚持就有效果的生活好习惯？,冰哥笔记,https://www.bgbiji.com/885.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-10,1646876326.0
