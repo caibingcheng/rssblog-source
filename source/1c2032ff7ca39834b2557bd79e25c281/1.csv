@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
-What Happens If Raft Algorithm Is Not Fully Implemented,Bin Wang - My Personal Blog,https://www.binwang.me/2025-08-13-Why-Consensus-Shortcuts-Fail.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2025-08-13,1755057600.0
+My Workflow to Review Articles with LLMs,Bin Wang - My Personal Blog,https://www.binwang.me/2025-08-15-My-Workflow-to-Review-Articles-with-LLMs.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2025-08-15,1755230400.0
+Why Consensus Shortcuts Fail in Distributed Systems,Bin Wang - My Personal Blog,https://www.binwang.me/2025-08-13-Why-Consensus-Shortcuts-Fail.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2025-08-13,1755057600.0
 Improve Books Section of My Blog,Bin Wang - My Personal Blog,https://www.binwang.me/2025-07-02-Improve-Books-Section-of-My-Blog.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2025-07-02,1751428800.0
 Use OpenAPI Instead of MCP for LLM Tools,Bin Wang - My Personal Blog,https://www.binwang.me/2025-04-27-Use-OpenAPI-Instead-of-MCP-for-LLM-Tools.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2025-04-27,1745726400.0
 Travel Back To China: 2025 Edition,Bin Wang - My Personal Blog,https://www.binwang.me/2025-02-28-Travel-Back-To-China-2025.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2025-02-28,1740718800.0
@@ -48,4 +49,3 @@ Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,http
 DNS Resolving Bug in iOS 14,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-08-DNS-Resolving-Bug-in-iOS-14.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-08,1604811600.0
 Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-02-Use-TLA+-to-Verify-Cache-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-02,1604293200.0
 How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-18,1602993600.0
-Understand Liveness and Fairness in TLA+,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-06-Understand-Liveness-and-Fairness-in-TLA.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-06,1601956800.0
