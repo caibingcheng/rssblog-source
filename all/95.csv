@@ -1,5 +1,5 @@
 title,author,link,home,rss,date,timestamp
-关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
+关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 带你读单词第 18 期,杜老师说,https://dusays.com/43/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-20,1566316800.0
 带你读单词第 17 期,杜老师说,https://dusays.com/42/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-19,1566230400.0
 带你读单词第 16 期,杜老师说,https://dusays.com/41/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-18,1566144000.0
@@ -10,8 +10,8 @@ title,author,link,home,rss,date,timestamp
 带你读单词第 12 期,杜老师说,https://dusays.com/37/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-14,1565798400.0
 带你读单词第 11 期,杜老师说,https://dusays.com/36/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-13,1565712000.0
 带你读单词第 10 期,杜老师说,https://dusays.com/35/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-12,1565625600.0
-你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-dns-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
 你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-dns-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
+你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-dns-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
 带你读单词第 9 期,杜老师说,https://dusays.com/34/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-11,1565539200.0
 Blender 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/blender-learn-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-08-11,1565520573.0
 带你读单词第 8 期,杜老师说,https://dusays.com/33/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-10,1565452800.0
@@ -32,9 +32,9 @@ CentOS7 的内核优化详解,杜老师说,https://dusays.com/22/,https://dusays
 FTP 服务的详解「下篇」,杜老师说,https://dusays.com/21/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-29,1564416000.0
 好的命名是最好的文档,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_29-name_is_the_best_doc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-29,1564358400.0
 FTP 服务的详解「上篇」,杜老师说,https://dusays.com/20/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-28,1564329600.0
-你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-util-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
 你可能不知道的 Node.js util 模块,Ahonn's Blog,https://www.ahonn.me/blog/node.js-util-module-you-may-not-know,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
 你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-util-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
+你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-util-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
 CentOS7 的内核优化,杜老师说,https://dusays.com/19/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-27,1564243200.0
 初始化 CentOS7 系统「下篇」,杜老师说,https://dusays.com/18/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-26,1564156800.0
 初始化 CentOS7 系统「上篇」,杜老师说,https://dusays.com/17/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-25,1564070400.0
@@ -47,5 +47,5 @@ NFS 的服务详解「上篇」,杜老师说,https://dusays.com/14/,https://dusa
 Linux高分屏支持,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_20-linux_hidpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-20,1563580800.0
 面试的那些事「上篇」,杜老师说,https://dusays.com/11/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-19,1563552000.0
 让 Hexo 支持在线编辑,杜老师说,https://dusays.com/10/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-18,1563465600.0
-未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0
 未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0
+未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0
