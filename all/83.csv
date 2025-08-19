@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+apt安装特定包以及忽略升级某个包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_05-apt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-05,1599264000.0
 Git 与 SVN 的区别,杜老师说,https://dusays.com/258/,https://dusays.com/,https://dusays.com/atom.xml,2020-09-02,1599062400.0
 hexo-theme-yun 制作笔记,云游君的小站,https://www.yunyoujun.cn/posts/make-hexo-theme-yun,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-01,1598990400.0
 GTO推荐策略的分析,Frank笔记,https://frank2019.me/archives/gtotui-jian-ce-lue-de-fen-xi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-09-01,1598937240.0
@@ -13,8 +14,8 @@ Ansible Playbook 实战案例篇,杜老师说,https://dusays.com/256/,https://du
 【装修日记：10月1日更新】：松山没有湖:，东莞三房装修 | 长期记录,罗磊的独立博客,https://luolei.org/new-apartment-log-book/,https://luolei.org/,https://luolei.org/feed/,2020-08-27,1598506672.0
 2016美国总统候选人辩论,qinxs小站,https://7bxing.com/posts/52bf0210/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-08-27,1598503361.0
 【装修日记：10月1日更新】：松山没有湖:，东莞三房装修 | 长期记录,罗磊的独立博客,https://luolei.org/new-apartment-log-book,https://luolei.org,https://luolei.org/feed/,2020-08-27,1598486400.0
-博客开放评论,Randy's Blog,https://lutaonan.com/blog/open-for-comment/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-08-26,1598400000.0
 Goroutine是如何处理栈的？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
+博客开放评论,Randy's Blog,https://lutaonan.com/blog/open-for-comment/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-08-26,1598400000.0
 Apache 的三种工作模式介绍「event 篇」,杜老师说,https://dusays.com/255/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-24,1598284800.0
 Matrix: A Self Hosted Instant Messaging Solution with End to End Encryption,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-23-Build-An-Instant_Messaging-System-without-Censorship-Choose-the-right-technology.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-23,1598155200.0
 Go DiskQueue源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-22,1598054400.0
@@ -27,8 +28,8 @@ NSQ源码分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_1
 Apache 的三种工作模式介绍「prefork 篇」,杜老师说,https://dusays.com/252/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-15,1597507200.0
 写给大学新生的数字指南,罗磊的独立博客,https://luolei.org/freshman-internet-guidebook/,https://luolei.org/,https://luolei.org/feed/,2020-08-15,1597495033.0
 Use RSS and Kindle to Read News,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-15-Use-RSS-and-Kindle-to-Read-News.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-15,1597464000.0
-写给大学新生的数字指南,罗磊的独立博客,https://luolei.org/freshman-internet-guidebook,https://luolei.org,https://luolei.org/feed/,2020-08-15,1597449600.0
 NSQ简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_15-nsq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-15,1597449600.0
+写给大学新生的数字指南,罗磊的独立博客,https://luolei.org/freshman-internet-guidebook,https://luolei.org,https://luolei.org/feed/,2020-08-15,1597449600.0
 Docmate - 一个可以自由部署的文档平台,Randy's Blog,https://lutaonan.com/blog/announcing-docmate/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-08-15,1597449600.0
 我与小镇与家,云游君的小站,https://www.yunyoujun.cn/essay/i-and-town-and-home/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-14,1597442400.0
 MySQL 主键和唯一索引区别,杜老师说,https://dusays.com/251/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-12,1597248000.0
@@ -48,4 +49,3 @@ What Is Wrong about Recommendation System,Bin Wang - My Personal Blog,https://ww
 中国网络基建有多厉害？我在珠峰测网速,罗磊的独立博客,https://luolei.org/mountain-everest-internet-speedtest/,https://luolei.org/,https://luolei.org/feed/,2020-07-31,1596201040.0
 生活的本质,Frank笔记,https://frank2019.me/archives/sheng-huo-de-ben-zhi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-31,1596171900.0
 中国网络基建有多厉害？我在珠峰测网速,罗磊的独立博客,https://luolei.org/mountain-everest-internet-speedtest,https://luolei.org,https://luolei.org/feed/,2020-07-31,1596153600.0
-路线决定未来,Frank笔记,https://frank2019.me/archives/lu-xian-jue-ding-wei-lai,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-29,1595998980.0
