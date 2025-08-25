@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+cmd - 常用命令,Yulin Lewis' Blog,https://lewky.cn/posts/cmd-commands/,https://lewky.cn/,https://lewky.cn/index.xml,2025-02-03,1738589319.0
 Hugo系列(1) - 简单搭建教程与远程部署,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-1.html/,https://lewky.cn/,https://lewky.cn/index.xml,2025-02-03,1738588247.0
 聊聊一次 brew update 引发的血案-202502更新,Nicksxs's Blog,https://nicksxs.me/2025/02/02/%E8%81%8A%E8%81%8A%E4%B8%80%E6%AC%A1-brew-update-%E5%BC%95%E5%8F%91%E7%9A%84%E8%A1%80%E6%A1%88-202502%E6%9B%B4%E6%96%B0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-02-02,1738466836.0
 麒麟服务器操作系统 yum 升级报错处理,杜老师说,https://dusays.com/795/,https://dusays.com/,https://dusays.com/atom.xml,2025-02-01,1738425600.0
@@ -23,8 +24,8 @@ systemtap学习记录一,Nicksxs's Blog,https://nicksxs.me/2025/01/26/systemtap%
 【随笔】Nacos 2.5 版本更新后，配置文件保存报错异常,框架師,https://www.mobaijun.com/posts/2663618628.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-01-24,1737713589.0
 地铁站里的小感悟,谋生者 I Create Life,https://www.icl.site/17375328836089.html,https://www.icl.site/,https://www.icl.site/atom.xml,2025-01-22,1737532883.0
 再次入手「Smith电子学」,辛未羊的网络日志,https://panqiincs.me/2025/01/22/new-smith-electronics/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2025-01-22,1737531750.0
-技术创业者要改正的习惯,Andy Stewart,//manateelazycat.github.io/2025/01/22/tech-entrepreneur/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-01-21,1737475200.0
 FreeFileSync 开源文件同步与备份利器,杜老师说,https://dusays.com/791/,https://dusays.com/,https://dusays.com/atom.xml,2025-01-21,1737475200.0
+技术创业者要改正的习惯,Andy Stewart,//manateelazycat.github.io/2025/01/22/tech-entrepreneur/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-01-21,1737475200.0
 寻找吉隆坡的二手市场,Macin,https://macin.org/2025/01/21/ji-long-po-er-shou/,https://macin.org/,https://www.macin.org/atom.xml,2025-01-21,1737461122.0
 比惨,谋生者 I Create Life,https://www.icl.site/17373520448434.html,https://www.icl.site/,https://www.icl.site/atom.xml,2025-01-20,1737352044.0
 新的域名，新的故事,汐塔魔法屋,https://blog.storical.space/posts/60486,https://blog.storical.space,https://blog.storical.space/atom.xml,2025-01-19,1737326718.0
@@ -48,4 +49,3 @@ PIVOT Vol.11 推荐几个macOS软件,Another Dayu,https://anotherdayu.com/2025/6
 使用 GoAccess 分析 Nginx 访问日志,杜老师说,https://dusays.com/787/,https://dusays.com/,https://dusays.com/atom.xml,2025-01-09,1736438400.0
 室内吸烟室,Another Dayu,https://anotherdayu.com/2025/6413/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-01-09,1736424524.0
 Eureka问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/eureka-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2025-01-09,1736414960.0
-CTR预估算法之DeepFm,谋生者 I Create Life,https://www.icl.site/17364024996989.html,https://www.icl.site/,https://www.icl.site/atom.xml,2025-01-09,1736406099.0
