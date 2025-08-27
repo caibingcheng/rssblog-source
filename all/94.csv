@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+MySQL指定使用索引(使用索引提示),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_25-mysql_use_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-25,1569369600.0
+MySQL 主从复制的简介,杜老师说,https://dusays.com/78/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-24,1569340800.0
 PHP 动态模式和静态模式区别,杜老师说,https://dusays.com/77/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-23,1569254400.0
 QT5使用GTK主题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-qt5_gtk_theme.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 Linux 运维人员最常用 166 个命令汇总,杜老师说,https://dusays.com/76/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-22,1569168000.0
@@ -8,8 +10,8 @@ IaaS/PaaS/SaaS 的区别,杜老师说,https://dusays.com/75/,https://dusays.com/
 简单架构中的数据走向,杜老师说,https://dusays.com/74/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-20,1568995200.0
 地址解析协议,杜老师说,https://dusays.com/73/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-19,1568908800.0
 TCP 的快速恢复,杜老师说,https://dusays.com/72/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-18,1568822400.0
-ssh时自动运行tmux,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 ASHMORE 超声波清洗机 | 用超声波清洁2000块的键盘,罗磊的独立博客,https://luolei.org/ashmore-ultrasonic-cleaner,https://luolei.org,https://luolei.org/feed/,2019-09-18,1568764800.0
+ssh时自动运行tmux,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 TCP 的快速重传,杜老师说,https://dusays.com/71/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-17,1568736000.0
 TCP 的拥塞避免,杜老师说,https://dusays.com/70/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-16,1568649600.0
 爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0
@@ -47,5 +49,3 @@ Golang(Go语言)爬虫框架colly简明教程及源码阅读与分析,Jiajun的�
 带你读单词第 23 期,杜老师说,https://dusays.com/53/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-30,1567180800.0
 选择合适的技术栈,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_30-choose_properly_tech.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-30,1567123200.0
 带你读单词第 22 期,杜老师说,https://dusays.com/52/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-29,1567094400.0
-带你读单词第 21 期,杜老师说,https://dusays.com/51/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-28,1567008000.0
-思科网络地址转换,杜老师说,https://dusays.com/50/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-27,1566921600.0
