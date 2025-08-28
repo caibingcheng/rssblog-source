@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
-复变函数,菲兹克斯喵,https://physnya.top/complex/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-15,1744682367.0
+Lesson 7 宇宙学常数,菲兹克斯喵,https://physnya.top/cosmos/lesson-7/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-15,1744720211.0
+Lesson 1 简介,菲兹克斯喵,https://physnya.top/complex/lesson-1/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-15,1744682367.0
 【随笔】解决 dynamic-datasource 2.5.6 与 Spring Boot 2.7.7 不兼容问题,框架師,https://www.mobaijun.com/posts/1479088608.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-04-14,1744626416.0
 流水账 Week 20,菲兹克斯喵,https://physnya.top/posts/lctmnkeh/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-13,1744559281.0
 关于arthas的一个比较有用的使用方式,Nicksxs's Blog,https://nicksxs.me/2025/04/13/%E5%85%B3%E4%BA%8Earthas%E7%9A%84%E4%B8%80%E4%B8%AA%E6%AF%94%E8%BE%83%E6%9C%89%E7%94%A8%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-04-13,1744547033.0
@@ -13,8 +14,8 @@ Lesson 8 情感劳动,菲兹克斯喵,https://physnya.top/writing/lesson-8/,http
 initx v0.1.0 发布,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/800/,https://imba97.cn/,https://imba97.cn/atom.xml,2025-04-08,1744151957.0
 Manifest V3 之后如何屏蔽广告：NextDNS,Another Dayu,https://anotherdayu.com/2025/6697/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-04-08,1744148931.0
 Lesson 8 视界 & CMB,菲兹克斯喵,https://physnya.top/cosmos/lesson-8/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-07,1744036850.0
-种草 K100 Air,Andy Stewart,//manateelazycat.github.io/2025/04/07/k100-air/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-04-06,1743955200.0
 图片为啥用 Base64 格式进行传输,杜老师说,https://dusays.com/800/,https://dusays.com/,https://dusays.com/atom.xml,2025-04-06,1743955200.0
+种草 K100 Air,Andy Stewart,//manateelazycat.github.io/2025/04/07/k100-air/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-04-06,1743955200.0
 流水账 Week 19,菲兹克斯喵,https://physnya.top/posts/2tft6k64/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-06,1743951342.0
 关于Termux中的shell命令的历史记录问题,Nicksxs's Blog,https://nicksxs.me/2025/04/06/%E5%85%B3%E4%BA%8ETermux%E4%B8%AD%E7%9A%84shell%E5%91%BD%E4%BB%A4%E7%9A%84%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-04-06,1743948394.0
 孤独的杰永远长不大,瓦解的生活记事,https://hin.cool/posts/wajiedeshenghuo.html,https://hin.cool/,https://hin.cool/atom.xml,2025-04-06,1743944400.0
@@ -27,8 +28,8 @@ CockroachDB Serverless Architecture,Jiajun的技术笔记,https://jiajunhuang.co
 日式烧酒探店,Andy Stewart,//manateelazycat.github.io/2025/04/03/wonderful-bar/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-04-02,1743609600.0
 Lesson 7 第三次研讨,菲兹克斯喵,https://physnya.top/writing/lesson-7/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-02,1743579624.0
 podman 无故退出,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_04_02-podman_rootless_exited.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-04-02,1743552000.0
-砂锅糊饽🥘,把酒诗代码,https://102no.com/2025/04/01/sha-guo-hu-bo/,https://102no.com/,https://102no.com/atom.xml,2025-04-01,1743465600.0
 我们高估了智力的重要性,Randy's Blog,https://lutaonan.com/blog/oi,https://lutaonan.com,https://lutaonan.com/rss.xml,2025-04-01,1743465600.0
+砂锅糊饽🥘,把酒诗代码,https://102no.com/2025/04/01/sha-guo-hu-bo/,https://102no.com/,https://102no.com/atom.xml,2025-04-01,1743465600.0
 DPanel 让 Docker 管理变得轻松又高效,杜老师说,https://dusays.com/799/,https://dusays.com/,https://dusays.com/atom.xml,2025-03-31,1743436800.0
 2025-03小记,汐塔魔法屋,https://blog.storical.space/posts/write-202503,https://blog.storical.space,https://blog.storical.space/atom.xml,2025-03-30,1743355108.0
 社区运营的方法论,Andy Stewart,//manateelazycat.github.io/2025/03/31/community-work/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-03-30,1743350400.0
@@ -48,4 +49,3 @@ CSSWAF: Browser Detection Using CSS (No JavaScript Needed),yzqzss|一座桥在�
 新奇体验-记我的博客图片被恶意盗刷,Nicksxs's Blog,https://nicksxs.me/2025/03/23/%E6%96%B0%E5%A5%87%E4%BD%93%E9%AA%8C-%E8%AE%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%9B%BE%E7%89%87%E8%A2%AB%E6%81%B6%E6%84%8F%E7%9B%97%E5%88%B7/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-03-23,1742740603.0
 从 AI 编年史到继续发呆,见字如面,https://hiwannz.com/archives/1159.html,https://hiwannz.com,https://hiwannz.com/feed,2025-03-23,1742718918.0
 老 谢,瓦解的生活记事,https://hin.cool/posts/laoxie.html,https://hin.cool/,https://hin.cool/atom.xml,2025-03-22,1742676000.0
-Cursor Control-L (CTRL-L) Keyboard Shortcuts in Terminal,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_22-cursor_ctrl_l.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-22,1742601600.0
