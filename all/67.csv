@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+gevent不是黑魔法(二): gevent 实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_10_11-gevent_is_good_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-10-11,1633910400.0
 重看了下《蛮荒记》说说感受,Nicksxs's Blog,https://nicksxs.me/2021/10/10/%E9%87%8D%E7%9C%8B%E4%BA%86%E4%B8%8B%E3%80%8A%E8%9B%AE%E8%8D%92%E8%AE%B0%E3%80%8B%E8%AF%B4%E8%AF%B4%E6%84%9F%E5%8F%97/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-10-10,1633869863.0
 Ubuntu 的 DNS 不可用处理办法,杜老师说,https://dusays.com/391/,https://dusays.com/,https://dusays.com/atom.xml,2021-10-09,1633795200.0
 【Linux系列】Linux中的Free命令详解,框架師,https://www.mobaijun.com/posts/386444203.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-10-09,1633764874.0
@@ -48,4 +49,3 @@ Linux安装jdk11,cywhat's blog,https://cywhat.cn/Linux%E5%AE%89%E8%A3%85jdk11/,h
 杜老师的人格测试,杜老师说,https://dusays.com/384/,https://dusays.com/,https://dusays.com/atom.xml,2021-09-18,1631980800.0
 今年买了啥,见字如面,https://hiwannz.com/archives/602,https://hiwannz.com,https://hiwannz.com/feed,2021-09-18,1631936164.0
 Django自定义404页面,cywhat's blog,https://cywhat.cn/Django%E8%87%AA%E5%AE%9A%E4%B9%89404%E9%A1%B5%E9%9D%A2/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-09-17,1631908333.0
-用C++的odeint库求解微分方程,辛未羊的网络日志,https://panqiincs.me/2021/09/17/solve-ode-with-odeint/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2021-09-17,1631852453.0
