@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【Linux系列】将Docker容器设为自启动和取消容器自启动,框架師,https://www.mobaijun.com/posts/3024480743.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-05,1651719941.0
 【WEB系列】SpringBootStarter-组件化开发,框架師,https://www.mobaijun.com/posts/1232000011.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-28,1651141156.0
 【后端】MapStruct 使用详解,框架師,https://www.mobaijun.com/posts/239252401.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-20,1650447800.0
 【工具系列】Idea 远程调试服务器 Jar 包,框架師,https://www.mobaijun.com/posts/55789149.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-13,1649846866.0
@@ -48,4 +49,3 @@ MySQL远程连接失败(错误码:2003),框架师,https://www.mobaijun.com/posts
 SpringBoot2.3整合InfluxDB实现增删查,框架师,https://www.mobaijun.com/posts/1092756891.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-20,1611123302.0
 【WEB系列】SpringBoot实现邮件发送,框架師,https://www.mobaijun.com/posts/265470177.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-13,1610533373.0
 【随笔】正确的使用搜索引擎,框架師,https://www.mobaijun.com/posts/2845351032.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-11,1610359269.0
-【Java基础】Java-多线程,框架師,https://www.mobaijun.com/posts/3237902709.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-06,1609930602.0
