@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+如何在 Git 中真正删除一个文件,ChrAlpha,https://blog.ichr.me/post/git-remove-files-thoroughly/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-25,1585146890.0
+gunicorn max-requests 选项的作用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_25-gunicorn_max_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-25,1585094400.0
 鬼子来了，一部超越时代的影片,Frank笔记,https://frank2019.me/archives/gui-zi-lai-liao-yi-bu-chao-yue-shi-dai-de-ying-pian,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-24,1585080960.0
 VPS常用脚本,Frank笔记,https://frank2019.me/archives/vpschang-yong-jiao-ben,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-24,1585080900.0
 【工具系列】IDEA链接MySQL数据库失败,框架師,https://www.mobaijun.com/posts/1191060190.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-03-24,1585035553.0
@@ -25,8 +27,8 @@ pip freeze是魔鬼,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_
 一个feed流系统的演进,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_02-feed_system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-02,1583107200.0
 通过4bet来防守3bet,Frank笔记,https://frank2019.me/archives/tong-guo-4betlai-fang-shou-3bet,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096880.0
 使用Markdown在博客中添加视频,Frank笔记,https://frank2019.me/archives/shi-yong-markdownzai-bo-ke-zhong-tian-jia-shi-pin,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096760.0
-好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
 Android 使用view binding,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_01-android_view_binding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-01,1583020800.0
+好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
 好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
 关于浏览器隐藏 https 与 www 一事,ChrAlpha,https://blog.ichr.me/post/why-browsers-hide-https-and-www-in-address-bar/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-29,1582985007.0
 Ubuntu安装SS-Libev,Frank笔记,https://frank2019.me/archives/ubuntuan-zhuang-ss-libev,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-28,1582923840.0
@@ -47,5 +49,3 @@ Python中的并发控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/
 让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/technology/50,https://blog.fsky7.com,https://blog.fsky7.com/feed,2020-02-11,1581393600.0
 【花开物语|MAD】幹物女(WeiWei)-Bonboru!,云游君的小站,https://www.yunyoujun.cn/posts/hana-saku-iroha-weiwei-bonboru,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-09,1581272688.0
 Mac 上连接 Android 传输文件与配置 SDK platform tools 环境,ChrAlpha,https://blog.ichr.me/post/configurate-connection-with-android-on-mac/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-08,1581157605.0
-KVM spice协议在高分屏上的分辨率问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_08-kvm_spice_high_dpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-08,1581120000.0
-入戏太深，殃及世人。,Frank笔记,https://frank2019.me/archives/ru-xi-tai-shen-yang-ji-shi-ren.,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-06,1581022740.0

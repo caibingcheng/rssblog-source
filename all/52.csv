@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+OIDC(OpenID Connect) 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_06-openid_connect.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-06,1657065600.0
+任务队列简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_07_05-task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-07-05,1656979200.0
 记录自己 | 2022.07.04,冰哥笔记,https://www.bgbiji.com/1046.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-07-04,1656943259.0
 Django的csrf防御机制,cywhat's blog,https://cywhat.cn/Django%E7%9A%84csrf%E9%98%B2%E5%BE%A1%E6%9C%BA%E5%88%B6/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-07-04,1656916290.0
 奶牛快传专业版 COWTRANSFER PRO 文件在线传输,杜老师说,https://dusays.com/480/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-04,1656892800.0
@@ -89,5 +91,3 @@ background: red;
 }
 </style>",Peter's Blog,https://www.rainogo.com/posts/blog_notice_talk.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2022-06-20,1655739300.0
 记录自己 | 2022.06.20,冰哥笔记,https://www.bgbiji.com/1011.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-06-20,1655733720.0
-C++在给定内存上构造,Bing's Blog,https://bbing.com.cn/202206/cpp_placementnew_allocator/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-20,1655688195.0
-静态博客写作新体验-小书匠,BBing's Blog,https://bbing.com.cn/202206/staticblog_xiaoshujiang/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-06-19,1655650961.0

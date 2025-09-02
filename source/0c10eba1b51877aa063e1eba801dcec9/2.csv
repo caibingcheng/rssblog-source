@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+MySQL Index Condition Pushdown Optimization,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_12_28-index_condition_pushdown_optimization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-12-28,1672185600.0
 Go mod 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_12_16-go_mod.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-12-16,1671148800.0
 OpenWRT 使用 Android/iOS USB 网络,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_12_04-openwrt_usb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-12-04,1670112000.0
 搭建旁路由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_11_20-router.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-11-20,1668902400.0
@@ -48,4 +49,3 @@ Redis源码阅读：pub/sub实现,Jiajun的技术笔记,https://jiajunhuang.com/
 Redis源码阅读：zset实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_06_06-redis_source_code_11.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-06-06,1622937600.0
 Redis源码阅读：bitmap 位图的运算,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_30-redis_source_code_10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-30,1622332800.0
 Redis源码阅读：set是怎么做交并集运算的？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_29-redis_source_code_9.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-29,1622246400.0
-Redis源码阅读：list实现(ziplist， quicklist),Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_28-redis_source_code_8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-28,1622160000.0

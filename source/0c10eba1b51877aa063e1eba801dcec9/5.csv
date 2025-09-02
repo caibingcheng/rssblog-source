@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+gunicorn max-requests 选项的作用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_25-gunicorn_max_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-25,1585094400.0
 Redis使用中的几点注意事项,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_23-redis_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-23,1584921600.0
 给你的代码跑个分？pylint使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_12-pylint.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-12,1583971200.0
 一个Gunicorn worker数量引发的血案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_11-gunicorn_worker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-11,1583884800.0
@@ -23,7 +24,7 @@ Matebook X Pro 2019安装Debian 10,Jiajun的技术笔记,https://jiajunhuang.com
 ArchLinux忽略某个包的升级,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_22-archlinux_ignore_pkg.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-22,1576972800.0
 SQLAlchemy使用主从与数据库autocommit,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_21-autocommit.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-21,1576886400.0
 Blackbox禁用IPv6,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_19-blackbox_disable_ipv6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-19,1576713600.0
-预防缓存击穿,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_18-cache_miss.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
+Go 1.13的errors挺香,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_18-golang_133_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
 flutter开发体验汇报,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_16-flutter_dev.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-16,1576454400.0
 自己封装一个好用的Dart HTTP库,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_13-dart_requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-13,1576195200.0
 Flutter应用启动后检查更新,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_11-flutter_do_sth_after_boot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-11,1576022400.0
@@ -48,4 +49,3 @@ SQLAlchemy简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/20
 这些年，我们错过的n个亿,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_25-oh_my_money.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-25,1571961600.0
 给Linux用户的FreeBSD快速指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_19-freebsd_for_linux_users.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-19,1571443200.0
 旧电脑也不能闲着：家用备份方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_18-build_your_own_nas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-18,1571356800.0
-将SQLite的数据迁移到MySQL,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_15-grafana_moved_to_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-15,1571097600.0
