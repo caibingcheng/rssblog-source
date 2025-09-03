@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+2024-06小记,汐塔魔法屋,https://blog.sinzmise.top/posts/64935/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-06-28,1719613919.0
+向量数据库学习-介绍一下HNSW算法,Nicksxs's Blog,https://nicksxs.me/2024/06/23/%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8BHNSW%E7%AE%97%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-23,1719154250.0
 PIVOT Vol.5 终于毕业了！,Another Dayu,https://anotherdayu.com/2024/5796/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-06-23,1719134648.0
 观“我在闲鱼上买购物卡被骗了”有感：虚拟商品交易骗局防不胜防,非理勿试,https://www.ntiy.com/2185.html,https://www.ntiy.com,https://www.ntiy.com/feed,2024-06-21,1718935007.0
 手动清理C盘的空间,瓦解的生活记事,https://hin.cool/posts/cclean.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-06-20,1718902800.0
@@ -18,11 +20,11 @@ Random Playlists for Self Hosted Videos,Bin Wang - My Personal Blog,https://www.
 自建音乐服务 Navidrome,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/782/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-06-01,1717242096.0
 解决 Github Organizations 不显示,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/781/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-05-30,1717107984.0
 豆角蒸面🍜,把酒诗代码,https://102no.com/2024/05/27/dou-jiao-zheng-mian/,https://102no.com/,https://102no.com/atom.xml,2024-05-27,1716768000.0
-2024-05小记,汐塔魔法屋,https://blog.sinzmise.top/posts/10021/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-05-26,1716758313.0
 2024-05小记,汐塔魔法屋,https://blog.storical.space/posts/10021,https://blog.storical.space,https://blog.storical.space/atom.xml,2024-05-26,1716758313.0
+2024-05小记,汐塔魔法屋,https://blog.sinzmise.top/posts/10021/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-05-26,1716758313.0
 Headscale渐入佳境补充篇-自定义中转derper的证书问题,Nicksxs's Blog,https://nicksxs.me/2024/05/26/Headscale%E6%B8%90%E5%85%A5%E4%BD%B3%E5%A2%83%E8%A1%A5%E5%85%85%E7%AF%87-%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%AD%E8%BD%ACderper%E7%9A%84%E8%AF%81%E4%B9%A6%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-05-26,1716737576.0
-Ruffle测试,汐塔魔法屋,https://blog.sinzmise.top/posts/57692/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-05-25,1716671559.0
 Ruffle测试,汐塔魔法屋,https://blog.storical.space/posts/57692,https://blog.storical.space,https://blog.storical.space/atom.xml,2024-05-25,1716671559.0
+Ruffle测试,汐塔魔法屋,https://blog.sinzmise.top/posts/57692/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-05-25,1716671559.0
 远程桌面工具rustdesk的私有化部署-mac锁定问题,Nicksxs's Blog,https://nicksxs.me/2024/05/19/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7rustdesk%E7%9A%84%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2-mac%E9%94%81%E5%AE%9A%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-05-19,1716129259.0
 SPF、DKIM与DMARC为何？,Muidar's Site,https://muidar.com/posts/cmuidar/what-is-spf-dkim-dmarc/,https://muidar.com,https://muidar.com/feed,2024-05-18,1716036184.0
 免费的代码AI辅助工具：百度comate,瓦解的生活记事,https://hin.cool/posts/baiducomate.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-05-18,1716031200.0
@@ -39,13 +41,11 @@ Leetcode 31 Next Permutation 题解分析,Nicksxs's Blog,https://nicksxs.me/2024
 折腾记-讲一下iptables的一个小问题,Nicksxs's Blog,https://nicksxs.me/2024/05/05/%E6%8A%98%E8%85%BE%E8%AE%B0-%E8%AE%B2%E4%B8%80%E4%B8%8Biptables%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B0%8F%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-05-05,1714919022.0
 Windows 安装 ZSH 踩坑记录,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/780/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-05-04,1714864179.0
 武汉及周边美食,Andy Stewart,//manateelazycat.github.io/2024/05/03/wuhan-food/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-05-03,1714694400.0
-2024-04小记,汐塔魔法屋,https://blog.sinzmise.top/posts/15748/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-05-02,1714674702.0
 2024-04小记,汐塔魔法屋,https://blog.storical.space/posts/15748,https://blog.storical.space,https://blog.storical.space/atom.xml,2024-05-02,1714674702.0
+2024-04小记,汐塔魔法屋,https://blog.sinzmise.top/posts/15748/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-05-02,1714674702.0
 狠狠地美化我的 VS Code,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/779/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-05-02,1714651272.0
 语音笔记 Shortcuts：iOS 音频转文字并导入 Obsidian,Another Dayu,https://anotherdayu.com/2024/5734/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-05-02,1714616770.0
 交个朋友,Another Dayu,https://anotherdayu.com/2024/5727/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-05-01,1714557990.0
 在线日程安排和预约工具 – Calendly、Cal.com 和 Tidycal,Another Dayu,https://anotherdayu.com/2024/5724/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-05-01,1714551557.0
 捐赠,Another Dayu,https://anotherdayu.com/2024/5715/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-04-30,1714462150.0
 网站卫士即将停止服务,瓦解的生活记事,https://hin.cool/posts/qaxwebguardbye.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-04-29,1714399200.0
-轻博客,Another Dayu,https://anotherdayu.com/2024/5712/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-04-29,1714372083.0
-最佳的手机浏览器,Andy Stewart,//manateelazycat.github.io/2024/04/29/kiwi-browser/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-29,1714348800.0
