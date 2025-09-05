@@ -1,4 +1,15 @@
 title,author,link,home,rss,date,timestamp
+吉隆坡的旧书店,Macin,https://macin.org/2024/11/25/ji-long-po-shu-dian/,https://macin.org/,https://www.macin.org/atom.xml,2024-11-25,1732568306.0
+无畏云 CDN 加速免费依旧,杜老师说,https://dusays.com/772/,https://dusays.com/,https://dusays.com/atom.xml,2024-11-25,1732550400.0
+Calibre-web 数据库路径和下载权限 500 Internal Server Error 问题,Another Dayu,https://anotherdayu.com/2024/6157/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-25,1732515795.0
+2024年的付费墙,Another Dayu,https://anotherdayu.com/2024/6154/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-25,1732506910.0
+越 过 山 丘,瓦解的生活记事,https://hin.cool/posts/yueguoshanqiu.html,https://hin.cool/,https://hin.cool/atom.xml,2024-11-25,1732492800.0
+shell脚本常用语法,Yulin Lewis' Blog,https://lewky.cn/posts/shell/,https://lewky.cn/,https://lewky.cn/index.xml,2024-11-24,1732464592.0
+grep小技巧之匹配到二进制文件,Nicksxs's Blog,https://nicksxs.me/2024/11/24/grep%E5%B0%8F%E6%8A%80%E5%B7%A7%E4%B9%8B%E5%8C%B9%E9%85%8D%E5%88%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%96%87%E4%BB%B6/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-11-24,1732451419.0
+2024-11小记,汐塔魔法屋,https://blog.storical.space/posts/61713,https://blog.storical.space,https://blog.storical.space/atom.xml,2024-11-24,1732445299.0
+2024-11小记,汐塔魔法屋,https://blog.sinzmise.top/posts/61713/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-11-24,1732445299.0
+目前使用的 WordPress 插件,Another Dayu,https://anotherdayu.com/2024/6150/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-24,1732435144.0
+【Tailscale】DERPer中继从源码的搭建及Headscale导入,Luminous' Home,https://luotianyi.vc/8661.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-11-23,1732339226.0
 公告：博客维护,Another Dayu,https://anotherdayu.com/2024/6147/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-23,1732330987.0
 最佳代理实践之 Nexitally (2024-11-23),Andy Stewart,//manateelazycat.github.io/2024/11/23/best-proxy/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-22,1732291200.0
 新版本不蒜子统计平台使用说明,杜老师说,https://dusays.com/771/,https://dusays.com/,https://dusays.com/atom.xml,2024-11-22,1732291200.0
@@ -9,6 +20,7 @@ title,author,link,home,rss,date,timestamp
 从个体绝望到社会危机：透视近期无差别袭击事件,Frank笔记,https://frank2019.me/archives/cong-ge-ti-jue-wang-dao-she-hui-wei-ji-tou-shi-jin-qi-wu-chai-bie-xi-ji-shi-jian,https://frank2019.me,https://frank2019.me/rss.xml,2024-11-18,1731966783.0
 initx 存储模块,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/794/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-11-18,1731960008.0
 第一次推特被封锁,Andy Stewart,//manateelazycat.github.io/2024/11/19/twitter-account/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-18,1731945600.0
+initx 存储模块,怠惰のコエ - imba久期 BLOG,https://imba97.com/archives/794/,https://imba97.com/,https://imba97.cn/atom.xml,2024-11-18,1731931208.0
 反馈系统的稳定性,辛未羊的网络日志,https://panqiincs.me/2024/11/18/feedback-stability/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2024-11-18,1731892577.0
 多语言博客WordPress 插件 Polylang,Another Dayu,https://anotherdayu.com/2024/6129/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-17,1731854901.0
 聊聊最近 Lancet 上刊登的中药复方研究,Another Dayu,https://anotherdayu.com/2024/6096/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-17,1731822166.0
@@ -37,15 +49,3 @@ git小技巧之git cherry-pick,Nicksxs's Blog,https://nicksxs.me/2024/11/09/git%
 目标跟踪训练时数据集卡在enumerate解决方案,DearXuan的主页,https://blog.dearxuan.com/2024/11/08/%E7%9B%AE%E6%A0%87%E8%B7%9F%E8%B8%AA%E8%AE%AD%E7%BB%83%E6%97%B6%E6%95%B0%E6%8D%AE%E9%9B%86%E5%8D%A1%E5%9C%A8enumerate%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-11-08,1731074820.0
 网络小说,Another Dayu,https://anotherdayu.com/2024/6017/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-08,1731044954.0
 哪吒监控开源、轻量、易用的服务器监控,杜老师说,https://dusays.com/766/,https://dusays.com/,https://dusays.com/atom.xml,2024-11-07,1730995200.0
-自动升级Docker容器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_07-auto_upgrade_docker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-07,1730937600.0
-特朗普任期：全球影响与变革,Frank笔记,https://frank2019.me/archives/chuan-pu-shang-ren-dui-shi-jie-ying-xiang,https://frank2019.me,https://frank2019.me/rss.xml,2024-11-06,1730922981.0
-三星 S23 Ultra,Andy Stewart,//manateelazycat.github.io/2024/11/07/samsung-s23-ultra/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-06,1730908800.0
-研发要怎么写面试简历才能受面试官青睐？,Andy Stewart,//manateelazycat.github.io/2024/11/06/interview/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-05,1730822400.0
-公告：网站被攻击了,Another Dayu,https://anotherdayu.com/2024/6014/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-05,1730785361.0
-吉隆坡：除了双子塔，一定要看看这些博物馆,Macin,https://macin.org/2024/11/04/ji-long-po-bo-wu-guan/,https://macin.org/,https://www.macin.org/atom.xml,2024-11-04,1730760963.0
-PCDN 和近期网络攻击频繁的那些事,杜老师说,https://dusays.com/765/,https://dusays.com/,https://dusays.com/atom.xml,2024-11-04,1730736000.0
-Devonthink 出品的免费软件,Another Dayu,https://anotherdayu.com/2024/6010/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-11-04,1730724121.0
-ArchLinux 安装微信 4.0,Andy Stewart,//manateelazycat.github.io/2024/11/04/wechat-native/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-03,1730649600.0
-AI 结对编程？ 应该是 AI 写单元测试,Andy Stewart,//manateelazycat.github.io/2024/11/03/ai-tester/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-03,1730592000.0
-Jekyll 定制时区,Andy Stewart,//manateelazycat.github.io/2024/11/03/jekyll-timezone/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-11-02,1730563200.0
-git小技巧之查看git commit,Nicksxs's Blog,https://nicksxs.me/2024/11/02/git%E5%B0%8F%E6%8A%80%E5%B7%A7%E4%B9%8B%E6%9F%A5%E7%9C%8Bgit-commit/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-11-02,1730554329.0

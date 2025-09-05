@@ -1,4 +1,24 @@
 title,author,link,home,rss,date,timestamp
+旧电脑也不能闲着：家用备份方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_18-build_your_own_nas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-18,1571356800.0
+如何安装 deb 软件包,杜老师说,https://dusays.com/101/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-17,1571328000.0
+VMware 虚拟机使用技巧,杜老师说,https://dusays.com/100/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-16,1571241600.0
+高级运维工程师的升级打怪路线,杜老师说,https://dusays.com/99/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-15,1571155200.0
+将SQLite的数据迁移到MySQL,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_15-grafana_moved_to_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-15,1571097600.0
+Docker 与虚拟机的区别,杜老师说,https://dusays.com/98/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-14,1571068800.0
+爱奇艺周会员,杜老师说,https://dusays.com/97/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-13,1570982400.0
+Docker 的安装,杜老师说,https://dusays.com/96/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-12,1570896000.0
+通过 asciinema 录制 Linux 命令,杜老师说,https://dusays.com/95/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-11,1570809600.0
+如何手动创建一个用户,杜老师说,https://dusays.com/94/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-10,1570723200.0
+为 CentOS7 系统打造酷炫终端,杜老师说,https://dusays.com/93/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-09,1570636800.0
+使用 Oh My Zsh 打造酷炫 Shell 终端,杜老师说,https://dusays.com/92/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-08,1570550400.0
+Linux托管Windows虚拟机最佳实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_08-linux_windows.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-08,1570492800.0
+24 个常用的 iptables 规则,杜老师说,https://dusays.com/91/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-07,1570464000.0
+用户管理相关命令,杜老师说,https://dusays.com/90/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-06,1570377600.0
+从零开始的独立博客搭建教程,ChrAlpha,https://blog.ichr.me/post/hexo-basic-set-up/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-10-05,1570301061.0
+快速释放内存脚本,杜老师说,https://dusays.com/89/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-05,1570291200.0
+Github Page + Hexo 免费搭建个人博客教程,ChrAlpha,https://blog.ichr.me/post/set-up-hexo-on-github-page/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2019-10-05,1570275291.0
+在 Docker 中部署 Nextcloud,杜老师说,https://dusays.com/88/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-04,1570204800.0
+Docker 的介绍,杜老师说,https://dusays.com/87/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-03,1570118400.0
 换种方式解释什么是云计算,杜老师说,https://dusays.com/86/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-02,1570032000.0
 路漫漫其修远兮,云游君的小站,https://www.yunyoujun.cn/posts/after-entering-cuc,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-10-02,1569977708.0
 在 macOS 下配置 OpenGL,云游君的小站,https://www.yunyoujun.cn/posts/opengl-with-macos,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-10-01,1569967702.0
@@ -8,8 +28,8 @@ Linux 群组管理员,杜老师说,https://dusays.com/84/,https://dusays.com/,ht
 为什么gRPC难以推广,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_29-why_grpc_is_not_popular.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-29,1569715200.0
 TCP 的三次握手,杜老师说,https://dusays.com/82/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-28,1569686400.0
 vi 编辑器操作指南,杜老师说,https://dusays.com/81/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-27,1569600000.0
-我在 UC 做的前端工程化探索,Randy's Blog,https://lutaonan.com/blog/what-i-have-done-at-UC/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-27,1569542400.0
 我在 UC 做的前端工程化探索,Randy's Blog,https://lutaonan.com/blog/what-i-have-done-at-uc,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-27,1569542400.0
+我在 UC 做的前端工程化探索,Randy's Blog,https://lutaonan.com/blog/what-i-have-done-at-UC/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-27,1569542400.0
 MySQL 在不同内存下的资源分配,杜老师说,https://dusays.com/80/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-26,1569513600.0
 关于ORM的思考,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_26-orm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-26,1569456000.0
 MySQL 几种存储引擎的介绍,杜老师说,https://dusays.com/79/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-25,1569427200.0
@@ -29,23 +49,3 @@ ASHMORE 超声波清洗机 | 用超声波清洁2000块的键盘,罗磊的独立�
 TCP 的快速重传,杜老师说,https://dusays.com/71/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-17,1568736000.0
 TCP 的拥塞避免,杜老师说,https://dusays.com/70/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-16,1568649600.0
 爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0
-爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0
-TCP 的慢速启动,杜老师说,https://dusays.com/69/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-15,1568563200.0
-TCP 的滑动窗口,杜老师说,https://dusays.com/68/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-14,1568476800.0
-ufw简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_14-ufw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-14,1568419200.0
-图解 TCP/IP 电子书分享,杜老师说,https://dusays.com/67/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-13,1568390400.0
-带你读单词第 25 期,杜老师说,https://dusays.com/66/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-12,1568304000.0
-Server2019 搭建 DNS 服务,杜老师说,https://dusays.com/65/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-11,1568217600.0
-zerotier简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_11-zerotier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-11,1568160000.0
-DockCase P1:让 MacBook Pro 电源适配器秒变拓展坞,罗磊的独立博客,https://luolei.org/dockcase-review,https://luolei.org,https://luolei.org/feed/,2019-09-11,1568160000.0
-Server2019 搭建 DHCP 服务,杜老师说,https://dusays.com/64/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-10,1568131200.0
-Windows Server 2019 的安装,杜老师说,https://dusays.com/63/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-09,1568044800.0
-VMware Workstation 15 Pro 许可证分享,杜老师说,https://dusays.com/62/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-08,1567958400.0
-VMware Workstation 10 的安装,杜老师说,https://dusays.com/61/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-07,1567872000.0
-Typecho主题 | MDr - 书写你的篇章,FlyingSky's Blog,https://blog.fsky7.com/archives/60/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-09-07,1567823700.0
-云主机的极致优化,杜老师说,https://dusays.com/60/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-06,1567785600.0
-Linux 各目录及每个目录的详细介绍,杜老师说,https://dusays.com/59/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-05,1567699200.0
-将 rm 命令改造成 mv 到指定的目录,杜老师说,https://dusays.com/58/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-04,1567612800.0
-再谈996,Frank笔记,https://frank2019.me/archives/zai-tan-996,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567572600.0
-恐惧与期待,Frank笔记,https://frank2019.me/archives/kong-ju-yu-qi-dai,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567572300.0
-BBR+BBR魔改+Lotsever(锐速)一键脚本 for Centos/Debian/Ubuntu,Frank笔记,https://frank2019.me/archives/bbr-fix,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567572180.0

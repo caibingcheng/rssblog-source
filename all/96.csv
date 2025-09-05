@@ -1,4 +1,24 @@
 title,author,link,home,rss,date,timestamp
+代码的坏味道,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_18-code_with_bad_taste.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-18,1566086400.0
+带你读单词第 15 期,杜老师说,https://dusays.com/40/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-17,1566057600.0
+带你读单词第 14 期,杜老师说,https://dusays.com/39/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-16,1565971200.0
+带你读单词第 13 期,杜老师说,https://dusays.com/38/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-15,1565884800.0
+带你读单词第 12 期,杜老师说,https://dusays.com/37/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-14,1565798400.0
+带你读单词第 11 期,杜老师说,https://dusays.com/36/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-13,1565712000.0
+带你读单词第 10 期,杜老师说,https://dusays.com/35/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-12,1565625600.0
+你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-dns-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
+你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-dns-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
+带你读单词第 9 期,杜老师说,https://dusays.com/34/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-11,1565539200.0
+Blender 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/blender-learn-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-08-11,1565520573.0
+带你读单词第 8 期,杜老师说,https://dusays.com/33/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-10,1565452800.0
+带你读单词第 7 期,杜老师说,https://dusays.com/32/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-09,1565366400.0
+带你读单词第 6 期,杜老师说,https://dusays.com/31/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-08,1565280000.0
+带你读单词第 5 期,杜老师说,https://dusays.com/30/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-07,1565193600.0
+Typecho主题 | MDr - 书写你的篇章,FlyingSky's Blog,https://blog.fsky7.com/technology/59,https://blog.fsky7.com,https://blog.fsky7.com/feed,2019-08-07,1565150400.0
+带你读单词第 4 期,杜老师说,https://dusays.com/29/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-06,1565107200.0
+带你读单词第 3 期,杜老师说,https://dusays.com/28/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-05,1565020800.0
+消息分帧(字符串设计或协议设计)的两种形式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_05-message_framing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-05,1564963200.0
+带你读单词第 2 期,杜老师说,https://dusays.com/27/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-04,1564934400.0
 带你读单词第 1 期,杜老师说,https://dusays.com/26/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-03,1564848000.0
 通过 VTP 在多台交换机间同步 VLAN 数据,杜老师说,https://dusays.com/25/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-02,1564761600.0
 通过 Trunk 实现多台交换间 VLAN 内通信,杜老师说,https://dusays.com/24/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-01,1564675200.0
@@ -8,9 +28,9 @@ CentOS7 的内核优化详解,杜老师说,https://dusays.com/22/,https://dusays
 FTP 服务的详解「下篇」,杜老师说,https://dusays.com/21/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-29,1564416000.0
 好的命名是最好的文档,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_29-name_is_the_best_doc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-29,1564358400.0
 FTP 服务的详解「上篇」,杜老师说,https://dusays.com/20/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-28,1564329600.0
-你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-util-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
 你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-util-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
 你可能不知道的 Node.js util 模块,Ahonn's Blog,https://www.ahonn.me/blog/node.js-util-module-you-may-not-know,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
+你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-util-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
 CentOS7 的内核优化,杜老师说,https://dusays.com/19/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-27,1564243200.0
 初始化 CentOS7 系统「下篇」,杜老师说,https://dusays.com/18/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-26,1564156800.0
 初始化 CentOS7 系统「上篇」,杜老师说,https://dusays.com/17/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-25,1564070400.0
@@ -27,25 +47,5 @@ Linux高分屏支持,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019
 未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0
 将 Hexo 部署到 CODING,杜老师说,https://dusays.com/9/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-17,1563379200.0
 将 Hexo 部署到 GitHub,杜老师说,https://dusays.com/8/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-16,1563292800.0
-GCC默认的头文件搜索路径,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_16-gcc_header_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-16,1563235200.0
-自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
 自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
-SSH 的武林秘籍「下篇」,杜老师说,https://dusays.com/7/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-15,1563206400.0
-读《远见-如何规划职业生涯3大阶段》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_15-the_long_view.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-15,1563148800.0
-洞明 Unity ECS 基础概念,萤火之森,http://frankorz.com/2019/07/14/clarify-ecs-basic-concept/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-07-14,1563135180.0
-SSH 的武林秘籍「中篇」,杜老师说,https://dusays.com/6/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-14,1563120000.0
-SSH 的武林秘籍「上篇」,杜老师说,https://dusays.com/5/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-13,1563033600.0
-Manjaro 使用指南,This Cute World,https://thiscute.world/posts/manjaro-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2019-07-13,1563021504.0
-后端工程师学前端(五): SASS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_13-learn_front_end_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-13,1562976000.0
-如何上线一个博客「下篇」,杜老师说,https://dusays.com/4/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-12,1562947200.0
-如何上线一个博客「中篇」,杜老师说,https://dusays.com/3/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-11,1562860800.0
-如何上线一个博客「上篇」,杜老师说,https://dusays.com/2/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-10,1562774400.0
-后端工程师学前端(四): CSS进阶(盒子模型),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_10-learn_front_end_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-10,1562716800.0
-CentOS7 用命令配置链路聚合,杜老师说,https://dusays.com/1/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-09,1562688000.0
-我为什么选择 Telegram 来运营粉丝社群 | 规则、经验和思考,罗磊的独立博客,https://luolei.org/why-i-choose-telegram,https://luolei.org,https://luolei.org/feed/,2019-07-08,1562544000.0
-读《投资中最简单的事》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_06-the_simple_things_in_investment.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-06,1562371200.0
-我的博客从 Ghost 迁移回 Wordpress | 优化记录,罗磊的独立博客,https://luolei.org/migrate-from-ghost-to-wordpress,https://luolei.org,https://luolei.org/feed/,2019-07-06,1562371200.0
-我最喜欢的一台相机，今天被车压碎了 | RICOH GR | VLOG54,罗磊的独立博客,https://luolei.org/my-ricoh-gr-was-crashed-by-a-car,https://luolei.org,https://luolei.org/feed/,2019-07-05,1562284800.0
-后端工程师学前端(三): CSS进阶(特指度、单位和字体族),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_04-learn_front_end_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-04,1562198400.0
-我花20元修好了2000块的 BOSE 降噪耳机  | VLOG53,罗磊的独立博客,https://luolei.org/i-fix-my-broken-bose-qc35,https://luolei.org,https://luolei.org/feed/,2019-07-03,1562112000.0
-后端工程师学前端(二): CSS基础知识(规则与选择器),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_02-learn_front_end_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-02,1562025600.0
+GCC默认的头文件搜索路径,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_16-gcc_header_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-16,1563235200.0
