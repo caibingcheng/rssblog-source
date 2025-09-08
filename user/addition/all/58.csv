@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【Hexo】hexo备份博客和自动化备份,框架師,https://www.mobaijun.com/posts/190549533.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-19,1589872192.0
 【Hexo】Hexo博客新建文章后自动打开编辑器,框架師,https://www.mobaijun.com/posts/2964207350.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-19,1589868496.0
 virsh自动关闭windows虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_18-virsh_shutdown_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-18,1589760000.0
 第三方评论系统之我见,云游君的小站,https://www.yunyoujun.cn/share/third-party-comment-system/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-05-17,1589693440.0
@@ -42,10 +43,9 @@ Golang log 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 Golang flag源码阅读及自己实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_23-go_flag.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-23,1587600000.0
 Golang ASM简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_22-go_asm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
 【Git系列】详细记录一次码云和Git异常解决方案,框架師,https://www.mobaijun.com/posts/3160757487.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-21,1587434290.0
-CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡,罗磊的独立博客,https://luolei.org/cmlink-global-borderless-internet-roaming-card,https://luolei.org,https://luolei.org/feed/,2020-04-21,1587427200.0
 善用闭包(closure)让Go代码更优雅,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_21-use_closure.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
+CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡,罗磊的独立博客,https://luolei.org/cmlink-global-borderless-internet-roaming-card,https://luolei.org,https://luolei.org/feed/,2020-04-21,1587427200.0
 Golang的可选参数实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
 危机四伏的2020，既是困难，也是机遇！,Frank笔记,https://frank2019.me/archives/wei-ji-si-fu-de-2020-ji-shi-kun-nan-ye-shi-ji-yu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-18,1587241740.0
 【Hexo】Hexo——Npm使用报错,框架師,https://www.mobaijun.com/posts/776701796.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-18,1587192270.0
 【随笔】常用Emoji表情一览表😆,框架師,https://www.mobaijun.com/posts/1007769027.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-15,1586935140.0
-【Java基础】权限修饰符和常用关键字学习,框架師,https://www.mobaijun.com/posts/1663206604.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-15,1586927961.0
