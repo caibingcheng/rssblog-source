@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Go设计模式：装饰器模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_14-go_design_pattern_decorator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-14,1594684800.0
 GTO与阻断牌效应,Frank笔记,https://frank2019.me/archives/gtoyu-zu-duan-pai-xiao-ying,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-10,1594357020.0
 程序员的MySQL手册(一): 安装，基本配置,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_05-mysql_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-05,1593907200.0
 ZEISS 三连：蔡司镜架、钻立方镜片、蔡司原厂加工近视眼镜,罗磊的独立博客,https://luolei.org/zeiss-glasses,https://luolei.org,https://luolei.org/feed/,2020-07-05,1593907200.0
@@ -48,4 +49,3 @@ Linux系统迁移记录(从HDD到SSD),Jiajun的技术笔记,https://jiajunhuang.
 【MySQL系列】MySQL复习笔记(2)-约束,框架師,https://www.mobaijun.com/posts/1359261681.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-21,1590051831.0
 【Hexo】hexo博客添加到桌面应用程序,框架師,https://www.mobaijun.com/posts/1630447354.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-21,1590046686.0
 Redis是如何工作的？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_21-how_does_redis_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-21,1590019200.0
-【MySQL系列】MySQl复习笔记-(1)-基础.md,框架師,https://www.mobaijun.com/posts/1108852137.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-20,1589954778.0
