@@ -1,14 +1,14 @@
 title,author,link,home,rss,date,timestamp
 记一次被网贷催收,非理勿试,https://www.ntiy.com/1515.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-01-30,1611970734.0
-Facebook 集群调度管理系统 · OSDI '20,面向信仰编程,https://draveness.me//papers-twine,https://draveness.me/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
 数据中心的电力超售 · OSDI '20,面向信仰编程,https://draven.co//papers-thunderbolt,https://draven.co/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
-数据中心的容错时钟对时 · OSDI '20,面向信仰编程,https://draven.co//papers-sundial,https://draven.co/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
+Facebook 集群调度管理系统 · OSDI '20,面向信仰编程,https://draveness.me//papers-twine,https://draveness.me/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
 纳秒级高性能日志系统 · ATC '18,面向信仰编程,https://draveness.me//papers-nanolog,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
+数据中心的容错时钟对时 · OSDI '20,面向信仰编程,https://draven.co//papers-sundial,https://draven.co/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
 在群晖上创建 iSCSI 服务端,杜老师说,https://dusays.com/307/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-28,1611849600.0
 云原生流水线 Argo Workflows 的安装、使用以及个人体验,This Cute World,https://thiscute.world/posts/experience-of-argo-workflows/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-27,1611733047.0
-做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
-做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
 Android自动展示和关闭进度条,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_27-android_progress_bar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-27,1611705600.0
+做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
+做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
 【WEB系列】SpringBoot集成Mybatis-Plus,框架師,https://www.mobaijun.com/posts/183863717.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-26,1611655824.0
 My 2020 in Review,Bin Wang - My Personal Blog,https://www.binwang.me/2021-01-26-My-2020-in-Review.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2021-01-26,1611637200.0
 在 CentOS8 挂载 iSCSI 客户端,杜老师说,https://dusays.com/306/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-25,1611590400.0
@@ -32,20 +32,20 @@ Kotlin/Java 列表Protobuf序列化,Jiajun的技术笔记,https://jiajunhuang.co
 【随笔】正确的使用搜索引擎,框架師,https://www.mobaijun.com/posts/2845351032.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-11,1610359269.0
 [CloudMare] Android上管理Cloudflare的小工具,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/cloudmare-app.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-01-10,1610298060.0
 DSM7.0 用 Docker 运行 Transmission,杜老师说,https://dusays.com/301/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-10,1610294400.0
-2020 年终总结,Randy's Blog,https://lutaonan.com/blog/2020-summary,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-01-10,1610236800.0
 2020 年终总结,Randy's Blog,https://lutaonan.com/blog/2020-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-10,1610236800.0
+2020 年终总结,Randy's Blog,https://lutaonan.com/blog/2020-summary,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-01-10,1610236800.0
 Pulumi 使用体验 - 基础设施代码化,This Cute World,https://thiscute.world/posts/expirence-of-pulumi/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-08,1610103090.0
 M1 的 Mac 上重装 macOS 时出现错误,杜老师说,https://dusays.com/300/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-07,1610035200.0
 【Java基础】Java-多线程,框架師,https://www.mobaijun.com/posts/3237902709.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-06,1609930602.0
 Mac 电脑如何重新安装 macOS,杜老师说,https://dusays.com/299/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-04,1609776000.0
 openSUSE 使用指南,This Cute World,https://thiscute.world/posts/opensuse-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-04,1609720941.0
-怎么使用ViewModel 和 RecyclerView,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_03-recycler_list_view_model.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
+deeplink结合路由处理扩展App的能力,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_03-deeplink_server_route.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
 『给RSS爱好者们的一封信』为什么我们应该提高RSS刷新间隔？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/rss-refresh.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-01-02,1609578180.0
 Android手动挡MVVM,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_02-android_mvvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-02,1609545600.0
 是否需要为群晖购买 SSD 加速缓存,杜老师说,https://dusays.com/298/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-01,1609516800.0
 2020 年度总结,4Ark × Blog,https://4ark.me/posts/2020-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
 年度简报 - 2020 | 等待,FlyingSky's Blog,https://blog.fsky7.com/archives/175/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-12-31,1609430400.0
 【工具系列】常用工具汇总,框架師,https://www.mobaijun.com/posts/1664035384.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-31,1609403450.0
-二〇二〇年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2020-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 二〇二〇年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
+二〇二〇年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2020-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
