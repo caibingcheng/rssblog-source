@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+怎么让claude code用国内的模型,Nicksxs's Blog,https://nicksxs.me/2025/09/13/%E6%80%8E%E4%B9%88%E8%AE%A9claude-code%E7%94%A8%E5%9B%BD%E5%86%85%E7%9A%84%E6%A8%A1%E5%9E%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-09-13,1757770194.0
 用gpt-oss零改动实现一个todo应用,Nicksxs's Blog,https://nicksxs.me/2025/09/07/%E7%94%A8gpt-oss%E9%9B%B6%E6%94%B9%E5%8A%A8%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AAtodo%E5%BA%94%E7%94%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-09-07,1757242520.0
 体验openai开源的gpt-oss模型,Nicksxs's Blog,https://nicksxs.me/2025/08/30/%E4%BD%93%E9%AA%8Copenai%E5%BC%80%E6%BA%90%E7%9A%84gpt-oss%E6%A8%A1%E5%9E%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-08-30,1756563198.0
 真正适合spring ai的使用方式,Nicksxs's Blog,https://nicksxs.me/2025/08/24/%E7%9C%9F%E6%AD%A3%E9%80%82%E5%90%88spring-ai%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-08-24,1756048680.0
@@ -48,4 +49,3 @@ Headscale渐入佳境补充篇-自定义中转derper使用反向代理,Nicksxs's
 不一劳永逸的临时docker镜像拉取解决办法,Nicksxs's Blog,https://nicksxs.me/2024/10/13/%E4%B8%8D%E4%B8%80%E5%8A%B3%E6%B0%B8%E9%80%B8%E7%9A%84%E4%B8%B4%E6%97%B6docker%E9%95%9C%E5%83%8F%E6%8B%89%E5%8F%96%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-10-13,1728809026.0
 基于Caddy的快速反向代理,Nicksxs's Blog,https://nicksxs.me/2024/10/06/%E5%9F%BA%E4%BA%8ECaddy%E7%9A%84%E5%BF%AB%E9%80%9F%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-10-06,1728222117.0
 小技巧-用iptables统计网速占用,Nicksxs's Blog,https://nicksxs.me/2024/09/28/%E5%B0%8F%E6%8A%80%E5%B7%A7-%E7%94%A8iptables%E7%BB%9F%E8%AE%A1%E7%BD%91%E9%80%9F%E5%8D%A0%E7%94%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-09-28,1727518595.0
-小技巧之-安卓终端工具Termux访问手机文件,Nicksxs's Blog,https://nicksxs.me/2024/09/22/%E5%B0%8F%E6%8A%80%E5%B7%A7%E4%B9%8B-%E5%AE%89%E5%8D%93%E7%BB%88%E7%AB%AF%E5%B7%A5%E5%85%B7Termux%E8%AE%BF%E9%97%AE%E6%89%8B%E6%9C%BA%E6%96%87%E4%BB%B6/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-09-22,1726989014.0
