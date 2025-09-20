@@ -2,8 +2,8 @@ title,author,link,home,rss,date,timestamp
 从思辨中学历史,4Ark × Blog,https://4ark.me/posts/cong-si-bina-xue-xi-li-shi.html,https://4ark.me/,https://4ark.me/rss.xml,2021-03-02,1614712575.0
 10本 Go 语言入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/03/02/10-golang-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-03-01,1614614400.0
 Xp Technology Practices,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210228-xp-technology-practices,https://teobler.com,https://teobler.com/rss.xml,2021-02-28,1614483600.0
-内存管理设计精要,面向信仰编程,https://draveness.me//system-design-memory-management,https://draveness.me/,https://draveness.me/feed.xml,2021-02-27,1614384000.0
 内存管理设计精要,面向信仰编程,https://draven.co//system-design-memory-management,https://draven.co/,https://draveness.me/feed.xml,2021-02-27,1614384000.0
+内存管理设计精要,面向信仰编程,https://draveness.me//system-design-memory-management,https://draveness.me/,https://draveness.me/feed.xml,2021-02-27,1614384000.0
 Python中用tuple作为key,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_02_25-python_dict_tuple_as_key.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-02-25,1614211200.0
 一些常用的算法思维,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_02_24-use_algorithms_in_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-02-24,1614124800.0
 深圳联通5G冰淇淋融合套餐宽带办理记,把酒诗代码，趁乱写年华。,https://102no.com/2021/02/23/shenzhen-liantong-bingjiling/,https://102no.com/,https://102no.com/atom.xml,2021-02-22,1614009600.0
@@ -34,10 +34,10 @@ Agile Three Business Practice,Teobler - 失眠多梦，bug体质,https://teobler
 Agile Business Practice Planning Games,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210201-agile-business-practice-planning-games,https://teobler.com,https://teobler.com/rss.xml,2021-02-01,1612187820.0
 2020年总结,Frank笔记,https://frank2019.me/archives/2020nian-zong-jie,https://frank2019.me/,https://frank2019.me/rss.xml,2021-01-30,1612029660.0
 记一次被网贷催收,非理勿试,https://www.ntiy.com/1515.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-01-30,1611970734.0
-数据中心的电力超售 · OSDI '20,面向信仰编程,https://draven.co//papers-thunderbolt,https://draven.co/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
+Facebook 集群调度管理系统 · OSDI '20,面向信仰编程,https://draven.co//papers-twine,https://draven.co/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
 Facebook 集群调度管理系统 · OSDI '20,面向信仰编程,https://draveness.me//papers-twine,https://draveness.me/,https://draveness.me/feed.xml,2021-01-30,1611964800.0
+数据中心的容错时钟对时 · OSDI '20,面向信仰编程,https://draven.co//papers-sundial,https://draven.co/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
 数据中心的容错时钟对时 · OSDI '20,面向信仰编程,https://draveness.me//papers-sundial,https://draveness.me/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
-纳秒级高性能日志系统 · ATC '18,面向信仰编程,https://draven.co//papers-nanolog,https://draven.co/,https://draveness.me/feed.xml,2021-01-29,1611878400.0
 做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
 Android自动展示和关闭进度条,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_27-android_progress_bar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-27,1611705600.0
 做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0
@@ -48,4 +48,4 @@ What Is Agile,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20210
 主服务器完成迁移工作,Frank笔记,https://frank2019.me/archives/zhu-fu-wu-qi-wan-cheng-qian-yi-gong-zuo,https://frank2019.me/,https://frank2019.me/rss.xml,2021-01-21,1611252000.0
 【WEB系列】SpringBoot2.3整合InfluxDB实现增删查,框架師,https://www.mobaijun.com/posts/1092756891.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-20,1611123302.0
 从 Composition API 源码分析 getCurrentInstance() 为何返回 null,4Ark × Blog,https://4ark.me/post/87ba8d8b.html,https://4ark.me/,https://4ark.me/rss.xml,2021-01-16,1610836795.0
-从9元到9000元，我包里常备的十件产品 | EDC,罗磊的独立博客,http://luolei.org/edc-2020/,https://luolei.org/,https://luolei.org/feed/,2021-01-13,1610547892.0
+从9元到9000元，我包里常备的十件产品 | EDC,罗磊的独立博客,https://luolei.org/edc-2020/,http://luolei.org/,https://luolei.org/feed/,2021-01-13,1610547892.0
