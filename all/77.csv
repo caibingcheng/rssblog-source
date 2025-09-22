@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+如何学习 Linux 呢,杜老师说,https://dusays.com/338/,https://dusays.com/,https://dusays.com/atom.xml,2021-05-03,1620057600.0
 这次 OTA 翻车后，我开始思考退烧这件事,ChrAlpha,https://blog.ichr.me/post/android-calm-down/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2021-05-02,1619980524.0
 Leetcode 48 旋转图像(Rotate Image) 题解分析,Nicksxs's Blog,https://nicksxs.me/2021/05/01/Leetcode-48-%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F-Rotate-Image-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-05-01,1619882906.0
 无需剁手的国内外线路分流方案,瓦解的生活记事,https://www.hin.cool/posts/globalcdn.html,https://www.hin.cool/,https://www.hin.cool/atom.xml,2021-05-01,1619827200.0
@@ -22,8 +23,8 @@ rust学习笔记-所有权二,Nicksxs's Blog,https://nicksxs.me/2021/04/18/rust%
 24 天像素画从入门到放弃,萤火之森,http://frankorz.com/2021/04/18/learn-pixel-art/,http://frankorz.com/,https://frankorz.com/atom.xml,2021-04-18,1618749210.0
 Compute Shader 简介,萤火之森,http://frankorz.com/2021/04/17/compute-shader/,http://frankorz.com/,https://frankorz.com/atom.xml,2021-04-17,1618697670.0
 云空调，便携小空调,云游君的小站,https://www.yunyoujun.cn/posts/air-conditioner/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-04-17,1618651127.0
-谈谈 Kubernetes 的问题和局限性,面向信仰编程,https://draven.co//kuberentes-limitations,https://draven.co/,https://draveness.me/feed.xml,2021-04-16,1618531200.0
 谈谈 Kubernetes 的问题和局限性,面向信仰编程,https://draveness.me//kuberentes-limitations,https://draveness.me/,https://draveness.me/feed.xml,2021-04-16,1618531200.0
+谈谈 Kubernetes 的问题和局限性,面向信仰编程,https://draven.co//kuberentes-limitations,https://draven.co/,https://draveness.me/feed.xml,2021-04-16,1618531200.0
 巴中市如何开具《动物检疫合格证明》,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/739/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-04-15,1618505483.0
 加速 GitHub 下载的四种方法,杜老师说,https://dusays.com/332/,https://dusays.com/,https://dusays.com/atom.xml,2021-04-15,1618502400.0
 再一次被知乎恶心吐了,非理勿试,https://www.ntiy.com/1543.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-04-15,1618465789.0
@@ -37,8 +38,8 @@ Linux 上最好的视频编辑器「Flowblade 篇」,杜老师说,https://dusays
 Linux 网络工具中的瑞士军刀 - socat &amp; netcat,This Cute World,https://thiscute.world/posts/socat-netcat/,https://thiscute.world/,https://thiscute.world/index.xml,2021-04-11,1618130293.0
 【ACME】手动签发Buypass及ZeroSSL证书,Luminous' Home,https://luotianyi.vc/5538.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-04-11,1618124143.0
 Svelte 的异步更新实现原理,Randy's Blog,https://lutaonan.com/blog/how-svelte-set-state-works,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-04-11,1618099200.0
-logrotate read only filesystem问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_11-logrotate_read_only_filesystem.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-11,1618099200.0
 Svelte 的异步更新实现原理,Randy's Blog,https://lutaonan.com/blog/how-svelte-set-state-works/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-04-11,1618099200.0
+logrotate read only filesystem问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_11-logrotate_read_only_filesystem.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-11,1618099200.0
 为什么 Linux 和 macOS 不需要碎片整理,面向信仰编程,https://draven.co//whys-the-design-linux-macos-fragmentation,https://draven.co/,https://draveness.me/feed.xml,2021-04-10,1618012800.0
 为什么 Linux 和 macOS 不需要碎片整理,面向信仰编程,https://draveness.me//whys-the-design-linux-macos-fragmentation,https://draveness.me/,https://draveness.me/feed.xml,2021-04-10,1618012800.0
 Linux 上最好的视频编辑器「OpenShot 篇」,杜老师说,https://dusays.com/330/,https://dusays.com/,https://dusays.com/atom.xml,2021-04-09,1617984000.0
@@ -48,4 +49,3 @@ CPU 和 GPU - 异构计算的演进与发展,面向信仰编程,https://dravenes
 为 Arch Linux 创建软件包,无妄当自持,https://www.insidentally.com/articles/000010/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-04-07,1617756711.0
 Linux 上最好的视频编辑器「Kdenlive 篇」,杜老师说,https://dusays.com/329/,https://dusays.com/,https://dusays.com/atom.xml,2021-04-06,1617724800.0
 10本 Python 入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/07/10-python-learn-guide-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-06,1617724800.0
-10本 Python 零基础入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/06/10-python-learn-from-scratch-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-05,1617638400.0
