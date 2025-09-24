@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+为啥Redis使用pipelining会更快？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
 Java 的 SE/EE/ME 区别知道吗,杜老师说,https://dusays.com/278/,https://dusays.com/,https://dusays.com/atom.xml,2020-11-01,1604246400.0
 在线、近线、离线存储都是什么,杜老师说,https://dusays.com/277/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-29,1603987200.0
 /bin/sh: python: not found 问题的解决,Frank笔记,https://frank2019.me/archives/bin-sh-python-not-found-wen-ti-de-jie-jue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-29,1603949280.0
@@ -48,4 +49,3 @@ ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an
 最大剥削策略,Frank笔记,https://frank2019.me/archives/zui-da-bo-xue-ce-lue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-09-27,1601184000.0
 Flask和requests做一个简单的请求代理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
 群晖 NAS 添加社群套件源,杜老师说,https://dusays.com/266/,https://dusays.com/,https://dusays.com/atom.xml,2020-09-26,1601136000.0
-借助 Magisk 优化/个性化 Android 中文字体显示效果,ChrAlpha,https://blog.ichr.me/post/improve-android-font-style-with-magisk/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-09-25,1601064971.0
