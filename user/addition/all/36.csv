@@ -1,7 +1,7 @@
 title,author,link,home,rss,date,timestamp
 打算做出一个决定，关于这个博客的决定,冰哥笔记,https://www.bgbiji.com/1115.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-10-10,1665394223.0
 【随笔】Maven 中 dependencyManagement 标签作用说明,框架師,https://www.mobaijun.com/posts/2616135476.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-10-10,1665362650.0
-OAuth 2 详解（三）：Resource Owner Password Credentials Grant,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_password.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
+OAuth 2 详解（四）：Client Credentials Flow,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_client_credentials.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
 记一个容器中 dubbo 注册的小知识点,Nicksxs's Blog,https://nicksxs.me/2022/10/09/%E8%AE%B0%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8%E4%B8%AD-dubbo-%E6%B3%A8%E5%86%8C%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-09,1665314397.0
 OAuth 2 详解（二）：Implict Grant Flow,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_09-oauth2_explained_implict_grant.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-09,1665273600.0
 从 KDE 回到 Windows 10,近视眼逛博客,https://blog.9hz.club/2022/10/Back-to-Windows-10-from-KDE.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2022-10-08,1665226860.0
@@ -40,8 +40,8 @@ Apollo 客户端启动过程分析,Nicksxs's Blog,https://nicksxs.me/2022/09/18/
 九一八事变,醉里博客,https://202271.xyz/post/57907/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-09-18,1663488449.0
 公司内部培训,manateelazycat.github.io,//manateelazycat.github.io/think/2022/09/18/internal-training.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-18,1663459200.0
 贵阳防疫转运车事故的反思,Frank笔记,/archives/gui-yang-fang-yi-zhuan-yun-che-shi-gu-de-fan-si,/,https://frank2019.me/rss.xml,2022-09-17,1663437840.0
-贵阳防疫转运车事故的反思,Frank笔记,https://frank2019.me/archives/gui-yang-fang-yi-zhuan-yun-che-shi-gu-de-fan-si,https://frank2019.me/,https://frank2019.me/rss.xml,2022-09-17,1663437840.0
 贵阳防疫转运车事故的反思,Frank笔记,http://frank2019.me/archives/gui-yang-fang-yi-zhuan-yun-che-shi-gu-de-fan-si,http://frank2019.me/,https://frank2019.me/rss.xml,2022-09-17,1663437840.0
+贵阳防疫转运车事故的反思,Frank笔记,https://frank2019.me/archives/gui-yang-fang-yi-zhuan-yun-che-shi-gu-de-fan-si,https://frank2019.me/,https://frank2019.me/rss.xml,2022-09-17,1663437840.0
 蔚来与特斯拉一日试驾体验,见字如面,https://hiwannz.com/archives/718,https://hiwannz.com,https://hiwannz.com/feed,2022-09-17,1663410433.0
 梦,瓦解的生活记事,https://hin.cool/posts/meng.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-17,1663407120.0
 以太坊8年挖矿时代结束：V神、挖矿与英伟达,Macin,https://macin.org/2022/09/15/eth2pos/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-15,1663264539.0
