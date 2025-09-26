@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+回归本源理解下mysql的 select for update 锁,Nicksxs's Blog,https://nicksxs.me/2025/06/01/%E5%9B%9E%E5%BD%92%E6%9C%AC%E6%BA%90%E7%90%86%E8%A7%A3%E4%B8%8Bmysql%E7%9A%84for-update%E9%94%81/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-05-31,1748707415.0
 2025-05小记,汐塔魔法屋,https://blog.storical.space/posts/write-202505,https://blog.storical.space,https://blog.storical.space/atom.xml,2025-05-31,1748686708.0
 数字游民报告,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/803/,https://imba97.cn/,https://imba97.cn/atom.xml,2025-05-30,1748648058.0
 数字游民报告,怠惰のコエ - imba久期 BLOG,https://imba97.com/archives/803/,https://imba97.com/,https://imba97.cn/atom.xml,2025-05-30,1748619258.0
@@ -7,12 +8,12 @@ Lesson 59 Gauss & Stokes 公式,菲兹克斯喵,https://physnya.top/integral/les
 35 岁了，遇到瓶颈很焦虑怎么办,Andy Stewart,https://manateelazycat.github.io/2025/05/30/35-year/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-29,1748534400.0
 Lesson 12 留数定理的应用 (2),菲兹克斯喵,https://physnya.top/complex/lesson-12/,https://physnya.top/,https://physnya.top/atom.xml,2025-05-29,1748489580.0
 Lesson 58 Green 公式,菲兹克斯喵,https://physnya.top/integral/lesson-58/,https://physnya.top/,https://physnya.top/atom.xml,2025-05-28,1748416325.0
-销售三板斧,Andy Stewart,https://manateelazycat.github.io/2025/05/28/sale/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-27,1748361600.0
 销售三板斧,Andy Stewart,//manateelazycat.github.io/2025/05/28/sale/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-27,1748361600.0
+销售三板斧,Andy Stewart,https://manateelazycat.github.io/2025/05/28/sale/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-27,1748361600.0
 Lesson 11 留数定理的应用 (1),菲兹克斯喵,https://physnya.top/complex/lesson-11/,https://physnya.top/,https://physnya.top/atom.xml,2025-05-27,1748310678.0
 Lesson 15 星系形成,菲兹克斯喵,https://physnya.top/cosmos/lesson-15/,https://physnya.top/,https://physnya.top/atom.xml,2025-05-26,1748276752.0
-不会武功，不要去武功山，哈哈哈哈,Andy Stewart,https://manateelazycat.github.io/2025/05/27/wu-gong-shan/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-26,1748275200.0
 不会武功，不要去武功山，哈哈哈哈,Andy Stewart,//manateelazycat.github.io/2025/05/27/wu-gong-shan/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-26,1748275200.0
+不会武功，不要去武功山，哈哈哈哈,Andy Stewart,https://manateelazycat.github.io/2025/05/27/wu-gong-shan/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-26,1748275200.0
 介绍个非常好用的工具 pakeplus,Nicksxs's Blog,https://nicksxs.me/2025/05/25/%E4%BB%8B%E7%BB%8D%E4%B8%AA%E9%9D%9E%E5%B8%B8%E5%A5%BD%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7-pakeplus/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-05-25,1748176383.0
 Wake on LAN 实现工作机的自动开关机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_05_24-wake_on_lan.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-05-24,1748044800.0
 Lesson 57 第二型曲面积分,菲兹克斯喵,https://physnya.top/integral/lesson-57/,https://physnya.top/,https://physnya.top/atom.xml,2025-05-23,1747973896.0
@@ -25,8 +26,8 @@ Lesson 9 Laurent 展开,菲兹克斯喵,https://physnya.top/complex/lesson-9/,ht
 技术创业者的三大陷阱与突围之道,Andy Stewart,//manateelazycat.github.io/2025/05/20/tech-enterpretor/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-19,1747670400.0
 技术创业者的三大陷阱与突围之道,Andy Stewart,https://manateelazycat.github.io/2025/05/20/tech-enterpretor/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-19,1747670400.0
 java中arraylist的sort方法的 ConcurrentModificationException 问题,Nicksxs's Blog,https://nicksxs.me/2025/05/18/java%E4%B8%ADarraylist%E7%9A%84sort%E6%96%B9%E6%B3%95%E7%9A%84%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-05-18,1747572994.0
-怎样在长时间高强度工作的情况下，保持身体健康,Andy Stewart,//manateelazycat.github.io/2025/05/18/work-and-health/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-17,1747497600.0
 慢就是快，很多人看不懂,Andy Stewart,https://manateelazycat.github.io/2025/05/18/slow-is-fast/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-17,1747497600.0
+怎样在长时间高强度工作的情况下，保持身体健康,Andy Stewart,//manateelazycat.github.io/2025/05/18/work-and-health/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-17,1747497600.0
 Lesson 54 换元公式的应用,菲兹克斯喵,https://physnya.top/integral/lesson-54/,https://physnya.top/,https://physnya.top/atom.xml,2025-05-16,1747369201.0
 大大大大大美新疆,见字如面,https://hiwannz.com/archives/1193.html,https://hiwannz.com,https://hiwannz.com/feed,2025-05-15,1747290671.0
 Lesson 8 Taylor 展开,菲兹克斯喵,https://physnya.top/complex/lesson-8/,https://physnya.top/,https://physnya.top/atom.xml,2025-05-15,1747279820.0
@@ -48,4 +49,3 @@ Lesson 13 线性微扰理论,菲兹克斯喵,https://physnya.top/cosmos/lesson-1
 35 岁+程序员依然可以兼顾热爱代码和享受生活,Andy Stewart,//manateelazycat.github.io/2025/05/10/35-years-old/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-09,1746806400.0
 Lesson 52 Fubini 定理,菲兹克斯喵,https://physnya.top/integral/lesson-52/,https://physnya.top/,https://physnya.top/atom.xml,2025-05-09,1746764525.0
 个人网站博客可以尝试的 100 件事,Another Dayu,https://anotherdayu.com/2025/6940/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-05-09,1746755100.0
-客家腌面三及第🥣,把酒诗代码,https://102no.com/2025/05/09/ke-jia-yan-mian-san-ji-di/,https://102no.com/,https://102no.com/atom.xml,2025-05-09,1746748800.0
