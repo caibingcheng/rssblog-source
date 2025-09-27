@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+怎么给wsl占用的硬盘空间做下瘦身,Nicksxs's Blog,https://nicksxs.me/2025/09/27/%E6%80%8E%E4%B9%88%E7%BB%99wsl%E5%8D%A0%E7%94%A8%E7%9A%84%E7%A1%AC%E7%9B%98%E7%A9%BA%E9%97%B4%E5%81%9A%E4%B8%8B%E7%98%A6%E8%BA%AB/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-09-27,1758971151.0
+2025-09小记,绘星里,/posts/write-202509/,/,https://blog.storical.space/atom.xml,2025-09-27,1758933588.0
 Lesson 2 分离变量法 (一),菲兹克斯喵,https://physnya.top/equation-m-p/lesson-2/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-26,1758860359.0
 Lesson 2 Probability Theory,菲兹克斯喵,https://physnya.top/astro-statistic/lesson-2-probability-theory/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-25,1758809038.0
 lesson 4 Maxwell 方程组,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-4-maxwell/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-25,1758787287.0
@@ -15,15 +17,16 @@ Lesson 3 稳态 Schrödinger 方程,菲兹克斯喵,https://physnya.top/quantum-
 数理方程,菲兹克斯喵,https://physnya.top/equation-m-p/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-19,1758255709.0
 【随笔】Jackson 反序列化报错的解决方案,框架師,https://www.mobaijun.com/posts/3481608192.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-18,1758214805.0
 【随笔】MySQL 启动失败分析：权限问题与 expire_logs_days 配置错误,框架師,https://www.mobaijun.com/posts/2458057465.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-18,1758214390.0
-天体物理统计方法,菲兹克斯喵,https://physnya.top/astro-statistic/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-18,1758206722.0
+Lesson 1 Introduction,菲兹克斯喵,https://physnya.top/astro-statistic/lesson-1-introduction/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-18,1758206722.0
 Lesson 2 波函数,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-2/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-17,1758094102.0
 Lesson 1 导论 & 原子量子计算,菲兹克斯喵,https://physnya.top/physics-front/lesson-1-introduction/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-17,1758079916.0
 生物物理导论,菲兹克斯喵,https://physnya.top/biophysics/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-16,1758027783.0
 天体物理前沿讲座,菲兹克斯喵,https://physnya.top/astro-front/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-16,1758021385.0
 Chapter 3 习题,菲兹克斯喵,https://physnya.top/self-learn-GR/chapter-3-exercise/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-15,1757958178.0
-Lesson 1 入门介绍,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-1-introduction/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-15,1757921205.0
+量子力学,菲兹克斯喵,https://physnya.top/quantum-mechanics/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-15,1757921205.0
 Einstein 场方程与时空的基本理论,菲兹克斯喵,https://physnya.top/self-learn-GR/chapter-3/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-14,1757876873.0
 怎么让claude code用国内的模型,Nicksxs's Blog,https://nicksxs.me/2025/09/13/%E6%80%8E%E4%B9%88%E8%AE%A9claude-code%E7%94%A8%E5%9B%BD%E5%86%85%E7%9A%84%E6%A8%A1%E5%9E%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-09-13,1757770194.0
+关于我,绘星里,/about/,/,https://blog.storical.space/atom.xml,2025-09-13,1757746053.0
 〈戏台〉：荒诞的不是舞台，而是现实,Frank笔记,https://frank2019.me/archives/wei-ming-ming-wen-zhang-udNdvIFO,https://frank2019.me,https://frank2019.me/rss.xml,2025-09-12,1757652639.0
 无我利他的解读,Andy Stewart,https://manateelazycat.github.io/2025/09/12/help-other/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-09-11,1757606400.0
 流水帐 Week 25,菲兹克斯喵,https://physnya.top/posts/9l7e4ej2/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-07,1757286829.0
@@ -41,11 +44,8 @@ WordPress 插件 – 旅行地图 WP Travel Map,Another Dayu,https://anotherdayu
 解决 Dell G16 无线不稳定的问题,Andy Stewart,https://manateelazycat.github.io/2025/08/31/dell-g16-ax201/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-08-30,1756569600.0
 体验openai开源的gpt-oss模型,Nicksxs's Blog,https://nicksxs.me/2025/08/30/%E4%BD%93%E9%AA%8Copenai%E5%BC%80%E6%BA%90%E7%9A%84gpt-oss%E6%A8%A1%E5%9E%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-08-30,1756563198.0
 Weekly Plog 1,Another Dayu,https://anotherdayu.com/2025/7301/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-08-30,1756557950.0
-公司报销全凭本事,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/806/,https://imba97.cn/,https://imba97.cn/atom.xml,2025-08-29,1756481627.0
 公司报销全凭本事,怠惰のコエ - imba久期 BLOG,https://imba97.com/archives/806/,https://imba97.com/,https://imba97.cn/atom.xml,2025-08-29,1756481627.0
+公司报销全凭本事,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/806/,https://imba97.cn/,https://imba97.cn/atom.xml,2025-08-29,1756481627.0
 iA Writer,Another Dayu,https://anotherdayu.com/2025/7299/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-08-29,1756476250.0
 《一一》道来,Another Dayu,https://anotherdayu.com/2025/7288/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-08-28,1756387670.0
 WordPress 友情链接插件 Simple 版,Another Dayu,https://anotherdayu.com/2025/7248/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-08-27,1756300785.0
-减肥前的准备工作 – Strava Running Sync WordPress 插件,Another Dayu,https://anotherdayu.com/2025/7223/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-08-27,1756289501.0
-技术管理者心态进阶,Andy Stewart,https://manateelazycat.github.io/2025/08/27/team-leader/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-08-26,1756224000.0
-20个小时，我鞭策AI做了一个投顾MVP,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20250825-fund-assistant-mvp,https://teobler.com,https://teobler.com/rss.xml,2025-08-25,1756135034.0
