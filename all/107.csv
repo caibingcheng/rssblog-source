@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+五一二雜感,Just lepture,https://lepture.com/zh/2017/yang-yong-xin,https://lepture.com/,https://lepture.com/feed.xml,2017-05-16,1494944556.0
 我的编程经历,Randy's Blog,https://lutaonan.com/blog/my-coding-road,https://lutaonan.com,https://lutaonan.com/rss.xml,2017-05-12,1494547200.0
 Golang的short variable declaration,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_05_12-golang_short_variable_declaration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-12,1494547200.0
 我的编程经历,Randy's Blog,https://lutaonan.com/blog/my-coding-road/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-05-12,1494547200.0
@@ -30,8 +31,8 @@ GFS 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_
 一起来做贼：Goroutine原理和Work stealing,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_24-goroutine_and_work_stealing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-24,1487894400.0
 Vim 折腾记,Yuexun's Blog,https://yuexunjiang.me/blog/notes-of-vim,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
 Vim 折腾记,Ahonn's Blog,https://www.ahonn.me/blog/notes-of-vim,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2017-02-19,1487543874.0
-电脑键盘上的流行钢琴伴奏,Randy's Blog,https://lutaonan.com/blog/piano-on-computer-keyboard/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-02-19,1487462400.0
 Vim 折腾记,Yuexun's Blog,https://yuexunjiang.me/blog/notes-of-vim/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-02-19,1487462400.0
+电脑键盘上的流行钢琴伴奏,Randy's Blog,https://lutaonan.com/blog/piano-on-computer-keyboard/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-02-19,1487462400.0
 少有人迹的校园,This Cute World,https://thiscute.world/posts/quiet-and-peaceful-campus/,https://thiscute.world/,https://thiscute.world/index.xml,2017-02-17,1487368989.0
 Go语言的defer， panic和recover,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_15-go_defer_panic_and_recover.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-15,1487116800.0
 年終卷 | 2016年我读了哪些书？,罗磊的独立博客,https://luolei.org/what-i-read-in-2016,https://luolei.org,https://luolei.org/feed/,2017-02-15,1487116800.0
@@ -48,4 +49,3 @@ JavaScript 继承的那些事,Yuexun's Blog,https://yuexunjiang.me/blog/somethin
 Cython! Python和C两个世界的交叉点,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_15-cython_rocks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-15,1484438400.0
 socketserver 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_09-socketserver_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-09,1483920000.0
 functools 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_08-functools_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-08,1483833600.0
-contextlib代码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_07-contextlib_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-07,1483747200.0
