@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+给Linux用户的FreeBSD快速指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_19-freebsd_for_linux_users.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-19,1571443200.0
 电脑硬件升级注意事项,杜老师说,https://dusays.com/102/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-18,1571414400.0
 旧电脑也不能闲着：家用备份方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_18-build_your_own_nas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-18,1571356800.0
 如何安装 deb 软件包,杜老师说,https://dusays.com/101/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-17,1571328000.0
@@ -48,4 +49,3 @@ TCP 的快速恢复,杜老师说,https://dusays.com/72/,https://dusays.com/,http
 ssh时自动运行tmux,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 ASHMORE 超声波清洗机 | 用超声波清洁2000块的键盘,罗磊的独立博客,https://luolei.org/ashmore-ultrasonic-cleaner,https://luolei.org,https://luolei.org/feed/,2019-09-18,1568764800.0
 TCP 的快速重传,杜老师说,https://dusays.com/71/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-17,1568736000.0
-TCP 的拥塞避免,杜老师说,https://dusays.com/70/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-16,1568649600.0

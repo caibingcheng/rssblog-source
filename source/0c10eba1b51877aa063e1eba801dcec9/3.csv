@@ -25,7 +25,7 @@ Python中用tuple作为key,Jiajun的技术笔记,https://jiajunhuang.com/article
 为什么要把配置保存在仓库里？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_02_04-why_save_config_to_repo.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-02-04,1612396800.0
 Android自动展示和关闭进度条,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_27-android_progress_bar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-27,1611705600.0
 Kotlin/Java 列表Protobuf序列化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_13-kotlin_protobuf_serialization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-13,1610496000.0
-deeplink结合路由处理扩展App的能力,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_03-deeplink_server_route.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
+怎么使用ViewModel 和 RecyclerView,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_03-recycler_list_view_model.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
 Android手动挡MVVM,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_02-android_mvvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-02,1609545600.0
 来电拦截方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_23-call_screening.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-23,1608681600.0
 你好，2021！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_22-hello_2021.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-22,1608595200.0
@@ -43,9 +43,9 @@ Go使用闭包简化数据库操作代码,Jiajun的技术笔记,https://jiajunhu
 TCMalloc设计文档学习,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
 Flask和requests做一个简单的请求代理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
 Linux常用命令(四)：xargs,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_21-linux_cmd_xargs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-21,1600646400.0
-Linux常用命令(二)：htop,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_htop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
+Linux常用命令(三)：watch,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_20-linux_cmd_watch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-20,1600560000.0
 Linux常用命令(一)：netcat,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600.0
 结合Flask 与 marshmallow快速进行参数校验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_16-flask_marshmallow.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-16,1600214400.0
 规整数据的重要性,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_10-form_check.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-10,1599696000.0
 apt安装特定包以及忽略升级某个包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_05-apt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-05,1599264000.0
-Goroutine是如何处理栈的？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
+StackGuard的作用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_26-stackguard.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-26,1598400000.0
