@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+TiDB 源码阅读（一）：服务监听、请求处理流程概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_01-tidb_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-01,1759276800.0
 用 Siri 来控制虚拟机开启和关闭,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_09_21-siri_ssh.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-09-21,1758412800.0
 ToB SaaS 服务之殇,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_09_07-to_b_saas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-09-07,1757203200.0
 TiDB Lightning 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_09_02-lightning_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-09-02,1756771200.0
@@ -48,4 +49,3 @@ KVM 共享 Intel 集成显卡,Jiajun的技术笔记,https://jiajunhuang.com/arti
 PromQL 备忘,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_10_17-prometheus_promql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-10-17,1697500800.0
 读《格鲁夫给经理人的第一课》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_07_09-high_output_management.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-07-09,1688860800.0
 读《打开心智》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_07_06-free_your_mind.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-07-06,1688601600.0
-为什么要把复杂的联表操作拆成多个单表查询？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_02_03-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-02-03,1675382400.0
