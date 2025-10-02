@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+自己写个搜索引擎,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_06_02-write_yourself_a_simple_search_engine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-06-02,1496361600.0
 HTTP 路由的两种常见设计形式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_05_24-http_router_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-24,1495584000.0
 Golang的short variable declaration,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_05_12-golang_short_variable_declaration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-12,1494547200.0
 Greenlet和Stackless Python,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_04_26-greenlet.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-26,1493164800.0
@@ -18,7 +19,7 @@ Cython! Python和C两个世界的交叉点,Jiajun的技术笔记,https://jiajunh
 socketserver 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_09-socketserver_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-09,1483920000.0
 functools 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_08-functools_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-08,1483833600.0
 contextlib代码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_07-contextlib_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-07,1483747200.0
-Collections 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_06-collections_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0
+Redis通信协议阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_06-redis_protocol_specification.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0
 2016年就要结束了，2017年就要开始啦！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_31-2016_is_over_and_2017_is_coming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-31,1483142400.0
 unittest 源代码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_29-unittest_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-29,1482969600.0
 APUEv3 - 重读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_26-apue_v3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-26,1482710400.0
@@ -26,7 +27,7 @@ Mock源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles
 Thinking in Python,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_16-thinking_in_python.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-16,1481846400.0
 我的代码进CPython标准库啦,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_15-my_code_in_python_stdlib.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-15,1481760000.0
 Python零碎小知识,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_09-python_fragments.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-09,1481241600.0
-工作一年的总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_07-work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-07,1481068800.0
+Python和单元测试,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_07-python_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-07,1481068800.0
 Python 的继承,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_06-python_c3_mro.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-06,1480982400.0
 Python的yield关键字有什么作用？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_29-python_yield.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-29,1480377600.0
 借助coroutine用同步的语法写异步,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_27-python_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-27,1480204800.0
@@ -48,4 +49,3 @@ JavaScript权威指南笔记,Jiajun的技术笔记,https://jiajunhuang.com/artic
 Python零碎知识汇总,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_03_05-python_fragmentary_knowledge.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-03-05,1457136000.0
 C语言的位操作,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_02_06-bitwise_operation.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-02-06,1454716800.0
 分治,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_01_25-divide_and_conqure.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-01-25,1453680000.0
-关于python的decorator和descriptor,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_12_05-python_descriptor_and_decorator.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-12-05,1449273600.0
