@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+TiDB 源码阅读（三）：插入数据,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_03-tidb_source_code_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-03,1759449600.0
 TiDB 源码阅读（二）：MySQL协议概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_02-tidb_source_code_mysql_protocol.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-02,1759363200.0
 TiDB 源码阅读（一）：服务监听、请求处理流程概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_01-tidb_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-01,1759276800.0
 用 Siri 来控制虚拟机开启和关闭,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_09_21-siri_ssh.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-09-21,1758412800.0
@@ -48,4 +49,3 @@ macOS/Linux 编译 InputLeap,Jiajun的技术笔记,https://jiajunhuang.com/artic
 解决 macOS 终端hostname一直变化问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_06-mac_keep_hostname.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-06,1699228800.0
 KVM 共享 Intel 集成显卡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_05-kvm_windows_intel_gpu.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-05,1699142400.0
 PromQL 备忘,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_10_17-prometheus_promql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-10-17,1697500800.0
-读《格鲁夫给经理人的第一课》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_07_09-high_output_management.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-07-09,1688860800.0

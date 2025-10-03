@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+TiDB 源码阅读（三）：插入数据,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_03-tidb_source_code_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-03,1759449600.0
 TiDB 源码阅读（二）：MySQL协议概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_02-tidb_source_code_mysql_protocol.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-02,1759363200.0
 TiDB 源码阅读（一）：服务监听、请求处理流程概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_01-tidb_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-01,1759276800.0
 Lesson 3 化学反应,菲兹克斯喵,https://physnya.top/biophysics/lesson-3-chemical-reaction/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-30,1759237266.0
@@ -23,7 +24,7 @@ Lesson 3 稳态 Schrödinger 方程,菲兹克斯喵,https://physnya.top/quantum-
 通过显卡来给gpt-oss做个加速,Nicksxs's Blog,https://nicksxs.me/2025/09/21/%E9%80%9A%E8%BF%87%E6%98%BE%E5%8D%A1%E6%9D%A5%E7%BB%99gpt-oss%E5%81%9A%E4%B8%AA%E5%8A%A0%E9%80%9F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-09-21,1758463117.0
 用 Siri 来控制虚拟机开启和关闭,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_09_21-siri_ssh.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-09-21,1758412800.0
 世界上第一台私人 AI 超算发布啦！,Andy Stewart,https://manateelazycat.github.io/2025/09/20/microserver-and-ai-pod/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-09-19,1758297600.0
-Lesson 1 建立模型 & 常微分,菲兹克斯喵,https://physnya.top/equation-m-p/lesson-1/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-19,1758255709.0
+数理方程,菲兹克斯喵,https://physnya.top/equation-m-p/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-19,1758255709.0
 【随笔】Jackson 反序列化报错的解决方案,框架師,https://www.mobaijun.com/posts/3481608192.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-18,1758214805.0
 【随笔】MySQL 启动失败分析：权限问题与 expire_logs_days 配置错误,框架師,https://www.mobaijun.com/posts/2458057465.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-18,1758214390.0
 Lesson 1 Introduction,菲兹克斯喵,https://physnya.top/astro-statistic/lesson-1-introduction/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-18,1758206722.0
@@ -37,7 +38,7 @@ Einstein 场方程与时空的基本理论,菲兹克斯喵,https://physnya.top/s
 怎么让claude code用国内的模型,Nicksxs's Blog,https://nicksxs.me/2025/09/13/%E6%80%8E%E4%B9%88%E8%AE%A9claude-code%E7%94%A8%E5%9B%BD%E5%86%85%E7%9A%84%E6%A8%A1%E5%9E%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-09-13,1757770194.0
 关于我,绘星里,/about/,/,https://blog.storical.space/atom.xml,2025-09-13,1757746053.0
 〈戏台〉：荒诞的不是舞台，而是现实,Frank笔记,https://frank2019.me/archives/wei-ming-ming-wen-zhang-udNdvIFO,https://frank2019.me,https://frank2019.me/rss.xml,2025-09-12,1757652639.0
-从误会三星手机到网络打洞,Andy Stewart,https://manateelazycat.github.io/2025/09/12/samsung-and-qos/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-09-11,1757606400.0
+我的自学经历,Andy Stewart,https://manateelazycat.github.io/2025/09/12/close-factory/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-09-11,1757606400.0
 流水帐 Week 25,菲兹克斯喵,https://physnya.top/posts/9l7e4ej2/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-07,1757286829.0
 技术创业者最容易忽略的地方,Andy Stewart,https://manateelazycat.github.io/2025/09/08/bussiness-and-developer/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-09-07,1757260800.0
 用gpt-oss零改动实现一个todo应用,Nicksxs's Blog,https://nicksxs.me/2025/09/07/%E7%94%A8gpt-oss%E9%9B%B6%E6%94%B9%E5%8A%A8%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AAtodo%E5%BA%94%E7%94%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-09-07,1757242520.0
@@ -48,4 +49,3 @@ My AI Pair Programming Experiment: A Reflection on Efficiency and Creativity,Teo
 TiDB Lightning 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_09_02-lightning_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-09-02,1756771200.0
 WordPress 插件 – 旅行地图 WP Travel Map,Another Dayu,https://anotherdayu.com/2025/7336/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-09-01,1756760261.0
 【随笔	】🚀 让 docker ps 输出更简洁高效的几种方法,框架師,https://www.mobaijun.com/posts/1680028190.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-01,1756747430.0
-怎么组建创业团队,Andy Stewart,https://manateelazycat.github.io/2025/09/01/how-to-build-team/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-08-31,1756656000.0

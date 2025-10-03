@@ -1,12 +1,13 @@
 title,author,link,home,rss,date,timestamp
+【工具系列】让你的IDEA一次设置，多处使用,框架師,https://www.mobaijun.com/posts/798437723.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-06-28,1593363641.0
 味遇良品上线一个月总结,Frank笔记,https://frank2019.me/archives/wei-yu-liang-pin-shang-xian-yi-ge-yue-zong-jie,https://frank2019.me/,https://frank2019.me/rss.xml,2020-06-26,1593147300.0
 拯救删除ZFS之后的分区表,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_25-save_partition_table_zfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-25,1593043200.0
 拔牙记: 深圳人民医院使用医保拔智齿经验,罗磊的独立博客,https://luolei.org/shenzhen-wisdom-teeth-extraction,https://luolei.org,https://luolei.org/feed/,2020-06-24,1592956800.0
 Linux使用redshift自动调整屏幕色温,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_23-redshift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-23,1592870400.0
 中国制造 Tesla Model 3 长续航体验,Randy's Blog,https://lutaonan.com/blog/tesla-model-3-review/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-06-22,1592784000.0
 el-bot & mirai-ts 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-el-bot/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-06-21,1592763413.0
-升级游戏鼠标：罗技 G502 LIGHTSPEED 无线版,罗磊的独立博客,https://luolei.org/logitech-g502-lightspeed,https://luolei.org,https://luolei.org/feed/,2020-06-21,1592697600.0
 Go设计模式：桥接模式和策略模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_21-go_design_pattern_bridge.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-21,1592697600.0
+升级游戏鼠标：罗技 G502 LIGHTSPEED 无线版,罗磊的独立博客,https://luolei.org/logitech-g502-lightspeed,https://luolei.org,https://luolei.org/feed/,2020-06-21,1592697600.0
 Go设计模式：单例模式、原型模式和Builder模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_20-go_design_pattern_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-20,1592611200.0
 深圳核酸检测经验分享,罗磊的独立博客,https://luolei.org/covid-19-test-shenzhen,https://luolei.org,https://luolei.org/feed/,2020-06-18,1592438400.0
 如何看待年仅 28 岁的郭宇宣布从字节跳动退休？,罗磊的独立博客,https://luolei.org/my-friend-guoyu,https://luolei.org,https://luolei.org/feed/,2020-06-16,1592265600.0
@@ -46,6 +47,5 @@ Redis是如何工作的？,Jiajun的技术笔记,https://jiajunhuang.com/article
 【Hexo】Hexo博客新建文章后自动打开编辑器,框架師,https://www.mobaijun.com/posts/2964207350.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-19,1589868496.0
 virsh自动关闭windows虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_18-virsh_shutdown_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-18,1589760000.0
 第三方评论系统之我见,云游君的小站,https://www.yunyoujun.cn/share/third-party-comment-system/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-05-17,1589693440.0
-离开阿里巴巴,Randy's Blog,https://lutaonan.com/blog/leaving-alibaba/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-17,1589673600.0
 离开阿里巴巴,Randy's Blog,https://lutaonan.com/blog/leaving-alibaba,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-05-17,1589673600.0
-Golang sort源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_16-go_sort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-16,1589587200.0
+离开阿里巴巴,Randy's Blog,https://lutaonan.com/blog/leaving-alibaba/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-17,1589673600.0

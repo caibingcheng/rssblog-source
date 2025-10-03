@@ -1,6 +1,6 @@
 title,author,link,home,rss,date,timestamp
+TiDB 源码阅读（三）：插入数据,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_03-tidb_source_code_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-03,1759449600.0
 宿 命,瓦解的生活记事,https://hin.cool/posts/suming.html,https://hin.cool/,https://hin.cool/atom.xml,2025-10-02,1759421220.0
-TiDB 源码阅读（二）：MySQL协议概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_02-tidb_source_code_mysql_protocol.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-02,1759363200.0
 Lesson 3 化学反应,菲兹克斯喵,https://physnya.top/biophysics/lesson-3-chemical-reaction/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-30,1759237266.0
 Certimate 半自动阿里云虚拟主机证书,怠惰のコエ - imba久期 BLOG,https://imba97.com/archives/807/,https://imba97.com/,https://imba97.cn/atom.xml,2025-09-29,1759155800.0
 探索网络实验的神器 Mininet,杜老师说,https://dusays.com/829/,https://dusays.com/,https://dusays.com/atom.xml,2025-09-27,1758988800.0
@@ -11,6 +11,7 @@ Certimate 半自动阿里云虚拟主机证书,怠惰のコエ - imba久期 BLOG
 世界上第一台私人 AI 超算发布啦！,Andy Stewart,https://manateelazycat.github.io/2025/09/20/microserver-and-ai-pod/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-09-19,1758297600.0
 【随笔】Jackson 反序列化报错的解决方案,框架師,https://www.mobaijun.com/posts/3481608192.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-18,1758214805.0
 〈戏台〉：荒诞的不是舞台，而是现实,Frank笔记,https://frank2019.me/archives/wei-ming-ming-wen-zhang-udNdvIFO,https://frank2019.me,https://frank2019.me/rss.xml,2025-09-12,1757652639.0
+Linux 桌面系统组件概览与故障排查指南,This Cute World,https://thiscute.world/posts/linux-desktop-explained/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-09-09,1757420253.0
 My AI Pair Programming Experiment: A Reflection on Efficiency and Creativity,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20250903-my-ai-pair-programming-experiment-a-reflection-on-efficiency-and-creativity-en,https://teobler.com,https://teobler.com/rss.xml,2025-09-03,1756908236.0
 充实的暑假,cmWeblog,https://muidar.com/posts/cmuidar/fulfilling-summer-holiday/,https://muidar.com,https://muidar.com/feed,2025-08-31,1756635953.0
 公司报销全凭本事,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/806/,https://imba97.cn/,https://imba97.cn/atom.xml,2025-08-29,1756481627.0
@@ -20,7 +21,6 @@ My AI Pair Programming Experiment: A Reflection on Efficiency and Creativity,Teo
 My Workflow to Review Articles with LLMs,Bin Wang - My Personal Blog,https://www.binwang.me/2025-08-15-My-Workflow-to-Review-Articles-with-LLMs.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2025-08-15,1755230400.0
 开源项目的「死与新生」,云游君的小站,https://www.yunyoujun.cn/posts/death-and-rebirth-of-open-source-projects,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2025-08-11,1754870400.0
 深柜者：无法接受失控，所以谎话连篇,非理勿试,https://www.ntiy.com/2296.html,https://www.ntiy.com,https://www.ntiy.com/feed,2025-06-24,1750735767.0
-KubeCon China 2025 见闻,This Cute World,https://thiscute.world/posts/kubecon-china-2025/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-06-15,1749980624.0
 操作系统技术是护城河吗？,Andy Stewart,//manateelazycat.github.io/2025/06/05/ask-os/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-06-04,1749052800.0
 安卓设备搭建 Minecraft 服务器,岚天小窝,https://blog.ltya.top/posts/MCJEServer-Android.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2025-06-03,1748966400.0
 大大大大大美新疆,见字如面,https://hiwannz.com/archives/1193.html,https://hiwannz.com,https://hiwannz.com/feed,2025-05-15,1747290671.0

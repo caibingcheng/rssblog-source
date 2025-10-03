@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+读《格鲁夫给经理人的第一课》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_07_09-high_output_management.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-07-09,1688860800.0
 读《打开心智》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_07_06-free_your_mind.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-07-06,1688601600.0
 为什么要把复杂的联表操作拆成多个单表查询？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_02_03-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-02-03,1675382400.0
 红包系统的设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_01_31-red_envelope.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-01-31,1675123200.0
@@ -48,4 +49,3 @@ Sentry 自建指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_
 推荐三个时间管理工具,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_07_06-manage_your_time.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-07-06,1625529600.0
 一次事故反思,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_07_02-reflection_on_bug.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-07-02,1625184000.0
 当JS遇到uint64：JS整数溢出问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_06_22-json_int_precision.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-06-22,1624320000.0
-SQLite3 存储以及ACID原理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_06_19-sqlite3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-06-19,1624060800.0
