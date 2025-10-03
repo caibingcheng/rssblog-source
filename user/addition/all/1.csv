@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+说说·叨叨点啥,绘星里,/talks/,/,https://blog.storical.space/atom.xml,2025-10-03,1759484109.0
 TiDB 源码阅读（三）：插入数据,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_03-tidb_source_code_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-03,1759449600.0
 TiDB 源码阅读（二）：MySQL协议概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_02-tidb_source_code_mysql_protocol.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-02,1759363200.0
 TiDB 源码阅读（一）：服务监听、请求处理流程概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_01-tidb_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-01,1759276800.0
@@ -31,14 +32,14 @@ Lesson 1 Introduction,菲兹克斯喵,https://physnya.top/astro-statistic/lesson
 Lesson 2 波函数,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-2/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-17,1758094102.0
 物理学前沿讲座,菲兹克斯喵,https://physnya.top/physics-front/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-17,1758079916.0
 Lesson 1 Introduction,菲兹克斯喵,https://physnya.top/biophysics/lesson-1-introduction/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-16,1758027783.0
-Introduction and overview,菲兹克斯喵,https://physnya.top/astro-front/lesson-1/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-16,1758021385.0
+天体物理前沿讲座,菲兹克斯喵,https://physnya.top/astro-front/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-16,1758021385.0
 Chapter 3 习题,菲兹克斯喵,https://physnya.top/self-learn-GR/chapter-3-exercise/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-15,1757958178.0
 Lesson 1 入门介绍,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-1-introduction/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-15,1757921205.0
 Einstein 场方程与时空的基本理论,菲兹克斯喵,https://physnya.top/self-learn-GR/chapter-3/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-14,1757876873.0
 怎么让claude code用国内的模型,Nicksxs's Blog,https://nicksxs.me/2025/09/13/%E6%80%8E%E4%B9%88%E8%AE%A9claude-code%E7%94%A8%E5%9B%BD%E5%86%85%E7%9A%84%E6%A8%A1%E5%9E%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-09-13,1757770194.0
 关于我,绘星里,/about/,/,https://blog.storical.space/atom.xml,2025-09-13,1757746053.0
 〈戏台〉：荒诞的不是舞台，而是现实,Frank笔记,https://frank2019.me/archives/wei-ming-ming-wen-zhang-udNdvIFO,https://frank2019.me,https://frank2019.me/rss.xml,2025-09-12,1757652639.0
-我的自学经历,Andy Stewart,https://manateelazycat.github.io/2025/09/12/close-factory/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-09-11,1757606400.0
+从误会三星手机到网络打洞,Andy Stewart,https://manateelazycat.github.io/2025/09/12/samsung-and-qos/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-09-11,1757606400.0
 流水帐 Week 25,菲兹克斯喵,https://physnya.top/posts/9l7e4ej2/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-07,1757286829.0
 技术创业者最容易忽略的地方,Andy Stewart,https://manateelazycat.github.io/2025/09/08/bussiness-and-developer/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-09-07,1757260800.0
 用gpt-oss零改动实现一个todo应用,Nicksxs's Blog,https://nicksxs.me/2025/09/07/%E7%94%A8gpt-oss%E9%9B%B6%E6%94%B9%E5%8A%A8%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AAtodo%E5%BA%94%E7%94%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-09-07,1757242520.0
@@ -48,4 +49,3 @@ Chapter 2 习题,菲兹克斯喵,https://physnya.top/self-learn-GR/chapter-2-exe
 My AI Pair Programming Experiment: A Reflection on Efficiency and Creativity,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20250903-my-ai-pair-programming-experiment-a-reflection-on-efficiency-and-creativity-en,https://teobler.com,https://teobler.com/rss.xml,2025-09-03,1756908236.0
 TiDB Lightning 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_09_02-lightning_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-09-02,1756771200.0
 WordPress 插件 – 旅行地图 WP Travel Map,Another Dayu,https://anotherdayu.com/2025/7336/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-09-01,1756760261.0
-【随笔	】🚀 让 docker ps 输出更简洁高效的几种方法,框架師,https://www.mobaijun.com/posts/1680028190.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-01,1756747430.0
