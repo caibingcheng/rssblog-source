@@ -1,9 +1,10 @@
 title,author,link,home,rss,date,timestamp
+聊聊 Sharding-Jdbc 的简单原理初篇,Nicksxs's Blog,https://nicksxs.me/2021/12/26/%E8%81%8A%E8%81%8A-Sharding-Jdbc-%E7%9A%84%E7%AE%80%E5%8D%95%E5%8E%9F%E7%90%86%E5%88%9D%E7%AF%87/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-26,1640507399.0
 记观Pentatonic十周年巡演重庆站,LonelyGod,https://hin.cool/posts/byebyepostrock.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-25,1640390400.0
 Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky.cn/posts/windows-netstat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
 Windows查询被占用的端口,Yulin Lewis' Blog,https://lewky233.top/posts/windows-netstat/,https://lewky233.top/,https://lewky.cn/index.xml,2021-12-24,1640363175.0
-（不免费了）Heroku 搭建 Onemanager,岚天小窝,http://blog.ltya.top/posts/onemanager-deploy-to-heroku.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2021-12-24,1640361600.0
 Heroku 搭建 Onemanager,岚天小窝,https://blog.ltya.top/posts/onemanager-deploy-to-heroku.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2021-12-24,1640361600.0
+（不免费了）Heroku 搭建 Onemanager,岚天小窝,http://blog.ltya.top/posts/onemanager-deploy-to-heroku.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2021-12-24,1640361600.0
 黄桷垭老街与黄葛古道,无妄当自持,https://www.insidentally.com/articles/000023/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-12-24,1640310348.0
 升级作战装备,杜老师说,https://dusays.com/416/,https://dusays.com/,https://dusays.com/atom.xml,2021-12-23,1640275200.0
 解决Ubuntu中的子进程usr bin dpkg返回错误代码1”错误,Frank笔记,https://frank2019.me/articles/2021/12/23/1640246647224.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-12-23,1640247031.0
@@ -26,9 +27,9 @@ Story Pts Vs Man Days,Teobler - 失眠多梦，bug体质,https://teobler.com/pos
 2022年中国经济政策解读,Frank笔记,https://frank2019.me/articles/2021/12/19/1639902756830.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-12-19,1639903237.0
 Vscode新建React项目,Barney's Blog,https://hugo.bnblogs.cc/vscode%E6%96%B0%E5%BB%BAreact%E9%A1%B9%E7%9B%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-18,1639835747.0
 北京环球度假区一日游「多图」,杜老师说,https://dusays.com/414/,https://dusays.com/,https://dusays.com/atom.xml,2021-12-17,1639756800.0
-新起点，新出发,绘星里,https://blog.storical.fun/posts/16107/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2021-12-17,1639752791.0
-新起点，新出发,绘星里,/posts/16107/,/,https://blog.storical.space/atom.xml,2021-12-17,1639752791.0
 新起点，新出发,汐塔魔法屋,https://blog.storical.space/posts/16107,https://blog.storical.space,https://blog.storical.space/atom.xml,2021-12-17,1639752791.0
+新起点，新出发,绘星里,/posts/16107/,/,https://blog.storical.space/atom.xml,2021-12-17,1639752791.0
+新起点，新出发,绘星里,https://blog.storical.fun/posts/16107/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2021-12-17,1639752791.0
 必应崩了，还有什么搜索引擎？,LonelyGod,https://hin.cool/posts/fsou.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-12-16,1639684200.0
 我太喜欢长沙了！,见字如面,https://hiwannz.com/archives/658,https://hiwannz.com,https://hiwannz.com/feed,2021-12-16,1639656868.0
 对于文本的处理和分析的小练习,杜老师说,https://dusays.com/413/,https://dusays.com/,https://dusays.com/atom.xml,2021-12-14,1639497600.0
@@ -48,4 +49,3 @@ PostgreSQL - DML操作汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql
 【Linux系列】Docker-Build在线地址错误异常解决,框架師,https://www.mobaijun.com/posts/1333172510.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-07,1638841099.0
 个人的时间是有限的,近视眼逛博客,https://blog.dtz9.com/2021/12/Individual-time-is-limited.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-12-06,1638804587.0
 个人的时间是有限的,近视眼逛博客,https://blog.9hz.club/2021/12/Individual-time-is-limited.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2021-12-06,1638804540.0
-PicSizer-将图片压缩到指定大小(KB)的软件,DearXuan的主页,https://dearxuan.top/2021/12/06/PicSizer-%E5%B0%86%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E5%88%B0%E6%8C%87%E5%AE%9A%E5%A4%A7%E5%B0%8F-KB-%E7%9A%84%E8%BD%AF%E4%BB%B6/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-12-06,1638791700.0

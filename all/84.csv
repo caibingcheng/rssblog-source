@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
 2020 年终总结,Randy's Blog,https://lutaonan.com/blog/2020-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-01-10,1610236800.0
+2020 年终总结,Randy's Blog,https://lutaonan.com/blog/2020-summary,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-01-10,1610236800.0
 Pulumi 使用体验 - 基础设施代码化,This Cute World,https://thiscute.world/posts/expirence-of-pulumi/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-08,1610103090.0
 M1 的 Mac 上重装 macOS 时出现错误,杜老师说,https://dusays.com/300/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-07,1610035200.0
 【Java基础】Java-多线程,框架師,https://www.mobaijun.com/posts/3237902709.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-06,1609930602.0
@@ -12,9 +13,9 @@ Android手动挡MVVM,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021
 2020 年度总结,4Ark × Blog,https://4ark.me/posts/2020-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
 年度简报 - 2020 | 等待,FlyingSky's Blog,https://blog.fsky7.com/archives/175/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-12-31,1609430400.0
 【工具系列】常用工具汇总,框架師,https://www.mobaijun.com/posts/1664035384.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-31,1609403450.0
-2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
-二〇二〇年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2020-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 二〇二〇年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
+二〇二〇年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2020-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
+2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
 使用 linux 操作系统，如何优化固态硬盘使用体验,无妄当自持,https://www.insidentally.com/articles/000007/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-30,1609344203.0
 【工具系列】StarUML软件使用,框架師,https://www.mobaijun.com/posts/3077971711.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-30,1609324389.0
 【随笔】完整的Java学习路线,框架師,https://www.mobaijun.com/posts/2907784405.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-30,1609323414.0
@@ -48,4 +49,3 @@ Android调用gRPC的两个小工具函数,Jiajun的技术笔记,https://jiajunhu
 通过 Docker 部署 AdGuard Home 实战,杜老师说,https://dusays.com/289/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-05,1607184000.0
 【DB系列】InfluxDB,框架師,https://www.mobaijun.com/posts/2901774056.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-04,1607048712.0
 Docker 套件的功能介绍,杜老师说,https://dusays.com/288/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-02,1606924800.0
-Android上结合kotlin使用coroutine,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_01-android_kotlin_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-01,1606780800.0
