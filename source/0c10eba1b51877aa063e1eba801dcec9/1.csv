@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+TiDB 源码阅读（五）：索引,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_05-tidb_source_code_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-05,1759622400.0
 TiDB 源码阅读（四）：AST、逻辑计划、物理计划,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_04-tidb_source_code_ast_and_plan.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-04,1759536000.0
 TiDB 源码阅读（三）：插入数据,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_03-tidb_source_code_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-03,1759449600.0
 TiDB 源码阅读（二）：MySQL协议概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_02-tidb_source_code_mysql_protocol.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-02,1759363200.0
@@ -48,4 +49,3 @@ GPT 帮我搞定了时区转换问题,Jiajun的技术笔记,https://jiajunhuang.
 macOS/Linux 编译 InputLeap,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_11-input_leap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-11,1699660800.0
 使用开源软KVM - synergy-core,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_10-synergy_core.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-10,1699574400.0
 解决 macOS 终端hostname一直变化问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_06-mac_keep_hostname.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-06,1699228800.0
-KVM 共享 Intel 集成显卡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_05-kvm_windows_intel_gpu.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-05,1699142400.0
