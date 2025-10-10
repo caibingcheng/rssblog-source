@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Linux常用命令(一)：netcat,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_19-linux_cmd_netcat.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-19,1600473600.0
+免费获取 Microsoft 365 E5 订阅,岚天小窝,http://blog.ltya.top/posts/E5-Developer-Subscription.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-09-18,1600444800.0
 免费获取 Microsoft 365 E5 订阅,岚天小窝,https://blog.ltya.top/posts/E5-Developer-Subscription.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-09-18,1600444800.0
 装修脑壳痛：家庭万兆光纤网络、智能家居,罗磊的独立博客,https://luolei.org/apartment-log-book-network/,https://luolei.org/,https://luolei.org/feed/,2020-09-18,1600428621.0
 装修脑壳痛：家庭万兆光纤网络、智能家居,罗磊的独立博客,https://luolei.org/apartment-log-book-network,https://luolei.org,https://luolei.org/feed/,2020-09-18,1600387200.0
@@ -31,8 +33,8 @@ NSQ源码分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_1
 写给大学新生的数字指南,罗磊的独立博客,https://luolei.org/freshman-internet-guidebook/,https://luolei.org/,https://luolei.org/feed/,2020-08-15,1597495033.0
 Use RSS and Kindle to Read News,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-15-Use-RSS-and-Kindle-to-Read-News.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-15,1597464000.0
 NSQ简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_15-nsq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-15,1597449600.0
-写给大学新生的数字指南,罗磊的独立博客,https://luolei.org/freshman-internet-guidebook,https://luolei.org,https://luolei.org/feed/,2020-08-15,1597449600.0
 Docmate - 一个可以自由部署的文档平台,Randy's Blog,https://lutaonan.com/blog/announcing-docmate/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-08-15,1597449600.0
+写给大学新生的数字指南,罗磊的独立博客,https://luolei.org/freshman-internet-guidebook,https://luolei.org,https://luolei.org/feed/,2020-08-15,1597449600.0
 我与小镇与家,云游君的小站,https://www.yunyoujun.cn/essay/i-and-town-and-home/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-14,1597442400.0
 结合Redis与MySQL实现又快又好的数据方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_11-redis_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-11,1597104000.0
 盛唐诗人和远游,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-09-%E7%9B%9B%E5%94%90%E8%AF%97%E4%BA%BA%E5%92%8C%E8%BF%9C%E6%B8%B8.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-09,1596945600.0
@@ -47,5 +49,3 @@ What Is Wrong about Recommendation System,Bin Wang - My Personal Blog,https://ww
 生活的本质,Frank笔记,https://frank2019.me/archives/sheng-huo-de-ben-zhi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-31,1596171900.0
 中国网络基建有多厉害？我在珠峰测网速,罗磊的独立博客,https://luolei.org/mountain-everest-internet-speedtest,https://luolei.org,https://luolei.org/feed/,2020-07-31,1596153600.0
 路线决定未来,Frank笔记,https://frank2019.me/archives/lu-xian-jue-ding-wei-lai,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-29,1595998980.0
-程序员的MySQL手册(五)：索引优化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_28-mysql_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-28,1595894400.0
-程序员的MySQL手册(四)：索引设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_27-mysql_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-27,1595808000.0

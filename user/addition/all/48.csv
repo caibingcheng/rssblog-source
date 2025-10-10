@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+读《如何成为更聪明的人》，我重新思考了我的思考,冰哥笔记,https://www.bgbiji.com/850.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-01-18,1642491597.0
+Kong 2.7 已经准备就绪！,把酒诗代码，趁乱写年华。,https://102no.com/2022/01/18/kong-2.7/,https://102no.com/,https://102no.com/atom.xml,2022-01-17,1642435200.0
 搬运两个 StackOverflow 上的 Mysql 编码相关的问题解答,Nicksxs's Blog,https://nicksxs.me/2022/01/16/%E6%90%AC%E8%BF%90%E4%B8%A4%E4%B8%AA-StackOverflow-%E4%B8%8A%E7%9A%84-Mysql-%E7%BC%96%E7%A0%81%E7%9B%B8%E5%85%B3%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-01-16,1642337551.0
 聊聊四元数与万向锁及其实际意义,云游君的小站,https://www.yunyoujun.cn/posts/quaternion-and-spatial-rotation,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2022-01-16,1642298352.0
 聊聊四元数与万向锁及其实际意义,云游君的小站,https://www.yunyoujun.cn/posts/quaternion-and-spatial-rotation/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2022-01-15,1642269552.0
@@ -22,8 +24,8 @@ EAF支持Wayland native啦!,manateelazycat.github.io,//manateelazycat.github.io/
 【工具系列】mvnd：maven全新构建插件，提高性能,框架師,https://www.mobaijun.com/posts/1982863623.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-29,1640745287.0
 【AWS】CloudFront免费CDN详细配置入门,Luminous' Home,https://luotianyi.vc/5994.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-12-28,1640696356.0
 聊聊 Sharding-Jdbc 的简单原理初篇,Nicksxs's Blog,https://nicksxs.me/2021/12/26/%E8%81%8A%E8%81%8A-Sharding-Jdbc-%E7%9A%84%E7%AE%80%E5%8D%95%E5%8E%9F%E7%90%86%E5%88%9D%E7%AF%87/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-26,1640507399.0
-Heroku 搭建 Onemanager,岚天小窝,https://blog.ltya.top/posts/onemanager-deploy-to-heroku.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2021-12-24,1640361600.0
 （不免费了）Heroku 搭建 Onemanager,岚天小窝,http://blog.ltya.top/posts/onemanager-deploy-to-heroku.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2021-12-24,1640361600.0
+Heroku 搭建 Onemanager,岚天小窝,https://blog.ltya.top/posts/onemanager-deploy-to-heroku.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2021-12-24,1640361600.0
 解决Ubuntu中的子进程usr bin dpkg返回错误代码1”错误,Frank笔记,https://frank2019.me/articles/2021/12/23/1640246647224.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-12-23,1640247031.0
 【Linux系列】Docker启动Nginx配置动静分离,框架師,https://www.mobaijun.com/posts/649017238.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-12-23,1640222875.0
 Log4j 漏洞，阿里躺枪,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/749/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-12-23,1640222528.0
@@ -31,9 +33,9 @@ Log4j 漏洞，阿里躺枪,怠惰のコエ - imba久期 BLOG,https://imba97.cn/
 Story Pts Vs Man Days,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20211208-story-pts-vs-man-days,https://teobler.com,https://teobler.com/rss.xml,2021-12-19,1639925280.0
 聊聊最近平淡的生活之看《神探狄仁杰》,Nicksxs's Blog,https://nicksxs.me/2021/12/19/%E8%81%8A%E8%81%8A%E6%9C%80%E8%BF%91%E5%B9%B3%E6%B7%A1%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B9%8B%E7%9C%8B%E3%80%8A%E7%A5%9E%E6%8E%A2%E7%8B%84%E4%BB%81%E6%9D%B0%E3%80%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-19,1639912701.0
 2022年中国经济政策解读,Frank笔记,https://frank2019.me/articles/2021/12/19/1639902756830.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-12-19,1639903237.0
-新起点，新出发,绘星里,https://blog.storical.fun/posts/16107/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2021-12-17,1639752791.0
-新起点，新出发,绘星里,/posts/16107/,/,https://blog.storical.space/atom.xml,2021-12-17,1639752791.0
 新起点，新出发,汐塔魔法屋,https://blog.storical.space/posts/16107,https://blog.storical.space,https://blog.storical.space/atom.xml,2021-12-17,1639752791.0
+新起点，新出发,绘星里,/posts/16107/,/,https://blog.storical.space/atom.xml,2021-12-17,1639752791.0
+新起点，新出发,绘星里,https://blog.storical.fun/posts/16107/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2021-12-17,1639752791.0
 我太喜欢长沙了！,见字如面,https://hiwannz.com/archives/658,https://hiwannz.com,https://hiwannz.com/feed,2021-12-16,1639656868.0
 npm 存在的问题以及 pnpm 是怎么处理的,Yuexun's Blog,https://yuexunjiang.me/blog/problems-with-npm-and-how-pnpm-handles-them/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-12-13,1639353600.0
 聊聊 Sharding-Jdbc 的简单使用,Nicksxs's Blog,https://nicksxs.me/2021/12/12/%E8%81%8A%E8%81%8A-Sharding-Jdbc-%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-12-12,1639310283.0
@@ -47,5 +49,3 @@ wordpress 忘记密码的一种解决方法,Nicksxs's Blog,https://nicksxs.me/20
 给自媒体新手的一些建议,冰哥笔记,https://www.bgbiji.com/840.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-12-03,1638502602.0
 谈谈生死,冰哥笔记,https://www.bgbiji.com/838.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-12-02,1638432651.0
 认真思考：钱多到根本花不完，真的快乐吗？,非理勿试,https://www.ntiy.com/1677.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-12-02,1638409641.0
-使用 OpenWRT 搭建软路由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_12_01-openwrt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-12-01,1638316800.0
-【Linux系列】Telnet 命令使用和详解,框架師,https://www.mobaijun.com/posts/1235765571.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-11-29,1638152400.0
