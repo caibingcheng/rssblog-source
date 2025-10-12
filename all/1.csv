@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+TiDB 源码阅读（六）：TiDB Coprocessor 源码解析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_12-tidb_source_code_coprocessor.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-12,1760227200.0
 Lesson 6 Nobel Prize,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-6/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-11,1760168858.0
 Lesson 3 宇宙学和粒子物理,菲兹克斯喵,https://physnya.top/physics-front/lesson-3/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-11,1760153790.0
 Lesson 3 分离变量法 (二),菲兹克斯喵,https://physnya.top/equation-m-p/lesson-3/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-10,1760091618.0
@@ -11,6 +12,7 @@ Lesson 7 静电唯一性定理,菲兹克斯喵,https://physnya.top/electrodynami
 免费的 zone.id 二级域名,岚天小窝,https://blog.ltya.top/posts/zone.id.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2025-10-06,1759766400.0
 流水帐 Week 26,菲兹克斯喵,https://physnya.top/posts/9cfvcaje/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-06,1759752837.0
 Download Message Images from Seesaw,Bin Wang - My Personal Blog,https://www.binwang.me/2025-10-06-Download-Message-Images-from-Seesaw.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2025-10-06,1759723200.0
+性能优化的核心思想,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_06-performance.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-06,1759708800.0
 TiDB 源码阅读（五）：索引,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_05-tidb_source_code_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-05,1759622400.0
 学习下用Google的agent开发工具Agent Development Kit,Nicksxs's Blog,https://nicksxs.me/2025/10/04/%E5%AD%A6%E4%B9%A0%E4%B8%8B%E7%94%A8Google%E7%9A%84agent%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7Agent-Development-Kit/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-10-04,1759589443.0
 TiDB 源码阅读（四）：AST、逻辑计划、物理计划,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_04-tidb_source_code_ast_and_plan.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-04,1759536000.0
@@ -47,5 +49,3 @@ Lesson 3 稳态 Schrödinger 方程,菲兹克斯喵,https://physnya.top/quantum-
 活在当下,谋生者 I Create Life,https://www.icl.site/17583749939786.html,https://www.icl.site/,https://www.icl.site/atom.xml,2025-09-22,1758506813.0
 Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决,杜老师说,https://dusays.com/828/,https://dusays.com/,https://dusays.com/atom.xml,2025-09-21,1758470400.0
 通过显卡来给gpt-oss做个加速,Nicksxs's Blog,https://nicksxs.me/2025/09/21/%E9%80%9A%E8%BF%87%E6%98%BE%E5%8D%A1%E6%9D%A5%E7%BB%99gpt-oss%E5%81%9A%E4%B8%AA%E5%8A%A0%E9%80%9F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-09-21,1758463117.0
-用 Siri 来控制虚拟机开启和关闭,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_09_21-siri_ssh.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-09-21,1758412800.0
-世界上第一台私人 AI 超算发布啦！,Andy Stewart,https://manateelazycat.github.io/2025/09/20/microserver-and-ai-pod/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-09-19,1758297600.0

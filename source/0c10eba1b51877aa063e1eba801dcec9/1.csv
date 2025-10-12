@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+TiDB 源码阅读（六）：TiDB Coprocessor 源码解析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_12-tidb_source_code_coprocessor.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-12,1760227200.0
+性能优化的核心思想,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_06-performance.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-06,1759708800.0
 TiDB 源码阅读（五）：索引,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_05-tidb_source_code_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-05,1759622400.0
 TiDB 源码阅读（四）：AST、逻辑计划、物理计划,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_04-tidb_source_code_ast_and_plan.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-04,1759536000.0
 TiDB 源码阅读（三）：插入数据,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_03-tidb_source_code_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-03,1759449600.0
@@ -23,7 +25,7 @@ AI 会取代你的(编程)岗位吗？,Jiajun的技术笔记,https://jiajunhuang
 自建DERP服务器提升Tailscale连接速度(使用Nginx转发),Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_20-tailscale_derp.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-20,1732060800.0
 自动升级Docker容器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_07-auto_upgrade_docker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-07,1730937600.0
 再读《程序员修炼之道-从小工到专家》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_07-the_pragmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-07,1725667200.0
-让浏览器下载文件,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_06-browser_download_file.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-06,1725580800.0
+再读《软件随想录》/《黑客与画家》/《软技能》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_06-reread_3_books.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-06,1725580800.0
 HTTP 压力测试中的 Coordinated Omission,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_08_30-http_load_testing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-08-30,1724976000.0
 2的补码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_07_24-twos_complement.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-07-24,1721779200.0
 编程语言中的 context 是什么？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_07_21-context.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-07-21,1721520000.0
@@ -47,5 +49,3 @@ FreeBSD 和 Linux 网卡聚合实现提速,Jiajun的技术笔记,https://jiajunh
 GPT 帮我搞定了时区转换问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_15-python_datetime_with_timezone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-15,1700006400.0
 长任务系统如何处理？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_12-long_running_task.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-12,1699747200.0
 macOS/Linux 编译 InputLeap,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_11-input_leap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-11,1699660800.0
-使用开源软KVM - synergy-core,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_10-synergy_core.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-10,1699574400.0
-解决 macOS 终端hostname一直变化问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_06-mac_keep_hostname.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-06,1699228800.0
