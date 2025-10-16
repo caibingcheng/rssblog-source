@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Golang expvar库源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_12-expvar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-12,1586649600.0
+简单聊 SUID,杜老师说,https://dusays.com/210/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-11,1586620800.0
 浅谈 DNS 解析与 CDN 原理,ChrAlpha,https://blog.ichr.me/post/how-dns-and-cdn-work/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-11,1586614065.0
 Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
 Golang validator使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
@@ -47,5 +49,3 @@ Windows2008 系统 IIS 服务安装,杜老师说,https://dusays.com/200/,https:/
 给你的代码跑个分？pylint使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_12-pylint.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-12,1583971200.0
 谈谈 RSA 非对称加密算法原理及流程,ChrAlpha,https://blog.ichr.me/post/rsa-asymmetric-encryption-algorithm/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-11,1583930619.0
 一个Gunicorn worker数量引发的血案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_11-gunicorn_worker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-11,1583884800.0
-常用页面加载速度优化方法,杜老师说,https://dusays.com/199/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-09,1583769600.0
-在 GitHub 上使用 GPG 认证你的 Git Commit,ChrAlpha,https://blog.ichr.me/post/use-gpg-verification-in-github/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-08,1583702310.0
