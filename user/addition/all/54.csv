@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+[转载]再谈谈这个沉重的话题:程序员的出路,框架師,https://www.mobaijun.com/posts/4100025323.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-05-27,1622105062.0
+Redis源码阅读：RDB是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_27-redis_source_code_7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-27,1622073600.0
 Redis源码阅读：AOF重写,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_26-redis_source_code_6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-26,1621987200.0
 浅谈躺平主义,Frank笔记,https://frank2019.me/articles/2021/05/25/1621914886868.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-05-25,1621915330.0
 Redis源码阅读：AOF持久化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_25-redis_source_code_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-25,1621900800.0
@@ -47,5 +49,3 @@ Compute Shader 简介,萤火之森,http://frankorz.com/2021/04/17/compute-shader
 如何定位程序问题所在,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_15-how_to_debug_program.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-15,1618444800.0
 【Nginx系列】Nginx,框架師,https://www.mobaijun.com/posts/1706463495.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-04-14,1618384093.0
 设计一个IM归档系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_14-system_design_archive.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-14,1618358400.0
-10本 Redis 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/12/10-redis-learn-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-11,1618156800.0
-聊聊厦门旅游的好与不好,Nicksxs's Blog,https://nicksxs.me/2021/04/11/%E8%81%8A%E8%81%8A%E5%8E%A6%E9%97%A8%E6%97%85%E6%B8%B8%E7%9A%84%E5%A5%BD%E4%B8%8E%E4%B8%8D%E5%A5%BD/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-04-11,1618155487.0
