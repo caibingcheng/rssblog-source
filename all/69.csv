@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+读钱德勒《漫长的告别》：都市独行侠,LonelyGod,https://hin.cool/posts/longgoodbye.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-25,1637798400.0
 我的世界 1.17 版光影推荐,杜老师说,https://dusays.com/406/,https://dusays.com/,https://dusays.com/atom.xml,2021-11-23,1637683200.0
 本站站点黑名单,沐云湘夕—求索,https://quest.myxxts.club/archives/115/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2021-11-23,1637671560.0
 产品驱动增长,见字如面,https://hiwannz.com/archives/654,https://hiwannz.com,https://hiwannz.com/feed,2021-11-22,1637581837.0
@@ -8,8 +9,8 @@ VPS连接优化,Frank笔记,https://frank2019.me/articles/2021/11/22/16375539998
 Navicat使用汇总,Yulin Lewis' Blog,https://lewky233.top/posts/navicat/,https://lewky233.top/,https://lewky.cn/index.xml,2021-11-20,1637422008.0
 Navicat使用汇总,Yulin Lewis' Blog,https://lewky.cn/posts/navicat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-11-20,1637422008.0
 使用 systemd 控制您的计算机时间和日期,无妄当自持,https://www.insidentally.com/articles/000021/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-11-20,1637373099.0
-《Go 语言设计与实现》纸质书预售了！,面向信仰编程,https://draveness.me//golang-book-release,https://draveness.me/,https://draveness.me/feed.xml,2021-11-20,1637366400.0
 《Go 语言设计与实现》纸质书预售了！,面向信仰编程,https://draven.co//golang-book-release,https://draven.co/,https://draveness.me/feed.xml,2021-11-20,1637366400.0
+《Go 语言设计与实现》纸质书预售了！,面向信仰编程,https://draveness.me//golang-book-release,https://draveness.me/,https://draveness.me/feed.xml,2021-11-20,1637366400.0
 Do Not Be Limited By Your Tech Stack,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20211119-do-not-be-limited-by-your-tech-stack,https://teobler.com,https://teobler.com/rss.xml,2021-11-19,1637318160.0
 人工智能基础-动态规划,DearXuan的主页,https://blog.dearxuan.com/2021/11/19/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-19,1637304300.0
 人工智能基础-动态规划,DearXuan的主页,https://dearxuan.top/2021/11/19/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-19,1637304300.0
@@ -45,7 +46,6 @@ glibc-abort源码阅读,BBing's Blog,https://bbing.com.cn/202111/glibc-abort/,ht
 使用Docker模拟软件运行环境,BBing's Blog,https://bbing.com.cn/202111/docker-build2/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-11-10,1636524412.0
 谈谈最近的自己。,冰哥笔记,https://www.bgbiji.com/836.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-11-10,1636517474.0
 什么是 Docker in Docker,杜老师说,https://dusays.com/401/,https://dusays.com/,https://dusays.com/atom.xml,2021-11-08,1636387200.0
-CLion编写我的世界基岩版插件(LiteLoaderBDS)-2,DearXuan的主页,https://dearxuan.top/2021/11/08/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS-2/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-08,1636365720.0
 CLion编写我的世界基岩版插件(LiteLoaderBDS)-2,DearXuan的主页,https://blog.dearxuan.com/2021/11/08/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS-2/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-08,1636365720.0
-CLion编写我的世界基岩版插件(LiteLoaderBDS)-1,DearXuan的主页,https://dearxuan.top/2021/11/07/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-07,1636299540.0
+CLion编写我的世界基岩版插件(LiteLoaderBDS)-2,DearXuan的主页,https://dearxuan.top/2021/11/08/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS-2/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-08,1636365720.0
 CLion编写我的世界基岩版插件(LiteLoaderBDS)-1,DearXuan的主页,https://blog.dearxuan.com/2021/11/07/CLion%E7%BC%96%E5%86%99%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%9F%BA%E5%B2%A9%E7%89%88%E6%8F%92%E4%BB%B6-LiteLoaderBDS/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-07,1636299540.0
