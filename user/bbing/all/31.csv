@@ -1,4 +1,10 @@
 title,author,link,home,rss,date,timestamp
+MySQL 主键和唯一索引区别,杜老师说,https://dusays.com/251/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-12,1597248000.0
+何为内网穿透,杜老师说,https://dusays.com/250/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-09,1596988800.0
+新一代多系统启动 U 盘解决方案,杜老师说,https://dusays.com/249/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-06,1596729600.0
+DevTools failed to load SourceMap 问题的解决,杜老师说,https://dusays.com/248/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-03,1596470400.0
+如何关闭浏览器 SameSite 警告,杜老师说,https://dusays.com/247/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-31,1596211200.0
+Hexo 指定不进行渲染的文件或目录,杜老师说,https://dusays.com/246/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-28,1595952000.0
 Hexo 生成页面出现问题 WARN No layout,杜老师说,https://dusays.com/245/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-25,1595692800.0
 为 Nextcloud 添加 Markdown 编辑器,杜老师说,https://dusays.com/244/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-22,1595433600.0
 解决 Nextcloud 出现 trusted_domains 问题,杜老师说,https://dusays.com/243/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-19,1595174400.0
@@ -43,9 +49,3 @@ Linux 特殊权限总结篇,杜老师说,https://dusays.com/213/,https://dusays.
 简单聊 SGID,杜老师说,https://dusays.com/211/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-14,1586880000.0
 简单聊 SUID,杜老师说,https://dusays.com/210/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-11,1586620800.0
 CDN 原理及使用,杜老师说,https://dusays.com/209/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-08,1586361600.0
-使用 Istio 进行 JWT 身份验证（充当 API 网关）,This Cute World,https://thiscute.world/posts/use-istio-for-jwt-auth/,https://thiscute.world/,https://thiscute.world/index.xml,2020-04-06,1586180906.0
-安装 GNS3 思科模拟器,杜老师说,https://dusays.com/208/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-05,1586102400.0
-四命令玩转 Linux 进程管理,杜老师说,https://dusays.com/207/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-02,1585843200.0
-思科设备连接指南,杜老师说,https://dusays.com/206/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-30,1585584000.0
-Linux网络学习笔记（二）：域名解析(DNS)——以 CoreDNS 为例,This Cute World,https://thiscute.world/posts/about-dns-protocol/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-29,1585468163.0
-统一操作系统介绍,杜老师说,https://dusays.com/205/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-27,1585324800.0

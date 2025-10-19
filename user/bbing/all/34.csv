@@ -1,4 +1,10 @@
 title,author,link,home,rss,date,timestamp
+LVS 中 NAT 和 FullNAT 的区别,杜老师说,https://dusays.com/116/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-02,1572710400.0
+LVS 的算法,杜老师说,https://dusays.com/117/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-01,1572624000.0
+如何通过命令修改 Windows 的网络地址,杜老师说,https://dusays.com/115/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-31,1572537600.0
+LVS 负载均衡 Tunnel 模式,杜老师说,https://dusays.com/114/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-30,1572451200.0
+LVS 负载均衡 DR 模式,杜老师说,https://dusays.com/113/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-29,1572364800.0
+LVS 负载均衡 NAT 模式,杜老师说,https://dusays.com/112/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-28,1572278400.0
 LVS 负载均衡服务器,杜老师说,https://dusays.com/111/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-27,1572192000.0
 杜老师搭建的 DNS 缓存服务器,杜老师说,https://dusays.com/110/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-26,1572105600.0
 把你的终端变成复古显示器,杜老师说,https://dusays.com/109/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-25,1572019200.0
@@ -43,9 +49,3 @@ TCP 的快速重传,杜老师说,https://dusays.com/71/,https://dusays.com/,http
 TCP 的拥塞避免,杜老师说,https://dusays.com/70/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-16,1568649600.0
 TCP 的慢速启动,杜老师说,https://dusays.com/69/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-15,1568563200.0
 TCP 的滑动窗口,杜老师说,https://dusays.com/68/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-14,1568476800.0
-图解 TCP/IP 电子书分享,杜老师说,https://dusays.com/67/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-13,1568390400.0
-带你读单词第 25 期,杜老师说,https://dusays.com/66/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-12,1568304000.0
-Server2019 搭建 DNS 服务,杜老师说,https://dusays.com/65/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-11,1568217600.0
-Server2019 搭建 DHCP 服务,杜老师说,https://dusays.com/64/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-10,1568131200.0
-Windows Server 2019 的安装,杜老师说,https://dusays.com/63/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-09,1568044800.0
-VMware Workstation 15 Pro 许可证分享,杜老师说,https://dusays.com/62/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-08,1567958400.0

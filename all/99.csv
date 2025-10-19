@@ -1,4 +1,10 @@
 title,author,link,home,rss,date,timestamp
+TCP 的快速重传,杜老师说,https://dusays.com/71/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-17,1568736000.0
+TCP 的拥塞避免,杜老师说,https://dusays.com/70/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-16,1568649600.0
+爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0
+爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0
+TCP 的慢速启动,杜老师说,https://dusays.com/69/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-15,1568563200.0
+TCP 的滑动窗口,杜老师说,https://dusays.com/68/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-14,1568476800.0
 ufw简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_14-ufw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-14,1568419200.0
 图解 TCP/IP 电子书分享,杜老师说,https://dusays.com/67/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-13,1568390400.0
 带你读单词第 25 期,杜老师说,https://dusays.com/66/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-12,1568304000.0
@@ -40,12 +46,6 @@ Golang的template(模板引擎)简明教程,Jiajun的技术笔记,https://jiajun
 带你读单词第 20 期,杜老师说,https://dusays.com/45/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-22,1566489600.0
 带你读单词第 19 期,杜老师说,https://dusays.com/44/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-21,1566403200.0
 毕业三年，一路走来,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_21-three_years_after_graduate.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-21,1566345600.0
+关于 tapable 你需要知道这些,Ahonn's Blog,https://www.ahonn.me/blog/about-tapable-you-need-to-know-these,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
-关于 tapable 你需要知道这些,Ahonn's Blog,https://www.ahonn.me/blog/about-tapable-you-need-to-know-these,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
-带你读单词第 18 期,杜老师说,https://dusays.com/43/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-20,1566316800.0
-带你读单词第 17 期,杜老师说,https://dusays.com/42/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-19,1566230400.0
-带你读单词第 16 期,杜老师说,https://dusays.com/41/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-18,1566144000.0
-代码的坏味道,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_18-code_with_bad_taste.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-18,1566086400.0
-带你读单词第 15 期,杜老师说,https://dusays.com/40/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-17,1566057600.0
-带你读单词第 14 期,杜老师说,https://dusays.com/39/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-16,1565971200.0
