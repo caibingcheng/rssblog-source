@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+解决k8s cron无法读取环境变量的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
 VPS 手动在线一键重装系统脚本整理,ChrAlpha,https://blog.ichr.me/post/scripts-for-reinstalling-linux-vps/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-06,1586171300.0
 人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/posts/life-is-not-a-marathon,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1586012398.0
 人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/diary/life-is-not-a-marathon/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1585983598.0
@@ -33,13 +34,13 @@ Lazyload 不让 Valine 评论组件拖慢页面加载,ChrAlpha,https://blog.ichr
 MySQL Boolean类型的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_06-mysql_boolean_tinyint_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-06,1583452800.0
 Hexo 博客 | 链接分享卡片生成配置,ChrAlpha,https://blog.ichr.me/post/hexo-generate-link-sharing-card/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-05,1583423588.0
 教你如何从零开始搭建一个属于自己的网站,云游君的小站,https://www.yunyoujun.cn/share/how-to-build-your-site/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-04,1583343068.0
-居家办公好物 | 震旦 AS036 桌面碎纸机开箱,罗磊的独立博客,https://luolei.org/aurora-as036-shredder,https://luolei.org,https://luolei.org/feed/,2020-03-04,1583280000.0
 pip freeze是魔鬼,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_04-pip_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-04,1583280000.0
+居家办公好物 | 震旦 AS036 桌面碎纸机开箱,罗磊的独立博客,https://luolei.org/aurora-as036-shredder,https://luolei.org,https://luolei.org/feed/,2020-03-04,1583280000.0
 一个feed流系统的演进,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_02-feed_system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-02,1583107200.0
 通过4bet来防守3bet,Frank笔记,https://frank2019.me/archives/tong-guo-4betlai-fang-shou-3bet,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096880.0
 使用Markdown在博客中添加视频,Frank笔记,https://frank2019.me/archives/shi-yong-markdownzai-bo-ke-zhong-tian-jia-shi-pin,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096760.0
-Android 使用view binding,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_01-android_view_binding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-01,1583020800.0
 好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
+Android 使用view binding,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_01-android_view_binding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-01,1583020800.0
 好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
 关于浏览器隐藏 https 与 www 一事,ChrAlpha,https://blog.ichr.me/post/why-browsers-hide-https-and-www-in-address-bar/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-29,1582985007.0
 Ubuntu安装SS-Libev,Frank笔记,https://frank2019.me/archives/ubuntuan-zhuang-ss-libev,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-28,1582923840.0
@@ -48,4 +49,3 @@ Cloudflare 指定 CDN 节点与缓存配置,ChrAlpha,https://blog.ichr.me/post/c
 疫情过后的思考,Frank笔记,https://frank2019.me/archives/yi-qing-guo-hou-de-si-kao,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-26,1582750980.0
 Parcel.js + Vue 搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/vue-parcel-demo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-26,1582689900.0
 MySQL charset不同导致无法使用索引的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_26-mysql_charset_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-26,1582675200.0
-使用 Speedtest CLI 测试服务器带宽质量,ChrAlpha,https://blog.ichr.me/post/use-speedtest-cli-to-test-the-speed-of-your-server/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-24,1582561951.0
