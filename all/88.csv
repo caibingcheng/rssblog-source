@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+PXE 实战篇,杜老师说,https://dusays.com/260/,https://dusays.com/,https://dusays.com/atom.xml,2020-09-08,1599580800.0
 「硬核JS」一次搞懂JS运行机制,qinxs小站,https://7bxing.com/posts/9c28944f/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-08,1599574555.0
 Deploy Matrix for Users in China,Bin Wang - My Personal Blog,https://www.binwang.me/2020-09-08-Build-An-Instant-Messaging-System-without-Censorship-Deployment-Options.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-09-08,1599537600.0
 我与小镇与家,云游君的小站,https://www.yunyoujun.cn/posts/i-and-town-and-home,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-06,1599368400.0
@@ -32,8 +33,8 @@ NSQ源码分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_1
 Apache 的三种工作模式介绍「prefork 篇」,杜老师说,https://dusays.com/252/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-15,1597507200.0
 写给大学新生的数字指南,罗磊的独立博客,https://luolei.org/freshman-internet-guidebook/,https://luolei.org/,https://luolei.org/feed/,2020-08-15,1597495033.0
 Use RSS and Kindle to Read News,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-15-Use-RSS-and-Kindle-to-Read-News.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-15,1597464000.0
-NSQ简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_15-nsq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-15,1597449600.0
 Docmate - 一个可以自由部署的文档平台,Randy's Blog,https://lutaonan.com/blog/announcing-docmate/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-08-15,1597449600.0
+NSQ简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_15-nsq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-15,1597449600.0
 写给大学新生的数字指南,罗磊的独立博客,https://luolei.org/freshman-internet-guidebook,https://luolei.org,https://luolei.org/feed/,2020-08-15,1597449600.0
 我与小镇与家,云游君的小站,https://www.yunyoujun.cn/essay/i-and-town-and-home/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-14,1597442400.0
 MySQL 主键和唯一索引区别,杜老师说,https://dusays.com/251/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-12,1597248000.0
@@ -48,4 +49,3 @@ DevTools failed to load SourceMap 问题的解决,杜老师说,https://dusays.co
 不必二选一！AdGuard 去除广告与 Clash 网络代理同时进行,ChrAlpha,https://blog.ichr.me/post/adguard-with-clash/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-08-02,1596411381.0
 【WEB系列】阿里云短信服务实战,框架師,https://www.mobaijun.com/posts/22837162.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-08-02,1596382840.0
 What Is Wrong about Recommendation System,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-02-What-Is-Wrong-abount-Recommendation-System.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-02,1596340800.0
-人生重要的是经历而非结果,Frank笔记,https://frank2019.me/archives/ren-sheng-chong-yao-de-shi-jing-li-er-fei-jie-guo,https://frank2019.me/,https://frank2019.me/rss.xml,2020-08-01,1596258420.0
