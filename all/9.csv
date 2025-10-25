@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+图片为啥用 Base64 格式进行传输,杜老师说,https://dusays.com/800/,https://dusays.com/,https://dusays.com/atom.xml,2025-04-06,1743955200.0
 流水账 Week 19,菲兹克斯喵,https://physnya.top/posts/2tft6k64/,https://physnya.top/,https://physnya.top/atom.xml,2025-04-06,1743951342.0
 关于Termux中的shell命令的历史记录问题,Nicksxs's Blog,https://nicksxs.me/2025/04/06/%E5%85%B3%E4%BA%8ETermux%E4%B8%AD%E7%9A%84shell%E5%91%BD%E4%BB%A4%E7%9A%84%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-04-06,1743948394.0
 孤独的杰永远长不大,瓦解的生活记事,https://hin.cool/posts/wajiedeshenghuo.html,https://hin.cool/,https://hin.cool/atom.xml,2025-04-06,1743944400.0
@@ -14,9 +15,9 @@ podman 无故退出,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_
 我们高估了智力的重要性,Randy's Blog,https://lutaonan.com/blog/oi,https://lutaonan.com,https://lutaonan.com/rss.xml,2025-04-01,1743465600.0
 砂锅糊饽🥘,把酒诗代码,https://102no.com/2025/04/01/sha-guo-hu-bo/,https://102no.com/,https://102no.com/atom.xml,2025-04-01,1743465600.0
 DPanel 让 Docker 管理变得轻松又高效,杜老师说,https://dusays.com/799/,https://dusays.com/,https://dusays.com/atom.xml,2025-03-31,1743436800.0
-2025-03小记,汐塔魔法屋,https://blog.storical.space/posts/write-202503,https://blog.storical.space,https://blog.storical.space/atom.xml,2025-03-30,1743355108.0
 2025-03小记,绘星里,https://blog.storical.fun/posts/write-202503/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2025-03-30,1743355108.0
 2025-03小记,绘星里,/posts/write-202503/,/,https://blog.storical.space/atom.xml,2025-03-30,1743355108.0
+2025-03小记,汐塔魔法屋,https://blog.storical.space/posts/write-202503,https://blog.storical.space,https://blog.storical.space/atom.xml,2025-03-30,1743355108.0
 社区运营的方法论,Andy Stewart,//manateelazycat.github.io/2025/03/31/community-work/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-03-30,1743350400.0
 逐步迁移-用rclone将腾讯云cos迁移到cloudflare的r2,Nicksxs's Blog,https://nicksxs.me/2025/03/30/%E9%80%90%E6%AD%A5%E8%BF%81%E7%A7%BB-%E7%94%A8rclone%E5%B0%86%E8%85%BE%E8%AE%AF%E4%BA%91cos%E8%BF%81%E7%A7%BB%E5%88%B0cloudflare%E7%9A%84r2/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-03-30,1743341587.0
 从《悉达多》看人生：追寻意义不如学会爱万物,Andy Stewart,//manateelazycat.github.io/2025/03/30/reading-xidaduo/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-03-29,1743264000.0
@@ -48,4 +49,3 @@ java小知识之String.format中的%秘密,Nicksxs's Blog,https://nicksxs.me/202
 A RC script for freebsd frpc,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_16-freebsd_frpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-16,1742083200.0
 刀削面🍜,把酒诗代码,https://102no.com/2025/03/16/dao-xiao-miam/,https://102no.com/,https://102no.com/atom.xml,2025-03-16,1742083200.0
 讲座 - Git 技能学习,菲兹克斯喵,https://physnya.top/posts/kqza8uq6/,https://physnya.top/,https://physnya.top/atom.xml,2025-03-15,1742016597.0
-Lesson 38 多元映射的连续性,菲兹克斯喵,https://physnya.top/integral/lesson-38/,https://physnya.top/,https://physnya.top/atom.xml,2025-03-15,1742010187.0
