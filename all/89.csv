@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+DevTools failed to load SourceMap 问题的解决,杜老师说,https://dusays.com/248/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-03,1596470400.0
+不必二选一！AdGuard 去除广告与 Clash 网络代理同时进行,ChrAlpha,https://blog.ichr.me/post/adguard-with-clash/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-08-02,1596411381.0
 【WEB系列】阿里云短信服务实战,框架師,https://www.mobaijun.com/posts/22837162.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-08-02,1596382840.0
 What Is Wrong about Recommendation System,Bin Wang - My Personal Blog,https://www.binwang.me/2020-08-02-What-Is-Wrong-abount-Recommendation-System.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-08-02,1596340800.0
 人生重要的是经历而非结果,Frank笔记,https://frank2019.me/archives/ren-sheng-chong-yao-de-shi-jing-li-er-fei-jie-guo,https://frank2019.me/,https://frank2019.me/rss.xml,2020-08-01,1596258420.0
@@ -15,14 +17,14 @@ Hexo 指定不进行渲染的文件或目录,杜老师说,https://dusays.com/246
 Hexo 生成页面出现问题 WARN No layout,杜老师说,https://dusays.com/245/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-25,1595692800.0
 Linux窗口管理器下的截图,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_25-linux_screenshot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-25,1595635200.0
 更换博客系统BOLO,Frank笔记,https://frank2019.me/archives/geng-huan-bo-ke-xi-tong-bolo,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-23,1595480460.0
-程序员的MySQL手册(二): 监控与benchmark,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_23-mysql_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
+Go设计模式：facade模式和观察者模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_23-go_design_pattern_facade.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
 为 Nextcloud 添加 Markdown 编辑器,杜老师说,https://dusays.com/244/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-22,1595433600.0
 牌普分析,Frank笔记,https://frank2019.me/archives/pai-pu-fen-xi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-22,1595393880.0
 Go设计模式: 责任链模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_21-go_design_pattern_chain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-21,1595289600.0
 解决 Nextcloud 出现 trusted_domains 问题,杜老师说,https://dusays.com/243/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-19,1595174400.0
 「发言成本」与为什么我（个人博主）不想建立交流社群,ChrAlpha,https://blog.ichr.me/post/expressing-costs/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-07-19,1595172616.0
-自己搭建的免费虚拟主机（MOFH）,岚天小窝,http://blog.ltya.top/posts/freewebhosting.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
 自己搭建的免费虚拟主机（MOFH）,岚天小窝,https://blog.ltya.top/posts/freewebhosting.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
+自己搭建的免费虚拟主机（MOFH）,岚天小窝,http://blog.ltya.top/posts/freewebhosting.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
 Node.js 的安装,杜老师说,https://dusays.com/242/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-16,1594915200.0
 我们真的需要这么复杂的技术栈吗？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_15-do_we_need_these.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-15,1594771200.0
 Go设计模式：装饰器模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_14-go_design_pattern_decorator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-14,1594684800.0
@@ -47,5 +49,3 @@ Ubuntu 如何挂载 OSS,杜老师说,https://dusays.com/236/,https://dusays.com/
 拔牙记: 深圳人民医院使用医保拔智齿经验,罗磊的独立博客,https://luolei.org/shenzhen-wisdom-teeth-extraction,https://luolei.org,https://luolei.org/feed/,2020-06-24,1592956800.0
 Linux使用redshift自动调整屏幕色温,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_23-redshift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-23,1592870400.0
 IP/PV/UV 是什么,杜老师说,https://dusays.com/234/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-22,1592841600.0
-中国制造 Tesla Model 3 长续航体验,Randy's Blog,https://lutaonan.com/blog/tesla-model-3-review/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-06-22,1592784000.0
-el-bot & mirai-ts 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-el-bot/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-06-21,1592763413.0
