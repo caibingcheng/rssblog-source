@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Linux生成自定义名称的ssh证书,cywhat's blog,https://cywhat.cn/Linux%E7%94%9F%E6%88%90%E8%87%AA%E5%AE%9A%E4%B9%89%E5%90%8D%E7%A7%B0%E7%9A%84ssh%E8%AF%81%E4%B9%A6/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-11-22,1700634496.0
 苏北的海：从羊窝头到野鹿荡,Macin,https://macin.org/2023/11/20/lian-yun-gang/,https://macin.org/,https://www.macin.org/atom.xml,2023-11-20,1700523282.0
 马桶往外喷水怎么办？,湘铭`Blog,https://blog.xiangming.site/399.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-20,1700457639.0
 推荐一款开源的 Markdown 编辑工具,杜老师说,https://dusays.com/648/,https://dusays.com/,https://dusays.com/atom.xml,2023-11-19,1700409600.0
@@ -7,8 +8,8 @@ Tomcat 系列篇九-介绍下 Tomcat 里的 ContainerBase,Nicksxs's Blog,https:/
 家门口的公园,湘铭`Blog,https://blog.xiangming.site/396.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-19,1700385870.0
 11月小记,绘星里,https://blog.storical.fun/posts/42580/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2023-11-17,1700257804.0
 11月小记,汐塔魔法屋,https://blog.sinzmise.top/posts/42580/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-11-17,1700257804.0
-11月小记,汐塔魔法屋,https://blog.storical.space/posts/42580,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-11-17,1700257804.0
 11月小记,绘星里,/posts/42580/,/,https://blog.storical.space/atom.xml,2023-11-17,1700257804.0
+11月小记,汐塔魔法屋,https://blog.storical.space/posts/42580,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-11-17,1700257804.0
 FreeBSD 使用 vm-bhyve 安装Debian虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_17-freebsd_vm_bhyve.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-17,1700179200.0
 一款强大番茄工作法工具 Pomatez,杜老师说,https://dusays.com/647/,https://dusays.com/,https://dusays.com/atom.xml,2023-11-16,1700150400.0
 看耳朵,湘铭`Blog,https://blog.xiangming.site/393.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-16,1700127432.0
@@ -48,4 +49,3 @@ KVM 共享 Intel 集成显卡,Jiajun的技术笔记,https://jiajunhuang.com/arti
 PLUTO,Another Dayu,https://anotherdayu.com/2023/5431/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-04,1699108108.0
 How to Cleanup Ceph Filesystem for Deleted Kubernetes Persistent Volume,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-04-How-to-Cleanup-Ceph-Filesystem-for-Deleted-Kubernetes-Persistent-Volume.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-04,1699070400.0
 华支睾吸虫病、社会网络结构和饮食决策,Another Dayu,https://anotherdayu.com/2023/5423/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-02,1698917529.0
-永久服务能用多久呢：MXroute 和 SM.MS,Another Dayu,https://anotherdayu.com/2023/5421/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-02,1698897436.0
