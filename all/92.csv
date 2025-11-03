@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Redis 的安装,杜老师说,https://dusays.com/218/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-05,1588694400.0
 【Java基础】Date类练习,框架師,https://www.mobaijun.com/posts/8099667.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-05,1588643938.0
 Golang sync.Pool源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_05-go_sync_pool.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-05,1588636800.0
 【Hexo】hexo博客添加导航功能,框架師,https://www.mobaijun.com/posts/2328089344.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-04,1588576104.0
@@ -20,10 +21,10 @@ Golang log 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 使用Go语言实现一个异步任务框架,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_24-gotasks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-24,1587686400.0
 简单聊 Tunnel,杜老师说,https://dusays.com/214/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-23,1587657600.0
 Golang flag源码阅读及自己实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_23-go_flag.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-23,1587600000.0
-Golang context源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_22-golang_context.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
+Golang ASM简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_22-go_asm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
 【Git系列】详细记录一次码云和Git异常解决方案,框架師,https://www.mobaijun.com/posts/3160757487.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-21,1587434290.0
-CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡,罗磊的独立博客,https://luolei.org/cmlink-global-borderless-internet-roaming-card,https://luolei.org,https://luolei.org/feed/,2020-04-21,1587427200.0
 善用闭包(closure)让Go代码更优雅,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_21-use_closure.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
+CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡,罗磊的独立博客,https://luolei.org/cmlink-global-borderless-internet-roaming-card,https://luolei.org,https://luolei.org/feed/,2020-04-21,1587427200.0
 Linux 特殊权限总结篇,杜老师说,https://dusays.com/213/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-20,1587398400.0
 Golang的可选参数实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
 危机四伏的2020，既是困难，也是机遇！,Frank笔记,https://frank2019.me/archives/wei-ji-si-fu-de-2020-ji-shi-kun-nan-ye-shi-ji-yu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-18,1587241740.0
@@ -48,4 +49,3 @@ DeepL | 从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工�
 【转载】世界不应该是这样的,Frank笔记,https://frank2019.me/archives/zhuan-zai-shi-jie-bu-ying-gai-shi-zhe-yang-de,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-08,1586377380.0
 关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
 CDN 原理及使用,杜老师说,https://dusays.com/209/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-08,1586361600.0
-解决k8s cron无法读取环境变量的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
