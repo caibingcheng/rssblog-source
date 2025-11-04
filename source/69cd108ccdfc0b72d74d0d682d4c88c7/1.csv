@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+OpenSpec 使用心得,4Ark,https://4ark.me/posts/2025-11-04-openspec/,https://4ark.me/,https://4ark.me/rss.xml,2025-11-04,1762214400.0
 uni-app 多端组件属性与样式透传行为一致性实践,4Ark,https://4ark.me/posts/2025-10-28-uni-app-component-props-style-pass-through/,https://4ark.me/,https://4ark.me/rss.xml,2025-10-28,1761609600.0
 uni-app 与原生小程序混合开发方案,4Ark,https://4ark.me/posts/2025-10-15-uni-app-hybrid-native-miniprogram/,https://4ark.me/,https://4ark.me/rss.xml,2025-10-15,1760486400.0
 我如何自己实现 lint-staged,4Ark,https://4ark.me/posts/2025-10-13-lint-staged/,https://4ark.me/,https://4ark.me/rss.xml,2025-10-13,1760313600.0
@@ -48,4 +49,3 @@ Mac 上配置 MNMP 环境,4Ark,https://4ark.me/post/41f45ee.html,https://4ark.me
 回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
 记一次因 HSTS 导致跨域问题的经历,4Ark × Blog,https://4ark.me/posts/hsts-problem-solving-experience.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
 九月总结,4Ark × Blog,https://4ark.me/post/d33db2d3.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-03,1601687752.0
-升级 IOS 14 的一些坑,4Ark,https://4ark.me/post/7b1778ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-09-19,1600529843.0
