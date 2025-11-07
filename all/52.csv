@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+从 KDE 回到 Windows 10,近视眼逛博客,https://blog.9hz.club/2022/10/Back-to-Windows-10-from-KDE.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2022-10-08,1665226860.0
+OAuth 2 详解（一）：简介及 Authorization Code 模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_08-oauth2_explained.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-08,1665187200.0
 git撤销操作,Barney's Blog,https://hugo.bnblogs.cc/git%E6%92%A4%E9%94%80%E6%93%8D%E4%BD%9C/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-07,1665158572.0
 装修笔记：从0到1打造家庭弱电方案（上篇）,罗磊的独立博客,http://luolei.org/home-network-1/,https://luolei.org/,https://luolei.org/feed/,2022-10-07,1665155878.0
 curl使用,Barney's Blog,https://hugo.bnblogs.cc/curl%E4%BD%BF%E7%94%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-10-07,1665141099.0
@@ -35,11 +37,11 @@ Disruptor 系列三,Nicksxs's Blog,https://nicksxs.me/2022/09/25/Disruptor-%E7%B
 秘 密,瓦解的生活记事,https://hin.cool/posts/mimi.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-23,1663971600.0
 白嫖一年顶级域名,杜老师说,https://dusays.com/507/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-22,1663862400.0
 【CDN】GCORE CDN全球节点及线路汇总,Luminous' Home,https://luotianyi.vc/6465.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-09-22,1663831705.0
-NAS-OMV容器配置,Bing's Blog,https://imcbc.cn/202209/nas-omv-reprocesss/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
 NAS-OMV容器配置,Bing's Blog,https://bbing.com.cn/202209/nas-omv-reprocesss/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
+NAS-OMV容器配置,Bing's Blog,https://imcbc.cn/202209/nas-omv-reprocesss/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
 重新思考 React 项目架构,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220920-re-thinking-architecture-of-react-project,https://teobler.com,https://teobler.com/rss.xml,2022-09-20,1663672864.0
-做了 6 年程序员，我学到的 10 条经验,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-after-6-years-as-software-engineer/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-09-20,1663632000.0
 做了 6 年程序员，我学到的 10 条经验,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-after-6-years-as-software-engineer,https://lutaonan.com,https://lutaonan.com/rss.xml,2022-09-20,1663632000.0
+做了 6 年程序员，我学到的 10 条经验,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-after-6-years-as-software-engineer/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-09-20,1663632000.0
 浅谈区块链,Frank笔记,https://frank2019.me/articles/2019/10/27/1572182192288.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-19,1663612637.0
 关于友情链接的一些事,杜老师说,https://dusays.com/506/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-19,1663603200.0
 刘家庙石刻：荣昌最早的摩崖造像在此,Macin,https://macin.org/2022/09/19/liu-jia-miao-shi-ke/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-19,1663600874.0
@@ -47,5 +49,3 @@ MySQL命令记录,Barney's Blog,https://hugo.bnblogs.cc/mysql%E5%91%BD%E4%BB%A4%
 Pycharm的gitignore配置,Barney's Blog,https://hugo.bnblogs.cc/pycharm%E6%8E%A8%E8%8D%90gitignore%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-19,1663576285.0
 拿什么来爱你，公需课,瓦解的生活记事,https://hin.cool/posts/gongxuke.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-19,1663576200.0
 用Python的Polyglot库做文字转写,辛未羊的网络日志,https://panqiincs.me/2022/09/19/polyglot-lang-trans/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-09-19,1663547100.0
-每个人都能用点正则表达式,Randy's Blog,https://lutaonan.com/blog/everyone-can-use-regexp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2022-09-19,1663545600.0
-从毛泽东选集看创业过程,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/09/19/reading-mao.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-19,1663545600.0
