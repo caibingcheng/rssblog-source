@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+搭建自己的 Minecraft 服务器,云游君的小站,https://www.yunyoujun.cn/posts/set-up-my-minecraft-server,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-03-01,1551454060.0
 读《自控力》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_03_01-self_control.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-03-01,1551398400.0
 Containerd简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_02_27-containerd_tutorial.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-02-27,1551225600.0
 软件设计套路之推拉模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_02_26-push_pull_system.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-02-26,1551139200.0
@@ -30,8 +31,8 @@ Julia 学习笔记（一）：数组,This Cute World,https://thiscute.world/post
 使用autossh实现内网穿透,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_12-autossh.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-12,1547251200.0
 本博客的赞助渠道,Randy's Blog,https://lutaonan.com/blog/donation/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-01-10,1547078400.0
 在回声中重历,This Cute World,https://thiscute.world/posts/relive-in-the-echo/,https://thiscute.world/,https://thiscute.world/index.xml,2019-01-08,1546941345.0
-2018 年终总结,Randy's Blog,https://lutaonan.com/blog/2018-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-01-07,1546819200.0
 2018 年终总结,Randy's Blog,https://lutaonan.com/blog/2018-summary,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-01-07,1546819200.0
+2018 年终总结,Randy's Blog,https://lutaonan.com/blog/2018-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-01-07,1546819200.0
 Linux线程内存模型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_07-linux_thread_mem_layout.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-07,1546819200.0
 Unity 开源双端框架 ET 中初尝热更新技术,萤火之森,http://frankorz.com/2019/01/06/hotfix-introduction-of-unity-et-framework/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-01-06,1546807363.0
 关闭手机通知，修复碎片化的生活,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_03-drop_notifications.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-03,1546473600.0
@@ -48,4 +49,3 @@ Linux下系统调用的过程,Jiajun的技术笔记,https://jiajunhuang.com/arti
 YouCompleteMe ycmd server SHUTDOWN 和 pyenv的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_24-ycm_pyenv.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-24,1545609600.0
 299元的网易严选 VS 900元的 JINS | 第一次在线配近视眼镜 | ZUOLUOTV,罗磊的独立博客,https://luolei.org/you-163-and-jins-glasees-review,https://luolei.org,https://luolei.org/feed/,2018-12-24,1545609600.0
 我在阿里巴巴花45元买了一个山寨 Peak Design 快挂 | ZUOLUOTV,罗磊的独立博客,https://luolei.org/peak-design-capture-clip-clone,https://luolei.org,https://luolei.org/feed/,2018-12-23,1545523200.0
-Docker组件介绍（一）：runc和containerd,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_22-docker_components.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-22,1545436800.0
