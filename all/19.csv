@@ -1,20 +1,21 @@
 title,author,link,home,rss,date,timestamp
+如何配置 Nginx 防止 CC 攻击,杜老师说,https://dusays.com/745/,https://dusays.com/,https://dusays.com/atom.xml,2024-09-05,1725552000.0
 Roundcube Webmail 安装教程,Frank笔记,https://frank2019.me/archives/roundcubeqian-duan-an-zhuang-ji-lu,https://frank2019.me,https://frank2019.me/rss.xml,2024-09-05,1725512583.0
 一日戏水，也许是最新重庆周边耍水资讯,Macin,https://macin.org/2024/09/02/bei-pei-shua-shui/,https://macin.org/,https://www.macin.org/atom.xml,2024-09-02,1725315493.0
 Nginx 集成 ModSecurity 实现 Web 应用防火墙功能,杜老师说,https://dusays.com/744/,https://dusays.com/,https://dusays.com/atom.xml,2024-09-02,1725292800.0
 很多事情都是可以穷举出来的,Andy Stewart,//manateelazycat.github.io/2024/09/02/brute-force/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-02,1725235200.0
 一个Java类型的小问题记录,Nicksxs's Blog,https://nicksxs.me/2024/09/01/%E4%B8%80%E4%B8%AAJava%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-09-01,1725152409.0
 2024-08小记,汐塔魔法屋,https://blog.storical.space/posts/15688,https://blog.storical.space,https://blog.storical.space/atom.xml,2024-08-31,1725104028.0
-2024-08小记,汐塔魔法屋,https://blog.sinzmise.top/posts/15688/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-08-31,1725104028.0
-2024-08小记,绘星里,/posts/15688/,/,https://blog.storical.space/atom.xml,2024-08-31,1725104028.0
 2024-08小记,绘星里,https://blog.storical.fun/posts/15688/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2024-08-31,1725104028.0
+2024-08小记,绘星里,/posts/15688/,/,https://blog.storical.space/atom.xml,2024-08-31,1725104028.0
+2024-08小记,汐塔魔法屋,https://blog.sinzmise.top/posts/15688/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-08-31,1725104028.0
 两则魔怔新闻,Frank笔记,https://frank2019.me/archives/liang-ze-xin-wen,https://frank2019.me,https://frank2019.me/rss.xml,2024-08-30,1725038260.0
 使用 Docker 部署 Opengist 开源代码片段分享工具,杜老师说,https://dusays.com/743/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-30,1725033600.0
 HTTP 压力测试中的 Coordinated Omission,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_08_30-http_load_testing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-08-30,1724976000.0
 使用 Docker 自托管 VS Code 网页版,杜老师说,https://dusays.com/742/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-27,1724774400.0
 KubeCon China 2024 之旅,This Cute World,https://thiscute.world/posts/kubecon-china-2024/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2024-08-27,1724724622.0
-Kong 3.7重磅上线！Kong AI Gateway 正式 GA！🦍,把酒诗代码,https://102no.com/2024/08/27/kong-3.7/,https://102no.com/,https://102no.com/atom.xml,2024-08-27,1724716800.0
 产品创意是怎么来的？,Andy Stewart,//manateelazycat.github.io/2024/08/27/how-creativity-arises/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-08-27,1724716800.0
+Kong 3.7重磅上线！Kong AI Gateway 正式 GA！🦍,把酒诗代码,https://102no.com/2024/08/27/kong-3.7/,https://102no.com/,https://102no.com/atom.xml,2024-08-27,1724716800.0
 水银河：重庆人想要的清凉都在这里,Macin,https://macin.org/2024/08/26/shui-yin-he/,https://macin.org/,https://www.macin.org/atom.xml,2024-08-26,1724716201.0
 聊下apollo配置中心的接入,Nicksxs's Blog,https://nicksxs.me/2024/08/25/%E8%81%8A%E4%B8%8Bapollo%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83%E7%9A%84%E6%8E%A5%E5%85%A5/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-08-25,1724595468.0
 【VMware】虚拟机绕过软件授权——锁定时间及修改CPU型号,Luminous' Home,https://luotianyi.vc/8375.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-08-25,1724552303.0
@@ -36,8 +37,8 @@ AI 服务器， 开源开发者专属福利！,Andy Stewart,//manateelazycat.git
 轻量级参数解析库-tiny_cmdline,Bing's Blog,https://imcbc.cn/202408/about_tiny_summary/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-08-13,1723549535.0
 服务器操作系统安全加固项,杜老师说,https://dusays.com/737/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-12,1723478400.0
 一个经典的fastjson反序列化问题记录,Nicksxs's Blog,https://nicksxs.me/2024/08/11/%E4%B8%80%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84fastjson%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-08-11,1723374595.0
-「代码艺术家」不会被 AI 取代,Randy's Blog,https://lutaonan.com/blog/code-artists/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-08-10,1723248000.0
 「代码艺术家」不会被 AI 取代,Randy's Blog,https://lutaonan.com/blog/code-artists,https://lutaonan.com,https://lutaonan.com/rss.xml,2024-08-10,1723248000.0
+「代码艺术家」不会被 AI 取代,Randy's Blog,https://lutaonan.com/blog/code-artists/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-08-10,1723248000.0
 Nginx 可视化编辑工具 nginxWebUI 安装和使用,杜老师说,https://dusays.com/736/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-09,1723219200.0
 My MacOS Essentials,Bin Wang - My Personal Blog,https://www.binwang.me/2024-08-07-My-MacOS-Essentials.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-08-07,1723003200.0
 Nginx 可视化编辑工具 Nginx UI 安装和使用,杜老师说,https://dusays.com/735/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-06,1722960000.0
@@ -48,4 +49,3 @@ PIVOT Vol.7,Another Dayu,https://anotherdayu.com/2024/5845/,https://anotherdayu.
 使用milvus和towhee实现简陋版的以图搜图,Nicksxs's Blog,https://nicksxs.me/2024/08/04/%E4%BD%BF%E7%94%A8milvus%E5%92%8Ctowhee%E5%AE%9E%E7%8E%B0%E7%AE%80%E9%99%8B%E7%89%88%E7%9A%84%E4%BB%A5%E5%9B%BE%E6%90%9C%E5%9B%BE/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-08-04,1722764954.0
 通过 Gitea 部署 Hexo 教程,杜老师说,https://dusays.com/734/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-03,1722700800.0
 八月,醉里博客,https://202271.xyz/post/24179/,https://202271.xyz/,https://202271.xyz/atom.xml,2024-08-02,1722629848.0
-真·彩虹猫加载动画,绘星里,https://blog.storical.fun/posts/46640/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2024-08-02,1722618748.0
