@@ -18,10 +18,10 @@ Ubuntu上使用docker安装mysql,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4
 写给开发人员的实用密码学（六）—— 对称密钥加密算法,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-6-symmetric-key-ciphers/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-06,1646563440.0
 DSM 7.1 升级包分享,杜老师说,https://dusays.com/440/,https://dusays.com/,https://dusays.com/atom.xml,2022-03-05,1646496000.0
 「转」且看有思想的年轻人,This Cute World,https://thiscute.world/posts/the-thoughtful-youth/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-04,1646405880.0
-MyBatis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mybatis-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646320233.0
 MyBatis问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/mybatis-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-03,1646320233.0
-PostgreSQL - SQL调优方案,Yulin Lewis' Blog,https://lewky233.top/posts/postgresql-sql-tuning/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-03,1646266166.0
+MyBatis问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/mybatis-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646320233.0
 PostgreSQL - SQL调优方案,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-sql-tuning/,https://lewky.cn/,https://lewky.cn/index.xml,2022-03-03,1646266166.0
+PostgreSQL - SQL调优方案,Yulin Lewis' Blog,https://lewky233.top/posts/postgresql-sql-tuning/,https://lewky233.top/,https://lewky.cn/index.xml,2022-03-03,1646266166.0
 群晖 7.0 安装 Chat 套件及客户端,杜老师说,https://dusays.com/439/,https://dusays.com/,https://dusays.com/atom.xml,2022-03-02,1646236800.0
 写给开发人员的实用密码学（五）—— 密钥交换 DHKE 与完美前向保密 PFS,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-5-key-exchange/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126105.0
 写给开发人员的实用密码学（四）—— 安全随机数生成器 CSPRNG,This Cute World,https://thiscute.world/posts/practical-cryptography-basics-4-secure-random-generators/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2022-03-01,1646126104.0
@@ -37,8 +37,8 @@ Win32 API编程——前言,qinxs小站,https://7bxing.com/posts/67bdf631/,https
 「转」仙马赛记——我又 PB 了,This Cute World,https://thiscute.world/posts/likenttt-2021-04-11-xianlin-half-marathon-1_33_12/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-26,1645868640.0
 「转」MIRT出征广马——首次摸到330的边儿,This Cute World,https://thiscute.world/posts/likenttt-2020-12-13-guangzhou-marathon-3_30_15/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-26,1645865940.0
 祝愿奶奶健康长寿,杜老师说,https://dusays.com/437/,https://dusays.com/,https://dusays.com/atom.xml,2022-02-24,1645718400.0
-Flask路由基础,DearXuan的主页,https://dearxuan.top/2022/02/24/Flask%E8%B7%AF%E7%94%B1%E5%9F%BA%E7%A1%80/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-24,1645697400.0
 Flask路由基础,DearXuan的主页,https://blog.dearxuan.com/2022/02/24/Flask%E8%B7%AF%E7%94%B1%E5%9F%BA%E7%A1%80/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-24,1645697400.0
+Flask路由基础,DearXuan的主页,https://dearxuan.top/2022/02/24/Flask%E8%B7%AF%E7%94%B1%E5%9F%BA%E7%A1%80/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-24,1645697400.0
 Hugo添加文章加密功能,Barney's Blog,https://hugo.bnblogs.cc/hugo%E6%B7%BB%E5%8A%A0%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86%E5%8A%9F%E8%83%BD/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645621037.0
 Hugo导航栏添加二级菜单,Barney's Blog,https://hugo.bnblogs.cc/hugo%E5%AF%BC%E8%88%AA%E6%A0%8F%E6%B7%BB%E5%8A%A0%E4%BA%8C%E7%BA%A7%E8%8F%9C%E5%8D%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645618994.0
 算法基础-非线性结构,DearXuan的主页,https://blog.dearxuan.com/2022/02/23/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E9%9D%9E%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-23,1645613640.0
@@ -46,6 +46,6 @@ Hugo导航栏添加二级菜单,Barney's Blog,https://hugo.bnblogs.cc/hugo%E5%AF
 LoveIt主题支持MathJax,Barney's Blog,https://hugo.bnblogs.cc/loveit%E4%B8%BB%E9%A2%98%E6%94%AF%E6%8C%81mathjax/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-02-23,1645607283.0
 glibc-fopen源码阅读-补充篇-open系统调用,BBing's Blog,https://bbing.com.cn/202202/fopen-sys-open/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-02-22,1645519808.0
 得到品控手册 7.0 版,杜老师说,https://dusays.com/436/,https://dusays.com/,https://dusays.com/atom.xml,2022-02-21,1645459200.0
-python调用英伟达GPU加速方法,DearXuan的主页,https://dearxuan.top/2022/02/20/python%E8%B0%83%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-20,1645336500.0
 python调用英伟达GPU加速方法,DearXuan的主页,https://blog.dearxuan.com/2022/02/20/python%E8%B0%83%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-20,1645336500.0
+python调用英伟达GPU加速方法,DearXuan的主页,https://dearxuan.top/2022/02/20/python%E8%B0%83%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU%E5%8A%A0%E9%80%9F%E6%96%B9%E6%B3%95/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-20,1645336500.0
 《Halo Infinite》光环无限第1幕「无人声版」,杜老师说,https://dusays.com/435/,https://dusays.com/,https://dusays.com/atom.xml,2022-02-18,1645200000.0
