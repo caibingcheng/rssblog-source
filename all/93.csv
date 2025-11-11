@@ -1,9 +1,10 @@
 title,author,link,home,rss,date,timestamp
+浅谈 DNS 解析与 CDN 原理,ChrAlpha,https://blog.ichr.me/post/how-dns-and-cdn-work/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-11,1586614065.0
 Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
 Golang validator使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
 垃圾清理软件多，是我们缺存储空间吗？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/25.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-09,1586425500.0
-使用Redis的Stream模块实现群聊功能,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_09-redis_stream_as_im.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
 DeepL | 从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工具,罗磊的独立博客,https://luolei.org/deepl-ai-translator,https://luolei.org,https://luolei.org/feed/,2020-04-09,1586390400.0
+使用Redis的Stream模块实现群聊功能,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_09-redis_stream_as_im.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
 【转载】世界不应该是这样的,Frank笔记,https://frank2019.me/archives/zhuan-zai-shi-jie-bu-ying-gai-shi-zhe-yang-de,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-08,1586377380.0
 关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
 CDN 原理及使用,杜老师说,https://dusays.com/209/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-08,1586361600.0
@@ -48,4 +49,3 @@ Windows2008 系统 IIS 服务安装,杜老师说,https://dusays.com/200/,https:/
 一个Gunicorn worker数量引发的血案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_11-gunicorn_worker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-11,1583884800.0
 常用页面加载速度优化方法,杜老师说,https://dusays.com/199/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-09,1583769600.0
 在 GitHub 上使用 GPG 认证你的 Git Commit,ChrAlpha,https://blog.ichr.me/post/use-gpg-verification-in-github/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-08,1583702310.0
-新冠反思-任志强,Frank笔记,https://frank2019.me/archives/xin-guan-fan-si-ren-zhi-qiang,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-08,1583698200.0
