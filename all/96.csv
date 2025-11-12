@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+2019年就要结束啦！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_31-hello_2020.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-31,1577750400.0
 爱奇艺周会员 N+17 期,杜老师说,https://dusays.com/175/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-30,1577721600.0
 【转载】十分钟学会并终生受用的生活技能,框架師,https://www.mobaijun.com/posts/1300369.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-30,1577673605.0
 【前端系列】gulp压缩报错解决,框架師,https://www.mobaijun.com/posts/843114070.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-30,1577672150.0
@@ -30,7 +31,7 @@ SQLAlchemy使用主从与数据库autocommit,Jiajun的技术笔记,https://jiaju
 【工具系列】IDEA启动项目很慢解决方案,框架師,https://www.mobaijun.com/posts/3587260547.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-19,1576718814.0
 Blackbox禁用IPv6,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_19-blackbox_disable_ipv6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-19,1576713600.0
 爱奇艺周会员 N+5 期,杜老师说,https://dusays.com/163/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-18,1576684800.0
-Go 1.13的errors挺香,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_18-golang_133_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
+预防缓存击穿,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_18-cache_miss.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
 爱奇艺周会员 N+4 期,杜老师说,https://dusays.com/162/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-17,1576598400.0
 爱奇艺周会员 N+3 期,杜老师说,https://dusays.com/161/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-16,1576512000.0
 【工具系列】Typora Markdown 语法,框架師,https://www.mobaijun.com/posts/1660316417.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-16,1576482063.0
@@ -48,4 +49,3 @@ flutter开发体验汇报,Jiajun的技术笔记,https://jiajunhuang.com/articles
 macOS 与 Objective-C 的故事,杜老师说,https://dusays.com/156/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-11,1576080000.0
 Flutter应用启动后检查更新,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_11-flutter_do_sth_after_boot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-11,1576022400.0
 FTP 服务器搭建,杜老师说,https://dusays.com/155/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-10,1575993600.0
-Grafana Gravatar头像显示bug修复,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_10-grafana_gravatar_http_hijack.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-10,1575936000.0
