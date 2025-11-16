@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+电脑硬件升级注意事项,杜老师说,https://dusays.com/102/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-18,1571414400.0
 旧电脑也不能闲着：家用备份方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_18-build_your_own_nas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-18,1571356800.0
 如何安装 deb 软件包,杜老师说,https://dusays.com/101/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-17,1571328000.0
 VMware 虚拟机使用技巧,杜老师说,https://dusays.com/100/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-16,1571241600.0
@@ -28,8 +29,8 @@ Linux 群组管理员,杜老师说,https://dusays.com/84/,https://dusays.com/,ht
 为什么gRPC难以推广,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_29-why_grpc_is_not_popular.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-29,1569715200.0
 TCP 的三次握手,杜老师说,https://dusays.com/82/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-28,1569686400.0
 vi 编辑器操作指南,杜老师说,https://dusays.com/81/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-27,1569600000.0
-我在 UC 做的前端工程化探索,Randy's Blog,https://lutaonan.com/blog/what-i-have-done-at-uc,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-27,1569542400.0
 我在 UC 做的前端工程化探索,Randy's Blog,https://lutaonan.com/blog/what-i-have-done-at-UC/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-27,1569542400.0
+我在 UC 做的前端工程化探索,Randy's Blog,https://lutaonan.com/blog/what-i-have-done-at-uc,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-27,1569542400.0
 MySQL 在不同内存下的资源分配,杜老师说,https://dusays.com/80/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-26,1569513600.0
 关于ORM的思考,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_26-orm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-26,1569456000.0
 MySQL 几种存储引擎的介绍,杜老师说,https://dusays.com/79/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-25,1569427200.0
@@ -39,13 +40,12 @@ PHP 动态模式和静态模式区别,杜老师说,https://dusays.com/77/,https:
 搭建samba服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-samba.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 Linux 运维人员最常用 166 个命令汇总,杜老师说,https://dusays.com/76/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-22,1569168000.0
 IaaS/PaaS/SaaS 的区别,杜老师说,https://dusays.com/75/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-21,1569081600.0
-回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
 回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
+回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
 简单架构中的数据走向,杜老师说,https://dusays.com/74/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-20,1568995200.0
 地址解析协议,杜老师说,https://dusays.com/73/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-19,1568908800.0
 TCP 的快速恢复,杜老师说,https://dusays.com/72/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-18,1568822400.0
-ASHMORE 超声波清洗机 | 用超声波清洁2000块的键盘,罗磊的独立博客,https://luolei.org/ashmore-ultrasonic-cleaner,https://luolei.org,https://luolei.org/feed/,2019-09-18,1568764800.0
 ssh时自动运行tmux,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
+ASHMORE 超声波清洗机 | 用超声波清洁2000块的键盘,罗磊的独立博客,https://luolei.org/ashmore-ultrasonic-cleaner,https://luolei.org,https://luolei.org/feed/,2019-09-18,1568764800.0
 TCP 的快速重传,杜老师说,https://dusays.com/71/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-17,1568736000.0
 TCP 的拥塞避免,杜老师说,https://dusays.com/70/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-16,1568649600.0
-爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0

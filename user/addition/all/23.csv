@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Tomcat 系列篇十一-介绍下 Tomcat 里的后台处理和热加载,Nicksxs's Blog,https://nicksxs.me/2023/12/10/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E5%8D%81%E4%B8%80-%E4%BB%8B%E7%BB%8D%E4%B8%8B-Tomcat-%E9%87%8C%E7%9A%84%E5%90%8E%E5%8F%B0%E5%A4%84%E7%90%86%E5%92%8C%E7%83%AD%E5%8A%A0%E8%BD%BD/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-12-10,1702211308.0
 贰拾玖,瓦解的生活记事,https://hin.cool/posts/ershijiu.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-12-07,1701972000.0
 【随笔】自动化油价推送：GitHub Actions 实战,框架師,https://www.mobaijun.com/posts/2512902170.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-12-05,1701775845.0
 怎么打造流畅的 Emacs？,Andy Stewart,//manateelazycat.github.io/2023/12/05/how-to-create-a-smooth-emacs/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-05,1701734400.0
@@ -30,9 +31,9 @@ Navidrome：自建音乐库的又一选择,湘铭`Blog,https://blog.xiangming.si
 Tomcat 系列篇九-介绍下 Tomcat 里的 ContainerBase,Nicksxs's Blog,https://nicksxs.me/2023/11/19/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E4%B9%9D-%E4%BB%8B%E7%BB%8D%E4%B8%8B-Tomcat-%E9%87%8C%E7%9A%84-ContainerBase/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-11-19,1700399756.0
 【杂谈】记一次Agilent 7900 ICP-MS电源维修小记,Luminous' Home,https://luotianyi.vc/7723.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-11-19,1700395249.0
 家门口的公园,湘铭`Blog,https://blog.xiangming.site/396.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-19,1700385870.0
-11月小记,绘星里,https://blog.storical.fun/posts/42580/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2023-11-17,1700257804.0
-11月小记,汐塔魔法屋,https://blog.sinzmise.top/posts/42580/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-11-17,1700257804.0
 11月小记,汐塔魔法屋,https://blog.storical.space/posts/42580,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-11-17,1700257804.0
+11月小记,汐塔魔法屋,https://blog.sinzmise.top/posts/42580/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-11-17,1700257804.0
+11月小记,绘星里,https://blog.storical.fun/posts/42580/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2023-11-17,1700257804.0
 11月小记,绘星里,/posts/42580/,/,https://blog.storical.space/atom.xml,2023-11-17,1700257804.0
 FreeBSD 使用 vm-bhyve 安装Debian虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_17-freebsd_vm_bhyve.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-17,1700179200.0
 看耳朵,湘铭`Blog,https://blog.xiangming.site/393.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-16,1700127432.0
@@ -48,4 +49,3 @@ Update on RSS Brain to Find Related Articles with Machine Learning,Bin Wang - My
 记录下一次服务器迁移,Nicksxs's Blog,https://nicksxs.me/2023/11/12/%E8%AE%B0%E5%BD%95%E4%B8%8B%E4%B8%80%E6%AC%A1%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%81%E7%A7%BB/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-11-12,1699791540.0
 闭上眼睛，深呼吸一会,Another Dayu,https://anotherdayu.com/2023/5461/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-12,1699776813.0
 长任务系统如何处理？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_12-long_running_task.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-12,1699747200.0
-雪落凉州,湘铭`Blog,https://blog.xiangming.site/366.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-11,1699683660.0
