@@ -1,10 +1,13 @@
 title,author,link,home,rss,date,timestamp
+PIVOT Vol.6,Another Dayu,https://anotherdayu.com/2024/5830/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-07-18,1721265708.0
+【随笔】同时向两个远程 Git 仓库推送代码,框架師,https://www.mobaijun.com/posts/812946667.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-07-17,1721212589.0
+Nginx 反代 SSL_do_handshake 问题解决思路,杜老师说,https://dusays.com/728/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-16,1721145600.0
 城市生活指南 – 上海停车（持续更新）,Another Dayu,https://anotherdayu.com/2024/5825/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-07-16,1721134540.0
 谈谈独立博客友链,瓦解的生活记事,https://hin.cool/posts/aboutfriendlink.html,https://hin.cool/,https://hin.cool/atom.xml,2024-07-16,1721130000.0
 怡保：南洋山城，有毒馋人慎入,Macin,https://macin.org/2024/07/14/yi-bao/,https://macin.org/,https://www.macin.org/atom.xml,2024-07-14,1720977090.0
 聊一下 Linux 中 dmesg 跟 journal 的差别,Nicksxs's Blog,https://nicksxs.me/2024/07/14/%E8%81%8A%E4%B8%80%E4%B8%8B-Linux-%E4%B8%AD-dmesg-%E8%B7%9F-journal-%E7%9A%84%E5%B7%AE%E5%88%AB/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-07-14,1720967090.0
-巧用 Vercel 重定向,岚天小窝,https://blog.ltya.top/posts/rewrite-of-vercel.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2024-07-13,1720886400.0
 借助 CF 解决 Docker 镜像拉取问题,杜老师说,https://dusays.com/727/,https://dusays.com/,https://dusays.com/atom.xml,2024-07-13,1720886400.0
+巧用 Vercel 重定向,岚天小窝,https://blog.ltya.top/posts/rewrite-of-vercel.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2024-07-13,1720886400.0
 我记忆中的7月13日,辛未羊的网络日志,https://panqiincs.me/2024/07/13/today-in-history/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2024-07-13,1720861230.0
 入手小米智能门锁和黑客380,瓦解的生活记事,https://hin.cool/posts/lockandbike.html,https://hin.cool/,https://hin.cool/atom.xml,2024-07-13,1720830000.0
 A Review of Linux on Surface Pro 4,Bin Wang - My Personal Blog,https://www.binwang.me/2024-07-12-A-Review-of-Linux-on-Surface-Pro-4.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-07-12,1720756800.0
@@ -26,9 +29,9 @@ Tianji 访问统计运行监控服务器状态工具简单评测,杜老师说,ht
 2024夏：不畏浮云遮望眼，乱云飞渡仍从容,Macin,https://macin.org/2024/06/30/202404/,https://macin.org/,https://www.macin.org/atom.xml,2024-06-30,1719779325.0
 介绍一下Java的BiFunction,Nicksxs's Blog,https://nicksxs.me/2024/06/30/%E4%BB%8B%E7%BB%8D%E4%B8%80%E4%B8%8BJava%E7%9A%84BiFunction/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-06-30,1719757055.0
 2024-06小记,绘星里,/posts/64935/,/,https://blog.storical.space/atom.xml,2024-06-28,1719613919.0
-2024-06小记,绘星里,https://blog.storical.fun/posts/64935/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2024-06-28,1719613919.0
-2024-06小记,汐塔魔法屋,https://blog.sinzmise.top/posts/64935/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-06-28,1719613919.0
 2024-06小记,汐塔魔法屋,https://blog.storical.space/posts/64935,https://blog.storical.space,https://blog.storical.space/atom.xml,2024-06-28,1719613919.0
+2024-06小记,汐塔魔法屋,https://blog.sinzmise.top/posts/64935/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-06-28,1719613919.0
+2024-06小记,绘星里,https://blog.storical.fun/posts/64935/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2024-06-28,1719613919.0
 使用 Docker 部署 Gitea 新一代的代码托管平台,杜老师说,https://dusays.com/722/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-28,1719590400.0
 十亿行挑战-C++,Bing's Blog,https://imcbc.cn/202406/1brc-cpp/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-06-28,1719585720.0
 免费搭建 Docker 镜像存储库解决拉取问题,杜老师说,https://dusays.com/721/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-25,1719331200.0
@@ -46,6 +49,3 @@ NX30Pro 刷成 Openwrt-ImmortalWrt 后作为有线中继的配置方法,Nicksxs'
 【抢鲜体验】腾讯云轻量应用服务器IPv6配置&体验测试,Luminous' Home,https://luotianyi.vc/7965.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-06-16,1718510852.0
 去不图床五周年蹭风 618 活动,杜老师说,https://dusays.com/717/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-13,1718294400.0
 时间同步概述,Bing's Blog,https://imcbc.cn/202406/time-sync-summary/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-06-12,1718234614.0
-3种积分变换笔记,DearXuan的主页,https://blog.dearxuan.com/2024/06/11/3%E7%A7%8D%E7%A7%AF%E5%88%86%E5%8F%98%E6%8D%A2%E7%AC%94%E8%AE%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-06-11,1718119200.0
-深入分析 LSP 协议,Andy Stewart,//manateelazycat.github.io/2024/06/11/lsp-trick/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-06-11,1718064000.0
-吃灰树莓派再就业,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/783/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-06-10,1718053918.0

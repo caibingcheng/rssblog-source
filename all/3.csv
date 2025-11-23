@@ -1,12 +1,15 @@
 title,author,link,home,rss,date,timestamp
+说说·叨叨点啥,绘星里,https://blog.storical.fun/talks/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2025-10-03,1759484109.0
+TiDB 源码阅读（三）：插入数据,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_03-tidb_source_code_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-03,1759449600.0
+宿 命,瓦解的生活记事,https://hin.cool/posts/suming.html,https://hin.cool/,https://hin.cool/atom.xml,2025-10-02,1759421220.0
 疲惫的国庆假期,瓦解的生活记事,https://hin.cool/posts/ohfxxklife.html,https://hin.cool/,https://hin.cool/atom.xml,2025-10-02,1759392000.0
 TiDB 源码阅读（二）：MySQL协议概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_02-tidb_source_code_mysql_protocol.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-02,1759363200.0
 TiDB 源码阅读（一）：服务监听、请求处理流程概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_01-tidb_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-01,1759276800.0
 Lesson 3 化学反应,菲兹克斯喵,https://physnya.top/biophysics/lesson-3-chemical-reaction/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-30,1759237266.0
 Light， Sound and Gravitational Waves of Black Holes and Neutron Stars,菲兹克斯喵,https://physnya.top/astro-front/lesson-3-gravitational-waves/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-30,1759217128.0
 Lesson 6 介质中的 Maxwell 方程组,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-6/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-30,1759209472.0
-Certimate 半自动阿里云虚拟主机证书,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/807/,https://imba97.cn/,https://imba97.cn/atom.xml,2025-09-29,1759155800.0
 Certimate 半自动阿里云虚拟主机证书,怠惰のコエ - imba久期 BLOG,https://imba97.com/archives/807/,https://imba97.com/,https://imba97.cn/atom.xml,2025-09-29,1759155800.0
+Certimate 半自动阿里云虚拟主机证书,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/807/,https://imba97.cn/,https://imba97.cn/atom.xml,2025-09-29,1759155800.0
 Lesson 5 相干态,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-5-coherent-state/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-29,1759132038.0
 Lesson 3 Probability Distribution Functions,菲兹克斯喵,https://physnya.top/astro-statistic/lesson-3-probalbility-distribution-functions/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-28,1759068842.0
 Lesson 5 介质中的电磁场,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-5-dielectric/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-28,1759046343.0
@@ -43,9 +46,6 @@ Chapter 3 习题,菲兹克斯喵,https://physnya.top/self-learn-GR/chapter-3-exe
 量子力学,菲兹克斯喵,https://physnya.top/quantum-mechanics/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-15,1757921205.0
 Einstein 场方程与时空的基本理论,菲兹克斯喵,https://physnya.top/self-learn-GR/chapter-3/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-14,1757876873.0
 怎么让claude code用国内的模型,Nicksxs's Blog,https://nicksxs.me/2025/09/13/%E6%80%8E%E4%B9%88%E8%AE%A9claude-code%E7%94%A8%E5%9B%BD%E5%86%85%E7%9A%84%E6%A8%A1%E5%9E%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-09-13,1757770194.0
-关于我,绘星里,/about/,/,https://blog.storical.space/atom.xml,2025-09-13,1757746053.0
 关于我,绘星里,https://blog.storical.fun/about/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2025-09-13,1757746053.0
+关于我,绘星里,/about/,/,https://blog.storical.space/atom.xml,2025-09-13,1757746053.0
 不速之客,瓦解的生活记事,https://hin.cool/posts/busuzhike.html,https://hin.cool/,https://hin.cool/atom.xml,2025-09-12,1757688000.0
-〈戏台〉：荒诞的不是舞台，而是现实,Frank笔记,https://frank2019.me/archives/wei-ming-ming-wen-zhang-udNdvIFO,https://frank2019.me,https://frank2019.me/rss.xml,2025-09-12,1757652639.0
-喝酒和创业,Andy Stewart,https://manateelazycat.github.io/2025/09/12/drink-is-good/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-09-11,1757606400.0
-几种通过 FFmpeg 无损压缩视频的方法,杜老师说,https://dusays.com/826/,https://dusays.com/,https://dusays.com/atom.xml,2025-09-09,1757433600.0
