@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+uni-app 多端组件属性与样式透传行为一致性实践,4Ark,https://4ark.me/posts/2025-10-28-uni-app-component-props-style-pass-through/,https://4ark.me/,https://4ark.me/rss.xml,2025-10-28,1761609600.0
 Lesson 11 不确定关系,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-11-uncertainty/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-27,1761569015.0
 我的 CSS 设置,Another Dayu,https://anotherdayu.com/2025/7411/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-10-27,1761561344.0
 体验Roo Code代码生成插件,Nicksxs's Blog,https://nicksxs.me/2025/10/26/%E4%BD%93%E9%AA%8CRoo-Code%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E6%8F%92%E4%BB%B6/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-10-26,1761486438.0
@@ -11,7 +12,7 @@ Lesson 11 静磁场,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-1
 Lesson 5 核物理与观测宇宙学,菲兹克斯喵,https://physnya.top/physics-front/lesson-5/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-22,1761117613.0
 敏感的童年对工作有什么帮助?,Andy Stewart,https://manateelazycat.github.io/2025/10/22/child-for-good/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-10-21,1761062400.0
 Lesson 5 高分子链,菲兹克斯喵,https://physnya.top/biophysics/lesson-5/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-21,1761052802.0
-Cosmic Baryons,菲兹克斯喵,https://physnya.top/astro-front/lesson-5-cosmic-baryons/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-21,1761033175.0
+Lesson 10 多极展开,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-10/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-21,1761033175.0
 Lesson 9 Hilbert 空间,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-9/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-20,1760985576.0
 在claude code中体验下GLM最新模型,Nicksxs's Blog,https://nicksxs.me/2025/10/18/%E5%9C%A8claude-code%E4%B8%AD%E4%BD%93%E9%AA%8C%E4%B8%8BGLM%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-10-18,1760798029.0
 Lesson 4 分离变量法 (三),菲兹克斯喵,https://physnya.top/equation-m-p/lesson-4/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-17,1760716621.0
@@ -19,7 +20,7 @@ Lesson 5 Model Selection,菲兹克斯喵,https://physnya.top/astro-statistic/les
 251016 生活碎片,Another Dayu,https://anotherdayu.com/2025/7370/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-10-16,1760611325.0
 Lesson 9 电像法,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-9/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-16,1760600217.0
 Lesson 8 势阱,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-8-potential-well/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-15,1760513243.0
-Lesson 4 粒子物理学与高能实验,菲兹克斯喵,https://physnya.top/physics-front/lesson-4-particle-physics/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-15,1760499595.0
+Through Cosmic Lens Into Deep Universe —— Strong Gravitational Lensing,菲兹克斯喵,https://physnya.top/astro-front/lesson-4-gravitational-lensing/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-15,1760499595.0
 uni-app 与原生小程序混合开发方案,4Ark,https://4ark.me/posts/2025-10-15-uni-app-hybrid-native-miniprogram/,https://4ark.me/,https://4ark.me/rss.xml,2025-10-15,1760486400.0
 组了个 QNAS MINI,怠惰のコエ - imba久期 BLOG,https://imba97.com/archives/808/,https://imba97.com/,https://imba97.cn/atom.xml,2025-10-14,1760451458.0
 组了个 QNAS MINI,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/808/,https://imba97.cn/,https://imba97.cn/atom.xml,2025-10-14,1760451458.0
@@ -48,4 +49,3 @@ TiDB 源码阅读（四）：AST、逻辑计划、物理计划,Jiajun的技术�
 说说·叨叨点啥,绘星里,/talks/,/,https://blog.storical.space/atom.xml,2025-10-03,1759484109.0
 TiDB 源码阅读（三）：插入数据,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_03-tidb_source_code_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-03,1759449600.0
 TiDB 源码阅读（二）：MySQL协议概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_02-tidb_source_code_mysql_protocol.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-02,1759363200.0
-TiDB 源码阅读（一）：服务监听、请求处理流程概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_01-tidb_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-01,1759276800.0
