@@ -1,17 +1,18 @@
 title,author,link,home,rss,date,timestamp
+TiDB 源码阅读（三）：插入数据,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_03-tidb_source_code_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-03,1759449600.0
 TiDB 源码阅读（二）：MySQL协议概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_02-tidb_source_code_mysql_protocol.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-02,1759363200.0
 TiDB 源码阅读（一）：服务监听、请求处理流程概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_01-tidb_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-01,1759276800.0
 Lesson 3 化学反应,菲兹克斯喵,https://physnya.top/biophysics/lesson-3-chemical-reaction/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-30,1759237266.0
 Light， Sound and Gravitational Waves of Black Holes and Neutron Stars,菲兹克斯喵,https://physnya.top/astro-front/lesson-3-gravitational-waves/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-30,1759217128.0
 Lesson 6 介质中的 Maxwell 方程组,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-6/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-30,1759209472.0
-Certimate 半自动阿里云虚拟主机证书,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/807/,https://imba97.cn/,https://imba97.cn/atom.xml,2025-09-29,1759155800.0
 Certimate 半自动阿里云虚拟主机证书,怠惰のコエ - imba久期 BLOG,https://imba97.com/archives/807/,https://imba97.com/,https://imba97.cn/atom.xml,2025-09-29,1759155800.0
+Certimate 半自动阿里云虚拟主机证书,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/807/,https://imba97.cn/,https://imba97.cn/atom.xml,2025-09-29,1759155800.0
 Lesson 5 相干态,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-5-coherent-state/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-29,1759132038.0
 Lesson 3 Probability Distribution Functions,菲兹克斯喵,https://physnya.top/astro-statistic/lesson-3-probalbility-distribution-functions/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-28,1759068842.0
 Lesson 5 介质中的电磁场,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-5-dielectric/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-28,1759046343.0
 怎么给wsl占用的硬盘空间做下瘦身,Nicksxs's Blog,https://nicksxs.me/2025/09/27/%E6%80%8E%E4%B9%88%E7%BB%99wsl%E5%8D%A0%E7%94%A8%E7%9A%84%E7%A1%AC%E7%9B%98%E7%A9%BA%E9%97%B4%E5%81%9A%E4%B8%8B%E7%98%A6%E8%BA%AB/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-09-27,1758971151.0
-2025-09小记,绘星里,https://blog.storical.fun/posts/write-202509/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2025-09-27,1758933588.0
 2025-09小记,绘星里,/posts/write-202509/,/,https://blog.storical.space/atom.xml,2025-09-27,1758933588.0
+2025-09小记,绘星里,https://blog.storical.fun/posts/write-202509/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2025-09-27,1758933588.0
 Lesson 2 分离变量法 (一),菲兹克斯喵,https://physnya.top/equation-m-p/lesson-2/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-26,1758860359.0
 Lesson 2 Probability Theory,菲兹克斯喵,https://physnya.top/astro-statistic/lesson-2-probability-theory/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-25,1758809038.0
 Lesson 4 Maxwell 方程组,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-4-maxwell/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-25,1758787287.0
@@ -28,7 +29,7 @@ Lesson 3 稳态 Schrödinger 方程,菲兹克斯喵,https://physnya.top/quantum-
 Lesson 1 建立模型 & 常微分,菲兹克斯喵,https://physnya.top/equation-m-p/lesson-1/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-19,1758255709.0
 【随笔】Jackson 反序列化报错的解决方案,框架師,https://www.mobaijun.com/posts/3481608192.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-18,1758214805.0
 【随笔】MySQL 启动失败分析：权限问题与 expire_logs_days 配置错误,框架師,https://www.mobaijun.com/posts/2458057465.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-18,1758214390.0
-Lesson 1 Introduction,菲兹克斯喵,https://physnya.top/astro-statistic/lesson-1-introduction/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-18,1758206722.0
+天体物理统计方法,菲兹克斯喵,https://physnya.top/astro-statistic/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-18,1758206722.0
 Lesson 2 波函数,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-2/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-17,1758094102.0
 物理学前沿讲座,菲兹克斯喵,https://physnya.top/physics-front/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-17,1758079916.0
 Lesson 1 Introduction,菲兹克斯喵,https://physnya.top/biophysics/lesson-1-introduction/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-16,1758027783.0
@@ -37,8 +38,8 @@ Chapter 3 习题,菲兹克斯喵,https://physnya.top/self-learn-GR/chapter-3-exe
 量子力学,菲兹克斯喵,https://physnya.top/quantum-mechanics/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-15,1757921205.0
 Einstein 场方程与时空的基本理论,菲兹克斯喵,https://physnya.top/self-learn-GR/chapter-3/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-14,1757876873.0
 怎么让claude code用国内的模型,Nicksxs's Blog,https://nicksxs.me/2025/09/13/%E6%80%8E%E4%B9%88%E8%AE%A9claude-code%E7%94%A8%E5%9B%BD%E5%86%85%E7%9A%84%E6%A8%A1%E5%9E%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-09-13,1757770194.0
-关于我,绘星里,https://blog.storical.fun/about/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2025-09-13,1757746053.0
 关于我,绘星里,/about/,/,https://blog.storical.space/atom.xml,2025-09-13,1757746053.0
+关于我,绘星里,https://blog.storical.fun/about/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2025-09-13,1757746053.0
 〈戏台〉：荒诞的不是舞台，而是现实,Frank笔记,https://frank2019.me/archives/wei-ming-ming-wen-zhang-udNdvIFO,https://frank2019.me,https://frank2019.me/rss.xml,2025-09-12,1757652639.0
 分享工程师成长心法,Andy Stewart,https://manateelazycat.github.io/2025/09/12/enginner-grow/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-09-11,1757606400.0
 流水帐 Week 25,菲兹克斯喵,https://physnya.top/posts/9l7e4ej2/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-07,1757286829.0
@@ -48,4 +49,3 @@ ToB SaaS 服务之殇,Jiajun的技术笔记,https://jiajunhuang.com/articles/202
 『写作与沟通』终稿,菲兹克斯喵,https://physnya.top/writing/final-draft/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-04,1756989390.0
 Chapter 2 习题,菲兹克斯喵,https://physnya.top/self-learn-GR/chapter-2-exercise/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-03,1756912128.0
 My AI Pair Programming Experiment: A Reflection on Efficiency and Creativity,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20250903-my-ai-pair-programming-experiment-a-reflection-on-efficiency-and-creativity-en,https://teobler.com,https://teobler.com/rss.xml,2025-09-03,1756908236.0
-TiDB Lightning 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_09_02-lightning_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-09-02,1756771200.0
