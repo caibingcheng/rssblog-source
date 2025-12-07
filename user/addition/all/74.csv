@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【动画电影】《声之形》观后感,云游君的小站,https://www.yunyoujun.cn/posts/the-shape-of-voice,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-02-03,1517686818.0
 Golang runtime 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_02_02-golang_runtime.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-02-02,1517529600.0
 非典型程序员之路:腾讯第二届前端体验大会 | 嘉宾分享,罗磊的独立博客,https://luolei.org/feexp-2017-shenzhen,https://luolei.org,https://luolei.org/feed/,2018-02-01,1517443200.0
 Golang的一些坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_31-golang_traps.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-31,1517356800.0
@@ -11,8 +12,8 @@ Go语言性能优化实战,Jiajun的技术笔记,https://jiajunhuang.com/article
 Announcement of Authlib,Just lepture,https://lepture.com/en/2018/announcement-of-authlib,https://lepture.com/,https://lepture.com/feed.xml,2018-01-08,1515417697.0
 (关系型)数据库优化总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_08-db_optimizations.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-08,1515369600.0
 动态规划民科教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_04-dynamic_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-04,1515024000.0
-2017 年终总结,Randy's Blog,https://lutaonan.com/blog/2017-summary,https://lutaonan.com,https://lutaonan.com/rss.xml,2018-01-03,1514937600.0
 2017 年终总结,Randy's Blog,https://lutaonan.com/blog/2017-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-01-03,1514937600.0
+2017 年终总结,Randy's Blog,https://lutaonan.com/blog/2017-summary,https://lutaonan.com,https://lutaonan.com/rss.xml,2018-01-03,1514937600.0
 全球首发开箱:QQ阅读电子书・易,罗磊的独立博客,https://luolei.org/qqread-elink-reader-yi-2018-review,https://luolei.org,https://luolei.org/feed/,2017-12-31,1514678400.0
 Golang 分布式异步任务队列 Machinery 教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_30-golang_task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-30,1514592000.0
 2017 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2017-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-12-29,1514505600.0
@@ -38,8 +39,8 @@ traefik 教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_24
 Nginx作为TCP/UDP的负载均衡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_19-nginx_as_tcp_load_balancing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
 Web开发系列(八)：单点故障，负载均衡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-web_dev_part8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
 Web开发系列(五)：form， json， xml,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_17-web_dev_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-17,1508198400.0
-海信A2 Pro:一部给喜欢阅读的人准备的手机,罗磊的独立博客,https://luolei.org/hisense-a2-pro-unboxing,https://luolei.org,https://luolei.org/feed/,2017-10-16,1508112000.0
 Web开发系列(四)：Flask， Tornado和WSGI,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_16-web_dev_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-16,1508112000.0
+海信A2 Pro:一部给喜欢阅读的人准备的手机,罗磊的独立博客,https://luolei.org/hisense-a2-pro-unboxing,https://luolei.org,https://luolei.org/feed/,2017-10-16,1508112000.0
 Discourse 新一代开源论坛,云游君的小站,https://www.yunyoujun.cn/posts/discourse-forum,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-10-15,1508089086.0
 Web开发系列(三)：什么是HTML，CSS，JS？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_15-web_dev_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-15,1508025600.0
 佐渡與阿賀町記,Just lepture,https://lepture.com/zh/2017/sado-and-ago,https://lepture.com/,https://lepture.com/feed.xml,2017-10-14,1507984443.0
@@ -48,4 +49,3 @@ Web开发系列(一)：从输入网址到最后，这个过程经历了什么？
 Coding WebIDE 云端开发实验室,云游君的小站,https://www.yunyoujun.cn/posts/coding-webide-dev-env,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-10-11,1507738872.0
 SNI: 让Nginx在一个IP上使用多个证书,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_11-sni.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-11,1507680000.0
 週記，九月末,Just lepture,https://lepture.com/zh/2017/weekly-20170930,https://lepture.com/,https://lepture.com/feed.xml,2017-10-01,1506864165.0
-前端的基礎修養：ARIA Live Regions,Just lepture,https://lepture.com/zh/2017/fe-live-regions,https://lepture.com/,https://lepture.com/feed.xml,2017-09-27,1506505200.0
