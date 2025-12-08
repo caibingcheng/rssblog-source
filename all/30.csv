@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Linux 自动挂载 alist 提供的webdav,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_29-alist_webdav.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-29,1701216000.0
 7bu 图床插件 For WordPress/Typecho 分享,杜老师说,https://dusays.com/651/,https://dusays.com/,https://dusays.com/atom.xml,2023-11-28,1701187200.0
 Introduce K3s， CephFS and MetalLB to My High Available Cluster,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-28-Introduce-K3s-CephFS-and-MetalLB-to-My-High-Avaliable-Cluster.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-28,1701147600.0
 再回首,湘铭`Blog,https://blog.xiangming.site/419.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-28,1701142062.0
@@ -22,9 +23,9 @@ Tomcat 系列篇九-介绍下 Tomcat 里的 ContainerBase,Nicksxs's Blog,https:/
 【杂谈】记一次Agilent 7900 ICP-MS电源维修小记,Luminous' Home,https://luotianyi.vc/7723.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-11-19,1700395249.0
 家门口的公园,湘铭`Blog,https://blog.xiangming.site/396.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-19,1700385870.0
 11月小记,绘星里,https://blog.storical.fun/posts/42580/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2023-11-17,1700257804.0
-11月小记,汐塔魔法屋,https://blog.storical.space/posts/42580,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-11-17,1700257804.0
 11月小记,汐塔魔法屋,https://blog.sinzmise.top/posts/42580/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-11-17,1700257804.0
 11月小记,绘星里,/posts/42580/,/,https://blog.storical.space/atom.xml,2023-11-17,1700257804.0
+11月小记,汐塔魔法屋,https://blog.storical.space/posts/42580,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-11-17,1700257804.0
 FreeBSD 使用 vm-bhyve 安装Debian虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_17-freebsd_vm_bhyve.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-17,1700179200.0
 一款强大番茄工作法工具 Pomatez,杜老师说,https://dusays.com/647/,https://dusays.com/,https://dusays.com/atom.xml,2023-11-16,1700150400.0
 看耳朵,湘铭`Blog,https://blog.xiangming.site/393.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-16,1700127432.0
@@ -48,4 +49,3 @@ CPU 调频模式和中断设置,杜老师说,https://dusays.com/645/,https://dus
 My App Defaults 2023,Another Dayu,https://anotherdayu.com/2023/5452/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-10,1699622806.0
 Add Index Sidebar to My Blog,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-10-Index-Sidebar-on-My-Blog.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-10,1699592400.0
 使用开源软KVM - synergy-core,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_10-synergy_core.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-10,1699574400.0
-团队管理过程的信息不对称,见字如面,https://hiwannz.com/archives/946.html,https://hiwannz.com/,https://hiwannz.com/feed,2023-11-09,1699518939.0
