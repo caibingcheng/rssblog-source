@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+A Rust CLI Program， Use It with LLM and Convert It to Web UI,Bin Wang - My Personal Blog,https://www.binwang.me/2025-12-10-A-Rust-CLI-Program.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2025-12-10,1765342800.0
 My First Rust Project,Bin Wang - My Personal Blog,https://www.binwang.me/2025-10-28-My-First-Rust-Project.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2025-10-28,1761624000.0
 Download Message Images from Seesaw,Bin Wang - My Personal Blog,https://www.binwang.me/2025-10-06-Download-Message-Images-from-Seesaw.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2025-10-06,1759723200.0
 My Workflow to Review Articles with LLMs,Bin Wang - My Personal Blog,https://www.binwang.me/2025-08-15-My-Workflow-to-Review-Articles-with-LLMs.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2025-08-15,1755230400.0
@@ -48,4 +49,3 @@ Setup SSH Authentication with YubiKey,Bin Wang - My Personal Blog,https://www.bi
 My 2020 in Review,Bin Wang - My Personal Blog,https://www.binwang.me/2021-01-26-My-2020-in-Review.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2021-01-26,1611637200.0
 Redis Implementation for Cache and Database Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-12-14-Redis-Implementation-for-Cache-and-Database-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-12-14,1607922000.0
 Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-29-Keep-Data-Consistency-During-Database-Migration.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-29,1606626000.0
-DNS Resolving Bug in iOS 14,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-08-DNS-Resolving-Bug-in-iOS-14.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-08,1604811600.0
