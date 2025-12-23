@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+2021年上半年的一些思考,冰哥笔记,https://www.bgbiji.com/799.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-07-02,1625220419.0
 一次事故反思,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_07_02-reflection_on_bug.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-07-02,1625184000.0
 10本前端框架 VUE 学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/07/01/10-front-end-framework-vue-learning-books/,https://102no.com/,https://102no.com/atom.xml,2021-06-30,1625068800.0
 Why Big Companies Need to Adopt Open Source,Bin Wang - My Personal Blog,https://www.binwang.me/2021-06-30-Why-Big-Companies-Need-to-Adopt-Open-Source.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2021-06-30,1625025600.0
@@ -14,8 +15,8 @@ Why Big Companies Need to Adopt Open Source,Bin Wang - My Personal Blog,https://
 构建Semi-Bluff范围,Frank笔记,https://frank2019.me/articles/2021/06/20/1624119685251.html,https://frank2019.me,https://frank2019.me/rss.xml,2021-06-20,1624181703.0
 SQLite3 存储以及ACID原理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_06_19-sqlite3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-06-19,1624060800.0
 构建Semi-Bluff范围,Frank笔记,https://frank2019.me/archives/gou-jian-semi-blufffan-wei,https://frank2019.me/,https://frank2019.me/rss.xml,2021-06-18,1624037520.0
-分享我最近看过的剧集,近视眼逛博客,https://blog.9hz.club/2021/06/Share-the-episodes-I-ve-seen-recently.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2021-06-18,1624032540.0
 分享我最近看过的剧集,近视眼逛博客,https://blog.dtz9.com/2021/06/Share-the-episodes-I-ve-seen-recently.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-06-18,1624032540.0
+分享我最近看过的剧集,近视眼逛博客,https://blog.9hz.club/2021/06/Share-the-episodes-I-ve-seen-recently.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2021-06-18,1624032540.0
 10本 Docker 进阶学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/06/17/10-docker-advanced-books/,https://102no.com/,https://102no.com/atom.xml,2021-06-16,1623859200.0
 你需要一份好看的简历吗,见字如面,https://hiwannz.com/archives/534,https://hiwannz.com,https://hiwannz.com/feed,2021-06-16,1623850504.0
 Next.js 应用开发实践,Randy's Blog,https://lutaonan.com/blog/the-book-nextjs-in-action/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-06-16,1623801600.0
@@ -48,4 +49,3 @@ Redis源码阅读：set是怎么做交并集运算的？,Jiajun的技术笔记,h
 Redis源码阅读：list实现(ziplist， quicklist),Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_28-redis_source_code_8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-28,1622160000.0
 又拍云—年轻人的第一个 CDN,云游君的小站,https://www.yunyoujun.cn/posts/why-i-use-upyun-cdn/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2021-05-27,1622122175.0
 [转载]再谈谈这个沉重的话题:程序员的出路,框架師,https://www.mobaijun.com/posts/4100025323.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-05-27,1622105062.0
-Redis源码阅读：RDB是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_27-redis_source_code_7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-27,1622073600.0
