@@ -1,6 +1,11 @@
 title,author,link,home,rss,date,timestamp
-读 React 18 文档有感,Randy's Blog,https://lutaonan.com/blog/read-react-18-doc/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-01-04,1704326400.0
+今天我们聊一聊脂肪肝,杜老师说,https://dusays.com/664/,https://dusays.com/,https://dusays.com/atom.xml,2024-01-06,1704556800.0
+2023 年度汇报,见字如面,https://hiwannz.com/archives/992.html,https://hiwannz.com,https://hiwannz.com/feed,2024-01-06,1704539778.0
+新闻的分享,Frank笔记,https://frank2019.me/archives/1704484963060,https://frank2019.me/,https://frank2019.me/rss.xml,2024-01-05,1704485498.0
+读《岩田先生：任天堂传奇社长如是说》,Randy's Blog,https://lutaonan.com/blog/yan-tian-xian-sheng,https://lutaonan.com,https://lutaonan.com/rss.xml,2024-01-05,1704412800.0
+读《岩田先生：任天堂传奇社长如是说》,Randy's Blog,https://lutaonan.com/blog/yan-tian-xian-sheng/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-01-05,1704412800.0
 读 React 18 文档有感,Randy's Blog,https://lutaonan.com/blog/read-react-18-doc,https://lutaonan.com,https://lutaonan.com/rss.xml,2024-01-04,1704326400.0
+读 React 18 文档有感,Randy's Blog,https://lutaonan.com/blog/read-react-18-doc/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-01-04,1704326400.0
 GitHub 二次验证 APP 推荐,杜老师说,https://dusays.com/663/,https://dusays.com/,https://dusays.com/atom.xml,2024-01-03,1704297600.0
 用 PicGo 图床连接文本编辑器 Drafts-Obsidian-WordPress,Another Dayu,https://anotherdayu.com/2024/5580/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-01-03,1704267854.0
 typecho主题添加OwO表情,湘铭`Blog,https://blog.xiangming.site/475.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2024-01-03,1704247320.0
@@ -18,9 +23,9 @@ typecho主题添加OwO表情,湘铭`Blog,https://blog.xiangming.site/475.html,ht
 php 的调试方法-查看调用堆栈,Nicksxs's Blog,https://nicksxs.me/2023/12/31/php-%E7%9A%84%E8%B0%83%E8%AF%95%E6%96%B9%E6%B3%95-%E6%9F%A5%E7%9C%8B%E8%B0%83%E7%94%A8%E5%A0%86%E6%A0%88/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-12-31,1704030576.0
 OPENWRT远程管理和ssh被爆破,瓦解的生活记事,https://hin.cool/posts/opandssh.html,https://hin.cool/,https://hin.cool/atom.xml,2023-12-30,1703976000.0
 2023小结,绘星里,https://blog.storical.fun/posts/27531/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2023-12-30,1703957816.0
+2023小结,绘星里,/posts/27531/,/,https://blog.storical.space/atom.xml,2023-12-30,1703957816.0
 2023小结,汐塔魔法屋,https://blog.sinzmise.top/posts/27531/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2023-12-30,1703957816.0
 2023小结,汐塔魔法屋,https://blog.storical.space/posts/27531,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-12-30,1703957816.0
-2023小结,绘星里,/posts/27531/,/,https://blog.storical.space/atom.xml,2023-12-30,1703957816.0
 202312：南州十二月，地暖冰雪少,Macin,https://macin.org/2023/12/30/202312/,https://macin.org/,https://www.macin.org/atom.xml,2023-12-30,1703931613.0
 读《打造真正的新产品》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_12_30-something_really_new.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-12-30,1703894400.0
 Scala 2 Macro Tutorial,Bin Wang - My Personal Blog,https://www.binwang.me/2023-12-29-Scala-Macro-Tutorial.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-12-29,1703826000.0
@@ -44,8 +49,3 @@ Nginx 的 WAF 规则 LuaJIT 中危险版,杜老师说,https://dusays.com/658/,ht
 老家地震了！6.2级！,湘铭`Blog,https://blog.xiangming.site/447.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-12-19,1702964040.0
 Safari 浏览器踩坑记录,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/773/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-12-19,1702945832.0
 温州：湿漉漉和糯叽叽,Macin,https://macin.org/2023/12/18/wen-zhou/,https://macin.org/,https://www.macin.org/atom.xml,2023-12-18,1702941783.0
-请 LLM 对我的工作指点一二,见字如面,https://hiwannz.com/archives/976.html,https://hiwannz.com,https://hiwannz.com/feed,2023-12-18,1702891321.0
-不同能力要看哪些书可以得到提升?,Andy Stewart,//manateelazycat.github.io/2023/12/18/how-to-reading/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-18,1702857600.0
-“博客教”形式宗与质料宗的相爱相杀特别报道,非理勿试,https://www.ntiy.com/2043.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-12-17,1702824003.0
-Tomcat 系列篇十二-番外介绍下 Tomcat 的上传文件限制,Nicksxs's Blog,https://nicksxs.me/2023/12/17/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E5%8D%81%E4%BA%8C-%E7%95%AA%E5%A4%96%E4%BB%8B%E7%BB%8D%E4%B8%8B-Tomcat-%E7%9A%84%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E9%99%90%E5%88%B6/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-12-17,1702811872.0
-VueJS 总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_12_17-vue3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-12-17,1702771200.0
