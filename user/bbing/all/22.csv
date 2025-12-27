@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+explicit说明符,BBing's Blog,https://bbing.com.cn/202112/cpp-explicit/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-23,1640239412.0
 ModuleNotFoundError: No Module Named '_Ctypes' Make: *** [Install] 错误 1,cywhat's blog,https://cywhat.cn/ModuleNotFoundError-No-module-named-_ctypes-make-install-%E9%94%99%E8%AF%AF-1/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-12-23,1640227454.0
 zipimport.ZipImportError: can't decompress data; zlib not available make: *** [install] 错误 1,cywhat's blog,https://cywhat.cn/zipimport.ZipImportError-cant-decompress-data-zlib-not-available-make-install-%E9%94%99%E8%AF%AF-1/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-12-23,1640226994.0
 如何保持Ssh长时间连接不断开,cywhat's blog,https://cywhat.cn/%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81Ssh%E9%95%BF%E6%97%B6%E9%97%B4%E9%93%BE%E6%8E%A5%E4%B8%8D%E6%96%AD%E5%BC%80/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-12-22,1640154551.0
@@ -19,13 +20,13 @@ docker常见操作命令,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4%B8%8A%E
 sort 的用法,杜老师说,https://dusays.com/412/,https://dusays.com/,https://dusays.com/atom.xml,2021-12-11,1639238400.0
 如何创建自己的cdn图床地址,cywhat's blog,https://cywhat.cn/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84cdn%E5%9B%BE%E5%BA%8A%E5%9C%B0%E5%9D%80/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-12-10,1639123262.0
 cut 的用法,杜老师说,https://dusays.com/411/,https://dusays.com/,https://dusays.com/atom.xml,2021-12-08,1638979200.0
-PostgreSQL - DML操作汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-dml/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-07,1638891797.0
 PostgreSQL - DML操作汇总,Yulin Lewis' Blog,https://lewky233.top/posts/postgresql-dml/,https://lewky233.top/,https://lewky.cn/index.xml,2021-12-07,1638891797.0
-PicSizer-将图片压缩到指定大小(KB)的软件,DearXuan的主页,https://dearxuan.top/2021/12/06/PicSizer-%E5%B0%86%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E5%88%B0%E6%8C%87%E5%AE%9A%E5%A4%A7%E5%B0%8F-KB-%E7%9A%84%E8%BD%AF%E4%BB%B6/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-12-06,1638791700.0
+PostgreSQL - DML操作汇总,Yulin Lewis' Blog,https://lewky.cn/posts/postgresql-dml/,https://lewky.cn/,https://lewky.cn/index.xml,2021-12-07,1638891797.0
 PicSizer-将图片压缩到指定大小(KB)的软件,DearXuan的主页,https://blog.dearxuan.com/2021/12/06/PicSizer-%E5%B0%86%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E5%88%B0%E6%8C%87%E5%AE%9A%E5%A4%A7%E5%B0%8F-KB-%E7%9A%84%E8%BD%AF%E4%BB%B6/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-12-06,1638791700.0
+PicSizer-将图片压缩到指定大小(KB)的软件,DearXuan的主页,https://dearxuan.top/2021/12/06/PicSizer-%E5%B0%86%E5%9B%BE%E7%89%87%E5%8E%8B%E7%BC%A9%E5%88%B0%E6%8C%87%E5%AE%9A%E5%A4%A7%E5%B0%8F-KB-%E7%9A%84%E8%BD%AF%E4%BB%B6/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-12-06,1638791700.0
 常用的正则表达式,杜老师说,https://dusays.com/410/,https://dusays.com/,https://dusays.com/atom.xml,2021-12-05,1638720000.0
-Windows桌面暗水印方法与C++实现,DearXuan的主页,https://dearxuan.top/2021/12/04/Windows%E6%A1%8C%E9%9D%A2%E6%9A%97%E6%B0%B4%E5%8D%B0%E6%96%B9%E6%B3%95%E4%B8%8EC-%E5%AE%9E%E7%8E%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-12-04,1638625680.0
 Windows桌面暗水印方法与C++实现,DearXuan的主页,https://blog.dearxuan.com/2021/12/04/Windows%E6%A1%8C%E9%9D%A2%E6%9A%97%E6%B0%B4%E5%8D%B0%E6%96%B9%E6%B3%95%E4%B8%8EC-%E5%AE%9E%E7%8E%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-12-04,1638625680.0
+Windows桌面暗水印方法与C++实现,DearXuan的主页,https://dearxuan.top/2021/12/04/Windows%E6%A1%8C%E9%9D%A2%E6%9A%97%E6%B0%B4%E5%8D%B0%E6%96%B9%E6%B3%95%E4%B8%8EC-%E5%AE%9E%E7%8E%B0/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-12-04,1638625680.0
 配置gitee和git并存环境,Barney's Blog,https://hugo.bnblogs.cc/gitee%E5%92%8Cgit%E5%B9%B6%E5%AD%98/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-03,1638540704.0
 深度学习GPU加速配置,Barney's Blog,https://hugo.bnblogs.cc/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0gpu%E5%8A%A0%E9%80%9F%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-03,1638512088.0
 推荐值得收藏 34 个命令总结,杜老师说,https://dusays.com/409/,https://dusays.com/,https://dusays.com/atom.xml,2021-12-02,1638460800.0
@@ -34,18 +35,17 @@ volantis多背景图的优化方案,DearXuan的主页,https://dearxuan.top/2021/
 volantis多背景图的优化方案,DearXuan的主页,https://blog.dearxuan.com/2021/11/29/volantis%E5%A4%9A%E8%83%8C%E6%99%AF%E5%9B%BE%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-29,1638181860.0
 变老和博客一周年,LonelyGod,https://hin.cool/posts/27toold.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-29,1638144000.0
 linux常用命令,Barney's Blog,https://hugo.bnblogs.cc/linux%E5%91%BD%E4%BB%A4/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-11-27,1638021609.0
-搭建自己的随机图API,DearXuan的主页,https://dearxuan.top/2021/11/27/%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9A%8F%E6%9C%BA%E5%9B%BEAPI/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-27,1637985300.0
 搭建自己的随机图API,DearXuan的主页,https://blog.dearxuan.com/2021/11/27/%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9A%8F%E6%9C%BA%E5%9B%BEAPI/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-27,1637985300.0
+搭建自己的随机图API,DearXuan的主页,https://dearxuan.top/2021/11/27/%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9A%8F%E6%9C%BA%E5%9B%BEAPI/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-27,1637985300.0
 杜老师服务器皮肤修改教程,杜老师说,https://dusays.com/407/,https://dusays.com/,https://dusays.com/atom.xml,2021-11-26,1637942400.0
 读钱德勒《漫长的告别》：都市独行侠,LonelyGod,https://hin.cool/posts/longgoodbye.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-25,1637798400.0
 我的世界 1.17 版光影推荐,杜老师说,https://dusays.com/406/,https://dusays.com/,https://dusays.com/atom.xml,2021-11-23,1637683200.0
 去不图床提卡系统使用教程,杜老师说,https://dusays.com/405/,https://dusays.com/,https://dusays.com/atom.xml,2021-11-20,1637424000.0
-Navicat使用汇总,Yulin Lewis' Blog,https://lewky.cn/posts/navicat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-11-20,1637422008.0
 Navicat使用汇总,Yulin Lewis' Blog,https://lewky233.top/posts/navicat/,https://lewky233.top/,https://lewky.cn/index.xml,2021-11-20,1637422008.0
+Navicat使用汇总,Yulin Lewis' Blog,https://lewky.cn/posts/navicat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-11-20,1637422008.0
 使用 systemd 控制您的计算机时间和日期,无妄当自持,https://www.insidentally.com/articles/000021/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-11-20,1637373099.0
-人工智能基础-动态规划,DearXuan的主页,https://dearxuan.top/2021/11/19/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-19,1637304300.0
 人工智能基础-动态规划,DearXuan的主页,https://blog.dearxuan.com/2021/11/19/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2021-11-19,1637304300.0
+人工智能基础-动态规划,DearXuan的主页,https://dearxuan.top/2021/11/19/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2021-11-19,1637304300.0
 Raid磁盘阵列,cywhat's blog,https://cywhat.cn/Raid%E7%A3%81%E7%9B%98%E9%98%B5%E5%88%97/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-11-18,1637200884.0
 Linux使用iftop查看带宽占用情况,cywhat's blog,https://cywhat.cn/Linux%E4%BD%BF%E7%94%A8iftop%E6%9F%A5%E7%9C%8B%E5%B8%A6%E5%AE%BD%E5%8D%A0%E7%94%A8%E6%83%85%E5%86%B5/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-11-17,1637115401.0
 glibc-raise源码阅读,BBing's Blog,https://bbing.com.cn/202111/glibc-raise/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-11-16,1637043315.0
-2021年法治理论考试分析,LonelyGod,https://hin.cool/posts/2021pufa.html,https://hin.cool/,https://www.hin.cool/atom.xml,2021-11-15,1637000400.0
