@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+分治的思维方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_15-divide_and_conquer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-15,1589500800.0
+说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
 Debian 使用NetworkManager之后networking.service崩溃,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
 说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
 【设计模式】Java设计模式-(Singleton)单例模式,框架師,https://www.mobaijun.com/posts/1469544396.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-12,1589246412.0
@@ -47,5 +49,3 @@ YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-m
 [博客通报] 切换评论系统至 Disqus,ChrAlpha,https://blog.ichr.me/notice/change-comment-system-into-disqus/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-13,1586811001.0
 FreeBSD ipfw使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_13-freebsd_ipfw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-13,1586736000.0
 Golang expvar库源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_12-expvar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-12,1586649600.0
-浅谈 DNS 解析与 CDN 原理,ChrAlpha,https://blog.ichr.me/post/how-dns-and-cdn-work/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-11,1586614065.0
-Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0

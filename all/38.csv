@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+2023 Mac mini 外挂硬盘升级方案：打造 2TB 苹果电脑,罗磊的独立博客,https://luolei.org/2023-mac-mini-ssd-upgrade-experience/,https://luolei.org/,https://luolei.org/feed/,2023-06-18,1687105537.0
+1Panel 新一代 Linux 服务器运维管理面板,杜老师说,https://dusays.com/597/,https://dusays.com/,https://dusays.com/atom.xml,2023-06-18,1687104000.0
 记录一次折腾自组 nas 的失败经历-续续续篇,Nicksxs's Blog,https://nicksxs.me/2023/06/18/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E6%8A%98%E8%85%BE%E8%87%AA%E7%BB%84-nas-%E7%9A%84%E5%A4%B1%E8%B4%A5%E7%BB%8F%E5%8E%86-%E7%BB%AD%E7%BB%AD%E7%BB%AD%E7%AF%87/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-06-18,1687094107.0
 特斯拉 Tesla 的最佳伴侣：Teslamate,Another Dayu,https://anotherdayu.com/2023/5185/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-06-18,1687061277.0
 读《经济学原理 - 微观经济学分册》,manateelazycat.github.io,//manateelazycat.github.io/2023/06/18/principles-of-economics/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-06-18,1687046400.0
@@ -30,8 +32,8 @@ win 下 vmware 虚拟机搭建黑裙 nas 的小思路,Nicksxs's Blog,https://nic
 最佳代理实践之机场 (2023-06-04),manateelazycat.github.io,//manateelazycat.github.io/2023/06/04/best-proxy/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-06-04,1685836800.0
 免费使用 ChatGPT-4 的 3 种方法,杜老师说,https://dusays.com/592/,https://dusays.com/,https://dusays.com/atom.xml,2023-06-03,1685808000.0
 ArchLinux 安装 N 卡闭源驱动,manateelazycat.github.io,//manateelazycat.github.io/linux/2023/06/03/nvidia-driver.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-06-03,1685750400.0
-Ubuntu版本升级命令,Frank笔记,http://frank2019.me/archives/ubuntuban-ben-sheng-ji-ming-ling,http://frank2019.me/,https://frank2019.me/rss.xml,2023-06-02,1685726015.0
 Ubuntu版本升级命令,Frank笔记,https://frank2019.me/archives/ubuntuban-ben-sheng-ji-ming-ling,https://frank2019.me/,https://frank2019.me/rss.xml,2023-06-02,1685726015.0
+Ubuntu版本升级命令,Frank笔记,http://frank2019.me/archives/ubuntuban-ben-sheng-ji-ming-ling,http://frank2019.me/,https://frank2019.me/rss.xml,2023-06-02,1685726015.0
 上海咖啡文化周之薅瑞幸羊毛,Honesty·Blog,https://blog.hehouhui.cn/archives/lkcoffee-shanghai-coffee-activities-20230602,https://blog.hehouhui.cn/,https://notion.hehouhui.cn/rss/feed.xml,2023-06-02,1685664000.0
 Capacitor js 使用体验,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/764/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-06-01,1685652023.0
 【Argo】Windows/Linux开机自启配置简记,Luminous' Home,https://luotianyi.vc/7286.html,https://luotianyi.vc,https://luotianyi.vc/feed,2023-06-01,1685581716.0
@@ -47,5 +49,3 @@ Python创建并上传自己的pip依赖包,cywhat's blog,https://cywhat.cn/Pytho
 修改一下我的github,醉里博客,https://202271.xyz/post/36745/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-24,1684944841.0
 Jenkins+Gitee持续集成,Barney's Blog,https://hugo.bnblogs.cc/jenkins-gitee%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684848714.0
 Ubuntu搭建redis集群,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E6%90%AD%E5%BB%BAredis%E9%9B%86%E7%BE%A4/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-05-23,1684827988.0
-Hutool 5.8.8  BeanUtil.copyProperties 致命异常,Honesty·Blog,https://blog.hehouhui.cn/archives/hutool-beanutil-error,https://blog.hehouhui.cn/,https://notion.hehouhui.cn/rss/feed.xml,2023-05-23,1684800000.0
-用脚本部署 Bitwarden 密码管理平台,杜老师说,https://dusays.com/588/,https://dusays.com/,https://dusays.com/atom.xml,2023-05-22,1684771200.0
