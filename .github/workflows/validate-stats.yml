@@ -15,19 +15,19 @@ jobs:
         with:
           ref: master
           fetch-depth: 1
-      
+
       - name: Checkout public branch
         uses: actions/checkout@v2
         with:
           ref: public
           path: ./public
           fetch-depth: 1
-      
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.9'
-      
+
       - name: Validate stats.min.json
         id: validate
         run: |
@@ -41,7 +41,7 @@ jobs:
           fi
           # Save the output for later use
           cat validation_output.txt
-      
+
       - name: Check for existing issue
         id: check_issue
         if: steps.validate.outputs.validation_passed == 'false'
@@ -55,81 +55,94 @@ jobs:
               state: 'open',
               labels: 'stats-validation-error'
             });
-            
+
             if (issues.data.length > 0) {
-              console.log('Found existing open issue with stats-validation-error label');
+              console.log('Found existing open issue');
               core.setOutput('issue_exists', 'true');
               core.setOutput('issue_number', issues.data[0].number);
             } else {
               console.log('No existing open issue found');
               core.setOutput('issue_exists', 'false');
             }
-      
+
       - name: Read validation output
         id: read_output
         if: steps.validate.outputs.validation_passed == 'false'
         run: |
-          # Read the validation output and prepare it for GitHub issue
           VALIDATION_OUTPUT=$(cat validation_output.txt)
           echo "validation_output<<EOF" >> $GITHUB_OUTPUT
           echo "$VALIDATION_OUTPUT" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
-      
+
       - name: Create issue
-        if: steps.validate.outputs.validation_passed == 'false' && steps.check_issue.outputs.issue_exists == 'false'
+        if: |
+          steps.validate.outputs.validation_passed == 'false' &&
+          steps.check_issue.outputs.issue_exists == 'false'
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const validationOutput = `${{ steps.read_output.outputs.validation_output }}`;
-            const issueBody = `## stats.min.json 数据验证失败
-            
-在 public 分支的 stats.min.json 文件中发现数据质量问题。
+            const fs = require('fs');
+            const validationOutput = fs.readFileSync('validation_output.txt', 'utf8');
+            const date = new Date().toISOString().split('T')[0];
 
-### 验证结果
+            const issueBody = [
+              '## stats.min.json 数据验证失败',
+              '',
+              '在 public 分支的 stats.min.json 文件中发现数据质量问题。',
+              '',
+              '### 验证结果',
+              '',
+              '```',
+              validationOutput,
+              '```',
+              '',
+              '### 问题说明',
+              '',
+              'stats.min.json 文件是通过 master 分支的代码生成并放到 public 分支的。上述错误表明数据中存在格式不正确的日期信息。',
+              '',
+              '### 建议修复步骤',
+              '',
+              '1. 检查源数据（CSV文件）中的 date 字段格式',
+              '2. 确保日期格式为标准的 YYYY-MM-DD 格式',
+              '3. 修复 merge_utils.py 和 fetch_utils.py 中的日期解析逻辑（如果需要）',
+              '4. 重新运行数据生成流程',
+              '',
+              '---',
+              '*此 issue 由自动验证工作流创建。*'
+            ].join('\n');
 
-\`\`\`
-${validationOutput}
-\`\`\`
-
-### 问题说明
-
-stats.min.json 文件是通过 master 分支的代码生成并放到 public 分支的。上述错误表明数据中存在格式不正确的日期信息。
-
-### 建议修复步骤
-
-1. 检查源数据（CSV文件）中的 date 字段格式
-2. 确保日期格式为标准的 YYYY-MM-DD 格式
-3. 修复 merge_utils.py 和 fetch_utils.py 中的日期解析逻辑（如果需要）
-4. 重新运行数据生成流程
-
----
-*此 issue 由自动验证工作流创建。*`;
-            
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `stats.min.json 数据验证失败 - ${new Date().toISOString().split('T')[0]}`,
+              title: `stats.min.json 数据验证失败 - ${date}`,
               body: issueBody,
               labels: ['stats-validation-error', 'automated']
             });
-      
+
       - name: Update existing issue
-        if: steps.validate.outputs.validation_passed == 'false' && steps.check_issue.outputs.issue_exists == 'true'
+        if: |
+          steps.validate.outputs.validation_passed == 'false' &&
+          steps.check_issue.outputs.issue_exists == 'true'
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const validationOutput = `${{ steps.read_output.outputs.validation_output }}`;
+            const fs = require('fs');
+            const validationOutput = fs.readFileSync('validation_output.txt', 'utf8');
             const issueNumber = ${{ steps.check_issue.outputs.issue_number }};
-            const commentBody = `## 更新: 验证仍然失败 (${new Date().toISOString().split('T')[0]})
+            const date = new Date().toISOString().split('T')[0];
 
-\`\`\`
-${validationOutput}
-\`\`\`
+            const commentBody = [
+              `## 更新: 验证仍然失败 (${date})`,
+              '',
+              '```',
+              validationOutput,
+              '```',
+              '',
+              '问题仍然存在，请尽快修复。'
+            ].join('\n');
 
-问题仍然存在，请尽快修复。`;
-            
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
