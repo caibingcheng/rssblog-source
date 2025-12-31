@@ -31,7 +31,7 @@ jobs:
       - name: Validate stats.min.json
         id: validate
         run: |
-          # Run validation and capture output
+          # Run validation and capture output (both stdout and stderr for complete error info)
           if python validate_stats.py ./public/stats.min.json > validation_output.txt 2>&1; then
             echo "validation_passed=true" >> $GITHUB_OUTPUT
             echo "Validation passed"
@@ -145,7 +145,7 @@ jobs:
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: parseInt(process.env.ISSUE_NUMBER),
+              issue_number: Number(process.env.ISSUE_NUMBER),
               body: commentBody
             });
         env:
