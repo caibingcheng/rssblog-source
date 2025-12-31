@@ -134,7 +134,25 @@ def split_date(rss_fetch_date_dir, rss_fetch_all_dir):
     df = pandas.read_csv(rss_fetch_all_dir + "/new.csv", encoding="utf-8")
     dfd = {}
     for i, d in df.iterrows():
-        year_month = d["date"][0:4] + d["date"][5:7]
+        # Validate date format before slicing
+        date_str = str(d["date"])
+        if len(date_str) < 10 or date_str[4] != "-" or date_str[7] != "-":
+            print(f"Warning: Invalid date format '{date_str}' at row {i}, skipping")
+            continue
+        # Extract year and month directly
+        year_str = date_str[0:4]
+        month_str = date_str[5:7]
+        # Validate year and month are numeric and reasonable
+        try:
+            year = int(year_str)
+            month = int(month_str)
+            if year < 1970 or year > 2100 or month < 1 or month > 12:
+                print(f"Warning: Invalid year/month '{year_str}-{month_str}' from date '{date_str}' at row {i}, skipping")
+                continue
+        except ValueError:
+            print(f"Warning: Non-numeric year/month '{year_str}-{month_str}' from date '{date_str}' at row {i}, skipping")
+            continue
+        year_month = year_str + month_str
         if year_month not in dfd.keys():
             dfd[year_month] = []
         dfd[year_month].append(i)
