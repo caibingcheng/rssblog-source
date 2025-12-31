@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-/bin/sh: python: not found 问题的解决,Frank笔记,https://frank2019.me/archives/bin-sh-python-not-found-wen-ti-de-jie-jue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-29,1603949280.0
-配置一个简洁，高效的zsh,无妄当自持,https://www.insidentally.com/articles/000002/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-29,1603933662.0
-ServerStatus中文版部署,Frank笔记,https://frank2019.me/archives/serverstatuszhong-wen-ban-bu-shu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-27,1603776360.0
-安装使用hexo,无妄当自持,https://www.insidentally.com/articles/000001/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-27,1603760862.0
-云主机需哪些安全设置,杜老师说,https://dusays.com/276/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-26,1603728000.0
-Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
-回广州一年有感,4Ark × Blog,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
-通过阳台种菜实现蔬菜自由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
-VPS 云主机测试脚本,杜老师说,https://dusays.com/275/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-23,1603468800.0
-✳️ Vi/Vim使用备忘,qinxs小站,https://7bxing.com/posts/b04c6f46/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-10-23,1603435073.0
-写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-22,1603404285.0
-公共 DNS 服务器地址,杜老师说,https://dusays.com/274/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-20,1603209600.0
-【工具系列】Lombok,框架師,https://www.mobaijun.com/posts/529462236.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-10-20,1603200487.0
-从GORM里学习到的panic处理方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
-写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
-How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-18,1602993600.0
-坏公司的鉴别方法,杜老师说,https://dusays.com/273/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-17,1602950400.0
-记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
-Go使用闭包简化数据库操作代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0
-群晖中 Transmission 替换中文界面,杜老师说,https://dusays.com/272/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-14,1602691200.0
-国庆成都之行,Frank笔记,https://frank2019.me/archives/guo-qing-cheng-du-zhi-xing,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-14,1602652980.0
-Hugo系列(4) - 从Hexo迁移至Hugo以及使用LoveIt主题的踩坑记录,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-4.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-12,1602516495.0
-群晖 NAS 安装 Transmission,杜老师说,https://dusays.com/271/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-11,1602432000.0
-Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-3.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-11,1602393076.0
-Hugo系列(2) - 通过配置文件来定制个人站点,Yulin Lewis' Blog,https://lewky.cn/posts/hugo-2.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-10-10,1602317338.0
-TCMalloc设计文档学习,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
-免费获取 EU.org 顶级域名,岚天小窝,https://blog.ltya.top/posts/eu-org.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-10-08,1602172800.0
-Linux 中酷炫的终端应用程序二,杜老师说,https://dusays.com/270/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-08,1602172800.0
-免费获取 EU.org 顶级域名,岚天小窝,http://blog.ltya.top/posts/eu-org.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-10-08,1602172800.0
-如何从 Valine 迁移至 Disqus,云游君的小站,https://www.yunyoujun.cn/posts/migrate-from-valine-to-disqus,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-06,1601996953.0
-Understand Liveness and Fairness in TLA+,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-06-Understand-Liveness-and-Fairness-in-TLA.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-06,1601956800.0
-如果这还都还不算抄袭的话,ChrAlpha,https://blog.ichr.me/post/monologue-of-a-rubbish/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-05,1601937406.0
-Linux 中酷炫的终端应用程序一,杜老师说,https://dusays.com/269/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-05,1601913600.0
-博客新增公开笔记部分,萤火之森,http://frankorz.com/2020/10/03/add-note-section-to-blog/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-10-03,1601740410.0
-如何从 Valine 迁移至 Disqus,云游君的小站,https://www.yunyoujun.cn/posts/migrate-from-valine-to-disqus/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-03,1601708953.0
-九月总结,4Ark × Blog,https://4ark.me/post/d33db2d3.html,https://4ark.me/,https://4ark.me/rss.xml,2020-10-03,1601687752.0
-VMware Workstation 16 Pro 许可证分享,杜老师说,https://dusays.com/268/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-02,1601654400.0
-观测者：数据爬虫与处理，历史数据可视化视频与用户排名,FlyingSky's Blog,https://blog.fsky7.com/archives/167/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-10-02,1601651280.0
-VMware Workstation 16 Pro 新功能,杜老师说,https://dusays.com/267/,https://dusays.com/,https://dusays.com/atom.xml,2020-09-29,1601395200.0
-写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-09-29,1601337600.0
-ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601321597.0
-写给 VS Code 用户的 Vim 入坑指南,Ahonn's Blog,https://www.ahonn.me/blog/the-vim-guide-for-vs-code-users,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
-写给 VS Code 用户的 Vim 入坑指南,Yuexun's Blog,https://yuexunjiang.me/blog/the-vim-guide-for-vs-code-users,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-09-28,1601311808.0
-ADV 游戏引擎计划,云游君的小站,https://www.yunyoujun.cn/posts/make-an-avg-engine/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-09-28,1601292797.0
-最大剥削策略,Frank笔记,https://frank2019.me/archives/zui-da-bo-xue-ce-lue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-09-27,1601184000.0
-Flask和requests做一个简单的请求代理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_27-flask_proxy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-27,1601164800.0
-群晖 NAS 添加社群套件源,杜老师说,https://dusays.com/266/,https://dusays.com/,https://dusays.com/atom.xml,2020-09-26,1601136000.0
-借助 Magisk 优化/个性化 Android 中文字体显示效果,ChrAlpha,https://blog.ichr.me/post/improve-android-font-style-with-magisk/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-09-25,1601064971.0
-群晖 NAS 的套件介绍「全套件篇」,杜老师说,https://dusays.com/265/,https://dusays.com/,https://dusays.com/atom.xml,2020-09-23,1600876800.0
-<蛤蟆先生去看心理医生>思维导图,Frank笔记,https://frank2019.me/archives/ha-ma-xian-sheng-qu-kan-xin-li-yi-sheng-si-wei-dao-tu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-09-22,1600751940.0
+【Java基础】Java-多线程,框架師,https://www.mobaijun.com/posts/3237902709.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-01-06,1609930602.0
+Mac 电脑如何重新安装 macOS,杜老师说,https://dusays.com/299/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-04,1609776000.0
+openSUSE 使用指南,This Cute World,https://thiscute.world/posts/opensuse-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2021-01-04,1609720941.0
+deeplink结合路由处理扩展App的能力,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_03-deeplink_server_route.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-03,1609632000.0
+『给RSS爱好者们的一封信』为什么我们应该提高RSS刷新间隔？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/rss-refresh.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-01-02,1609578180.0
+Android手动挡MVVM,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_01_02-android_mvvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-01-02,1609545600.0
+是否需要为群晖购买 SSD 加速缓存,杜老师说,https://dusays.com/298/,https://dusays.com/,https://dusays.com/atom.xml,2021-01-01,1609516800.0
+2020 年度总结,4Ark × Blog,https://4ark.me/posts/2020-summary.html,https://4ark.me/,https://4ark.me/rss.xml,2021-01-01,1609514622.0
+年度简报 - 2020 | 等待,FlyingSky's Blog,https://blog.fsky7.com/archives/175/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-12-31,1609430400.0
+【工具系列】常用工具汇总,框架師,https://www.mobaijun.com/posts/1664035384.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-31,1609403450.0
+二〇二〇年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2020-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
+2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
+二〇二〇年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
+使用 linux 操作系统，如何优化固态硬盘使用体验,无妄当自持,https://www.insidentally.com/articles/000007/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-30,1609344203.0
+【工具系列】StarUML软件使用,框架師,https://www.mobaijun.com/posts/3077971711.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-30,1609324389.0
+【随笔】完整的Java学习路线,框架師,https://www.mobaijun.com/posts/2907784405.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-30,1609323414.0
+群晖硬盘选择,杜老师说,https://dusays.com/297/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-29,1609257600.0
+运行在云主机的 Hexo,杜老师说,https://dusays.com/296/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-26,1608998400.0
+友链墙,Yulin Lewis' Blog,https://lewky.cn/friends/,https://lewky.cn/,https://lewky.cn/index.xml,2020-12-26,1608991304.0
+用 Code Snippet 提高开发效率,Randy's Blog,https://lutaonan.com/blog/how-to-use-code-snippets/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-12-25,1608854400.0
+【WEB系列】SpirngBoot整合Swagger,框架師,https://www.mobaijun.com/posts/1981059771.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-24,1608801968.0
+【随笔】年终总结,框架師,https://www.mobaijun.com/posts/521709994.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-24,1608801202.0
+群晖 NAS 的选择,杜老师说,https://dusays.com/295/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-23,1608739200.0
+来电拦截方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_23-call_screening.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-23,1608681600.0
+你好，2021！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_22-hello_2021.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-22,1608595200.0
+Apache 主配置、站点配置文件参考,杜老师说,https://dusays.com/294/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-20,1608480000.0
+常用Git相关命令行,沐云湘夕—求索,https://quest.myxxts.club/archives/28/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608441060.0
+必应每日壁纸（刷新更换）,沐云湘夕—求索,https://quest.myxxts.club/archives/25/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608440340.0
+爱上Go语言：常量与枚举,游钓四方,https://blog.lhasa.icu/posts/technology/2020-12-19-golang-consts,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-12-19,1608348360.0
+gRPC鉴权方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_19-grpc_authentication.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-19,1608336000.0
+如何使用 Git,无妄当自持,https://www.insidentally.com/articles/000006/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-18,1608286030.0
+爱上Go语言：变量定义与内建变量类型,游钓四方,https://blog.lhasa.icu/posts/technology/2020-12-18-golang-variable,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-12-18,1608263160.0
+IPv4 子网查询表,杜老师说,https://dusays.com/293/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-17,1608220800.0
+站点通知,沐云湘夕,https://quest.myxxts.club/archives/15/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-17,1608218940.0
+Golang里数据库migration方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800.0
+HTTP 状态码参考,杜老师说,https://dusays.com/292/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-14,1607961600.0
+Redis Implementation for Cache and Database Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-12-14-Redis-Implementation-for-Cache-and-Database-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-12-14,1607922000.0
+2020 年年终总结,This Cute World,https://thiscute.world/posts/2020-summary/,https://thiscute.world/,https://thiscute.world/index.xml,2020-12-12,1607787900.0
+【Hexo】Hexo matery主题评论系统valine改版记录,框架師,https://www.mobaijun.com/posts/4026840102.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-12,1607747873.0
+如何找到你朋友的社交账号,云游君的小站,https://www.yunyoujun.cn/posts/find-npy-social-account,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-12-12,1607731380.0
+Android SwipeRefreshLayout左右滑动冲突的解决,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_12-android_swiperefresh_swipe_left_right.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-12,1607731200.0
+通过 Watchtower 实现 Docker 容器自动更新,杜老师说,https://dusays.com/291/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-11,1607702400.0
+建立集中式 Clash 网关,杜老师说,https://dusays.com/290/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-08,1607443200.0
+Android调用gRPC的两个小工具函数,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_07-android_kotlin_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-07,1607299200.0
+程序員與文學衝突,Just lepture,https://lepture.com/zh/2020/tweet-yuan,https://lepture.com/,https://lepture.com/feed.xml,2020-12-06,1607235718.0
+通过 Docker 部署 AdGuard Home 实战,杜老师说,https://dusays.com/289/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-05,1607184000.0
+【DB系列】InfluxDB,框架師,https://www.mobaijun.com/posts/2901774056.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-04,1607048712.0
+Docker 套件的功能介绍,杜老师说,https://dusays.com/288/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-02,1606924800.0
+Android上结合kotlin使用coroutine,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_01-android_kotlin_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-01,1606780800.0
+Mac 上配置 MNMP 环境,4Ark × Blog,https://4ark.me/post/41f45ee.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-30,1606772294.0

@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-设计一个路由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_28-router_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-28,1517097600.0
-Go语言性能优化实战,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_22-golang_optimization.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-22,1516579200.0
-那些年开发的时候踩过的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_14-pitfalls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-14,1515888000.0
-Announcement of Authlib,Just lepture,https://lepture.com/en/2018/announcement-of-authlib,https://lepture.com/,https://lepture.com/feed.xml,2018-01-08,1515417697.0
-(关系型)数据库优化总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_08-db_optimizations.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-08,1515369600.0
-动态规划民科教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_04-dynamic_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-04,1515024000.0
-2017 年终总结,Randy's Blog,https://lutaonan.com/blog/2017-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-01-03,1514937600.0
-2017 年终总结,Randy's Blog,https://lutaonan.com/blog/2017-summary,https://lutaonan.com,https://lutaonan.com/rss.xml,2018-01-03,1514937600.0
-全球首发开箱:QQ阅读电子书・易,罗磊的独立博客,https://luolei.org/qqread-elink-reader-yi-2018-review,https://luolei.org,https://luolei.org/feed/,2017-12-31,1514678400.0
-Golang 分布式异步任务队列 Machinery 教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_30-golang_task_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-30,1514592000.0
-2017 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2017-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2017-12-29,1514505600.0
-使用geohash完成地理距离计算,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_27-geohash.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-27,1514332800.0
-YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-me-money/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-12-26,1514283748.0
-我的云账单:2017篇,罗磊的独立博客,https://luolei.org/how-much-i-spend-on-cloud-monthly-2017,https://luolei.org,https://luolei.org/feed/,2017-12-26,1514246400.0
-永远相信美好的事情即将发生,云游君的小站,https://www.yunyoujun.cn/posts/after-graduate-exam,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-12-25,1514240096.0
-2018年就要到了，这一年都做了什么呢？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_20-2017_is_over_and_2018_is_coming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-20,1513728000.0
-美国银行开户攻略 | Bank Of America | 视频 + 图文 | 2020更新,罗磊的独立博客,https://luolei.org/open-bank-account-in-usa-b1-b2-visa,https://luolei.org,https://luolei.org/feed/,2017-12-20,1513728000.0
-寻路算法-贪婪最佳优先算法,萤火之森,http://frankorz.com/2017/12/16/greedy-best-find-search/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-12-16,1513466667.0
-鱼与熊掌,云游君的小站,https://www.yunyoujun.cn/posts/life-and-work,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-12-11,1512997805.0
-蔡司 | 大地8x25ED 便携望远镜: 蓝标魅力，旅行神器,罗磊的独立博客,https://luolei.org/zeiss-terra-8x25-binocular,https://luolei.org,https://luolei.org/feed/,2017-12-11,1512950400.0
-200块买了块国产表:上海钻石牌504机械秒表,罗磊的独立博客,https://luolei.org/shanghai-diamond-stopwatch-type-504,https://luolei.org,https://luolei.org/feed/,2017-12-08,1512691200.0
-算法导论阅读笔记 --- 排序算法,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_12_02-algorithms_sorting.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-12-02,1512172800.0
-Git HTTPS 如何保存密码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_29-git_credential_store.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-29,1511913600.0
-程序员修炼之道 阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_13-the_programmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-13,1510531200.0
-人生本该如此。,云游君的小站,https://www.yunyoujun.cn/posts/that-is-what-life-should-be,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-11-11,1510432186.0
-Python开发实践经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_11_04-python_develop_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-11-04,1509753600.0
-三藩記,Just lepture,https://lepture.com/zh/2017/san-francisco-trip,https://lepture.com/,https://lepture.com/feed.xml,2017-11-02,1509637087.0
-300美元买了个雷电3拓展坞: OWC Thunderbolt 3 Dock,罗磊的独立博客,https://luolei.org/owc-thunderbolt-3-dock,https://luolei.org,https://luolei.org/feed/,2017-10-28,1509148800.0
-Golang实现平滑重启(优雅重启),Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_25-golang_graceful_restart.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-25,1508889600.0
-traefik 教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_24-traefik.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-24,1508803200.0
-Web开发系列(十)：事务和锁,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_19-web_dev_part10.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-19,1508371200.0
-Web开发系列(八)：单点故障，负载均衡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_18-web_dev_part8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-18,1508284800.0
-Web开发系列(五)：form， json， xml,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_17-web_dev_part5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-17,1508198400.0
-Web开发系列(四)：Flask， Tornado和WSGI,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_16-web_dev_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-16,1508112000.0
-海信A2 Pro:一部给喜欢阅读的人准备的手机,罗磊的独立博客,https://luolei.org/hisense-a2-pro-unboxing,https://luolei.org,https://luolei.org/feed/,2017-10-16,1508112000.0
-Discourse 新一代开源论坛,云游君的小站,https://www.yunyoujun.cn/posts/discourse-forum,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-10-15,1508089086.0
-Web开发系列(三)：什么是HTML，CSS，JS？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_15-web_dev_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-15,1508025600.0
-佐渡與阿賀町記,Just lepture,https://lepture.com/zh/2017/sado-and-ago,https://lepture.com/,https://lepture.com/feed.xml,2017-10-14,1507984443.0
-Web开发系列(二)：HTTP协议,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_14-web_dev_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-14,1507939200.0
-Web开发系列(一)：从输入网址到最后，这个过程经历了什么？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_13-web_dev_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-13,1507852800.0
-Coding WebIDE 云端开发实验室,云游君的小站,https://www.yunyoujun.cn/posts/coding-webide-dev-env,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-10-11,1507738872.0
-SNI: 让Nginx在一个IP上使用多个证书,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_11-sni.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-11,1507680000.0
-週記，九月末,Just lepture,https://lepture.com/zh/2017/weekly-20170930,https://lepture.com/,https://lepture.com/feed.xml,2017-10-01,1506864165.0
-前端的基礎修養：ARIA Live Regions,Just lepture,https://lepture.com/zh/2017/fe-live-regions,https://lepture.com/,https://lepture.com/feed.xml,2017-09-27,1506505200.0
-Haskell: infixl， infixr， infix,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_27-haskell_infix.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-27,1506470400.0
-Haskell简明教程（五）：处理JSON,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_26-learn_you_a_haskell_part_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-26,1506384000.0
-Haskell简明教程（四）：Monoid， Applicative， Monad,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_25-learn_you_a_haskell_part_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-25,1506297600.0
-3D数学基础-矩阵变换（二）,萤火之森,http://frankorz.com/2017/09/24/matrix-transformation-2/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-09-24,1506273229.0
-週記，九月三週,Just lepture,https://lepture.com/zh/2017/weekly-20170924,https://lepture.com/,https://lepture.com/feed.xml,2017-09-24,1506252839.0
-像夏花一样绚烂,云游君的小站,https://www.yunyoujun.cn/posts/as-summer-flowers,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-09-23,1506202608.0
+2018 香港流行音乐推介,Randy's Blog,https://lutaonan.com/blog/2018-cantonpop-list/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-12-19,1545177600.0
+Prometheus MySQL Exporter源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_16-prometheus_mysqld_exporter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-16,1544918400.0
+MySQL性能指标,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_13-db_metrics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-13,1544659200.0
+使用Dropbox来备份服务器文件,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_12-use_dropbox_to_backup_server.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-12,1544572800.0
+《计算机网络-系统方法》读书笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_10-computer_network_systems_approach.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-10,1544400000.0
+1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/notebook/12,https://blog.fsky7.com,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
+1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/archives/37/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
+Y Combinator《如何创业》笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_08-yc_startup.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-08,1544227200.0
+每个创作者都应该有张人体工学梯:西昊M60,罗磊的独立博客,https://luolei.org/my-office-chair-2018,https://luolei.org,https://luolei.org/feed/,2018-12-05,1543968000.0
+Go类型嵌套,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_01-go_embedding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-01,1543622400.0
+etcd源码阅读与分析（五）：mvcc,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_28-etcd_source_code_analysis_mvvc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-28,1543363200.0
+etcd源码阅读与分析（四）：lease,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_27-etcd_source_code_analysis_lease.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-27,1543276800.0
+干了这碗叔本华牌毒鸡汤 --- 《人生的智慧》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_26-the_wisdom_of_life_on_human_nature.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-26,1543190400.0
+菲律宾 | 18米深蓝:薄荷岛&宿务 OW潜水旅行,罗磊的独立博客,https://luolei.org/travel-philippines-bohol,https://luolei.org,https://luolei.org/feed/,2018-11-26,1543190400.0
+Memory leak in net/http,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_24-memory_leak_in_net_http.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
+每个UP主都应该有个监视器 | 艾肯HH7 | ZUOLUOTV,罗磊的独立博客,https://luolei.org/ikan-portkeys-hh7-montor,https://luolei.org,https://luolei.org/feed/,2018-11-22,1542844800.0
+etcd源码阅读与分析（二）：raft,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_22-etcd_source_code_analysis_raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-22,1542844800.0
+etcd源码阅读与分析（一）：raftexample,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_20-etcd_source_code_analysis_raftexample.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-20,1542672000.0
+虚拟机里的Ubuntu sudo时卡住,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_18-ubuntu_sudo_hang.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-18,1542499200.0
+new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-11-17,1542486792.0
+new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-11-17,1542412800.0
+Go访问私有变量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_16-go_private_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
+避免全局变量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_15-avoid_global_states.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-15,1542240000.0
+Go的unsafe包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_13-golang_package_unsafe.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-13,1542067200.0
+Golang中实现禁止拷贝,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
+人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0
+Golang的反射,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_10-golang_reflection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
+把网站去掉CSS之后,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_09-drop_css.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-09,1541721600.0
+参观神州第一舰 | 中国海军深圳舰开放日 | VLOG19,罗磊的独立博客,https://luolei.org/china-pla-navy-167-ship-open-day,https://luolei.org,https://luolei.org/feed/,2018-11-09,1541721600.0
+处理并发的方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_07-concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-07,1541548800.0
+常见的索引方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_02-index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-02,1541116800.0
+Golang 实践经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_01-golang_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-01,1541030400.0
+恋爱证明记,云游君的小站,https://www.yunyoujun.cn/posts/proof-of-love,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-10-31,1541024061.0
+西藏 | 骑行川藏四千里:2012年的青春影像,罗磊的独立博客,https://luolei.org/tibet-road-2012,https://luolei.org,https://luolei.org/feed/,2018-10-31,1540944000.0
+每个创作者都应该有张木桌:Timerecorder 时计 | VLOG18,罗磊的独立博客,https://luolei.org/my-desk-2018,https://luolei.org,https://luolei.org/feed/,2018-10-30,1540857600.0
+解决ubuntu：E：无法获得锁(11：资源暂时不可用),游钓四方,https://blog.lhasa.icu/posts/technology/2018-10-25-ubuntu-lock,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-10-25,1540457040.0
+开源分布式管理控制系统 —— Git 笔记,游钓四方,https://blog.lhasa.icu/posts/technology/2018-10-25-git,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-10-25,1540427460.0
+(转)论胡编乱造的写作技巧,游钓四方,https://blog.lhasa.icu/posts/life/2018-10-24-theory-of-means,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-10-24,1540356240.0
+高性能MySQL笔记第一章,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_23-high_performance_mysql_chap1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-23,1540252800.0
+SliderMini:可能是2018最值得期待的便携滑轨  | ZUOLUOTV | VLOG17,罗磊的独立博客,https://luolei.org/smartta-slidermini-review,https://luolei.org,https://luolei.org/feed/,2018-10-23,1540252800.0
+更换了域名、邮箱并修复了移动端 Bug,游钓四方,https://blog.lhasa.icu/posts/technology/2018-10-21-domain-name,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-10-21,1540107840.0
+面试的一些技巧,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_21-interview_techniques.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-21,1540080000.0
+雅西卡 YASHICA Y35 | 编号740,罗磊的独立博客,https://luolei.org/yashica-y35-camera,https://luolei.org,https://luolei.org/feed/,2018-10-17,1539734400.0
+HTTP/2 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_13-http2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-13,1539388800.0
+编程五年:我辞职了,罗磊的独立博客,https://luolei.org/new-journey,https://luolei.org,https://luolei.org/feed/,2018-10-10,1539129600.0
+我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0
+我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school,https://lutaonan.com,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0
+UTAU插件:一键描点 使用帮助,FlyingSky's Blog,https://blog.fsky7.com/technology/77,https://blog.fsky7.com,https://blog.fsky7.com/feed,2018-10-01,1538366400.0
+Linux 命令笔记,游钓四方,https://blog.lhasa.icu/posts/technology/2018-09-24-linux-command,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-09-24,1537764240.0
+独立运营博客一年的一些数据分享,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
