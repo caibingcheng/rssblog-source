@@ -11,13 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout master branch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           ref: master
           fetch-depth: 1
 
       - name: Checkout public branch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           ref: public
           path: ./public
@@ -130,7 +130,6 @@ jobs:
           script: |
             const fs = require('fs');
             const validationOutput = fs.readFileSync('validation_output.txt', 'utf8');
-            const issueNumber = ${{ steps.check_issue.outputs.issue_number }};
             const date = new Date().toISOString().split('T')[0];
 
             const commentBody = [
@@ -146,6 +145,8 @@ jobs:
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: issueNumber,
+              issue_number: parseInt(process.env.ISSUE_NUMBER),
               body: commentBody
             });
+        env:
+          ISSUE_NUMBER: ${{ steps.check_issue.outputs.issue_number }}

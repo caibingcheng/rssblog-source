@@ -9,13 +9,18 @@ import sys
 import re
 
 
+# Pre-compile regex patterns for better performance
+YEAR_PATTERN = re.compile(r'^\d{4}$')
+MONTH_PATTERN = re.compile(r'^\d{2}$')
+
+
 def validate_year_format(year):
     """
     Validate that year is a 4-digit number representing a valid year.
     Returns (is_valid, error_message)
     """
     # Year should be exactly 4 digits
-    if not re.match(r'^\d{4}$', str(year)):
+    if not YEAR_PATTERN.match(str(year)):
         return False, f"Invalid year format: '{year}' (expected 4-digit year like '2025')"
     
     # Check if year is in reasonable range (1970-2100)
@@ -32,7 +37,7 @@ def validate_month_format(month):
     Returns (is_valid, error_message)
     """
     # Month should be exactly 2 digits
-    if not re.match(r'^\d{2}$', str(month)):
+    if not MONTH_PATTERN.match(str(month)):
         return False, f"Invalid month format: '{month}' (expected 2-digit month like '01')"
     
     # Check if month is in valid range (01-12)
@@ -57,6 +62,8 @@ def validate_stats_file(stats_path):
         return False, [f"Stats file not found: {stats_path}"]
     except json.JSONDecodeError as e:
         return False, [f"Invalid JSON in stats file: {e}"]
+    except (PermissionError, OSError) as e:
+        return False, [f"Error reading stats file: {e}"]
     
     # Check if required keys exist
     if "urls" not in stats:
