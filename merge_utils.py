@@ -171,6 +171,10 @@ def merge_date(rss_out_date_dir, rss_fetch_date_dir, url=URL):
         except ValueError:
             print(f"Warning: Non-numeric year/month in directory '{date_dir}', skipping")
             continue
+        # Check if fetch directory has valid data before creating output directory
+        if not os.path.exists(fetch + "new.csv"):
+            print(f"Warning: No data file found in '{date_dir}', skipping")
+            continue
         if not os.path.isdir(out):
             os.makedirs(out)
         batch_num = merge(out, fetch)
