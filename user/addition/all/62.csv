@@ -1,4 +1,17 @@
 title,author,link,home,rss,date,timestamp
+二〇二〇年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2020-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
+二〇二〇年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
+【工具系列】StarUML软件使用,框架師,https://www.mobaijun.com/posts/3077971711.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-30,1609324389.0
+【随笔】完整的Java学习路线,框架師,https://www.mobaijun.com/posts/2907784405.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-30,1609323414.0
+用 Code Snippet 提高开发效率,Randy's Blog,https://lutaonan.com/blog/how-to-use-code-snippets/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-12-25,1608854400.0
+【WEB系列】SpirngBoot整合Swagger,框架師,https://www.mobaijun.com/posts/1981059771.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-24,1608801968.0
+【随笔】年终总结,框架師,https://www.mobaijun.com/posts/521709994.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-24,1608801202.0
+来电拦截方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_23-call_screening.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-23,1608681600.0
+你好，2021！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_22-hello_2021.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-22,1608595200.0
+常用Git相关命令行,沐云湘夕—求索,https://quest.myxxts.club/archives/28/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608441060.0
+必应每日壁纸（刷新更换）,沐云湘夕—求索,https://quest.myxxts.club/archives/25/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608440340.0
+爱上Go语言：常量与枚举,游钓四方,https://blog.lhasa.icu/posts/technology/2020-12-19-golang-consts,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-12-19,1608348360.0
+gRPC鉴权方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_19-grpc_authentication.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-19,1608336000.0
 爱上Go语言：变量定义与内建变量类型,游钓四方,https://blog.lhasa.icu/posts/technology/2020-12-18-golang-variable,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-12-18,1608263160.0
 站点通知,沐云湘夕,https://quest.myxxts.club/archives/15/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-17,1608218940.0
 Golang里数据库migration方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800.0
@@ -22,8 +35,8 @@ Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,http
 gRPC错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_26-grpc_error_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-26,1606348800.0
 从 Vite 与 Vue 开始的 D3 数据可视化之旅,云游君的小站,https://www.yunyoujun.cn/posts/vue-d3-demo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-21,1605988569.0
 从 Vite 与 Vue 开始的 D3 数据可视化之旅,云游君的小站,https://www.yunyoujun.cn/posts/vue-d3-demo/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-21,1605959769.0
-这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯,罗磊的独立博客,https://luolei.org/warsun-portable-y40-led-light/,http://luolei.org/,https://luolei.org/feed/,2020-11-20,1605876282.0
 这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯,罗磊的独立博客,http://luolei.org/warsun-portable-y40-led-light/,https://luolei.org/,https://luolei.org/feed/,2020-11-20,1605876282.0
+这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯,罗磊的独立博客,https://luolei.org/warsun-portable-y40-led-light/,http://luolei.org/,https://luolei.org/feed/,2020-11-20,1605876282.0
 老鞋续命，我给一双穿了5年的沙漠靴修鞋底,罗磊的独立博客,https://luolei.org/clarks-desert-boot-resole/,https://luolei.org/,https://luolei.org/feed/,2020-11-17,1605622348.0
 带老婆去华强北买 iPhone 12 手机壳,罗磊的独立博客,https://luolei.org/iphone-shell-supermarket/,https://luolei.org/,https://luolei.org/feed/,2020-11-14,1605326464.0
 Java collection的结构,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_13-java_colletions.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-13,1605225600.0
@@ -36,16 +49,3 @@ Java collection的结构,Jiajun的技术笔记,https://jiajunhuang.com/articles/
 DNS Resolving Bug in iOS 14,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-08-DNS-Resolving-Bug-in-iOS-14.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-08,1604811600.0
 【工具系列】常用开发软件配置,框架師,https://www.mobaijun.com/posts/1002246177.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-11-07,1604749676.0
 为什么 HugePages 可以提升数据库性能,面向信仰编程,https://draveness.me//whys-the-design-linux-hugepages,https://draveness.me/,https://draveness.me/feed.xml,2020-11-04,1604448000.0
-十月总结,4Ark × Blog,https://4ark.me/post/edb9a744.html,https://4ark.me/,https://4ark.me/rss.xml,2020-11-03,1604440173.0
-Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-02-Use-TLA+-to-Verify-Cache-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-02,1604293200.0
-为啥Redis使用pipelining会更快？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
-/bin/sh: python: not found 问题的解决,Frank笔记,https://frank2019.me/archives/bin-sh-python-not-found-wen-ti-de-jie-jue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-29,1603949280.0
-ServerStatus中文版部署,Frank笔记,https://frank2019.me/archives/serverstatuszhong-wen-ban-bu-shu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-27,1603776360.0
-Tasker 根据日出日落自动化暗色模式（以一加为例）,ChrAlpha,https://blog.ichr.me/post/oneplus-auto-darkmode/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-10-24,1603550295.0
-回广州一年有感,4Ark,https://4ark.me/posts/hui-guang-zhou-yi-nian-you-gan/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-24,1603499894.0
-通过阳台种菜实现蔬菜自由,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_24-vegetable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-24,1603497600.0
-写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-22,1603404285.0
-【工具系列】Lombok,框架師,https://www.mobaijun.com/posts/529462236.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-10-20,1603200487.0
-从GORM里学习到的panic处理方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
-写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
-How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-18,1602993600.0
