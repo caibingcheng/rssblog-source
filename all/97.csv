@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-04-13,1586812489.0
 [博客通报] 切换评论系统至 Disqus,ChrAlpha,https://blog.ichr.me/notice/change-comment-system-into-disqus/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-13,1586811001.0
 FreeBSD ipfw使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_13-freebsd_ipfw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-13,1586736000.0
 Golang expvar库源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_12-expvar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-12,1586649600.0
@@ -48,4 +49,3 @@ Redis使用中的几点注意事项,Jiajun的技术笔记,https://jiajunhuang.co
 Java的远程调试Remote Debug,雨临Lewis,https://lewky.cn/posts/java-remote-debug.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-03-17,1584459040.0
 深圳电信宽带 / 常用公共 DNS、VPS / 性能 & 稳定性 / 实时监控数据,罗磊的独立博客,https://luolei.org/shenzhen-chinanet-public-dns-realtime-benchmark,https://luolei.org,https://luolei.org/feed/,2020-03-17,1584403200.0
 Hexo 图片 lazyload 的更优尝试,ChrAlpha,https://blog.ichr.me/post/hexo-better-image-lazyload/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-16,1584381969.0
-IIS 启用目录浏览功能项,杜老师说,https://dusays.com/201/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-15,1584288000.0
