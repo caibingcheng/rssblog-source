@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Site.webmanifest异常处理,cywhat's blog,https://cywhat.cn/site.webmanifest%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-12-14,1639466088.0
 docker常见操作命令,Barney's Blog,https://hugo.bnblogs.cc/ubuntu%E4%B8%8A%E7%9A%84docker%E6%93%8D%E4%BD%9C/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2021-12-13,1639397427.0
 添加了一些WebAPI,BBing's Blog,https://bbing.com.cn/202112/webapi-descriptor/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2021-12-13,1639364463.0
 npm 存在的问题以及 pnpm 是怎么处理的,Yuexun's Blog,https://yuexunjiang.me/blog/problems-with-npm-and-how-pnpm-handles-them/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-12-13,1639353600.0
@@ -48,4 +49,3 @@ VPS连接优化,Frank笔记,https://frank2019.me/articles/2021/11/22/16375539998
 Navicat使用汇总,Yulin Lewis' Blog,https://lewky233.top/posts/navicat/,https://lewky233.top/,https://lewky.cn/index.xml,2021-11-20,1637422008.0
 Navicat使用汇总,Yulin Lewis' Blog,https://lewky.cn/posts/navicat/,https://lewky.cn/,https://lewky.cn/index.xml,2021-11-20,1637422008.0
 使用 systemd 控制您的计算机时间和日期,无妄当自持,https://www.insidentally.com/articles/000021/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-11-20,1637373099.0
-《Go 语言设计与实现》纸质书预售了！,面向信仰编程,https://draveness.me//golang-book-release,https://draveness.me/,https://draveness.me/feed.xml,2021-11-20,1637366400.0

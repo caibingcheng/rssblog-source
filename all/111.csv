@@ -1,11 +1,12 @@
 title,author,link,home,rss,date,timestamp
+Go Module 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_03-go_module.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-03,1535932800.0
 写了一个Telegram Bot：自动化分享高质量内容,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_02-write_a_tgbot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-02,1535846400.0
 Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-vim_speed_up.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 (转)如何学习开源项目,游钓四方,https://blog.lhasa.icu/posts/technology/2018-08-31-learning-the-open-source,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-08-31,1535693280.0
 为什么你写不好一个快速排序? 谈程序员的职业发展,游钓四方,https://blog.lhasa.icu/posts/technology/2018-08-31-programmer-development,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-08-31,1535679840.0
 Ubuntu 18.04 下安装 Sublime Text3 并解决它的疑难杂症,游钓四方,https://blog.lhasa.icu/posts/technology/2018-08-30-ubuntu-set-up-sublime,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-08-29,1535558460.0
 Web后端工程师进阶指南(2018),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
-How to implement fork syscall in Golang?,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
+macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 关于运营的思考-运营要怎么做？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_26-about_traffic.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-26,1535241600.0
 Python中实现单例模式的n种方式和原理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
 Golang defer中修改返回值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_23-go_defer_named_return_values.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-23,1534982400.0
@@ -48,4 +49,3 @@ Docker CE 18.03源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.c
 容器时代的日志处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_12-docker_logging.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-12,1523491200.0
 Golang和Thrift,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_10-golang_thrift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-10,1523318400.0
 加拿大 | 我可能办了一个「假」的十年多次签证,罗磊的独立博客,https://luolei.org/canada-visa-2018,https://luolei.org,https://luolei.org/feed/,2018-04-08,1523145600.0
-折腾Kubernetes,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_05-kubernetes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-05,1522886400.0
