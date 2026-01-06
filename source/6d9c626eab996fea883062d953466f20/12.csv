@@ -1,4 +1,14 @@
-title,author,link,home,rss,date,timestamp,tags,test
+title,author,link,home,rss,date,timestamp,test,tags
+C语言的位操作,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_02_06-bitwise_operation.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-02-06,1454716800,,
+分治,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_01_25-divide_and_conqure.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-01-25,1453680000,,
+关于python的decorator和descriptor,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_12_05-python_descriptor_and_decorator.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-12-05,1449273600,,
+程序设计实践笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_10_09-notes_on_the_practice_of_programming.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-10-09,1444348800,,
+Thinking Recursively,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_09_05-thinking_recursively.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-09-05,1441411200,,
+Block I/O,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_06_22-notes_on_linux_kernel_development_chap14.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-06-22,1434931200,,
+如何解读c的声明,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_03_17-declaration_of_c_pointers.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-03-17,1426550400,,
+关于输入法的猜想,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_01_11-my_guess_about_input_method.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-01-11,1420934400,,
+C语言与抽象思维,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_12_12-abstractions_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-12-12,1418342400,,
+C注意事项,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_11_04-traps_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-11-04,1415059200,,
 C语言中点操作符(.)和箭头操作符(->)的不同之处,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_09_09-dot_and_arrow_in_c_pointers.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-09,1410220800,,
 征服C指针笔记 - 数组和指针的微妙关系,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_09_07-pointer_and_array_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-09-07,1410048000,,
 关于文件权限的摘记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_08_22-unix_file_permissions.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-08-22,1408665600,,

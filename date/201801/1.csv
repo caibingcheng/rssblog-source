@@ -1,4 +1,4 @@
-title,author,link,home,rss,date,timestamp,tags,test
+title,author,link,home,rss,date,timestamp,test,tags
 Golang的一些坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_31-golang_traps.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-31,1517356800,,
 GC 垃圾回收,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_01_30-gc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-01-30,1517270400,,
 VS Code 配置笔记,云游君的小站,https://www.yunyoujun.cn/posts/vscode-config-note,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2018-01-29,1517240360,,

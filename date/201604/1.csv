@@ -1,5 +1,2 @@
-title,author,link,home,rss,date,timestamp,tags,test
-JavaScript 中不合常理的变量提升,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-hoisting,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-04-28,1461801600,,
-JavaScript 事件流：冒泡与捕获,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-event-stream,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-04-16,1460764800,,
-JavaScript 作用域与闭包,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-closures,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2016-04-04,1459728000,,
+title,author,link,home,rss,date,timestamp,test,tags
 重新捡起你那吃灰的树莓派,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_04_03-raspberrypi.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-04-03,1459641600,,

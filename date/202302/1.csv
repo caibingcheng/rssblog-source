@@ -1,12 +1,3 @@
-title,author,link,home,rss,date,timestamp,tags,test
-Redis基础,Barney's Blog,https://hugo.bnblogs.cc/redis%E5%9F%BA%E7%A1%80%E7%AF%87,https://hugo.bnblogs.cc,https://hugo.bnblogs.cc/index.xml,2023-02-28,1677590153,,
-醉里自建免费公益图床,醉里博客,https://202271.xyz/post/29287,https://202271.xyz,https://202271.xyz/atom.xml,2023-02-27,1677542087,,
-Github Actions配置,Barney's Blog,https://hugo.bnblogs.cc/github-action%E9%85%8D%E7%BD%AE,https://hugo.bnblogs.cc,https://hugo.bnblogs.cc/index.xml,2023-02-24,1677241663,,
-yaml语法,Barney's Blog,https://hugo.bnblogs.cc/yaml%E8%AF%AD%E6%B3%95,https://hugo.bnblogs.cc,https://hugo.bnblogs.cc/index.xml,2023-02-24,1677245930,,
-Dockerfile学习总结,Barney's Blog,https://hugo.bnblogs.cc/dockerfile%E4%BD%BF%E7%94%A8,https://hugo.bnblogs.cc,https://hugo.bnblogs.cc/index.xml,2023-02-23,1677141235,,
-更换主题acrylic,醉里博客,https://202271.xyz/post/3608,https://202271.xyz,https://202271.xyz/atom.xml,2023-02-22,1677024813,,
-Evolution Host免费服务器,醉里博客,https://202271.xyz/post/4034,https://202271.xyz,https://202271.xyz/atom.xml,2023-02-07,1675785164,,
-ChatGPT 类似产品🤖,把酒诗代码，趁乱写年华。,https://102no.com/2023/02/06/chatgtp-alternatives,https://102no.com,https://102no.com/atom.xml,2023-02-05,1675612800,,
-Nginx学习笔记,Barney's Blog,https://hugo.bnblogs.cc/nginx%E9%85%8D%E7%BD%AE%E5%85%A5%E9%97%A8,https://hugo.bnblogs.cc,https://hugo.bnblogs.cc/index.xml,2023-02-04,1675489878,,
+title,author,link,home,rss,date,timestamp,test,tags
 为什么要把复杂的联表操作拆成多个单表查询？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_02_03-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-02-03,1675382400,,
-一个通知！！！,汐塔魔法屋,https://blog.storical.space/posts/48762,https://blog.storical.space,https://blog.storical.space/atom.xml,2023-02-02,1675375652,,
+一个通知！！！,绘星里,https://blog.storical.fun/posts/48762,https://blog.storical.fun,https://blog.storical.space/atom.xml,2023-02-02,1675375652,,
