@@ -93,7 +93,8 @@ def generator_rss(rss_out, rss_in):
             if rss_not_empty(r)
         ],
     )
-    rss.write_xml(open(rss_out + "rss.xml", "w"))
+    with open(rss_out + "rss.xml", "wb") as f:
+        rss.write_xml(f, encoding="utf-8")
 
 
 def merge_source(rss_out_source_dir, rss_fetch_source_dir, url=URL):
@@ -155,11 +156,29 @@ def merge_date(rss_out_date_dir, rss_fetch_date_dir, url=URL):
         out = rss_out_date_dir + date_dir + "/"
         if not os.path.isdir(fetch):
             continue
+        # Validate date_dir format (should be YYYYMM, 6 characters)
+        if len(date_dir) != 6:
+            print(f"Warning: Invalid date directory name '{date_dir}', expected YYYYMM format, skipping")
+            continue
+        year = date_dir[0:4]
+        month = date_dir[4:6]
+        # Validate year and month are numeric and reasonable
+        try:
+            year_int = int(year)
+            month_int = int(month)
+            if year_int < 1970 or year_int > 2100 or month_int < 1 or month_int > 12:
+                print(f"Warning: Invalid year/month in directory '{date_dir}' (year={year}, month={month}), skipping")
+                continue
+        except ValueError:
+            print(f"Warning: Non-numeric year/month in directory '{date_dir}', skipping")
+            continue
+        # Check if fetch directory has valid data before creating output directory
+        if not os.path.exists(fetch + "new.csv"):
+            print(f"Warning: No data file found in '{date_dir}', skipping")
+            continue
         if not os.path.isdir(out):
             os.makedirs(out)
         batch_num = merge(out, fetch)
-        year = date_dir[0:4]
-        month = date_dir[4:6]
         if year not in date.keys():
             date[year] = []
         date[year].append((month, batch_num))

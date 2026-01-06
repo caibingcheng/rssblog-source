@@ -29,6 +29,7 @@ SOURCE_BASE = "https://gitee.com/caibingcheng/rssblog-source/raw/public/"
 - 按照用户分类;
 - 保留数据来源;
 - 提供RSS订阅;
+- 自动验证数据质量; ([详细说明](VALIDATION.md))
 
 ## TODOLIST
 
