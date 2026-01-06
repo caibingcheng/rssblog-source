@@ -93,7 +93,8 @@ def generator_rss(rss_out, rss_in):
             if rss_not_empty(r)
         ],
     )
-    rss.write_xml(open(rss_out + "rss.xml", "w"))
+    with open(rss_out + "rss.xml", "wb") as f:
+        rss.write_xml(f, encoding="utf-8")
 
 
 def merge_source(rss_out_source_dir, rss_fetch_source_dir, url=URL):
