@@ -1,0 +1,51 @@
+title,author,link,home,rss,date,timestamp
+TiDB 源码阅读（六）：TiDB Coprocessor 源码解析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_12-tidb_source_code_coprocessor.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-12,1760227200.0
+性能优化的核心思想,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_06-performance.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-06,1759708800.0
+TiDB 源码阅读（五）：索引,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_05-tidb_source_code_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-05,1759622400.0
+TiDB 源码阅读（四）：AST、逻辑计划、物理计划,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_04-tidb_source_code_ast_and_plan.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-04,1759536000.0
+TiDB 源码阅读（三）：插入数据,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_03-tidb_source_code_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-03,1759449600.0
+TiDB 源码阅读（二）：MySQL协议概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_02-tidb_source_code_mysql_protocol.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-02,1759363200.0
+TiDB 源码阅读（一）：服务监听、请求处理流程概览,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_01-tidb_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-01,1759276800.0
+用 Siri 来控制虚拟机开启和关闭,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_09_21-siri_ssh.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-09-21,1758412800.0
+ToB SaaS 服务之殇,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_09_07-to_b_saas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-09-07,1757203200.0
+TiDB Lightning 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_09_02-lightning_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-09-02,1756771200.0
+Wake on LAN 实现工作机的自动开关机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_05_24-wake_on_lan.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-05-24,1748044800.0
+KVM 穿透板载蓝牙和无线网卡,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_05_05-kvm_passthrough_bluetooth_wireless.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-05-05,1746403200.0
+CockroachDB Serverless Architecture,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_04_03-cockroachdb_serverless_architecture.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-04-03,1743638400.0
+podman 无故退出,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_04_02-podman_rootless_exited.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-04-02,1743552000.0
+Cursor Control-L (CTRL-L) Keyboard Shortcuts in Terminal,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_22-cursor_ctrl_l.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-22,1742601600.0
+Replace docker with podman,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_21-podman.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-21,1742515200.0
+Using xmonad with xfce4,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_18-xmonad_xfce4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-18,1742256000.0
+A RC script for freebsd frpc,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_16-freebsd_frpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-16,1742083200.0
+BottleRocket Linux check kubelet logs,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_15-bottlerocket_debug.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-15,1741996800.0
+Cockpit Create VM Permission Denied,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_03_02-cockpit_vm_create_permission_denied.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-03-02,1740873600.0
+AWS IAM 信任链 和 EKS IRSA,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_02_16-aws_iam.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-02-16,1739664000.0
+AI 会取代你的(编程)岗位吗？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_02_15-ai.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-02-15,1739577600.0
+2024年终总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_12_29-bye_2024.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-12-29,1735430400.0
+自建DERP服务器提升Tailscale连接速度(使用Nginx转发),Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_20-tailscale_derp.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-20,1732060800.0
+自动升级Docker容器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_11_07-auto_upgrade_docker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-11-07,1730937600.0
+再读《程序员修炼之道-从小工到专家》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_07-the_pragmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-07,1725667200.0
+再读《软件随想录》/《黑客与画家》/《软技能》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_06-reread_3_books.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-06,1725580800.0
+HTTP 压力测试中的 Coordinated Omission,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_08_30-http_load_testing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-08-30,1724976000.0
+2的补码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_07_24-twos_complement.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-07-24,1721779200.0
+编程语言中的 context 是什么？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_07_21-context.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-07-21,1721520000.0
+flutter macOS 构建出错,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_20-flutter_macos.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-20,1710892800.0
+Flatpak 使用小记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_19-flatpak.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-19,1710806400.0
+Golang CAS 操作是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_10-golang_cas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-10,1710028800.0
+PostgreSQL 当MQ来使用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_09-postgresql_as_mq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-09,1709942400.0
+Clash 结合 工作VPN 的网络设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_08-clash_vpn.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-08,1709856000.0
+使用 PostgreSQL 搭建 JuiceFS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_07-juicefs_postgresql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-07,1709769600.0
+PostgreSQL 配置优化和日志分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_05-postgresql_conf.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-05,1709596800.0
+有GitHub Copilot？那就可以搭建你的ChatGPT4服务,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_03-copilot_as_gpt4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-03,1709424000.0
+窗口函数的使用(以PG为例),Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_01-pg_window_function.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-01,1709251200.0
+读《为什么学生不喜欢上学》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_01_16-why_dont_students_like_school.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-01-16,1705363200.0
+OpenAI Prompt Engineering 摘录和总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_01_07-openai_prompt_engineering.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-01-07,1704585600.0
+读《打造真正的新产品》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_12_30-something_really_new.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-12-30,1703894400.0
+2023年终总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_12_26-good_bye_2023.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-12-26,1703548800.0
+VueJS 总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_12_17-vue3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-12-17,1702771200.0
+Linux 自动挂载 alist 提供的webdav,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_29-alist_webdav.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-29,1701216000.0
+FreeBSD 使用 vm-bhyve 安装Debian虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_17-freebsd_vm_bhyve.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-17,1700179200.0
+FreeBSD 和 Linux 网卡聚合实现提速,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_16-freebsd_linux_link_aggr.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-16,1700092800.0
+GPT 帮我搞定了时区转换问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_15-python_datetime_with_timezone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-15,1700006400.0
+长任务系统如何处理？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_12-long_running_task.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-12,1699747200.0
+macOS/Linux 编译 InputLeap,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_11-input_leap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-11,1699660800.0
