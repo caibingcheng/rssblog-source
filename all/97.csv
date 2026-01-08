@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Golang的可选参数实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
+危机四伏的2020，既是困难，也是机遇！,Frank笔记,https://frank2019.me/archives/wei-ji-si-fu-de-2020-ji-shi-kun-nan-ye-shi-ji-yu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-18,1587241740.0
 【Hexo】Hexo——Npm使用报错,框架師,https://www.mobaijun.com/posts/776701796.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-18,1587192270.0
 简单聊 SBIT,杜老师说,https://dusays.com/212/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-17,1587139200.0
 【随笔】常用Emoji表情一览表😆,框架師,https://www.mobaijun.com/posts/1007769027.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-15,1586935140.0
@@ -47,5 +49,3 @@ gunicorn max-requests 选项的作用,Jiajun的技术笔记,https://jiajunhuang.
 VPS常用脚本,Frank笔记,https://frank2019.me/archives/vpschang-yong-jiao-ben,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-24,1585080900.0
 Linux 口令过期后账号最长有效天数策略,杜老师说,https://dusays.com/204/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-24,1585065600.0
 【工具系列】IDEA链接MySQL数据库失败,框架師,https://www.mobaijun.com/posts/1191060190.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-03-24,1585035553.0
-Redis使用中的几点注意事项,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_23-redis_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-23,1584921600.0
-如何打造好看还好用的 Windows Terminal,ChrAlpha,https://blog.ichr.me/post/windows-terminal-configuration/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-21,1584823047.0
