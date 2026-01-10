@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+谈谈 Kubernetes 的问题和局限性,面向信仰编程,https://draven.co//kuberentes-limitations,https://draven.co/,https://draveness.me/feed.xml,2021-04-16,1618531200.0
 巴中市如何开具《动物检疫合格证明》,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/739/,https://imba97.cn/,https://imba97.cn/atom.xml,2021-04-15,1618505483.0
 加速 GitHub 下载的四种方法,杜老师说,https://dusays.com/332/,https://dusays.com/,https://dusays.com/atom.xml,2021-04-15,1618502400.0
 再一次被知乎恶心吐了,非理勿试,https://www.ntiy.com/1543.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-04-15,1618465789.0
@@ -11,9 +12,9 @@ Linux 上最好的视频编辑器「Flowblade 篇」,杜老师说,https://dusays
 聊聊厦门旅游的好与不好,Nicksxs's Blog,https://nicksxs.me/2021/04/11/%E8%81%8A%E8%81%8A%E5%8E%A6%E9%97%A8%E6%97%85%E6%B8%B8%E7%9A%84%E5%A5%BD%E4%B8%8E%E4%B8%8D%E5%A5%BD/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-04-11,1618155487.0
 Linux 网络工具中的瑞士军刀 - socat &amp; netcat,This Cute World,https://thiscute.world/posts/socat-netcat/,https://thiscute.world/,https://thiscute.world/index.xml,2021-04-11,1618130293.0
 【ACME】手动签发Buypass及ZeroSSL证书,Luminous' Home,https://luotianyi.vc/5538.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-04-11,1618124143.0
+Svelte 的异步更新实现原理,Randy's Blog,https://lutaonan.com/blog/how-svelte-set-state-works,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-04-11,1618099200.0
 logrotate read only filesystem问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_11-logrotate_read_only_filesystem.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-11,1618099200.0
 Svelte 的异步更新实现原理,Randy's Blog,https://lutaonan.com/blog/how-svelte-set-state-works/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-04-11,1618099200.0
-Svelte 的异步更新实现原理,Randy's Blog,https://lutaonan.com/blog/how-svelte-set-state-works,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-04-11,1618099200.0
 为什么 Linux 和 macOS 不需要碎片整理,面向信仰编程,https://draven.co//whys-the-design-linux-macos-fragmentation,https://draven.co/,https://draveness.me/feed.xml,2021-04-10,1618012800.0
 为什么 Linux 和 macOS 不需要碎片整理,面向信仰编程,https://draveness.me//whys-the-design-linux-macos-fragmentation,https://draveness.me/,https://draveness.me/feed.xml,2021-04-10,1618012800.0
 Linux 上最好的视频编辑器「OpenShot 篇」,杜老师说,https://dusays.com/330/,https://dusays.com/,https://dusays.com/atom.xml,2021-04-09,1617984000.0
@@ -21,31 +22,30 @@ CPU 和 GPU - 异构计算的演进与发展,面向信仰编程,https://draven.c
 CPU 和 GPU - 异构计算的演进与发展,面向信仰编程,https://draveness.me//heterogeneous-computing,https://draveness.me/,https://draveness.me/feed.xml,2021-04-09,1617926400.0
 10本 Python 深入学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/09/10-python-learn-depth-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-08,1617897600.0
 为 Arch Linux 创建软件包,无妄当自持,https://www.insidentally.com/articles/000010/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-04-07,1617756711.0
-10本 Python 入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/07/10-python-learn-guide-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-06,1617724800.0
 Linux 上最好的视频编辑器「Kdenlive 篇」,杜老师说,https://dusays.com/329/,https://dusays.com/,https://dusays.com/atom.xml,2021-04-06,1617724800.0
+10本 Python 入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/07/10-python-learn-guide-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-06,1617724800.0
 10本 Python 零基础入门学习书籍推荐,把酒诗代码，趁乱写年华。,https://102no.com/2021/04/06/10-python-learn-from-scratch-books/,https://102no.com/,https://102no.com/atom.xml,2021-04-05,1617638400.0
 Warp结合Xray实现IPV6访问Youtube,Frank笔记,https://frank2019.me/archives/warpjie-he-xrayshi-xian-ipv6fang-wen-youtube,https://frank2019.me/,https://frank2019.me/rss.xml,2021-04-04,1617556980.0
 文本笔记记录方式,沐云湘夕—求索,https://quest.myxxts.club/archives/83/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2021-04-04,1617548940.0
 聊聊 dubbo 的线程池,Nicksxs,https://nicksxs.me/2021/04/04/%E8%81%8A%E8%81%8A-dubbo-%E7%9A%84%E7%BA%BF%E7%A8%8B%E6%B1%A0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-04-04,1617545697.0
 尝试在 GitHub Issues 上写文章并自动同步至博客,ChrAlpha,https://blog.ichr.me/post/blog-with-github-issues/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2021-04-04,1617544962.0
 开源的 Linux 角色扮演游戏「NetHack 篇」,杜老师说,https://dusays.com/328/,https://dusays.com/,https://dusays.com/atom.xml,2021-04-03,1617465600.0
-为什么早期的 Windows 需要整理碎片,面向信仰编程,https://draven.co//whys-the-design-windows-defragmentation,https://draven.co/,https://draveness.me/feed.xml,2021-04-01,1617235200.0
 为什么早期的 Windows 需要整理碎片,面向信仰编程,https://draveness.me//whys-the-design-windows-defragmentation,https://draveness.me/,https://draveness.me/feed.xml,2021-04-01,1617235200.0
+为什么早期的 Windows 需要整理碎片,面向信仰编程,https://draven.co//whys-the-design-windows-defragmentation,https://draven.co/,https://draveness.me/feed.xml,2021-04-01,1617235200.0
 uni-app 踩坑小记,4Ark × Blog,https://4ark.me/post/uni-app-issues.html,https://4ark.me/,https://4ark.me/rss.xml,2021-04-01,1617235200.0
 JPA/Hibernate问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/jpa-hibernate.html/,https://lewky.cn/,https://lewky.cn/index.xml,2021-03-31,1617206850.0
 开源的 Linux 角色扮演游戏「Minetest 篇」,杜老师说,https://dusays.com/327/,https://dusays.com/,https://dusays.com/atom.xml,2021-03-31,1617206400.0
 司马迁是一个什么样的人？,4Ark × Blog,https://4ark.me/post/about-si-ma-qian.html,https://4ark.me/,https://4ark.me/rss.xml,2021-03-31,1617148800.0
 三月总结,4Ark,https://4ark.me/2021/03/30/_2021-mar-summary/,https://4ark.me/,https://4ark.me/rss.xml,2021-03-30,1617148182.0
 开源的 Linux 角色扮演游戏「ManaPlus 篇」,杜老师说,https://dusays.com/326/,https://dusays.com/,https://dusays.com/atom.xml,2021-03-28,1616947200.0
-2020 年总结 · 渐入佳境,面向信仰编程,https://draven.co//2020-summary,https://draven.co/,https://draveness.me/feed.xml,2021-03-28,1616889600.0
 2020 年总结 · 渐入佳境,面向信仰编程,https://draveness.me//2020-summary,https://draveness.me/,https://draveness.me/feed.xml,2021-03-28,1616889600.0
+2020 年总结 · 渐入佳境,面向信仰编程,https://draven.co//2020-summary,https://draven.co/,https://draveness.me/feed.xml,2021-03-28,1616889600.0
 在 windows 下安装配置 nodejs,无妄当自持,https://www.insidentally.com/articles/000009/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-03-27,1616849231.0
 Serverless 与轻量级虚拟化 Firecracker · NSDI '20,面向信仰编程,https://draven.co//papers-firecracker,https://draven.co/,https://draveness.me/feed.xml,2021-03-27,1616803200.0
 Serverless 与轻量级虚拟化 Firecracker · NSDI '20,面向信仰编程,https://draveness.me//papers-firecracker,https://draveness.me/,https://draveness.me/feed.xml,2021-03-27,1616803200.0
 开源的 Linux 角色扮演游戏「FreeDink 篇」,杜老师说,https://dusays.com/325/,https://dusays.com/,https://dusays.com/atom.xml,2021-03-25,1616688000.0
+Notion 编辑器是怎么实现的？,Yuexun's Blog,https://yuexunjiang.me/blog/how-the-notion-editor-is-implemented/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-03-25,1616630400.0
 Notion 编辑器是怎么实现的？,Ahonn's Blog,https://www.ahonn.me/blog/how-the-notion-editor-is-implemented,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2021-03-25,1616630400.0
 Notion 编辑器是怎么实现的？,Yuexun's Blog,https://yuexunjiang.me/blog/how-the-notion-editor-is-implemented,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2021-03-25,1616630400.0
-Notion 编辑器是怎么实现的？,Yuexun's Blog,https://yuexunjiang.me/blog/how-the-notion-editor-is-implemented/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2021-03-25,1616630400.0
 信息时代更需要理性思考,Frank笔记,https://frank2019.me/archives/xin-xi-shi-dai-geng-xu-yao-li-xing-si-kao,https://frank2019.me/,https://frank2019.me/rss.xml,2021-03-23,1616520060.0
 Golang GIN写单测时，愉快的使用返回值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_23-go_gin_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-23,1616457600.0
-你该如何为 Kubernetes 定制特性,面向信仰编程,https://draveness.me//cloud-native-kubernetes-extension,https://draveness.me/,https://draveness.me/feed.xml,2021-03-23,1616457600.0
