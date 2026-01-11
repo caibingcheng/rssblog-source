@@ -1,9 +1,10 @@
 title,author,link,home,rss,date,timestamp
+【WEB系列】SpringBoot引入的依赖为什么没有版本号,框架師,https://www.mobaijun.com/posts/1944509409.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-20,1576807977.0
 爱奇艺周会员 N+6 期,杜老师说,https://dusays.com/164/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-19,1576771200.0
 【工具系列】IDEA启动项目很慢解决方案,框架師,https://www.mobaijun.com/posts/3587260547.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-19,1576718814.0
 Blackbox禁用IPv6,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_19-blackbox_disable_ipv6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-19,1576713600.0
 爱奇艺周会员 N+5 期,杜老师说,https://dusays.com/163/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-18,1576684800.0
-预防缓存击穿,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_18-cache_miss.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
+Go 1.13的errors挺香,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_12_18-golang_133_errors.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-12-18,1576627200.0
 爱奇艺周会员 N+4 期,杜老师说,https://dusays.com/162/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-17,1576598400.0
 爱奇艺周会员 N+3 期,杜老师说,https://dusays.com/161/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-16,1576512000.0
 【工具系列】Typora Markdown 语法,框架師,https://www.mobaijun.com/posts/1660316417.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2019-12-16,1576482063.0
@@ -48,4 +49,3 @@ mount 命令的使用,杜老师说,https://dusays.com/142/,https://dusays.com/,h
 tar 命令的使用,杜老师说,https://dusays.com/141/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-26,1574784000.0
 修复Linux下curl等无法使用letsencrypt证书,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_26-lets_encrypt_linux_shell.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-26,1574726400.0
 yum 命令的使用,杜老师说,https://dusays.com/140/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-25,1574697600.0
-Git 命令的使用,杜老师说,https://dusays.com/139/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-24,1574611200.0
