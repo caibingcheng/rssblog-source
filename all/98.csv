@@ -1,4 +1,24 @@
 title,author,link,home,rss,date,timestamp
+Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
+Golang validator使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
+垃圾清理软件多，是我们缺存储空间吗？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/25.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-09,1586425500.0
+Manjaro KDE 调教日记,游钓四方,https://blog.lhasa.icu/posts/technology/2020-04-09-manjaro-kde,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-04-09,1586402640.0
+使用Redis的Stream模块实现群聊功能,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_09-redis_stream_as_im.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
+DeepL | 从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工具,罗磊的独立博客,https://luolei.org/deepl-ai-translator,https://luolei.org,https://luolei.org/feed/,2020-04-09,1586390400.0
+【转载】世界不应该是这样的,Frank笔记,https://frank2019.me/archives/zhuan-zai-shi-jie-bu-ying-gai-shi-zhe-yang-de,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-08,1586377380.0
+关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
+CDN 原理及使用,杜老师说,https://dusays.com/209/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-08,1586361600.0
+解决k8s cron无法读取环境变量的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
+(转)谈 Linux，Windows 和 Mac,游钓四方,https://blog.lhasa.icu/posts/technology/2020-04-07-blog-fully-linux-working,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-04-07,1586254200.0
+使用 Istio 进行 JWT 身份验证（充当 API 网关）,This Cute World,https://thiscute.world/posts/use-istio-for-jwt-auth/,https://thiscute.world/,https://thiscute.world/index.xml,2020-04-06,1586180906.0
+VPS 手动在线一键重装系统脚本整理,ChrAlpha,https://blog.ichr.me/post/scripts-for-reinstalling-linux-vps/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-06,1586171300.0
+安装 GNS3 思科模拟器,杜老师说,https://dusays.com/208/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-05,1586102400.0
+人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/posts/life-is-not-a-marathon,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1586012398.0
+人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/diary/life-is-not-a-marathon/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1585983598.0
+N95口罩背后不为人知的历史,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/21.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-04,1585962960.0
+四命令玩转 Linux 进程管理,杜老师说,https://dusays.com/207/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-02,1585843200.0
+在网页 404 前将其备份的不同方法,ChrAlpha,https://blog.ichr.me/post/archive-webpage-before-404/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-01,1585740437.0
+公司内部建设的重要性,Frank笔记,https://frank2019.me/archives/gong-si-nei-bu-jian-she-de-chong-yao-xing,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-30,1585599660.0
 思科设备连接指南,杜老师说,https://dusays.com/206/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-30,1585584000.0
 反复横跳？—— 我的密码管理工具折腾记,ChrAlpha,https://blog.ichr.me/post/password-managements/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-30,1585578224.0
 Linux网络学习笔记（二）：域名解析(DNS)——以 CoreDNS 为例,This Cute World,https://thiscute.world/posts/about-dns-protocol/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-29,1585468163.0
@@ -29,23 +49,3 @@ Windows2008 系统 IIS 服务安装,杜老师说,https://dusays.com/200/,https:/
 给你的代码跑个分？pylint使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_12-pylint.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-12,1583971200.0
 谈谈 RSA 非对称加密算法原理及流程,ChrAlpha,https://blog.ichr.me/post/rsa-asymmetric-encryption-algorithm/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-11,1583930619.0
 一个Gunicorn worker数量引发的血案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_11-gunicorn_worker.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-11,1583884800.0
-常用页面加载速度优化方法,杜老师说,https://dusays.com/199/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-09,1583769600.0
-在 GitHub 上使用 GPG 认证你的 Git Commit,ChrAlpha,https://blog.ichr.me/post/use-gpg-verification-in-github/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-08,1583702310.0
-新冠反思-任志强,Frank笔记,https://frank2019.me/archives/xin-guan-fan-si-ren-zhi-qiang,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-08,1583698200.0
-国内自建图床指南,Randy's Blog,https://lutaonan.com/blog/aliyun-cdn-tutorial/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-07,1583539200.0
-👴就是二次元，故尝试证明。,云游君的小站,https://www.yunyoujun.cn/posts/i-am-er-ci-yuan-and-try-to-prove,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-06,1583536357.0
-面试过程中需要注意的细节,杜老师说,https://dusays.com/198/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-06,1583510400.0
-在 Hexo 博客中更优雅地使用 LaTeX 数学公式,ChrAlpha,https://blog.ichr.me/post/fix-mathjax-layout-bugs-in-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-06,1583503087.0
-MySQL Boolean类型的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_06-mysql_boolean_tinyint_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-06,1583452800.0
-Hexo 博客 | 链接分享卡片生成配置,ChrAlpha,https://blog.ichr.me/post/hexo-generate-link-sharing-card/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-05,1583423588.0
-教你如何从零开始搭建一个属于自己的网站,云游君的小站,https://www.yunyoujun.cn/share/how-to-build-your-site/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-04,1583343068.0
-pip freeze是魔鬼,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_04-pip_list.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-04,1583280000.0
-居家办公好物 | 震旦 AS036 桌面碎纸机开箱,罗磊的独立博客,https://luolei.org/aurora-as036-shredder,https://luolei.org,https://luolei.org/feed/,2020-03-04,1583280000.0
-如何在面试中包装自己,杜老师说,https://dusays.com/197/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-03,1583251200.0
-JWT 签名算法 HS256、RS256 及 ES256 及密钥生成,This Cute World,https://thiscute.world/posts/jwt-algorithm-key-generation/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-03,1583215786.0
-一个feed流系统的演进,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_02-feed_system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-02,1583107200.0
-通过4bet来防守3bet,Frank笔记,https://frank2019.me/archives/tong-guo-4betlai-fang-shou-3bet,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096880.0
-使用Markdown在博客中添加视频,Frank笔记,https://frank2019.me/archives/shi-yong-markdownzai-bo-ke-zhong-tian-jia-shi-pin,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096760.0
-好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
-Android 使用view binding,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_01-android_view_binding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-01,1583020800.0
-好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
