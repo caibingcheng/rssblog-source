@@ -1,0 +1,30 @@
+name: Validate CSV and upload log
+
+on:
+  push:
+    branches: ["dev", "master"]
+  pull_request:
+    branches: ["dev", "master"]
+
+jobs:
+  validate_csv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run validate_csv.py (produce validate_csv.log)
+        # do not fail the job when duplicates are found; we only want the log
+        run: |
+          python3 validate_csv.py || true
+
+      - name: Upload validate_csv.log
+        uses: actions/upload-artifact@v4
+        with:
+          name: validate_csv_log
+          path: validate_csv.log
