@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+不要被仇恨教育吞噬了心灵,Frank笔记,https://frank2019.me/archives/bu-yao-bei-chou-hen-jiao-yu-tun-shi-liao-xin-ling,https://frank2019.me,https://frank2019.me/rss.xml,2024-09-21,1726892006.0
+用 Clojure 给 Emacs 写插件,Andy Stewart,//manateelazycat.github.io/2024/09/21/cloel/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-21,1726876800.0
 又一次补胎,瓦解的生活记事,https://hin.cool/posts/youbutai.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-09-20,1726873200.0
 NuxtHub (Cloudflare) 部署 Nuxt 项目卡住的问题,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/789/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-09-20,1726843830.0
 NuxtHub (Cloudflare) 部署 Nuxt 项目卡住的问题,怠惰のコエ - imba久期 BLOG,https://imba97.com/archives/789/,https://imba97.com/,https://imba97.cn/atom.xml,2024-09-20,1726815030.0
@@ -30,13 +32,13 @@ Roundcube Webmail 安装教程,Frank笔记,https://frank2019.me/archives/roundcu
 很多事情都是可以穷举出来的,Andy Stewart,//manateelazycat.github.io/2024/09/02/brute-force/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-02,1725235200.0
 一个Java类型的小问题记录,Nicksxs's Blog,https://nicksxs.me/2024/09/01/%E4%B8%80%E4%B8%AAJava%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-09-01,1725152409.0
 2024-08小记,汐塔魔法屋,https://blog.sinzmise.top/posts/15688/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-08-31,1725104028.0
+2024-08小记,汐塔魔法屋,https://blog.storical.space/posts/15688,https://blog.storical.space,https://blog.storical.space/atom.xml,2024-08-31,1725104028.0
 2024-08小记,绘星里,https://blog.storical.fun/posts/15688/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2024-08-31,1725104028.0
 2024-08小记,绘星里,/posts/15688/,/,https://blog.storical.space/atom.xml,2024-08-31,1725104028.0
-2024-08小记,汐塔魔法屋,https://blog.storical.space/posts/15688,https://blog.storical.space,https://blog.storical.space/atom.xml,2024-08-31,1725104028.0
 两则魔怔新闻,Frank笔记,https://frank2019.me/archives/liang-ze-xin-wen,https://frank2019.me,https://frank2019.me/rss.xml,2024-08-30,1725038260.0
 HTTP 压力测试中的 Coordinated Omission,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_08_30-http_load_testing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-08-30,1724976000.0
-Kong 3.7重磅上线！Kong AI Gateway 正式 GA！🦍,把酒诗代码,https://102no.com/2024/08/27/kong-3.7/,https://102no.com/,https://102no.com/atom.xml,2024-08-27,1724716800.0
 产品创意是怎么来的？,Andy Stewart,//manateelazycat.github.io/2024/08/27/how-creativity-arises/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-08-27,1724716800.0
+Kong 3.7重磅上线！Kong AI Gateway 正式 GA！🦍,把酒诗代码,https://102no.com/2024/08/27/kong-3.7/,https://102no.com/,https://102no.com/atom.xml,2024-08-27,1724716800.0
 水银河：重庆人想要的清凉都在这里,Macin,https://macin.org/2024/08/26/shui-yin-he/,https://macin.org/,https://www.macin.org/atom.xml,2024-08-26,1724716201.0
 聊下apollo配置中心的接入,Nicksxs's Blog,https://nicksxs.me/2024/08/25/%E8%81%8A%E4%B8%8Bapollo%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83%E7%9A%84%E6%8E%A5%E5%85%A5/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-08-25,1724595468.0
 【VMware】虚拟机绕过软件授权——锁定时间及修改CPU型号,Luminous' Home,https://luotianyi.vc/8375.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-08-25,1724552303.0
@@ -47,5 +49,3 @@ Windows 聚焦隐藏“了解此图片”图标,岚天小窝,https://blog.ltya.t
 懒猫微服的前世今生,Andy Stewart,//manateelazycat.github.io/2024/08/20/why-microserver/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-08-20,1724112000.0
 天意谷：华蓥山下透心凉的溪降,Macin,https://macin.org/2024/08/19/tian-yi-gu/,https://macin.org/,https://www.macin.org/atom.xml,2024-08-19,1724106426.0
 体验下Java 21的虚拟线程-协程,Nicksxs's Blog,https://nicksxs.me/2024/08/18/%E4%BD%93%E9%AA%8C%E4%B8%8BJava-21%E7%9A%84%E8%99%9A%E6%8B%9F%E7%BA%BF%E7%A8%8B-%E5%8D%8F%E7%A8%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-08-18,1723958517.0
-AI 服务器， 开源开发者专属福利！,Andy Stewart,//manateelazycat.github.io/2024/08/17/lazycat-microserver/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-08-17,1723852800.0
-久违的暑假,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/787/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-08-16,1723815713.0

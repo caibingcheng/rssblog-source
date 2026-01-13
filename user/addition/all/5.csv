@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+TiDB 源码阅读（六）：TiDB Coprocessor 源码解析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_12-tidb_source_code_coprocessor.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-12,1760227200.0
+夜骑：环岩口水库，遭翻车,游钓四方,https://blog.lhasa.icu/posts/outdoors/2025-10-11-night-ride-yankou-crash,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2025-10-11,1760215860.0
 Lesson 6 Nobel Prize,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-6/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-11,1760168858.0
 Lesson 3 宇宙学和粒子物理,菲兹克斯喵,https://physnya.top/physics-front/lesson-3/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-11,1760153790.0
 Lesson 3 分离变量法 (二),菲兹克斯喵,https://physnya.top/equation-m-p/lesson-3/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-10,1760091618.0
@@ -30,8 +32,8 @@ Lesson 5 相干态,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-
 Lesson 3 Probability Distribution Functions,菲兹克斯喵,https://physnya.top/astro-statistic/lesson-3-probalbility-distribution-functions/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-28,1759068842.0
 Lesson 5 介质中的电磁场,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-5-dielectric/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-28,1759046343.0
 怎么给wsl占用的硬盘空间做下瘦身,Nicksxs's Blog,https://nicksxs.me/2025/09/27/%E6%80%8E%E4%B9%88%E7%BB%99wsl%E5%8D%A0%E7%94%A8%E7%9A%84%E7%A1%AC%E7%9B%98%E7%A9%BA%E9%97%B4%E5%81%9A%E4%B8%8B%E7%98%A6%E8%BA%AB/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-09-27,1758971151.0
-2025-09小记,绘星里,https://blog.storical.fun/posts/write-202509/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2025-09-27,1758933588.0
 2025-09小记,绘星里,/posts/write-202509/,/,https://blog.storical.space/atom.xml,2025-09-27,1758933588.0
+2025-09小记,绘星里,https://blog.storical.fun/posts/write-202509/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2025-09-27,1758933588.0
 Lesson 2 分离变量法 (一),菲兹克斯喵,https://physnya.top/equation-m-p/lesson-2/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-26,1758860359.0
 Lesson 2 Probability Theory,菲兹克斯喵,https://physnya.top/astro-statistic/lesson-2-probability-theory/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-25,1758809038.0
 Lesson 4 Maxwell 方程组,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-4-maxwell/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-25,1758787287.0
@@ -47,5 +49,3 @@ Lesson 3 稳态 Schrödinger 方程,菲兹克斯喵,https://physnya.top/quantum-
 用 Siri 来控制虚拟机开启和关闭,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_09_21-siri_ssh.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-09-21,1758412800.0
 世界上第一台私人 AI 超算发布啦！,Andy Stewart,https://manateelazycat.github.io/2025/09/20/microserver-and-ai-pod/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-09-19,1758297600.0
 数理方程,菲兹克斯喵,https://physnya.top/equation-m-p/,https://physnya.top/,https://physnya.top/atom.xml,2025-09-19,1758255709.0
-【随笔】Jackson 反序列化报错的解决方案,框架師,https://www.mobaijun.com/posts/3481608192.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-18,1758214805.0
-【随笔】MySQL 启动失败分析：权限问题与 expire_logs_days 配置错误,框架師,https://www.mobaijun.com/posts/2458057465.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-18,1758214390.0
