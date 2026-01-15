@@ -1,4 +1,17 @@
 title,author,link,home,rss,date,timestamp
+2023小结,绘星里,/posts/27531/,/,https://blog.storical.space/atom.xml,2023-12-30,1703957816.0
+202312：南州十二月，地暖冰雪少,Macin,https://macin.org/2023/12/30/202312/,https://macin.org/,https://www.macin.org/atom.xml,2023-12-30,1703931613.0
+读《打造真正的新产品》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_12_30-something_really_new.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-12-30,1703894400.0
+Scala 2 Macro Tutorial,Bin Wang - My Personal Blog,https://www.binwang.me/2023-12-29-Scala-Macro-Tutorial.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-12-29,1703826000.0
+怎么提升研发能力？,Andy Stewart,//manateelazycat.github.io/2023/12/29/how-to-improve-development-capabilities/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-29,1703808000.0
+2023 – 2024,非理勿试,https://www.ntiy.com/2049.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-12-28,1703726566.0
+福州行-三坊七巷,湘铭`Blog,https://blog.xiangming.site/455.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-12-26,1703559440.0
+2023年终总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_12_26-good_bye_2023.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-12-26,1703548800.0
+阿里云 rds 主从延迟排查,Nicksxs's Blog,https://nicksxs.me/2023/12/24/%E9%98%BF%E9%87%8C%E4%BA%91-rds-%E4%B8%BB%E4%BB%8E%E5%BB%B6%E8%BF%9F%E6%8E%92%E6%9F%A5/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-12-24,1703422088.0
+Librewolf Sync Problem 同步问题和 Fingerprinting 隐私保护,Another Dayu,https://anotherdayu.com/2023/5565/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-12-24,1703385278.0
+老  刘,瓦解的生活记事,https://hin.cool/posts/laoliu.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-12-24,1703376300.0
+12月小计,湘铭`Blog,https://blog.xiangming.site/434.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-12-23,1703310229.0
+2023 年终总结: 和自己对话,Randy's Blog,https://lutaonan.com/blog/2023-summary,https://lutaonan.com,https://lutaonan.com/rss.xml,2023-12-22,1703203200.0
 2023 年终总结: 和自己对话,Randy's Blog,https://lutaonan.com/blog/2023-summary/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2023-12-22,1703203200.0
 Daily Note，时间的厚度：Obsidian + Drafts,Another Dayu,https://anotherdayu.com/2023/5561/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-12-20,1703075574.0
 地图导航,Another Dayu,https://anotherdayu.com/2023/5556/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-12-20,1703063812.0
@@ -36,16 +49,3 @@ PIVOT Vol.2 快乐 + 期望 = 现实,Another Dayu,https://anotherdayu.com/2023/5
 会反复回购的面包点心,Another Dayu,https://anotherdayu.com/2023/5511/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-30,1701317645.0
 AI背着人类在编程！！！,湘铭`Blog,https://blog.xiangming.site/420.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-29,1701224510.0
 Linux 自动挂载 alist 提供的webdav,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_29-alist_webdav.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-29,1701216000.0
-Introduce K3s， CephFS and MetalLB to My High Available Cluster,Bin Wang - My Personal Blog,https://www.binwang.me/2023-11-28-Introduce-K3s-CephFS-and-MetalLB-to-My-High-Avaliable-Cluster.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2023-11-28,1701147600.0
-再回首,湘铭`Blog,https://blog.xiangming.site/419.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-28,1701142062.0
-通过降级 FreeType 解决 WPS 加粗字体乱码的问题,manateelazycat.github.io,//manateelazycat.github.io/2023/11/28/wps-font-problem/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-28,1701129600.0
-沪上的海：崇明一日攻略,Macin,https://macin.org/2023/11/27/chong-ming-dao/,https://macin.org/,https://www.macin.org/atom.xml,2023-11-27,1701124578.0
-Nodejs 对接 TSCLIB,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/771/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-11-27,1701117226.0
-Tomcat 系列篇十-介绍下 Tomcat 里的 Mapper 作用,Nicksxs's Blog,https://nicksxs.me/2023/11/26/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E5%8D%81-%E4%BB%8B%E7%BB%8D%E4%B8%8B-Tomcat-%E9%87%8C%E7%9A%84-Mapper-%E4%BD%9C%E7%94%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-11-26,1700996541.0
-Navidrome：自建音乐库的又一选择,湘铭`Blog,https://blog.xiangming.site/409.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-26,1700979510.0
-又一个免费的CDN服务商,湘铭`Blog,https://blog.xiangming.site/406.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-26,1700969145.0
-杰与不存在的婚姻,瓦解的生活记事,https://hin.cool/posts/thesenseofme.html,https://hin.cool/,https://www.hin.cool/atom.xml,2023-11-25,1700931600.0
-趁着 2023 Steam 秋季特惠，推荐几款今年比较喜欢的游戏,Another Dayu,https://anotherdayu.com/2023/5490/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-11-25,1700920062.0
-你的家里有消防措施吗？,湘铭`Blog,https://blog.xiangming.site/403.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-25,1700892180.0
-苏北的海：从羊窝头到野鹿荡,Macin,https://macin.org/2023/11/20/lian-yun-gang/,https://macin.org/,https://www.macin.org/atom.xml,2023-11-20,1700523282.0
-马桶往外喷水怎么办？,湘铭`Blog,https://blog.xiangming.site/399.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-20,1700457639.0
