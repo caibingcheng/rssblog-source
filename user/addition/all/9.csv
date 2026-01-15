@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+解决下idea中maven依赖的cannot download sources问题,Nicksxs's Blog,https://nicksxs.me/2025/06/15/%E8%A7%A3%E5%86%B3%E4%B8%8Bidea%E4%B8%AD%E4%BE%9D%E8%B5%96%E7%9A%84cannot-download-sources%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-06-15,1749986723.0
 创业的神秘法则,Andy Stewart,https://manateelazycat.github.io/2025/06/15/on-road/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-06-14,1749916800.0
 平衡个人价值,Andy Stewart,https://manateelazycat.github.io/2025/06/14/be-a-valuable-man/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-06-13,1749830400.0
 独立开发者创业了,游钓四方,https://blog.lhasa.icu/posts/startup/2025-06-12-im-starting-up,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2025-06-12,1749704820.0
@@ -31,9 +32,9 @@ EasyFill v1.1.1 发布：全面提升用户体验,游钓四方,https://blog.lhas
 主题推荐：Firefox X Safari,Another Dayu,https://anotherdayu.com/2025/7016/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-06-01,1748789795.0
 回归本源理解下mysql的 select for update 锁,Nicksxs's Blog,https://nicksxs.me/2025/06/01/%E5%9B%9E%E5%BD%92%E6%9C%AC%E6%BA%90%E7%90%86%E8%A7%A3%E4%B8%8Bmysql%E7%9A%84for-update%E9%94%81/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-05-31,1748707415.0
 端午骑行：倍鱼线,游钓四方,https://blog.lhasa.icu/posts/outdoors/2025-06-01-dragon-boat-cycling-beiyuxian,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2025-05-31,1748707260.0
-2025-05小记,汐塔魔法屋,https://blog.storical.space/posts/write-202505,https://blog.storical.space,https://blog.storical.space/atom.xml,2025-05-31,1748686708.0
-2025-05小记,绘星里,https://blog.storical.fun/posts/write-202505/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2025-05-31,1748686708.0
 2025-05小记,绘星里,/posts/write-202505/,/,https://blog.storical.space/atom.xml,2025-05-31,1748686708.0
+2025-05小记,绘星里,https://blog.storical.fun/posts/write-202505/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2025-05-31,1748686708.0
+2025-05小记,汐塔魔法屋,https://blog.storical.space/posts/write-202505,https://blog.storical.space,https://blog.storical.space/atom.xml,2025-05-31,1748686708.0
 数字游民报告,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/803/,https://imba97.cn/,https://imba97.cn/atom.xml,2025-05-30,1748648058.0
 基于 Astro Paper 的个人博客：深度定制和部署实践,游钓四方,https://blog.lhasa.icu/posts/technology/2025-05-31-astro-paper-deployment,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2025-05-30,1748632320.0
 数字游民报告,怠惰のコエ - imba久期 BLOG,https://imba97.com/archives/803/,https://imba97.com/,https://imba97.cn/atom.xml,2025-05-30,1748619258.0
@@ -42,10 +43,9 @@ Lesson 59 Gauss & Stokes 公式,菲兹克斯喵,https://physnya.top/integral/les
 35 岁了，遇到瓶颈很焦虑怎么办,Andy Stewart,//manateelazycat.github.io/2025/05/30/35-year/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-29,1748534400.0
 Lesson 12 留数定理的应用 (2),菲兹克斯喵,https://physnya.top/complex/lesson-12/,https://physnya.top/,https://physnya.top/atom.xml,2025-05-29,1748489580.0
 Lesson 58 Green 公式,菲兹克斯喵,https://physnya.top/integral/lesson-58/,https://physnya.top/,https://physnya.top/atom.xml,2025-05-28,1748416325.0
-销售三板斧,Andy Stewart,//manateelazycat.github.io/2025/05/28/sale/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-27,1748361600.0
 销售三板斧,Andy Stewart,https://manateelazycat.github.io/2025/05/28/sale/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-27,1748361600.0
+销售三板斧,Andy Stewart,//manateelazycat.github.io/2025/05/28/sale/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-27,1748361600.0
 Lesson 11 留数定理的应用 (1),菲兹克斯喵,https://physnya.top/complex/lesson-11/,https://physnya.top/,https://physnya.top/atom.xml,2025-05-27,1748310678.0
 Lesson 15 星系形成,菲兹克斯喵,https://physnya.top/cosmos/lesson-15/,https://physnya.top/,https://physnya.top/atom.xml,2025-05-26,1748276752.0
 不会武功，不要去武功山，哈哈哈哈,Andy Stewart,https://manateelazycat.github.io/2025/05/27/wu-gong-shan/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-26,1748275200.0
 不会武功，不要去武功山，哈哈哈哈,Andy Stewart,//manateelazycat.github.io/2025/05/27/wu-gong-shan/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2025-05-26,1748275200.0
-介绍个非常好用的工具 pakeplus,Nicksxs's Blog,https://nicksxs.me/2025/05/25/%E4%BB%8B%E7%BB%8D%E4%B8%AA%E9%9D%9E%E5%B8%B8%E5%A5%BD%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7-pakeplus/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-05-25,1748176383.0
