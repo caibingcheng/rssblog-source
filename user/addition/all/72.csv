@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+如何实现一个 Babel Macros,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-a-babel-macros/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
+如何实现一个 Babel Macros,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-a-babel-macros,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
 SQLAlchemy简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_30-sqlalchemy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-30,1572393600.0
 如何实现一个 Babel Macros,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-a-babel-macros,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-10-30,1572393600.0
 这些年，我们错过的n个亿,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_25-oh_my_money.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-25,1571961600.0
@@ -21,8 +23,8 @@ MySQL指定使用索引(使用索引提示),Jiajun的技术笔记,https://jiajun
 回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
 回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
 在 CentOS 下实现 MySQL 数据库定时自动备份,游钓四方,https://blog.lhasa.icu/posts/technology/2019-09-19-automatic-database-backup,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-09-19,1568889840.0
-ssh时自动运行tmux,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 ASHMORE 超声波清洗机 | 用超声波清洁2000块的键盘,罗磊的独立博客,https://luolei.org/ashmore-ultrasonic-cleaner,https://luolei.org,https://luolei.org/feed/,2019-09-18,1568764800.0
+ssh时自动运行tmux,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0
 爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0
 爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0
 ufw简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_14-ufw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-14,1568419200.0
@@ -47,5 +49,3 @@ Golang的template(模板引擎)简明教程,Jiajun的技术笔记,https://jiajun
 关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 关于 tapable 你需要知道这些,Ahonn's Blog,https://www.ahonn.me/blog/about-tapable-you-need-to-know-these,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
-代码的坏味道,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_18-code_with_bad_taste.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-18,1566086400.0
-你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-dns-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
