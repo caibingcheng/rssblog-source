@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Linux/Windows/MacOSX 系统常用命令集锦,This Cute World,https://thiscute.world/posts/common-commands-for-various-operating-systems/,https://thiscute.world/,https://thiscute.world/index.xml,2022-02-13,1644739740.0
 2022 春节遭遇,非理勿试,https://www.ntiy.com/1708.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-02-13,1644721207.0
 Java - 字符编码,Yulin Lewis' Blog,https://lewky.cn/posts/java-charset/,https://lewky.cn/,https://lewky.cn/index.xml,2022-02-13,1644720128.0
 Java - 字符编码,Yulin Lewis' Blog,https://lewky233.top/posts/java-charset/,https://lewky233.top/,https://lewky.cn/index.xml,2022-02-13,1644720128.0
@@ -10,8 +11,8 @@ expected shallow list 问题的解决,杜老师说,https://dusays.com/433/,https
 【WEB 系列】使用 StopWatch 输出执行耗时,框架師,https://www.mobaijun.com/posts/323943495.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-02-10,1644478505.0
 CentOS7 如何升级 Git 版本,杜老师说,https://dusays.com/432/,https://dusays.com/,https://dusays.com/atom.xml,2022-02-09,1644422400.0
 节后快速恢复工作状态，我推荐7件小事,冰哥笔记,https://www.bgbiji.com/863.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-02-09,1644417660.0
-python实现RSA加密数字,DearXuan的主页,https://dearxuan.top/2022/02/09/python%E5%AE%9E%E7%8E%B0RSA%E5%8A%A0%E5%AF%86%E6%95%B0%E5%AD%97/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-09,1644400380.0
 python实现RSA加密数字,DearXuan的主页,https://blog.dearxuan.com/2022/02/09/python%E5%AE%9E%E7%8E%B0RSA%E5%8A%A0%E5%AF%86%E6%95%B0%E5%AD%97/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-02-09,1644400380.0
+python实现RSA加密数字,DearXuan的主页,https://dearxuan.top/2022/02/09/python%E5%AE%9E%E7%8E%B0RSA%E5%8A%A0%E5%AF%86%E6%95%B0%E5%AD%97/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-02-09,1644400380.0
 批量查询域名是否可用,岚天小窝,https://blog.ltya.top/posts/Batch-query-domains-availability.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-02-08,1644336000.0
 批量查询域名是否可用,岚天小窝,http://blog.ltya.top/posts/Batch-query-domains-availability.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2022-02-08,1644336000.0
 Split Monolith Into Micro Front End,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220208-split-monolith-into-micro-front-end,https://teobler.com,https://teobler.com/rss.xml,2022-02-08,1644325560.0
@@ -45,7 +46,6 @@ Online Pricing and Trading of Private Data in Correlated Queries,Barney's Blog,h
 回乡记,LonelyGod,https://hin.cool/posts/huixiangji.html,https://hin.cool/,https://hin.cool/atom.xml,2022-01-24,1643062201.0
 部署一个 Kubernetes 集群,This Cute World,https://thiscute.world/posts/kubernetes-deployment-using-kubeadm/,https://thiscute.world/,https://thiscute.world/index.xml,2022-01-24,1643045820.0
 Kubernetes 微服务最佳实践,This Cute World,https://thiscute.world/posts/kubernetes-best-practices/,https://thiscute.world/,https://thiscute.world/index.xml,2022-01-24,1643040780.0
-算法基础-函数渐近,DearXuan的主页,https://blog.dearxuan.com/2022/01/24/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E5%87%BD%E6%95%B0%E6%B8%90%E8%BF%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-24,1643016720.0
 算法基础-函数渐近,DearXuan的主页,https://dearxuan.top/2022/01/24/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E5%87%BD%E6%95%B0%E6%B8%90%E8%BF%91/,https://dearxuan.top/,https://www.dearxuan.top/atom.xml,2022-01-24,1643016720.0
+算法基础-函数渐近,DearXuan的主页,https://blog.dearxuan.com/2022/01/24/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80-%E5%87%BD%E6%95%B0%E6%B8%90%E8%BF%91/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-01-24,1643016720.0
 【工具系列】Windows环境下切换JDK脚本,框架師,https://www.mobaijun.com/posts/772710478.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-01-24,1643009253.0
-glibc-exit源码阅读,BBing's Blog,https://bbing.com.cn/202201/glibc-exit/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-01-24,1642994496.0
