@@ -1,10 +1,12 @@
 title,author,link,home,rss,date,timestamp
+Docker组件介绍（一）：runc和containerd,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_22-docker_components.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-22,1545436800.0
+2018 香港流行音乐推介,Randy's Blog,https://lutaonan.com/blog/2018-cantonpop-list/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-12-19,1545177600.0
 Prometheus MySQL Exporter源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_16-prometheus_mysqld_exporter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-16,1544918400.0
 MySQL性能指标,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_13-db_metrics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-13,1544659200.0
 使用Dropbox来备份服务器文件,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_12-use_dropbox_to_backup_server.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-12,1544572800.0
 《计算机网络-系统方法》读书笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_10-computer_network_systems_approach.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-10,1544400000.0
-1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/archives/37/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
 1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/notebook/12,https://blog.fsky7.com,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
+1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/archives/37/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
 Y Combinator《如何创业》笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_08-yc_startup.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-08,1544227200.0
 每个创作者都应该有张人体工学梯:西昊M60,罗磊的独立博客,https://luolei.org/my-office-chair-2018,https://luolei.org,https://luolei.org/feed/,2018-12-05,1543968000.0
 Go类型嵌套,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_01-go_embedding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-01,1543622400.0
@@ -25,8 +27,8 @@ Go的unsafe包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_13
 Golang中实现禁止拷贝,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
 人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0
 数据库事务,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_10-transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
-参观神州第一舰 | 中国海军深圳舰开放日 | VLOG19,罗磊的独立博客,https://luolei.org/china-pla-navy-167-ship-open-day,https://luolei.org,https://luolei.org/feed/,2018-11-09,1541721600.0
 把网站去掉CSS之后,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_09-drop_css.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-09,1541721600.0
+参观神州第一舰 | 中国海军深圳舰开放日 | VLOG19,罗磊的独立博客,https://luolei.org/china-pla-navy-167-ship-open-day,https://luolei.org,https://luolei.org/feed/,2018-11-09,1541721600.0
 处理并发的方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_07-concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-07,1541548800.0
 常见的索引方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_02-index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-02,1541116800.0
 Golang 实践经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_01-golang_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-01,1541030400.0
@@ -47,5 +49,3 @@ HTTP/2 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_13-
 我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0
 UTAU插件:一键描点 使用帮助,FlyingSky's Blog,https://blog.fsky7.com/technology/77,https://blog.fsky7.com,https://blog.fsky7.com/feed,2018-10-01,1538366400.0
 Linux 命令笔记,游钓四方,https://blog.lhasa.icu/posts/technology/2018-09-24-linux-command,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-09-24,1537764240.0
-独立运营博客一年的一些数据分享,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
-面向对象(Object Oriented)学习笔记(一),游钓四方,https://blog.lhasa.icu/posts/technology/2018-09-23-object_oriented,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-09-23,1537673280.0

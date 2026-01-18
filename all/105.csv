@@ -1,10 +1,12 @@
 title,author,link,home,rss,date,timestamp
+MySQL指定使用索引(使用索引提示),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_25-mysql_use_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-25,1569369600.0
+MySQL 主从复制的简介,杜老师说,https://dusays.com/78/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-24,1569340800.0
 PHP 动态模式和静态模式区别,杜老师说,https://dusays.com/77/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-23,1569254400.0
-QT5使用GTK主题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-qt5_gtk_theme.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
+搭建samba服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-samba.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0
 Linux 运维人员最常用 166 个命令汇总,杜老师说,https://dusays.com/76/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-22,1569168000.0
 IaaS/PaaS/SaaS 的区别,杜老师说,https://dusays.com/75/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-21,1569081600.0
-回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
 回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
+回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0
 简单架构中的数据走向,杜老师说,https://dusays.com/74/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-20,1568995200.0
 地址解析协议,杜老师说,https://dusays.com/73/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-19,1568908800.0
 在 CentOS 下实现 MySQL 数据库定时自动备份,游钓四方,https://blog.lhasa.icu/posts/technology/2019-09-19-automatic-database-backup,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-09-19,1568889840.0
@@ -47,5 +49,3 @@ OSI 七层模型非专业简介,杜老师说,https://dusays.com/57/,https://dusa
 Golang(Go语言)爬虫框架colly简明教程及源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_31-go_colly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-31,1567209600.0
 阿川的个人博客 创建一周年啦!,游钓四方,https://blog.lhasa.icu/posts/life/2019-08-31-blog-anniversary,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-08-30,1567199880.0
 带你读单词第 23 期,杜老师说,https://dusays.com/53/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-30,1567180800.0
-选择合适的技术栈,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_30-choose_properly_tech.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-30,1567123200.0
-带你读单词第 22 期,杜老师说,https://dusays.com/52/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-29,1567094400.0
