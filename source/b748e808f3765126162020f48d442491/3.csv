@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+_initialize() 和 __construct() 的区别,游钓四方,https://blog.lhasa.icu/posts/technology/2019-04-08-initialize-construct,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-04-08,1554690480.0
+Jekyll 环境搭建 (Windows 10),游钓四方,https://blog.lhasa.icu/posts/technology/2019-03-29-jekyll-installation,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-03-29,1553822820.0
 今日随笔,游钓四方,https://blog.lhasa.icu/posts/life/2019-03-26-thoughts,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-03-26,1553566620.0
 第一次校招复试总结,游钓四方,https://blog.lhasa.icu/posts/technology/2019-03-04-summarize,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-03-04,1551666480.0
 ThinkPHP 笔记(路由实现与操作方法),游钓四方,https://blog.lhasa.icu/posts/technology/2019-02-28-tp5,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-02-28,1551342300.0
