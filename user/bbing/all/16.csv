@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+分布式数据库的一致性问题与共识算法,This Cute World,https://thiscute.world/posts/consistency-and-consensus-algorithm/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2022-08-06,1659816683.0
+Python小概念,Barney's Blog,https://hugo.bnblogs.cc/python%E5%B0%8F%E6%A6%82%E5%BF%B5/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-08-06,1659792975.0
 推荐一个 WordPress 付费主题站,杜老师说,https://dusays.com/491/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-06,1659744000.0
 Django删除表重建,cywhat's blog,https://cywhat.cn/Django%E5%88%A0%E9%99%A4%E8%A1%A8%E9%87%8D%E5%BB%BA/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-08-05,1659670743.0
 测试页面,Barney's Blog,https://hugo.bnblogs.cc/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-08-04,1659603456.0
@@ -35,8 +37,8 @@ XMind 2022 专业思维导图脑图软件,杜老师说,https://dusays.com/481/,h
 STL-any源码阅读,Bing's Blog,https://bbing.com.cn/202207/cpp-stl-any/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-07-06,1657098651.0
 Django的csrf防御机制,cywhat's blog,https://cywhat.cn/Django%E7%9A%84csrf%E9%98%B2%E5%BE%A1%E6%9C%BA%E5%88%B6/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-07-04,1656916290.0
 奶牛快传专业版 COWTRANSFER PRO 文件在线传输,杜老师说,https://dusays.com/480/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-04,1656892800.0
-背包英雄：匕首流无尽模式详细攻略,Yulin Lewis' Blog,https://lewky.cn/posts/backpack-hero-dagger/,https://lewky.cn/,https://lewky.cn/index.xml,2022-07-03,1656836774.0
 背包英雄：匕首流无尽模式详细攻略,Yulin Lewis' Blog,https://lewky233.top/posts/backpack-hero-dagger/,https://lewky233.top/,https://lewky.cn/index.xml,2022-07-03,1656836774.0
+背包英雄：匕首流无尽模式详细攻略,Yulin Lewis' Blog,https://lewky.cn/posts/backpack-hero-dagger/,https://lewky.cn/,https://lewky.cn/index.xml,2022-07-03,1656836774.0
 以 U-NET 为例的网络构建代码实现,无妄当自持,https://www.insidentally.com/articles/000031/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-07-02,1656763893.0
 Vovsoft Text Edit Plus 专业文本编辑器工具软件,杜老师说,https://dusays.com/479/,https://dusays.com/,https://dusays.com/atom.xml,2022-07-01,1656633600.0
 React 函数式组件中防抖的应用（React + Hook + Typescript）,无妄当自持,https://www.insidentally.com/articles/000030/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-29,1656501153.0
@@ -47,47 +49,3 @@ Optimal Auctions through Deep Learning,Barney's Blog,https://hugo.bnblogs.cc/pap
 杜老师说网站更新图解,杜老师说,https://dusays.com/477/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-25,1656115200.0
 Linux问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/linux-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2022-06-22,1655916265.0
 Linux问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/linux-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2022-06-22,1655916265.0
-杜老师自建国内不蒜子统计平台,杜老师说,https://dusays.com/476/,https://dusays.com/,https://dusays.com/atom.xml,2022-06-22,1655856000.0
-"博客公告 | 说说<div class=""wrap""><span class=""wraps"">置顶</span></div>
-<style type=""text/css"">
-.wrap {
-width: 100%;
-height: 100%;
-position: absolute;
-top: -8px;
-left: 8px;
-overflow: hidden;
-font-size: 17px;
-font-weight: 400;
-color: #fff;
-opacity: 0.5;
--webkit-transition: .3s ease all;
--moz-transition: .3s ease all;
--ms-transition: .3s ease all;
--o-transition: .3s ease all;
-transition: .3s ease all;
-}
-.wrap:hover {
-opacity: 0.9;
-}
-.wraps {
-display: inline-block;
-text-align: center;
-width: 200px;
-height: 30px;
-line-height: 27px;
-position: absolute;
-top: 30px;
-right: -50px;
-z-index: 2;
-overflow: hidden;
-transform: rotate(45deg);
--ms-transform: rotate(45deg);
--moz-transform: rotate(45deg);
--webkit-transform: rotate(45deg);
--o-transform: rotate(45deg);
-border: 1px dashed;
-box-shadow: 0 0 0 1px #000， 0px 21px 5px -18px rgba(0，0，0，0.6);
-background: red;
-}
-</style>",Peter's Blog,https://www.rainogo.com/posts/blog_notice_talk.html,https://www.rainogo.com/,https://www.rainogo.com/feed/,2022-06-20,1655739300.0
