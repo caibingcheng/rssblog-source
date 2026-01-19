@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+2021年，我的EDC,Zikin的独立博客,https://zikin.org/my-edc-2021/,https://zikin.org/,https://zikin.org/feed,2021-08-29,1630246195.0
+聊一下 RocketMQ 的顺序消息,Nicksxs's Blog,https://nicksxs.me/2021/08/29/%E8%81%8A%E4%B8%80%E4%B8%8B-RocketMQ-%E7%9A%84%E9%A1%BA%E5%BA%8F%E6%B6%88%E6%81%AF/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-29,1630240877.0
 【恋爱手记 Vol.2】意外与惊喜中的初见,Luminous' Home,https://luotianyi.vc/5801.html,https://luotianyi.vc,https://luotianyi.vc/feed,2021-08-28,1630135737.0
 最强水冷方案,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/best-water-colding.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2021-08-28,1630123020.0
 单测时要不要 mock 数据库？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_08_27-mock_db_or_not.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-08-27,1630022400.0
@@ -15,13 +17,13 @@ Ubuntu 20.04.2 LTS Server版本设置静态IP地址,框架师,https://www.mobaij
 redis 的 rdb 和 COW 介绍,Nicksxs's Blog,https://nicksxs.me/2021/08/15/redis-%E7%9A%84-rdb-%E5%92%8C-COW-%E4%BB%8B%E7%BB%8D/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-15,1629033725.0
 [笔记] Minecraft 物品 ID 与名称对应表,Zikin的独立博客,https://zikin.org/mc-give/,https://zikin.org/,https://zikin.org/feed,2021-08-14,1628909462.0
 多事之秋 第一篇,非理勿试,https://www.ntiy.com/1639.html,https://www.ntiy.com,https://www.ntiy.com/feed,2021-08-13,1628830559.0
-像我这种有强迫症的人,近视眼逛博客,https://blog.dtz9.com/2021/08/People-with-OCD-like-me.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-08-10,1628609220.0
 像我这种有强迫症的人,近视眼逛博客,https://blog.9hz.club/2021/08/People-with-OCD-like-me.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2021-08-10,1628609220.0
+像我这种有强迫症的人,近视眼逛博客,https://blog.dtz9.com/2021/08/People-with-OCD-like-me.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-08-10,1628609220.0
 如何保持高效的工作或学习状态？,冰哥笔记,https://www.bgbiji.com/821.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2021-08-10,1628584045.0
 怎么对候选人进行面试,见字如面,https://hiwannz.com/archives/578,https://hiwannz.com,https://hiwannz.com/feed,2021-08-10,1628565093.0
 聊在东京奥运会闭幕式这天,Nicksxs's Blog,https://nicksxs.me/2021/08/08/%E8%81%8A%E5%9C%A8%E4%B8%9C%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E8%BF%99%E5%A4%A9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2021-08-08,1628424307.0
-男人的最爱应该就是金钱和美女吧？,近视眼逛博客,https://blog.9hz.club/2021/08/Men-s-favorite-should-be-money-and-beauty.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2021-08-05,1628179860.0
 男人的最爱应该就是金钱和美女吧？,近视眼逛博客,https://blog.dtz9.com/2021/08/Men-s-favorite-should-be-money-and-beauty.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2021-08-05,1628179860.0
+男人的最爱应该就是金钱和美女吧？,近视眼逛博客,https://blog.9hz.club/2021/08/Men-s-favorite-should-be-money-and-beauty.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2021-08-05,1628179860.0
 「养鱼记」图赏,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/fish-culture-picture-appreciation.html,https://zmmio.com/,https://zmmio.com/feed,2021-08-05,1628172240.0
 【WEB系列】SpringBoot监控工具之《Actuator》,框架師,https://www.mobaijun.com/posts/283491354.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-08-05,1628127593.0
 产品思维,见字如面,https://hiwannz.com/archives/576,https://hiwannz.com,https://hiwannz.com/feed,2021-08-04,1628080056.0
@@ -47,5 +49,3 @@ redis过期策略复习,Nicksxs's Blog,https://nicksxs.me/2021/07/25/redis%E8%BF
 面试时到底应该问什么,见字如面,https://hiwannz.com/archives/568,https://hiwannz.com,https://hiwannz.com/feed,2021-07-23,1627028243.0
 给Typecho Pinghsu主题更换「Gravatar」源,ZM沫. - Life record . 记录自己的日常琐事.旅途世界,https://zmmio.com/replacing-gravetar-source-for-typecho-pinghsu-theme.html,https://zmmio.com/,https://zmmio.com/feed,2021-07-20,1626823972.0
 开着特斯拉从广州到苏州的小记,Randy's Blog,https://lutaonan.com/blog/trip-from-guangzhou-to-suzhou/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2021-07-20,1626739200.0
-建立与他人的连接,见字如面,https://hiwannz.com/archives/564,https://hiwannz.com,https://hiwannz.com/feed,2021-07-19,1626680297.0
-【WEB系列】SpringBoot数据库（URL）参数记录,框架師,https://www.mobaijun.com/posts/2403615121.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2021-07-19,1626664718.0
