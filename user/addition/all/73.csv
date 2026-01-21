@@ -6,10 +6,10 @@ Golang(Go语言)爬虫框架colly简明教程及源码阅读与分析,Jiajun的�
 选择合适的技术栈,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_30-choose_properly_tech.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-30,1567123200.0
 说说消失这二十多天发生的事情,游钓四方,https://blog.lhasa.icu/posts/life/2019-08-25-tech-what-happened,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-08-25,1566708240.0
 Golang的template(模板引擎)简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_23-golang_html_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-23,1566518400.0
-毕业三年，一路走来,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_21-three_years_after_graduate.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-21,1566345600.0
+关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 关于 tapable 你需要知道这些,Ahonn's Blog,https://www.ahonn.me/blog/about-tapable-you-need-to-know-these,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
-关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
+毕业三年，一路走来,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_21-three_years_after_graduate.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-21,1566345600.0
 代码的坏味道,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_18-code_with_bad_taste.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-18,1566086400.0
 你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-dns-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
 你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-dns-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
@@ -34,8 +34,8 @@ GCC默认的头文件搜索路径,Jiajun的技术笔记,https://jiajunhuang.com/
 后端工程师学前端(五): SASS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_13-learn_front_end_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-13,1562976000.0
 后端工程师学前端(四): CSS进阶(盒子模型),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_10-learn_front_end_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-10,1562716800.0
 我为什么选择 Telegram 来运营粉丝社群 | 规则、经验和思考,罗磊的独立博客,https://luolei.org/why-i-choose-telegram,https://luolei.org,https://luolei.org/feed/,2019-07-08,1562544000.0
-我的博客从 Ghost 迁移回 Wordpress | 优化记录,罗磊的独立博客,https://luolei.org/migrate-from-ghost-to-wordpress,https://luolei.org,https://luolei.org/feed/,2019-07-06,1562371200.0
 读《投资中最简单的事》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_06-the_simple_things_in_investment.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-06,1562371200.0
+我的博客从 Ghost 迁移回 Wordpress | 优化记录,罗磊的独立博客,https://luolei.org/migrate-from-ghost-to-wordpress,https://luolei.org,https://luolei.org/feed/,2019-07-06,1562371200.0
 爱上Go语言：终端命令,游钓四方,https://blog.lhasa.icu/posts/technology/2019-07-05-love-go,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-07-05,1562293080.0
 我最喜欢的一台相机，今天被车压碎了 | RICOH GR | VLOG54,罗磊的独立博客,https://luolei.org/my-ricoh-gr-was-crashed-by-a-car,https://luolei.org,https://luolei.org/feed/,2019-07-05,1562284800.0
 后端工程师学前端(三): CSS进阶(特指度、单位和字体族),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_04-learn_front_end_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-04,1562198400.0
@@ -43,9 +43,9 @@ GCC默认的头文件搜索路径,Jiajun的技术笔记,https://jiajunhuang.com/
 后端工程师学前端(二): CSS基础知识(规则与选择器),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_02-learn_front_end_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-02,1562025600.0
 澳门旅行手机上网卡推荐 | CUniq CMLink | VLOG52,罗磊的独立博客,https://luolei.org/macau-roaming-sim-card,https://luolei.org,https://luolei.org/feed/,2019-07-02,1562025600.0
 背光门 | 苹果 MacBook 即将爆发的下一个质量问题 ? | Flexgate | 持续更新,罗磊的独立博客,https://luolei.org/apple-macbook-flexgate,https://luolei.org,https://luolei.org/feed/,2019-06-27,1561593600.0
-Swift语法笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_25-swift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-25,1561420800.0
 纽约 |  2019，我在时代广场跨年  | NYC深度行摄,罗磊的独立博客,https://luolei.org/new-york-2019,https://luolei.org,https://luolei.org/feed/,2019-06-25,1561420800.0
-后端工程师学前端(一): HTML,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_23-learn_front_end.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-23,1561248000.0
+Swift语法笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_25-swift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-25,1561420800.0
+读《管理的实践》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_23-the_practice_of_management.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-23,1561248000.0
 frp 源码阅读与分析(二)：TCP内网穿透的实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_19-frp_source_code_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-19,1560902400.0
-井底之蛙的一片天空,Randy's Blog,https://lutaonan.com/blog/to-hongkong-people,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-06-17,1560729600.0
 井底之蛙的一片天空,Randy's Blog,https://lutaonan.com/blog/to-hongkong-people/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-06-17,1560729600.0
+井底之蛙的一片天空,Randy's Blog,https://lutaonan.com/blog/to-hongkong-people,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-06-17,1560729600.0
