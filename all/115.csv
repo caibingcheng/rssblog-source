@@ -12,8 +12,8 @@ Haskell简明教程（四）：Monoid， Applicative， Monad,Jiajun的技术笔
 HTTPS 的详细流程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_22-https_processes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-22,1506038400.0
 OAuth2 为什么需要 Authorization Code?,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_21-oauth2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-21,1505952000.0
 任务队列怎么写？python rq源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_20-task_queue_python_rq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-20,1505865600.0
-XMonad 配置教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_19-xmonad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-19,1505779200.0
 Insta360 Nano:一个让我对VR感兴趣的全景相机,罗磊的独立博客,https://luolei.org/insta360-one-vr-camera,https://luolei.org,https://luolei.org/feed/,2017-09-19,1505779200.0
+XMonad 配置教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_19-xmonad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-19,1505779200.0
 Haskell简明教程（三）：Haskell语法,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_18-learn_you_a_haskell_part_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-18,1505692800.0
 Haskell简明教程（二）：从命令式语言进行抽象,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_17-learn_you_a_haskell_part_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-17,1505606400.0
 Haskell简明教程（一）：从递归说起,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_11-learn_you_a_haskell_part_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-11,1505088000.0
@@ -29,8 +29,8 @@ TCP/IP简明教程 - 从零构建TCP/IP协议（二）连接，断开与拥塞�
 米家小相机开箱:本是同根生，相煎也太急,罗磊的独立博客,https://luolei.org/mijia-action-camera-unboxing,https://luolei.org,https://luolei.org/feed/,2017-08-22,1503360000.0
 南京之旅-记10th计算机设计大赛,云游君的小站,https://www.yunyoujun.cn/posts/a-trip-to-nanjing-10th-contest,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-08-21,1503355272.0
 Laravel 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/laravel-use-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-08-21,1503332818.0
-养猫随想,Randy's Blog,https://lutaonan.com/blog/cat-capriccio,https://lutaonan.com,https://lutaonan.com/rss.xml,2017-08-20,1503187200.0
 养猫随想,Randy's Blog,https://lutaonan.com/blog/cat-capriccio/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-08-20,1503187200.0
+养猫随想,Randy's Blog,https://lutaonan.com/blog/cat-capriccio,https://lutaonan.com,https://lutaonan.com/rss.xml,2017-08-20,1503187200.0
 SONY A6500:APS-C最强微单开箱,罗磊的独立博客,https://luolei.org/sony-a6500-unboxing,https://luolei.org,https://luolei.org/feed/,2017-08-18,1503014400.0
 TCP/IP简明教程 - 从零构建TCP/IP协议（这次叫PCT协议）,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_08_12-tcp_ip.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-08-12,1502496000.0
 Lua Manual 阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_08_09-lua_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-08-09,1502236800.0
@@ -46,6 +46,6 @@ MySQL 零碎知识 - MySQL必知必会,Jiajun的技术笔记,https://jiajunhuang
 Golang slice 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_18-golang_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-18,1500336000.0
 经典好书推荐(2017),Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_15-books.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-15,1500076800.0
 水彩原创头像尝试,云游君的小站,https://www.yunyoujun.cn/posts/a-try-about-watercolor-portrait,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-12,1499894106.0
-群晖 DS216j 半年体验报告,Randy's Blog,https://lutaonan.com/blog/synology-ds216j-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-07-11,1499731200.0
 Golang log库 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_11-golang_log.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-11,1499731200.0
+群晖 DS216j 半年体验报告,Randy's Blog,https://lutaonan.com/blog/synology-ds216j-exp/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2017-07-11,1499731200.0
 云游君表情包制作计划,云游君的小站,https://www.yunyoujun.cn/posts/yunyoujun-meme,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-10,1499683297.0
