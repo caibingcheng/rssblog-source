@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Android调用gRPC的两个小工具函数,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_07-android_kotlin_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-07,1607299200.0
 程序員與文學衝突,Just lepture,https://lepture.com/zh/2020/tweet-yuan,https://lepture.com/,https://lepture.com/feed.xml,2020-12-06,1607235718.0
 【DB系列】InfluxDB,框架師,https://www.mobaijun.com/posts/2901774056.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-04,1607048712.0
 Android上结合kotlin使用coroutine,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_01-android_kotlin_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-01,1606780800.0
@@ -9,13 +10,13 @@ Mac 上配置 MNMP 环境,4Ark × Blog,https://4ark.me/post/41f45ee.html,https:/
 历史与记忆,Frank笔记,https://frank2019.me/archives/li-shi-yu-ji-yi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-11-29,1606631580.0
 Undefined,FlyingSky's Blog,https://blog.fsky7.com/archives/173/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-11-29,1606629540.0
 Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-29-Keep-Data-Consistency-During-Database-Migration.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-29,1606626000.0
-旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,http://luolei.org/pamu-quiet/,https://luolei.org/,https://luolei.org/feed/,2020-11-26,1606398780.0
 旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,https://luolei.org/pamu-quiet/,http://luolei.org/,https://luolei.org/feed/,2020-11-26,1606398780.0
+旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,http://luolei.org/pamu-quiet/,https://luolei.org/,https://luolei.org/feed/,2020-11-26,1606398780.0
 gRPC错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_26-grpc_error_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-26,1606348800.0
 从 Vite 与 Vue 开始的 D3 数据可视化之旅,云游君的小站,https://www.yunyoujun.cn/posts/vue-d3-demo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-21,1605988569.0
 从 Vite 与 Vue 开始的 D3 数据可视化之旅,云游君的小站,https://www.yunyoujun.cn/posts/vue-d3-demo/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-21,1605959769.0
-这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯,罗磊的独立博客,http://luolei.org/warsun-portable-y40-led-light/,https://luolei.org/,https://luolei.org/feed/,2020-11-20,1605876282.0
 这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯,罗磊的独立博客,https://luolei.org/warsun-portable-y40-led-light/,http://luolei.org/,https://luolei.org/feed/,2020-11-20,1605876282.0
+这是男人想要的手电筒模样 | warsun 沃尔森 Y40 太阳能 LED 灯,罗磊的独立博客,http://luolei.org/warsun-portable-y40-led-light/,https://luolei.org/,https://luolei.org/feed/,2020-11-20,1605876282.0
 老鞋续命，我给一双穿了5年的沙漠靴修鞋底,罗磊的独立博客,https://luolei.org/clarks-desert-boot-resole/,https://luolei.org/,https://luolei.org/feed/,2020-11-17,1605622348.0
 带老婆去华强北买 iPhone 12 手机壳,罗磊的独立博客,https://luolei.org/iphone-shell-supermarket/,https://luolei.org/,https://luolei.org/feed/,2020-11-14,1605326464.0
 Java collection的结构,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_13-java_colletions.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-13,1605225600.0
@@ -23,8 +24,8 @@ Java collection的结构,Jiajun的技术笔记,https://jiajunhuang.com/articles/
 如何找到你朋友的社交账号,云游君的小站,https://www.yunyoujun.cn/posts/find-npy-social-account/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-11-12,1605152798.0
 资产证券化对中国的影响,Frank笔记,https://frank2019.me/archives/zi-chan-zheng-quan-hua-dui-zhong-guo-de-ying-xiang,https://frank2019.me/,https://frank2019.me/rss.xml,2020-11-11,1605076140.0
 【WEB系列】SpringBoot 实现 Websocket 通信详解,框架師,https://www.mobaijun.com/posts/3556598747.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-11-10,1605005482.0
-为什么 Linux 需要 Swapping,面向信仰编程,https://draven.co//whys-the-design-linux-swapping,https://draven.co/,https://draveness.me/feed.xml,2020-11-10,1604966400.0
 为什么 Linux 需要 Swapping,面向信仰编程,https://draveness.me//whys-the-design-linux-swapping,https://draveness.me/,https://draveness.me/feed.xml,2020-11-10,1604966400.0
+为什么 Linux 需要 Swapping,面向信仰编程,https://draven.co//whys-the-design-linux-swapping,https://draven.co/,https://draveness.me/feed.xml,2020-11-10,1604966400.0
 DNS Resolving Bug in iOS 14,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-08-DNS-Resolving-Bug-in-iOS-14.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-08,1604811600.0
 【工具系列】常用开发软件配置,框架師,https://www.mobaijun.com/posts/1002246177.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-11-07,1604749676.0
 为什么 HugePages 可以提升数据库性能,面向信仰编程,https://draveness.me//whys-the-design-linux-hugepages,https://draveness.me/,https://draveness.me/feed.xml,2020-11-04,1604448000.0
@@ -46,6 +47,5 @@ Go使用闭包简化数据库操作代码,Jiajun的技术笔记,https://jiajunhu
 Manjaro Linux 双显卡切换解决方案,游钓四方,https://blog.lhasa.icu/posts/technology/2020-10-15-manjaro-dual-graphics,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-10-15,1602751260.0
 国庆成都之行,Frank笔记,https://frank2019.me/archives/guo-qing-cheng-du-zhi-xing,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-14,1602652980.0
 TCMalloc设计文档学习,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_10-tcmalloc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-10,1602288000.0
-免费获取 EU.org 顶级域名,岚天小窝,https://blog.ltya.top/posts/eu-org.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-10-08,1602172800.0
 免费获取 EU.org 顶级域名,岚天小窝,http://blog.ltya.top/posts/eu-org.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-10-08,1602172800.0
-如何从 Valine 迁移至 Disqus,云游君的小站,https://www.yunyoujun.cn/posts/migrate-from-valine-to-disqus,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-06,1601996953.0
+免费获取 EU.org 顶级域名,岚天小窝,https://blog.ltya.top/posts/eu-org.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-10-08,1602172800.0

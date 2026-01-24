@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【Java基础】Java-[Object，Date，Calendar]复习,框架師,https://www.mobaijun.com/posts/3746716574.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-04,1588556704.0
 后浪观后感,Frank笔记,https://frank2019.me/archives/hou-lang-guan-hou-gan,https://frank2019.me/,https://frank2019.me/rss.xml,2020-05-03,1588537920.0
 【Java基础】Java-[Arrays，Scanner，Math，RanDom]复习,框架師,https://www.mobaijun.com/posts/3116814990.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-03,1588490135.0
 【Java基础】Java-String类复习笔记,框架師,https://www.mobaijun.com/posts/230577513.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-03,1588486604.0
@@ -17,10 +18,10 @@ JetBrains 官方推中文简体包了,游钓四方,https://blog.lhasa.icu/posts/
 使用Go语言实现一个异步任务框架,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_24-gotasks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-24,1587686400.0
 简单聊 Tunnel,杜老师说,https://dusays.com/214/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-23,1587657600.0
 Go使用gdb调试,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_23-go_gdb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-23,1587600000.0
-Golang ASM简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_22-go_asm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
+Golang context源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_22-golang_context.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
 【Git系列】详细记录一次码云和Git异常解决方案,框架師,https://www.mobaijun.com/posts/3160757487.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-21,1587434290.0
+善用闭包(closure)让Go代码更优雅,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_21-use_closure.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
 CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡,罗磊的独立博客,https://luolei.org/cmlink-global-borderless-internet-roaming-card,https://luolei.org,https://luolei.org/feed/,2020-04-21,1587427200.0
-Golang中的并发控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_21-golang_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
 Linux 特殊权限总结篇,杜老师说,https://dusays.com/213/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-20,1587398400.0
 Golang的可选参数实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
 危机四伏的2020，既是困难，也是机遇！,Frank笔记,https://frank2019.me/archives/wei-ji-si-fu-de-2020-ji-shi-kun-nan-ye-shi-ji-yu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-18,1587241740.0
@@ -42,10 +43,9 @@ Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的技术笔记,https:/
 Golang validator使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
 垃圾清理软件多，是我们缺存储空间吗？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/25.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-09,1586425500.0
 Manjaro KDE 调教日记,游钓四方,https://blog.lhasa.icu/posts/technology/2020-04-09-manjaro-kde,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-04-09,1586402640.0
-使用Redis的Stream模块实现群聊功能,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_09-redis_stream_as_im.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
+价值编程与职业发展,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_09-value_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
 DeepL | 从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工具,罗磊的独立博客,https://luolei.org/deepl-ai-translator,https://luolei.org,https://luolei.org/feed/,2020-04-09,1586390400.0
 【转载】世界不应该是这样的,Frank笔记,https://frank2019.me/archives/zhuan-zai-shi-jie-bu-ying-gai-shi-zhe-yang-de,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-08,1586377380.0
 关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
 CDN 原理及使用,杜老师说,https://dusays.com/209/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-08,1586361600.0
 解决k8s cron无法读取环境变量的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
-(转)谈 Linux，Windows 和 Mac,游钓四方,https://blog.lhasa.icu/posts/technology/2020-04-07-blog-fully-linux-working,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-04-07,1586254200.0
