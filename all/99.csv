@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+CDN 原理及使用,杜老师说,https://dusays.com/209/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-08,1586361600.0
+解决k8s cron无法读取环境变量的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
 (转)谈 Linux，Windows 和 Mac,游钓四方,https://blog.lhasa.icu/posts/technology/2020-04-07-blog-fully-linux-working,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-04-07,1586254200.0
 使用 Istio 进行 JWT 身份验证（充当 API 网关）,This Cute World,https://thiscute.world/posts/use-istio-for-jwt-auth/,https://thiscute.world/,https://thiscute.world/index.xml,2020-04-06,1586180906.0
 VPS 手动在线一键重装系统脚本整理,ChrAlpha,https://blog.ichr.me/post/scripts-for-reinstalling-linux-vps/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-06,1586171300.0
@@ -47,5 +49,3 @@ Windows2008 系统 IIS 服务安装,杜老师说,https://dusays.com/200/,https:/
 面试过程中需要注意的细节,杜老师说,https://dusays.com/198/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-06,1583510400.0
 在 Hexo 博客中更优雅地使用 LaTeX 数学公式,ChrAlpha,https://blog.ichr.me/post/fix-mathjax-layout-bugs-in-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-06,1583503087.0
 MySQL Boolean类型的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_06-mysql_boolean_tinyint_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-06,1583452800.0
-Hexo 博客 | 链接分享卡片生成配置,ChrAlpha,https://blog.ichr.me/post/hexo-generate-link-sharing-card/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-05,1583423588.0
-教你如何从零开始搭建一个属于自己的网站,云游君的小站,https://www.yunyoujun.cn/share/how-to-build-your-site/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-04,1583343068.0
