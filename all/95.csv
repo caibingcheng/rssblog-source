@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+最低抵抗頻率,Frank笔记,https://frank2019.me/archives/zui-di-di-kang-pin-lu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-08-17,1597640940.0
 NSQ源码分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_08_16-nsq_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-08-16,1597536000.0
 Apache 的三种工作模式介绍「prefork 篇」,杜老师说,https://dusays.com/252/,https://dusays.com/,https://dusays.com/atom.xml,2020-08-15,1597507200.0
 写给大学新生的数字指南,罗磊的独立博客,https://luolei.org/freshman-internet-guidebook/,https://luolei.org/,https://luolei.org/feed/,2020-08-15,1597495033.0
@@ -33,7 +34,7 @@ Hexo 指定不进行渲染的文件或目录,杜老师说,https://dusays.com/246
 Hexo 生成页面出现问题 WARN No layout,杜老师说,https://dusays.com/245/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-25,1595692800.0
 Linux窗口管理器下的截图,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_25-linux_screenshot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-25,1595635200.0
 更换博客系统BOLO,Frank笔记,https://frank2019.me/archives/geng-huan-bo-ke-xi-tong-bolo,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-23,1595480460.0
-Go设计模式：facade模式和观察者模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_23-go_design_pattern_facade.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
+程序员的MySQL手册(二): 监控与benchmark,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_23-mysql_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-23,1595462400.0
 为 Nextcloud 添加 Markdown 编辑器,杜老师说,https://dusays.com/244/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-22,1595433600.0
 牌普分析,Frank笔记,https://frank2019.me/archives/pai-pu-fen-xi,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-22,1595393880.0
 Go设计模式: 责任链模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_21-go_design_pattern_chain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-21,1595289600.0
@@ -48,4 +49,3 @@ Go设计模式：装饰器模式,Jiajun的技术笔记,https://jiajunhuang.com/a
 短网址生成,qinxs小站,https://7bxing.com/posts/991130e/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-07-12,1594532801.0
 PicGo 的安装,杜老师说,https://dusays.com/240/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-10,1594396800.0
 GTO与阻断牌效应,Frank笔记,https://frank2019.me/archives/gtoyu-zu-duan-pai-xiao-ying,https://frank2019.me/,https://frank2019.me/rss.xml,2020-07-10,1594357020.0
-Win10 的 S 模式是什么,杜老师说,https://dusays.com/239/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-07,1594137600.0
