@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+建立集中式 Clash 网关,杜老师说,https://dusays.com/290/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-08,1607443200.0
 Android调用gRPC的两个小工具函数,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_07-android_kotlin_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-07,1607299200.0
 程序員與文學衝突,Just lepture,https://lepture.com/zh/2020/tweet-yuan,https://lepture.com/,https://lepture.com/feed.xml,2020-12-06,1607235718.0
 通过 Docker 部署 AdGuard Home 实战,杜老师说,https://dusays.com/289/,https://dusays.com/,https://dusays.com/atom.xml,2020-12-05,1607184000.0
@@ -48,4 +49,3 @@ Use TLA+ to Verify Cache Consistency,Bin Wang - My Personal Blog,https://www.bin
 为啥Redis使用pipelining会更快？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_02-why_pipelining_fast.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-02,1604275200.0
 Java 的 SE/EE/ME 区别知道吗,杜老师说,https://dusays.com/278/,https://dusays.com/,https://dusays.com/atom.xml,2020-11-01,1604246400.0
 在线、近线、离线存储都是什么,杜老师说,https://dusays.com/277/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-29,1603987200.0
-/bin/sh: python: not found 问题的解决,Frank笔记,https://frank2019.me/archives/bin-sh-python-not-found-wen-ti-de-jie-jue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-10-29,1603949280.0
