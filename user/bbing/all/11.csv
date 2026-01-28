@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Linux卸载RabbitMQ,cywhat's blog,https://cywhat.cn/Linux%E5%8D%B8%E8%BD%BDRabbitMq/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-04-18,1681799507.0
 Linux安装RabbitMQ,cywhat's blog,https://cywhat.cn/Linux%E5%AE%89%E8%A3%85RabbitMQ/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-04-17,1681724157.0
 骑行码表和车尾灯,杜老师说,https://dusays.com/576/,https://dusays.com/,https://dusays.com/atom.xml,2023-04-16,1681660800.0
 ValueError:invalid,cywhat's blog,https://cywhat.cn/ValueErrorinvalid-literal-for-intwithbase10-63790/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-04-14,1681458706.0
@@ -7,8 +8,8 @@ ValueError:invalid,cywhat's blog,https://cywhat.cn/ValueErrorinvalid-literal-for
 深入SpringSecurity,Barney's Blog,https://hugo.bnblogs.cc/%E6%B7%B1%E5%85%A5springsecurity/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-04-13,1681379726.0
 GitHub问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/github-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2023-04-12,1681316821.0
 GitHub问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/github-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2023-04-12,1681316821.0
-SmartGit问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/smartgit-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2023-04-12,1681309661.0
 SmartGit问题汇总,Yulin Lewis' Blog,https://lewky.cn/posts/smartgit-issues/,https://lewky.cn/,https://lewky.cn/index.xml,2023-04-12,1681309661.0
+SmartGit问题汇总,Yulin Lewis' Blog,https://lewky233.top/posts/smartgit-issues/,https://lewky233.top/,https://lewky.cn/index.xml,2023-04-12,1681309661.0
 UnorderedObjectListWarning:Pagination May Yield Inconsistent Results With an Unordered Object_list,cywhat's blog,https://cywhat.cn/UnorderedObjectListWarningPagination-may-yield-inconsistent-results-with-an-unordered-object_list/,https://cywhat.cn/,https://cywhat.cn/index.xml,2023-04-11,1681206305.0
 4 月 11 日紧急通知,杜老师说,https://dusays.com/574/,https://dusays.com/,https://dusays.com/atom.xml,2023-04-10,1681142400.0
 换成移动的免费宽带如何,瓦解的生活记事,https://hin.cool/posts/changetocmcc.html,https://hin.cool/,https://hin.cool/atom.xml,2023-04-09,1681021800.0
@@ -48,4 +49,3 @@ SpringBoot使用Spring Security实现JwtToken验证,Barney's Blog,https://hugo.b
 MyBatis-Plus使用记录,Barney's Blog,https://hugo.bnblogs.cc/mybatis-plus%E4%BD%BF%E7%94%A8%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-05,1678032606.0
 推荐一下 bill 小朋友提供的公益 CDN,杜老师说,https://dusays.com/562/,https://dusays.com/,https://dusays.com/atom.xml,2023-03-05,1678032000.0
 EE 入门（二） - 使用 ESP32 与 SPI 显示屏绘图、显示图片、跑贪吃蛇,This Cute World,https://thiscute.world/posts/ee-basics-2-esp32-display/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2023-03-05,1678024621.0
-SpringBoot集成SpringDoc和Knife4j,Barney's Blog,https://hugo.bnblogs.cc/knife4j-openapi3/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2023-03-05,1678017396.0
