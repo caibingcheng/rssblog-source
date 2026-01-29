@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Linux 桌面系统故障排查指南（五） - 网络,This Cute World,https://thiscute.world/posts/linux-desktop-5-network/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-10-19,1760840493.0
 Linux 桌面系统故障排查指南（四） - 多媒体处理与中文支持,This Cute World,https://thiscute.world/posts/linux-desktop-4-multimedia-input/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-10-19,1760840433.0
 Linux 桌面系统故障排查指南（三） - 桌面会话与图形渲染,This Cute World,https://thiscute.world/posts/linux-desktop-3-session-graphics/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-10-19,1760840373.0
 Linux 桌面系统故障排查指南（二） - systemd 全家桶与服务管理,This Cute World,https://thiscute.world/posts/linux-desktop-2-systemd-services/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-10-19,1760840313.0
@@ -48,4 +49,3 @@ TiDB 源码阅读（四）：AST、逻辑计划、物理计划,Jiajun的技术�
 NodePass 开源的隧道工具重新定义内网穿透,杜老师说,https://dusays.com/archives/830/,https://dusays.com/,https://dusays.com/atom.xml,2025-10-03,1759507200.0
 说说·叨叨点啥,绘星里,/talks/,/,https://blog.storical.space/atom.xml,2025-10-03,1759484109.0
 TiDB 源码阅读（三）：插入数据,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_03-tidb_source_code_insert.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-03,1759449600.0
-宿 命,瓦解的生活记事,https://hin.cool/posts/suming.html,https://hin.cool/,https://hin.cool/atom.xml,2025-10-02,1759421220.0
