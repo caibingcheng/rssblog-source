@@ -1,13 +1,13 @@
 title,author,link,home,rss,date,timestamp
-我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0
 我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school,https://lutaonan.com,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0
+我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0
 UTAU插件:一键描点 使用帮助,FlyingSky's Blog,https://blog.fsky7.com/technology/77,https://blog.fsky7.com,https://blog.fsky7.com/feed,2018-10-01,1538366400.0
 Linux 命令笔记,游钓四方,https://blog.lhasa.icu/posts/technology/2018-09-24-linux-command,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-09-24,1537764240.0
 独立运营博客一年的一些数据分享,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
 面向对象(Object Oriented)学习笔记(一),游钓四方,https://blog.lhasa.icu/posts/technology/2018-09-23-object_oriented,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-09-23,1537673280.0
 To B(usiness) 和 To C(ustomer),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_22-to_b_to_c.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-22,1537574400.0
 PyCon JP 2018 記,Just lepture,https://lepture.com/zh/2018/pycon-jp-2018,https://lepture.com/,https://lepture.com/feed.xml,2018-09-19,1537364456.0
-Cookie 中的secure和httponly属性,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_16-cookie_secure_httponly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
+常见的软件架构套路,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-09-15,1536969687.0
 JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-09-15,1536969600.0
 一个阅读源代码的技巧,Randy's Blog,https://lutaonan.com/blog/trick-for-reading-source-code/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-09-14,1536883200.0
@@ -25,7 +25,7 @@ Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的技术�
 为什么你写不好一个快速排序? 谈程序员的职业发展,游钓四方,https://blog.lhasa.icu/posts/technology/2018-08-31-programmer-development,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-08-31,1535679840.0
 Ubuntu 18.04 下安装 Sublime Text3 并解决它的疑难杂症,游钓四方,https://blog.lhasa.icu/posts/technology/2018-08-30-ubuntu-set-up-sublime,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-08-29,1535558460.0
 Web后端工程师进阶指南(2018),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_29-become_a_better_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-29,1535500800.0
-How to implement fork syscall in Golang?,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-how_does_golang_implement_fork_syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
+macOS ansible 遇到 rsync: --chown=www-data: unknown option,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_28-mac_rsync_unknow_option.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-28,1535414400.0
 关于运营的思考-运营要怎么做？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_26-about_traffic.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-26,1535241600.0
 Python中实现单例模式的n种方式和原理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0
 Golang defer中修改返回值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_23-go_defer_named_return_values.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-23,1534982400.0
