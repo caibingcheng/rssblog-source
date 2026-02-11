@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+如何确保源站 IP 不会因为证书而暴露,Zikin 的独立博客,https://zikin.org/protect-server-ip-nginx/,https://zikin.org/,https://zikin.org/feed,2022-12-27,1672106765.0
 MySQL学习笔记,Barney's Blog,https://hugo.bnblogs.cc/mysql%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-12-26,1672070838.0
 SSL 证书申请小窍门,杜老师说,https://dusays.com/539/,https://dusays.com/,https://dusays.com/atom.xml,2022-12-26,1672070400.0
 volantis使用php实现Gitee友链,DearXuan的主页,https://blog.dearxuan.com/2022/12/26/volantis%E4%BD%BF%E7%94%A8php%E5%AE%9E%E7%8E%B0Gitee%E5%8F%8B%E9%93%BE/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-12-26,1672056180.0
@@ -48,4 +49,3 @@ GitHub基于ChatGPT开源项目🤖,把酒诗代码，趁乱写年华。,https:/
 github镜像站（持续更新）,醉里博客,https://202271.xyz/post/30937/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-12-08,1670509902.0
 hexo博客开启rss——fluid主题详解,醉里博客,https://202271.xyz/post/51148/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-12-06,1670364392.0
 静态个人主页,醉里博客,https://202271.xyz/post/39700/,https://202271.xyz/,https://202271.xyz/atom.xml,2022-12-06,1670363729.0
-Jenkins添加html报告并发送到邮箱,cywhat's blog,https://cywhat.cn/Jenkins%E6%B7%BB%E5%8A%A0html%E6%8A%A5%E5%91%8A%E5%B9%B6%E5%8F%91%E9%80%81%E5%88%B0%E9%82%AE%E7%AE%B1/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-12-06,1670314710.0

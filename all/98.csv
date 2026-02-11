@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+【Hexo】Hexo博客新建文章后自动打开编辑器,框架師,https://www.mobaijun.com/posts/2964207350.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-19,1589868496.0
 virsh自动关闭windows虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_18-virsh_shutdown_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-18,1589760000.0
 AOF 持久化的配置和原理,杜老师说,https://dusays.com/222/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-17,1589731200.0
 第三方评论系统之我见,云游君的小站,https://www.yunyoujun.cn/share/third-party-comment-system/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-05-17,1589693440.0
@@ -48,4 +49,3 @@ Cisco 以太网通道,杜老师说,https://dusays.com/216/,https://dusays.com/,h
 Golang log 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_28-golang_log.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-28,1588032000.0
 简单聊 VRRP,杜老师说,https://dusays.com/215/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-26,1587916800.0
 JetBrains 官方推中文简体包了,游钓四方,https://blog.lhasa.icu/posts/technology/2020-04-26-phpstorm-official-chinese,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-04-26,1587864300.0
-使用Go语言实现一个异步任务框架,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_24-gotasks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-24,1587686400.0
