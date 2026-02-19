@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+你好，2026！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2026_02_19-hello_2026.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2026-02-19,1771459200.0
 TiDB 源码阅读（六）：TiDB Coprocessor 源码解析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_12-tidb_source_code_coprocessor.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-12,1760227200.0
 性能优化的核心思想,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_06-performance.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-06,1759708800.0
 TiDB 源码阅读（五）：索引,Jiajun的技术笔记,https://jiajunhuang.com/articles/2025_10_05-tidb_source_code_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2025-10-05,1759622400.0
@@ -48,4 +49,3 @@ FreeBSD 使用 vm-bhyve 安装Debian虚拟机,Jiajun的技术笔记,https://jiaj
 FreeBSD 和 Linux 网卡聚合实现提速,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_16-freebsd_linux_link_aggr.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-16,1700092800.0
 GPT 帮我搞定了时区转换问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_15-python_datetime_with_timezone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-15,1700006400.0
 长任务系统如何处理？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_12-long_running_task.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-12,1699747200.0
-macOS/Linux 编译 InputLeap,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_11-input_leap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-11,1699660800.0
