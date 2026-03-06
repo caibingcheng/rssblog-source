@@ -1060,8 +1060,8 @@
             ]
           ]
         ],
-        "member": 1,
-        "all": 37
+        "all": 37,
+        "member": 1
       },
       {
         "user": "addition",
@@ -1660,8 +1660,8 @@
             ]
           ]
         ],
-        "member": 2,
-        "all": 90
+        "all": 90,
+        "member": 2
       }
     ]
   }
