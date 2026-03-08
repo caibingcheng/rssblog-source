@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+求指导，如何给nas中Docker容器访问链接加上SSL,湘铭`Blog,https://blog.xiangming.site/389.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-16,1700093167.0
 FreeBSD 和 Linux 网卡聚合实现提速,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_16-freebsd_linux_link_aggr.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-16,1700092800.0
 一生必会技能“心肺复苏”,湘铭`Blog,https://blog.xiangming.site/384.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-15,1700039160.0
 GPT 帮我搞定了时区转换问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_15-python_datetime_with_timezone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-15,1700006400.0
@@ -48,4 +49,3 @@ Tomcat 系列篇六-介绍下 Lifecycle,Nicksxs's Blog,https://nicksxs.me/2023/1
 小米、Yeelight 和 BenQ 屏幕挂灯体验,Another Dayu,https://anotherdayu.com/2023/5384/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-10-21,1697880371.0
 云端 Jupyter Notebook 平台：Google Colaboratory 和 Featurize,Another Dayu,https://anotherdayu.com/2023/5380/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2023-10-20,1697781909.0
 “生日快乐”是祝福还是安慰？,非理勿试,https://www.ntiy.com/2009.html,https://www.ntiy.com,https://www.ntiy.com/feed,2023-10-20,1697770318.0
-基于本地 AI 大模型的 Emacs 翻译插件,manateelazycat.github.io,//manateelazycat.github.io/2023/10/20/use-ollama-as-translator/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-20,1697760000.0
