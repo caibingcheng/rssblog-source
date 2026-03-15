@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Linux下系统调用的过程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_01-system_call.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-01,1546300800.0
 2018 小总结,游钓四方,https://blog.lhasa.icu/posts/life/2018-12-31-summaryof,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-12-31,1546227840.0
 2018 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2018-summary,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-12-30,1546212781.0
 2018 年终总结,Ahonn's Blog,https://www.ahonn.me/blog/2018-summary,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2018-12-30,1546212781.0
@@ -48,4 +49,3 @@ Golang 实践经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_
 西藏 | 骑行川藏四千里:2012年的青春影像,罗磊的独立博客,https://luolei.org/tibet-road-2012,https://luolei.org,https://luolei.org/feed/,2018-10-31,1540944000.0
 每个创作者都应该有张木桌:Timerecorder 时计 | VLOG18,罗磊的独立博客,https://luolei.org/my-desk-2018,https://luolei.org,https://luolei.org/feed/,2018-10-30,1540857600.0
 解决ubuntu：E：无法获得锁(11：资源暂时不可用),游钓四方,https://blog.lhasa.icu/posts/technology/2018-10-25-ubuntu-lock,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-10-25,1540457040.0
-开源分布式管理控制系统 —— Git 笔记,游钓四方,https://blog.lhasa.icu/posts/technology/2018-10-25-git,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-10-25,1540427460.0
