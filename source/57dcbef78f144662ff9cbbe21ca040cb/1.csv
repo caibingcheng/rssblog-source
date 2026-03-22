@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+一些架构师知识点的记录,Nicksxs's Blog,https://nicksxs.me/2026/03/22/%E4%B8%80%E4%BA%9B%E6%9E%B6%E6%9E%84%E5%B8%88%E7%9F%A5%E8%AF%86%E7%82%B9%E7%9A%84%E8%AE%B0%E5%BD%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-03-22,1774186504.0
 解答一下关于traefik的一点疑惑,Nicksxs's Blog,https://nicksxs.me/2026/03/15/%E8%A7%A3%E7%AD%94%E4%B8%80%E4%B8%8B%E5%85%B3%E4%BA%8Etraefik%E7%9A%84%E4%B8%80%E7%82%B9%E7%96%91%E6%83%91/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-03-15,1773589690.0
 记录一下迁移服务器需要使用的一些命令,Nicksxs's Blog,https://nicksxs.me/2026/03/08/%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E8%BF%81%E7%A7%BB%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9C%80%E8%A6%81%E4%BD%BF%E7%94%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E5%91%BD%E4%BB%A4/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-03-08,1772980639.0
 较早代iPhone更换新iPhone的一些小指南,Nicksxs's Blog,https://nicksxs.me/2026/03/01/%E8%BE%83%E6%97%A9%E4%BB%A3iPhone%E6%9B%B4%E6%8D%A2%E6%96%B0iPhone%E7%9A%84%E4%B8%80%E4%BA%9B%E5%B0%8F%E6%8C%87%E5%8D%97/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-03-01,1772378325.0
@@ -48,4 +49,3 @@ java中arraylist的sort方法的 ConcurrentModificationException 问题,Nicksxs'
 来介绍个源码阅读理解神器-deepwiki,Nicksxs's Blog,https://nicksxs.me/2025/04/27/%E6%9D%A5%E4%BB%8B%E7%BB%8D%E4%B8%AA%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E7%90%86%E8%A7%A3%E7%A5%9E%E5%99%A8-deepwiki/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-04-27,1745754734.0
 来个openmanus的浅入门,Nicksxs's Blog,https://nicksxs.me/2025/04/20/%E6%9D%A5%E4%B8%AAopenmanus%E7%9A%84%E6%B5%85%E5%85%A5%E9%97%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-04-20,1745153220.0
 关于arthas的一个比较有用的使用方式,Nicksxs's Blog,https://nicksxs.me/2025/04/13/%E5%85%B3%E4%BA%8Earthas%E7%9A%84%E4%B8%80%E4%B8%AA%E6%AF%94%E8%BE%83%E6%9C%89%E7%94%A8%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-04-13,1744547033.0
-关于Termux中的shell命令的历史记录问题,Nicksxs's Blog,https://nicksxs.me/2025/04/06/%E5%85%B3%E4%BA%8ETermux%E4%B8%AD%E7%9A%84shell%E5%91%BD%E4%BB%A4%E7%9A%84%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-04-06,1743948394.0
