@@ -26,6 +26,7 @@ Redis是如何工作的？,Jiajun的技术笔记,https://jiajunhuang.com/article
 【Hexo】Hexo博客新建文章后自动打开编辑器,框架師,https://www.mobaijun.com/posts/2964207350.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-19,1589868496.0
 virsh自动关闭windows虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_18-virsh_shutdown_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-18,1589760000.0
 AOF 持久化的配置和原理,杜老师说,https://dusays.com/222/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-17,1589731200.0
+第三方评论系统之我见,云游君的小站,https://www.yunyoujun.cn/posts/third-party-comment-system,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-05-17,1589722240.0
 第三方评论系统之我见,云游君的小站,https://www.yunyoujun.cn/share/third-party-comment-system/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-05-17,1589693440.0
 离开阿里巴巴,Randy's Blog,https://lutaonan.com/blog/leaving-alibaba,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-05-17,1589673600.0
 离开阿里巴巴,Randy's Blog,https://lutaonan.com/blog/leaving-alibaba/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-17,1589673600.0
@@ -35,8 +36,8 @@ Golang sort源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 分治的思维方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_15-divide_and_conquer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-15,1589500800.0
 Redis 的配置文件参数说明,杜老师说,https://dusays.com/221/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-14,1589472000.0
 说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
-说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
 Debian 使用NetworkManager之后networking.service崩溃,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
+说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
 【设计模式】Java设计模式-(Singleton)单例模式,框架師,https://www.mobaijun.com/posts/1469544396.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-12,1589246412.0
 Redis 注册服务与自动启动,杜老师说,https://dusays.com/220/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-11,1589212800.0
 【Git系列】Git GC命令清理Git暂存区,框架師,https://www.mobaijun.com/posts/3336337147.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-11,1589190407.0
@@ -48,4 +49,3 @@ Redis 的设置启动信息,杜老师说,https://dusays.com/219/,https://dusays.
 《程序员的自我修养-装载、链接与库》笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_08-linker_and_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-08,1588896000.0
 【Hexo】hexo博客valine评论优化,框架師,https://www.mobaijun.com/posts/3474678254.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-07,1588830105.0
 【随笔】中国疫情地图和全球疫情地图组件，一句话调用,框架師,https://www.mobaijun.com/posts/2761809874.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-07,1588816805.0
-【Java基础】java-[Serializable复习],框架師,https://www.mobaijun.com/posts/98857262.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-06,1588749396.0
