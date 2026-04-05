@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+如何配置 Nginx 防止 CC 攻击,杜老师说,https://dusays.com/745/,https://dusays.com/,https://dusays.com/atom.xml,2024-09-05,1725552000.0
 Nginx 集成 ModSecurity 实现 Web 应用防火墙功能,杜老师说,https://dusays.com/744/,https://dusays.com/,https://dusays.com/atom.xml,2024-09-02,1725292800.0
 使用 Docker 部署 Opengist 开源代码片段分享工具,杜老师说,https://dusays.com/743/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-30,1725033600.0
 使用 Docker 自托管 VS Code 网页版,杜老师说,https://dusays.com/742/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-27,1724774400.0
@@ -48,4 +49,3 @@ DockerUI 容器管理器的安装与使用,杜老师说,https://dusays.com/716/,
 to do 工具 Vikunja 的安装与使用,杜老师说,https://dusays.com/715/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-07,1717776000.0
 Potainer 容器管理器的安装与使用,杜老师说,https://dusays.com/714/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-04,1717516800.0
 使用 1panel 自动申请和续签通配符证书,瓦解的生活记事,https://hin.cool/posts/sslfor1panel.html,https://hin.cool/,https://hin.cool/atom.xml,2024-06-04,1717480800.0
-强大的自托管 compose.yaml 管理工具 Dockge,杜老师说,https://dusays.com/713/,https://dusays.com/,https://dusays.com/atom.xml,2024-06-01,1717257600.0
