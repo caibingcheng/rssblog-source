@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+从 @babel/register 到 node.js require(),Yuexun's Blog,https://yuexunjiang.me/blog/from-babel-register-to-nodejs-require/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
+从 @babel/register 到 node.js require(),Ahonn's Blog,https://www.ahonn.me/blog/from-babel-register-to-nodejs-require,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
 _initialize() 和 __construct() 的区别,游钓四方,https://blog.lhasa.icu/posts/technology/2019-04-08-initialize-construct,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-04-08,1554690480.0
 搭建aria2服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_06-aria2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-06,1554508800.0
 11 寸 iPad Pro 体验,Randy's Blog,https://lutaonan.com/blog/ipad-pro-11-review/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-04-06,1554508800.0
@@ -47,5 +49,3 @@ SQLAlchemy 学习笔记（二）：ORM 基础,This Cute World,https://thiscute.w
 WebSocket、HTTP/2 与 gRPC,This Cute World,https://thiscute.world/posts/websocket-http2-and-grpc/,https://thiscute.world/,https://thiscute.world/index.xml,2019-02-11,1549880796.0
 Chrome 与 Firefox-Dev 的 DevTools,This Cute World,https://thiscute.world/posts/web-browser-dev-tools/,https://thiscute.world/,https://thiscute.world/index.xml,2019-02-11,1549875206.0
 导出「你的日记」与导入「一本日记」,云游君的小站,https://www.yunyoujun.cn/note/export-nideriji-and-import-1diary/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-01-31,1548923883.0
-记一次Golang TLS编程踩坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_01_30-golang_tls.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-01-30,1548806400.0
-给博客添加 DARK Mode ( 黑暗模式 ),FlyingSky's Blog,https://blog.fsky7.com/archives/46/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-01-29,1548768300.0
