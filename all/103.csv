@@ -1,4 +1,8 @@
 title,author,link,home,rss,date,timestamp
+价值编程与职业发展,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_09-value_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
+DeepL | 从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工具,罗磊的独立博客,https://luolei.org/deepl-ai-translator,https://luolei.org,https://luolei.org/feed/,2020-04-09,1586390400.0
+【转载】世界不应该是这样的,Frank笔记,https://frank2019.me/archives/zhuan-zai-shi-jie-bu-ying-gai-shi-zhe-yang-de,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-08,1586377380.0
+关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
 CDN 原理及使用,杜老师说,https://dusays.com/209/,https://dusays.com/,https://dusays.com/atom.xml,2020-04-08,1586361600.0
 解决k8s cron无法读取环境变量的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
 (转)谈 Linux，Windows 和 Mac,游钓四方,https://blog.lhasa.icu/posts/technology/2020-04-07-blog-fully-linux-working,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-04-07,1586254200.0
@@ -45,7 +49,3 @@ Windows2008 系统 IIS 服务安装,杜老师说,https://dusays.com/200/,https:/
 在 GitHub 上使用 GPG 认证你的 Git Commit,ChrAlpha,https://blog.ichr.me/post/use-gpg-verification-in-github/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-08,1583702310.0
 新冠反思-任志强,Frank笔记,https://frank2019.me/archives/xin-guan-fan-si-ren-zhi-qiang,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-08,1583698200.0
 国内自建图床指南,Randy's Blog,https://lutaonan.com/blog/aliyun-cdn-tutorial/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-07,1583539200.0
-👴就是二次元，故尝试证明。,云游君的小站,https://www.yunyoujun.cn/posts/i-am-er-ci-yuan-and-try-to-prove,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-03-06,1583536357.0
-面试过程中需要注意的细节,杜老师说,https://dusays.com/198/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-06,1583510400.0
-在 Hexo 博客中更优雅地使用 LaTeX 数学公式,ChrAlpha,https://blog.ichr.me/post/fix-mathjax-layout-bugs-in-hexo/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-06,1583503087.0
-MySQL Boolean类型的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_06-mysql_boolean_tinyint_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-06,1583452800.0
