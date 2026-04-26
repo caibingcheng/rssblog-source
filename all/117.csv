@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Serlina: 渐进式的 React 服务器渲染框架,Randy's Blog,https://lutaonan.com/blog/announcing-serlina/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-08-13,1534118400.0
+Python dataclass 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_12-python_dataclasses.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-12,1534032000.0
 gRPC-gateway 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_08-grpc_gateway_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-08,1533686400.0
 腹肌南波湾一日游:FUJIFILM XF10,罗磊的独立博客,https://luolei.org/fujifilme-xf10-review,https://luolei.org,https://luolei.org/feed/,2018-08-05,1533427200.0
 如何阅读源代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_04-how_to_read_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-04,1533340800.0
@@ -47,5 +49,3 @@ Prometheus 数据类型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 童心也要 Pro: 任天堂 Switch Pro 手柄开箱,罗磊的独立博客,https://luolei.org/nintendo-switch-pro-unboxing,https://luolei.org,https://luolei.org/feed/,2018-03-17,1521244800.0
 关于部落冲突的二三事儿-2,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-2,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-03-16,1521212960.0
 Gin源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_16-gin_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-16,1521158400.0
-Java 中文编码分析,This Cute World,https://thiscute.world/posts/how-java-handles-chinese/,https://thiscute.world/,https://thiscute.world/index.xml,2018-03-11,1520757540.0
-美国  | 美西6000里:一趟旅行，女友成了前女友,罗磊的独立博客,https://luolei.org/usa-road-travel-feb,https://luolei.org,https://luolei.org/feed/,2018-03-10,1520640000.0
