@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+如何看待年仅 28 岁的郭宇宣布从字节跳动退休？,罗磊的独立博客,https://luolei.org/my-friend-guoyu,https://luolei.org,https://luolei.org/feed/,2020-06-16,1592265600.0
 操作系统也是CRUD,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_15-unix_crud.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-15,1592179200.0
 把USB设备穿透给虚拟机里的系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_13-macos_kvm_usb_pass.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-13,1592006400.0
 一键英译中,imba97,https://imba97.com/posts/644,https://imba97.com/,https://imba97.cn/atom.xml,2020-06-12,1591990138.0
@@ -45,7 +46,6 @@ virsh自动关闭windows虚拟机,Jiajun的技术笔记,https://jiajunhuang.com/
 我被栽赃举报直播间封禁一个月！,imba97,https://imba97.com/posts/602,https://imba97.com/,https://imba97.cn/atom.xml,2020-05-16,1589635658.0
 Golang sort源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_16-go_sort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-16,1589587200.0
 分治的思维方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_15-divide_and_conquer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-15,1589500800.0
-Debian 使用NetworkManager之后networking.service崩溃,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
 说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
+Debian 使用NetworkManager之后networking.service崩溃,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_13-debian_networking.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-13,1589328000.0
 说说 React 和 Vue,Randy's Blog,https://lutaonan.com/blog/react-and-vue,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-05-13,1589328000.0
-【设计模式】Java设计模式-(Singleton)单例模式,框架師,https://www.mobaijun.com/posts/1469544396.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-12,1589246412.0
