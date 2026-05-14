@@ -1,6 +1,6 @@
 title,author,link,home,rss,date,timestamp
 Redis 的设置启动信息,杜老师说,https://dusays.com/219/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-08,1588953600.0
-封装了个 getElements(),imba97,https://imba97.com/posts/591,https://imba97.com/,https://imba97.cn/atom.xml,2020-05-08,1588899419.0
+封装了个 getElements(),imba97,https://imba97.com/post/591,https://imba97.com/,https://imba97.cn/atom.xml,2020-05-08,1588899419.0
 《程序员的自我修养-装载、链接与库》笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_08-linker_and_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-08,1588896000.0
 【Hexo】hexo博客valine评论优化,框架師,https://www.mobaijun.com/posts/3474678254.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-07,1588830105.0
 【随笔】中国疫情地图和全球疫情地图组件，一句话调用,框架師,https://www.mobaijun.com/posts/2761809874.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-07,1588816805.0
@@ -8,7 +8,7 @@ Redis 的设置启动信息,杜老师说,https://dusays.com/219/,https://dusays.
 【Java基础】Java-[transient关键字复习],框架師,https://www.mobaijun.com/posts/3876088395.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-06,1588749016.0
 【Java基础】Java基础复习[System，StringBuider，装箱，拆箱],框架師,https://www.mobaijun.com/posts/161197765.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-06,1588731230.0
 【工具系列】IntelliJ IDEA 2020最新激活码(亲测有效，可激活至 2089 年),框架師,https://www.mobaijun.com/posts/254120448.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-06,1588729527.0
-Vue TypeScript Webpack 浏览器插件开发,imba97,https://imba97.com/posts/585,https://imba97.com/,https://imba97.cn/atom.xml,2020-05-06,1588724004.0
+Vue TypeScript Webpack 浏览器插件开发,imba97,https://imba97.com/post/585,https://imba97.com/,https://imba97.cn/atom.xml,2020-05-06,1588724004.0
 Redis 的安装,杜老师说,https://dusays.com/218/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-05,1588694400.0
 【Java基础】Date类练习,框架師,https://www.mobaijun.com/posts/8099667.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-05,1588643938.0
 Golang sync.Pool源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_05-go_sync_pool.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-05,1588636800.0

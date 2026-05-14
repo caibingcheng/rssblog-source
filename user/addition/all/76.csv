@@ -19,10 +19,10 @@ Parcel.js + Vue 搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/v
 MySQL charset不同导致无法使用索引的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_26-mysql_charset_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-26,1582675200.0
 使用 Speedtest CLI 测试服务器带宽质量,ChrAlpha,https://blog.ichr.me/post/use-speedtest-cli-to-test-the-speed-of-your-server/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-24,1582561951.0
 Swift 笔记 – 归档和解档,imba97,https://imba97.com/posts/497,https://imba97.com/,https://imba97.cn/atom.xml,2020-02-20,1582239390.0
-iOS 开发笔记 - UI,imba97,https://imba97.com/posts/496,https://imba97.com/,https://imba97.cn/atom.xml,2020-02-20,1582235702.0
+iOS 开发笔记 - UI,imba97,https://imba97.com/post/496,https://imba97.com/,https://imba97.cn/atom.xml,2020-02-20,1582235702.0
 微服务的缺点,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_19-should_i_use_microservice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-19,1582070400.0
 Ubuntu软件更新运维,Frank笔记,https://frank2019.me/archives/ubunturuan-jian-geng-xin-yun-wei,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-18,1582059720.0
-iOS 开发笔记 - CocoaPods,imba97,https://imba97.com/posts/493,https://imba97.com/,https://imba97.cn/atom.xml,2020-02-17,1581962340.0
+iOS 开发笔记 - CocoaPods,imba97,https://imba97.com/post/493,https://imba97.com/,https://imba97.cn/atom.xml,2020-02-17,1581962340.0
 Git 在 macOS 中忽略所有 .DS_Store 文件,ChrAlpha,https://blog.ichr.me/post/git-ignore-all-ds-store-on-mac/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-16,1581865768.0
 归来,Frank笔记,https://frank2019.me/archives/gui-lai,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-15,1581800400.0
 Swift 笔记 - 网路访问,imba97,https://imba97.com/posts/491,https://imba97.com/,https://imba97.cn/atom.xml,2020-02-15,1581792485.0
@@ -42,8 +42,8 @@ CSS 陷阱,云游君的小站,https://www.yunyoujun.cn/posts/css-trap-note,https
 Git 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/git-learn-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-03,1580748373.0
 Proxy Server | 正向代理与反向代理,ChrAlpha,https://blog.ichr.me/post/proxy-and-reverse-proxy/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-03,1580693916.0
 《图解 C# 教程 第5版》与性能优化,萤火之森,http://frankorz.com/2020/01/31/illustrated-csharp-and-performance/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-01-31,1580515158.0
-用 RIME 定制输入法,Yuexun's Blog,https://yuexunjiang.me/blog/custom-input-methods-with-rime,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-30,1580400000.0
 用 RIME 定制输入法,Ahonn's Blog,https://www.ahonn.me/blog/custom-input-methods-with-rime,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2020-01-30,1580400000.0
+用 RIME 定制输入法,Yuexun's Blog,https://yuexunjiang.me/blog/custom-input-methods-with-rime,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2020-01-30,1580400000.0
 用 RIME 定制输入法,Yuexun's Blog,https://yuexunjiang.me/blog/custom-input-methods-with-rime/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-01-30,1580342400.0
 武汉肺炎科普教学,Frank笔记,https://frank2019.me/archives/wu-han-fei-yan-ke-pu-jiao-xue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-01-29,1580331420.0
 npm & yarn 常用包与命令,云游君的小站,https://www.yunyoujun.cn/posts/npm-and-yarn,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-01-29,1580310284.0
