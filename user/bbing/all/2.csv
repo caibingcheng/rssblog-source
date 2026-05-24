@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+Linux 桌面系统故障排查指南（四） - 多媒体处理与中文支持,This Cute World,https://thiscute.world/posts/linux-desktop-4-multimedia-input/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-10-19,1760840433.0
+Linux 桌面系统故障排查指南（三） - 桌面会话与图形渲染,This Cute World,https://thiscute.world/posts/linux-desktop-3-session-graphics/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-10-19,1760840373.0
+Linux 桌面系统故障排查指南（二） - systemd 全家桶与服务管理,This Cute World,https://thiscute.world/posts/linux-desktop-2-systemd-services/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-10-19,1760840313.0
 Linux 桌面系统故障排查指南（一） - 系统启动与安全框架,This Cute World,https://thiscute.world/posts/linux-desktop-1-boot-security/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-10-19,1760840253.0
 如何使用 PHP 脚本筛选去不图床已到期用户邮箱,杜老师说,https://dusays.com/archives/832/,https://dusays.com/,https://dusays.com/atom.xml,2025-10-15,1760544000.0
 业余无线电操作证考试,辛未羊的网络日志,https://panqiincs.me/2025/10/13/ham-certificate-exam/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2025-10-13,1760344249.0
@@ -46,6 +49,3 @@ Nginx 从配置到缓存的性能优化,杜老师说,https://dusays.com/811/,htt
 dynv6 免费二级域名申请及管理,杜老师说,https://dusays.com/808/,https://dusays.com/,https://dusays.com/atom.xml,2025-05-24,1748102400.0
 不太完美但值得的扫地机器人：Mova P50,瓦解的生活记事,https://hin.cool/posts/movap50.html,https://hin.cool/,https://hin.cool/atom.xml,2025-05-24,1748097000.0
 南宁城区FM调频广播实测,辛未羊的网络日志,https://panqiincs.me/2025/05/20/nanning-fm-channels/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2025-05-20,1747707038.0
-使用 Docker 部署 tinyMediaManager 刮削工具,杜老师说,https://dusays.com/807/,https://dusays.com/,https://dusays.com/atom.xml,2025-05-18,1747584000.0
-RSSHub 搭建指南打造个性化资讯中心,杜老师说,https://dusays.com/806/,https://dusays.com/,https://dusays.com/atom.xml,2025-05-12,1747065600.0
-加密 NFS 搭建保障数据传输与存储安全,杜老师说,https://dusays.com/805/,https://dusays.com/,https://dusays.com/atom.xml,2025-05-06,1746547200.0

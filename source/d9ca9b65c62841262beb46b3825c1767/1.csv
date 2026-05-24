@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+在 RTX 4060 笔记本上运行 Qwen 3.5 9B：llama.cpp 本地部署实录,无妄当自持,https://www.insidentally.com/articles/000045/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-24,1779636600.0
+在 Fedora 44 上编译支持 CUDA 的 llama.cpp：完整指南,无妄当自持,https://www.insidentally.com/articles/000044/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-24,1779631200.0
+Hermes WebUI 安装与使用指南,无妄当自持,https://www.insidentally.com/articles/000046/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-24,1779604200.0
 Hermes Agent 使用实践：核心机制与命令技巧,无妄当自持,https://www.insidentally.com/articles/000043/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-18,1779093000.0
 小米 MiMo 模型本地部署实践：从选型到踩坑,无妄当自持,https://www.insidentally.com/articles/000042/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-06,1778061600.0
 介绍并初步使用 Hermes Agent,无妄当自持,https://www.insidentally.com/articles/000041/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-05,1777971600.0
