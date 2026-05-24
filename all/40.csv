@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+【随笔】自动化油价推送：GitHub Actions 实战,框架師,https://www.mobaijun.com/posts/2512902170.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-12-05,1701775845.0
+怎么打造流畅的 Emacs？,Andy Stewart,//manateelazycat.github.io/2023/12/05/how-to-create-a-smooth-emacs/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-05,1701734400.0
+宁波的海：比海更有意思的事,Macin,https://macin.org/2023/12/04/ning-bo/,https://macin.org/,https://www.macin.org/atom.xml,2023-12-04,1701726808.0
 政策刺激能否让中国经济再次腾飞,Frank笔记,https://frank2019.me/archives/1701636644742,https://frank2019.me/,https://frank2019.me/rss.xml,2023-12-04,1701721320.0
 将 GPT 整合到 Mattermost,杜老师说,https://dusays.com/653/,https://dusays.com/,https://dusays.com/atom.xml,2023-12-04,1701705600.0
 Windows 莫名重启问题解决,Nicksxs's Blog,https://nicksxs.me/2023/12/03/Windows-%E8%8E%AB%E5%90%8D%E9%87%8D%E5%90%AF%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-12-03,1701604474.0
@@ -18,8 +21,8 @@ Introduce K3s， CephFS and MetalLB to My High Available Cluster,Bin Wang - My P
 再回首,湘铭`Blog,https://blog.xiangming.site/419.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-28,1701142062.0
 通过降级 FreeType 解决 WPS 加粗字体乱码的问题,manateelazycat.github.io,//manateelazycat.github.io/2023/11/28/wps-font-problem/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-28,1701129600.0
 沪上的海：崇明一日攻略,Macin,https://macin.org/2023/11/27/chong-ming-dao/,https://macin.org/,https://www.macin.org/atom.xml,2023-11-27,1701124578.0
-Nodejs 对接 TSCLIB,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/771/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-11-27,1701117226.0
 Nodejs 对接 TSCLIB,imba97,https://imba97.com/post/771,https://imba97.com/,https://imba97.cn/atom.xml,2023-11-27,1701117226.0
+Nodejs 对接 TSCLIB,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/771/,https://imba97.cn/,https://imba97.cn/atom.xml,2023-11-27,1701117226.0
 倒立摆的状态观测器设计与仿真,辛未羊的网络日志,https://panqiincs.me/2023/11/26/pendulum-state-observer/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2023-11-26,1700998429.0
 Tomcat 系列篇十-介绍下 Tomcat 里的 Mapper 作用,Nicksxs's Blog,https://nicksxs.me/2023/11/26/Tomcat-%E7%B3%BB%E5%88%97%E7%AF%87%E5%8D%81-%E4%BB%8B%E7%BB%8D%E4%B8%8B-Tomcat-%E9%87%8C%E7%9A%84-Mapper-%E4%BD%9C%E7%94%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-11-26,1700996541.0
 Navidrome：自建音乐库的又一选择,湘铭`Blog,https://blog.xiangming.site/409.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-26,1700979510.0
@@ -46,6 +49,3 @@ FreeBSD 使用 vm-bhyve 安装Debian虚拟机,Jiajun的技术笔记,https://jiaj
 暗恋是一个人的事,湘铭`Blog,https://blog.xiangming.site/390.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-16,1700104200.0
 求指导，如何给nas中Docker容器访问链接加上SSL,湘铭`Blog,https://blog.xiangming.site/389.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-16,1700093167.0
 FreeBSD 和 Linux 网卡聚合实现提速,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_16-freebsd_linux_link_aggr.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-16,1700092800.0
-一生必会技能“心肺复苏”,湘铭`Blog,https://blog.xiangming.site/384.html,https://blog.xiangming.site/,https://blog.xiangming.site/feed,2023-11-15,1700039160.0
-GPT 帮我搞定了时区转换问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_11_15-python_datetime_with_timezone.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-11-15,1700006400.0
-锦州：有佛有塔 无以为家,Macin,https://macin.org/2023/11/14/jin-zhou/,https://macin.org/,https://www.macin.org/atom.xml,2023-11-14,1699975091.0
