@@ -1,13 +1,14 @@
 title,author,link,home,rss,date,timestamp
+低配服务器调优,游钓四方,https://blog.lhasa.icu/posts/technology/2026-05-25-low-end-server-tuning,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2026-05-24,1779662820.0
 在 RTX 4060 笔记本上运行 Qwen 3.5 9B：llama.cpp 本地部署实录,无妄当自持,https://www.insidentally.com/articles/000045/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-24,1779636600.0
 在 Fedora 44 上编译支持 CUDA 的 llama.cpp：完整指南,无妄当自持,https://www.insidentally.com/articles/000044/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-24,1779631200.0
 最近使用vibe coding的一些感悟,Nicksxs's Blog,https://nicksxs.me/2026/05/24/%E6%9C%80%E8%BF%91%E4%BD%BF%E7%94%A8vibe-coding%E7%9A%84%E4%B8%80%E4%BA%9B%E6%84%9F%E6%82%9F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-05-24,1779628043.0
 Hermes WebUI 安装与使用指南,无妄当自持,https://www.insidentally.com/articles/000046/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-24,1779604200.0
-成功创始人的两个特质,https://manateelazycat.github.io/,https://manateelazycat.github.io/2026/05/24/founder-clarity-resilience/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2026-05-23,1779552000.0
+AI是一个知识的金矿,https://manateelazycat.github.io/,https://manateelazycat.github.io/2026/05/24/ai-knowledge-goldmine/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2026-05-23,1779552000.0
 解决 CyberChef 解码 ROT13 后出现乱码的问题,无名博客,https://wuminboke.site/uncategorized/solve-cyberchef-rot13-decoding-problem/,https://wuminboke.site,https://wuminboke.site/feed,2026-05-23,1779542132.0
 Token Tracker - 追踪 Coding Agent 的 Token 使用情况,ImCBC,https://imcbc.cn/202605/token-tracker/,https://imcbc.cn/,https://imcbc.cn/index.xml,2026-05-23,1779534225.0
 面瘫恢复报告,瓦解的生活记事,https://hin.cool/posts/miantanhuifu.html,https://hin.cool/,https://hin.cool/atom.xml,2026-05-22,1779460200.0
-Lesson 24 原初核合成,菲兹克斯喵,https://physnya.top/GR/lesson-24-bbn/,https://physnya.top/,https://physnya.top/atom.xml,2026-05-22,1779433714.0
+Lesson 12 Resonance & 3-Body,菲兹克斯喵,https://physnya.top/star-planet/lesson-12-resonance/,https://physnya.top/,https://physnya.top/atom.xml,2026-05-22,1779433714.0
 Hexo 迁移至 Vite SSG,imba97,https://imba97.com/post/814,https://imba97.com/,https://imba97.cn/atom.xml,2026-05-21,1779404445.0
 阿森纳重夺英超冠军,辛未羊的网络日志,https://panqiincs.me/2026/05/20/arsenal-champions/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2026-05-20,1779252419.0
 Lesson 23 宇宙学入门,菲兹克斯喵,https://physnya.top/GR/lesson-23-cosmology/,https://physnya.top/,https://physnya.top/atom.xml,2026-05-19,1779174505.0
@@ -34,6 +35,7 @@ AI时代，销售是最好的一个职业,https://manateelazycat.github.io/,http
 【frp】双端内网环境XTCP协议P2P打洞互通实践,Luminous' Home,https://luotianyi.vc/9435.html,https://luotianyi.vc,https://luotianyi.vc/feed,2026-05-03,1777815043.0
 使用xiaomi mimo大模型api运行Hermes Agent,Nicksxs's Blog,https://nicksxs.me/2026/05/03/%E4%BD%BF%E7%94%A8xiaomi-mimo%E5%A4%A7%E6%A8%A1%E5%9E%8Bapi%E8%BF%90%E8%A1%8CHermes-Agent/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-05-03,1777814936.0
 争论 AI 编程时我们在谈论什么？,瓦解的生活记事,https://hin.cool/posts/wangluoduixian.html,https://hin.cool/,https://hin.cool/atom.xml,2026-05-03,1777790400.0
+Nikon 50 - 250 开箱小记,游钓四方,https://blog.lhasa.icu/posts/photo/2026-04-30-nikon-50-250-kaixiang,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2026-04-30,1777559280.0
 Lesson 17 光子气体,菲兹克斯喵,https://physnya.top/statistical-mechanics/lesson-17/,https://physnya.top/,https://physnya.top/atom.xml,2026-04-29,1777433295.0
 Lesson 19 Hawking 辐射 (Unruh Effect),菲兹克斯喵,https://physnya.top/GR/lesson-19-unruh-effect/,https://physnya.top/,https://physnya.top/atom.xml,2026-04-28,1777375275.0
 如何在树莓派 4B 上驱动一块 2.4 寸 SPI 屏幕,无名博客,https://wuminboke.site/uncategorized/how-to-setup-2-4-inch-spi-screen-on-rpi-4b/,https://wuminboke.site,https://wuminboke.site/feed,2026-04-27,1777267648.0
@@ -47,5 +49,3 @@ AI算力费暴涨？大厂CodinPlan/TokenPlan新套餐怎么选才不亏？,未�
 还在忍受限流？GLM-5.1免费敞开用，这波羊毛必须薅！,未知文明,https://www.xwenming.com/index.php/202604232170.html,https://www.xwenming.com,https://www.xwenming.com/index.php/feed/,2026-04-23,1776955508.0
 电脑卡成狗？加个内存条能救命吗！,未知文明,https://www.xwenming.com/index.php/202604232168.html,https://www.xwenming.com,https://www.xwenming.com/index.php/feed/,2026-04-23,1776955462.0
 Lesson 9 Birth (I),菲兹克斯喵,https://physnya.top/star-planet/lesson-9-birth-i/,https://physnya.top/,https://physnya.top/atom.xml,2026-04-23,1776952658.0
-关于我被诊断面瘫这件事,瓦解的生活记事,https://hin.cool/posts/liantanle.html,https://hin.cool/,https://hin.cool/atom.xml,2026-04-23,1776946200.0
-如何从 ClawCloud Run 爪云迁移 n8n 到自托管 Docker,无名博客,https://wuminboke.site/uncategorized/how-to-migrate-n8n-from-clawcloud-run-to-selfhosted-portainer/,https://wuminboke.site,https://wuminboke.site/feed,2026-04-23,1776943784.0
