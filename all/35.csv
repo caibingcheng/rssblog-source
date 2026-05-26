@@ -1,4 +1,8 @@
 title,author,link,home,rss,date,timestamp
+MinIO 的部署及与 Memos 的整合,杜老师说,https://dusays.com/693/,https://dusays.com/,https://dusays.com/atom.xml,2024-04-02,1712073600.0
+关于大模型你需要知道的,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20240402-what-you-need-to-know-about-llm,https://teobler.com,https://teobler.com/rss.xml,2024-04-02,1712070263.0
+马来西亚：多元而复杂，交错且单纯,Macin,https://macin.org/2024/04/02/ma-lai-jian-jie/,https://macin.org/,https://www.macin.org/atom.xml,2024-04-02,1712062237.0
+我奇怪的精神状态,imba97,https://imba97.com/post/778,https://imba97.com/,https://imba97.cn/atom.xml,2024-04-01,1712006191.0
 我奇怪的精神状态,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/778/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-04-01,1712006191.0
 天钡R1安装群晖,瓦解的生活记事,https://hin.cool/posts/tbeinas.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-04-01,1711954800.0
 买房指北 - 买房之前需要关注啥？,见字如面,https://hiwannz.com/archives/1025.html,https://hiwannz.com,https://hiwannz.com/feed,2024-04-01,1711954351.0
@@ -45,7 +49,3 @@ Golang CAS 操作是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.co
 Tiny RDM 一个轻量优美的 Redis 客户端,杜老师说,https://dusays.com/685/,https://dusays.com/,https://dusays.com/atom.xml,2024-03-09,1710000000.0
 在 Fedora server 39 中纯手动部署 Nextcloud,无妄当自持,https://www.insidentally.com/articles/000038/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-03-09,1709991268.0
 PostgreSQL 当MQ来使用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_09-postgresql_as_mq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-09,1709942400.0
-Clash 结合 工作VPN 的网络设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_08-clash_vpn.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-08,1709856000.0
-孤单而不孤独,Another Dayu,https://anotherdayu.com/2024/5636/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-03-07,1709789630.0
-使用 PostgreSQL 搭建 JuiceFS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_07-juicefs_postgresql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-07,1709769600.0
-OPENWRT断流后续和被骗30块钱,瓦解的生活记事,https://hin.cool/posts/opf4ck.html,https://hin.cool/,https://hin.cool/atom.xml,2024-03-06,1709761800.0
