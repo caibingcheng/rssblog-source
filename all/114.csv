@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+带你读单词第 21 期,杜老师说,https://dusays.com/51/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-28,1567008000.0
+思科网络地址转换,杜老师说,https://dusays.com/50/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-27,1566921600.0
 思科 DHCP 中继路由器,杜老师说,https://dusays.com/49/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-26,1566835200.0
 简单聊 EIGRP,杜老师说,https://dusays.com/48/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-25,1566748800.0
 说说消失这二十多天发生的事情,游钓四方,https://blog.lhasa.icu/posts/life/2019-08-25-tech-what-happened,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-08-25,1566708240.0
@@ -26,8 +28,8 @@ Objective-C 笔记 - GCD,imba97,https://imba97.com/post/397,https://imba97.com/,
 Objective-C 笔记 – 多线程,imba97,https://imba97.com/post/387,https://imba97.com/,https://imba97.cn/atom.xml,2019-08-13,1565705847.0
 阿里云服务器内网穿透的坑,imba97,https://imba97.com/post/379,https://imba97.com/,https://imba97.cn/atom.xml,2019-08-12,1565631335.0
 带你读单词第 10 期,杜老师说,https://dusays.com/35/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-12,1565625600.0
-你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-dns-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
 你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-dns-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
+你可能不知道的 Node.js dns 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-dns-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-12,1565568000.0
 带你读单词第 9 期,杜老师说,https://dusays.com/34/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-11,1565539200.0
 Blender 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/blender-learn-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-08-11,1565520573.0
 带你读单词第 8 期,杜老师说,https://dusays.com/33/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-10,1565452800.0
@@ -47,5 +49,3 @@ Git服务器自动同步部署到项目,imba97,https://imba97.com/post/280,https
 带你读单词第 1 期,杜老师说,https://dusays.com/26/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-03,1564848000.0
 通过 VTP 在多台交换机间同步 VLAN 数据,杜老师说,https://dusays.com/25/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-02,1564761600.0
 通过 Trunk 实现多台交换间 VLAN 内通信,杜老师说,https://dusays.com/24/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-01,1564675200.0
-搭建自己的Git服务器,imba97,https://imba97.com/post/281,https://imba97.com/,https://imba97.cn/atom.xml,2019-08-01,1564669059.0
-C， Go， Python的错误处理和异常机制杂谈,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_01-error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-01,1564617600.0
