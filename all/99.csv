@@ -1,4 +1,12 @@
 title,author,link,home,rss,date,timestamp
+Keep Data Consistency During Database Migration,Bin Wang - My Personal Blog,https://www.binwang.me/2020-11-29-Keep-Data-Consistency-During-Database-Migration.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-11-29,1606626000.0
+「小歌行」-景德镇文艺复兴-2020巡演-深圳,This Cute World,https://thiscute.world/posts/jingdezhen-renaissance-band-2020-shenzhen/,https://thiscute.world/,https://thiscute.world/index.xml,2020-11-28,1606535340.0
+Unity UI 管理模块,imba97,https://imba97.com/post/724,https://imba97.com/,https://imba97.cn/atom.xml,2020-11-27,1606488483.0
+linux 开启 samba 服务共享文件,无妄当自持,https://www.insidentally.com/articles/000005/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-27,1606465965.0
+Virtual Machine Manager 安装和创建,杜老师说,https://dusays.com/286/,https://dusays.com/,https://dusays.com/atom.xml,2020-11-26,1606406400.0
+旧不去新不来：派美特 PaMu Quiet 真无线降噪耳机,罗磊的独立博客,http://luolei.org/pamu-quiet/,https://luolei.org/,https://luolei.org/feed/,2020-11-26,1606398780.0
+gRPC错误处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_11_26-grpc_error_handle.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-11-26,1606348800.0
+山城晓雾,无妄当自持,https://www.insidentally.com/articles/000004/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-25,1606281003.0
 小米云摄像头无法对接群晖存储解决方法,杜老师说,https://dusays.com/285/,https://dusays.com/,https://dusays.com/atom.xml,2020-11-23,1606147200.0
 眺望渝中,无妄当自持,https://www.insidentally.com/articles/000003/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-23,1606118148.0
 Unity 网格建造,imba97,https://imba97.com/post/720,https://imba97.com/,https://imba97.cn/atom.xml,2020-11-22,1606071605.0
@@ -41,11 +49,3 @@ VPS 云主机测试脚本,杜老师说,https://dusays.com/275/,https://dusays.co
 ✳️ Vi/Vim使用备忘,qinxs小站,https://7bxing.com/posts/b04c6f46/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-10-23,1603435073.0
 写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-22,1603404285.0
 公共 DNS 服务器地址,杜老师说,https://dusays.com/274/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-20,1603209600.0
-【工具系列】Lombok,框架師,https://www.mobaijun.com/posts/529462236.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-10-20,1603200487.0
-从GORM里学习到的panic处理方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0
-写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-10-18,1603029885.0
-How to Estimate Max TPS from TPM,Bin Wang - My Personal Blog,https://www.binwang.me/2020-10-18-How-to-Estimate-Max-TPS-from-TPM.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-10-18,1602993600.0
-坏公司的鉴别方法,杜老师说,https://dusays.com/273/,https://dusays.com/,https://dusays.com/atom.xml,2020-10-17,1602950400.0
-记一次因 HSTS 导致跨域问题的经历,4Ark,https://4ark.me/posts/hsts-problem-solving-experience/,https://4ark.me/,https://4ark.me/rss.xml,2020-10-17,1602939409.0
-Go使用闭包简化数据库操作代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0
-Manjaro Linux 双显卡切换解决方案,游钓四方,https://blog.lhasa.icu/posts/technology/2020-10-15-manjaro-dual-graphics,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-10-15,1602751260.0

@@ -1,4 +1,12 @@
 title,author,link,home,rss,date,timestamp
+ufw简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_14-ufw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-14,1568419200.0
+被恶心了两次的PHP安装错误,imba97,https://imba97.com/post/441,https://imba97.com/,https://imba97.cn/atom.xml,2019-09-11,1568215025.0
+zerotier简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_11-zerotier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-11,1568160000.0
+DockCase P1:让 MacBook Pro 电源适配器秒变拓展坞,罗磊的独立博客,https://luolei.org/dockcase-review,https://luolei.org,https://luolei.org/feed/,2019-09-11,1568160000.0
+魔兽争霸3连接PvPGN服务器,imba97,https://imba97.com/post/437,https://imba97.com/,https://imba97.cn/atom.xml,2019-09-07,1567874386.0
+树莓派搭建PvPGN服务器,imba97,https://imba97.com/post/436,https://imba97.com/,https://imba97.cn/atom.xml,2019-09-07,1567872398.0
+Typecho主题 | MDr - 书写你的篇章,FlyingSky's Blog,https://blog.fsky7.com/archives/60/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2019-09-07,1567823700.0
+再谈996,Frank笔记,https://frank2019.me/archives/zai-tan-996,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567572600.0
 恐惧与期待,Frank笔记,https://frank2019.me/archives/kong-ju-yu-qi-dai,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567572300.0
 BBR+BBR魔改+Lotsever(锐速)一键脚本 for Centos/Debian/Ubuntu,Frank笔记,https://frank2019.me/archives/bbr-fix,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567572180.0
 牌局分析：创纪录的超大底池,Frank笔记,https://frank2019.me/archives/pai-ju-fen-xi-chuang-ji-lu-de-chao-da-di-chi,https://frank2019.me/,https://frank2019.me/rss.xml,2019-09-04,1567571880.0
@@ -13,8 +21,8 @@ Chrome插件跨域请求,imba97,https://imba97.com/post/434,https://imba97.com/,
 选择合适的技术栈,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_30-choose_properly_tech.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-30,1567123200.0
 说说消失这二十多天发生的事情,游钓四方,https://blog.lhasa.icu/posts/life/2019-08-25-tech-what-happened,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-08-25,1566708240.0
 Golang的template(模板引擎)简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_23-golang_html_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-23,1566518400.0
-关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 毕业三年，一路走来,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_21-three_years_after_graduate.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-21,1566345600.0
+关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 关于 tapable 你需要知道这些,Ahonn's Blog,https://www.ahonn.me/blog/about-tapable-you-need-to-know-these,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 关于 tapable 你需要知道这些,Yuexun's Blog,https://yuexunjiang.me/blog/about-tapable-you-need-to-know-these/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-08-21,1566345600.0
 Objective-C 笔记 – 网络请求,imba97,https://imba97.com/post/421,https://imba97.com/,https://imba97.cn/atom.xml,2019-08-20,1566316498.0
@@ -38,14 +46,6 @@ C， Go， Python的错误处理和异常机制杂谈,Jiajun的技术笔记,http
 ThinkPHP Save 方法引发的错误,游钓四方,https://blog.lhasa.icu/posts/technology/2019-07-31-tp-save,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-07-31,1564532460.0
 在SVG中使用Javascript,imba97,https://imba97.com/post/249,https://imba97.com/,https://imba97.cn/atom.xml,2019-07-30,1564490681.0
 好的命名是最好的文档,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_29-name_is_the_best_doc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-29,1564358400.0
-你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-util-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
 你可能不知道的 Node.js util 模块,Ahonn's Blog,https://www.ahonn.me/blog/node.js-util-module-you-may-not-know,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
+你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-util-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
 你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-util-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
-读《系统之美：决策者的系统思考》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_24-thinking_in_systems_a_primer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-24,1563926400.0
-Linux高分屏支持,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_20-linux_hidpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-20,1563580800.0
-未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0
-未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0
-GCC默认的头文件搜索路径,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_16-gcc_header_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-16,1563235200.0
-自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
-自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
-读《远见-如何规划职业生涯3大阶段》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_15-the_long_view.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-15,1563148800.0
