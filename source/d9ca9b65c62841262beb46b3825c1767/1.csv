@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp
 用 Firecrawl + SearXNG 给 Hermes Agent 搭建本地搜索与网页抓取,无妄当自持,https://www.insidentally.com/articles/000047/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-06-02,1780374600.0
+让服务器的 AI 读写你的 Obsidian 笔记库：从自建同步到 MCP 集成,无妄当自持,https://www.insidentally.com/articles/000048/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-06-02,1780365600.0
 在 RTX 4060 笔记本上运行 Qwen 3.5 9B：llama.cpp 本地部署实录,无妄当自持,https://www.insidentally.com/articles/000045/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-24,1779636600.0
 在 Fedora 44 上编译支持 CUDA 的 llama.cpp：完整指南,无妄当自持,https://www.insidentally.com/articles/000044/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-24,1779631200.0
 Hermes WebUI 安装与使用指南,无妄当自持,https://www.insidentally.com/articles/000046/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-24,1779604200.0
