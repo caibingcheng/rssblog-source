@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Golang 实践经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_01-golang_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-01,1541030400.0
 恋爱证明记,云游君的小站,https://www.yunyoujun.cn/posts/proof-of-love,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-10-31,1541024061.0
 西藏 | 骑行川藏四千里:2012年的青春影像,罗磊的独立博客,https://luolei.org/tibet-road-2012,https://luolei.org,https://luolei.org/feed/,2018-10-31,1540944000.0
 每个创作者都应该有张木桌:Timerecorder 时计 | VLOG18,罗磊的独立博客,https://luolei.org/my-desk-2018,https://luolei.org,https://luolei.org/feed/,2018-10-30,1540857600.0
@@ -33,7 +34,7 @@ Go的custom import path,Jiajun的技术笔记,https://jiajunhuang.com/articles/2
 致简写作神器 —— Markdown,游钓四方,https://blog.lhasa.icu/posts/technology/2018-09-03-markdown,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-09-03,1535949840.0
 Go Module 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_03-go_module.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-03,1535932800.0
 写了一个Telegram Bot：自动化分享高质量内容,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_02-write_a_tgbot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-02,1535846400.0
-Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-vim_speed_up.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
+ArchLinux 怎么降级 package ？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-archlinux_downgrade_package.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0
 (转)如何学习开源项目,游钓四方,https://blog.lhasa.icu/posts/technology/2018-08-31-learning-the-open-source,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-08-31,1535693280.0
 为什么你写不好一个快速排序? 谈程序员的职业发展,游钓四方,https://blog.lhasa.icu/posts/technology/2018-08-31-programmer-development,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-08-31,1535679840.0
 Ubuntu 18.04 下安装 Sublime Text3 并解决它的疑难杂症,游钓四方,https://blog.lhasa.icu/posts/technology/2018-08-30-ubuntu-set-up-sublime,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-08-29,1535558460.0
@@ -48,4 +49,3 @@ gRPC-gateway 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com
 共产风人设,imba97,https://imba97.com/post/135,https://imba97.com/,https://imba97.cn/atom.xml,2018-08-07,1533613020.0
 switch关灯工具,imba97,https://imba97.com/post/139,https://imba97.com/,https://imba97.cn/atom.xml,2018-08-07,1533612840.0
 腹肌南波湾一日游:FUJIFILM XF10,罗磊的独立博客,https://luolei.org/fujifilme-xf10-review,https://luolei.org,https://luolei.org/feed/,2018-08-05,1533427200.0
-人型自走输入法,imba97,https://imba97.com/post/119,https://imba97.com/,https://imba97.cn/atom.xml,2018-08-04,1533397320.0
