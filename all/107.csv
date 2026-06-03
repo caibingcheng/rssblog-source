@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+基于端口、域名及 IP 的 Apache 虚拟主机,杜老师说,https://dusays.com/203/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-21,1584806400.0
 2020年的春天一样寒冷,Frank笔记,https://frank2019.me/archives/2020nian-de-chun-tian-yi-yang-han-leng,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-18,1584562440.0
 如何用 Python 表白,杜老师说,https://dusays.com/202/,https://dusays.com/,https://dusays.com/atom.xml,2020-03-18,1584547200.0
 (转)为什么犹太人如此优秀？,游钓四方,https://blog.lhasa.icu/posts/life/2020-03-18-the-jews,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-03-18,1584531840.0
@@ -30,9 +31,9 @@ JWT 签名算法 HS256、RS256 及 ES256 及密钥生成,This Cute World,https:/
 一个feed流系统的演进,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_02-feed_system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-02,1583107200.0
 通过4bet来防守3bet,Frank笔记,https://frank2019.me/archives/tong-guo-4betlai-fang-shou-3bet,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096880.0
 使用Markdown在博客中添加视频,Frank笔记,https://frank2019.me/archives/shi-yong-markdownzai-bo-ke-zhong-tian-jia-shi-pin,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-01,1583096760.0
-好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
-Android 使用view binding,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_01-android_view_binding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-01,1583020800.0
 好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
+Android 使用view binding,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_01-android_view_binding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-01,1583020800.0
+好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0
 如何写简历中爱好,杜老师说,https://dusays.com/196/,https://dusays.com/,https://dusays.com/atom.xml,2020-02-29,1582992000.0
 关于浏览器隐藏 https 与 www 一事,ChrAlpha,https://blog.ichr.me/post/why-browsers-hide-https-and-www-in-address-bar/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-02-29,1582985007.0
 Ubuntu安装SS-Libev,Frank笔记,https://frank2019.me/archives/ubuntuan-zhuang-ss-libev,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-28,1582923840.0
@@ -48,4 +49,3 @@ Swift 笔记 – 归档和解档,imba97,https://imba97.com/post/497,https://imba
 iOS 开发笔记 - UI,imba97,https://imba97.com/post/496,https://imba97.com/,https://imba97.cn/atom.xml,2020-02-20,1582235702.0
 网站安全架设杂谈,杜老师说,https://dusays.com/193/,https://dusays.com/,https://dusays.com/atom.xml,2020-02-20,1582214400.0
 微服务的缺点,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_19-should_i_use_microservice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-19,1582070400.0
-Ubuntu软件更新运维,Frank笔记,https://frank2019.me/archives/ubunturuan-jian-geng-xin-yun-wei,https://frank2019.me/,https://frank2019.me/rss.xml,2020-02-18,1582059720.0
