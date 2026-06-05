@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Demo、 产品、 可持续热爱,Andy Stewart,//manateelazycat.github.io/2024/09/08/demo-product-persevere/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-08,1725753600.0
 再读《程序员修炼之道-从小工到专家》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_07-the_pragmatic_programmer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-07,1725667200.0
 读《华与华方法》,Andy Stewart,//manateelazycat.github.io/2024/09/07/reading-hua-yu-hua/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-07,1725667200.0
 让浏览器下载文件,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_09_06-browser_download_file.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-09-06,1725580800.0
@@ -8,10 +9,10 @@ Roundcube Webmail 安装教程,Frank笔记,https://frank2019.me/archives/roundcu
 Nginx 集成 ModSecurity 实现 Web 应用防火墙功能,杜老师说,https://dusays.com/744/,https://dusays.com/,https://dusays.com/atom.xml,2024-09-02,1725292800.0
 很多事情都是可以穷举出来的,Andy Stewart,//manateelazycat.github.io/2024/09/02/brute-force/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-02,1725235200.0
 一个Java类型的小问题记录,Nicksxs's Blog,https://nicksxs.me/2024/09/01/%E4%B8%80%E4%B8%AAJava%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-09-01,1725152409.0
+2024-08小记,汐塔魔法屋,https://blog.sinzmise.top/posts/15688/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-08-31,1725104028.0
+2024-08小记,汐塔魔法屋,https://blog.storical.space/posts/15688,https://blog.storical.space,https://blog.storical.space/atom.xml,2024-08-31,1725104028.0
 2024-08小记,绘星里,https://blog.storical.fun/posts/15688/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2024-08-31,1725104028.0
 2024-08小记,绘星里,/posts/15688/,/,https://blog.storical.space/atom.xml,2024-08-31,1725104028.0
-2024-08小记,汐塔魔法屋,https://blog.storical.space/posts/15688,https://blog.storical.space,https://blog.storical.space/atom.xml,2024-08-31,1725104028.0
-2024-08小记,汐塔魔法屋,https://blog.sinzmise.top/posts/15688/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-08-31,1725104028.0
 两则魔怔新闻,Frank笔记,https://frank2019.me/archives/liang-ze-xin-wen,https://frank2019.me,https://frank2019.me/rss.xml,2024-08-30,1725038260.0
 使用 Docker 部署 Opengist 开源代码片段分享工具,杜老师说,https://dusays.com/743/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-30,1725033600.0
 HTTP 压力测试中的 Coordinated Omission,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_08_30-http_load_testing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-08-30,1724976000.0
@@ -33,8 +34,8 @@ Windows 聚焦隐藏“了解此图片”图标,岚天小窝,https://blog.ltya.t
 PicHoro 一个用于快速上传图片和管理图床的移动端工具,杜老师说,https://dusays.com/739/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-18,1723996800.0
 体验下Java 21的虚拟线程-协程,Nicksxs's Blog,https://nicksxs.me/2024/08/18/%E4%BD%93%E9%AA%8C%E4%B8%8BJava-21%E7%9A%84%E8%99%9A%E6%8B%9F%E7%BA%BF%E7%A8%8B-%E5%8D%8F%E7%A8%8B/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-08-18,1723958517.0
 AI 服务器， 开源开发者专属福利！,Andy Stewart,//manateelazycat.github.io/2024/08/17/lazycat-microserver/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-08-17,1723852800.0
-久违的暑假,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/787/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-08-16,1723815713.0
 久违的暑假,imba97,https://imba97.com/post/787,https://imba97.com/,https://imba97.cn/atom.xml,2024-08-16,1723815713.0
+久违的暑假,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/787/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-08-16,1723815713.0
 获取免费SSL证书,cmWeblog,https://muidar.com/posts/cmuidar/get-free-ssl-certifications/,https://muidar.com,https://muidar.com/feed,2024-08-16,1723813599.0
 久违的暑假,怠惰のコエ - imba久期 BLOG,https://imba97.com/archives/787/,https://imba97.com/,https://imba97.cn/atom.xml,2024-08-16,1723786913.0
 治愈系小天使「多图预警」,杜老师说,https://dusays.com/738/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-15,1723737600.0
@@ -48,4 +49,3 @@ AI 服务器， 开源开发者专属福利！,Andy Stewart,//manateelazycat.git
 「代码艺术家」不会被 AI 取代,Randy's Blog,https://lutaonan.com/blog/code-artists,https://lutaonan.com,https://lutaonan.com/rss.xml,2024-08-10,1723248000.0
 「代码艺术家」不会被 AI 取代,Randy's Blog,https://lutaonan.com/blog/code-artists/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-08-10,1723248000.0
 Nginx 可视化编辑工具 nginxWebUI 安装和使用,杜老师说,https://dusays.com/736/,https://dusays.com/,https://dusays.com/atom.xml,2024-08-09,1723219200.0
-写一个Chrome表单自动化插件,游钓四方,https://blog.lhasa.icu/posts/technology/2024-08-07-formautomationplugin,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2024-08-07,1723011960.0
