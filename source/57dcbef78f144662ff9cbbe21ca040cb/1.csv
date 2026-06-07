@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+关于适合什么模型，推荐下llmfit,Nicksxs's Blog,https://nicksxs.me/2026/06/07/%E5%85%B3%E4%BA%8E%E9%80%82%E5%90%88%E4%BB%80%E4%B9%88%E6%A8%A1%E5%9E%8B-%E6%8E%A8%E8%8D%90%E4%B8%8Bllmfit/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-06-07,1780842063.0
 看看目前本地能跑什么模型，使用llama.cpp,Nicksxs's Blog,https://nicksxs.me/2026/05/31/%E7%9C%8B%E7%9C%8B%E7%9B%AE%E5%89%8D%E6%9C%AC%E5%9C%B0%E8%83%BD%E8%B7%91%E4%BB%80%E4%B9%88%E6%A8%A1%E5%9E%8B-%E4%BD%BF%E7%94%A8llama-cpp/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-05-31,1780236434.0
 最近使用vibe coding的一些感悟,Nicksxs's Blog,https://nicksxs.me/2026/05/24/%E6%9C%80%E8%BF%91%E4%BD%BF%E7%94%A8vibe-coding%E7%9A%84%E4%B8%80%E4%BA%9B%E6%84%9F%E6%82%9F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-05-24,1779628043.0
 使用php的inotify扩展来监听文件变更,Nicksxs's Blog,https://nicksxs.me/2026/05/17/%E4%BD%BF%E7%94%A8php%E7%9A%84inotify%E6%89%A9%E5%B1%95%E6%9D%A5%E7%9B%91%E5%90%AC%E6%96%87%E4%BB%B6%E5%8F%98%E6%9B%B4/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-05-17,1779026151.0
@@ -48,4 +49,3 @@ title,author,link,home,rss,date,timestamp
 介绍下laravel herd工具,Nicksxs's Blog,https://nicksxs.me/2025/07/13/%E4%BB%8B%E7%BB%8D%E4%B8%8Blaravel-herd%E5%B7%A5%E5%85%B7/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-07-13,1752407315.0
 复习下ER图和它的使用方式,Nicksxs's Blog,https://nicksxs.me/2025/07/06/%E5%A4%8D%E4%B9%A0%E4%B8%8BER%E5%9B%BE%E5%92%8C%E5%AE%83%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-07-06,1751807843.0
 体验最新的gemini cli工具来实现一个简单的网页小程序,Nicksxs's Blog,https://nicksxs.me/2025/06/29/%E4%BD%93%E9%AA%8C%E6%9C%80%E6%96%B0%E7%9A%84gemini-cli%E5%B7%A5%E5%85%B7%E6%9D%A5%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E7%BD%91%E9%A1%B5%E5%B0%8F%E7%A8%8B%E5%BA%8F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-06-29,1751201933.0
-解决wsl2中的ubuntu无法通过ssh连接的问题,Nicksxs's Blog,https://nicksxs.me/2025/06/22/%E8%A7%A3%E5%86%B3wsl2%E4%B8%AD%E7%9A%84ubuntu%E6%97%A0%E6%B3%95%E9%80%9A%E8%BF%87ssh%E8%BF%9E%E6%8E%A5%E7%9A%84%E9%97%AE%E9%A2%98/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-06-22,1750600098.0
