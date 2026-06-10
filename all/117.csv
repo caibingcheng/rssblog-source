@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-Ubuntu 18.04 dhcp更换新IP,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_30-ubuntu_1804_dhcp_new_ip.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-30,1559174400.0
-Python中的新式类(new style class)和老式类(old style class),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_29-python_old_new_style_class.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-29,1559088000.0
-2019-05-22 博客功能更新记录,游钓四方,https://blog.lhasa.icu/posts/technology/2019-05-22-blog-feature-update,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-05-22,1558522620.0
-SQLAlchemy 学习笔记（三）：ORM 中的关系构建,This Cute World,https://thiscute.world/posts/sqlalchemy-notes-3-relationship-and-foreignkey/,https://thiscute.world/,https://thiscute.world/index.xml,2019-05-21,1558448340.0
-(转)我眼中的技术高手,游钓四方,https://blog.lhasa.icu/posts/technology/2019-05-19-tech-whiz,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-05-19,1558237620.0
-Python Requests 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_18-requests.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-18,1558137600.0
-Everyday Auto Xuexiqiangguo,云游君的小站,https://www.yunyoujun.cn/posts/everyday-auto-xuexiqiangguo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-05-16,1558043515.0
-酷 Q 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/coolq-use-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-05-15,1557949531.0
-密码技术简明教程(三)：证书和TLS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_15-crypto_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-15,1557878400.0
-密码技术简明教程(二)：散列、消息认证码和数字签名,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_14-crypto_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-14,1557792000.0
-密码技术简明教程(一)：对称加密和非对称加密,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_12-crypto.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-12,1557619200.0
-Kubernetes 笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_10-kubernetes_tutorial.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-10,1557446400.0
-go mod 和 logrus 路径大小写的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_09-go_mod_logrus.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-09,1557360000.0
-Flask自动加载Blueprint,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_08-flask_load_bp_automaticly.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-08,1557273600.0
-Unity DOTS 走马观花,萤火之森,http://frankorz.com/2019/05/07/simple-talk-unity-dots/,http://frankorz.com/,https://frankorz.com/atom.xml,2019-05-07,1557264120.0
-在KVM里安装Minikube,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_07-minikube_kvm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-07,1557187200.0
-塞翁失马焉知非福,云游君的小站,https://www.yunyoujun.cn/posts/a-blessing-in-disguise,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-05-06,1557178320.0
-ionic 笔记 (环境搭建与命令),游钓四方,https://blog.lhasa.icu/posts/technology/2019-05-06-ionic,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-05-06,1557102840.0
-貓與網絡暴力,Just lepture,https://lepture.com/zh/2019/cat-and-violence,https://lepture.com/,https://lepture.com/feed.xml,2019-05-01,1556720168.0
-2020 香港银行开户攻略 | 境外投资必备，如何拥有一个香港银行卡,罗磊的独立博客,https://luolei.org/how-to-open-a-bank-account-in-hongkong,https://luolei.org,https://luolei.org/feed/,2019-04-30,1556582400.0
-如何使用 Hammerspoon 实现剪贴板历史,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
-如何使用 Hammerspoon 实现剪贴板历史,Yuexun's Blog,https://yuexunjiang.me/blog/how-to-implement-clipboard-history-with-hammerspoon/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
-如何使用 Hammerspoon 实现剪贴板历史,Ahonn's Blog,https://www.ahonn.me/blog/how-to-implement-clipboard-history-with-hammerspoon,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-04-30,1556582400.0
-Deepin 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/deepin-use-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-29,1556562227.0
-搞定面试中的系统设计题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_29-system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-29,1556496000.0
-hexo-theme-yun 制作笔记,云游君的小站,https://www.yunyoujun.cn/note/make-hexo-theme-yun/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-27,1556337600.0
-Crontab + Sendmail实现定时任务并且通知,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_25-crontab_sendmail.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-25,1556150400.0
-Nginx设置Referer来防止盗图,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_23-nginx_referer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-23,1555977600.0
-我的第一部单反相机,游钓四方,https://blog.lhasa.icu/posts/photo/2019-04-20-one-single-lens,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-04-20,1555730760.0
-Graphviz dot简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_20-graphviz_dot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-20,1555718400.0
-7个冷门的中文网站&社区推荐 | VLOG39,罗磊的独立博客,https://luolei.org/7-select-chinese-websites,https://luolei.org,https://luolei.org/feed/,2019-04-19,1555632000.0
-jQuery简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_19-jquery.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-19,1555632000.0
-Python RQ(Redis Queue)添加gevent支持,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_18-python_rq_gevent.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-18,1555545600.0
-推荐 10 个优秀的技术栈社区,游钓四方,https://blog.lhasa.icu/posts/technology/2019-04-17-it-site,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-04-17,1555477860.0
-技术人，光有技术是不行的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_17-tech_only_is_bad.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-17,1555459200.0
-北线无战事,云游君的小站,https://www.yunyoujun.cn/posts/after-2nd-postgraduate-re-exam,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-16,1555420345.0
-快速定位 Apache 错误,游钓四方,https://blog.lhasa.icu/posts/technology/2019-04-15-apache-error,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-04-15,1555316100.0
-瘾的退却,This Cute World,https://thiscute.world/posts/webnovel-addiction-recovery/,https://thiscute.world/,https://thiscute.world/index.xml,2019-04-14,1555248452.0
-仓生,云游君的小站,https://www.yunyoujun.cn/posts/the-common-hamster,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-04-10,1554936011.0
-那霸的夜,Just lepture,https://lepture.com/zh/2019/night-in-naha,https://lepture.com/,https://lepture.com/feed.xml,2019-04-10,1554921337.0
-从 @babel/register 到 node.js require(),Ahonn's Blog,https://www.ahonn.me/blog/from-babel-register-to-nodejs-require,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
-从 @babel/register 到 node.js require(),Yuexun's Blog,https://yuexunjiang.me/blog/from-babel-register-to-nodejs-require,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
-从 @babel/register 到 node.js require(),Yuexun's Blog,https://yuexunjiang.me/blog/from-babel-register-to-nodejs-require/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-04-09,1554768000.0
-我最常访问的五个小众中文网站 | VLOG38,罗磊的独立博客,https://luolei.org/top-5-interesting-chinese-website,https://luolei.org,https://luolei.org/feed/,2019-04-09,1554768000.0
-_initialize() 和 __construct() 的区别,游钓四方,https://blog.lhasa.icu/posts/technology/2019-04-08-initialize-construct,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-04-08,1554690480.0
-11 寸 iPad Pro 体验,Randy's Blog,https://lutaonan.com/blog/ipad-pro-11-review/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-04-06,1554508800.0
-使用shairport-sync搭建airplay音频服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_06-shairport_sync.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-06,1554508800.0
-VirtManager Windows自适应屏幕,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_05-virt_manager_win.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-05,1554422400.0
-人生是不断取舍的过程,Randy's Blog,https://lutaonan.com/blog/everything-is-about-trade-off,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-04-03,1554249600.0
-使用btrfs组建RAID1,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_04_03-btrfs_raid1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-04-03,1554249600.0
+带你读单词第 9 期,杜老师说,https://dusays.com/34/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-11,1565539200.0
+Blender 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/blender-learn-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-08-11,1565520573.0
+带你读单词第 8 期,杜老师说,https://dusays.com/33/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-10,1565452800.0
+树莓派折腾笔记,imba97,https://imba97.com/post/371,https://imba97.com/,https://imba97.cn/atom.xml,2019-08-10,1565444758.0
+带你读单词第 7 期,杜老师说,https://dusays.com/32/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-09,1565366400.0
+带你读单词第 6 期,杜老师说,https://dusays.com/31/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-08,1565280000.0
+Objective-C 笔记 – 03,imba97,https://imba97.com/post/311,https://imba97.com/,https://imba97.cn/atom.xml,2019-08-08,1565264683.0
+Objective-C 笔记 – 02,imba97,https://imba97.com/post/310,https://imba97.com/,https://imba97.cn/atom.xml,2019-08-07,1565203404.0
+带你读单词第 5 期,杜老师说,https://dusays.com/30/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-07,1565193600.0
+Typecho主题 | MDr - 书写你的篇章,FlyingSky's Blog,https://blog.fsky7.com/technology/59,https://blog.fsky7.com,https://blog.fsky7.com/feed,2019-08-07,1565150400.0
+Objective-C 笔记 - 基本类型,imba97,https://imba97.com/post/299,https://imba97.com/,https://imba97.cn/atom.xml,2019-08-06,1565111024.0
+带你读单词第 4 期,杜老师说,https://dusays.com/29/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-06,1565107200.0
+Git服务器自动同步部署到项目,imba97,https://imba97.com/post/280,https://imba97.com/,https://imba97.cn/atom.xml,2019-08-06,1565091474.0
+带你读单词第 3 期,杜老师说,https://dusays.com/28/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-05,1565020800.0
+消息分帧(字符串设计或协议设计)的两种形式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_05-message_framing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-05,1564963200.0
+带你读单词第 2 期,杜老师说,https://dusays.com/27/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-04,1564934400.0
+带你读单词第 1 期,杜老师说,https://dusays.com/26/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-03,1564848000.0
+通过 VTP 在多台交换机间同步 VLAN 数据,杜老师说,https://dusays.com/25/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-02,1564761600.0
+通过 Trunk 实现多台交换间 VLAN 内通信,杜老师说,https://dusays.com/24/,https://dusays.com/,https://dusays.com/atom.xml,2019-08-01,1564675200.0
+搭建自己的Git服务器,imba97,https://imba97.com/post/281,https://imba97.com/,https://imba97.cn/atom.xml,2019-08-01,1564669059.0
+C， Go， Python的错误处理和异常机制杂谈,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_01-error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-01,1564617600.0
+VLAN 虚拟局域网,杜老师说,https://dusays.com/23/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-31,1564588800.0
+ThinkPHP Save 方法引发的错误,游钓四方,https://blog.lhasa.icu/posts/technology/2019-07-31-tp-save/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2019-07-31,1564532460.0
+ThinkPHP Save 方法引发的错误,游钓四方,https://blog.lhasa.icu/posts/technology/2019-07-31-tp-save,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-07-31,1564532460.0
+CentOS7 的内核优化详解,杜老师说,https://dusays.com/22/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-30,1564502400.0
+在SVG中使用Javascript,imba97,https://imba97.com/post/249,https://imba97.com/,https://imba97.cn/atom.xml,2019-07-30,1564490681.0
+FTP 服务的详解「下篇」,杜老师说,https://dusays.com/21/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-29,1564416000.0
+好的命名是最好的文档,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_29-name_is_the_best_doc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-29,1564358400.0
+FTP 服务的详解「上篇」,杜老师说,https://dusays.com/20/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-28,1564329600.0
+你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node.js-util-module-you-may-not-know,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
+你可能不知道的 Node.js util 模块,Yuexun's Blog,https://yuexunjiang.me/blog/node-js-util-module-you-may-not-know/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
+你可能不知道的 Node.js util 模块,Ahonn's Blog,https://www.ahonn.me/blog/node.js-util-module-you-may-not-know,https://www.ahonn.me,https://www.ahonn.me/rss.xml,2019-07-28,1564272000.0
+CentOS7 的内核优化,杜老师说,https://dusays.com/19/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-27,1564243200.0
+初始化 CentOS7 系统「下篇」,杜老师说,https://dusays.com/18/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-26,1564156800.0
+初始化 CentOS7 系统「上篇」,杜老师说,https://dusays.com/17/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-25,1564070400.0
+使用 AutoFS 实现 NFS 自动挂载,杜老师说,https://dusays.com/16/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-24,1563984000.0
+读《系统之美：决策者的系统思考》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_24-thinking_in_systems_a_primer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-24,1563926400.0
+NFS 的服务详解「下篇」,杜老师说,https://dusays.com/15/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-23,1563897600.0
+NFS 的服务详解「上篇」,杜老师说,https://dusays.com/14/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-22,1563811200.0
+面试的那些事「下篇」,杜老师说,https://dusays.com/13/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-21,1563724800.0
+面试的那些事「中篇」,杜老师说,https://dusays.com/12/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-20,1563638400.0
+Linux高分屏支持,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_20-linux_hidpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-20,1563580800.0
+面试的那些事「上篇」,杜老师说,https://dusays.com/11/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-19,1563552000.0
+让 Hexo 支持在线编辑,杜老师说,https://dusays.com/10/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-18,1563465600.0
+未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0
+未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0
+将 Hexo 部署到 CODING,杜老师说,https://dusays.com/9/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-17,1563379200.0
+将 Hexo 部署到 GitHub,杜老师说,https://dusays.com/8/,https://dusays.com/,https://dusays.com/atom.xml,2019-07-16,1563292800.0
+GCC默认的头文件搜索路径,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_16-gcc_header_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-16,1563235200.0
+自动为 React 组件添加 react-hot-loader 支持,Yuexun's Blog,https://yuexunjiang.me/blog/auto-add-react-hot-loader-to-react-component,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2019-07-16,1563235200.0
