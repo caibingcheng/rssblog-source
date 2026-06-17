@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+Linux 服务器翻墙,游钓四方,https://blog.lhasa.icu/posts/technology/2026-06-17-mihomo/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2026-06-17,1781678280.0
+订阅新姿势,游钓四方,https://blog.lhasa.icu/posts/technology/2026-06-17-miniflux/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2026-06-17,1781678220.0
 关于github拉取下载加速的另一个方式,Nicksxs's Blog,https://nicksxs.me/2026/06/14/%E5%85%B3%E4%BA%8Egithub%E6%8B%89%E5%8F%96%E4%B8%8B%E8%BD%BD%E5%8A%A0%E9%80%9F%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%96%B9%E5%BC%8F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-06-14,1781444735.0
 博客首页改版,瓦解的生活记事,https://hin.cool/posts/bloguibeautify.html,https://hin.cool/,https://hin.cool/atom.xml,2026-06-13,1781323200.0
 Lesson 30 复习,菲兹克斯喵,https://physnya.top/GR/lesson-30-review/,https://physnya.top/,https://physnya.top/atom.xml,2026-06-12,1781249194.0
@@ -33,7 +35,7 @@ Lesson 25 原初核合成 & CMB,菲兹克斯喵,https://physnya.top/GR/lesson-25
 在 Fedora 44 上编译支持 CUDA 的 llama.cpp：完整指南,无妄当自持,https://www.insidentally.com/articles/000044/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-24,1779631200.0
 最近使用vibe coding的一些感悟,Nicksxs's Blog,https://nicksxs.me/2026/05/24/%E6%9C%80%E8%BF%91%E4%BD%BF%E7%94%A8vibe-coding%E7%9A%84%E4%B8%80%E4%BA%9B%E6%84%9F%E6%82%9F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-05-24,1779628043.0
 Hermes WebUI 安装与使用指南,无妄当自持,https://www.insidentally.com/articles/000046/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-24,1779604200.0
-AI Native Company需要注意的点,https://manateelazycat.github.io/,https://manateelazycat.github.io/2026/05/24/ai-native-company-notes/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2026-05-23,1779552000.0
+AI是一个知识的金矿,https://manateelazycat.github.io/,https://manateelazycat.github.io/2026/05/24/ai-knowledge-goldmine/,https://manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2026-05-23,1779552000.0
 解决 CyberChef 解码 ROT13 后出现乱码的问题,无名博客,https://wuminboke.site/uncategorized/solve-cyberchef-rot13-decoding-problem/,https://wuminboke.site,https://wuminboke.site/feed,2026-05-23,1779542132.0
 Token Tracker - 追踪 Coding Agent 的 Token 使用情况,ImCBC,https://imcbc.cn/202605/token-tracker/,https://imcbc.cn/,https://imcbc.cn/index.xml,2026-05-23,1779534225.0
 面瘫恢复报告,瓦解的生活记事,https://hin.cool/posts/miantanhuifu.html,https://hin.cool/,https://hin.cool/atom.xml,2026-05-22,1779460200.0
@@ -47,5 +49,3 @@ Hermes Agent 使用实践：核心机制与命令技巧,无妄当自持,https://
 使用php的inotify扩展来监听文件变更,Nicksxs's Blog,https://nicksxs.me/2026/05/17/%E4%BD%BF%E7%94%A8php%E7%9A%84inotify%E6%89%A9%E5%B1%95%E6%9D%A5%E7%9B%91%E5%90%AC%E6%96%87%E4%BB%B6%E5%8F%98%E6%9B%B4/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-05-17,1779026151.0
 Lesson 22 路径积分 (II),菲兹克斯喵,https://physnya.top/GR/lesson-22-path-integral-II/,https://physnya.top/,https://physnya.top/atom.xml,2026-05-15,1778828988.0
 Lesson 11 Dynamics,菲兹克斯喵,https://physnya.top/star-planet/lesson-11-dynamics/,https://physnya.top/,https://physnya.top/atom.xml,2026-05-14,1778766560.0
-Lesson 11 学习与记忆,菲兹克斯喵,https://physnya.top/animal-behavior/lesson-11-learning-and-remember/,https://physnya.top/,https://physnya.top/atom.xml,2026-05-14,1778757351.0
-AI Coding 工具的实践经验,ImCBC,https://imcbc.cn/202605/ai-coding-practical-experience/,https://imcbc.cn/,https://imcbc.cn/index.xml,2026-05-12,1778591401.0
