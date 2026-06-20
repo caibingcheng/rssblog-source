@@ -1,10 +1,11 @@
 title,author,link,home,rss,date,timestamp
+Go设计模式: 责任链模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_21-go_design_pattern_chain.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-21,1595289600.0
 《每天一个JS程序》系列排行,imba97,https://imba97.com/post/665,https://imba97.com/,https://imba97.cn/atom.xml,2020-07-19,1595188311.0
 解决 Nextcloud 出现 trusted_domains 问题,杜老师说,https://dusays.com/243/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-19,1595174400.0
 「发言成本」与为什么我（个人博主）不想建立交流社群,ChrAlpha,https://blog.ichr.me/post/expressing-costs/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-07-19,1595172616.0
 生成拖拽安装,imba97,https://imba97.com/post/661,https://imba97.com/,https://imba97.cn/atom.xml,2020-07-19,1595171610.0
-自己搭建的免费虚拟主机（MOFH）,岚天小窝,http://blog.ltya.top/posts/freewebhosting.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
 自己搭建的免费虚拟主机（MOFH）,岚天小窝,https://blog.ltya.top/posts/freewebhosting.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
+自己搭建的免费虚拟主机（MOFH）,岚天小窝,http://blog.ltya.top/posts/freewebhosting.shtml,http://blog.ltya.top/,https://blog.ltya.top/atom.xml,2020-07-18,1595088000.0
 Node.js 的安装,杜老师说,https://dusays.com/242/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-16,1594915200.0
 我们真的需要这么复杂的技术栈吗？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_15-do_we_need_these.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-15,1594771200.0
 Go设计模式：装饰器模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_14-go_design_pattern_decorator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-14,1594684800.0
@@ -20,8 +21,8 @@ Hexo 页面源代码压缩脚本,杜老师说,https://dusays.com/238/,https://du
 ElasticSearch学习笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_04-elasticsearch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-04,1593820800.0
 Go设计模式：composite模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_07_02-go_design_pattern_composite.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-07-02,1593648000.0
 Linux 服务器大量向外发包问题排查,杜老师说,https://dusays.com/237/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-01,1593619200.0
-今天我去钓鱼了,游钓四方,https://blog.lhasa.icu/posts/life/2020-06-29-fishing/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2020-06-29,1593416640.0
 今天我去钓鱼了,游钓四方,https://blog.lhasa.icu/posts/life/2020-06-29-fishing,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-06-29,1593416640.0
+今天我去钓鱼了,游钓四方,https://blog.lhasa.icu/posts/life/2020-06-29-fishing/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2020-06-29,1593416640.0
 云南 | 东航周末随心飞，昆明玉溪两日行 | 抚仙湖 磨豆山,罗磊的独立博客,https://luolei.org/kunming-yuxi-weekend-getaways,https://luolei.org,https://luolei.org/feed/,2020-06-29,1593388800.0
 【工具系列】让你的IDEA一次设置，多处使用,框架師,https://www.mobaijun.com/posts/798437723.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-06-28,1593363641.0
 Ubuntu 如何挂载 OSS,杜老师说,https://dusays.com/236/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-28,1593360000.0
@@ -48,4 +49,3 @@ Go设计模式：简单工厂模式,Jiajun的技术笔记,https://jiajunhuang.co
 debug故事之：事务让生活更美好,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_12-transaction_life_easy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-12,1591920000.0
 老婆的第一副眼镜: Tapole 钛架 + 蔡司A系列镜片,罗磊的独立博客,https://luolei.org/tapole-glasses,https://luolei.org,https://luolei.org/feed/,2020-06-12,1591920000.0
 Fireside 遷移記,Just lepture,https://lepture.com/zh/2020/fireside-export,https://lepture.com/,https://lepture.com/feed.xml,2020-06-11,1591843954.0
-Go设计模式：模板模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_06_11-go_design_pattern_template.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-06-11,1591833600.0
