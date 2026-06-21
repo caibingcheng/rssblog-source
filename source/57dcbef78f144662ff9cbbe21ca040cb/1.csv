@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+浅析一下jpeg图片格式及其来源,Nicksxs's Blog,https://nicksxs.me/2026/06/21/%E6%B5%85%E6%9E%90%E4%B8%80%E4%B8%8B%E5%90%84%E7%B1%BB%E5%9B%BE%E7%89%87%E6%A0%BC%E5%BC%8F%E5%8F%8A%E5%85%B6%E6%9D%A5%E6%BA%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-06-21,1782045747.0
 关于github拉取下载加速的另一个方式,Nicksxs's Blog,https://nicksxs.me/2026/06/14/%E5%85%B3%E4%BA%8Egithub%E6%8B%89%E5%8F%96%E4%B8%8B%E8%BD%BD%E5%8A%A0%E9%80%9F%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%96%B9%E5%BC%8F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-06-14,1781444735.0
 关于适合什么模型，推荐下llmfit,Nicksxs's Blog,https://nicksxs.me/2026/06/07/%E5%85%B3%E4%BA%8E%E9%80%82%E5%90%88%E4%BB%80%E4%B9%88%E6%A8%A1%E5%9E%8B-%E6%8E%A8%E8%8D%90%E4%B8%8Bllmfit/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-06-07,1780842063.0
 看看目前本地能跑什么模型，使用llama.cpp,Nicksxs's Blog,https://nicksxs.me/2026/05/31/%E7%9C%8B%E7%9C%8B%E7%9B%AE%E5%89%8D%E6%9C%AC%E5%9C%B0%E8%83%BD%E8%B7%91%E4%BB%80%E4%B9%88%E6%A8%A1%E5%9E%8B-%E4%BD%BF%E7%94%A8llama-cpp/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-05-31,1780236434.0
@@ -48,4 +49,3 @@ title,author,link,home,rss,date,timestamp
 学习下mysql新版本支持的row_number方法,Nicksxs's Blog,https://nicksxs.me/2025/07/27/%E5%AD%A6%E4%B9%A0%E4%B8%8Bmysql%E6%96%B0%E7%89%88%E6%9C%AC%E6%94%AF%E6%8C%81%E7%9A%84row-number%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-07-27,1753619078.0
 千万别升级Chrome-您的扩展程序可能无法使用-教你怎么解决,Nicksxs's Blog,https://nicksxs.me/2025/07/20/%E5%8D%83%E4%B8%87%E5%88%AB%E5%8D%87%E7%BA%A7Chrome-%E6%82%A8%E7%9A%84%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F%E5%8F%AF%E8%83%BD%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-07-20,1753012599.0
 介绍下laravel herd工具,Nicksxs's Blog,https://nicksxs.me/2025/07/13/%E4%BB%8B%E7%BB%8D%E4%B8%8Blaravel-herd%E5%B7%A5%E5%85%B7/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-07-13,1752407315.0
-复习下ER图和它的使用方式,Nicksxs's Blog,https://nicksxs.me/2025/07/06/%E5%A4%8D%E4%B9%A0%E4%B8%8BER%E5%9B%BE%E5%92%8C%E5%AE%83%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2025-07-06,1751807843.0
