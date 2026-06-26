@@ -120,6 +120,9 @@ jobs:
         env:
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           ISSUE_BODY: ${{ github.event.issue.body }}
+          SOURCE_BRANCH: ${{ steps.branches.outputs.source_branch }}
+          PUBLIC_BRANCH: ${{ steps.branches.outputs.public_branch }}
+          NEW_BRANCH: ${{ steps.branches.outputs.new_branch }}
         run: python .github/scripts/process_feed_issue.py
 
       - name: Create Pull Request

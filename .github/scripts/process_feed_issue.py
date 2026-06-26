@@ -12,6 +12,10 @@ import requests
 
 FEEDS_CSV = "./public/feeds.csv"
 REPLACED_BY_PATTERN = re.compile(r"^\s*(\S+)\s+replaced\s+by\s+(\S+)\s*$", re.IGNORECASE)
+URL_RE = re.compile(
+    r'https?://[^\s"\'<>\u201c\u201d\u2018\u2019)\]\},;#]+',
+    re.IGNORECASE,
+)
 
 
 def hash_url(url):
@@ -22,12 +26,13 @@ def hash_url(url):
 
 def normalize_url(url):
     url = url.strip()
-    url = url.strip('""''\u201c\u201d\u2018\u2019')
     url = url.lower()
-    url = url.rstrip("/")
     idx = url.find("#")
     if idx != -1:
         url = url[:idx]
+    url = url.rstrip("/")
+    # 去掉可能残留的末尾标点
+    url = url.rstrip(',;"\'\u201c\u201d\u2018\u2019.:)]}>')
     return url
 
 
@@ -43,13 +48,15 @@ def parse_issue_body(body):
         if not line or line.startswith("#"):
             continue
 
-        match = REPLACED_BY_PATTERN.match(line)
-        if match:
-            old_url = normalize_url(match.group(1))
-            new_url = normalize_url(match.group(2))
-            replaced_by.append((old_url, new_url))
+        urls = URL_RE.findall(line)
+        if not urls:
+            continue
+
+        lowered = line.lower()
+        if "replaced" in lowered and "by" in lowered and len(urls) >= 2:
+            replaced_by.append((normalize_url(urls[0]), normalize_url(urls[1])))
         else:
-            plain_urls.append(normalize_url(line))
+            plain_urls.append(normalize_url(urls[0]))
 
     return plain_urls, replaced_by
 
@@ -233,9 +240,12 @@ def main():
     report_text = "\n".join(reports) if reports else "No URLs processed."
     summary = "\n".join(reports) if reports else "No changes."
 
-    print(f"::set-output name=has_changes::{'true' if has_changes else 'false'}")
-    print(f"::set-output name=report::{report_text}")
-    print(f"::set-output name=change_summary::{summary}")
+    gh_output = os.environ.get("GITHUB_OUTPUT")
+    if gh_output:
+        with open(gh_output, "a") as f:
+            f.write(f'has_changes={"true" if has_changes else "false"}\n')
+            f.write(f"report<<EOF\n{report_text}\nEOF\n")
+            f.write(f"change_summary<<EOF\n{summary}\nEOF\n")
 
 
 if __name__ == "__main__":
