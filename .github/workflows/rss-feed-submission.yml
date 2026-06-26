@@ -114,13 +114,21 @@ jobs:
         if: steps.check.outputs.should_process == 'true'
         run: pip install -r requirements.txt
 
+      - name: Debug workspace
+        if: steps.check.outputs.should_process == 'true'
+        run: |
+          pwd
+          ls -la
+          ls -la .github || true
+          ls -la .github/scripts || true
+
       - name: Process issue and update feeds.csv
         if: steps.check.outputs.should_process == 'true'
         id: process
         env:
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           ISSUE_BODY: ${{ github.event.issue.body }}
-        run: python .github/scripts/process_feed_issue.py
+        run: python "${{ github.workspace }}/.github/scripts/process_feed_issue.py"
 
       - name: Create Pull Request
         if: steps.check.outputs.should_process == 'true' && steps.process.outputs.has_changes == 'true'
