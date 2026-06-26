@@ -17,6 +17,16 @@ def hash_url(url):
     return md5.hexdigest()
 
 
+def normalize_url(url):
+    """规范化 URL，用于去重和生成 id"""
+    url = url.strip()
+    url = url.lower()
+    url = url.rstrip("/")
+    idx = url.find("#")
+    if idx != -1:
+        url = url[:idx]
+    return url
+
 def get_entry_date(entry):
     if "published_parsed" in entry.keys():
         return entry["published_parsed"]
@@ -181,6 +191,9 @@ def split_user(rss_fetch_user_dir, rss_user, rss_fetch_source_dir):
                 dfs.append(ldf)
             except:
                 print("combin user skip", url_hash)
+        if not dfs:
+            print("combin user skip", user)
+            continue
         df = pandas.concat(dfs)
         df = df.sort_values("timestamp", ascending=False)
         rss_dir = rss_fetch_user_dir + user + "/all/"

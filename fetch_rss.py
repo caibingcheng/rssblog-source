@@ -1,56 +1,52 @@
 # coding=UTF-8
 
 import os
-import json
-import time
-import requests
-import feedparser
 import pandas
 from fetch_utils import *
 
-requests.packages.urllib3.disable_warnings()
-fetch_list_source = "https://gist.githubusercontent.com/caibingcheng/adf8f300dc50a61a965bdcc6ef0aecb3/raw/rssblog-source-list.json"
-fetch_list = json.loads(requests.get(fetch_list_source, verify=False).text)
+FEEDS_CSV = "./public/feeds.csv"
 
 # 所有的rss源
 rss = []
-# 根据不同用户得到的rss源
-rss_user = {}
 # 按rss提供者分类的rss
 rss_fetch_source_dir = "./__tmp__/source/"
 # 举例member
 rss_fetch_member_dir = "./__tmp__/member/"
-# 按用户分类的rss
-rss_fetch_user_dir = "./__tmp__/user/"
 # 所有的rss
 rss_fetch_all_dir = "./__tmp__/all/"
 # 按时间年月分类的rss
 rss_fetch_date_dir = "./__tmp__/date/"
 
 
+def load_feed_urls(path):
+    """从 public/feeds.csv 加载 status=active 的 URL 列表"""
+    urls = []
+    if not os.path.exists(path):
+        print("feeds.csv not found, skip fetching")
+        return urls
+
+    try:
+        df = pandas.read_csv(path, encoding="utf-8")
+        if "url" not in df.columns or "status" not in df.columns:
+            print("feeds.csv missing required columns")
+            return urls
+        active = df[df["status"].astype(str).str.lower() == "active"]
+        urls = [normalize_url(u) for u in active["url"].astype(str).tolist() if u]
+        urls = list({u: u for u in urls}.values())
+    except Exception as e:
+        print("load feeds.csv error", e)
+
+    return urls
+
+
 def fetch():
     global rss
-    for key, link in fetch_list.items():
-        rss_list = []
-        try:
-            rss_list = json.loads(requests.get(link, verify=False).text)
-            for r in rss_list:
-                r = r.strip("/")
-                print(r)
-        except:
-            pass
-        rss = rss + rss_list
-        rss_user[key] = rss_list
+    rss = load_feed_urls(FEEDS_CSV)
 
-    # 所有源根据url去重
-    rss = list({r: r for r in rss}.values())
-    # 个人源不去重, 依赖于个人维护
-    # for test
-    # rss = ["https://xxxx/feed/",]
-    # rss_user["test"] = rss
+    for r in rss:
+        print(r)
 
     fetch_source(rss_fetch_source_dir, rss)
     combine_source(rss_fetch_all_dir, rss_fetch_source_dir)
     combine_member(rss_fetch_member_dir, rss_fetch_all_dir)
     split_date(rss_fetch_date_dir, rss_fetch_all_dir)
-    split_user(rss_fetch_user_dir, rss_user, rss_fetch_source_dir)
