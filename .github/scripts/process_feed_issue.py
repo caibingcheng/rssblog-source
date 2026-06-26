@@ -3,6 +3,7 @@
 import hashlib
 import os
 import re
+import subprocess
 import sys
 from datetime import datetime, timezone
 
@@ -16,6 +17,25 @@ URL_RE = re.compile(
     r'https?://[^\s"\'<>\u201c\u201d\u2018\u2019)\]\},;#]+',
     re.IGNORECASE,
 )
+
+
+def git(args, cwd="./public", check=True):
+    """在 ./public 仓库运行 git 命令"""
+    result = subprocess.run(
+        ["git", *args], cwd=cwd, check=check, capture_output=True, text=True
+    )
+    return result
+
+
+def remote_branch_exists(branch, cwd="./public"):
+    """检查远程分支是否存在"""
+    result = subprocess.run(
+        ["git", "ls-remote", "--heads", "origin", branch],
+        cwd=cwd,
+        capture_output=True,
+        text=True,
+    )
+    return result.returncode == 0 and branch in result.stdout
 
 
 def hash_url(url):
@@ -112,14 +132,22 @@ def now_iso():
 
 
 def add_or_update_feed(df, url, author, home):
-    """新增或更新 feed，返回 (df, is_new)"""
+    """新增或更新 feed，返回 (df, action)；若无需修改返回 action=None"""
     existing = df[df["url"] == url]
     if len(existing) > 0:
+        row = existing.iloc[0]
+        if (
+            str(row.get("status", "")) == "active"
+            and str(row.get("author", "")) == author
+            and str(row.get("home", "")) == home
+        ):
+            return df, None
+
         df.loc[existing.index, "status"] = "active"
         df.loc[existing.index, "last_checked"] = now_iso()
         df.loc[existing.index, "author"] = author
         df.loc[existing.index, "home"] = home
-        return df, False
+        return df, "updated"
 
     new_row = {
         "url": url,
@@ -130,7 +158,7 @@ def add_or_update_feed(df, url, author, home):
         "id": hash_url(url),
         "note": "",
     }
-    return pandas.concat([df, pandas.DataFrame([new_row])], ignore_index=True), True
+    return pandas.concat([df, pandas.DataFrame([new_row])], ignore_index=True), "added"
 
 
 def replace_feed(df, old_url, new_url, new_author, new_home):
@@ -202,10 +230,10 @@ def main():
             reports.append(f"- `{url}`: invalid ({err})")
             continue
 
-        df, is_new = add_or_update_feed(df, url, author, home)
-        action = "added" if is_new else "updated"
-        reports.append(f"- `{url}`: {action} (author={author}, home={home})")
-        has_changes = True
+        df, action = add_or_update_feed(df, url, author, home)
+        if action:
+            reports.append(f"- `{url}`: {action} (author={author}, home={home})")
+            has_changes = True
 
     # 处理 replaced by
     for old_url, new_url in replaced_by:
@@ -219,22 +247,34 @@ def main():
         reports.append(f"- `{old_url} replaced by {new_url}`: {action}")
         has_changes = True
 
-    # 写入文件
+    # 写入文件并提交
     if has_changes:
         save_feeds(df, FEEDS_CSV)
 
-    # 创建新分支并提交
-    if has_changes:
         source_branch = os.environ.get("SOURCE_BRANCH", "master")
         public_branch = os.environ.get("PUBLIC_BRANCH", "public")
         new_branch = os.environ.get("NEW_BRANCH", f"update-feeds-issue-{issue_number}")
 
-        os.system(f"git -C ./public checkout -b {new_branch}")
-        os.system("git -C ./public config user.email 'actions@github.com'")
-        os.system("git -C ./public config user.name 'GitHub Actions'")
-        os.system("git -C ./public add feeds.csv")
-        os.system(f"git -C ./public commit -m 'Update feeds from issue #{issue_number}'")
-        os.system(f"git -C ./public push origin {new_branch}")
+        # 设置提交者信息
+        git(["config", "user.email", "actions@github.com"])
+        git(["config", "user.name", "GitHub Actions"])
+
+        # 如果远程分支已存在，则基于该分支继续提交；否则从当前 public 分支新建
+        if remote_branch_exists(new_branch):
+            git(["fetch", "origin", new_branch])
+            git(["checkout", "-b", new_branch, f"origin/{new_branch}"])
+        else:
+            git(["checkout", "-b", new_branch])
+
+        git(["add", "feeds.csv"])
+
+        # 只有真正有变更才提交并推送
+        diff_check = git(["diff", "--cached", "--quiet"], check=False)
+        if diff_check.returncode != 0:
+            git(["commit", "-m", f"Update feeds from issue #{issue_number}"])
+            git(["push", "origin", new_branch])
+        else:
+            has_changes = False
 
     # 输出给 GitHub Actions
     report_text = "\n".join(reports) if reports else "No URLs processed."

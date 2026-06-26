@@ -125,8 +125,9 @@ jobs:
           NEW_BRANCH: ${{ steps.branches.outputs.new_branch }}
         run: python .github/scripts/process_feed_issue.py
 
-      - name: Create Pull Request
+      - name: Create or update Pull Request
         if: steps.check.outputs.should_process == 'true' && steps.process.outputs.has_changes == 'true'
+        id: create_pr
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -147,16 +148,36 @@ jobs:
               `目标分支：${publicBranch}`
             ].join('\n');
 
-            const pr = await github.rest.pulls.create({
+            const { data: existingPrs } = await github.rest.pulls.list({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `Update RSS feeds from issue #${issueNumber}`,
-              head: newBranch,
-              base: publicBranch,
-              body: body
+              state: 'open',
+              head: `${context.repo.owner}:${newBranch}`,
+              base: publicBranch
             });
 
-            core.setOutput('pr_number', pr.data.number);
+            if (existingPrs.length > 0) {
+              const pr = existingPrs[0];
+              await github.rest.pulls.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number,
+                body: body
+              });
+              core.setOutput('pr_number', pr.number);
+              core.setOutput('pr_action', 'updated');
+            } else {
+              const pr = await github.rest.pulls.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `Update RSS feeds from issue #${issueNumber}`,
+                head: newBranch,
+                base: publicBranch,
+                body: body
+              });
+              core.setOutput('pr_number', pr.data.number);
+              core.setOutput('pr_action', 'created');
+            }
         env:
           CHANGE_SUMMARY: ${{ steps.process.outputs.change_summary }}
 
@@ -168,17 +189,19 @@ jobs:
           script: |
             const issueNumber = context.issue.number;
             const hasChanges = '${{ steps.process.outputs.has_changes }}';
-            const prNumber = '${{ steps.process.outputs.pr_number }}';
+            const prNumber = '${{ steps.create_pr.outputs.pr_number }}';
+            const prAction = '${{ steps.create_pr.outputs.pr_action }}';
             const report = process.env.REPORT || '';
 
             let body;
-            if (hasChanges === 'true') {
+            if (hasChanges === 'true' && prNumber) {
+              const verb = prAction === 'updated' ? '更新' : '创建';
               body = [
                 'RSS 源处理完成。',
                 '',
                 report,
                 '',
-                `已创建 PR #${prNumber}，请手动 review 并 merge。`
+                `已${verb} PR #${prNumber}，请手动 review 并 merge。`
               ].join('\n');
             } else {
               body = [
