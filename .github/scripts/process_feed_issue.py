@@ -22,6 +22,7 @@ def hash_url(url):
 
 def normalize_url(url):
     url = url.strip()
+    url = url.strip('""''\u201c\u201d\u2018\u2019')
     url = url.lower()
     url = url.rstrip("/")
     idx = url.find("#")

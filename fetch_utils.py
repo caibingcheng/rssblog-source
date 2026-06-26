@@ -20,6 +20,7 @@ def hash_url(url):
 def normalize_url(url):
     """规范化 URL，用于去重和生成 id"""
     url = url.strip()
+    url = url.strip('""''\u201c\u201d\u2018\u2019')
     url = url.lower()
     url = url.rstrip("/")
     idx = url.find("#")
