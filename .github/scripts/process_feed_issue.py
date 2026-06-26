@@ -21,9 +21,18 @@ URL_RE = re.compile(
 
 def git(args, cwd="./public", check=True):
     """在 ./public 仓库运行 git 命令"""
+    print(f"[git] {' '.join(['git', *args])} (cwd={cwd})", flush=True)
     result = subprocess.run(
-        ["git", *args], cwd=cwd, check=check, capture_output=True, text=True
+        ["git", *args], cwd=cwd, check=False, capture_output=True, text=True
     )
+    if result.stdout:
+        print(result.stdout, end="", flush=True)
+    if result.stderr:
+        print(result.stderr, end="", file=sys.stderr, flush=True)
+    if check and result.returncode != 0:
+        raise subprocess.CalledProcessError(
+            result.returncode, ["git", *args], output=result.stdout, stderr=result.stderr
+        )
     return result
 
 
