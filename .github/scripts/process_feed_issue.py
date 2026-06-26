@@ -258,8 +258,6 @@ def main():
 
     # 写入文件并提交
     if has_changes:
-        save_feeds(df, FEEDS_CSV)
-
         source_branch = os.environ.get("SOURCE_BRANCH", "master")
         public_branch = os.environ.get("PUBLIC_BRANCH", "public")
         new_branch = os.environ.get("NEW_BRANCH", f"update-feeds-issue-{issue_number}")
@@ -268,16 +266,19 @@ def main():
         git(["config", "user.email", "actions@github.com"])
         git(["config", "user.name", "GitHub Actions"])
 
-        # 如果远程分支已存在，则基于该分支继续提交；否则从当前 public 分支新建
+        # 先切换到目标分支，避免在 public 分支上直接修改导致 switch 冲突
         if remote_branch_exists(new_branch):
             git(["fetch", "origin", f"{new_branch}:refs/remotes/origin/{new_branch}"])
             git(["switch", "--force-create", new_branch, f"origin/{new_branch}"])
         else:
             git(["switch", "--create", new_branch])
 
+        # 在目标分支上写入变更
+        save_feeds(df, FEEDS_CSV)
+
         git(["add", "feeds.csv"])
 
-        # 只有真正有变更才提交并推送
+        # 只有相对目标分支真正有变更才提交并推送
         diff_check = git(["diff", "--cached", "--quiet"], check=False)
         if diff_check.returncode != 0:
             git(["commit", "-m", f"Update feeds from issue #{issue_number}"])
