@@ -261,7 +261,7 @@ def main():
 
         # 如果远程分支已存在，则基于该分支继续提交；否则从当前 public 分支新建
         if remote_branch_exists(new_branch):
-            git(["fetch", "origin", new_branch])
+            git(["fetch", "origin", f"{new_branch}:refs/remotes/origin/{new_branch}"])
             git(["checkout", "-B", new_branch, f"origin/{new_branch}"])
         else:
             git(["checkout", "-b", new_branch])
