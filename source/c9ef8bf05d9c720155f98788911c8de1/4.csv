@@ -1,39 +1,51 @@
 title,author,link,home,rss,date,timestamp
-读《图解密码技术》,manateelazycat.github.io,//manateelazycat.github.io/reading/cryptography/2022/12/05/reading-graphical-cryptography.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-12-05,1670198400.0
-读《能断金刚》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/29/reading-diamond-cutter.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-29,1669680000.0
-基于标记对象的键盘宏展开插件,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/24/markmacro.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-24,1669248000.0
-Emacs 插件开发手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/elisp/2022/11/18/write-emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-18,1668729600.0
-读《英语魔法师之语法俱乐部》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/15/reading-english-magicia.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-15,1668470400.0
-读《吴军数学通识讲义》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/11/12/reading-general-mathematics.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-12,1668211200.0
-我平常是怎么使用 Emacs 的？,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/07/how-i-use-emacs.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-07,1667779200.0
-blink-search,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/11/04/blink-search.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-11-04,1667520000.0
-最佳代理实践 2022-10-23,manateelazycat.github.io,//manateelazycat.github.io/proxy/2022/10/23/best-proxy.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-23,1666483200.0
-使用 Deno 和 Puppeteer 获取在线翻译内容,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/deno-deepl.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
-从 Rust 扩展 Emacs 到多语言协同扩展 Emacs,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/03/emacs-rpc.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-03,1664755200.0
-从毛泽东选集看创业过程,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/09/19/reading-mao.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-19,1663545600.0
-公司内部培训,manateelazycat.github.io,//manateelazycat.github.io/think/2022/09/18/internal-training.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-18,1663459200.0
-读《金刚经》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/09/01/reading-diamond-sutra.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-09-01,1661990400.0
-不住相布施,manateelazycat.github.io,//manateelazycat.github.io/think/2022/08/26/think-diamond-sutra.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-08-26,1661472000.0
-读《心》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/08/23/reading-heart.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-08-23,1661212800.0
-读《顿感力》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/08/21/reading-sense.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-08-21,1661040000.0
-读《非暴力沟通》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/06/28/nonviolent-communication.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-06-28,1656374400.0
-为什么lsp-bridge不用capf?,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/06/26/why-lsp-bridge-not-use-capf.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-06-26,1656201600.0
-Git via HTTPS,manateelazycat.github.io,//manateelazycat.github.io/proxy/2022/05/29/git-via-https.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-29,1653782400.0
-读《阿瑟 克拉克》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/05/27/arthurkrack.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-27,1653609600.0
-我平常是怎么折腾Emacs插件的?,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/05/21/emacs-plugin.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-21,1653091200.0
-QWebEngine Cookie 完整实现,manateelazycat.github.io,//manateelazycat.github.io/qt/linux/2022/05/13/webengine-cookie.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-13,1652400000.0
-LSP-Bridge架构设计与LSP协议解析,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/05/12/lsp-bridge.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-12,1652313600.0
-递归搜索插件引用记录,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/04/28/recursive-search-references.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-28,1651104000.0
-沉默的大多数,manateelazycat.github.io,//manateelazycat.github.io/think/2022/04/24/most-of-the-silencer.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-24,1650758400.0
-EAF Git Client 手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/22/eaf-git.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-22,1650585600.0
-读《详解FPGA - 人工智能时代的驱动引擎》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/04/06/reading-fpga.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-06,1649203200.0
-欢迎加入我们，我们继续折腾Linux,manateelazycat.github.io,//manateelazycat.github.io/work/2022/03/31/join-us.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-31,1648684800.0
-QWebEngine Cookie处理逻辑,manateelazycat.github.io,//manateelazycat.github.io/qt/linux/2022/03/30/webengine-cookie.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-30,1648598400.0
-读《摄影构图就这么简单》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/03/16/reading-composition.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-16,1647388800.0
-读《硬战》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/03/09/reading-harden.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-09,1646784000.0
-魔方CFOP公式,manateelazycat.github.io,//manateelazycat.github.io/curiosity/2022/03/03/cube-cfop.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-03,1646265600.0
-Emacs递归添加目录下所有插件,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/03/02/emacs-load-directory-recursively.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-02,1646179200.0
-读《心若菩提》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/02/24/reading-heart-is-bodhi.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-24,1645660800.0
-读《查理芒格传》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/02/21/reading-charlie-munger.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-21,1645401600.0
-海南行,manateelazycat.github.io,//manateelazycat.github.io/travel/2022/02/03/tourism-hainan.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-03,1643846400.0
-EAF支持Wayland native啦!,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/01/02/eaf-support-wayland-native.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-01-02,1641081600.0
+读《乔布斯传》,Andy Stewart,//manateelazycat.github.io/2024/09/27/reading-steve-jobs/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-27,1727395200.0
+技术人的商业训练,Andy Stewart,//manateelazycat.github.io/2024/09/26/bussiness-and-developer/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-26,1727308800.0
+lsp-bridge 已经支持 116 种 LSP Server 啦,Andy Stewart,//manateelazycat.github.io/2024/09/23/lsp-bridge-116/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-23,1727049600.0
+lsp-bridge 已经支持 105 种 LSP Server 啦,Andy Stewart,//manateelazycat.github.io/2024/09/22/lsp-bridge-105/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-22,1726963200.0
+用 Clojure 给 Emacs 写插件,Andy Stewart,//manateelazycat.github.io/2024/09/21/cloel/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-21,1726876800.0
+读《微信产品背后的故事》,Andy Stewart,//manateelazycat.github.io/2024/09/17/reading-weixin/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-17,1726531200.0
+开源长青， 怎么持续的做开源?,Andy Stewart,//manateelazycat.github.io/2024/09/15/sustainability-open-source/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-15,1726358400.0
+秋名山与路由器,Andy Stewart,//manateelazycat.github.io/2024/09/12/mountain-road/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-12,1726099200.0
+Demo、 产品、 可持续热爱,Andy Stewart,//manateelazycat.github.io/2024/09/08/demo-product-persevere/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-08,1725753600.0
+读《华与华方法》,Andy Stewart,//manateelazycat.github.io/2024/09/07/reading-hua-yu-hua/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-07,1725667200.0
+很多事情都是可以穷举出来的,Andy Stewart,//manateelazycat.github.io/2024/09/02/brute-force/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-09-02,1725235200.0
+产品创意是怎么来的？,Andy Stewart,//manateelazycat.github.io/2024/08/27/how-creativity-arises/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-08-27,1724716800.0
+懒猫微服的前世今生,Andy Stewart,//manateelazycat.github.io/2024/08/20/why-microserver/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-08-20,1724112000.0
+AI 服务器， 开源开发者专属福利！,Andy Stewart,//manateelazycat.github.io/2024/08/17/lazycat-microserver/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-08-17,1723852800.0
+读《营销笔记和卖货真相》,Andy Stewart,//manateelazycat.github.io/2024/08/02/reading-marketing-notes/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-08-02,1722556800.0
+深入分析 LSP 协议,Andy Stewart,//manateelazycat.github.io/2024/06/11/lsp-trick/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-06-11,1718064000.0
+武汉及周边美食,Andy Stewart,//manateelazycat.github.io/2024/05/03/wuhan-food/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-05-03,1714694400.0
+最佳的手机浏览器,Andy Stewart,//manateelazycat.github.io/2024/04/29/kiwi-browser/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-29,1714348800.0
+N 卡待机死机,Andy Stewart,//manateelazycat.github.io/2024/04/28/lock-nvidia-driver/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-28,1714262400.0
+研发人员创业 2,Andy Stewart,//manateelazycat.github.io/2024/04/25/developer-startup-2/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-25,1714003200.0
+极限思维害死人,Andy Stewart,//manateelazycat.github.io/2024/04/16/extreme-thinking/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-16,1713225600.0
+编程中的思路清晰,Andy Stewart,//manateelazycat.github.io/2024/04/14/programming-style/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-14,1713052800.0
+最近都在忙啥,Andy Stewart,//manateelazycat.github.io/2024/04/13/recently/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-04-13,1712966400.0
+Arch 上使用微信原生版本,Andy Stewart,//manateelazycat.github.io/2024/03/26/wechat-linux-version/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-03-26,1711411200.0
+读《李光耀观天下》,Andy Stewart,//manateelazycat.github.io/2024/03/04/one-main-view-of-the-world/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-03-04,1709510400.0
+一个新型键盘浏览器的构想,Andy Stewart,//manateelazycat.github.io/2024/02/25/a-new-type-keyboard-browser/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-02-25,1708819200.0
+滇西大环线,Andy Stewart,//manateelazycat.github.io/2024/02/15/tourism-dianxi/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-02-15,1707955200.0
+用 Gource 显示 Git 提交历史,Andy Stewart,//manateelazycat.github.io/2024/01/28/the-history-of-lsp-bridge/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-01-28,1706400000.0
+ChatGPT 注册登录最佳实践,Andy Stewart,//manateelazycat.github.io/2024/01/23/chatgpt-way/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-01-23,1705968000.0
+研发团队管理的目的,Andy Stewart,//manateelazycat.github.io/2024/01/17/purpose-of-development-management/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-01-17,1705449600.0
+什么是利他？,Andy Stewart,//manateelazycat.github.io/2024/01/12/kindness/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-01-12,1705017600.0
+怎么提升研发能力？,Andy Stewart,//manateelazycat.github.io/2023/12/29/how-to-improve-development-capabilities/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-29,1703808000.0
+坦克 500 Hi4-T 越野测试,Andy Stewart,//manateelazycat.github.io/2023/12/18/tank-500-enhance/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-18,1702857600.0
+研发团队构建心得,manateelazycat.github.io,//manateelazycat.github.io/2023/12/14/developer-team/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-14,1702512000.0
+怎么打造流畅的 Emacs？,Andy Stewart,//manateelazycat.github.io/2023/12/05/how-to-create-a-smooth-emacs/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-05,1701734400.0
+坦克 500 Hi4-T 评测,manateelazycat.github.io,//manateelazycat.github.io/2023/12/03/tank-500/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-12-03,1701561600.0
+通过降级 FreeType 解决 WPS 加粗字体乱码的问题,manateelazycat.github.io,//manateelazycat.github.io/2023/11/28/wps-font-problem/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-28,1701129600.0
+千锤百炼出深山， 烈火焚烧若等闲,manateelazycat.github.io,//manateelazycat.github.io/2023/11/05/eaf-qthread-crash/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-05,1699142400.0
+修复 lsp-bridge 补全菜单图标大小变化的 bug,manateelazycat.github.io,//manateelazycat.github.io/2023/11/02/emacs-font-function/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-11-02,1698883200.0
+Dell G16 在 Linux 下设置键盘灯 （逆向）,manateelazycat.github.io,//manateelazycat.github.io/2023/10/25/dell-g16-keyboard-light/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-25,1698192000.0
+基于本地 AI 大模型的 Emacs 翻译插件,manateelazycat.github.io,//manateelazycat.github.io/2023/10/20/use-ollama-as-translator/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-20,1697760000.0
+读《无穷的开始》,manateelazycat.github.io,//manateelazycat.github.io/2023/10/15/reading-the-beginning-of-infinity/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-15,1697328000.0
+lsp-bridge 远程代码补全,manateelazycat.github.io,//manateelazycat.github.io/2023/10/12/lsp-bridge-and-tramp/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-10-12,1697068800.0
+也许是 Emacs 下最好的终端模拟器,manateelazycat.github.io,//manateelazycat.github.io/2023/09/29/intro-eaf-pyqterminal/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-29,1695945600.0
+武汉周边遛娃景点,manateelazycat.github.io,//manateelazycat.github.io/2023/09/22/wuhan-travel/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-22,1695340800.0
+Fcitx 最佳配置实践 2023-09-11,manateelazycat.github.io,//manateelazycat.github.io/2023/09/11/fcitx-best-config/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-11,1694390400.0
+从 Manjaro 切换到 EndeavourOS,manateelazycat.github.io,//manateelazycat.github.io/2023/09/10/endeavour-os/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-10,1694304000.0
+电动车横向对比,manateelazycat.github.io,//manateelazycat.github.io/2023/09/06/electric-car/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-06,1693958400.0
+TreeSit API 详解,manateelazycat.github.io,//manateelazycat.github.io/2023/09/02/treesit/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-09-02,1693612800.0
+做事的心境,manateelazycat.github.io,//manateelazycat.github.io/2023/08/27/state-of-mind/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2023-08-27,1693094400.0

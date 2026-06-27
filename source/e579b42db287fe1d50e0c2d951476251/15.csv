@@ -1,4 +1,22 @@
 title,author,link,home,rss,date,timestamp
+tar 命令的使用,杜老师说,https://dusays.com/141/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-26,1574784000.0
+yum 命令的使用,杜老师说,https://dusays.com/140/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-25,1574697600.0
+Git 命令的使用,杜老师说,https://dusays.com/139/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-24,1574611200.0
+find 命令的使用,杜老师说,https://dusays.com/138/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-23,1574524800.0
+带你读单词第 32 期,杜老师说,https://dusays.com/137/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-22,1574438400.0
+Linux 系统的特殊符号,杜老师说,https://dusays.com/136/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-21,1574352000.0
+为 Shell 脚本加密,杜老师说,https://dusays.com/135/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-20,1574265600.0
+Linux 系统 3 个最危险命令,杜老师说,https://dusays.com/134/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-19,1574179200.0
+sudo 命令的使用,杜老师说,https://dusays.com/133/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-18,1574092800.0
+gpasswd 群组密码的使用,杜老师说,https://dusays.com/132/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-17,1574006400.0
+带你读单词第 31 期,杜老师说,https://dusays.com/131/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-16,1573920000.0
+公有、私有和联盟链区别,杜老师说,https://dusays.com/130/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-15,1573833600.0
+思维导图入门教程,杜老师说,https://dusays.com/129/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-14,1573747200.0
+Markdown 的入门,杜老师说,https://dusays.com/128/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-13,1573660800.0
+CentOS7 系统的安装,杜老师说,https://dusays.com/127/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-12,1573574400.0
+如何创建 VMware 虚拟机,杜老师说,https://dusays.com/126/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-11,1573488000.0
+带你读单词第 30 期,杜老师说,https://dusays.com/125/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-10,1573401600.0
+带你读单词第 29 期,杜老师说,https://dusays.com/124/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-09,1573315200.0
 带你读单词第 28 期,杜老师说,https://dusays.com/123/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-08,1573228800.0
 区块链是什么,杜老师说,https://dusays.com/122/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-07,1573142400.0
 思科单臂路由,杜老师说,https://dusays.com/121/,https://dusays.com/,https://dusays.com/atom.xml,2019-11-06,1573056000.0
@@ -31,21 +49,3 @@ Docker 的安装,杜老师说,https://dusays.com/96/,https://dusays.com/,https:/
 如何手动创建一个用户,杜老师说,https://dusays.com/94/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-10,1570723200.0
 为 CentOS7 系统打造酷炫终端,杜老师说,https://dusays.com/93/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-09,1570636800.0
 使用 Oh My Zsh 打造酷炫 Shell 终端,杜老师说,https://dusays.com/92/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-08,1570550400.0
-24 个常用的 iptables 规则,杜老师说,https://dusays.com/91/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-07,1570464000.0
-用户管理相关命令,杜老师说,https://dusays.com/90/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-06,1570377600.0
-快速释放内存脚本,杜老师说,https://dusays.com/89/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-05,1570291200.0
-在 Docker 中部署 Nextcloud,杜老师说,https://dusays.com/88/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-04,1570204800.0
-Docker 的介绍,杜老师说,https://dusays.com/87/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-03,1570118400.0
-换种方式解释什么是云计算,杜老师说,https://dusays.com/86/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-02,1570032000.0
-chage 账号与密码有效期限,杜老师说,https://dusays.com/85/,https://dusays.com/,https://dusays.com/atom.xml,2019-10-01,1569945600.0
-Linux 群组管理员,杜老师说,https://dusays.com/84/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-30,1569859200.0
-权限管理相关命令,杜老师说,https://dusays.com/83/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-29,1569772800.0
-TCP 的三次握手,杜老师说,https://dusays.com/82/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-28,1569686400.0
-vi 编辑器操作指南,杜老师说,https://dusays.com/81/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-27,1569600000.0
-MySQL 在不同内存下的资源分配,杜老师说,https://dusays.com/80/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-26,1569513600.0
-MySQL 几种存储引擎的介绍,杜老师说,https://dusays.com/79/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-25,1569427200.0
-MySQL 主从复制的简介,杜老师说,https://dusays.com/78/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-24,1569340800.0
-PHP 动态模式和静态模式区别,杜老师说,https://dusays.com/77/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-23,1569254400.0
-Linux 运维人员最常用 166 个命令汇总,杜老师说,https://dusays.com/76/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-22,1569168000.0
-IaaS/PaaS/SaaS 的区别,杜老师说,https://dusays.com/75/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-21,1569081600.0
-简单架构中的数据走向,杜老师说,https://dusays.com/74/,https://dusays.com/,https://dusays.com/atom.xml,2019-09-20,1568995200.0

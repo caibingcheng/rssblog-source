@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-Golang sync.Pool源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_05-go_sync_pool.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-05,1588636800.0
-【Hexo】hexo博客添加导航功能,框架師,https://www.mobaijun.com/posts/2328089344.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-04,1588576104.0
-【Java基础】Java-[Object，Date，Calendar]复习,框架師,https://www.mobaijun.com/posts/3746716574.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-04,1588556704.0
-后浪观后感,Frank笔记,https://frank2019.me/archives/hou-lang-guan-hou-gan,https://frank2019.me/,https://frank2019.me/rss.xml,2020-05-03,1588537920.0
-【Java基础】Java-[Arrays，Scanner，Math，RanDom]复习,框架師,https://www.mobaijun.com/posts/3116814990.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-03,1588490135.0
-【Java基础】Java-String类复习笔记,框架師,https://www.mobaijun.com/posts/230577513.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-05-03,1588486604.0
-[转载]如果一个民族到没有一个人敢出来说真话，这个民族就没有希望----寻找林昭,Frank笔记,https://frank2019.me/archives/zhuan-linzhaojun,https://frank2019.me/,https://frank2019.me/rss.xml,2020-05-02,1588451400.0
-Typlog 三週年,Just lepture,https://lepture.com/zh/2020/3-years-of-typlog,https://lepture.com/,https://lepture.com/feed.xml,2020-05-02,1588438232.0
-MySQL操作笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_01-mysql_notes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-01,1588291200.0
-Theme Cards | 又一款追求简洁的 Hexo 主题,ChrAlpha,https://blog.ichr.me/post/hexo-theme-cards/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-30,1588257737.0
-【Java基础】Java内部类复习笔记,框架師,https://www.mobaijun.com/posts/664001238.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-30,1588235529.0
-【工具系列】IDEA设置单行行首注释去掉多余空格,框架師,https://www.mobaijun.com/posts/385939477.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-30,1588211306.0
-Go语言解析GBK编码的xml,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_30-golang_gbk_xml.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-30,1588204800.0
-Golang log 源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_28-golang_log.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-28,1588032000.0
-使用Go语言实现一个异步任务框架,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_24-gotasks.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-24,1587686400.0
-Golang flag源码阅读及自己实现,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_23-go_flag.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-23,1587600000.0
-Golang ASM简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_22-go_asm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-22,1587513600.0
-【Git系列】详细记录一次码云和Git异常解决方案,框架師,https://www.mobaijun.com/posts/3160757487.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-21,1587434290.0
-善用闭包(closure)让Go代码更优雅,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_21-use_closure.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0
-CMLink 留学生网课卡: 这可能是 2020 年性价比最高的漫游卡,罗磊的独立博客,https://luolei.org/cmlink-global-borderless-internet-roaming-card,https://luolei.org,https://luolei.org/feed/,2020-04-21,1587427200.0
-Golang的可选参数实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0
-危机四伏的2020，既是困难，也是机遇！,Frank笔记,https://frank2019.me/archives/wei-ji-si-fu-de-2020-ji-shi-kun-nan-ye-shi-ji-yu,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-18,1587241740.0
-【Hexo】Hexo——Npm使用报错,框架師,https://www.mobaijun.com/posts/776701796.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-18,1587192270.0
-【随笔】常用Emoji表情一览表😆,框架師,https://www.mobaijun.com/posts/1007769027.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-15,1586935140.0
-【Java基础】权限修饰符和常用关键字学习,框架師,https://www.mobaijun.com/posts/1663206604.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-04-15,1586927961.0
-KK没有位置低级别策略,Frank笔记,https://frank2019.me/archives/kkmei-you-wei-zhi-di-ji-bie-ce-lue,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-14,1586895960.0
-YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-me-money,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-14,1586888548.0
-2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-04-13,1586812489.0
-[博客通报] 切换评论系统至 Disqus,ChrAlpha,https://blog.ichr.me/notice/change-comment-system-into-disqus/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-13,1586811001.0
-FreeBSD ipfw使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_13-freebsd_ipfw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-13,1586736000.0
-Golang expvar库源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_12-expvar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-12,1586649600.0
-浅谈 DNS 解析与 CDN 原理,ChrAlpha,https://blog.ichr.me/post/how-dns-and-cdn-work/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-11,1586614065.0
-Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0
-Golang validator使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_10-golang_validator.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-10,1586476800.0
-垃圾清理软件多，是我们缺存储空间吗？,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/25.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-09,1586425500.0
-价值编程与职业发展,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_09-value_programming.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-09,1586390400.0
-DeepL | 从日本火到中国，据说这是一款碾压谷歌的 AI 翻译工具,罗磊的独立博客,https://luolei.org/deepl-ai-translator,https://luolei.org,https://luolei.org/feed/,2020-04-09,1586390400.0
-【转载】世界不应该是这样的,Frank笔记,https://frank2019.me/archives/zhuan-zai-shi-jie-bu-ying-gai-shi-zhe-yang-de,https://frank2019.me/,https://frank2019.me/rss.xml,2020-04-08,1586377380.0
-关于「步骤」说明的文字叙述方式,ChrAlpha,https://blog.ichr.me/notice/formatting-steps-description-style/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-08,1586370379.0
-解决k8s cron无法读取环境变量的问题,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_08-k8s_cron_environment_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-08,1586304000.0
-VPS 手动在线一键重装系统脚本整理,ChrAlpha,https://blog.ichr.me/post/scripts-for-reinstalling-linux-vps/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-06,1586171300.0
-人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/posts/life-is-not-a-marathon,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1586012398.0
-人生不是一场马拉松,云游君的小站,https://www.yunyoujun.cn/diary/life-is-not-a-marathon/,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-04,1585983598.0
-N95口罩背后不为人知的历史,yzqzss|一座桥在水上's Blog,https://blog.othing.xyz/archives/21.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-04-04,1585962960.0
-在网页 404 前将其备份的不同方法,ChrAlpha,https://blog.ichr.me/post/archive-webpage-before-404/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-04-01,1585740437.0
-公司内部建设的重要性,Frank笔记,https://frank2019.me/archives/gong-si-nei-bu-jian-she-de-chong-yao-xing,https://frank2019.me/,https://frank2019.me/rss.xml,2020-03-30,1585599660.0
-反复横跳？—— 我的密码管理工具折腾记,ChrAlpha,https://blog.ichr.me/post/password-managements/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-30,1585578224.0
-[2021] 绕过 Google Play 一年一次换区限制,ChrAlpha,https://blog.ichr.me/post/bypass-google-play-region-restrictions/,https://blog.ichr.me/,https://blog.ichr.me/atom.xml,2020-03-27,1585318102.0
-重新注册 PT 网站后，原有种子“红种” 的简单解决方法,yzqzss | 一座桥在水上's Blog,https://blog.othing.xyz/archives/20.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2020-03-27,1585274160.0
-应用内购的坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_27-iap.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-27,1585267200.0
+202210：十月清霜重，飘零何处归,Macin,https://macin.org/2022/10/25/10-yue-zhou-ji/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-25,1666694440.0
+如何引用 R 和 R Packages,Another Dayu,https://anotherdayu.com/2022/3751/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-25,1666682175.0
+磨心坡：回不去的名字叫故乡,Macin,https://macin.org/2022/10/24/mo-xin-po-kuang/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-24,1666644681.0
+记录下 phpunit 的入门使用方法之setUp和tearDown,Nicksxs's Blog,https://nicksxs.me/2022/10/23/%E8%AE%B0%E5%BD%95%E4%B8%8B-phpunit-%E7%9A%84%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E4%B9%8BsetUp%E5%92%8CtearDown/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-23,1666525493.0
+人间食话 | 我在上海吃汉堡,Another Dayu,https://anotherdayu.com/2022/3737/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-23,1666496945.0
+最佳代理实践 2022-10-23,manateelazycat.github.io,//manateelazycat.github.io/proxy/2022/10/23/best-proxy.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-23,1666483200.0
+给Hexo静态博客添加Umami数据分析,Macin,https://macin.org/2022/10/22/add-umami-to-hexo/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-22,1666445721.0
+那些提升搜索体验的小技巧,Another Dayu,https://anotherdayu.com/2022/3681/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-22,1666444951.0
+浏览器插件分享——Wetab,瓦解的生活记事,https://hin.cool/posts/wetab.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-10-22,1666442880.0
+怎么变聪明,见字如面,https://hiwannz.com/archives/731,https://hiwannz.com,https://hiwannz.com/feed,2022-10-17,1665991847.0
+【随笔】npm- 更新所有依赖包,框架師,https://www.mobaijun.com/posts/3252980443.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-10-17,1665984571.0
+吴滩老街：游子盼回 元帅未归,Macin,https://macin.org/2022/10/16/wu-tan-lao-jie/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-16,1665951146.0
+恋 爱,瓦解的生活记事,https://hin.cool/posts/lianai.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-10-16,1665946200.0
+记录下 phpunit 的入门使用方法,Nicksxs's Blog,https://nicksxs.me/2022/10/16/%E8%AE%B0%E5%BD%95%E4%B8%8B-phpunit-%E7%9A%84%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-16,1665927284.0
+DISQUS替代方案——disqusjs教程,SinGO博客,https://blog.xsnet.eu.org/posts/40752/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-10-16,1665923466.0
+关于我近几天的心情变化,SinGO博客,https://blog.xsnet.eu.org/posts/189/,https://blog.xsnet.eu.org/,https://blog.xsnet.eu.org/atom.xml,2022-10-15,1665840926.0
+关于我近几天的心情变化,SinGO博客,https://blog.xsnetw.cf/posts/189/,https://blog.xsnetw.cf/,https://blog.xsnetw.cf/atom.xml,2022-10-15,1665812126.0
+Macbook 电池健康状况查询,Another Dayu,https://anotherdayu.com/2022/3665/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-13,1665637652.0
+OAuth 2 详解（六）：Authorization Code Flow with PKCE,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_12-oauth2_explained_authorization_code_pkce.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-12,1665532800.0
+使用 Deno 和 Puppeteer 获取在线翻译内容,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/12/deno-deepl.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-12,1665532800.0
+NENO – 用 Github 自建类 Flomo 子弹笔记软件,Another Dayu,https://anotherdayu.com/2022/3627/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-11,1665482978.0
+iOS 翻译体验优化（欧路词典 + Shortcuts + Back Tap）,Another Dayu,https://anotherdayu.com/2022/3623/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2022-10-11,1665479937.0
+OAuth 2 详解（五）：Device Authorization Flow,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_11-oauth2_explained_device_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-11,1665446400.0
+雾起江州：从这里陷入一个自我困境,Macin,https://macin.org/2022/10/10/wu-qi-jiang-zhou/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-10,1665428251.0
+打算做出一个决定，关于这个博客的决定,冰哥笔记,https://www.bgbiji.com/1115.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-10-10,1665394223.0
+【随笔】Maven 中 dependencyManagement 标签作用说明,框架師,https://www.mobaijun.com/posts/2616135476.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-10-10,1665362650.0
+OAuth 2 详解（四）：Client Credentials Flow,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_client_credentials.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-10,1665360000.0
+记一个容器中 dubbo 注册的小知识点,Nicksxs's Blog,https://nicksxs.me/2022/10/09/%E8%AE%B0%E4%B8%80%E4%B8%AA%E5%AE%B9%E5%99%A8%E4%B8%AD-dubbo-%E6%B3%A8%E5%86%8C%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-09,1665314397.0
+OAuth 2 详解（二）：Implict Grant Flow,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_09-oauth2_explained_implict_grant.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-09,1665273600.0
+从 KDE 回到 Windows 10,近视眼逛博客,https://blog.9hz.club/2022/10/Back-to-Windows-10-from-KDE.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2022-10-08,1665226860.0
+OAuth 2 详解（一）：简介及 Authorization Code 模式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_08-oauth2_explained.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-08,1665187200.0
+装修笔记：从0到1打造家庭弱电方案（上篇）,罗磊的独立博客,http://luolei.org/home-network-1/,https://luolei.org/,https://luolei.org/feed/,2022-10-07,1665155878.0
+【恋爱手记 Vol.3】相依的陪伴与告白,Luminous' Home,https://luotianyi.vc/6130.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-10-07,1665123242.0
+消失的两年:2021珠海航展,罗磊的独立博客,https://luolei.org/airshow-china-2021/,https://luolei.org/,https://luolei.org/feed/,2022-10-06,1665057263.0
+ElasticSearch 学习笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_10_06-elasticsearch.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-10-06,1665014400.0
+仁沱老街：尘埃里的烟火,Macin,https://macin.org/2022/10/03/ren-tuo-lao-jie/,https://macin.org/,https://www.macin.org/atom.xml,2022-10-03,1664838222.0
+从 Rust 扩展 Emacs 到多语言协同扩展 Emacs,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/10/03/emacs-rpc.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-10-03,1664755200.0
+Leetcode 747 至少是其他数字两倍的最大数 ( Largest Number At Least Twice of Others *Easy* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/10/02/Leetcode-747-%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0-Largest-Number-At-Least-Twice-of-Others-Easy-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-10-02,1664712853.0
+观测者：数据爬虫与处理，历史数据可视化视频与用户排名,FlyingSky's Blog,https://blog.fsky7.com/technology/37,https://blog.fsky7.com,https://blog.fsky7.com/feed,2022-10-02,1664683200.0
+CDN又被刷了,瓦解的生活记事,https://hin.cool/posts/cdncc2.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-10-01,1664620200.0
+Kong Gateway 3.0 正式发布🦍,把酒诗代码，趁乱写年华。,https://102no.com/2022/10/01/kong-3.0/,https://102no.com/,https://102no.com/atom.xml,2022-09-30,1664553600.0
+写 诗,瓦解的生活记事,https://hin.cool/posts/xieshi.html,https://hin.cool/,https://www.hin.cool/atom.xml,2022-09-30,1664551200.0
+每日感触2022.09.30：总结九月,冰哥笔记,https://www.bgbiji.com/1113.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-09-30,1664546400.0
+Debain&Ubuntu修改DNS,Frank笔记,https://frank2019.me/articles/2022/09/29/1664386803327.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-09-28,1664386803.0
+202209：九月西风兴，月冷露华凝,Macin,https://macin.org/2022/09/28/9-yue-zhou-ji/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-28,1664361640.0
+Debain&Ubuntu修改DNS,Frank笔记,https://frank2019.me/archives/debain-ubuntuxiu-gai-dns,https://frank2019.me/,https://frank2019.me/rss.xml,2022-09-27,1664301900.0
+Debain&Ubuntu修改DNS,Frank笔记,http://frank2019.me/archives/debain-ubuntuxiu-gai-dns,http://frank2019.me/,https://frank2019.me/rss.xml,2022-09-27,1664301900.0
+Debain&Ubuntu修改DNS,Frank笔记,/archives/debain-ubuntuxiu-gai-dns,/,https://frank2019.me/rss.xml,2022-09-27,1664301900.0
+你试过“打印”博客文章吗？,非理勿试,https://www.ntiy.com/1934.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-09-26,1664205035.0
+板桥古街：像一条开满橙花的老街,Macin,https://macin.org/2022/09/26/ban-qiao-zhen/,https://macin.org/,https://www.macin.org/atom.xml,2022-09-26,1664194434.0

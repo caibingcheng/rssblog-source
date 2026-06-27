@@ -1,4 +1,22 @@
 title,author,link,home,rss,date,timestamp
+去不图床 PicGo 上传插件的使用,杜老师说,https://dusays.com/241/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-13,1594656000.0
+PicGo 的安装,杜老师说,https://dusays.com/240/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-10,1594396800.0
+Win10 的 S 模式是什么,杜老师说,https://dusays.com/239/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-07,1594137600.0
+Hexo 页面源代码压缩脚本,杜老师说,https://dusays.com/238/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-04,1593878400.0
+Linux 服务器大量向外发包问题排查,杜老师说,https://dusays.com/237/,https://dusays.com/,https://dusays.com/atom.xml,2020-07-01,1593619200.0
+Ubuntu 如何挂载 OSS,杜老师说,https://dusays.com/236/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-28,1593360000.0
+思科策略路由,杜老师说,https://dusays.com/235/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-25,1593100800.0
+IP/PV/UV 是什么,杜老师说,https://dusays.com/234/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-22,1592841600.0
+Firefox 火狐浏览器关闭缓存,杜老师说,https://dusays.com/233/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-19,1592582400.0
+端口网络地址转换,杜老师说,https://dusays.com/232/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-16,1592323200.0
+动态网络地址转换,杜老师说,https://dusays.com/231/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-13,1592064000.0
+RIP 如何实现与 OSPF 的通信,杜老师说,https://dusays.com/230/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-10,1591804800.0
+简单聊 OSPF,杜老师说,https://dusays.com/229/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-07,1591545600.0
+菊花宝典,杜老师说,https://dusays.com/228/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-04,1591286400.0
+Redis 主从复制的配置,杜老师说,https://dusays.com/227/,https://dusays.com/,https://dusays.com/atom.xml,2020-06-01,1591027200.0
+Redis 主从复制的原理,杜老师说,https://dusays.com/226/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-29,1590768000.0
+Redis 持久化及主从复制对过期键的处理,杜老师说,https://dusays.com/225/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-26,1590508800.0
+过期键的删除,杜老师说,https://dusays.com/224/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-23,1590249600.0
 过期键的设置、获取、删除过期时间,杜老师说,https://dusays.com/223/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-20,1589990400.0
 AOF 持久化的配置和原理,杜老师说,https://dusays.com/222/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-17,1589731200.0
 Redis 的配置文件参数说明,杜老师说,https://dusays.com/221/,https://dusays.com/,https://dusays.com/atom.xml,2020-05-14,1589472000.0
@@ -31,21 +49,3 @@ Windows2008 系统 IIS 服务安装,杜老师说,https://dusays.com/200/,https:/
 一个小博客的成长,杜老师说,https://dusays.com/194/,https://dusays.com/,https://dusays.com/atom.xml,2020-02-23,1582473600.0
 网站安全架设杂谈,杜老师说,https://dusays.com/193/,https://dusays.com/,https://dusays.com/atom.xml,2020-02-20,1582214400.0
 如何建好家装论坛,杜老师说,https://dusays.com/192/,https://dusays.com/,https://dusays.com/atom.xml,2020-02-17,1581955200.0
-MySQL 数据库调优知识分享,杜老师说,https://dusays.com/191/,https://dusays.com/,https://dusays.com/atom.xml,2020-02-14,1581696000.0
-如何在 Windows 系统中构建 RAID 磁盘阵列,杜老师说,https://dusays.com/190/,https://dusays.com/,https://dusays.com/atom.xml,2020-02-11,1581436800.0
-在 Linux 上安装虚拟机,杜老师说,https://dusays.com/189/,https://dusays.com/,https://dusays.com/atom.xml,2020-02-08,1581177600.0
-CDN 是什么与其优势,杜老师说,https://dusays.com/188/,https://dusays.com/,https://dusays.com/atom.xml,2020-02-05,1580918400.0
-面试官的几个问题如何回答,杜老师说,https://dusays.com/187/,https://dusays.com/,https://dusays.com/atom.xml,2020-02-02,1580659200.0
-你还有什么问题吗,杜老师说,https://dusays.com/186/,https://dusays.com/,https://dusays.com/atom.xml,2020-01-30,1580400000.0
-为什么服务器要选择 Linux 系统,杜老师说,https://dusays.com/185/,https://dusays.com/,https://dusays.com/atom.xml,2020-01-27,1580140800.0
-Linux 下 8 种查 xfs 等文件系统类型的实用方法总结,杜老师说,https://dusays.com/184/,https://dusays.com/,https://dusays.com/atom.xml,2020-01-24,1579881600.0
-没有加班费你会加班吗,杜老师说,https://dusays.com/183/,https://dusays.com/,https://dusays.com/atom.xml,2020-01-21,1579622400.0
-快速释放内存脚本,杜老师说,https://dusays.com/182/,https://dusays.com/,https://dusays.com/atom.xml,2020-01-18,1579363200.0
-简单聊 Linux 内存管理机制,杜老师说,https://dusays.com/181/,https://dusays.com/,https://dusays.com/atom.xml,2020-01-15,1579104000.0
-负载状态 Load Average 中的数据代表了什么,杜老师说,https://dusays.com/180/,https://dusays.com/,https://dusays.com/atom.xml,2020-01-12,1578844800.0
-最帅的 Linux 系统监控工具,杜老师说,https://dusays.com/179/,https://dusays.com/,https://dusays.com/atom.xml,2020-01-09,1578585600.0
-愿你不要成为运维讲师,杜老师说,https://dusays.com/178/,https://dusays.com/,https://dusays.com/atom.xml,2020-01-06,1578326400.0
-TCP 的四次挥手,杜老师说,https://dusays.com/177/,https://dusays.com/,https://dusays.com/atom.xml,2020-01-03,1578067200.0
-杜老师说 macOS 官方版,杜老师说,https://dusays.com/176/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-31,1577808000.0
-爱奇艺周会员 N+17 期,杜老师说,https://dusays.com/175/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-30,1577721600.0
-爱奇艺周会员 N+16 期,杜老师说,https://dusays.com/174/,https://dusays.com/,https://dusays.com/atom.xml,2019-12-29,1577635200.0

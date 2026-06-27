@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-Docker组件介绍（一）：runc和containerd,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_22-docker_components.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-22,1545436800.0
-2018 香港流行音乐推介,Randy's Blog,https://lutaonan.com/blog/2018-cantonpop-list/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-12-19,1545177600.0
-Prometheus MySQL Exporter源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_16-prometheus_mysqld_exporter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-16,1544918400.0
-MySQL性能指标,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_13-db_metrics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-13,1544659200.0
-使用Dropbox来备份服务器文件,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_12-use_dropbox_to_backup_server.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-12,1544572800.0
-《计算机网络-系统方法》读书笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_10-computer_network_systems_approach.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-10,1544400000.0
-1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/notebook/12,https://blog.fsky7.com,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
-1833：账号已注销，但仍记得框女曾存在过,FlyingSky's Blog,https://blog.fsky7.com/archives/37/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2018-12-08,1544241600.0
-Y Combinator《如何创业》笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_08-yc_startup.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-08,1544227200.0
-每个创作者都应该有张人体工学梯:西昊M60,罗磊的独立博客,https://luolei.org/my-office-chair-2018,https://luolei.org,https://luolei.org/feed/,2018-12-05,1543968000.0
-Go类型嵌套,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_12_01-go_embedding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-12-01,1543622400.0
-etcd源码阅读与分析（五）：mvcc,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_28-etcd_source_code_analysis_mvvc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-28,1543363200.0
-etcd源码阅读与分析（四）：lease,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_27-etcd_source_code_analysis_lease.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-27,1543276800.0
-干了这碗叔本华牌毒鸡汤 --- 《人生的智慧》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_26-the_wisdom_of_life_on_human_nature.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-26,1543190400.0
-菲律宾 | 18米深蓝:薄荷岛&宿务 OW潜水旅行,罗磊的独立博客,https://luolei.org/travel-philippines-bohol,https://luolei.org,https://luolei.org/feed/,2018-11-26,1543190400.0
-Memory leak in net/http,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_24-memory_leak_in_net_http.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-24,1543017600.0
-etcd源码阅读与分析（二）：raft,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_22-etcd_source_code_analysis_raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-22,1542844800.0
-每个UP主都应该有个监视器 | 艾肯HH7 | ZUOLUOTV,罗磊的独立博客,https://luolei.org/ikan-portkeys-hh7-montor,https://luolei.org,https://luolei.org/feed/,2018-11-22,1542844800.0
-etcd源码阅读与分析（一）：raftexample,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_20-etcd_source_code_analysis_raftexample.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-20,1542672000.0
-虚拟机里的Ubuntu sudo时卡住,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_18-ubuntu_sudo_hang.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-18,1542499200.0
-new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-11-17,1542486792.0
-new Date(string) 在不同浏览器中的不同表现,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-date-in-different-browsers/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2018-11-17,1542412800.0
-Go访问私有变量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_16-go_private_variable.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-16,1542326400.0
-避免全局变量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_15-avoid_global_states.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-15,1542240000.0
-Go的unsafe包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_13-golang_package_unsafe.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-13,1542067200.0
-Golang中实现禁止拷贝,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0
-人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0
-Golang的反射,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_10-golang_reflection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0
-把网站去掉CSS之后,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_09-drop_css.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-09,1541721600.0
-参观神州第一舰 | 中国海军深圳舰开放日 | VLOG19,罗磊的独立博客,https://luolei.org/china-pla-navy-167-ship-open-day,https://luolei.org,https://luolei.org/feed/,2018-11-09,1541721600.0
-处理并发的方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_07-concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-07,1541548800.0
-常见的索引方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_02-index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-02,1541116800.0
-Golang 实践经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_01-golang_practice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-01,1541030400.0
-恋爱证明记,云游君的小站,https://www.yunyoujun.cn/posts/proof-of-love,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-10-31,1541024061.0
-西藏 | 骑行川藏四千里:2012年的青春影像,罗磊的独立博客,https://luolei.org/tibet-road-2012,https://luolei.org,https://luolei.org/feed/,2018-10-31,1540944000.0
-每个创作者都应该有张木桌:Timerecorder 时计 | VLOG18,罗磊的独立博客,https://luolei.org/my-desk-2018,https://luolei.org,https://luolei.org/feed/,2018-10-30,1540857600.0
-高性能MySQL笔记第一章,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_23-high_performance_mysql_chap1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-23,1540252800.0
-SliderMini:可能是2018最值得期待的便携滑轨  | ZUOLUOTV | VLOG17,罗磊的独立博客,https://luolei.org/smartta-slidermini-review,https://luolei.org,https://luolei.org/feed/,2018-10-23,1540252800.0
-面试的一些技巧,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_21-interview_techniques.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-21,1540080000.0
-雅西卡 YASHICA Y35 | 编号740,罗磊的独立博客,https://luolei.org/yashica-y35-camera,https://luolei.org,https://luolei.org/feed/,2018-10-17,1539734400.0
-HTTP/2 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_13-http2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-13,1539388800.0
-编程五年:我辞职了,罗磊的独立博客,https://luolei.org/new-journey,https://luolei.org,https://luolei.org/feed/,2018-10-10,1539129600.0
-我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school,https://lutaonan.com,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0
-我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0
-UTAU插件:一键描点 使用帮助,FlyingSky's Blog,https://blog.fsky7.com/technology/77,https://blog.fsky7.com,https://blog.fsky7.com/feed,2018-10-01,1538366400.0
-独立运营博客一年的一些数据分享,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_24-blogging_one_year.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-24,1537747200.0
-To B(usiness) 和 To C(ustomer),Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_22-to_b_to_c.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-22,1537574400.0
-PyCon JP 2018 記,Just lepture,https://lepture.com/zh/2018/pycon-jp-2018,https://lepture.com/,https://lepture.com/feed.xml,2018-09-19,1537364456.0
-常见的软件架构套路,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_16-common_software_archtecture_pattern.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-16,1537056000.0
-JavaScript 函数式编程笔记,Yuexun's Blog,https://yuexunjiang.me/blog/javascript-functional-programming-notes,https://yuexunjiang.me,https://www.ahonn.me/rss.xml,2018-09-15,1536969687.0
+React代码规范,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220327-react-coding-standard,https://teobler.com,https://teobler.com/rss.xml,2022-03-27,1648392360.0
+Leetcode 4 寻找两个正序数组的中位数 ( Median of Two Sorted Arrays *Hard* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/03/27/Leetcode-4-%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0-Median-of-Two-Sorted-Arrays-Hard-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-03-27,1648365314.0
+只要人人都管好自己的事，世界将变成美好的人间！,非理勿试,https://www.ntiy.com/1739.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-26,1648276904.0
+最近的一些状况和一些想法,近视眼逛博客,https://blog.dtz9.com/2022/03/Some-recent-conditions-and-some-thoughts.html,https://blog.dtz9.com/,https://blog.dtz9.com/feed,2022-03-25,1648223782.0
+最近的一些状况和一些想法,近视眼逛博客,https://blog.9hz.club/2022/03/Some-recent-conditions-and-some-thoughts.html,https://blog.9hz.club/,https://blog.dtz9.com/feed,2022-03-25,1648223760.0
+Nginx 源码阅读（三）: 连接池、内存池,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_23-nginx_source_code_3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-23,1647993600.0
+周刊第5期：拖延症,4Ark × Blog,https://4ark.me/post/weekly-05.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-23,1647993600.0
+Nginx 源码阅读（二）: 请求处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_22-nginx_source_code_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-22,1647907200.0
+直接负责,见字如面,https://hiwannz.com/archives/679,https://hiwannz.com,https://hiwannz.com/feed,2022-03-21,1647860631.0
+Nginx 源码阅读（一）: 启动流程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_21-nginx_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-21,1647820800.0
+给小电驴上牌,Nicksxs's Blog,https://nicksxs.me/2022/03/20/%E7%BB%99%E5%B0%8F%E7%94%B5%E9%A9%B4%E4%B8%8A%E7%89%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-03-20,1647780113.0
+【CloudFlare】官方免费CNAME接入教程,Luminous' Home,https://luotianyi.vc/6185.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-03-20,1647753849.0
+Kubernetes、集群联邦和资源分发,面向信仰编程,https://draven.co//kuberentes-federation,https://draven.co/,https://draveness.me/feed.xml,2022-03-19,1647648000.0
+Kubernetes、集群联邦和资源分发,面向信仰编程,https://draveness.me//kuberentes-federation,https://draveness.me/,https://draveness.me/feed.xml,2022-03-19,1647648000.0
+被疫情严重影响的这两天,非理勿试,https://www.ntiy.com/1735.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-18,1647609201.0
+Go 泛型简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_17-go_generics.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-17,1647475200.0
+Hg hooks 实践历程,4Ark × Blog,https://4ark.me/post/hg-hooks.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-17,1647475200.0
+读《摄影构图就这么简单》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/03/16/reading-composition.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-16,1647388800.0
+KVM 显卡穿透给 Windows,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_15-kvm_windows_gpu_passthrough.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-15,1647302400.0
+书评 | 如何提高学习效率，让知识真正转化为自身价值？,冰哥笔记,https://www.bgbiji.com/887.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-14,1647274175.0
+Leetcode 83 删除排序链表中的重复元素 ( Remove Duplicates from Sorted List *Easy* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/03/13/Leetcode-83-%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0-Remove-Duplicates-from-Sorted-List-Easy-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-03-13,1647157902.0
+燃烧吧，爆发吧！像苹果一样红，像鞭炮一样响！,非理勿试,https://www.ntiy.com/1728.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-13,1647149279.0
+周刊第4期：独立思考,4Ark × Blog,https://4ark.me/post/weekly-04.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-12,1647043200.0
+使用 HTTP Router 处理 Telegram Bot 按钮回调,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_03_12-tgbot_httprouter.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-03-12,1647043200.0
+如何突破自己？,冰哥笔记,https://www.bgbiji.com/886.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-10,1646920190.0
+有哪些坚持就有效果的生活好习惯？,冰哥笔记,https://www.bgbiji.com/885.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-10,1646876326.0
+读《硬战》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/03/09/reading-harden.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-09,1646784000.0
+【CloudFlare】通用防火墙安全配置分享,Luminous' Home,https://luotianyi.vc/6140.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-03-08,1646716545.0
+靓号情结,非理勿试,https://www.ntiy.com/1723.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-03-08,1646702858.0
+一次启用事务 begin 没有 commit 的事故🐬,把酒诗代码，趁乱写年华。,https://102no.com/2022/03/08/mysql-begin-no-commit/,https://102no.com/,https://102no.com/atom.xml,2022-03-07,1646668800.0
+Leetcode 349 两个数组的交集 ( Intersection of Two Arrays *Easy* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/03/07/Leetcode-349-%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86-Intersection-of-Two-Arrays-Easy-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-03-07,1646632942.0
+上次的其他 外行聊国足,Nicksxs's Blog,https://nicksxs.me/2022/03/06/%E4%B8%8A%E6%AC%A1%E7%9A%84%E5%85%B6%E4%BB%96-%E5%A4%96%E8%A1%8C%E8%81%8A%E5%9B%BD%E8%B6%B3/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-03-06,1646571617.0
+周刊第3期：持续折腾,4Ark × Blog,https://4ark.me/post/weekly-03.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-06,1646524800.0
+如何在两个月内快速改变自己？,冰哥笔记,https://www.bgbiji.com/883.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-05,1646482997.0
+【工具系列】服务器搭建一个自用网盘Zpan,框架師,https://www.mobaijun.com/posts/3473890439.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-03-05,1646449823.0
+这是一份新媒体创作者的自检清单,冰哥笔记,https://www.bgbiji.com/882.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-04,1646390837.0
+魔方CFOP公式,manateelazycat.github.io,//manateelazycat.github.io/curiosity/2022/03/03/cube-cfop.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-03,1646265600.0
+【工具系列】Windows包管理工具Scoop安装及使用,框架師,https://www.mobaijun.com/posts/908521329.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-03-02,1646223740.0
+我在广州的这几年,冰哥笔记,https://www.bgbiji.com/881.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-02,1646215983.0
+Hg tips,4Ark × Blog,https://4ark.me/post/hg-tips.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-02,1646179200.0
+Emacs递归添加目录下所有插件,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/03/02/emacs-load-directory-recursively.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-03-02,1646179200.0
+每月思考|2022年2月份的一些思考,冰哥笔记,https://www.bgbiji.com/880.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-03-01,1646129054.0
+Disruptor 系列二,Nicksxs's Blog,https://nicksxs.me/2022/02/27/Disruptor-%E7%B3%BB%E5%88%97%E4%BA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-02-27,1645969504.0
+周刊第2期：珍惜和平,4Ark × Blog,https://4ark.me/post/weekly-02.html,https://4ark.me/,https://4ark.me/rss.xml,2022-02-27,1645920000.0
+写作六年，我终于摸索出一套适合自己的高效写作方式,冰哥笔记,https://www.bgbiji.com/869.html,https://www.bgbiji.com,https://www.bgbiji.com/feed,2022-02-25,1645750216.0
+本质性的塔西佗--丰县,Frank笔记,https://frank2019.me/articles/2022/02/24/1645667850376.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-02-24,1645667850.0
+读《心若菩提》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/02/24/reading-heart-is-bodhi.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-24,1645660800.0
+本质性的塔西佗--丰县,Frank笔记,https://frank2019.me/archives/ben-zhi-xing-de-ta-xi-tuo--feng-xian,https://frank2019.me/,https://frank2019.me/rss.xml,2022-02-22,1645556160.0
+【随笔】论一个面试题的解决思路,框架師,https://www.mobaijun.com/posts/3567767979.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-02-21,1645465912.0
+读《查理芒格传》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/02/21/reading-charlie-munger.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-02-21,1645401600.0

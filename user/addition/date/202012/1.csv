@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+魔幻的2020,imba97,https://imba97.com/post/735,https://imba97.com/,https://imba97.cn/atom.xml,2020-12-31,1609459199.0
 年度简报 - 2020 | 等待,FlyingSky's Blog,https://blog.fsky7.com/archives/175/,https://blog.fsky7.com/,https://blog.fsky7.com/feed,2020-12-31,1609430400.0
 【工具系列】常用工具汇总,框架師,https://www.mobaijun.com/posts/1664035384.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-31,1609403450.0
 2020 年终总结,Yuexun's Blog,https://yuexunjiang.me/blog/2020-summary/,https://yuexunjiang.me/,https://www.ahonn.me/rss.xml,2020-12-31,1609372800.0
@@ -11,7 +12,11 @@ title,author,link,home,rss,date,timestamp
 你好，2021！,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_22-hello_2021.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-22,1608595200.0
 常用Git相关命令行,沐云湘夕—求索,https://quest.myxxts.club/archives/28/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608441060.0
 必应每日壁纸（刷新更换）,沐云湘夕—求索,https://quest.myxxts.club/archives/25/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2020-12-20,1608440340.0
+爱上Go语言：常量与枚举,游钓四方,https://blog.lhasa.icu/posts/technology/2020-12-19-golang-consts/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2020-12-19,1608348360.0
+爱上Go语言：常量与枚举,游钓四方,https://blog.lhasa.icu/posts/technology/2020-12-19-golang-consts,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-12-19,1608348360.0
 gRPC鉴权方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_19-grpc_authentication.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-19,1608336000.0
+爱上Go语言：变量定义与内建变量类型,游钓四方,https://blog.lhasa.icu/posts/technology/2020-12-18-golang-variable/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2020-12-18,1608263160.0
+爱上Go语言：变量定义与内建变量类型,游钓四方,https://blog.lhasa.icu/posts/technology/2020-12-18-golang-variable,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-12-18,1608263160.0
 Golang里数据库migration方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800.0
 Redis Implementation for Cache and Database Consistency,Bin Wang - My Personal Blog,https://www.binwang.me/2020-12-14-Redis-Implementation-for-Cache-and-Database-Consistency.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2020-12-14,1607922000.0
 【Hexo】Hexo matery主题评论系统valine改版记录,框架師,https://www.mobaijun.com/posts/4026840102.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-12,1607747873.0
@@ -19,5 +24,10 @@ Redis Implementation for Cache and Database Consistency,Bin Wang - My Personal B
 Android SwipeRefreshLayout左右滑动冲突的解决,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_12-android_swiperefresh_swipe_left_right.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-12,1607731200.0
 Android调用gRPC的两个小工具函数,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_07-android_kotlin_grpc.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-07,1607299200.0
 程序員與文學衝突,Just lepture,https://lepture.com/zh/2020/tweet-yuan,https://lepture.com/,https://lepture.com/feed.xml,2020-12-06,1607235718.0
+WordPress 迁移至 Hexo,imba97,https://imba97.com/post/734,https://imba97.com/,https://imba97.cn/atom.xml,2020-12-05,1607211094.0
+树莓派 Cloudreve Aria2 离线下载,imba97,https://imba97.com/posts/733,https://imba97.com/,https://imba97.cn/atom.xml,2020-12-05,1607196710.0
+树莓派 Cloudreve Aria2 离线下载,imba97,https://imba97.com/post/733,https://imba97.com/,https://imba97.cn/atom.xml,2020-12-05,1607167910.0
 【DB系列】InfluxDB,框架師,https://www.mobaijun.com/posts/2901774056.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2020-12-04,1607048712.0
+树莓派 Cloudreve 自建局域网网盘,imba97,https://imba97.com/posts/732,https://imba97.com/,https://imba97.cn/atom.xml,2020-12-02,1606928237.0
+树莓派 Cloudreve 自建局域网网盘,imba97,https://imba97.com/post/732,https://imba97.com/,https://imba97.cn/atom.xml,2020-12-02,1606899437.0
 Android上结合kotlin使用coroutine,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_01-android_kotlin_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-01,1606780800.0
