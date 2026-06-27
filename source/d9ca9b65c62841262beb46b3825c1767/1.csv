@@ -1,4 +1,15 @@
 title,author,link,home,rss,date,timestamp
+在 RTX 4060 Laptop（8GB 显存）笔记本上部署 Qwen3.5-4B 和 Qwopus3.5-9B-Coder 的完整实战,无妄当自持,https://www.insidentally.com/articles/000051/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-06-18,1781787600.0
+给 Hermes Agent 接入 Sciverse：5 分钟搞定学术搜索 MCP,无妄当自持,https://www.insidentally.com/articles/000050/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-06-18,1781771400.0
+MinerU：让 AI Agent 读懂 PDF 的文档提取利器,无妄当自持,https://www.insidentally.com/articles/000049/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-06-18,1781755200.0
+用 Firecrawl + SearXNG 给 Hermes Agent 搭建本地搜索与网页抓取,无妄当自持,https://www.insidentally.com/articles/000047/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-06-02,1780374600.0
+让服务器的 AI 读写你的 Obsidian 笔记库：从自建同步到 MCP 集成,无妄当自持,https://www.insidentally.com/articles/000048/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-06-02,1780365600.0
+在 RTX 4060 笔记本上运行 Qwen 3.5 9B：llama.cpp 本地部署实录,无妄当自持,https://www.insidentally.com/articles/000045/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-24,1779636600.0
+在 Fedora 44 上编译支持 CUDA 的 llama.cpp：完整指南,无妄当自持,https://www.insidentally.com/articles/000044/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-24,1779631200.0
+Hermes WebUI 安装与使用指南,无妄当自持,https://www.insidentally.com/articles/000046/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-24,1779604200.0
+Hermes Agent 使用实践：核心机制与命令技巧,无妄当自持,https://www.insidentally.com/articles/000043/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-18,1779093000.0
+小米 MiMo 模型本地部署实践：从选型到踩坑,无妄当自持,https://www.insidentally.com/articles/000042/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-06,1778061600.0
+介绍并初步使用 Hermes Agent,无妄当自持,https://www.insidentally.com/articles/000041/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-05-05,1777971600.0
 Linux 下将浏览器缓存放到内存，并在登录登出时进行同步,无妄当自持,https://www.insidentally.com/articles/000040/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-04-05,1712329662.0
 Fedora 使用脚本配置国内镜像源,无妄当自持,https://www.insidentally.com/articles/000039/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-03-18,1710760062.0
 在 Fedora server 39 中纯手动部署 Nextcloud,无妄当自持,https://www.insidentally.com/articles/000038/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-03-09,1709991268.0
@@ -8,8 +19,6 @@ Linux 下字体配置,无妄当自持,https://www.insidentally.com/articles/0000
 在启用安全启动的 Fedora 中安装 Nvidia 驱动,无妄当自持,https://www.insidentally.com/articles/000034/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2023-07-20,1689831948.0
 曲登尼玛冰川,无妄当自持,https://www.insidentally.com/articles/000033/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2023-05-02,1683042348.0
 面向神经科学家的人工神经网络,无妄当自持,https://www.insidentally.com/articles/000032/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-12-27,1672143093.0
-以 U-NET 为例的网络构建代码实现,无妄当自持,https://www.insidentally.com/articles/000031/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-07-02,1656763893.0
-React 函数式组件中防抖的应用（React + Hook + Typescript）,无妄当自持,https://www.insidentally.com/articles/000030/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-29,1656501153.0
 使用 ntfs3 驱动替换 ntfs-3g 挂载 windows NTFS 分区,无妄当自持,https://www.insidentally.com/articles/000029/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-27,1656317553.0
 安装 Fedora 36 后一些适合中国用户的简单设置,无妄当自持,https://www.insidentally.com/articles/000028/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-06-04,1654308633.0
 如何切换到独特的滚动发行版——Debian sid,无妄当自持,https://www.insidentally.com/articles/000027/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2022-05-27,1653617433.0
@@ -21,20 +30,3 @@ React 函数式组件中防抖的应用（React + Hook + Typescript）,无妄当
 重庆戴家巷,无妄当自持,https://www.insidentally.com/articles/000020/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-11-11,1636613148.0
 使用 systemctl 命令管理 systemd 单元,无妄当自持,https://www.insidentally.com/articles/000019/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-11-06,1636242699.0
 日喀则扎什伦布寺,无妄当自持,https://www.insidentally.com/articles/000018/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-09-28,1632819348.0
-电压钳的实验方法总结,无妄当自持,https://www.insidentally.com/articles/000017/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-09-08,1631066433.0
-膜片钳实验简介- 膜片钳的基本原理及记录方法,无妄当自持,https://www.insidentally.com/articles/000016/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-08-30,1630288833.0
-在 linux 下如何压缩 PDF,无妄当自持,https://www.insidentally.com/articles/000015/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-06-07,1623031233.0
-gogs 搭建自己的代码托管平台,无妄当自持,https://www.insidentally.com/articles/000014/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-05-28,1622167233.0
-让你的 gnome 桌面显示农历,无妄当自持,https://www.insidentally.com/articles/000013/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-05-26,1621994433.0
-为 linux 安装多媒体解码器,无妄当自持,https://www.insidentally.com/articles/000012/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-05-25,1621947633.0
-为 Arch Linux 创建字体软件包,无妄当自持,https://www.insidentally.com/articles/000011/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-04-13,1618318833.0
-为 Arch Linux 创建软件包,无妄当自持,https://www.insidentally.com/articles/000010/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-04-07,1617756711.0
-在 windows 下安装配置 nodejs,无妄当自持,https://www.insidentally.com/articles/000009/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-03-27,1616849231.0
-山城步道——半山崖线,无妄当自持,https://www.insidentally.com/articles/000008/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2021-01-12,1610441748.0
-使用 linux 操作系统，如何优化固态硬盘使用体验,无妄当自持,https://www.insidentally.com/articles/000007/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-30,1609344203.0
-如何使用 Git,无妄当自持,https://www.insidentally.com/articles/000006/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-12-18,1608286030.0
-linux 开启 samba 服务共享文件,刘超智,https://www.insidentally.com/articles/000005/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-27,1606465965.0
-山城晓雾,无妄当自持,https://www.insidentally.com/articles/000004/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-25,1606281003.0
-眺望渝中,刘超智,https://www.insidentally.com/articles/000003/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-11-23,1606118148.0
-配置一个简洁，高效的zsh,刘超智,https://www.insidentally.com/articles/000002/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-29,1603933662.0
-安装使用hexo,刘超智,https://www.insidentally.com/articles/000001/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2020-10-27,1603760862.0

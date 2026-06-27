@@ -1,51 +1,51 @@
 title,author,link,home,rss,date,timestamp
-【工具系列】Maven 私服搭建,框架師,https://www.mobaijun.com/posts/3514918103.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-18,1652858912.0
-周刊第12期：每周轮子计划、程序员应该如何写博客,4Ark,https://4ark.me/posts/2022-05-13-weekly-12/,https://4ark.me/,https://4ark.me/rss.xml,2022-05-16,1652659200.0
-自然、科技和我们,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/2022-nature-with-us.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2022-05-15,1652634180.0
-记录下 Java Stream 的一些高效操作,Nicksxs's Blog,https://nicksxs.me/2022/05/15/%E8%AE%B0%E5%BD%95%E4%B8%8B-Java-Lambda-%E7%9A%84%E4%B8%80%E4%BA%9B%E9%AB%98%E6%95%88%E6%93%8D%E4%BD%9C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-05-15,1652617939.0
-【WEB系列】高版本SpringBoot整合Swagger启动异常问题,框架师,https://www.mobaijun.com/posts/3051425539.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-13,1652412738.0
-QWebEngine Cookie 完整实现,manateelazycat.github.io,//manateelazycat.github.io/qt/linux/2022/05/13/webengine-cookie.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-13,1652400000.0
-LSP-Bridge架构设计与LSP协议解析,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/05/12/lsp-bridge.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-05-12,1652313600.0
-闲话篇-路遇神逻辑骑车带娃爹,Nicksxs's Blog,https://nicksxs.me/2022/05/08/%E9%97%B2%E8%AF%9D%E7%AF%87-%E8%B7%AF%E9%81%87%E7%A5%9E%E9%80%BB%E8%BE%91%E9%AA%91%E8%BD%A6%E5%B8%A6%E5%A8%83%E7%88%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-05-08,1652003195.0
-现实中的“电车难题”,非理勿试,https://www.ntiy.com/1787.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-05-06,1651847807.0
-【Linux 系列】将 Docker 容器设为自启动和取消容器自启动,框架師,https://www.mobaijun.com/posts/3024480743.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-05-05,1651719941.0
-周刊第11期：扩大你的运气表面积（Luck Surface Area）,4Ark × Blog,https://4ark.me/post/weekly-11.html,https://4ark.me/,https://4ark.me/rss.xml,2022-05-05,1651708800.0
-《上海》时代的缩影,Frank笔记,https://frank2019.me/articles/2022/05/03/1651553263423.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-05-03,1651554022.0
-A Library to Make It Easier to Use Scala with gRPC,Bin Wang - My Personal Blog,https://www.binwang.me/2022-05-02-A-Library-to-Make-It-Easier-to-Use-Scala-with-GRPC.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2022-05-02,1651464000.0
-Leetcode 1115 交替打印 FooBar ( Print FooBar Alternately *Medium* ) 题解分析,Nicksxs's Blog,https://nicksxs.me/2022/05/01/Leetcode-1115-%E4%BA%A4%E6%9B%BF%E6%89%93%E5%8D%B0-FooBar-Print-FooBar-Alternately-Medium-%E9%A2%98%E8%A7%A3%E5%88%86%E6%9E%90/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-05-01,1651414291.0
-遗憾最小化框架 —— 如何做决定,Randy's Blog,https://lutaonan.com/blog/regret-minimization-framework,https://lutaonan.com,https://lutaonan.com/rss.xml,2022-05-01,1651363200.0
-Display country flags emoji on Windows,Just lepture,https://lepture.com/en/2022/windows-country-flags-emoji,https://lepture.com/,https://lepture.com/feed.xml,2022-04-30,1651312306.0
-使用Drone CI构建CI/CD系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_04_29-drone_ci.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-29,1651190400.0
-【杂谈】jsDelivr域名遭到DNS污染,Luminous' Home,https://luotianyi.vc/6295.html,https://luotianyi.vc,https://luotianyi.vc/feed,2022-04-28,1651164667.0
-JavaScript学习 - 第一章 基础知识 （二）,沐云湘夕—求索,https://quest.myxxts.club/archives/144/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-04-28,1651154640.0
-【WEB系列】SpringBootStarter-组件化开发,框架师,https://www.mobaijun.com/posts/1232000011.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-28,1651141156.0
-Golang migrate 做数据库变更管理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2022_04_28-golang_migrate_iofs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-28,1651104000.0
-递归搜索插件引用记录,manateelazycat.github.io,//manateelazycat.github.io/emacs/2022/04/28/recursive-search-references.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-28,1651104000.0
-JavaScript学习 - 第一章 基础知识 （一）,沐云湘夕—求索,https://quest.myxxts.club/archives/142/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-04-27,1651030320.0
-五年前的一段工作经历,非理勿试,https://www.ntiy.com/1777.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-04-26,1650980901.0
-周刊第10期：你如何在网上找到可靠的信息？,4Ark × Blog,https://4ark.me/post/weekly-10.html,https://4ark.me/,https://4ark.me/rss.xml,2022-04-26,1650931200.0
-屯菜惊魂记,Nicksxs's Blog,https://nicksxs.me/2022/04/24/%E5%B1%AF%E8%8F%9C%E6%83%8A%E9%AD%82%E8%AE%B0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-04-24,1650807825.0
-A Travel to Montreal,Bin Wang - My Personal Blog,https://www.binwang.me/2022-04-24-A-Travel-to-Montreal.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2022-04-24,1650772800.0
-沉默的大多数,manateelazycat.github.io,//manateelazycat.github.io/think/2022/04/24/most-of-the-silencer.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-24,1650758400.0
-错位时空,非理勿试,https://www.ntiy.com/1751.html,https://www.ntiy.com,https://www.ntiy.com/feed,2022-04-22,1650635103.0
-EAF Git Client 手册,manateelazycat.github.io,//manateelazycat.github.io/emacs/eaf/2022/04/22/eaf-git.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-22,1650585600.0
-【后端】MapStruct 使用详解,框架師,https://www.mobaijun.com/posts/239252401.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-20,1650447800.0
-隔离不完全攻略,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/754/,https://imba97.cn/,https://imba97.cn/atom.xml,2022-04-19,1650404722.0
-nginx 日志小记,Nicksxs's Blog,https://nicksxs.me/2022/04/17/nginx-%E6%97%A5%E5%BF%97%E5%B0%8F%E8%AE%B0/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-04-17,1650185658.0
-周刊第9期：Web 发展中的 100 个重大事件,4Ark × Blog,https://4ark.me/post/weekly-09.html,https://4ark.me/,https://4ark.me/rss.xml,2022-04-17,1650153600.0
-《建设全国统一大市场》解读分析,Frank笔记,https://frank2019.me/articles/2022/04/11/1649654817438.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-04-14,1649914175.0
-【工具系列】Idea 远程调试服务器 Jar 包,框架师,https://www.mobaijun.com/posts/55789149.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2022-04-13,1649846866.0
-使用PostgreSQL做搜索引擎,Jiajun的编程随想,https://jiajunhuang.com/articles/2022_04_12-postgresql_fulltext_search.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2022-04-12,1649721600.0
-周刊第8期：阅读 ECMAScript 规范,4Ark × Blog,https://4ark.me/post/weekly-08.html,https://4ark.me/,https://4ark.me/rss.xml,2022-04-11,1649635200.0
-难得的大扫除,Nicksxs's Blog,https://nicksxs.me/2022/04/10/%E9%9A%BE%E5%BE%97%E7%9A%84%E5%A4%A7%E6%89%AB%E9%99%A4/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-04-10,1649599558.0
-週記，垂死病中驚坐起,Just lepture,https://lepture.com/zh/2022/weekly-20220409,https://lepture.com/,https://lepture.com/feed.xml,2022-04-09,1649497357.0
-读《详解FPGA - 人工智能时代的驱动引擎》,manateelazycat.github.io,//manateelazycat.github.io/reading/2022/04/06/reading-fpga.html,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2022-04-06,1649203200.0
-十三年前被隔离的经历,Bin Wang - My Personal Blog,https://www.binwang.me/2022-04-04-%E5%8D%81%E4%B8%89%E5%B9%B4%E5%89%8D%E8%A2%AB%E9%9A%94%E7%A6%BB%E7%9A%84%E7%BB%8F%E5%8E%86.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2022-04-04,1649044800.0
-周刊第7期：使用新的周刊模板,4Ark × Blog,https://4ark.me/post/weekly-07.html,https://4ark.me/,https://4ark.me/rss.xml,2022-04-04,1649030400.0
-Dubbo 使用的几个记忆点,Nicksxs's Blog,https://nicksxs.me/2022/04/02/Dubbo-%E4%BD%BF%E7%94%A8%E7%9A%84%E5%87%A0%E4%B8%AA%E8%AE%B0%E5%BF%86%E7%82%B9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2022-04-02,1648882739.0
-更改Typecho后台文件来支持QQ头像,沐云湘夕—求索,https://quest.myxxts.club/archives/132/,https://quest.myxxts.club/,https://quest.myxxts.club/feed,2022-04-01,1648809120.0
-【转载】李承鹏：有些事要写进历史的，有些人，已不像人,Frank笔记,https://frank2019.me/articles/2022/03/29/1648525326601.html,https://frank2019.me,https://frank2019.me/rss.xml,2022-03-29,1648525553.0
-Rust 报错 link.exe was not found,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/753/,https://imba97.cn/,https://imba97.cn/atom.xml,2022-03-28,1648498998.0
-周刊第6期：网络没有版本号,4Ark × Blog,https://4ark.me/post/weekly-06.html,https://4ark.me/,https://4ark.me/rss.xml,2022-03-28,1648425600.0
-Kong 2.8 已经发布：提高安全性，简化API管理,把酒诗代码，趁乱写年华。,https://102no.com/2022/03/28/kong-2.8/,https://102no.com/,https://102no.com/atom.xml,2022-03-27,1648396800.0
-React代码规范,Teobler - 失眠多梦，bug体质,https://teobler.com/posts/20220327-react-coding-standard,https://teobler.com,https://teobler.com/rss.xml,2022-03-27,1648392360.0
+OpenAI上架官方Chat GPT应用,醉里博客,https://202271.xyz/post/64302/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-20,1684598941.0
+母亲节,醉里博客,https://202271.xyz/post/9851/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-13,1683993867.0
+我的笔记管理法,Randy's Blog,https://lutaonan.com/blog/how-do-i-take-note/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2023-05-13,1683936000.0
+我的笔记管理法,Randy's Blog,https://lutaonan.com/blog/how-do-i-take-note,https://lutaonan.com,https://lutaonan.com/rss.xml,2023-05-13,1683936000.0
+titleUrl Submission 一个工具Hexo插件,醉里博客,https://202271.xyz/post/10760/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-08,1683561007.0
+搭建醉里起始页和醉里导航,醉里博客,https://202271.xyz/post/41571/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-05-06,1683388170.0
+【随笔】RK987A 键盘说明书（自用）,框架師,https://www.mobaijun.com/posts/3130768971.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-04-24,1682351835.0
+Hexo与Hugo的对比,醉里博客,https://202271.xyz/post/38886/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-22,1682207437.0
+博客圈APP测试,醉里博客,https://202271.xyz/post/5659/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-20,1682032817.0
+使用netlify搭建hexo博客并使用Fluid主题,醉里博客,https://202271.xyz/post/24705/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947830.0
+netlify和vercel的使用对比,醉里博客,https://202271.xyz/post/53541/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947484.0
+无需信用卡申请免费cdn且中国境内访问速度快,醉里博客,https://202271.xyz/post/27834/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947334.0
+提交网站到百度和谷歌收录,醉里博客,https://202271.xyz/post/26263/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681947114.0
+灭蟑螂🪳,把酒诗代码，趁乱写年华。,https://102no.com/2023/04/20/kill-roach/,https://102no.com/,https://102no.com/atom.xml,2023-04-19,1681920000.0
+解决QQ里面直接打开所有链接，不跳转,醉里博客,https://202271.xyz/post/10211/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-19,1681864927.0
+【随笔】Markdown 代码块折叠与收起,框架師,https://www.mobaijun.com/posts/1282194883.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-04-12,1681315064.0
+【Linux 系列】定制 SpringBoot 应用程序的 Docker 镜像和数据库配置,框架師,https://www.mobaijun.com/posts/2721643765.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-04-11,1681222609.0
+醉里开启朋友圈功能,醉里博客,https://202271.xyz/post/19602/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-09,1681054264.0
+Gameload示例,绘星里,https://blog.storical.fun/posts/20412/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2023-04-08,1680978326.0
+【随笔】分享一册 PDF- 劳动法学习实操手册第一版.pdf,框架師,https://www.mobaijun.com/posts/1836243909.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-04-07,1680889762.0
+【随笔】Git 设置代理和取消代理,框架師,https://www.mobaijun.com/posts/3938741716.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-04-07,1680887852.0
+分享一个开发者免费资源网站,醉里博客,https://202271.xyz/post/22633/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-05,1680737017.0
+Microsoft 365 E5 开发人员订阅大面积封号,醉里博客,https://202271.xyz/post/28951/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-04-05,1680707691.0
+GameLoad,绘星里,https://blog.storical.fun/posts/21375/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2023-04-04,1680638865.0
+本站已经更换新域名,绘星里,https://blog.storical.fun/posts/646/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2023-03-28,1680038170.0
+我使用过的头像,绘星里,https://blog.storical.fun/posts/42487/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2023-03-26,1679828967.0
+28 岁，我还想生猛下去,Randy's Blog,https://lutaonan.com/blog/say-in-28/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2023-03-25,1679702400.0
+28 岁，我还想生猛下去,Randy's Blog,https://lutaonan.com/blog/say-in-28,https://lutaonan.com,https://lutaonan.com/rss.xml,2023-03-25,1679702400.0
+【随笔】分享几个免费的 ChatGPT 镜像网站,框架師,https://www.mobaijun.com/posts/3716495196.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-03-20,1679296313.0
+【后端】IntelliJ IDEA 快速自动生成 Junit 测试类,框架師,https://www.mobaijun.com/posts/3073865067.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-03-13,1678679366.0
+千千静听复活教程,绘星里,https://blog.storical.fun/posts/54481/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2023-03-12,1678650529.0
+爬山,醉里博客,https://202271.xyz/post/19315/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-03-04,1677946398.0
+【随笔】关于 GitHub Actions Error: Process completed with exit code 128. 的解决方案,框架師,https://www.mobaijun.com/posts/1959112193.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2023-03-04,1677896639.0
+醉里自建免费公益图床,醉里博客,https://202271.xyz/post/29287/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-02-27,1677542087.0
+更换主题acrylic,醉里博客,https://202271.xyz/post/3608/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-02-22,1677024813.0
+Evolution Host免费服务器,醉里博客,https://202271.xyz/post/4034/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-02-07,1675785164.0
+ChatGPT 类似产品🤖,把酒诗代码，趁乱写年华。,https://102no.com/2023/02/06/chatgtp-alternatives/,https://102no.com/,https://102no.com/atom.xml,2023-02-05,1675612800.0
+为什么要把复杂的联表操作拆成多个单表查询？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_02_03-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-02-03,1675382400.0
+一个通知！！！,绘星里,https://blog.storical.fun/posts/48762/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2023-02-02,1675375652.0
+在深圳过年🧧,把酒诗代码，趁乱写年华。,https://102no.com/2023/02/01/happy-new-year-2023-shenzhen/,https://102no.com/,https://102no.com/atom.xml,2023-01-31,1675180800.0
+红包系统的设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2023_01_31-red_envelope.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2023-01-31,1675123200.0
+2022 年度总结,4Ark,https://4ark.me/posts/2023-01-31-2022-summary/,https://4ark.me/,https://4ark.me/rss.xml,2023-01-31,1675123200.0
+家·烟花·红包封面,云游君的小站,https://www.yunyoujun.cn/posts/home-firework-red-bag,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2023-01-22,1674427906.0
+注册最便宜的xyz域名，低成本搭建一个博客,醉里博客,https://202271.xyz/post/5172/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-01-22,1674414883.0
+Hexo-fluid主题添加51LA统计,醉里博客,https://202271.xyz/post/28857/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-01-21,1674334338.0
+自建Meting服务,绘星里,https://blog.storical.fun/posts/61417/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2023-01-19,1674157954.0
+理发记,醉里博客,https://202271.xyz/post/42643/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-01-19,1674157349.0
+近况,醉里博客,https://202271.xyz/post/12188/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-01-15,1673822739.0
+Hello World,醉里,https://202271.xyz/post/16107/,https://202271.xyz/,https://202271.xyz/atom.xml,2023-01-15,1673794316.0
+2022 年终总结,Nicksxs's Blog,https://nicksxs.me/2023/01/15/2022-%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2023-01-15,1673761517.0

@@ -1,14 +1,20 @@
 title,author,link,home,rss,date,timestamp
+2024-08小记,绘星里,https://blog.storical.fun/posts/15688/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2024-08-31,1725104028.0
 两则魔怔新闻,Frank笔记,https://frank2019.me/archives/liang-ze-xin-wen,https://frank2019.me,https://frank2019.me/rss.xml,2024-08-30,1725038260.0
 HTTP 压力测试中的 Coordinated Omission,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_08_30-http_load_testing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-08-30,1724976000.0
-Kong 3.7重磅上线！Kong AI Gateway 正式 GA！🦍,把酒诗代码，趁乱写年华。,https://102no.com/2024/08/27/kong-3.7/,https://102no.com/,https://102no.com/atom.xml,2024-08-26,1724688000.0
+Kong 3.7重磅上线！Kong AI Gateway 正式 GA！🦍,把酒诗代码,https://102no.com/2024/08/27/kong-3.7/,https://102no.com/,https://102no.com/atom.xml,2024-08-27,1724716800.0
 Windows 聚焦隐藏“了解此图片”图标,岚天小窝,https://blog.ltya.top/posts/spotlightMgr.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2024-08-22,1724342400.0
 使用Uptimeflare监控网站,cmWeblog,https://muidar.com/posts/cmuidar/monitor-websites-with-uptimeflare/,https://muidar.com,https://muidar.com/feed,2024-08-21,1724249822.0
+聊聊自行车,游钓四方,https://blog.lhasa.icu/posts/outdoors/2024-08-21-somethoughtsoncycling,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2024-08-20,1724180520.0
 久违的暑假,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/787/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-08-16,1723815713.0
 乐子哥老翟,瓦解的生活记事,https://hin.cool/posts/lezigelaozhai.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-08-14,1723656600.0
+写一个骑行页面(二),游钓四方,https://blog.lhasa.icu/posts/outdoors/2024-08-14-cyclingpage2,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2024-08-14,1723639200.0
+与时间抗衡：笔记本清灰换硅脂记,游钓四方,https://blog.lhasa.icu/posts/technology/2024-08-11-repaircomputer,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2024-08-11,1723378740.0
 一个经典的fastjson反序列化问题记录,Nicksxs's Blog,https://nicksxs.me/2024/08/11/%E4%B8%80%E4%B8%AA%E7%BB%8F%E5%85%B8%E7%9A%84fastjson%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E9%97%AE%E9%A2%98%E8%AE%B0%E5%BD%95/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-08-11,1723374595.0
+写一个骑行页面,游钓四方,https://blog.lhasa.icu/posts/outdoors/2024-08-11-cyclingpage,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2024-08-11,1723363320.0
 「代码艺术家」不会被 AI 取代,Randy's Blog,https://lutaonan.com/blog/code-artists,https://lutaonan.com,https://lutaonan.com/rss.xml,2024-08-10,1723248000.0
 「代码艺术家」不会被 AI 取代,Randy's Blog,https://lutaonan.com/blog/code-artists/,https://lutaonan.com/,https://lutaonan.com/rss.xml,2024-08-10,1723248000.0
+写一个Chrome表单自动化插件,游钓四方,https://blog.lhasa.icu/posts/technology/2024-08-07-formautomationplugin,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2024-08-07,1723011960.0
 My MacOS Essentials,Bin Wang - My Personal Blog,https://www.binwang.me/2024-08-07-My-MacOS-Essentials.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2024-08-07,1723003200.0
 PIVOT Vol.7,Another Dayu,https://anotherdayu.com/2024/5845/,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2024-08-06,1722932202.0
 别揍了，别揍了，我服了,Luminous' Home,https://luotianyi.vc/8366.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-08-06,1722908298.0
@@ -16,6 +22,7 @@ PIVOT Vol.7,Another Dayu,https://anotherdayu.com/2024/5845/,https://anotherdayu.
 【随笔】如何通过覆盖源码类解决 ServiceUtils 类的 NullPointerException 错误,框架師,https://www.mobaijun.com/posts/474240225.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-08-05,1722880748.0
 使用milvus和towhee实现简陋版的以图搜图,Nicksxs's Blog,https://nicksxs.me/2024/08/04/%E4%BD%BF%E7%94%A8milvus%E5%92%8Ctowhee%E5%AE%9E%E7%8E%B0%E7%AE%80%E9%99%8B%E7%89%88%E7%9A%84%E4%BB%A5%E5%9B%BE%E6%90%9C%E5%9B%BE/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2024-08-04,1722764954.0
 八月,醉里博客,https://202271.xyz/post/24179/,https://202271.xyz/,https://202271.xyz/atom.xml,2024-08-02,1722629848.0
+真·彩虹猫加载动画,绘星里,https://blog.storical.fun/posts/46640/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2024-08-02,1722618748.0
 真·彩虹猫加载动画,星空故事·魔法小屋,https://blog.sinzmise.top/posts/46640/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-08-02,1722618748.0
 读《营销笔记和卖货真相》,Andy Stewart,//manateelazycat.github.io/2024/08/02/reading-marketing-notes/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-08-02,1722556800.0
 持证上网,Frank笔记,https://frank2019.me/archives/chi-zheng-shang-wang,https://frank2019.me,https://frank2019.me/rss.xml,2024-08-01,1722547413.0

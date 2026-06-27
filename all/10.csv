@@ -1,51 +1,51 @@
-title,author,link,home,rss,date,timestamp
-Golang CAS 操作是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_10-golang_cas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-10,1710028800.0
-运行多用户 FreshRSS 实例的一些经验,yzqzss|一座桥在水上’s Blog,https://blog.othing.xyz/archives/practices-for-maintaining-multi-user-freshrss-instance.html,https://blog.othing.xyz/,https://blog.othing.xyz/feed,2024-03-09,1710024300.0
-在 Fedora server 39 中纯手动部署 Nextcloud,无妄当自持,https://www.insidentally.com/articles/000038/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-03-09,1709991268.0
-PostgreSQL 当MQ来使用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_09-postgresql_as_mq.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-09,1709942400.0
-Clash 结合 工作VPN 的网络设计,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_08-clash_vpn.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-08,1709856000.0
-使用 PostgreSQL 搭建 JuiceFS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_07-juicefs_postgresql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-07,1709769600.0
-OPENWRT断流后续和被骗30块钱,瓦解的生活记事,https://hin.cool/posts/opf4ck.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-03-06,1709761800.0
-福建土楼：客家是客还是家？,Macin,https://macin.org/2024/03/05/tu-lou/,https://macin.org/,https://www.macin.org/atom.xml,2024-03-05,1709638763.0
-PostgreSQL 配置优化和日志分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_05-postgresql_conf.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-05,1709596800.0
-读《李光耀观天下》,Andy Stewart,//manateelazycat.github.io/2024/03/04/one-main-view-of-the-world/,//manateelazycat.github.io/,https://manateelazycat.github.io/feed.xml,2024-03-04,1709510400.0
-2024-02小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/15842/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-03-03,1709489444.0
-难解决的 OPENWRT 断流问题,瓦解的生活记事,https://hin.cool/posts/iloveipv6.html,https://hin.cool/,https://hin.cool/atom.xml,2024-03-03,1709474400.0
-有GitHub Copilot？那就可以搭建你的ChatGPT4服务,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_03-copilot_as_gpt4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-03,1709424000.0
-Kong Gateway 3.6.x 正式发布，较大改变！🦍,把酒诗代码，趁乱写年华。,https://102no.com/2024/03/02/kong-3.6/,https://102no.com/,https://102no.com/atom.xml,2024-03-01,1709308800.0
-窗口函数的使用(以PG为例),Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_03_01-pg_window_function.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-03-01,1709251200.0
-用于高效RGBT追踪的单级Transformer,DearXuan的主页,https://blog.dearxuan.com/2024/02/29/%E7%94%A8%E4%BA%8E%E9%AB%98%E6%95%88RGBT%E8%BF%BD%E8%B8%AA%E7%9A%84%E5%8D%95%E7%BA%A7Transformer/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-02-29,1709195760.0
-租房、搬家、三分之一,非理勿试,https://www.ntiy.com/2135.html,https://www.ntiy.com,https://www.ntiy.com/feed,2024-02-28,1709089272.0
-OSTrack,DearXuan的主页,https://blog.dearxuan.com/2024/02/27/OSTrack/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-02-27,1709047620.0
-Mac修改brew源,cywhat's blog,https://cywhat.cn/Mac%E4%BF%AE%E6%94%B9brew%E6%BA%90/,https://cywhat.cn/,https://cywhat.cn/index.xml,2024-02-27,1709017157.0
-Java编译出现java.lang.ExceptionInInitializerError,cywhat's blog,https://cywhat.cn/Java%E7%BC%96%E8%AF%91%E5%87%BA%E7%8E%B0java.lang.ExceptionInInitializerError/,https://cywhat.cn/,https://cywhat.cn/index.xml,2024-02-26,1708928878.0
-OS as Code - 我的 NixOS 使用体会,This Cute World,https://thiscute.world/posts/my-experience-of-nixos/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2024-02-21,1708503981.0
-【纪念】十载光阴，走马观花,Luminous' Home,https://luotianyi.vc/7792.html,https://luotianyi.vc,https://luotianyi.vc/feed,2024-02-19,1708318712.0
-给你的站点添加个可可爱爱的看板娘——伪春菜,星空故事·魔法小屋,https://blog.sinzmise.top/posts/54787/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-02-16,1708103846.0
-南昌：豫章故郡 洪都新府,Macin,https://macin.org/2024/02/12/nan-chang/,https://macin.org/,https://www.macin.org/atom.xml,2024-02-12,1707779208.0
-用于RGBT追踪的多尺度特征交互融合网络,DearXuan的主页,https://blog.dearxuan.com/2024/02/10/%E7%94%A8%E4%BA%8ERGBT%E8%BF%BD%E8%B8%AA%E7%9A%84%E5%A4%9A%E5%B0%BA%E5%BA%A6%E7%89%B9%E5%BE%81%E4%BA%A4%E4%BA%92%E8%9E%8D%E5%90%88%E7%BD%91%E7%BB%9C/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-02-10,1707575220.0
-没有红包封面，但是 AI 春联……,云游君的小站,https://www.yunyoujun.cn/posts/ai-sfc,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2024-02-09,1707521700.0
-2023年终总结,Bing's Blog,https://imcbc.cn/202402/2023-summary/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-02-09,1707462608.0
-扫墓,Bing's Blog,https://imcbc.cn/202402/saomu/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2024-02-09,1707462522.0
-PVE 硬件直通导致不能启动的问题,怠惰のコエ - imba久期 BLOG,https://imba97.cn/archives/777/,https://imba97.cn/,https://imba97.cn/atom.xml,2024-02-08,1707399011.0
-2023 年度总结,4Ark,https://4ark.me/posts/2024-01-01-2023-summary/,https://4ark.me/,https://4ark.me/rss.xml,2024-02-07,1707264000.0
-襄阳牛肉面🍜,把酒诗代码，趁乱写年华。,https://102no.com/2024/02/07/xiang-yang-niu-rou-mian/,https://102no.com/,https://102no.com/atom.xml,2024-02-06,1707235200.0
-通过可靠特征配置的RGBT追踪,DearXuan的主页,https://blog.dearxuan.com/2024/02/06/%E9%80%9A%E8%BF%87%E5%8F%AF%E9%9D%A0%E7%89%B9%E5%BE%81%E9%85%8D%E7%BD%AE%E7%9A%84RGBT%E8%BF%BD%E8%B8%AA/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-02-05,1707150660.0
-H3C路由器引发的“网络惰性”,瓦解的生活记事,https://hin.cool/posts/h3cgo.html,https://hin.cool/,https://www.hin.cool/atom.xml,2024-02-05,1707143400.0
-中坝岛：领取你的归园田居体验卡,Macin,https://macin.org/2024/02/04/zhong-ba-dao/,https://macin.org/,https://www.macin.org/atom.xml,2024-02-04,1707075504.0
-使用 shell 脚本和 systemd 定时替换 Gnome 壁纸,无妄当自持,https://www.insidentally.com/articles/000037/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-02-04,1707035668.0
-ITLDC 低价大盘鸡使用体验与简单测评,岚天小窝,https://blog.ltya.top/posts/ITLDC.shtml,https://blog.ltya.top/,https://blog.ltya.top/atom.xml,2024-02-01,1706803200.0
-2024.01小记,星空故事·魔法小屋,https://blog.sinzmise.top/posts/52677/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-01-31,1706720812.0
-自适应三重融合网络,DearXuan的主页,https://blog.dearxuan.com/2024/02/01/%E8%87%AA%E9%80%82%E5%BA%94%E4%B8%89%E9%87%8D%E8%9E%8D%E5%90%88%E7%BD%91%E7%BB%9C/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-01-31,1706719320.0
-Linux 下字体配置,无妄当自持,https://www.insidentally.com/articles/000036/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2024-01-31,1706690068.0
-区域选择性融合网络,DearXuan的主页,https://blog.dearxuan.com/2024/01/31/%E5%8C%BA%E5%9F%9F%E9%80%89%E6%8B%A9%E6%80%A7%E8%9E%8D%E5%90%88%E7%BD%91%E7%BB%9C/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2024-01-30,1706630880.0
-个人数据安全不完全指南,This Cute World,https://thiscute.world/posts/an-incomplete-guide-to-data-security/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2024-01-30,1706593710.0
-NixOS 在 Lichee Pi 4A 上是如何启动的,This Cute World,https://thiscute.world/posts/how-nixos-start-on-licheepi4a/,https://thiscute.world/,https://thiscute.world/index.xml,2024-01-28,1706461137.0
-九十年代：是繁花，还是大江大河？,Macin,https://macin.org/2024/01/24/fan-hua/,https://macin.org/,https://www.macin.org/atom.xml,2024-01-24,1706088163.0
-为博客添加一个游戏收藏页（npm插件版）,星空故事·魔法小屋,https://blog.sinzmise.top/posts/10045/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-01-18,1705613991.0
-泸县：玉蟾龙头 “福兽”绵延,Macin,https://macin.org/2024/01/16/long-nao-qiao/,https://macin.org/,https://www.macin.org/atom.xml,2024-01-16,1705400343.0
-读《为什么学生不喜欢上学》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2024_01_16-why_dont_students_like_school.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2024-01-16,1705363200.0
-马上要搬离学校宿舍,辛未羊的网络日志,https://panqiincs.me/2024/01/14/goodbye-dormitory/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2024-01-14,1705202323.0
-对于虚拟桌宠模拟器，我的评价（及使用教程）,星空故事·魔法小屋,https://blog.sinzmise.top/posts/45875/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-01-12,1705083407.0
-自建不蒜子API,星空故事·魔法小屋,https://blog.sinzmise.top/posts/28536/,https://blog.sinzmise.top/,https://blog.sinzmise.top/atom.xml,2024-01-11,1705002768.0
-在网上成功出售一套闲置书,辛未羊的网络日志,https://panqiincs.me/2024/01/10/second-hand-books/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2024-01-10,1704893277.0
+title,author,link,home,rss,date,timestamp,test,tags
+友情链接,绘星里,https://blog.storical.fun/links/,https://blog.storical.fun/,https://blog.storical.space/atom.xml,2025-10-26,1761462000.0,,
+超车,Another Dayu,https://anotherdayu.com/2025/7385,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-10-25,1761403906.0,,
+西湖阅读初体验,游钓四方,https://blog.lhasa.icu/posts/life/2025-10-25-first-reading-experience-at-west-lake,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2025-10-24,1761330600.0,,
+西湖阅读初体验,游钓四方,https://blog.lhasa.icu/posts/book/2025-10-25-first-reading-experience-at-west-lake/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2025-10-24,1761330600.0,,
+Lesson 5 二阶线性常微分方程的幂级数解法 (一),菲兹克斯喵,https://physnya.top/equation-m-p/lesson-5/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-24,1761279616.0,,
+Lesson 5 二阶线性常微分方程的幂级数解法 (一),菲兹克斯喵,https://physnya.top/equation-m-p/lesson-5,https://physnya.top,https://physnya.top/atom.xml,2025-10-24,1761279616.0,,
+时隔四年，晨跑环西湖,游钓四方,https://blog.lhasa.icu/posts/outdoors/2025-10-24-four-years-later-morning-run-west-lake/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2025-10-23,1761235260.0,,
+时隔四年，晨跑环西湖,游钓四方,https://blog.lhasa.icu/posts/outdoors/2025-10-24-four-years-later-morning-run-west-lake,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2025-10-23,1761235260.0,,
+Lesson 6 Multi-variable Analysis,菲兹克斯喵,https://physnya.top/astro-statistic/lesson-6-multivariable-analysis/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-23,1761228620.0,,
+Lesson 6 Multi-variable Analysis,菲兹克斯喵,https://physnya.top/astro-statistic/lesson-6-multivariable-analysis,https://physnya.top,https://physnya.top/atom.xml,2025-10-23,1761228620.0,,
+Lesson 11 静磁场,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-11-magnetics,https://physnya.top,https://physnya.top/atom.xml,2025-10-23,1761204660.0,,
+Lesson 11 静磁场,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-11-magnetics/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-23,1761204660.0,,
+我从义乌搬家到杭州了,游钓四方,https://blog.lhasa.icu/posts/life/2025-10-23-moving_from_yiwu_to_hangzhou/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2025-10-22,1761156420.0,,
+我从义乌搬家到杭州了,游钓四方,https://blog.lhasa.icu/posts/life/2025-10-23-moving_from_yiwu_to_hangzhou,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2025-10-22,1761156420.0,,
+Lesson 5 核物理与观测宇宙学,菲兹克斯喵,https://physnya.top/physics-front/lesson-5,https://physnya.top,https://physnya.top/atom.xml,2025-10-22,1761117613.0,,
+Lesson 10 隧穿,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-10/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-22,1761117613.0,,
+MinIO 社区版 Web 管理界面被删事件全解析,杜老师说,https://dusays.com/archives/833/,https://dusays.com/,https://dusays.com/atom.xml,2025-10-21,1761062400.0,,
+MinIO 社区版 Web 管理界面被删事件全解析,杜老师说,https://dusays.com/833,https://dusays.com,https://dusays.com/atom.xml,2025-10-21,1761062400.0,,
+Lesson 5 高分子链,菲兹克斯喵,https://physnya.top/biophysics/lesson-5/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-21,1761052802.0,,
+Lesson 5 高分子链,菲兹克斯喵,https://physnya.top/biophysics/lesson-5,https://physnya.top,https://physnya.top/atom.xml,2025-10-21,1761052802.0,,
+Cosmic Baryons,菲兹克斯喵,https://physnya.top/astro-front/lesson-5-cosmic-baryons/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-21,1761033175.0,,
+Cosmic Baryons,菲兹克斯喵,https://physnya.top/astro-front/lesson-5-cosmic-baryons,https://physnya.top,https://physnya.top/atom.xml,2025-10-21,1761033175.0,,
+Lesson 9 Hilbert 空间,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-9/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-20,1760985576.0,,
+Lesson 9 Hilbert 空间,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-9,https://physnya.top,https://physnya.top/atom.xml,2025-10-20,1760985576.0,,
+Linux 桌面系统故障排查指南（六） - 系统关机与电源管理,This Cute World,https://thiscute.world/posts/linux-desktop-6-shutdown-troubleshooting/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-10-19,1760840553.0,,
+Linux 桌面系统故障排查指南（五） - 网络,This Cute World,https://thiscute.world/posts/linux-desktop-5-network/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-10-19,1760840493.0,,
+Linux 桌面系统故障排查指南（四） - 多媒体处理与中文支持,This Cute World,https://thiscute.world/posts/linux-desktop-4-multimedia-input/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-10-19,1760840433.0,,
+Linux 桌面系统故障排查指南（三） - 桌面会话与图形渲染,This Cute World,https://thiscute.world/posts/linux-desktop-3-session-graphics/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-10-19,1760840373.0,,
+Linux 桌面系统故障排查指南（二） - systemd 全家桶与服务管理,This Cute World,https://thiscute.world/posts/linux-desktop-2-systemd-services/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2025-10-19,1760840313.0,,
+Linux 桌面系统故障排查指南（一） - 系统启动与安全框架,This Cute World,https://thiscute.world/posts/linux-desktop-1-boot-security/?utm_source=atom_feed,https://thiscute.world,https://thiscute.world/index.xml,2025-10-19,1760840253.0,,
+知乎答疑：个人博客内容常陷入同质化，如何找到独特风格？,游钓四方,https://blog.lhasa.icu/posts/life/2025-10-18-answer-how-to-find-unique-style,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2025-10-18,1760785440.0,,
+知乎答疑：个人博客内容常陷入同质化，如何找到独特风格？,游钓四方,https://blog.lhasa.icu/posts/life/2025-10-18-answer-how-to-find-unique-style/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2025-10-18,1760785440.0,,
+Lesson 4 分离变量法 (三),菲兹克斯喵,https://physnya.top/equation-m-p/lesson-4,https://physnya.top,https://physnya.top/atom.xml,2025-10-17,1760716621.0,,
+Lesson 4 分离变量法 (三),菲兹克斯喵,https://physnya.top/equation-m-p/lesson-4/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-17,1760716621.0,,
+Lesson 5 Model Selection,菲兹克斯喵,https://physnya.top/astro-statistic/lesson-5-model-selection/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-16,1760622964.0,,
+Lesson 5 Model Selection,菲兹克斯喵,https://physnya.top/astro-statistic/lesson-5-model-selection,https://physnya.top,https://physnya.top/atom.xml,2025-10-16,1760622964.0,,
+251016 生活碎片,Another Dayu,https://anotherdayu.com/2025/7370,https://anotherdayu.com,https://anotherdayu.com/?feed=rss,2025-10-16,1760611325.0,,
+Lesson 9 电像法,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-9/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-16,1760600217.0,,
+Lesson 9 电像法,菲兹克斯喵,https://physnya.top/electrodynamics/lesson-9,https://physnya.top,https://physnya.top/atom.xml,2025-10-16,1760600217.0,,
+如何使用 PHP 脚本筛选去不图床已到期用户邮箱,杜老师说,https://dusays.com/832,https://dusays.com,https://dusays.com/atom.xml,2025-10-15,1760544000.0,,
+如何使用 PHP 脚本筛选去不图床已到期用户邮箱,杜老师说,https://dusays.com/archives/832/,https://dusays.com/,https://dusays.com/atom.xml,2025-10-15,1760544000.0,,
+Lesson 8 势阱,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-8-potential-well/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-15,1760513243.0,,
+Lesson 8 势阱,菲兹克斯喵,https://physnya.top/quantum-mechanics/lesson-8-potential-well,https://physnya.top,https://physnya.top/atom.xml,2025-10-15,1760513243.0,,
+Lesson 4 粒子物理学与高能实验,菲兹克斯喵,https://physnya.top/physics-front/lesson-4-particle-physics,https://physnya.top,https://physnya.top/atom.xml,2025-10-15,1760499595.0,,
+Through Cosmic Lens Into Deep Universe —— Strong Gravitational Lensing,菲兹克斯喵,https://physnya.top/astro-front/lesson-4-gravitational-lensing/,https://physnya.top/,https://physnya.top/atom.xml,2025-10-15,1760499595.0,,
+首次徒步爬山，误闯深山老林，徒手爬悬崖，两度滑落险些丧命,游钓四方,https://blog.lhasa.icu/posts/outdoors/2025-10-15-first-hike-deep-forest-cliff-fall,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2025-10-15,1760493900.0,,
+首次徒步爬山，误闯深山老林，徒手爬悬崖，两度滑落险些丧命,游钓四方,https://blog.lhasa.icu/posts/outdoors/2025-10-15-first-hike-deep-forest-cliff-fall/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2025-10-15,1760493900.0,,
+uni-app 与原生小程序混合开发方案,4Ark,https://4ark.me/posts/2025-10-15-uni-app-hybrid-native-miniprogram/,https://4ark.me/,https://4ark.me/rss.xml,2025-10-15,1760486400.0,,
+uni-app 与原生小程序混合开发方案,4Ark,https://4ark.me/posts/2025-10-15-uni-app-hybrid-native-miniprogram,https://4ark.me,https://4ark.me/rss.xml,2025-10-15,1760486400.0,,
+组了个 QNAS MINI,怠惰のコエ - imba久期 BLOG,https://imba97.com/archives/808,https://imba97.com,https://imba97.cn/atom.xml,2025-10-14,1760451458.0,,
