@@ -5,6 +5,7 @@ on:
     types: [closed]
     branches:
       - public-dev
+      - public
 
 jobs:
   close-linked-issue:
