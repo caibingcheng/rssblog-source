@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+《程序员的自我修养-装载、链接与库》笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_08-linker_and_loader.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-08,1588896000.0,,
 Golang sync.Pool源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_05-go_sync_pool.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-05,1588636800.0,,
 Typlog 三週年,Just lepture,https://lepture.com/zh/2020/3-years-of-typlog,https://lepture.com/,https://lepture.com/feed.xml,2020-05-02,1588438232.0,,
 MySQL操作笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_01-mysql_notes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-01,1588291200.0,,
@@ -12,8 +13,8 @@ Golang context源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.co
 Golang中的并发控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_21-golang_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-21,1587427200.0,,
 Golang的可选参数实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_20-golang_optional_parameters.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-20,1587340800.0,,
 YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-me-money,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-14,1586888548.0,,
-ThinkPHP 6.0 下载安装与配置,游钓四方,https://blog.lhasa.icu/posts/technology/2020-04-14-thinkphp6-installation/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2020-04-14,1586849280.0,,
 ThinkPHP 6.0 下载安装与配置,游钓四方,https://blog.lhasa.icu/posts/technology/2020-04-14-thinkphp6-installation,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-04-14,1586849280.0,,
+ThinkPHP 6.0 下载安装与配置,游钓四方,https://blog.lhasa.icu/posts/technology/2020-04-14-thinkphp6-installation/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2020-04-14,1586849280.0,,
 2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-04-13,1586812489.0,,
 2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading,http://frankorz.com,https://frankorz.com/atom.xml,2020-04-13,1586812489.0,,
 FreeBSD ipfw使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_13-freebsd_ipfw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-13,1586736000.0,,
@@ -48,4 +49,3 @@ MySQL charset不同导致无法使用索引的坑,Jiajun的技术笔记,https://
 远程工作一周有感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_14-remote_work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-14,1581638400.0,,
 Python中的并发控制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_12-python_concurrency.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-12,1581465600.0,,
 让我们用 GitHub Pages 搭建一个 Hexo 站点,FlyingSky's Blog,https://blog.fsky7.com/technology/50,https://blog.fsky7.com,https://blog.fsky7.com/feed,2020-02-11,1581393600.0,,
-【花开物语|MAD】幹物女(WeiWei)-Bonboru!,云游君的小站,https://www.yunyoujun.cn/posts/hana-saku-iroha-weiwei-bonboru,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-02-09,1581272688.0,,
