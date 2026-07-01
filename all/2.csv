@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+用 Firecrawl + SearXNG 给 Hermes Agent 搭建本地搜索与网页抓取,无妄当自持,https://www.insidentally.com/articles/000047/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-06-02,1780374600.0,,
 让服务器的 AI 读写你的 Obsidian 笔记库：从自建同步到 MCP 集成,无妄当自持,https://www.insidentally.com/articles/000048/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-06-02,1780365600.0,,
 从石门山到舒成岩：你以为去过宝顶山就是全部的大足石刻了吗？,Macin,https://macin.org/2026/06/01/shi-men-shan/,https://macin.org/,https://www.macin.org/atom.xml,2026-06-01,1780351485.0,,
 看看目前本地能跑什么模型，使用llama.cpp,Nicksxs's Blog,https://nicksxs.me/2026/05/31/%E7%9C%8B%E7%9C%8B%E7%9B%AE%E5%89%8D%E6%9C%AC%E5%9C%B0%E8%83%BD%E8%B7%91%E4%BB%80%E4%B9%88%E6%A8%A1%E5%9E%8B-%E4%BD%BF%E7%94%A8llama-cpp/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-05-31,1780236434.0,,
@@ -48,4 +49,3 @@ Lesson 19 Hawking 辐射 (Unruh Effect),菲兹克斯喵,https://physnya.top/GR/l
 如何在树莓派 4B 上驱动一块 2.4 寸 SPI 屏幕,无名博客,https://wuminboke.site/uncategorized/how-to-setup-2-4-inch-spi-screen-on-rpi-4b/,https://wuminboke.site,https://wuminboke.site/feed,2026-04-27,1777267648.0,,
 结合Obsidian的cli的一体化体验,Nicksxs's Blog,https://nicksxs.me/2026/04/26/%E7%BB%93%E5%90%88Obsidian%E7%9A%84cli%E7%9A%84%E4%B8%80%E4%BD%93%E5%8C%96%E4%BD%93%E9%AA%8C/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-04-26,1777207341.0,,
 春天钻进相机里,威言威语,https://www.weisay.com/blog/caught-spring.html,https://www.weisay.com/blog,https://www.weisay.com/blog/feed,2026-04-26,1777180884.0,,
-Lesson 18 Hawking 辐射,菲兹克斯喵,https://physnya.top/GR/lesson-18-hawking-radiation/,https://physnya.top/,https://physnya.top/atom.xml,2026-04-25,1777140751.0,,

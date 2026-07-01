@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp,test,tags
 Compute Shader 简介,萤火之森,http://frankorz.com/2021/04/17/compute-shader,http://frankorz.com,https://frankorz.com/atom.xml,2021-04-17,1618697670.0,,
+Compute Shader 简介,萤火之森,http://frankorz.com/2021/04/17/compute-shader/,http://frankorz.com/,https://frankorz.com/atom.xml,2021-04-17,1618697670.0,,
 谈谈 Kubernetes 的问题和局限性,面向信仰编程,https://draven.co//kuberentes-limitations,https://draven.co/,https://draveness.me/feed.xml,2021-04-16,1618531200.0,,
 如何定位程序问题所在,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_15-how_to_debug_program.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-15,1618444800.0,,
 设计一个IM归档系统,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_04_14-system_design_archive.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-04-14,1618358400.0,,
@@ -48,4 +49,3 @@ gRPC鉴权方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_
 爱上Go语言：变量定义与内建变量类型,游钓四方,https://blog.lhasa.icu/posts/technology/2020-12-18-golang-variable/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2020-12-18,1608263160.0,,
 Golang里数据库migration方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_16-golang_migration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-16,1608076800.0,,
 如何找到你朋友的社交账号,云游君的小站,https://www.yunyoujun.cn/posts/find-npy-social-account,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-12-12,1607731380.0,,
-Android SwipeRefreshLayout左右滑动冲突的解决,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_12_12-android_swiperefresh_swipe_left_right.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-12-12,1607731200.0,,
