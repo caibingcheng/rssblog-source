@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp,test,tags
+apt安装特定包以及忽略升级某个包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_09_05-apt.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-09-05,1599264000.0,,
+hexo-theme-yun 制作笔记,云游君的小站,https://www.yunyoujun.cn/posts/make-hexo-theme-yun,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-09-01,1598990400.0,,
 Strato - Hexo 主题「Yun」版本宣传 PV,云游君的小站,https://www.yunyoujun.cn/posts/hexo-theme-yun-strato,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-08-28,1598652000.0,,
 2016美国总统候选人辩论,qinxs小站,https://7bxing.com/posts/52bf0210/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-08-27,1598503361.0,,
 2016美国总统候选人辩论,qinxs小站,https://7bxing.com/posts/52bf0210,https://7bxing.com,https://7bxing.com/atom.xml,2020-08-27,1598503361.0,,
@@ -46,6 +48,4 @@ Shell猜数字游戏,qinxs小站,https://7bxing.com/posts/3713cf69/,https://7bxi
 Shell猜数字游戏,qinxs小站,https://7bxing.com/posts/3713cf69,https://7bxing.com,https://7bxing.com/atom.xml,2020-06-06,1591449141.0,,
 glusterfs 笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_30-glusterfs.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-30,1590796800.0,,
 用peewee代替SQLAlchemy,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_29-use_peewee.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-29,1590710400.0,,
-2020年5月技术导读,萤火之森,http://frankorz.com/2020/05/23/2020-05-tech-reading,http://frankorz.com,https://frankorz.com/atom.xml,2020-05-23,1590249935.0,,
 2020年5月技术导读,萤火之森,http://frankorz.com/2020/05/23/2020-05-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-05-23,1590249935.0,,
-Go的slice工作机制,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_23-go_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-23,1590192000.0,,
