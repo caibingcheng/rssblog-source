@@ -1,4 +1,8 @@
 title,author,link,home,rss,date,timestamp,test,tags
+Git 学习笔记,云游君的小站,https://www.yunyoujun.cn/posts/git-learn-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-02-03,1580748373.0,,
+《图解 C# 教程 第5版》与性能优化,萤火之森,http://frankorz.com/2020/01/31/illustrated-csharp-and-performance/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-01-31,1580515158.0,,
+《图解 C# 教程 第5版》与性能优化,萤火之森,http://frankorz.com/2020/01/31/illustrated-csharp-and-performance,http://frankorz.com,https://frankorz.com/atom.xml,2020-01-31,1580515158.0,,
+npm & yarn 常用包与命令,云游君的小站,https://www.yunyoujun.cn/posts/npm-and-yarn,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-01-29,1580310284.0,,
 使用 CCDIK 或 FABRIK 实现逆向动力学,云游君的小站,https://www.yunyoujun.cn/posts/methods-for-inverse-kinematics,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-01-14,1579040187.0,,
 计算机中的权衡(trade-off),Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_01_11-paradigm.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-11,1578700800.0,,
 [声明]本站所有文章禁止转载,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_01_10-please_do_not_copy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-01-10,1578614400.0,,
@@ -45,7 +49,3 @@ SQLAlchemy简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/20
 这些年，我们错过的n个亿,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_25-oh_my_money.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-25,1571961600.0,,
 LaTeX 使用笔记,云游君的小站,https://www.yunyoujun.cn/posts/latex-use-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-10-21,1571667378.0,,
 给Linux用户的FreeBSD快速指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_19-freebsd_for_linux_users.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-19,1571443200.0,,
-旧电脑也不能闲着：家用备份方案,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_18-build_your_own_nas.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-18,1571356800.0,,
-将SQLite的数据迁移到MySQL,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_15-grafana_moved_to_mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-15,1571097600.0,,
-Linux托管Windows虚拟机最佳实践,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_10_08-linux_windows.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-10-08,1570492800.0,,
-路漫漫其修远兮,云游君的小站,https://www.yunyoujun.cn/posts/after-entering-cuc,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2019-10-02,1569977708.0,,

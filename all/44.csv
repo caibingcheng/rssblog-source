@@ -1,4 +1,8 @@
 title,author,link,home,rss,date,timestamp,test,tags
+我与幻星的故事,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-fantasy-star,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-21,1500680446.0,,
+来自某夏令营的回忆,云游君的小站,https://www.yunyoujun.cn/posts/memory-about-summer-camp,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-18,1500411690.0,,
+Golang slice 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_18-golang_slice.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-18,1500336000.0,,
+经典好书推荐(2017),Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_15-books.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-15,1500076800.0,,
 水彩原创头像尝试,云游君的小站,https://www.yunyoujun.cn/posts/a-try-about-watercolor-portrait,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-12,1499894106.0,,
 Golang log库 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_11-golang_log.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-11,1499731200.0,,
 云游君表情包制作计划,云游君的小站,https://www.yunyoujun.cn/posts/yunyoujun-meme,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-10,1499683297.0,,
@@ -45,7 +49,3 @@ Python零碎小知识,Jiajun的技术笔记,https://jiajunhuang.com/articles/201
 Python 的继承,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_06-python_c3_mro.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-06,1480982400.0,,
 Python的yield关键字有什么作用？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_29-python_yield.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-29,1480377600.0,,
 借助coroutine用同步的语法写异步,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_27-python_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-27,1480204800.0,,
-我看牙医的经历,Randy's Blog,https://lutaonan.com/blog/dentist-exp,https://lutaonan.com,https://lutaonan.com/rss.xml,2016-11-26,1480118400.0,,
-Python3函数参数中的星号,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_21-py3k_asterisk.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-21,1479686400.0,,
-使用Git Hooks,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_08-use_git_hooks.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-08,1478563200.0,,
-你根本用不着退学,Randy's Blog,https://lutaonan.com/blog/you-dont-need-to-drop-out,https://lutaonan.com,https://lutaonan.com/rss.xml,2016-11-06,1478390400.0,,
