@@ -1,5 +1,6 @@
 title,author,link,home,rss,date,timestamp,test,tags
 电信用户投诉攻略,游钓四方,https://blog.lhasa.icu/posts/life/2019-02-25-unicom,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-02-25,1551069840.0,,
+电信用户投诉攻略,游钓四方,https://blog.lhasa.icu/posts/life/2019-02-25-unicom/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2019-02-25,1551069840.0,,
 (转)微不足道的坚持,游钓四方,https://blog.lhasa.icu/posts/life/2019-02-23-insist/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2019-02-23,1550889840.0,,
 (转)微不足道的坚持,游钓四方,https://blog.lhasa.icu/posts/life/2019-02-23-insist,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-02-23,1550889840.0,,
 Redis 笔记(安装与数据类型),游钓四方,https://blog.lhasa.icu/posts/technology/2019-02-22-redis,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-02-22,1550814240.0,,
@@ -48,4 +49,3 @@ Raft论文阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/20
 避免全局变量,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_15-avoid_global_states.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-15,1542240000.0,,
 Go的unsafe包,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_13-golang_package_unsafe.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-13,1542067200.0,,
 Golang中实现禁止拷贝,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0,,
-人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0,,

@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+hello world,qinxs小站,https://7bxing.com/posts/d4a1185/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605202.0,,
 hello world,qinxs小站,https://7bxing.com/posts/d4a1185,https://7bxing.com,https://7bxing.com/atom.xml,2020-05-16,1589605202.0,,
 Golang sort源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_16-go_sort.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-16,1589587200.0,,
 分治的思维方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_05_15-divide_and_conquer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-05-15,1589500800.0,,
@@ -21,8 +22,8 @@ Golang的可选参数实践,Jiajun的技术笔记,https://jiajunhuang.com/articl
 YunYouJun/give-me-money,云游君的小站,https://www.yunyoujun.cn/posts/give-me-money,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2020-04-14,1586888548.0,,
 ThinkPHP 6.0 下载安装与配置,游钓四方,https://blog.lhasa.icu/posts/technology/2020-04-14-thinkphp6-installation/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2020-04-14,1586849280.0,,
 ThinkPHP 6.0 下载安装与配置,游钓四方,https://blog.lhasa.icu/posts/technology/2020-04-14-thinkphp6-installation,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2020-04-14,1586849280.0,,
-2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-04-13,1586812489.0,,
 2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading,http://frankorz.com,https://frankorz.com/atom.xml,2020-04-13,1586812489.0,,
+2020年4月技术导读,萤火之森,http://frankorz.com/2020/04/13/2020-04-tech-reading/,http://frankorz.com/,https://frankorz.com/atom.xml,2020-04-13,1586812489.0,,
 FreeBSD ipfw使用教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_13-freebsd_ipfw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-13,1586736000.0,,
 Golang expvar库源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_12-expvar.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-12,1586649600.0,,
 Golang SQL生成库 Squirrel 教程及源码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_04_11-squirrel.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-04-11,1586563200.0,,
@@ -48,4 +49,3 @@ pip freeze是魔鬼,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_
 一个feed流系统的演进,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_02-feed_system_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-02,1583107200.0,,
 Android 使用view binding,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_03_01-android_view_binding.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-03-01,1583020800.0,,
 好产品帮助用户变得更好 - 读 Badass: Making Users Awesome,Randy's Blog,https://lutaonan.com/blog/read-badass-making-users-awesome,https://lutaonan.com,https://lutaonan.com/rss.xml,2020-03-01,1583020800.0,,
-系统调用的过程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_02_27-syscall.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-02-27,1582761600.0,,
