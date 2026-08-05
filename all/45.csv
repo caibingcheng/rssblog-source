@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+socketserver 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_09-socketserver_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-09,1483920000.0,,
 functools 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_08-functools_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-08,1483833600.0,,
 contextlib代码阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_07-contextlib_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-07,1483747200.0,,
 Redis通信协议阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_06-redis_protocol_specification.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-06,1483660800.0,,
@@ -12,7 +13,7 @@ Thinking in Python,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_1
 我的代码进CPython标准库啦,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_15-my_code_in_python_stdlib.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-15,1481760000.0,,
 Python零碎小知识,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_09-python_fragments.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-09,1481241600.0,,
 工作一年的总结,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_07-work.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-07,1481068800.0,,
-Python 的继承,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_06-python_c3_mro.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-06,1480982400.0,,
+MongoDB 的一些坑,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_06-mongodb.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-06,1480982400.0,,
 Python的yield关键字有什么作用？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_29-python_yield.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-29,1480377600.0,,
 借助coroutine用同步的语法写异步,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_11_27-python_coroutine.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-11-27,1480204800.0,,
 我看牙医的经历,Randy's Blog,https://lutaonan.com/blog/dentist-exp,https://lutaonan.com,https://lutaonan.com/rss.xml,2016-11-26,1480118400.0,,
@@ -48,4 +49,3 @@ Block I/O,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_06_22-note
 如何解读c的声明,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_03_17-declaration_of_c_pointers.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-03-17,1426550400.0,,
 关于输入法的猜想,Jiajun的技术笔记,https://jiajunhuang.com/articles/2015_01_11-my_guess_about_input_method.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2015-01-11,1420934400.0,,
 2014 年终总结,Randy's Blog,https://lutaonan.com/blog/2014-summary,https://lutaonan.com,https://lutaonan.com/rss.xml,2014-12-31,1419984000.0,,
-C语言与抽象思维,Jiajun的技术笔记,https://jiajunhuang.com/articles/2014_12_12-abstractions_in_c.rst.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2014-12-12,1418342400.0,,
