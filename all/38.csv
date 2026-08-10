@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+Typecho主题 | MDr - 书写你的篇章,FlyingSky's Blog,https://blog.fsky7.com/technology/59,https://blog.fsky7.com,https://blog.fsky7.com/feed,2019-08-07,1565150400.0,,
 消息分帧(字符串设计或协议设计)的两种形式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_05-message_framing.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-05,1564963200.0,,
 C， Go， Python的错误处理和异常机制杂谈,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_08_01-error_handling.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-08-01,1564617600.0,,
 ThinkPHP Save 方法引发的错误,游钓四方,https://blog.lhasa.icu/posts/technology/2019-07-31-tp-save,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-07-31,1564532460.0,,
@@ -31,8 +32,8 @@ frp 源码阅读与分析(一)：流程和概念,Jiajun的技术笔记,https://j
 读《债务危机》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_08-big_debt_crises.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-08,1559952000.0,,
 写给可爱的学弟学妹们,云游君的小站,https://www.yunyoujun.cn/posts/to-lovely-junior,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2019-06-06,1559817413.0,,
 服务器IP被ban学到的经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_06-ip_ban.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-06,1559779200.0,,
-(转)一个程序员眼中的价值,游钓四方,https://blog.lhasa.icu/posts/life/2019-06-04-phper-value/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2019-06-04,1559620440.0,,
 (转)一个程序员眼中的价值,游钓四方,https://blog.lhasa.icu/posts/life/2019-06-04-phper-value,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-06-04,1559620440.0,,
+(转)一个程序员眼中的价值,游钓四方,https://blog.lhasa.icu/posts/life/2019-06-04-phper-value/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2019-06-04,1559620440.0,,
 开启HSTS(HTTP Strict Transport Security),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_04-hsts.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-04,1559606400.0,,
 从Chrome切换到Firefox,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_06_01-from_chrome_to_firefox.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-06-01,1559347200.0,,
 Linux下当笔记本合上盖子之后只使用扩展显示器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_31-turnoff_screen_when_lid_is_closed.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-31,1559260800.0,,
@@ -48,4 +49,3 @@ Everyday Auto Xuexiqiangguo,云游君的小站,https://www.yunyoujun.cn/posts/ev
 密码技术简明教程(三)：证书和TLS,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_15-crypto_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-15,1557878400.0,,
 密码技术简明教程(二)：散列、消息认证码和数字签名,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_14-crypto_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-14,1557792000.0,,
 密码技术简明教程(一)：对称加密和非对称加密,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_12-crypto.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-12,1557619200.0,,
-Kubernetes 笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_05_10-kubernetes_tutorial.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-05-10,1557446400.0,,

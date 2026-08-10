@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+Redis源码阅读：list实现(ziplist， quicklist),Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_28-redis_source_code_8.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-28,1622160000.0,,
 Redis源码阅读：RDB是怎么实现的,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_27-redis_source_code_7.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-27,1622073600.0,,
 Redis源码阅读：AOF重写,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_26-redis_source_code_6.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-26,1621987200.0,,
 Redis源码阅读：AOF持久化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_25-redis_source_code_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-25,1621900800.0,,
@@ -25,8 +26,8 @@ CPU 和 GPU - 异构计算的演进与发展,面向信仰编程,https://draven.c
 为什么早期的 Windows 需要整理碎片,面向信仰编程,https://draven.co//whys-the-design-windows-defragmentation,https://draven.co/,https://draveness.me/feed.xml,2021-04-01,1617235200.0,,
 2020 年总结 · 渐入佳境,面向信仰编程,https://draven.co//2020-summary,https://draven.co/,https://draveness.me/feed.xml,2021-03-28,1616889600.0,,
 Serverless 与轻量级虚拟化 Firecracker · NSDI '20,面向信仰编程,https://draven.co//papers-firecracker,https://draven.co/,https://draveness.me/feed.xml,2021-03-27,1616803200.0,,
-Golang GIN写单测时，愉快的使用返回值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_23-go_gin_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-23,1616457600.0,,
 你该如何为 Kubernetes 定制特性,面向信仰编程,https://draven.co//cloud-native-kubernetes-extension,https://draven.co/,https://draveness.me/feed.xml,2021-03-23,1616457600.0,,
+Golang GIN写单测时，愉快的使用返回值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_23-go_gin_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-23,1616457600.0,,
 Python Queue源码分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_20-python_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-20,1616198400.0,,
 集群管理系统 Mesos 的设计原理 · NSDI '11,面向信仰编程,https://draven.co//papers-mesos,https://draven.co/,https://draveness.me/feed.xml,2021-03-19,1616112000.0,,
 Go里优雅的使用全局配置,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_18-go_config.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-18,1616025600.0,,
@@ -48,4 +49,3 @@ Python中用tuple作为key,Jiajun的技术笔记,https://jiajunhuang.com/article
 为什么 OLAP 需要列式存储,面向信仰编程,https://draven.co//whys-the-design-olap-column-oriented,https://draven.co/,https://draveness.me/feed.xml,2021-02-02,1612224000.0,,
 数据中心的电力超售 · OSDI '20,面向信仰编程,https://draven.co//papers-thunderbolt,https://draven.co/,https://draveness.me/feed.xml,2021-01-30,1611964800.0,,
 数据中心的容错时钟对时 · OSDI '20,面向信仰编程,https://draven.co//papers-sundial,https://draven.co/,https://draveness.me/feed.xml,2021-01-29,1611878400.0,,
-做这个世界的生产者,Randy's Blog,https://lutaonan.com/blog/be-a-creator,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-01-27,1611705600.0,,
