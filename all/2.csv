@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+从 app.test 到小锁：valet 本地 HTTPS 的完整链路,Nicksxs's Blog,https://nicksxs.me/2026/06/28/%E4%BB%8E-app-test-%E5%88%B0%E5%B0%8F%E9%94%81%EF%BC%9A%E6%9C%AC%E5%9C%B0-HTTPS-%E7%9A%84%E5%AE%8C%E6%95%B4%E9%93%BE%E8%B7%AF/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-06-28,1782656280.0,,
 Hermes SOUL.md 人设工程 + 三层记忆深度解析：让 Agent 精确遵循你的人格,翔宇工作流,https://xiangyugongzuoliu.com/hermes-agent-soul-memory/,https://xiangyugongzuoliu.com/,https://xiangyugongzuoliu.com/latest/rss,2026-06-28,1782612000.0,,
 Hermes 语音模式完全攻略：CLI + Telegram + Discord 三表面免费搭建,翔宇工作流,https://xiangyugongzuoliu.com/hermes-agent-voice-mode/,https://xiangyugongzuoliu.com/,https://xiangyugongzuoliu.com/latest/rss,2026-06-26,1782439200.0,,
 通勤路上听播客 vs 听音乐的 2 个选择,杜老师说,https://dusays.com/archives/874/,https://dusays.com/,https://dusays.com/atom.xml,2026-06-24,1782316800.0,,
@@ -12,7 +13,7 @@ git-cm：在终端里用 LLM 生成 commit message,ImCBC,https://imcbc.cn/202606
 Ghost 建站最佳实践：一人公司从零到有订阅者的完整手册,翔宇工作流,https://xiangyugongzuoliu.com/ghost-best-practices/,https://xiangyugongzuoliu.com/,https://xiangyugongzuoliu.com/latest/rss,2026-06-21,1782003600.0,,
 AI开发——安卓备忘录 memoX,瓦解的生活记事,https://hin.cool/posts/memox.html,https://hin.cool/,https://hin.cool/atom.xml,2026-06-20,1781939400.0,,
 Hermes Agent Cron 定时自动化：任务链 + 预运行门控 + 零成本触发,翔宇工作流,https://xiangyugongzuoliu.com/hermes-agent-cron-automation/,https://xiangyugongzuoliu.com/,https://xiangyugongzuoliu.com/latest/rss,2026-06-20,1781920800.0,,
-Agent 工作流完全指南 2026：一人公司如何用多 Agent 自动化运营,翔宇工作流,https://xiangyugongzuoliu.com/agent-workflow-complete-guide/,https://xiangyugongzuoliu.com/,https://xiangyugongzuoliu.com/latest/rss,2026-06-19,1781888400.0,,
+Agent 工作流完全指南 2026：一人公司如何用多 Agent 自动化运营,翔宇工作流,https://xiangyugongzuoliu.com/solo-operator-multi-agent-playbook/,https://xiangyugongzuoliu.com/,https://xiangyugongzuoliu.com/latest/rss,2026-06-19,1781888400.0,,
 Travel Back to China: 2026 Edition,Bin Wang - My Personal Blog,https://www.binwang.me/2026-06-19-Travel-Back-to-China-2026-Edition.html,https://www.binwang.me/,https://www.binwang.me/feed.xml,2026-06-19,1781841600.0,,
 会议室投影仪连不上的 3 个排查,杜老师说,https://dusays.com/archives/873/,https://dusays.com/,https://dusays.com/atom.xml,2026-06-18,1781798400.0,,
 在 RTX 4060 Laptop（8GB 显存）笔记本上部署 Qwen3.5-4B 和 Qwopus3.5-9B-Coder 的完整实战,无妄当自持,https://www.insidentally.com/articles/000051/,https://www.insidentally.com/,https://www.insidentally.com/atom.xml,2026-06-18,1781787600.0,,
@@ -48,4 +49,3 @@ Photosuite EXIF 优化,游钓四方,https://blog.lhasa.icu/posts/technology/2026
 Lesson 28 暴涨前的涨落信息,菲兹克斯喵,https://physnya.top/GR/lesson-28-inflation-information/,https://physnya.top/,https://physnya.top/atom.xml,2026-06-05,1780664734.0,,
 干煸藕丝,把酒诗代码,https://102no.com/2026/06/05/gan-bian-ou-si/,https://102no.com/,https://102no.com/atom.xml,2026-06-05,1780617600.0,,
 升降晾衣架换绳记,威言威语,https://www.weisay.com/blog/replacing-the-clothesline.html,https://www.weisay.com/blog,https://www.weisay.com/blog/feed,2026-06-03,1780499325.0,,
-简单深空摄影图像处理入门,菲兹克斯喵,https://physnya.top/blog/pf301x8q/,https://physnya.top/,https://physnya.top/atom.xml,2026-06-02,1780407731.0,,
