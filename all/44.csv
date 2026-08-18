@@ -1,10 +1,11 @@
 title,author,link,home,rss,date,timestamp,test,tags
+週記，九月末,Just lepture,https://lepture.com/zh/2017/weekly-20170930,https://lepture.com/,https://lepture.com/feed.xml,2017-10-01,1506864165.0,,
 前端的基礎修養：ARIA Live Regions,Just lepture,https://lepture.com/zh/2017/fe-live-regions,https://lepture.com/,https://lepture.com/feed.xml,2017-09-27,1506505200.0,,
 Haskell: infixl， infixr， infix,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_27-haskell_infix.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-27,1506470400.0,,
 Haskell简明教程（五）：处理JSON,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_26-learn_you_a_haskell_part_5.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-26,1506384000.0,,
 Haskell简明教程（四）：Monoid， Applicative， Monad,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_09_25-learn_you_a_haskell_part_4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-09-25,1506297600.0,,
-3D数学基础-矩阵变换（二）,萤火之森,http://frankorz.com/2017/09/24/matrix-transformation-2/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-09-24,1506273229.0,,
 3D数学基础-矩阵变换（二）,萤火之森,http://frankorz.com/2017/09/24/matrix-transformation-2,http://frankorz.com,https://frankorz.com/atom.xml,2017-09-24,1506273229.0,,
+3D数学基础-矩阵变换（二）,萤火之森,http://frankorz.com/2017/09/24/matrix-transformation-2/,http://frankorz.com/,https://frankorz.com/atom.xml,2017-09-24,1506273229.0,,
 週記，九月三週,Just lepture,https://lepture.com/zh/2017/weekly-20170924,https://lepture.com/,https://lepture.com/feed.xml,2017-09-24,1506252839.0,,
 像夏花一样绚烂,云游君的小站,https://www.yunyoujun.cn/posts/as-summer-flowers,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-09-23,1506202608.0,,
 像遊客一樣生活,Just lepture,https://lepture.com/zh/2017/live-better,https://lepture.com,https://lepture.com/feed.xml,2017-09-22,1506065108.0,,
@@ -48,4 +49,3 @@ Greenlet和Stackless Python,Jiajun的技术笔记,https://jiajunhuang.com/articl
 从源码看Python的descriptor,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_04_19-python_descriptor_from_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-19,1492560000.0,,
 Python字符串格式化,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_04_16-python_string_format.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-16,1492300800.0,,
 Gunicorn 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_04_08-gunicorn.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-08,1491609600.0,,
-Raft 论文阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_29-raft.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-03-29,1490745600.0,,
