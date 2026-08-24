@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+Web开发系列(二)：HTTP协议,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_14-web_dev_part2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-14,1507939200.0,,
 Hexo 静态博客搭建笔记,云游君的小站,https://www.yunyoujun.cn/posts/hexo-build-note,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-10-13,1507898432.0,,
 Web开发系列(一)：从输入网址到最后，这个过程经历了什么？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_13-web_dev_part1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-13,1507852800.0,,
 Coding WebIDE 云端开发实验室,云游君的小站,https://www.yunyoujun.cn/posts/coding-webide-dev-env,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-10-11,1507738872.0,,
@@ -48,4 +49,3 @@ ansible 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017
 HTTP 路由的两种常见设计形式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_05_24-http_router_design.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-24,1495584000.0,,
 Golang的short variable declaration,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_05_12-golang_short_variable_declaration.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-05-12,1494547200.0,,
 我的编程经历,Randy's Blog,https://lutaonan.com/blog/my-coding-road,https://lutaonan.com,https://lutaonan.com/rss.xml,2017-05-12,1494547200.0,,
-Greenlet和Stackless Python,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_04_26-greenlet.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-04-26,1493164800.0,,
