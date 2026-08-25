@@ -1,0 +1,223 @@
+name: RSS Feed Source Submission
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
+    steps:
+      - name: Check issue title and author
+        id: check
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issue = context.payload.issue;
+            const allowedUser = 'caibingcheng';
+            const expectedTitle = 'RSS Feed Source Submission';
+
+            if (issue.user.login !== allowedUser) {
+              core.setOutput('should_process', 'false');
+              core.setOutput('reason', 'unauthorized');
+              return;
+            }
+
+            if (issue.title !== expectedTitle) {
+              core.setOutput('should_process', 'false');
+              core.setOutput('reason', 'title_mismatch');
+              return;
+            }
+
+            core.setOutput('should_process', 'true');
+
+      - name: Close unauthorized issue
+        if: steps.check.outputs.should_process == 'false'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const reason = '${{ steps.check.outputs.reason }}';
+            let body = '';
+            if (reason === 'unauthorized') {
+              body = '只有仓库所有者可以提交 RSS 源 issue，此 issue 已被关闭。';
+            } else {
+              body = 'Issue title 不符合要求，请使用模板创建。';
+            }
+
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: ['invalid']
+            });
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: body
+            });
+
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });
+
+      - name: Determine target branches
+        if: steps.check.outputs.should_process == 'true'
+        id: branches
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issue = context.payload.issue;
+            const labels = issue.labels.map(l => l.name);
+            const isDev = labels.includes('dev');
+            const sourceBranch = isDev ? 'dev' : 'master';
+            const publicBranch = isDev ? 'public-dev' : 'public';
+            const newBranch = `update-feeds-issue-${sourceBranch}-${context.issue.number}`;
+
+            core.setOutput('source_branch', sourceBranch);
+            core.setOutput('public_branch', publicBranch);
+            core.setOutput('new_branch', newBranch);
+
+      - name: Checkout source branch
+        if: steps.check.outputs.should_process == 'true'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ steps.branches.outputs.source_branch }}
+          fetch-depth: 1
+
+      - name: Checkout public branch
+        if: steps.check.outputs.should_process == 'true'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ steps.branches.outputs.public_branch }}
+          path: ./public
+          fetch-depth: 1
+
+      - name: Setup Python
+        if: steps.check.outputs.should_process == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        if: steps.check.outputs.should_process == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Process issue and update feeds.csv
+        if: steps.check.outputs.should_process == 'true'
+        id: process
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          SOURCE_BRANCH: ${{ steps.branches.outputs.source_branch }}
+          PUBLIC_BRANCH: ${{ steps.branches.outputs.public_branch }}
+          NEW_BRANCH: ${{ steps.branches.outputs.new_branch }}
+        run: python .github/scripts/process_feed_issue.py
+
+      - name: Create or update Pull Request
+        if: steps.check.outputs.should_process == 'true' && steps.process.outputs.has_changes == 'true'
+        id: create_pr
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const sourceBranch = '${{ steps.branches.outputs.source_branch }}';
+            const publicBranch = '${{ steps.branches.outputs.public_branch }}';
+            const newBranch = '${{ steps.branches.outputs.new_branch }}';
+            const issueNumber = context.issue.number;
+            const summary = process.env.CHANGE_SUMMARY || '';
+
+            const body = [
+              `Fixes #${issueNumber}`,
+              '',
+              `此 PR 由 issue #${issueNumber} 触发，用于更新 RSS 源列表。`,
+              '',
+              '### 变更摘要',
+              summary || '详见提交记录。',
+              '',
+              `来源分支：${sourceBranch}`,
+              `目标分支：${publicBranch}`
+            ].join('\n');
+
+            const { data: existingPrs } = await github.rest.pulls.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              head: `${context.repo.owner}:${newBranch}`,
+              base: publicBranch
+            });
+
+            if (existingPrs.length > 0) {
+              const pr = existingPrs[0];
+              await github.rest.pulls.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number,
+                body: body
+              });
+              core.setOutput('pr_number', pr.number);
+              core.setOutput('pr_action', 'updated');
+            } else {
+              const pr = await github.rest.pulls.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `Update RSS feeds from issue #${issueNumber}`,
+                head: newBranch,
+                base: publicBranch,
+                body: body
+              });
+              core.setOutput('pr_number', pr.data.number);
+              core.setOutput('pr_action', 'created');
+            }
+        env:
+          CHANGE_SUMMARY: ${{ steps.process.outputs.change_summary }}
+
+      - name: Comment on issue
+        if: steps.check.outputs.should_process == 'true'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issueNumber = context.issue.number;
+            const hasChanges = '${{ steps.process.outputs.has_changes }}';
+            const prNumber = '${{ steps.create_pr.outputs.pr_number }}';
+            const prAction = '${{ steps.create_pr.outputs.pr_action }}';
+            const report = process.env.REPORT || '';
+
+            let body;
+            if (hasChanges === 'true' && prNumber) {
+              const verb = prAction === 'updated' ? '更新' : '创建';
+              body = [
+                'RSS 源处理完成。',
+                '',
+                report,
+                '',
+                `已${verb} PR #${prNumber}，请手动 review 并 merge。`
+              ].join('\n');
+            } else {
+              body = [
+                'RSS 源处理完成，没有需要提交的变更。',
+                '',
+                report
+              ].join('\n');
+            }
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issueNumber,
+              body: body
+            });
+        env:
+          REPORT: ${{ steps.process.outputs.report }}

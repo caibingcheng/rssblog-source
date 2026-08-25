@@ -1,0 +1,35 @@
+name: RSS Feed Source Submission
+description: 提交或更新 RSS 订阅源（仅仓库所有者可使用）
+title: RSS Feed Source Submission
+labels: ["dev"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请在下方的文本框中填写 RSS URL，每行一个。
+
+        支持的格式：
+        - 新增或更新 URL：
+          ```
+          https://example.com/feed
+          ```
+        - 替换旧域名（旧 URL 被新 URL 替换，继承同一 `id`）：
+          ```
+          https://old-domain.com/feed replaced by https://new-domain.com/feed
+          ```
+
+        注意：
+        - 只有仓库所有者提交的 issue 才会被处理
+        - 其他人提交的 issue 会被关闭并标记为 `invalid`
+        - 默认 label 为 `dev`，正式提交请移除 `dev` label
+  - type: textarea
+    id: urls
+    attributes:
+      label: Feed URLs
+      description: 一行一个 URL，支持 replaced by 语法
+      placeholder: |
+        # 每行一个 URL
+        # 新增/更新：https://example.com/feed
+        # 替换旧域名：https://old-domain.com/feed replaced by https://new-domain.com/feed
+    validations:
+      required: true

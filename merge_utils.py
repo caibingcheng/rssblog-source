@@ -188,7 +188,10 @@ def merge_date(rss_out_date_dir, rss_fetch_date_dir, url=URL):
 
 
 def merge_user(rss_out_user_dir, rss_fetch_user_dir):
-    """合并，把按用户分类的new.csv合并到public/user中，并分页"""
+    """合并，把按用户分类的new.csv合并到public/user中，并分页
+
+    已废弃：当前不再按用户分类生成数据，保留函数以便兼容旧代码。
+    """
     print("merge user ...")
     global URL
     URL["user"] = []
