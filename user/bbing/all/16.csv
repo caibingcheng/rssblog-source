@@ -1,51 +1,23 @@
 title,author,link,home,rss,date,timestamp
-《现代C++白皮书》一周目读后感,Bing's Blog,https://imcbc.cn/202209/cpp_hopl4_reading/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-27,1664287568.0
-固态硬盘状态信息解读,杜老师说,https://dusays.com/508/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-25,1664121600.0
-秘 密,瓦解的生活记事,https://hin.cool/posts/mimi.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-23,1663971600.0
-白嫖一年顶级域名,杜老师说,https://dusays.com/507/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-22,1663862400.0
-NAS-OMV容器配置,Bing's Blog,https://imcbc.cn/202209/nas-omv-reprocesss/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
-NAS-OMV容器配置,Bing's Blog,https://bbing.com.cn/202209/nas-omv-reprocesss/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-21,1663719426.0
-关于友情链接的一些事,杜老师说,https://dusays.com/506/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-19,1663603200.0
-MySQL命令记录,Barney's Blog,https://hugo.bnblogs.cc/mysql%E5%91%BD%E4%BB%A4%E8%AE%B0%E5%BD%95/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-19,1663581035.0
-Pycharm的gitignore配置,Barney's Blog,https://hugo.bnblogs.cc/pycharm%E6%8E%A8%E8%8D%90gitignore%E9%85%8D%E7%BD%AE/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-19,1663576285.0
-拿什么来爱你，公需课,瓦解的生活记事,https://hin.cool/posts/gongxuke.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-19,1663576200.0
-用Python的Polyglot库做文字转写,辛未羊的网络日志,https://panqiincs.me/2022/09/19/polyglot-lang-trans/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-09-19,1663547100.0
-Python获取字体文件所支持的字形,辛未羊的网络日志,https://panqiincs.me/2022/09/18/supported-glyphs/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-09-18,1663476862.0
-梦,瓦解的生活记事,https://hin.cool/posts/meng.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-17,1663407120.0
-如何删除 GitHub 的提交历史记录,杜老师说,https://dusays.com/505/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-16,1663344000.0
-2019-2022·相机算法集成·总结概述,Bing's Blog,https://imcbc.cn/202209/2019-2022-work-summary/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-09-16,1663343537.0
-2019-2022·相机算法集成·总结概述,Bing's Blog,https://bbing.com.cn/202209/2019-2022-work-summary/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-09-16,1663343537.0
-三角函数的嵌套,DearXuan的主页,https://blog.dearxuan.com/2022/09/15/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0%E7%9A%84%E5%B5%8C%E5%A5%97/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-09-15,1663231080.0
-使用 MeiliSearch 实现 Volantis 主题博客搜索「保姆教程」,杜老师说,https://dusays.com/504/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-13,1663084800.0
-django入门,Barney's Blog,https://hugo.bnblogs.cc/django%E5%85%A5%E9%97%A8/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-13,1663081287.0
-通过 GitHub Actions 实现 Hexo 定时发布,杜老师说,https://dusays.com/503/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-10,1662825600.0
-暗 恋,瓦解的生活记事,https://hin.cool/posts/anlian.html,https://hin.cool/,https://hin.cool/atom.xml,2022-09-10,1662773520.0
-通过 GitHub Actions 将 Hexo 部署至良心云 CloudBase,杜老师说,https://dusays.com/502/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-07,1662566400.0
-去不图床网站架构分享,杜老师说,https://dusays.com/501/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-05,1662336000.0
-Learn English Again,This Cute World,https://thiscute.world/posts/learn-english-again/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2022-09-04,1662268920.0
-waline评论迁移到twikoo,Barney's Blog,https://hugo.bnblogs.cc/waline%E8%AF%84%E8%AE%BA%E8%BF%81%E7%A7%BB%E5%88%B0twikoo/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-09-02,1662113902.0
-Lsky Pro 企业版手动升级、优化教程,杜老师说,https://dusays.com/500/,https://dusays.com/,https://dusays.com/atom.xml,2022-09-02,1662076800.0
-我去过的县级行政区,辛未羊的网络日志,https://panqiincs.me/2022/09/01/places-visited/,https://panqiincs.me/,https://panqiincs.me/atom.xml,2022-09-01,1662041614.0
-梦里不知身是客,瓦解的生活记事,https://hin.cool/posts/mlbzssk.html,https://hin.cool/,https://hin.cool/atom.xml,2022-08-30,1661824800.0
-改版去不图床 Token 的获取,杜老师说,https://dusays.com/499/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-30,1661817600.0
-写给去不图床用户的一封信,杜老师说,https://dusays.com/498/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-27,1661558400.0
-Oculus Quest2食用指南,Yulin Lewis' Blog,https://lewky233.top/posts/oculus-quests/,https://lewky233.top/,https://lewky.cn/index.xml,2022-08-25,1661433601.0
-Oculus Quest2食用指南,Yulin Lewis' Blog,https://lewky.cn/posts/oculus-quests/,https://lewky.cn/,https://lewky.cn/index.xml,2022-08-25,1661433601.0
-换城市了,Bing's Blog,https://imcbc.cn/202208/wlb-suzhou/,https://imcbc.cn/,https://bbing.com.cn/index.xml,2022-08-24,1661333268.0
-换城市了,Bing's Blog,https://bbing.com.cn/202208/wlb-suzhou/,https://bbing.com.cn/,https://bbing.com.cn/index.xml,2022-08-24,1661333268.0
-Docker 限制 CPU 内存使用,杜老师说,https://dusays.com/497/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-24,1661299200.0
-熬 夜,瓦解的生活记事,https://hin.cool/posts/aoye.html,https://hin.cool/,https://hin.cool/atom.xml,2022-08-21,1661050800.0
-去不图床容量兑换,杜老师说,https://dusays.com/496/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-21,1661040000.0
-volantis主题自定义-暗黑模式动画(2022新版),DearXuan的主页,https://blog.dearxuan.com/2022/08/18/volantis%E4%B8%BB%E9%A2%98%E8%87%AA%E5%AE%9A%E4%B9%89-%E6%9A%97%E9%BB%91%E6%A8%A1%E5%BC%8F%E5%8A%A8%E7%94%BB-2022%E6%96%B0%E7%89%88/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-08-18,1660813200.0
-通过 Docker 自建 Lsky Pro 图片审核接口,杜老师说,https://dusays.com/495/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-18,1660780800.0
-爱国的尺度——Coser穿和服被带走,瓦解的生活记事,https://hin.cool/posts/aiguochidu.html,https://hin.cool/,https://hin.cool/atom.xml,2022-08-15,1660606380.0
-中文博客列表导航项目,杜老师说,https://dusays.com/494/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-15,1660521600.0
-初柒科技致力于设计与开发,杜老师说,https://dusays.com/493/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-12,1660262400.0
-图床转换工具推荐,杜老师说,https://dusays.com/492/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-09,1660003200.0
-变限积分的导数,DearXuan的主页,https://blog.dearxuan.com/2022/08/08/%E5%8F%98%E9%99%90%E7%A7%AF%E5%88%86%E7%9A%84%E5%AF%BC%E6%95%B0/,https://blog.dearxuan.com/,https://blog.dearxuan.com/atom.xml,2022-08-08,1659959640.0
-分布式数据库的一致性问题与共识算法,This Cute World,https://thiscute.world/posts/consistency-and-consensus-algorithm/?utm_source=atom_feed,https://thiscute.world/,https://thiscute.world/index.xml,2022-08-06,1659816683.0
-Python小概念,Barney's Blog,https://hugo.bnblogs.cc/python%E5%B0%8F%E6%A6%82%E5%BF%B5/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-08-06,1659792975.0
-推荐一个 WordPress 付费主题站,杜老师说,https://dusays.com/491/,https://dusays.com/,https://dusays.com/atom.xml,2022-08-06,1659744000.0
-Django删除表重建,cywhat's blog,https://cywhat.cn/Django%E5%88%A0%E9%99%A4%E8%A1%A8%E9%87%8D%E5%BB%BA/,https://cywhat.cn/,https://cywhat.cn/index.xml,2022-08-05,1659670743.0
-测试页面,Barney's Blog,https://hugo.bnblogs.cc/%E6%B5%8B%E8%AF%95%E9%A1%B5%E9%9D%A2/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-08-04,1659603456.0
-Hugo主题推荐,Barney's Blog,https://hugo.bnblogs.cc/hugo%E4%B8%BB%E9%A2%98%E6%8E%A8%E8%8D%90/,https://hugo.bnblogs.cc/,https://hugo.bnblogs.cc/index.xml,2022-08-04,1659595705.0
+【推荐】Hexo博客配置及源文件备份,qinxs小站,https://7bxing.com/posts/659688f7/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-19,1600519111.0
+「硬核JS」一次搞懂JS运行机制,qinxs小站,https://7bxing.com/posts/9c28944f/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-09-08,1599574555.0
+Hugo系列(1) - 简单搭建教程与远程部署,雨临Lewis,https://lewky.cn/posts/hugo-1.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-09-06,1599397847.0
+2016美国总统候选人辩论,qinxs小站,https://7bxing.com/posts/52bf0210/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-08-27,1598503361.0
+短网址生成,qinxs小站,https://7bxing.com/posts/991130e/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-07-12,1594532801.0
+VIDAA3/4系统工厂模式,qinxs小站,https://7bxing.com/posts/be2c6b79/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-07-05,1593957961.0
+Shell猜数字游戏,qinxs小站,https://7bxing.com/posts/3713cf69/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-06-06,1591449141.0
+Base64 编码并不唯一,This Cute World,https://thiscute.world/posts/base64-encoding-is-not-unique/,https://thiscute.world/,https://thiscute.world/index.xml,2020-05-30,1590855180.0
+使用 tcpdump 和 Wireshark 进行远程实时抓包分析,This Cute World,https://thiscute.world/posts/tcpdump-and-wireshark/,https://thiscute.world/,https://thiscute.world/index.xml,2020-05-28,1590654026.0
+Git学习,qinxs小站,https://7bxing.com/posts/e28ceec1/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605502.0
+hello world,qinxs小站,https://7bxing.com/posts/d4a1185/,https://7bxing.com/,https://7bxing.com/atom.xml,2020-05-16,1589605202.0
+使用 Istio 进行 JWT 身份验证（充当 API 网关）,This Cute World,https://thiscute.world/posts/use-istio-for-jwt-auth/,https://thiscute.world/,https://thiscute.world/index.xml,2020-04-06,1586180906.0
+Linux网络学习笔记（二）：域名解析(DNS)——以 CoreDNS 为例,This Cute World,https://thiscute.world/posts/about-dns-protocol/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-29,1585468163.0
+Java的远程调试Remote Debug,雨临Lewis,https://lewky.cn/posts/java-remote-debug.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-03-17,1584459040.0
+JWT 签名算法 HS256、RS256 及 ES256 及密钥生成,This Cute World,https://thiscute.world/posts/jwt-algorithm-key-generation/,https://thiscute.world/,https://thiscute.world/index.xml,2020-03-03,1583215786.0
+2019 年年终总结,This Cute World,https://thiscute.world/posts/2019-summary/,https://thiscute.world/,https://thiscute.world/index.xml,2020-01-31,1580469540.0
+Eclipse - 快捷键篇,雨临Lewis,https://lewky.cn/posts/eclipse-hotkey.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-01-18,1579359889.0
+JDK自带的那些好用的工具,雨临Lewis,https://lewky.cn/posts/jdk-tools.html/,https://lewky.cn/,https://lewky.cn/index.xml,2020-01-03,1578034779.0
+Kubernetes 常见错误、原因及处理方法,This Cute World,https://thiscute.world/posts/kubernetes-common-errors-and-solutions/,https://thiscute.world/,https://thiscute.world/index.xml,2019-11-24,1574594814.0
+PostgreSQL - 如何杀死被锁死的进程,雨临Lewis,https://lewky.cn/posts/1514292e.html/,https://lewky.cn/,https://lewky.cn/index.xml,2019-11-14,1573745069.0
+Manjaro 使用指南,This Cute World,https://thiscute.world/posts/manjaro-instruction/,https://thiscute.world/,https://thiscute.world/index.xml,2019-07-13,1563021504.0
+逃离我的大学,This Cute World,https://thiscute.world/posts/escape-my-university/,https://thiscute.world/,https://thiscute.world/index.xml,2019-06-20,1561041151.0
