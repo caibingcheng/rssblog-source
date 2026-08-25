@@ -10,6 +10,11 @@ from datetime import datetime, timezone
 import feedparser
 import pandas
 
+sys.path.insert(
+    0,
+    os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),
+)
+
 from fetch_utils import fetch_url
 
 FEEDS_CSV = "./public/feeds.csv"
