@@ -11,6 +11,34 @@ from concurrent.futures import ThreadPoolExecutor
 from io import BytesIO
 
 
+BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/atom+xml, application/rss+xml, application/xml, text/xml, */*",
+    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+}
+
+
+def fetch_url(url, timeout=10.0, retries=3, backoff=(2, 4)):
+    """带浏览器伪装与重试的 GET 请求；重试耗尽后抛出最后一次异常"""
+    last_err = None
+    for attempt in range(1, retries + 1):
+        try:
+            resp = requests.get(url, timeout=timeout, headers=BROWSER_HEADERS)
+            if resp.status_code >= 500:
+                raise requests.HTTPError(
+                    f"{resp.status_code} Server Error: {resp.reason} for url: {resp.url}"
+                )
+            return resp
+        except requests.exceptions.RequestException as e:
+            last_err = e
+            if attempt < retries:
+                time.sleep(backoff[min(attempt, len(backoff)) - 1])
+    raise last_err
+
+
 def hash_url(url):
     md5 = hashlib.md5()
     md5.update(url.encode("utf-8"))
