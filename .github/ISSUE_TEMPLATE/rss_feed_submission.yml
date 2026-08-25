@@ -1,7 +1,6 @@
 name: RSS Feed Source Submission
 description: 提交或更新 RSS 订阅源（仅仓库所有者可使用）
 title: RSS Feed Source Submission
-labels: ["dev"]
 body:
   - type: markdown
     attributes:
@@ -21,7 +20,7 @@ body:
         注意：
         - 只有仓库所有者提交的 issue 才会被处理
         - 其他人提交的 issue 会被关闭并标记为 `invalid`
-        - 默认 label 为 `dev`，正式提交请移除 `dev` label
+        - 默认提交到正式环境（public）；如需进入 dev 测试环境，请手动添加 `dev` label
   - type: textarea
     id: urls
     attributes:
