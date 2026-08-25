@@ -9,7 +9,8 @@ from datetime import datetime, timezone
 
 import feedparser
 import pandas
-import requests
+
+from fetch_utils import fetch_url
 
 FEEDS_CSV = "./public/feeds.csv"
 REPLACED_BY_PATTERN = re.compile(r"^\s*(\S+)\s+replaced\s+by\s+(\S+)\s*$", re.IGNORECASE)
@@ -90,16 +91,15 @@ def parse_issue_body(body):
     return plain_urls, replaced_by
 
 
-def validate_feed(url, timeout=20):
+def validate_feed(url, timeout=20, retries=3):
     """验证 URL 是否为有效 RSS/Atom feed"""
     try:
-        response = requests.get(url, timeout=timeout, headers={
-            "User-Agent": "Mozilla/5.0 (RSSBlog Source Validator)"
-        })
+        response = fetch_url(url, timeout=timeout, retries=retries)
         response.raise_for_status()
         parsed = feedparser.parse(response.content)
     except Exception as e:
-        return False, str(e), None, None
+        suffix = f" (after {retries} attempts)" if retries > 1 else ""
+        return False, f"{e}{suffix}", None, None
 
     if parsed.bozo and not parsed.entries:
         return False, f"parse error: {parsed.bozo_exception}", None, None
