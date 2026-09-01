@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+Wordpress 的实用插件与主题推荐,云游君的小站,https://www.yunyoujun.cn/posts/wordpress-plugins-themes,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-08-04,1501844186.0,,
 Golang Map 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_27-golang_map.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-27,1501113600.0,,
 MySQL 零碎知识 - MySQL必知必会,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_07_26-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-07-26,1501027200.0,,
 【定格动画】交换/EXchange,云游君的小站,https://www.yunyoujun.cn/posts/stop-motion-animation-exchange,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-07-24,1500919474.0,,
@@ -29,7 +30,7 @@ GFS 论文阅读,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_03_
 Go语言的defer， panic和recover,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_02_15-go_defer_panic_and_recover.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-02-15,1487116800.0,,
 仓鼠,云游君的小站,https://www.yunyoujun.cn/posts/hamster,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-11,1486854610.0,,
 回声,云游君的小站,https://www.yunyoujun.cn/posts/echo,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-02-04,1486224551.0,,
-再读vim help：vim小技巧,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_24-vim_manual.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0,,
+再读 Python Language Reference,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_24-python_language_reference.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-24,1485216000.0,,
 【分享】网页背景效果插件 Canvas-Nest.js,云游君的小站,https://www.yunyoujun.cn/posts/html5-canvas-nest-js,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-01-23,1485205488.0,,
 关于部落冲突的二三事儿-1,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-1,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2017-01-22,1485104132.0,,
 设计模式（2）- 深入浅出设计模式 阅读笔记,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_01_22-head_first_design_patterns_2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-01-22,1485043200.0,,
@@ -48,4 +49,3 @@ Mock源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles
 Thinking in Python,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_16-thinking_in_python.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-16,1481846400.0,,
 我的代码进CPython标准库啦,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_15-my_code_in_python_stdlib.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-15,1481760000.0,,
 Python零碎小知识,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_09-python_fragments.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-09,1481241600.0,,
-Python和单元测试,Jiajun的技术笔记,https://jiajunhuang.com/articles/2016_12_07-python_unittest.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2016-12-07,1481068800.0,,
