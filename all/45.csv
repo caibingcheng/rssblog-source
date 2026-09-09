@@ -1,4 +1,8 @@
 title,author,link,home,rss,date,timestamp,test,tags
+致简写作神器 —— Markdown,游钓四方,https://blog.lhasa.icu/posts/technology/2018-09-03-markdown/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2018-09-03,1535949840.0,,
+致简写作神器 —— Markdown,游钓四方,https://blog.lhasa.icu/posts/technology/2018-09-03-markdown,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-09-03,1535949840.0,,
+Go Module 简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_03-go_module.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-03,1535932800.0,,
+写了一个Telegram Bot：自动化分享高质量内容,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_02-write_a_tgbot.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-02,1535846400.0,,
 Vim打开很慢，怎么找出最慢的插件？怎么解决？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_09_01-vim_speed_up.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-09-01,1535760000.0,,
 (转)如何学习开源项目,游钓四方,https://blog.lhasa.icu/posts/technology/2018-08-31-learning-the-open-source/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2018-08-31,1535693280.0,,
 (转)如何学习开源项目,游钓四方,https://blog.lhasa.icu/posts/technology/2018-08-31-learning-the-open-source,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-08-31,1535693280.0,,
@@ -45,7 +49,3 @@ Vue 中 canvas 的自适应,云游君的小站,https://www.yunyoujun.cn/posts/re
 大家一起吃火锅吧,云游君的小站,https://www.yunyoujun.cn/posts/eat-hot-pot-together,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-03-25,1521966671.0,,
 Prometheus 数据类型,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_19-prometheus.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-19,1521417600.0,,
 关于部落冲突的二三事儿-2,云游君的小站,https://www.yunyoujun.cn/posts/a-story-about-coc-2,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2018-03-16,1521212960.0,,
-Gin源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_16-gin_source_code.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-16,1521158400.0,,
-如何面试-作为面试官得到的经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_10-interview.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-10,1520640000.0,,
-自己写一个容器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_09-write_you_a_container.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-09,1520553600.0,,
-Golang(Go语言)中实现典型的fork调用,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_03_08-golang_fork.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-03-08,1520467200.0,,
