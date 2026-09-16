@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+Golang中实现禁止拷贝,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_12-golang_nocopy.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-12,1541980800.0,,
 人生如戏，全靠演技 -- 《日常生活中的自我呈现》读后感,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_11-the_presentation_of_self_in_everyday_life.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-11,1541894400.0,,
 Golang的反射,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_10-golang_reflection.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-10,1541808000.0,,
 把网站去掉CSS之后,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_11_09-drop_css.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-11-09,1541721600.0,,
@@ -13,8 +14,8 @@ Golang 实践经验,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_
 (转)论胡编乱造的写作技巧,游钓四方,https://blog.lhasa.icu/posts/life/2018-10-24-theory-of-means/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2018-10-24,1540356240.0,,
 (转)论胡编乱造的写作技巧,游钓四方,https://blog.lhasa.icu/posts/life/2018-10-24-theory-of-means,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-10-24,1540356240.0,,
 高性能MySQL笔记第一章,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_23-high_performance_mysql_chap1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-23,1540252800.0,,
-更换了域名、邮箱并修复了移动端 Bug,游钓四方,https://blog.lhasa.icu/posts/technology/2018-10-21-domain-name,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-10-21,1540107840.0,,
 更换了域名、邮箱并修复了移动端 Bug,游钓四方,https://blog.lhasa.icu/posts/technology/2018-10-21-domain-name/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2018-10-21,1540107840.0,,
+更换了域名、邮箱并修复了移动端 Bug,游钓四方,https://blog.lhasa.icu/posts/technology/2018-10-21-domain-name,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2018-10-21,1540107840.0,,
 面试的一些技巧,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_21-interview_techniques.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-21,1540080000.0,,
 HTTP/2 简介,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_10_13-http2.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-10-13,1539388800.0,,
 我在学校学到的东西,Randy's Blog,https://lutaonan.com/blog/things-i-learnt-at-school,https://lutaonan.com,https://lutaonan.com/rss.xml,2018-10-04,1538611200.0,,
@@ -48,4 +49,3 @@ How to implement fork syscall in Golang?,Jiajun的技术笔记,https://jiajunhua
 关于运营的思考-运营要怎么做？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_26-about_traffic.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-26,1535241600.0,,
 Python中实现单例模式的n种方式和原理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_24-python_singleton.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-24,1535068800.0,,
 Golang defer中修改返回值,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_23-go_defer_named_return_values.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-23,1534982400.0,,
-Python dataclass 源码阅读与分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_08_12-python_dataclasses.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-08-12,1534032000.0,,
