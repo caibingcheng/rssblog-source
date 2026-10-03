@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+我设计的第一个桌游,萤火之森,http://frankorz.com/2018/04/13/first-board-game,http://frankorz.com,https://frankorz.com/atom.xml,2018-04-13,1523630707.0,,
 容器时代的日志处理,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_12-docker_logging.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-12,1523491200.0,,
 Golang和Thrift,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_10-golang_thrift.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-10,1523318400.0,,
 折腾Kubernetes,Jiajun的技术笔记,https://jiajunhuang.com/articles/2018_04_05-kubernetes.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2018-04-05,1522886400.0,,
@@ -48,4 +49,3 @@ Web开发系列(五)：form， json， xml,Jiajun的技术笔记,https://jiajunh
 Web开发系列(四)：Flask， Tornado和WSGI,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_16-web_dev_part4.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-16,1508112000.0,,
 Discourse 新一代开源论坛,云游君的小站,https://www.yunyoujun.cn/posts/discourse-forum,https://www.yunyoujun.cn/,https://www.yunyoujun.cn/atom.xml,2017-10-15,1508089086.0,,
 Web开发系列(三)：什么是HTML，CSS，JS？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2017_10_15-web_dev_part3.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2017-10-15,1508025600.0,,
-佐渡與阿賀町記,Just lepture,https://lepture.com/zh/2017/sado-and-ago,https://lepture.com/,https://lepture.com/feed.xml,2017-10-14,1507984443.0,,
