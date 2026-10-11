@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+为什么我要用Linux作为桌面？,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_11-why_linux_as_desktop.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-11,1573430400.0,,
 disqus获取评论时忽略query string,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_08-disqus_thread_identifier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-08,1573171200.0,,
 MySQL性能优化指南,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_11_06-mysql.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-11-06,1572998400.0,,
 【译】30 分钟学会 LaTeX,云游君的小站,https://www.yunyoujun.cn/posts/trans-learn-latex-in-30-minutes,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2019-11-05,1572970176.0,,
@@ -21,8 +22,8 @@ Linux托管Windows虚拟机最佳实践,Jiajun的技术笔记,https://jiajunhuan
 MySQL指定使用索引(使用索引提示),Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_25-mysql_use_index.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-25,1569369600.0,,
 搭建samba服务器,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_23-samba.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-23,1569196800.0,,
 回顾了一些读者来信,Randy's Blog,https://lutaonan.com/blog/letters-from-reader,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-21,1569024000.0,,
-在 CentOS 下实现 MySQL 数据库定时自动备份,游钓四方,https://blog.lhasa.icu/posts/technology/2019-09-19-automatic-database-backup,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-09-19,1568889840.0,,
 在 CentOS 下实现 MySQL 数据库定时自动备份,游钓四方,https://blog.lhasa.icu/posts/technology/2019-09-19-automatic-database-backup/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2019-09-19,1568889840.0,,
+在 CentOS 下实现 MySQL 数据库定时自动备份,游钓四方,https://blog.lhasa.icu/posts/technology/2019-09-19-automatic-database-backup,https://blog.lhasa.icu,https://lhasa.icu/rss.xml,2019-09-19,1568889840.0,,
 ssh时自动运行tmux,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_18-run_tmux_automatically.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-18,1568764800.0,,
 爱情是愿意为你放弃寻新鲜,Randy's Blog,https://lutaonan.com/blog/newness,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-09-16,1568592000.0,,
 ufw简明教程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_09_14-ufw.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-09-14,1568419200.0,,
@@ -48,4 +49,3 @@ ThinkPHP Save 方法引发的错误,游钓四方,https://blog.lhasa.icu/posts/te
 读《系统之美：决策者的系统思考》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_24-thinking_in_systems_a_primer.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-24,1563926400.0,,
 Linux高分屏支持,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_20-linux_hidpi.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-20,1563580800.0,,
 未来属于声明式编程,Randy's Blog,https://lutaonan.com/blog/declarative-programming-is-the-future,https://lutaonan.com,https://lutaonan.com/rss.xml,2019-07-18,1563408000.0,,
-GCC默认的头文件搜索路径,Jiajun的技术笔记,https://jiajunhuang.com/articles/2019_07_16-gcc_header_path.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2019-07-16,1563235200.0,,

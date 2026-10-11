@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+Loveit主题开启文章赞赏,cywhat's blog,https://cywhat.cn/Loveit%E4%B8%BB%E9%A2%98%E5%BC%80%E5%90%AF%E6%96%87%E7%AB%A0%E8%B5%9E%E8%B5%8F/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-10-21,1634805401.0,,
 Loveit主题的一些美化设置,cywhat's blog,https://cywhat.cn/loveit%E4%B8%BB%E9%A2%98%E7%9A%84%E4%B8%80%E4%BA%9B%E7%BE%8E%E5%8C%96%E8%AE%BE%E7%BD%AE/,https://cywhat.cn/,https://cywhat.cn/index.xml,2021-10-21,1634803725.0,,
 Loveit主题的一些美化设置,cywhat's blog,https://cywhat.cn/loveit%E4%B8%BB%E9%A2%98%E7%9A%84%E4%B8%80%E4%BA%9B%E7%BE%8E%E5%8C%96%E8%AE%BE%E7%BD%AE,https://cywhat.cn,https://cywhat.cn/index.xml,2021-10-21,1634803725.0,,
 再谈辍学,Randy's Blog,https://lutaonan.com/blog/talking-about-dropout-again,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-10-20,1634688000.0,,
@@ -48,4 +49,3 @@ Redis源码阅读：执行命令,Jiajun的技术笔记,https://jiajunhuang.com/a
 Redis源码阅读：启动过程,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_22-redis_source_code_1.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-22,1621641600.0,,
 WAL(Write-ahead logging)的套路,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_05_15-wal.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-05-15,1621036800.0,,
 我给自己设立了每月 $20 的开源捐赠预算,Randy's Blog,https://lutaonan.com/blog/my-oss-donation-budget,https://lutaonan.com,https://lutaonan.com/rss.xml,2021-05-12,1620777600.0,,
-用 Rust 实现简单的光线追踪,萤火之森,http://frankorz.com/2021/05/05/rust-raytrace/,http://frankorz.com/,https://frankorz.com/atom.xml,2021-05-05,1620175710.0,,
