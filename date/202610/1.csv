@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+Kubernetes 跨集群应用部署与负载均衡,框架師,https://www.mobaijun.com/posts/4066970714,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-16,1792120552.0
+"Java 虚拟线程实战与陷阱：别被""百万线程""冲昏头脑",框架師,https://www.mobaijun.com/posts/1453518491,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-16,1792111842.0
+说说广场 API 0.31.0 版的调用代码说明,杜老师说,https://dusays.com/posts/893/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-15,1792080000.0
 Kubernetes 跨云部署方案：从原理到生产实践,框架師,https://www.mobaijun.com/posts/969257157,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-15,1792053715.0
 国庆老家行：朴园、三江营和村里的喷泉,威言威语,https://www.weisay.com/blog/a-national-day-trip-home.html,https://www.weisay.com/blog,https://www.weisay.com/blog/feed,2026-10-15,1792047546.0
 可观测性：日志,框架師,https://www.mobaijun.com/posts/1310467705,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-15,1792045828.0
@@ -10,7 +13,6 @@ Redis 分布式锁方案优化实践,框架師,https://www.mobaijun.com/posts/29
 复活一个iPad ,把酒诗代码,https://102no.com/2026/10/14/fu-huo-yi-ge-ipad/,https://102no.com/,https://102no.com/atom.xml,2026-10-14,1791936000.0
 分布式锁的正确实现：不是加个 Redis 就完事,框架師,https://www.mobaijun.com/posts/3101787100,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-13,1791926133.0
 Spring Cloud Gateway 负载均衡优化：从原理到生产实践,框架師,https://www.mobaijun.com/posts/2470516959,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-13,1791921908.0
-说说广场 API 0.31.0 版的调用代码说明,杜老师说,https://dusays.com/posts/893/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-13,1791907200.0
 Docker 镜像层与构建缓存：从原理到生产实践,框架師,https://www.mobaijun.com/posts/1147816945,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-13,1791893509.0
 Spring Boot 启动耗时优化：从原理到生产实践,框架師,https://www.mobaijun.com/posts/3071186539,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-12,1791839140.0
 高并发下的限流与降级：从原理到生产实践,框架師,https://www.mobaijun.com/posts/913789203,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-12,1791819043.0
@@ -21,7 +23,7 @@ Spring Cloud Gateway 负载均衡优化：从原理到实战,框架師,https://w
 前端构建性能优化：从原理到实战,框架師,https://www.mobaijun.com/posts/580381912,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-11,1791711888.0
 MySQL 索引失效的常见场景：原理、排查与避坑,框架師,https://www.mobaijun.com/posts/4294884405,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-11,1791711869.0
 JVM 内存模型与调优实战,框架師,https://www.mobaijun.com/posts/1694445337,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-11,1791681947.0
-开发 Prosefly,"lepture — Code, words, and everyday life.",https://lepture.com/zh/blog/building-prosefly,https://lepture.com/,https://lepture.com/feed.xml,2026-10-11,1791676800.0
+Building Prosefly,"lepture — Code, words, and everyday life.",https://lepture.com/blog/building-prosefly,https://lepture.com/,https://lepture.com/feed.xml,2026-10-11,1791676800.0
 Redis vs Valkey：性能实测对比 + 无缝迁移指南,杜老师说,https://dusays.com/posts/892/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-10,1791648000.0
 消息队列幂等消费设计：重复消息不是你的 Bug，是系统的常态,框架師,https://www.mobaijun.com/posts/1727557,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-10,1791646196.0
 代码评审中值得坚持的几件事,框架師,https://www.mobaijun.com/posts/3123068033,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-10,1791645041.0
@@ -46,6 +48,4 @@ Pi Agent 1.0 的 MCP 集成源码解析：工具发现、代码编排与提示�
 LLMLens For Typecho V1.0.1,热衷于的博客,https://zooyoo.top/article/69/,https://zooyoo.top/,https://zooyoo.top/rss.xml,2026-10-04,1791119700.0
 TypechoLLMLens：给AI一份摘要,热衷于的博客,https://zooyoo.top/article/68/,https://zooyoo.top/,https://zooyoo.top/feed,2026-10-03,1791041700.0
 2026-09小记,绘星里,https://blog.storia.ren/posts/write-202609/,https://blog.storia.ren/,https://blog.sinzmise.top/atom.xml,2026-10-02,1790954477.0
-GitHubFlag标记解除过程,热衷于的博客,https://zooyoo.top/article/40/,https://zooyoo.top/,https://zooyoo.top/feed,2026-10-02,1790939100.0
-洞察中国“姊妹品牌”,热衷于的博客,https://zooyoo.top/article/66/,https://zooyoo.top/,https://zooyoo.top/feed,2026-10-01,1790835000.0
-白矮星,菲兹克斯喵,https://physnya.top/compact-object/lesson-3-white-dwarf/,https://physnya.top/,https://physnya.top/atom.xml,2026-10-01,1790829790.0
+GitHubFlag标记解除过程,热衷于的博客,https://zooyoo.top/article/40/,https://zooyoo.top/,https://zooyoo.top/rss.xml,2026-10-02,1790939100.0
