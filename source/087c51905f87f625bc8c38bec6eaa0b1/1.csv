@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Spring Boot 服务冷启动优化实战,框架師,https://www.mobaijun.com/posts/3043752144,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-16,1792152937.0
 Kubernetes 跨集群应用部署与负载均衡,框架師,https://www.mobaijun.com/posts/4066970714,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-16,1792120552.0
 "Java 虚拟线程实战与陷阱：别被""百万线程""冲昏头脑",框架師,https://www.mobaijun.com/posts/1453518491,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-16,1792111842.0
 Kubernetes 跨云部署方案：从原理到生产实践,框架師,https://www.mobaijun.com/posts/969257157,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-15,1792053715.0
@@ -48,4 +49,3 @@ MySQL 索引失效：从原理到排查的完整思路,框架師,https://www.mob
 【随笔】Nacos 2.5 版本更新后，配置文件保存报错异常,框架師,https://www.mobaijun.com/posts/2663618628.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-01-24,1737713589.0
 【随笔】个体户、工商户营业执照年检（年报）网上申报流程！,框架師,https://www.mobaijun.com/posts/3756521241.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-01-13,1736764802.0
 【后端】使用 GitHub Action 自动推送 Docker 镜像,框架師,https://www.mobaijun.com/posts/2922523315.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-11-13,1731492452.0
-【随笔】解决 hexo matery 主题卜算子统计失效异常,框架師,https://www.mobaijun.com/posts/2629378943.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-11-11,1731322978.0
