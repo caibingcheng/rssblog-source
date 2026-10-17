@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Kafka 生产者并发策略选型,框架師,https://www.mobaijun.com/posts/3038693126,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792235745.0
 TypeScript 项目构建与优化：从配置到排查的实战笔记,框架師,https://www.mobaijun.com/posts/3098125587,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792224356.0
 Kubernetes 服务发现与负载均衡实践,框架師,https://www.mobaijun.com/posts/2172565866,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-16,1792189539.0
 说说广场 API 0.31.0 版的调用代码说明,杜老师说,https://dusays.com/posts/893/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-16,1792166400.0
@@ -27,7 +28,7 @@ Spring Cloud Gateway 负载均衡优化：从原理到实战,框架師,https://w
 前端构建性能优化：从原理到实战,框架師,https://www.mobaijun.com/posts/580381912,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-11,1791711888.0
 MySQL 索引失效的常见场景：原理、排查与避坑,框架師,https://www.mobaijun.com/posts/4294884405,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-11,1791711869.0
 JVM 内存模型与调优实战,框架師,https://www.mobaijun.com/posts/1694445337,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-11,1791681947.0
-开发 Prosefly,"lepture — Code, words, and everyday life.",https://lepture.com/zh/blog/building-prosefly,https://lepture.com/,https://lepture.com/feed.xml,2026-10-11,1791676800.0
+Building Prosefly,"lepture — Code, words, and everyday life.",https://lepture.com/blog/building-prosefly,https://lepture.com/,https://lepture.com/feed.xml,2026-10-11,1791676800.0
 Redis vs Valkey：性能实测对比 + 无缝迁移指南,杜老师说,https://dusays.com/posts/892/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-10,1791648000.0
 消息队列幂等消费设计：重复消息不是你的 Bug，是系统的常态,框架師,https://www.mobaijun.com/posts/1727557,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-10,1791646196.0
 代码评审中值得坚持的几件事,框架師,https://www.mobaijun.com/posts/3123068033,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-10,1791645041.0
@@ -48,4 +49,3 @@ MySQL 索引失效：从原理到排查的完整思路,框架師,https://www.mob
 读 《明朝那些事儿》,Jiajun的技术笔记,https://jiajunhuang.com/articles/2026_10_05-mingchaonaxieshier.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2026-10-05,1791158400.0
 论坛 SEO 实战：从零散帖子到权重跃升的 5 个动作,杜老师说,https://dusays.com/posts/891/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-04,1791129600.0
 当Agent替你安装黑客后门,热衷于的博客,https://zooyoo.top/article/70/,https://zooyoo.top/,https://zooyoo.top/feed,2026-10-04,1791126300.0
-Pi Agent 1.0 的 MCP 集成源码解析：工具发现、代码编排与提示词压缩,Nicksxs's Blog,https://nicksxs.me/2026/10/04/Pi-Agent-1-0-MCP%E9%9B%86%E6%88%90%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-%E5%B7%A5%E5%85%B7%E5%8F%91%E7%8E%B0%E4%B8%8E%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%8E%8B%E7%BC%A9/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-10-04,1791124200.0
