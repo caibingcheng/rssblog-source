@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp,test,tags
+Python Queue源码分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_20-python_queue.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-20,1616198400.0,,
+集群管理系统 Mesos 的设计原理 · NSDI '11,面向信仰编程,https://draven.co//papers-mesos,https://draven.co/,https://draveness.me/feed.xml,2021-03-19,1616112000.0,,
 Go里优雅的使用全局配置,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_18-go_config.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-18,1616025600.0,,
 Golang sync.Map源码分析,Jiajun的技术笔记,https://jiajunhuang.com/articles/2021_03_15-go_sync_map.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2021-03-15,1615766400.0,,
 char-dust 一个图片转字符画的 npm 包与示例站点,云游君的小站,https://www.yunyoujun.cn/posts/why-make-char-dust,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2021-03-14,1615690306.0,,
@@ -47,5 +49,3 @@ Java collection的结构,Jiajun的技术笔记,https://jiajunhuang.com/articles/
 ✳️ Vi/Vim使用备忘,qinxs小站,https://7bxing.com/posts/b04c6f46,https://7bxing.com,https://7bxing.com/atom.xml,2020-10-23,1603435073.0,,
 写写高斯模糊——从 CSS 模糊滤镜的白边说起,云游君的小站,https://www.yunyoujun.cn/posts/gaussian-blur-for-image,https://www.yunyoujun.cn,https://www.yunyoujun.cn/atom.xml,2020-10-22,1603404285.0,,
 从GORM里学习到的panic处理方式,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_19-gorm_paniced.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-19,1603065600.0,,
-Go使用闭包简化数据库操作代码,Jiajun的技术笔记,https://jiajunhuang.com/articles/2020_10_17-golang_db_transaction.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2020-10-17,1602892800.0,,
-Manjaro Linux 双显卡切换解决方案,游钓四方,https://blog.lhasa.icu/posts/technology/2020-10-15-manjaro-dual-graphics/,https://blog.lhasa.icu/,https://lhasa.icu/rss.xml,2020-10-15,1602751260.0,,

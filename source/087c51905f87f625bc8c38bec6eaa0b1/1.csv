@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp
+TypeScript 项目构建与优化：从配置到排查的实战笔记,框架師,https://www.mobaijun.com/posts/3098125587,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792224356.0
+Kubernetes 服务发现与负载均衡实践,框架師,https://www.mobaijun.com/posts/2172565866,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-16,1792189539.0
 Spring Boot 服务冷启动优化实战,框架師,https://www.mobaijun.com/posts/3043752144,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-16,1792152937.0
 Kubernetes 跨集群应用部署与负载均衡,框架師,https://www.mobaijun.com/posts/4066970714,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-16,1792120552.0
 "Java 虚拟线程实战与陷阱：别被""百万线程""冲昏头脑",框架師,https://www.mobaijun.com/posts/1453518491,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-16,1792111842.0
@@ -47,5 +49,3 @@ MySQL 索引失效：从原理到排查的完整思路,框架師,https://www.mob
 【随笔】MySQL 索引测试和性能优化指南,框架師,https://www.mobaijun.com/posts/2529608396.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-02-19,1739972409.0
 【随笔】《全国车牌与地区数据表设计分享：从车牌前缀到行政地区全覆盖》,框架師,https://www.mobaijun.com/posts/931615592.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-02-05,1738777080.0
 【随笔】Nacos 2.5 版本更新后，配置文件保存报错异常,框架師,https://www.mobaijun.com/posts/2663618628.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-01-24,1737713589.0
-【随笔】个体户、工商户营业执照年检（年报）网上申报流程！,框架師,https://www.mobaijun.com/posts/3756521241.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-01-13,1736764802.0
-【后端】使用 GitHub Action 自动推送 Docker 镜像,框架師,https://www.mobaijun.com/posts/2922523315.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2024-11-13,1731492452.0
