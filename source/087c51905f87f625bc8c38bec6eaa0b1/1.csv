@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+JVM 热点代码优化与日志分析实战,框架師,https://www.mobaijun.com/posts/3294204260,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792262738.0
 Kafka 生产者并发策略选型,框架師,https://www.mobaijun.com/posts/3038693126,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792235745.0
 TypeScript 项目构建与优化：从配置到排查的实战笔记,框架師,https://www.mobaijun.com/posts/3098125587,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792224356.0
 Kubernetes 服务发现与负载均衡实践,框架師,https://www.mobaijun.com/posts/2172565866,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-16,1792189539.0
@@ -48,4 +49,3 @@ MySQL 索引失效：从原理到排查的完整思路,框架師,https://www.mob
 【随笔】 如何使用 NVM 管理 Node 版本,框架師,https://www.mobaijun.com/posts/3939706828.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-02-20,1740059706.0
 【随笔】使用 jpackage 打包 Java 应用程序,框架師,https://www.mobaijun.com/posts/3273158412.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-02-20,1740047550.0
 【随笔】MySQL 索引测试和性能优化指南,框架師,https://www.mobaijun.com/posts/2529608396.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-02-19,1739972409.0
-【随笔】《全国车牌与地区数据表设计分享：从车牌前缀到行政地区全覆盖》,框架師,https://www.mobaijun.com/posts/931615592.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-02-05,1738777080.0
