@@ -1,8 +1,9 @@
 title,author,link,home,rss,date,timestamp,test,tags
+Spring Boot 模块化设计实践,框架師,https://www.mobaijun.com/posts/440725703,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-19,1792381559.0,,
 TypeScript 项目结构与代码组织：从混乱到清晰的实战指南,框架師,https://www.mobaijun.com/posts/124605866,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792296367.0,,
 链路追踪：从原理到落地的实战笔记,框架師,https://www.mobaijun.com/posts/2813847268,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792284063.0,,
 JVM 热点代码优化与日志分析实战,框架師,https://www.mobaijun.com/posts/3294204260,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792262738.0,,
-课前分享演讲准备小记,热衷于的博客,https://zooyoo.top/article/71/,https://zooyoo.top/,https://zooyoo.top/rss.xml,2026-10-17,1792260300.0,,
+课前分享演讲准备小记,热衷于的博客,https://zooyoo.top/article/71/,https://zooyoo.top/,https://zooyoo.top/feed,2026-10-17,1792260300.0,,
 2026 年 10 月出海服务存活清单：哪些停了、哪些还能用、哪些别碰,希希出海,https://xixichuhai.com/service-status-202610/,https://xixichuhai.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-17,1792258633.0,,
 Wise 注册教程（2026）：中国身份证能开吗？大陆新用户美元账户的新限制,希希出海,https://xixichuhai.com/wise-register/,https://xixichuhai.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-17,1792258629.0,,
 Claude 注册与 Pro 订阅指南（2026）：支持地区、身份验证、Pro 和 Max 怎么选,希希出海,https://xixichuhai.com/claude-register-pro/,https://xixichuhai.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-17,1792258626.0,,
@@ -48,4 +49,3 @@ Building Prosefly,"lepture — Code, words, and everyday life.",https://lepture.
 Redis vs Valkey：性能实测对比 + 无缝迁移指南,杜老师说,https://dusays.com/posts/892/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-10,1791648000.0,,
 消息队列幂等消费设计：重复消息不是你的 Bug，是系统的常态,框架師,https://www.mobaijun.com/posts/1727557,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-10,1791646196.0,,
 代码评审中值得坚持的几件事,框架師,https://www.mobaijun.com/posts/3123068033,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-10,1791645041.0,,
-十月近况,瓦解的生活记事,https://hin.cool/posts/busyoct.html,https://hin.cool/,https://hin.cool/atom.xml,2026-10-10,1791640800.0,,

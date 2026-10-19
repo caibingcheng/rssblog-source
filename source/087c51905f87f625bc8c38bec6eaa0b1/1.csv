@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Spring Boot 模块化设计实践,框架師,https://www.mobaijun.com/posts/440725703,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-19,1792381559.0
 TypeScript 项目结构与代码组织：从混乱到清晰的实战指南,框架師,https://www.mobaijun.com/posts/124605866,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792296367.0
 链路追踪：从原理到落地的实战笔记,框架師,https://www.mobaijun.com/posts/2813847268,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792284063.0
 JVM 热点代码优化与日志分析实战,框架師,https://www.mobaijun.com/posts/3294204260,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792262738.0
@@ -48,4 +49,3 @@ MySQL 索引失效：从原理到排查的完整思路,框架師,https://www.mob
 【随笔】Windows Server 2012 安装 SqlServer 踩坑记录,框架師,https://www.mobaijun.com/posts/3825546266.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-03-28,1743157035.0
 【随笔】如何将任意 Java 程序转换为 Linux 系统服务,框架師,https://www.mobaijun.com/posts/761234883.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-03-05,1741193563.0
 【后端】告别繁琐排序！Java Stream API 一站式解决方案,框架師,https://www.mobaijun.com/posts/2973796368.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-02-27,1740651221.0
-【随笔】 如何使用 NVM 管理 Node 版本,框架師,https://www.mobaijun.com/posts/3939706828.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-02-20,1740059706.0
