@@ -1,4 +1,6 @@
 title,author,link,home,rss,date,timestamp,test,tags
+Spring Cloud Gateway 实战：流量分配与雪崩问题排查,框架師,https://www.mobaijun.com/posts/3757840775,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-21,1792611344.0,,
+Kafka 生产者与消费者性能优化：从原理到生产实践,框架師,https://www.mobaijun.com/posts/2300789056,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-21,1792596364.0,,
 Spring Cloud Netflix 时代的 Ribbon：实现机制与常见误区,框架師,https://www.mobaijun.com/posts/214218731,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-21,1792590383.0,,
 42. AI 视频剪辑实战：用 Claude Opus 5.5 剪口播长视频，完整工作流教程,翔宇工作流,https://xiangyugongzuoliu.com/42-ai-video-editing-skill/,https://xiangyugongzuoliu.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-21,1792569900.0,,
 分布式事务一致性方案实战：从理论到落地的取舍与陷阱,框架師,https://www.mobaijun.com/posts/984076565,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-20,1792535442.0,,
@@ -7,6 +9,7 @@ Docker 服务发现与负载均衡：从原理到实践的完整指南,框架師
 Docker Compose 网络通信问题：从配置到排查的完整指南,框架師,https://www.mobaijun.com/posts/3312724917,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-20,1792462266.0,,
 Docker 网络优化与容器间通信问题排查,框架師,https://www.mobaijun.com/posts/4283108358,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-20,1792456242.0,,
 如何写一个 Agent,Jiajun的技术笔记,https://jiajunhuang.com/articles/2026_10_20-how_to_build_an_agent.md.html,https://jiajunhuang.com,https://jiajunhuang.com/rss,2026-10-20,1792454400.0,,
+广义相对论的观测效应,菲兹克斯喵,https://physnya.top/compact-object/lesson-5-general-relativity-effect/,https://physnya.top/,https://physnya.top/atom.xml,2026-10-19,1792429604.0,,
 Redis 集群方案优化实践,框架師,https://www.mobaijun.com/posts/3348890028,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-19,1792413368.0,,
 恒星结构,菲兹克斯喵,https://physnya.top/astro-physics/lesson-4-star-structure/,https://physnya.top/,https://physnya.top/atom.xml,2026-10-19,1792404100.0,,
 TypeScript 类型体操的实用边界：从炫技到工程化,框架師,https://www.mobaijun.com/posts/155124617,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-19,1792390245.0,,
@@ -46,6 +49,3 @@ Redis 分布式锁方案优化实践,框架師,https://www.mobaijun.com/posts/29
 复活一个iPad ,把酒诗代码,https://102no.com/2026/10/14/fu-huo-yi-ge-ipad/,https://102no.com/,https://102no.com/atom.xml,2026-10-14,1791936000.0,,
 分布式锁的正确实现：不是加个 Redis 就完事,框架師,https://www.mobaijun.com/posts/3101787100,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-13,1791926133.0,,
 Spring Cloud Gateway 负载均衡优化：从原理到生产实践,框架師,https://www.mobaijun.com/posts/2470516959,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-13,1791921908.0,,
-Docker 镜像层与构建缓存：从原理到生产实践,框架師,https://www.mobaijun.com/posts/1147816945,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-13,1791893509.0,,
-Spring Boot 启动耗时优化：从原理到生产实践,框架師,https://www.mobaijun.com/posts/3071186539,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-12,1791839140.0,,
-高并发下的限流与降级：从原理到生产实践,框架師,https://www.mobaijun.com/posts/913789203,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-12,1791819043.0,,
