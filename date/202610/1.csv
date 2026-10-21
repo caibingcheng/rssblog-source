@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Spring Cloud Netflix 时代的 Ribbon：实现机制与常见误区,框架師,https://www.mobaijun.com/posts/214218731,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-21,1792590383.0
 42. AI 视频剪辑实战：用 Claude Opus 5.5 剪口播长视频，完整工作流教程,翔宇工作流,https://xiangyugongzuoliu.com/42-ai-video-editing-skill/,https://xiangyugongzuoliu.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-21,1792569900.0
 分布式事务一致性方案实战：从理论到落地的取舍与陷阱,框架師,https://www.mobaijun.com/posts/984076565,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-20,1792535442.0
 佳能 Powershot SX220 HS / SX230 HS 更换电池盖胶皮,无名博客,https://wuminboke.site/uncategorized/canon-powershot-sx220-hs-sx230-hs-battery-door-rubber-replacement/,https://wuminboke.site,https://wuminboke.site/feed,2026-10-20,1792498352.0
@@ -13,7 +14,7 @@ Spring Boot 模块化设计实践,框架師,https://www.mobaijun.com/posts/44072
 TypeScript 项目结构与代码组织：从混乱到清晰的实战指南,框架師,https://www.mobaijun.com/posts/124605866,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792296367.0
 链路追踪：从原理到落地的实战笔记,框架師,https://www.mobaijun.com/posts/2813847268,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792284063.0
 JVM 热点代码优化与日志分析实战,框架師,https://www.mobaijun.com/posts/3294204260,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792262738.0
-课前分享演讲准备小记,热衷于的博客,https://zooyoo.top/article/71/,https://zooyoo.top/,https://zooyoo.top/feed,2026-10-17,1792260300.0
+课前分享演讲准备小记,热衷于的博客,https://zooyoo.top/article/71/,https://zooyoo.top/,https://zooyoo.top/rss.xml,2026-10-17,1792260300.0
 2026 年 10 月出海服务存活清单：哪些停了、哪些还能用、哪些别碰,希希出海,https://xixichuhai.com/service-status-202610/,https://xixichuhai.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-17,1792258633.0
 Wise 注册教程（2026）：中国身份证能开吗？大陆新用户美元账户的新限制,希希出海,https://xixichuhai.com/wise-register/,https://xixichuhai.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-17,1792258629.0
 Claude 注册与 Pro 订阅指南（2026）：支持地区、身份验证、Pro 和 Max 怎么选,希希出海,https://xixichuhai.com/claude-register-pro/,https://xixichuhai.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-17,1792258626.0
@@ -48,4 +49,3 @@ Spring Cloud Gateway 负载均衡优化：从原理到生产实践,框架師,htt
 Docker 镜像层与构建缓存：从原理到生产实践,框架師,https://www.mobaijun.com/posts/1147816945,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-13,1791893509.0
 Spring Boot 启动耗时优化：从原理到生产实践,框架師,https://www.mobaijun.com/posts/3071186539,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-12,1791839140.0
 高并发下的限流与降级：从原理到生产实践,框架師,https://www.mobaijun.com/posts/913789203,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-12,1791819043.0
-双星系统,菲兹克斯喵,https://physnya.top/compact-object/lesson-4-double-star-system/,https://physnya.top/,https://physnya.top/atom.xml,2026-10-12,1791816317.0

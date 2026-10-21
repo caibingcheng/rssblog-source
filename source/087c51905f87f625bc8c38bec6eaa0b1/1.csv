@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+Spring Cloud Netflix 时代的 Ribbon：实现机制与常见误区,框架師,https://www.mobaijun.com/posts/214218731,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-21,1792590383.0
 分布式事务一致性方案实战：从理论到落地的取舍与陷阱,框架師,https://www.mobaijun.com/posts/984076565,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-20,1792535442.0
 Docker 服务发现与负载均衡：从原理到实践的完整指南,框架師,https://www.mobaijun.com/posts/4065689454,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-20,1792476062.0
 Docker Compose 网络通信问题：从配置到排查的完整指南,框架師,https://www.mobaijun.com/posts/3312724917,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-20,1792462266.0
@@ -48,4 +49,3 @@ MySQL 索引失效：从原理到排查的完整思路,框架師,https://www.mob
 【随笔】MySQL 启动失败分析：权限问题与 expire_logs_days 配置错误,框架師,https://www.mobaijun.com/posts/2458057465.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-18,1758214390.0
 【随笔	】🚀 让 docker ps 输出更简洁高效的几种方法,框架師,https://www.mobaijun.com/posts/1680028190.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-01,1756747430.0
 【工具系列】April VarBook：助力开发者的高效命名利器,框架師,https://www.mobaijun.com/posts/1031183677.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-07-17,1752748017.0
-【随笔】Hexo 博客如何识别并阻止使用广告拦截插件的访问者,框架師,https://www.mobaijun.com/posts/3658899822.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-06-30,1751298164.0
