@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+Spring Cloud Gateway 实战：限流策略与雪崩防御,框架師,https://www.mobaijun.com/posts/332429510,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-23,1792765581.0,,
 Nginx 配置性能优化实战：从参数调优到问题排查,框架師,https://www.mobaijun.com/posts/3650388004,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-22,1792710652.0,,
 Spring Boot 模块化设计与微服务实践,框架師,https://www.mobaijun.com/posts/2545208549,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-22,1792696267.0,,
 国产数据库迁移：真正花时间的从来不是搬数据,杜老师说,https://dusays.com/posts/894/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-22,1792684800.0,,
@@ -23,7 +24,7 @@ Spring Boot 模块化设计实践,框架師,https://www.mobaijun.com/posts/44072
 TypeScript 项目结构与代码组织：从混乱到清晰的实战指南,框架師,https://www.mobaijun.com/posts/124605866,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792296367.0,,
 链路追踪：从原理到落地的实战笔记,框架師,https://www.mobaijun.com/posts/2813847268,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792284063.0,,
 JVM 热点代码优化与日志分析实战,框架師,https://www.mobaijun.com/posts/3294204260,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792262738.0,,
-课前分享演讲准备小记,热衷于的博客,https://zooyoo.top/article/71/,https://zooyoo.top/,https://zooyoo.top/rss.xml,2026-10-17,1792260300.0,,
+课前分享演讲准备小记,热衷于的博客,https://zooyoo.top/article/71/,https://zooyoo.top/,https://zooyoo.top/feed,2026-10-17,1792260300.0,,
 2026 年 10 月出海服务存活清单：哪些停了、哪些还能用、哪些别碰,希希出海,https://xixichuhai.com/service-status-202610/,https://xixichuhai.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-17,1792258633.0,,
 Wise 注册教程（2026）：中国身份证能开吗？大陆新用户美元账户的新限制,希希出海,https://xixichuhai.com/wise-register/,https://xixichuhai.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-17,1792258629.0,,
 Claude 注册与 Pro 订阅指南（2026）：支持地区、身份验证、Pro 和 Max 怎么选,希希出海,https://xixichuhai.com/claude-register-pro/,https://xixichuhai.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-17,1792258626.0,,
@@ -48,4 +49,3 @@ Kubernetes 跨云部署方案：从原理到生产实践,框架師,https://www.m
 国庆老家行：朴园、三江营和村里的喷泉,威言威语,https://www.weisay.com/blog/a-national-day-trip-home.html,https://www.weisay.com/blog,https://www.weisay.com/blog/feed,2026-10-15,1792047546.0,,
 可观测性：日志,框架師,https://www.mobaijun.com/posts/1310467705,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-15,1792045828.0,,
 Kubernetes 探针配置踩坑：从原理到生产实践,框架師,https://www.mobaijun.com/posts/4105116270,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-15,1792022448.0,,
-从尊界断踏板到社保“数据找人”：被双向收割的基本盘,Frank笔记,https://frank2019.me/archives/hua-wei-qi-che-she-bao,https://frank2019.me,https://frank2019.me/rss.xml,2026-10-14,1791999446.0,,
