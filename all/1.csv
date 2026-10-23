@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp,test,tags
+Nginx 配置性能优化实战：从参数调优到问题排查,框架師,https://www.mobaijun.com/posts/3650388004,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-22,1792710652.0,,
+Spring Boot 模块化设计与微服务实践,框架師,https://www.mobaijun.com/posts/2545208549,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-22,1792696267.0,,
+国产数据库迁移：真正花时间的从来不是搬数据,杜老师说,https://dusays.com/posts/894/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-22,1792684800.0,,
 Spring Cloud Gateway 雪崩问题排查与优化实践,框架師,https://www.mobaijun.com/posts/3866829610,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-22,1792655753.0,,
 从PHP漏洞聊聊AI时代的网站安全,威言威语,https://www.weisay.com/blog/php-vulnerabilities-in-the-ai-era.html,https://www.weisay.com/blog,https://www.weisay.com/blog/feed,2026-10-22,1792645949.0,,
 Redis 缓存一致性方案对比：从原理到落地的取舍与坑,框架師,https://www.mobaijun.com/posts/1914663179,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-21,1792621556.0,,
@@ -46,6 +49,3 @@ Kubernetes 跨云部署方案：从原理到生产实践,框架師,https://www.m
 可观测性：日志,框架師,https://www.mobaijun.com/posts/1310467705,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-15,1792045828.0,,
 Kubernetes 探针配置踩坑：从原理到生产实践,框架師,https://www.mobaijun.com/posts/4105116270,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-15,1792022448.0,,
 从尊界断踏板到社保“数据找人”：被双向收割的基本盘,Frank笔记,https://frank2019.me/archives/hua-wei-qi-che-she-bao,https://frank2019.me,https://frank2019.me/rss.xml,2026-10-14,1791999446.0,,
-办公电脑集体罢工？老司机教你4招，轻松搞定不开机！,未知文明,https://www.xwenming.com/index.php/202610152359.html,https://www.xwenming.com,https://www.xwenming.com/index.php/feed,2026-10-14,1791995973.0,,
-Redis 分布式锁方案优化实践,框架師,https://www.mobaijun.com/posts/29460953,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-14,1791987685.0,,
-分享一份佳能 PowerShot SX220 HS / SX230 HS 的 Lightroom 镜头矫正文件,无名博客,https://wuminboke.site/uncategorized/canon-sx220-sx230-hs-raw-lens-profile/,https://wuminboke.site,https://wuminboke.site/feed,2026-10-14,1791985022.0,,
