@@ -1,22 +1,5 @@
 title,author,link,home,rss,date,timestamp
-Spring Cloud Gateway 熔断机制与降级策略：从原理到生产实践,框架師,https://www.mobaijun.com/posts/616053845,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792823150.0
-JVM 热点方法优化与监控：从原理到实战,框架師,https://www.mobaijun.com/posts/145082157,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-23,1792793446.0
-Spring Cloud Gateway 实战：重试机制与故障恢复,框架師,https://www.mobaijun.com/posts/2870444440,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-23,1792785967.0
-Spring Cloud Gateway 实战：限流策略与雪崩防御,框架師,https://www.mobaijun.com/posts/332429510,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-23,1792765581.0
-Nginx 配置性能优化实战：从参数调优到问题排查,框架師,https://www.mobaijun.com/posts/3650388004,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-22,1792710652.0
-Spring Boot 模块化设计与微服务实践,框架師,https://www.mobaijun.com/posts/2545208549,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-22,1792696267.0
-Spring Cloud Gateway 雪崩问题排查与优化实践,框架師,https://www.mobaijun.com/posts/3866829610,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-22,1792655753.0
-Redis 缓存一致性方案对比：从原理到落地的取舍与坑,框架師,https://www.mobaijun.com/posts/1914663179,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-21,1792621556.0
-Spring Cloud Gateway 实战：流量分配与雪崩问题排查,框架師,https://www.mobaijun.com/posts/3757840775,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-21,1792611344.0
-Kafka 生产者与消费者性能优化：从原理到生产实践,框架師,https://www.mobaijun.com/posts/2300789056,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-21,1792596364.0
-Spring Cloud Netflix 时代的 Ribbon：实现机制与常见误区,框架師,https://www.mobaijun.com/posts/214218731,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-21,1792590383.0
-分布式事务一致性方案实战：从理论到落地的取舍与陷阱,框架師,https://www.mobaijun.com/posts/984076565,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-20,1792535442.0
-Docker 服务发现与负载均衡：从原理到实践的完整指南,框架師,https://www.mobaijun.com/posts/4065689454,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-20,1792476062.0
-Docker Compose 网络通信问题：从配置到排查的完整指南,框架師,https://www.mobaijun.com/posts/3312724917,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-20,1792462266.0
-Docker 网络优化与容器间通信问题排查,框架師,https://www.mobaijun.com/posts/4283108358,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-20,1792456242.0
-Redis 集群方案优化实践,框架師,https://www.mobaijun.com/posts/3348890028,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-19,1792413368.0
-TypeScript 类型体操的实用边界：从炫技到工程化,框架師,https://www.mobaijun.com/posts/155124617,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-19,1792390245.0
-Spring Boot 模块化设计实践,框架師,https://www.mobaijun.com/posts/440725703,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-19,1792381559.0
+方法不复杂却每次 150ms：用 JFR 找出一直解释执行的热点,框架師,https://www.mobaijun.com/posts/145082157,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792835562.0
 TypeScript 项目结构与代码组织：从混乱到清晰的实战指南,框架師,https://www.mobaijun.com/posts/124605866,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792296367.0
 链路追踪：从原理到落地的实战笔记,框架師,https://www.mobaijun.com/posts/2813847268,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792284063.0
 JVM 热点代码优化与日志分析实战,框架師,https://www.mobaijun.com/posts/3294204260,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792262738.0
@@ -49,3 +32,20 @@ MySQL 索引失效：从原理到排查的完整思路,框架師,https://www.mob
 【随笔】Hexo 博客如何识别并阻止使用广告拦截插件的访问者,框架師,https://www.mobaijun.com/posts/3658899822,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-08,1791464325.0
 【WEB系列】SpringBoot项目安装SSL协议,框架師,https://www.mobaijun.com/posts/1643000683,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-08,1791464112.0
 【随笔】Docker环境下重置Gitea管理员密码,框架師,https://www.mobaijun.com/posts/3592973200,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-08,1791461645.0
+【随笔	】🚀 让 docker ps 输出更简洁高效的几种方法,框架師,https://www.mobaijun.com/posts/1680028190,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-08,1791461389.0
+【随笔】MySQL 启动失败分析：权限问题与 expire_logs_days 配置错误,框架師,https://www.mobaijun.com/posts/2458057465,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-08,1791461377.0
+【随笔】IDEA 多分支并行开发：git worktree 最佳实践,框架師,https://www.mobaijun.com/posts/3802519205,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-08,1791459890.0
+【Git系列】常用Git命令清单,框架師,https://www.mobaijun.com/posts/119849249,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-08,1791459889.0
+【随笔】IDEA 多分支并行开发：git worktree 最佳实践,框架師,https://www.mobaijun.com/posts/3802519205.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-01-31,1769878161.0
+【随笔】Jetbrains 全家桶激活,框架師,https://www.mobaijun.com/posts/532596790.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-28,1759055054.0
+【随笔】Jackson 反序列化报错的解决方案,框架師,https://www.mobaijun.com/posts/3481608192.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-18,1758214805.0
+【随笔】MySQL 启动失败分析：权限问题与 expire_logs_days 配置错误,框架師,https://www.mobaijun.com/posts/2458057465.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-18,1758214390.0
+【随笔	】🚀 让 docker ps 输出更简洁高效的几种方法,框架師,https://www.mobaijun.com/posts/1680028190.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-09-01,1756747430.0
+【工具系列】April VarBook：助力开发者的高效命名利器,框架師,https://www.mobaijun.com/posts/1031183677.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-07-17,1752748017.0
+【随笔】Hexo 博客如何识别并阻止使用广告拦截插件的访问者,框架師,https://www.mobaijun.com/posts/3658899822.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-06-30,1751298164.0
+【工具系列】Navicat 17 导出的 connections.ncx 文件密码解密,框架師,https://www.mobaijun.com/posts/4206896392.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-06-05,1749144204.0
+【随笔】Docker 环境下重置 Gitea 管理员密码,框架師,https://www.mobaijun.com/posts/3592973200.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-05-13,1747129378.0
+【随笔】解决 dynamic-datasource 2.5.6 与 Spring Boot 2.7.7 不兼容问题,框架師,https://www.mobaijun.com/posts/1479088608.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-04-14,1744626416.0
+【随笔】Windows Server 2012 安装 SqlServer 踩坑记录,框架師,https://www.mobaijun.com/posts/3825546266.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-03-28,1743157035.0
+【随笔】如何将任意 Java 程序转换为 Linux 系统服务,框架師,https://www.mobaijun.com/posts/761234883.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-03-05,1741193563.0
+【后端】告别繁琐排序！Java Stream API 一站式解决方案,框架師,https://www.mobaijun.com/posts/2973796368.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-02-27,1740651221.0
