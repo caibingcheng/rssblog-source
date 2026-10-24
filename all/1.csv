@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp,test,tags
+Spring Cloud Gateway 熔断机制与降级策略：从原理到生产实践,框架師,https://www.mobaijun.com/posts/616053845,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792823150.0,,
+JVM 热点方法优化与监控：从原理到实战,框架師,https://www.mobaijun.com/posts/145082157,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-23,1792793446.0,,
+Spring Cloud Gateway 实战：重试机制与故障恢复,框架師,https://www.mobaijun.com/posts/2870444440,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-23,1792785967.0,,
 Spring Cloud Gateway 实战：限流策略与雪崩防御,框架師,https://www.mobaijun.com/posts/332429510,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-23,1792765581.0,,
 Nginx 配置性能优化实战：从参数调优到问题排查,框架師,https://www.mobaijun.com/posts/3650388004,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-22,1792710652.0,,
 Spring Boot 模块化设计与微服务实践,框架師,https://www.mobaijun.com/posts/2545208549,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-22,1792696267.0,,
@@ -46,6 +49,3 @@ Spring Boot 服务冷启动优化实战,框架師,https://www.mobaijun.com/posts
 Kubernetes 跨集群应用部署与负载均衡,框架師,https://www.mobaijun.com/posts/4066970714,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-16,1792120552.0,,
 "Java 虚拟线程实战与陷阱：别被""百万线程""冲昏头脑",框架師,https://www.mobaijun.com/posts/1453518491,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-16,1792111842.0,,
 Kubernetes 跨云部署方案：从原理到生产实践,框架師,https://www.mobaijun.com/posts/969257157,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-15,1792053715.0,,
-国庆老家行：朴园、三江营和村里的喷泉,威言威语,https://www.weisay.com/blog/a-national-day-trip-home.html,https://www.weisay.com/blog,https://www.weisay.com/blog/feed,2026-10-15,1792047546.0,,
-可观测性：日志,框架師,https://www.mobaijun.com/posts/1310467705,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-15,1792045828.0,,
-Kubernetes 探针配置踩坑：从原理到生产实践,框架師,https://www.mobaijun.com/posts/4105116270,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-15,1792022448.0,,

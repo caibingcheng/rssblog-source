@@ -1,4 +1,7 @@
 title,author,link,home,rss,date,timestamp
+Spring Cloud Gateway 熔断机制与降级策略：从原理到生产实践,框架師,https://www.mobaijun.com/posts/616053845,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792823150.0
+JVM 热点方法优化与监控：从原理到实战,框架師,https://www.mobaijun.com/posts/145082157,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-23,1792793446.0
+Spring Cloud Gateway 实战：重试机制与故障恢复,框架師,https://www.mobaijun.com/posts/2870444440,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-23,1792785967.0
 Spring Cloud Gateway 实战：限流策略与雪崩防御,框架師,https://www.mobaijun.com/posts/332429510,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-23,1792765581.0
 Nginx 配置性能优化实战：从参数调优到问题排查,框架師,https://www.mobaijun.com/posts/3650388004,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-22,1792710652.0
 Spring Boot 模块化设计与微服务实践,框架師,https://www.mobaijun.com/posts/2545208549,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-22,1792696267.0
@@ -46,6 +49,3 @@ MySQL 索引失效：从原理到排查的完整思路,框架師,https://www.mob
 【随笔】Hexo 博客如何识别并阻止使用广告拦截插件的访问者,框架師,https://www.mobaijun.com/posts/3658899822,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-08,1791464325.0
 【WEB系列】SpringBoot项目安装SSL协议,框架師,https://www.mobaijun.com/posts/1643000683,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-08,1791464112.0
 【随笔】Docker环境下重置Gitea管理员密码,框架師,https://www.mobaijun.com/posts/3592973200,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-08,1791461645.0
-【随笔	】🚀 让 docker ps 输出更简洁高效的几种方法,框架師,https://www.mobaijun.com/posts/1680028190,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-08,1791461389.0
-【随笔】MySQL 启动失败分析：权限问题与 expire_logs_days 配置错误,框架師,https://www.mobaijun.com/posts/2458057465,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-08,1791461377.0
-【随笔】IDEA 多分支并行开发：git worktree 最佳实践,框架師,https://www.mobaijun.com/posts/3802519205,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-08,1791459890.0
