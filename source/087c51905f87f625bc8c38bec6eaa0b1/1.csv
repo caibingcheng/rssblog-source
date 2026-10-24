@@ -1,5 +1,5 @@
 title,author,link,home,rss,date,timestamp
-方法不复杂却每次 150ms：用 JFR 找出一直解释执行的热点,框架師,https://www.mobaijun.com/posts/145082157,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792835562.0
+熔断器配置了却不生效：Spring Cloud Gateway 熔断降级实录,框架師,https://www.mobaijun.com/posts/616053845,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792835562.0
 TypeScript 项目结构与代码组织：从混乱到清晰的实战指南,框架師,https://www.mobaijun.com/posts/124605866,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792296367.0
 链路追踪：从原理到落地的实战笔记,框架師,https://www.mobaijun.com/posts/2813847268,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792284063.0
 JVM 热点代码优化与日志分析实战,框架師,https://www.mobaijun.com/posts/3294204260,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792262738.0
