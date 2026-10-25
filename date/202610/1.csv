@@ -1,7 +1,8 @@
 title,author,link,home,rss,date,timestamp
+为什么专家缓存救不了稠密模型：16GB 显存跑 27B Dense 模型的推理优化实践,Nicksxs's Blog,https://nicksxs.me/2026/10/25/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%93%E5%AE%B6%E7%BC%93%E5%AD%98%E6%95%91%E4%B8%8D%E4%BA%86%E7%A8%A0%E5%AF%86%E6%A8%A1%E5%9E%8B-16GB%E6%98%BE%E5%AD%98%E8%B7%9127B-Dense%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8E%A8%E7%90%86%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-10-25,1792916100.0
 数据库连接池参数怎么调：从配置到排查的完整思路,框架師,https://www.mobaijun.com/posts/2866296303,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792871744.0
 什么都在涨价的今天,瓦解的生活记事,https://hin.cool/posts/thingsgettingexpensive.html,https://hin.cool/,https://hin.cool/atom.xml,2026-10-24,1792846800.0
-单体拆微服务怎么下刀：模块划分的决策点与常见陷阱,框架師,https://www.mobaijun.com/posts/2545208549,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792835562.0
+拆服务之后钱对不上了：分布式事务的选型与补账实践,框架師,https://www.mobaijun.com/posts/984076565,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792835562.0
 国产数据库迁移：真正花时间的从来不是搬数据,杜老师说,https://dusays.com/posts/894/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-22,1792684800.0
 从PHP漏洞聊聊AI时代的网站安全,威言威语,https://www.weisay.com/blog/php-vulnerabilities-in-the-ai-era.html,https://www.weisay.com/blog,https://www.weisay.com/blog/feed,2026-10-22,1792645949.0
 42. AI 视频剪辑实战：用 Claude Opus 5.5 剪口播长视频，完整工作流教程,翔宇工作流,https://xiangyugongzuoliu.com/42-ai-video-editing-skill/,https://xiangyugongzuoliu.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-21,1792569900.0
@@ -48,4 +49,3 @@ Docker 镜像层与构建缓存：从原理到生产实践,框架師,https://www
 Spring Boot 启动耗时优化：从原理到生产实践,框架師,https://www.mobaijun.com/posts/3071186539,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-12,1791839140.0
 高并发下的限流与降级：从原理到生产实践,框架師,https://www.mobaijun.com/posts/913789203,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-12,1791819043.0
 双星系统,菲兹克斯喵,https://physnya.top/compact-object/lesson-4-double-star-system/,https://physnya.top/,https://physnya.top/atom.xml,2026-10-12,1791816317.0
-Docker 网络配置与优化方案,框架師,https://www.mobaijun.com/posts/2364726171,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-11,1791751233.0
