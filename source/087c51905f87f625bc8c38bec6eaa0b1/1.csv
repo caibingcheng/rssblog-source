@@ -1,7 +1,7 @@
 title,author,link,home,rss,date,timestamp
 别再逐台登录传 jar 了：我用 Node 写了个多服务器 Java 服务自动发布工具,框架師,https://www.mobaijun.com/posts/2694593989,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-26,1793048748.0
 数据库连接池参数怎么调：从配置到排查的完整思路,框架師,https://www.mobaijun.com/posts/2866296303,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792871744.0
-方法不复杂却每次 150ms：用 JFR 找出一直解释执行的热点,框架師,https://www.mobaijun.com/posts/145082157,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792835562.0
+吞吐、延迟、可靠性不可能全要：一次 Kafka 迁移的调优记录,框架師,https://www.mobaijun.com/posts/2300789056,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792835562.0
 TypeScript 项目结构与代码组织：从混乱到清晰的实战指南,框架師,https://www.mobaijun.com/posts/124605866,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792296367.0
 链路追踪：从原理到落地的实战笔记,框架師,https://www.mobaijun.com/posts/2813847268,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792284063.0
 JVM 热点代码优化与日志分析实战,框架師,https://www.mobaijun.com/posts/3294204260,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792262738.0
