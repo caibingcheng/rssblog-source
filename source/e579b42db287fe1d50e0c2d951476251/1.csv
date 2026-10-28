@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+PHP 性能优化，以及用 FastCGI 缓存加速 PHP 页面,杜老师说,https://dusays.com/posts/895/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-28,1793203200.0
 国产数据库迁移：真正花时间的从来不是搬数据,杜老师说,https://dusays.com/posts/894/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-22,1792684800.0
 说说广场 API 0.31.0 版的调用代码说明,杜老师说,https://dusays.com/posts/893/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-16,1792166400.0
 Redis vs Valkey：性能实测对比 + 无缝迁移指南,杜老师说,https://dusays.com/posts/892/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-10,1791648000.0
@@ -17,7 +18,7 @@ WordPress 性能优化实战:从 5 秒加载到 1 秒的蜕变,杜老师说,http
 Hugo 静态博客从零部署:5 分钟搭建自己的个人网站,杜老师说,https://dusays.com/posts/879/,https://dusays.com/,https://dusays.com/atom.xml,2026-07-24,1784908800.0
 图床服务故障修复公告,杜老师说,https://dusays.com/posts/878/,https://dusays.com/,https://dusays.com/atom.xml,2026-07-18,1784390400.0
 周末的 3 种过法,杜老师说,https://dusays.com/posts/877/,https://dusays.com/,https://dusays.com/atom.xml,2026-07-12,1783872000.0
-居家办公 5 个减少分心的动作,杜老师说,https://dusays.com/archives/876/,https://dusays.com/,https://dusays.com/atom.xml,2026-07-06,1783353600.0
+居家办公 5 个减少分心的动作,杜老师说,https://dusays.com/posts/876/,https://dusays.com/,https://dusays.com/atom.xml,2026-07-06,1783353600.0
 给猫拍照的 3 个小技巧,杜老师说,https://dusays.com/posts/875/,https://dusays.com/,https://dusays.com/atom.xml,2026-06-30,1782835200.0
 通勤路上听播客 vs 听音乐的 2 个选择,杜老师说,https://dusays.com/posts/874/,https://dusays.com/,https://dusays.com/atom.xml,2026-06-24,1782316800.0
 会议室投影仪连不上的 3 个排查,杜老师说,https://dusays.com/posts/873/,https://dusays.com/,https://dusays.com/atom.xml,2026-06-18,1781798400.0
@@ -48,4 +49,3 @@ macOS 终端下本地跑 LLM 实测,杜老师说,https://dusays.com/archives/849
 Minecraft 生存服务器来啦「1.21.8 版」,杜老师说,https://dusays.com/archives/845/,https://dusays.com/,https://dusays.com/atom.xml,2026-01-01,1767283200.0
 快速部署 Nexus Terminal 打造高颜值远程管理终端,杜老师说,https://dusays.com/archives/841/,https://dusays.com/,https://dusays.com/atom.xml,2025-12-08,1765209600.0
 DEB 和 RPM 有什么区别,杜老师说,https://dusays.com/archives/840/,https://dusays.com/,https://dusays.com/atom.xml,2025-12-02,1764691200.0
-ima 任务模式邀请码分享,杜老师说,https://dusays.com/archives/839/,https://dusays.com/,https://dusays.com/atom.xml,2025-11-26,1764172800.0

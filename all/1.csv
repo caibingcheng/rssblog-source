@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp,test,tags
+PHP 性能优化，以及用 FastCGI 缓存加速 PHP 页面,杜老师说,https://dusays.com/posts/895/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-28,1793203200.0,,
 JMeter 压测不是拉满线程就完事：场景设计与瓶颈定位的完整思路,框架師,https://www.mobaijun.com/posts/4116522996,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-28,1793182243.0,,
 43. 我让 AI 当导演，从零拍了一集动画短片,翔宇工作流,https://xiangyugongzuoliu.com/43-ai-director-higgsfield/,https://xiangyugongzuoliu.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-28,1793174439.0,,
 AI 视频提示词框架：七类通用填空模板（文生图、参考图改图、角色图、场景图、道具图、分镜、视频）,翔宇工作流,https://xiangyugongzuoliu.com/ai-video-prompt-frameworks/,https://xiangyugongzuoliu.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-28,1793174436.0,,
@@ -9,7 +10,7 @@ AI 视频提示词框架：七类通用填空模板（文生图、参考图改�
 为什么专家缓存救不了稠密模型：16GB 显存跑 27B Dense 模型的推理优化实践,Nicksxs's Blog,https://nicksxs.me/2026/10/25/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%93%E5%AE%B6%E7%BC%93%E5%AD%98%E6%95%91%E4%B8%8D%E4%BA%86%E7%A8%A0%E5%AF%86%E6%A8%A1%E5%9E%8B-16GB%E6%98%BE%E5%AD%98%E8%B7%9127B-Dense%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8E%A8%E7%90%86%E4%BC%98%E5%8C%96%E5%AE%9E%E8%B7%B5/,https://nicksxs.me/,https://nicksxs.me/atom.xml,2026-10-25,1792916100.0,,
 数据库连接池参数怎么调：从配置到排查的完整思路,框架師,https://www.mobaijun.com/posts/2866296303,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792871744.0,,
 什么都在涨价的今天,瓦解的生活记事,https://hin.cool/posts/thingsgettingexpensive.html,https://hin.cool/,https://hin.cool/atom.xml,2026-10-24,1792846800.0,,
-网关重试的安全边界：一次重复提交事故的分析与修复,框架師,https://www.mobaijun.com/posts/2870444440,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792835562.0,,
+流量为什么总打到一个实例上：Gateway 负载均衡机制与调优,框架師,https://www.mobaijun.com/posts/3757840775,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792835562.0,,
 国产数据库迁移：真正花时间的从来不是搬数据,杜老师说,https://dusays.com/posts/894/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-22,1792684800.0,,
 从PHP漏洞聊聊AI时代的网站安全,威言威语,https://www.weisay.com/blog/php-vulnerabilities-in-the-ai-era.html,https://www.weisay.com/blog,https://www.weisay.com/blog/feed,2026-10-22,1792645949.0,,
 42. AI 视频剪辑实战：用 Claude Opus 5.5 剪口播长视频，完整工作流教程,翔宇工作流,https://xiangyugongzuoliu.com/42-ai-video-editing-skill/,https://xiangyugongzuoliu.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-21,1792569900.0,,
@@ -48,4 +49,3 @@ Kubernetes 探针配置踩坑：从原理到生产实践,框架師,https://www.m
 从尊界断踏板到社保“数据找人”：被双向收割的基本盘,Frank笔记,https://frank2019.me/archives/hua-wei-qi-che-she-bao,https://frank2019.me,https://frank2019.me/rss.xml,2026-10-14,1791999446.0,,
 办公电脑集体罢工？老司机教你4招，轻松搞定不开机！,未知文明,https://www.xwenming.com/index.php/202610152359.html,https://www.xwenming.com,https://www.xwenming.com/index.php/feed,2026-10-14,1791995973.0,,
 Redis 分布式锁方案优化实践,框架師,https://www.mobaijun.com/posts/29460953,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-14,1791987685.0,,
-分享一份佳能 PowerShot SX220 HS / SX230 HS 的 Lightroom 镜头矫正文件,无名博客,https://wuminboke.site/uncategorized/canon-sx220-sx230-hs-raw-lens-profile/,https://wuminboke.site,https://wuminboke.site/feed,2026-10-14,1791985022.0,,

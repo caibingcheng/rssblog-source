@@ -1,4 +1,5 @@
 title,author,link,home,rss,date,timestamp
+PHP 性能优化，以及用 FastCGI 缓存加速 PHP 页面,杜老师说,https://dusays.com/posts/895/,https://dusays.com/,https://dusays.com/atom.xml,2026-10-28,1793203200.0
 JMeter 压测不是拉满线程就完事：场景设计与瓶颈定位的完整思路,框架師,https://www.mobaijun.com/posts/4116522996,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-28,1793182243.0
 43. 我让 AI 当导演，从零拍了一集动画短片,翔宇工作流,https://xiangyugongzuoliu.com/43-ai-director-higgsfield/,https://xiangyugongzuoliu.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-28,1793174439.0
 AI 视频提示词框架：七类通用填空模板（文生图、参考图改图、角色图、场景图、道具图、分镜、视频）,翔宇工作流,https://xiangyugongzuoliu.com/ai-video-prompt-frameworks/,https://xiangyugongzuoliu.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-28,1793174436.0
@@ -20,7 +21,7 @@ AI 视频提示词框架：七类通用填空模板（文生图、参考图改�
 TypeScript 项目结构与代码组织：从混乱到清晰的实战指南,框架師,https://www.mobaijun.com/posts/124605866,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792296367.0
 链路追踪：从原理到落地的实战笔记,框架師,https://www.mobaijun.com/posts/2813847268,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792284063.0
 JVM 热点代码优化与日志分析实战,框架師,https://www.mobaijun.com/posts/3294204260,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792262738.0
-课前分享演讲准备小记,热衷于的博客,https://zooyoo.top/article/71/,https://zooyoo.top/,https://zooyoo.top/feed,2026-10-17,1792260300.0
+课前分享演讲准备小记,热衷于的博客,https://zooyoo.top/article/71/,https://zooyoo.top/,https://zooyoo.top/rss.xml,2026-10-17,1792260300.0
 2026 年 10 月出海服务存活清单：哪些停了、哪些还能用、哪些别碰,希希出海,https://xixichuhai.com/service-status-202610/,https://xixichuhai.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-17,1792258633.0
 Wise 注册教程（2026）：中国身份证能开吗？大陆新用户美元账户的新限制,希希出海,https://xixichuhai.com/wise-register/,https://xixichuhai.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-17,1792258629.0
 Claude 注册与 Pro 订阅指南（2026）：支持地区、身份验证、Pro 和 Max 怎么选,希希出海,https://xixichuhai.com/claude-register-pro/,https://xixichuhai.com/,https://xiangyugongzuoliu.com/latest/rss,2026-10-17,1792258626.0
@@ -48,4 +49,3 @@ Kubernetes 探针配置踩坑：从原理到生产实践,框架師,https://www.m
 从尊界断踏板到社保“数据找人”：被双向收割的基本盘,Frank笔记,https://frank2019.me/archives/hua-wei-qi-che-she-bao,https://frank2019.me,https://frank2019.me/rss.xml,2026-10-14,1791999446.0
 办公电脑集体罢工？老司机教你4招，轻松搞定不开机！,未知文明,https://www.xwenming.com/index.php/202610152359.html,https://www.xwenming.com,https://www.xwenming.com/index.php/feed,2026-10-14,1791995973.0
 Redis 分布式锁方案优化实践,框架師,https://www.mobaijun.com/posts/29460953,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-14,1791987685.0
-分享一份佳能 PowerShot SX220 HS / SX230 HS 的 Lightroom 镜头矫正文件,无名博客,https://wuminboke.site/uncategorized/canon-sx220-sx230-hs-raw-lens-profile/,https://wuminboke.site,https://wuminboke.site/feed,2026-10-14,1791985022.0
