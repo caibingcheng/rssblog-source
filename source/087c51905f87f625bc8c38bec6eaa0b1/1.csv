@@ -1,7 +1,10 @@
 title,author,link,home,rss,date,timestamp
+JMeter 压测不是拉满线程就完事：场景设计与瓶颈定位的完整思路,框架師,https://www.mobaijun.com/posts/4116522996,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-28,1793182243.0
+事务消息落地的三关：半消息、回查与幂等,框架師,https://www.mobaijun.com/posts/343632262,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-28,1793162763.0
+从手工登录到一条命令：Ansible 批量运维的落地笔记,框架師,https://www.mobaijun.com/posts/3157023447,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-27,1793138136.0
 别再逐台登录传 jar 了：我用 Node 写了个多服务器 Java 服务自动发布工具,框架師,https://www.mobaijun.com/posts/2694593989,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-26,1793048748.0
 数据库连接池参数怎么调：从配置到排查的完整思路,框架師,https://www.mobaijun.com/posts/2866296303,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792871744.0
-吞吐、延迟、可靠性不可能全要：一次 Kafka 迁移的调优记录,框架師,https://www.mobaijun.com/posts/2300789056,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792835562.0
+网关雪崩的一次完整复盘：从 Zuul 迁到 Spring Cloud Gateway,框架師,https://www.mobaijun.com/posts/3866829610,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-24,1792835562.0
 TypeScript 项目结构与代码组织：从混乱到清晰的实战指南,框架師,https://www.mobaijun.com/posts/124605866,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792296367.0
 链路追踪：从原理到落地的实战笔记,框架師,https://www.mobaijun.com/posts/2813847268,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-18,1792284063.0
 JVM 热点代码优化与日志分析实战,框架師,https://www.mobaijun.com/posts/3294204260,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2026-10-17,1792262738.0
@@ -46,6 +49,3 @@ MySQL 索引失效：从原理到排查的完整思路,框架師,https://www.mob
 【工具系列】April VarBook：助力开发者的高效命名利器,框架師,https://www.mobaijun.com/posts/1031183677.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-07-17,1752748017.0
 【随笔】Hexo 博客如何识别并阻止使用广告拦截插件的访问者,框架師,https://www.mobaijun.com/posts/3658899822.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-06-30,1751298164.0
 【工具系列】Navicat 17 导出的 connections.ncx 文件密码解密,框架師,https://www.mobaijun.com/posts/4206896392.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-06-05,1749144204.0
-【随笔】Docker 环境下重置 Gitea 管理员密码,框架師,https://www.mobaijun.com/posts/3592973200.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-05-13,1747129378.0
-【随笔】解决 dynamic-datasource 2.5.6 与 Spring Boot 2.7.7 不兼容问题,框架師,https://www.mobaijun.com/posts/1479088608.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-04-14,1744626416.0
-【随笔】Windows Server 2012 安装 SqlServer 踩坑记录,框架師,https://www.mobaijun.com/posts/3825546266.html,https://www.mobaijun.com/,https://www.mobaijun.com/atom.xml,2025-03-28,1743157035.0
